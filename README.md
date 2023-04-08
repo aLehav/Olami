@@ -13,6 +13,27 @@
 - Purpose:
     - Generate a list of scraped links from an example site.
 
+### <p> Tag Scraper
+
+- Running:
+    - willm_scraper_passover.ipynb
+- Files:
+    - `passover_text.csv`
+- Purpose:
+    - Scrapes the HTML content of a specific website, extracts the text from all the <p> tags, store the text in a pandas dataframe, and then saves the dataframe as a CSV file.
+
+### USC Website Scraper and Link Sorter
+
+- Running:
+    - willm_scraper_usc.ipynb (1)
+    - file_sorter.ipynb (2)
+- Files:
+    - `file_sorter_output_gpt.csv`
+    - `daily_trojan_june_2009_links.csv`
+- Purpose:
+    - (1) Scrapes a website for all relevant links to the 2009 editions of the Daily Trojan newspaper, stores them in a set to avoid duplicates, creates a DataFrame from the list of links, and saves it as a CSV file.
+    - (2) Categorizes links generated from (1) into three lists based on their file extensions: (I) ".txt" & ".xml", (II)".pdf", (III) all other file extensions are stored in other_links.
+
 ## Past Work
 
 - Twitter Scraping:
