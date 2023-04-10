@@ -1,0 +1,584 @@
+Student researchers in the Viterbi School of Engineering are putting math and medicine hand in hand to better track the spread of lung cancer in the human body.
+The project, which was started   four years ago by researchers from USC, Scripps Clinic, The Scripps Research Institute, University of California, San Diego Moores Cancer Center and Memorial Sloan-Kettering in New York, aims to use mathematical models and algorithms created by Viterbi in order to analyze the science and medicine behind cancer cell growth.
+Viterbi Professor of Aerospace and Mechanical Engineering Paul Newton, the lead and corresponding author of this study, said the researchers hope to build computational and mathematical models to design clinical trials and inform doctors of different kinds of treatment scenarios.
+“The ultimate goal [of this research] is to develop computer simulations and mathematical models that are typically designed for individual patients,” Newton said. “We want models where we take data from an individual patient, which would be something like blood samples and circulating tumor cell counts and also their whole genome, and we would like to have models of each individual person to see how they will develop over time.”
+Newton said that the current model is a ensemble-based model that is based on thousands of patients. The ultimate goal is to get individual data and do patient-specific modeling.
+“This is the beginning stage of developing more sophisticated computational models for the spread of cancer,” Newton said. “We have the first stage of this whole project, which is a five-year stage.”
+Newton said the project faces several challenges, namely translating the research to actual treatments.
+“One [challenging aspect] is to overcome the language barrier between the medical world and the science and engineering world,” Newton said. “In general, doctors do not think the way scientists and engineers think. They focus on the treatment of the disease. Also, [another challenge is] to overcome the differences in kinds of questions a doctor would ask versus the kinds of questions an applied mathematician like me would ask.”
+Newton said that two graduate students and two undergraduate students from Viterbi are participating in this project as well.
+Angie Lee, a graduate student in aerospace and mechanical engineering who is participating in the project, said the project is significant for the advancement of cancer research because engineers and applied mathematicians can bring together information from various disciplines to better understand how cancer affects patients.
+“I build models of circulating tumor cells in flow in the bloodstream,” Lee said. “It’s been exciting to witness how my models can assist cell biologists, experimentalists and even physicians in understanding the flow physics of various cancer processes in the body.”
+Though Lee said some people find it strange that an engineer is doing cancer research, she noted that the interdiscipinary research opportunity, and the project’s pragmatic benefits were compelling on a personal level.
+“This project first caught my eye as something that would be both useful and enjoyable throughout my tenure at USC,” Lee said. “I didn’t want to end up with a project that I didn’t enjoy, and it was an added bonus to work on something that could be useful on a very large scale.”
+Mher Almasian, a junior majoring in civil engineering who worked on the project, said combining engineering and medicine could not just save time but also money.
+“The central concept behind all fields of engineering is not just being able to find solutions, but being able to do so given various constraints and doing it in the most efficient and cost-effective manner,” Almasian said. “Applying engineering and math to the field of medicine would naturally lead to the knowledge and resources available in medicine being applied in the most effective and efficient way.”
+Mary Stepanyan, a senior majoring in human development and aging, said her work on the project has shown her first hand how important interdisciplinary research in medicine.
+“It’s important to use different areas of study, such as math or engineering, in medicine if it could lead to more efficient ways of studying human health disease,” Stepanyan said. “This study is a great example of how people can combine different areas of study and improve the well-being of human health in the future.”
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Justice Albert Louis Sachs, a legendary human rights activist from South Africa, asserted his unwavering belief in equality and justice Thursday to students and faculty at a Visions and Voices-affiliated event at the Gould School of Law.
+As part of the Allen Neiman and Alan Sieroty Lecture in civil liberties program, Sachs led a discussion about using the law to peacefully restore order instead of resorting to violence.
+Dignified · Justice Albert Louis Sachs of South Africa spoke to students Thursday about the importance of non-violence in a democratic society. – Ralf Cheung | Daily Trojan
+“The thing that kept us going, that enabled us to survive was the belief in humanity,” Sachs said. “That is far more powerful than all the instruments of destruction.”
+Born in Johannesburg, South Africa, Sachs was appointed as a judge on the Constitutional Court of South Africa in 1994 by Nelson Mandela and served until his retirement in 2009. In 2005, Sachs gained international attention when the court overthrew the statute that defined marriage to be between a man and a woman.
+As an advocate for progressive politics and egalitarianism, Sachs said he faced violently radical opponents who almost cost him his life. The room grew silent as Sachs described waking up after a car bomb detonated inside his car, destroying his right arm and his sight in one eye.
+Despite the loss, Sachs said the attack only strengthened his fight for justice and equality in South Africa. Though some supporters vowed that they would seek revenge for what the car bombers did with violence, Sachs discouraged this.
+“What kind of vengeance is that?” Sachs said. “If we get democracy in South Africa, that will be my soft vengeance.”
+David Jolivet, a second-year law student, said that Sachs’ physical disability represented his effort and commitment to his cause.
+“I think it’s almost symbolic of the sacrifices that he made,” Jolivet said. “He carries around that reminder wherever he goes, and yet he is still able to forgive, and I thought that was pretty powerful.”
+Sachs said that forgiveness is a powerful component of his political beliefs.
+Sachs said he is opposed to using torture to punish those who violate human rights and instead supports public hearings of the Truth and Reconciliation Commission, in which perpetrators of violence in South Africa publicly state their crimes as a form of punishment and a way to request amnesty from prosecution.
+Allison Scott, a second-year law student, said Sachs’ support for restorative justice is a very “un-American” idea but is important to understanding our legal system.
+“If we don’t listen to other people who have a different perspective, then we’ll never re-evaluate or confirm certain values that our legal system might have,” Scott said.
+Joel Frost-Tift, a second-year law student, said the event made him think about using his education to support those who are unrepresented.
+“This event was a reminder of what you can choose to do with your law degree,” Frost-Tift said. “The power of your knowledge can be used to help underrepresented populations, just like Justice Sachs has done.”
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Brandon Spencer, 20, the suspect in a shooting that occurred near the Ronald Tutor Campus Center on Oct. 31, pled not guilty to four counts of attempted murder Thursday during his felony arraignment, according to a spokeswoman at the Los Angeles County District Attorney’s Office.
+During a March 12 preliminary hearing, a Los Angeles County judge determined that there was enough evidence in Spencer’s case to proceed to an arraignment. If convicted, Spencer could face a sentence of life in prison.
+Spencer, unaffiliated with the university, was charged with four counts of attempted murder on Nov. 5 after allegedly open fire at an on-campus Halloween party. The party was hosted by the Black Student Assembly and promoted by LA Hype. Several students were in attendance, Daily Trojan reported on March 13. Four people, unaffiliated with the university, suffered from serious injuries. Spencer allegedly opened fire after getting into a verbal dispute with one of the victims, Daily Trojan reported on Nov. 5.
+Spencer’s pre-trial date is scheduled to take place on April 30.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+USC Concerts Committee has announced that rapper Big Sean, DJ A-Trak and the collaboration of Travis Barker (of Blink-182) and Mix Master Mike (of the Beastie Boys) will headline the Springfest music festival.
+Big reveal · Students gathered near Tommy Trojan on Thursday to hear Concerts Committee announce the names of the Springfest headliners. — Maddy Campion | Daily Trojan
+The annual musical festival, which is set to take place on April 6 on McCarthy Quad, features seven other acts and bands, including Walk the Moon and Capital Cities. The other acts were revealed in two teaser videos posted online this week.
+Sean Michael Anderson, who performs under the stage name Big Sean, released his first studio album, Finally Famous, in 2011 to positive reviews. He has collaborated with many hip-hop artists, including Kanye West and Tyga.
+Alain Macklovitch, who performs under the stage name A-Trak, is an award-winning Canadian DJ and turntablist who has collaborated with artists ranging from Kid Cudi to Swedish House Mafia. Many of his mixes have been featured in movies, including Project X.
+Barker reached fame as a drummer in the rock band Blink-182 and released his first solo album, Give the Drummer Some, in 2011. In 2011, Barker teamed up with Michael Schwartz, aka Mix Master Mike, an award-winning DJ and turntablist who has won the DMC World Championships and rose to mainstream fame as a contributing member of acclaimed rap group the Beastie Boys.
+The executive of Concerts Committee Bryan Leong said the committee put much consideration into the selection of the headliners.
+“This year we wanted to go with something more diverse and cover all the main genres of music,” Leong said. “When we picked the headliners, we wanted to make sure we covered all these genres so that students will be able to experience and be exposed to different types of music. Big Sean brings in hip hop, Walk the Moon and Capital Cities represent the indie and Travis Barker and Mix Master Mike are two rock icons.”
+The rest of the lineup for Springfest includes Faith Tucker, Mora Mora, Y Luv, Culprit, Papa and SB Babyy.
+For the first time, Springfest will be held with the Black Student Assembly’s annual fashion festival and concert Gearfest, which currently features performers Rippy Austin and Rhyon Brown. The executive director of BSA Lamar Gary said they are expected to announce the headliners for Gearfest next week.
+Program Board is anticipating the largest Springfest attendance to date because of the merge, according to a press release.
+“We are turning Springfest into not just a festival, but a music and arts festival,” Leong said. “It’s amazing how Gearfest is going to bring a large daytime audience to Springfest. On top of that, since we’re going to save a lot on production costs by collaborating, Gearfest will have a much bigger musical headliner who hasn’t been announced yet.”
+The two festivals, which will begin at 11:30 a.m., will feature student activities, such as a how-to-DJ tent and a vinyl painting booth. Food trucks will also be present on the quad.
+Many students said they were excited for the headliners because the artists represented many genres.
+“As someone who loves all types of music, I am impressed that they got such a wide range of big-name performers,” said Jackson Mandelkorn, a junior majoring in international relations. “Mix Master Mike is one of the greatest turntablists ever and is still performing long after The Beastie Boys are over. Big Sean is a big-name pop/rap artist and also one of the best rappers out there — he is on Kanye’s label right now. A-Trak is a giant name in EDM, and his label Fool’s Gold is huge.”
+Though pleased with the Springfest headliners, other students said they felt the timing of the release dampened their anticipation.
+“The lineup came out so late — granted, it takes a lot of time to plan, I’m sure, but a lot of people still don’t even know [Springfest is] next week,” said Neriah Yue, a sophomore majoring in international relations. “I think more people would be excited about it if the lineup was released earlier.”
+The festival is free to students, faculty and staff and funding for the event comes from Program Board’s student-programming fees and sponsorships. Attendees must present university identification to enter the event. Because of the new security policies that went into effect in January, this is the first year the festival will be limited to USC students, faculty and staff.
+But regardless of charge, some said the concert remains a staple for student life.
+“I’m a senior and I’ve gone to Springfest every year,” said Nethika Ariyasinghe, a senior majoring in biomedical engineering. “It’s a really good program that USC puts on for us.”
+ 
+Rebecca Dancer and Yasmeen Serhan contributed to this report.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Looking to build on a strong showing at the Trojan Invitational last week, the No. 8 USC men’s and No. 23 women’s track and field teams will compete in two meets: the Stanford Invitational in Palo Alto, Calif., and the Cal-Nevada championships in La Jolla, Calif.
+USC distance athletes will compete in the Stanford Invitational, and another set of runners and throwers will show their mettle in the Cal-Nevada championships. Both meets will commence today and continue through Saturday.
+The Trojans enter these meets coming off a 10-event win, as well as wins in the men’s and women’s hammer throw, at Cromwell Field last weekend. As the season reaches its midpoint, the men’s and women’s teams are taking advantage of every opportunity to set high marks and produce strong performances going into the rest of the season.
+“This is the time where we are trying to race and compete; run, jump and throw,” USC Director of Track and Field Ron Allice said. “This is the time to get good marks and standards, and progress towards the best we can be in April, May and June.”
+Five of USC’s middistance athletes will join more than 3,300 athletes and 100 collegiate teams at Cobb Track & Angell Field for the 29th annual Stanford Invitational.
+On the men’s side, sophomore Myles Andrews will race the 800m and senior Eric Battles will compete in the 1500m. Freshman Katerina Berdousi will run the 3000m and senior Shelby Buckley and sophomore Erica Capellino will represent the women’s team in the 800m and 1500m.
+While the distance athletes are competing in the north, the men’s and women’s sprinters and throwers will be taking on 29 schools at Triton Track and Field Stadium. The Trojans will compete against 27 other California schools as well as UNLV and Nevada. The event will begin on Friday at noon with the men’s hammer, and continue through mid-afternoon on Saturday.
+In addition to the two weekend meets, the team jump-started the week with several athletes competing in the decathlon at the 17th annual Cal Multi-Events Meet in Berkeley, Calif. The event included solid performances by junior Viktor Fajoyomi and sophomore Jemal Williams on the men’s team, and sophomore Kiana Henry on the women’s team. Several of the competitors did not have previous decathlon experience, including Fajoyomi.
+“Fajoyomi is our high jump, triple jumper,” Allice said. “[We’re] converting him to see if he can do a decathlon. This is kind of an experiment.”
+After completing their races this weekend, the teams have their sights set on a plethora of critical, and greatly anticipated, relays and meets.
+“After this weekend, we will come back and get ready for the big push,” Allice said.
+The team will strive to continue its momentum with the Florida Relays next week, as well as a two-day invitational at CSU Long Beach. Both competitions will help the team prepare for the Mt. San Antonio College Relays and the annual highly coveted USC-UCLA dual meet, where the USC and UCLA teams go head-to-head.
+“The UCLA dual meet is one of the most watched and interesting meets of the year,” Allice said.
+The team has a long road of racing, jumping and throwing ahead, but Allice is confident that each meet will prove valuable in helping his athletes get in optimal condition going into the bigger competitions and NCAA championships.
+“At this time, we are trying to improve on fitness levels and performance levels,” Allice said.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+To say that the USC women’s water polo team has gotten off to a strong start this season might be the understatement of the year.
+The squad has sped off to an undefeated 16-0 record, but the undefeated mark isn’t even the most impressive stat about this historic beginning. The margin of victory against ranked opponents is an absurd 7.5 goals per game. That includes victories against then-top-ranked Stanford, current No. 3 Arizona State and crosstown rival No. 4 UCLA.
+The Women of Troy continued their dominance this past Saturday at No. 8 Hawai’i, winning the contest 15-7 behind a strong second half led by junior Monica Vavic — who scored four goals during the third quarter alone — and junior goalie Flora Bolonyai, who recorded 12 total saves.
+Juniors Colleen O’Donnell, Hannah Buckling and co-captain Kaleigh Gilchrist each added two goals. Freshmen Annie Espar and Emilie Myers, sophomore Eike Daube, senior Constance Hiller and junior Kelly Mendoza also  tacked on a goal apiece to secure the victory.
+In light of their efforts, Vavic and Espar were named Mountain Pacific Sports Federation players of the week, and Buckling earned MPSF newcomer of the week honors.
+With this high-powered and unselfish offense, it’s not surprising to see USC at the top of both the MPSF standings and the national rankings. These accolades, however, have not been enough to satisfy this driven group.
+“We’re always reminding ourselves of the big picture,” Gilchrist said. “Our goal is to win the NCAA national championship.”
+It certainly seems as if the Women of Troy are more than capable of achieving that goal this season. Led by Vavic, who is leading the conference with more than three goals a game, the offense is full of weapons that can score at any time, often in bunches.
+Along with this offensive prowess, however, the team knows that it will also have to keep opponents out of the net in order to remain successful. Senior co-captain Dominique Sardo in particular understands the importance of a strong defense.
+“The offense will come,” Sardo said. “But if we focus on defense, that’s what’s going to get us [to the championship].”
+Anchored in the goal by Bolonyai, the defense has come to play this season, holding opponents to an average of 4.9 goals per game. Compared to the pace the Women of Troy set on offense — an average of 15.8 goals per game — this year’s team seems to have found a formula that works.
+This Saturday, USC heads up north to Bakersfield, where it will face two unranked opponents in Cal State Bakersfield and Brown University. CSU Bakersfield (8-17) has not won a game yet in MPSF conference play, and Brown (11-11) is leaving its home in Providence, R.I., to take on the Women of Troy in a non-conference matchup. Though the opponents aren’t ranked nationally, the team knows not to take them lightly.
+“Every game, we have to come in with the same mentality,” Gilchrist said. “Whether it’s a No. 1 seed or not, we’re going to go in and take care of business.”
+Playing two games in the same day is nothing new for this squad, which has played 12 of its 16 previous games in the doubleheader format. Against their Saturday opponents, the Women of Troy hold a combined 7-0 all-time record, including a 23-5 win over CSU Bakersfield last season at home.
+As USC moves into its last few games of the regular season, fans should keep an eye on three players as they try to reach the 100-goal mark for their collegiate careers. Vavic (89 goals), Gilchrist (86 goals) and Sardo (82 goals) are all gunning for the milestone before the season ends.
+On Saturday, the Women of Troy will take on CSU Bakersfield at noon and follow that up against the Brown Bears immediately afterwards at 1:30 p.m.
+Next week, USC heads to Westchester, Calif., for a match against Loyola Marymount. Two days later, the team faces off against UC Irvine on April 6 before it gets a much-needed week off from play.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+It’s been 16 days since the USC men’s basketball team’s season ended in the MGM Grand Garden Arena in Las Vegas against a terrible Utah team at the Pac-12 tournament.
+The Trojans, who had been playing well under interim head coach Bob Cantu, stumbled toward the finish line, losing five of its last seven games. A loss at Washington State also led to a pair of suspensions after a fight broke out at a bar following the game in Spokane, Wash.
+A picture-perfect season, to say the least.
+But since former USC head coach Kevin O’Neill was fired on Jan. 14, the question of who the next Trojans’ coach will be has remained up in the air, unsettled and lacking closure until … wait, we still don’t know.
+Isn’t it about time these guys get a leader?
+Northwestern hired a Duke assistant to lead its team on Wednesday. Shaka Smart from Virginia Commonwealth signed a 10-year extension to stay at the school after being courted by UCLA. USC’s best hope was Jamie Dixon of Pittsburgh, who was thought to be the next man in charge. Naturally, he signed a 10-year extension to stay with the Panthers.
+Is the USC basketball coaching position that unattractive? Is it cursed? Has there been little effort to make a hire? Who knows?
+The Trojans need to make a splash to get the program on track — consecutive losing seasons are embarrassing. There are no more excuses: The John McKay Center is one of the top training facilities in college sports. The Galen Center is a great arena and one of the better ones in the conference. Southern California is an attractive place to attend school. So, what’s the holdup on a coach?
+I could understand if O’Neill had been fired after the Pac-12 tournament — then it would make sense that a coach hasn’t been hired yet.
+But he wasn’t. He was fired months ago, and since then a coaching search has supposedly been underway. Where’s the progress?
+UCLA has already been openly rejected by a coach, but at least the Bruins made an offer. If Northwestern, who has never made the NCAA tournament in its men’s basketball history, was able to find a coach in less than two weeks after firing its coach, USC sure as heck should be able to land one.
+Maybe Pat Haden and the gang are waiting for the right coach to come up, which is reasonable in theory. But the fact of the matter is that it doesn’t really work like that. Coaches get snatched up by other programs quickly, or the schools they’re at give them a huge deal that prevents them from leaving for other  pastures. If you wait, you lose. Everyone, after all, wants Gonzaga coach Mark Few, Florida Gulf Coast coach Andy Enfield, Butler’s Brad Stevens and VCU’s Smart.
+With three of those four coaches already out of the NCAA tournament, why the delay? And if the coaches of mid-major schools stay put? Pull an assistant away from a big-time program and hope for the best like Northwestern did. Not having a permanent coach for the last two months has not been good for the program.
+A program in flux is a program that is destined to fail. What does that say about stability to recruits? Or, worse yet, what does it say to fans and supporters? It says either, “We’re waiting around” or “No one wants this job.” Neither is a particularly good update, especially the latter.
+Whatever the reason for not having a coach, this can’t go on any longer. The players need to know who is going to lead them moving forward. Recruits need to know who is going to be wooing them during the next few months. Fans need a figure to place their confidence in.
+Waiting around is not going to accomplish these things. Either make a move for a hot name or poach someone from a coaching staff. To have two months pass and still not have a coach? That’s not going to fly in Troy; that’s for sure.
+“Goal Line Stand” runs Fridays. To comment on this story, email Michael Katz at katzml@usc.edu or visit dailytrojan.com.
+USC will hire Syracuse’s assistant Mike Hopkins as their next head coach. No announcement has been made since the Orange are still dancing. 
+Do you guys do your research before writing articles?
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+After dropping the first two matches on Thursday against No. 2 Long Beach State, the No. 4-ranked Women of Troy battled back to tie up the score, but ultimately could not overcome the 49ers, who took the deciding match to capture a 3-2 win.
+Incomplete comeback · Junior Kirby Burnham (above) and graduate student Stevi Robinson were unable to win the game’s deciding match. — William Ehart | Daily Trojan
+In similar fashion to the Pepperdine match, the Women of Troy (9-4) would once again get behind early, going down 2-0 just 30 minutes into dual play.
+In those matches, the No. 4-ranked USC pair of senior Natasa Siljkovic and junior Brooke Fournier fell in straight sets 21-14, 21-10 to the 49ers’ Lauren Minkel and Jocelyn Neely. In flight five, Long Beach State’s Janisa Johnson and Tyler Jackson defeated USC’s sophomore Alexa Stonish and junior Sam Hirschmann in straight sets, 21-15, 21-19, behind 10 combined aces from the 49er pair.
+Long Beach State (7-1) looked to clinch early in the No. 3-ranked match and, after winning the first set soundly, 21-14, this appeared to be the case. However, the resilient USC pair of sophomores Eve Ettinger and Bria Russ would rally back to win the second set 21-18 behind eight kills in the set by Russ. They would then hold off the 49ers’ Delainey Ainger-Swesey and Libby Fontanilla in the third set, winning 15-13 to capture the point for the Women of Troy and keep them alive in the team match.
+The momentum would then carry over to the second flight, where USC’s senior Katie Fuller and freshman Cinnamon Sary defeated Long Beach State’s Bre Mackie and Chelsea Cabrajac in straight sets 22-20, 21-18, leaving it down to the top flight to decide the dual.
+In the deciding match, the top-ranked USC pair of graduate student Stevi Robinson and junior Kirby Burnham dropped the first set, 21-17, to Long Beach State’s All-American duo of Catlin Ledoux and Tara Roenicke. But Robinson and Burnham recovered to win the second set by the same score and carried that momentum into the third set.
+They captured a 4-1 edge early and then held an 8-5 lead before Long Beach State pulled back to tie the set at 12. Ultimately, the 49ers would take a 14-13 lead and not give it back, going on to win 16-14 after an attempt by Robinson sailed just long.
+“Unlike against Pepperdine, we stayed in the match,” USC head coach Anna Collier said. “We just couldn’t pull this one out.”
+In the match, Robinson led the USC effort with 24 kills; Ledoux had led for the 49ers with 24 as well.
+With the loss, USC now drops to 0-2 on the season against Long Beach State, losing both duals narrowly by a score of 3-2. USC also remains winless against teams ranked in the top three in the nation.
+The Women of Troy will have some time off in order to prepare for the top-ranked Pepperdine Waves, who defeated USC at home earlier this week 4-1 to keep their undefeated winning streak alive. The Women of Troy will be on the road this time, as they head up to Malibu to play the Waves on April 6.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The USC football team practiced with full contact for the first time Thursday. This was easily the Trojans’ most energetic practice this spring and the energy translated into tough, intense play on both sides of the ball.
+Rapidly improving · Freshman early admit quarterback Max Browne (above) threw two touchdown passes during Thursday’s full-pads practice, including one to junior wide receiver George Farmer (not pictured). — Austin Vogel | Daily Trojan
+The Trojans were without the services of junior wide receiver Marqise Lee as well as senior running back Silas Redd. Though Lee is slated to return within the next two weeks, Redd is expected to miss practice until fall.
+Redd’s absence has led to increased reps for the other running backs on the team, but it was true freshman and early-admit running back Justin Davis who made his presence felt on the practice field.
+Davis, who broke his finger prior to spring break, had not seen much action on the field but returned in a big way Thursday, exploding for two long touchdowns during contact drills. His efforts earned him MVP honors for the practice from head coach Lane Kiffin.
+Davis praised Kiffin’s efforts in his development from a runner who ran purely off physical ability to a more cerebral back who relies on technique and reading blocks.
+“College is 10 steps harder than high school,” Davis said. “In high school, I just got the ball and ran to the open hole. But now it’s way more technical. Those holes close up so quick — you’ll get a backside linebacker coming and he’s ready to clean your clock.”
+Thursday was also a strong showing for Davis’ fellow freshman, quarterback Max Browne. After throwing two interceptions in a shaky practice two weeks prior, Browne had two deep touchdown throws Thursday, including a tight-spiraling rainbow that fell into the mitts of junior wide receiver George Farmer. Kiffin expressed pleasure with Farmer’s progress as well.
+“We need George to make the hard plays down the field,” Kiffin said. “To go up and get the ball, take it away and be physical. We know how fast he is, we know he can run by people, but you gotta make those plays and he’s doing that, which is great.”
+Despite all the progress on the offensive side of the ball, Thursday was another showcase for the defense. Freshman safety Su’a Cravens played tirelessly in first-team reps and turned in another strong effort in practice.
+“Today there was a lot more intensity,” Cravens said. “Coach told us before practice we’re going live. Going live means we’re going to hit, so the whole defense was hyped up.”
+The incoming freshman class as a whole seemed significantly more comfortable. Cravens’ defensive teammate and freshman defensive tackle Kenny Bigelow was also impressive in his reps.
+“I’m definitely starting to feel more comfortable,” Bigelow said. “I’m getting acclimated to the system so it’s allowing me to play faster and more physical.”
+The defense seemed to be gelling as a unit — toward the end of a high-energy practice, the first team cheered on the second unit as the latter made some key stops in the red zone during full-contact run-throughs. Kiffin pointed to the leadership of returning players as being partially responsible for the days’ defensive intensity. The efforts of redshirt junior linebacker Hayes Pullard have especially been noticeable.
+“I think it started to happen in the bowl practices — I think [Pullard] made the decision that this was going to be his defense,” Kiffin said. “He made a decision to be more vocal and you can see him taking over.”
+After a rough start to spring that has been characterized with injuries to some of the team’s most talented players, the identity of the football team — especially its intense, physical defense — seems to finally be taking shape.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The market has finally started to pick up. Oz the Great and Powerful has been on a great run, The Croods opened to a strong $44.7 million last weekend (and should repeat a lot of business with the Easter holiday weekend) and Olympus Has Fallen surprised with a $30.5 million, the best opening for an action film this year (despite CGI that looked like a PS2 game with an overdose of anti-aliasing).
+This Easter weekend does have a summer-esque lineup, with G.I. Joe: Retaliation, the new film based on the classic action figure franchise; The Host, the adaptation of Stephenie Meyer’s sci-fi young adult novel; and Tyler Perry’s Temptation, the latest from the movie mogul Tyler Perry.
+Directed by USC alumni Jon M. Chu (Step Up 3-D, Justin Bieber: Never Say Never), G.I. Joe: Retaliation acts essentially as a soft reboot of the 2009 original, with the majority of the cast replaced by action film stalwarts Dwayne Johnson and Bruce Willis. Despite the first film grossing more than $400 million internationally, to say that it wasn’t fondly remembered is an understatement. The only prominent returning character is Snake Eyes, which makes sense since he’s arguably the most recognizable character.
+Though it has the advantage of being the first PG-13 action blockbuster of the year, there’s an air of uncertainty around it, mostly because of Paramount Studios’ shocking decision to delay the film just a month before its original planned release on June 29, 2012.
+The common theory for the delay was that the studio wanted to reshoot the film to not kill off Channing Tatum’s character, Duke. However, the producers have recently said that there’s only about three to five minutes added to the film and their official reason for delaying the release was to convert it to 3D to maximize overseas revenue.
+That still doesn’t explain why they would delay a summer blockbuster that was already showing TV ads, had action figures waiting to be shipped to retailers and even had their stars scheduled to appear on the press circuit.
+The only explanation that makes sense is either the film was so bad that the studio freaked out or, more likely, that the failure of Battleship -— another Hasbro property — caused them to delay G.I. Joe: Retaliation to the next fiscal year to salvage the financial shortfall.
+Nonetheless, the marketing has made the film look like a good bit of ridiculous cartoon fun, which may be exactly what American audiences are looking for, especially on a holiday weekend. The film is actually coming out a day early, on March 28, since there is typically a steep drop-off in box office sales on Easter Sunday.
+It should inch past $40 million during its four-day weekend; although audiences finally got their action fix with Olympus, the PG-13 rating and the name recognition will help Retaliation. It remains to be seen if Paramount’s gamble will work out.
+Going after the teenage audience is The Host, starring Saoirse Ronan and Max Irons.  Though other studios have tried and failed to create the next big young adult franchise, the advantage of this film is that it’s adapted from a series by Stephenie Meyer, the writer of the ultra-lucrative Twilight franchise.
+What Twilight had that this movie doesn’t is a simple, timeless love story between two lead characters that anyone, especially teenage girls, could relate to. The vampires and werewolves in Twilight were just extensions of the romantic tension between Bella and Edward, transformed the story into a cultural phenomenon.
+The Host, however, has a plot that seems like a young adult version of Invasion of the Body Snatchers. Science fiction is a much harder sell to the kind of audience that Open Road Films needs to turn this feature into a successful franchise. Meyer’s name will still get a decent enough audience though — likely around $15 million if not slightly less.
+Temptation, the latest film from Tyler Perry, also opens this weekend. Say what you will about Perry — he’s been able to create one of the most successful media empires in the business, with television series, stage productions and many successful hits featuring the pistol-trotting character Madea (who will return to theaters on Dec. 13).
+Outside of Madea, however, his films have been more hit-and-miss. The only non-Madea films of his that have done well were the two Why Did I Get Married features, which Temptation seems to be most similar to. The leads are attractive and the stakes are laid out clearly in the ads — it even has the stunt casting of Kim Kardashian to hype up its release.
+But, considering that Perry’s films usually have very spiritual/Christian overtones, it seems silly to think that his regular audience will go see an extramarital romance on Easter weekend. Expect an opening on the lower end of Perry’s other films with around $16-18 million.
+Though there are plenty of distinctive films for distinctive audiences, you have to wonder when there will finally be an actual Easter-themed/Biblical film that debuts on this weekend.
+ 
+Robert Calcagno is a second-year graduate student in the School of Cinematic Arts pursing an MFA in animation. His column “Box Office Beat” runs Fridays. 
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+There is nothing better than a gift made from the heart or, in sass&peril’s case, a gift by owner Shannon Kennedy printed for the brassy and brazen in mind.
+Furry faces · The line of animal screenprints, especially the Red Fox screenprint, are sass&peril’s best-selling items. Appealing to people of all ages, the cute masterpieces showcase owner Shannon Kennedy’s endless creativity and passion for creating individual stories behind every print. – Courtesy of Shannon Kennedy
+ 
+Sass&peril is a creative studio specializing in handcrafted goods including screenprinted paper and textiles. The store, which began as a hobby for the owner, has turned into a full-time endeavor. The intricate line of modern art and adornments, such as art prints, greeting cards, pillows, totes and garments, are heavily inspired by animal designs, children trends and mid century Scandinavian style. It can best be described as modern with a playful twist, great for both kids and kids at heart.
+“Screenprinting: you can just look at it as a glorified stencil,” Kennedy said. “To put it short and sweet, it’s a stencil and a screen in which you are pulling the ink through the screen to create an image.”
+Kennedy has nearly a decade of experience working as a graphic designer in addition to starting her own small business. After numerous years in the corporate design world, she decided to focus on her own art and started screenprinting, a skill she learned while studying graphic design at the University of Central Florida.
+With her thriving business and her vibrant and positive attitude, Kennedy has turned a passion for art into a successful career, starting off her local business in Long Beach and expanding worldwide.
+“It was neat the first time I sent in an order. I think my first global shop order was in, I want to say Scotland,” Kennedy said. “It was a really big order … It’s neat to know that sass&peril can be purchased in Scotland, Switzerland or even down the street.”
+The most popular design out of the entire sass&peril collection is the Red Fox screenprint. This particular design is a 12.5” x 19” poster-sized screenprint on Speckletone White, screened in red, tan and black inks. The Red Fox screenprint catches the eye of a diverse audience, from parents of small children to quirky art collectors. Though Kennedy’s more popular designs are her animal screenprints, her creativity does not stop there. The owner plans to expand her knowledge of screenprinting and graphic design by starting a secondary brand of greeting cards, trying to break away from the same animal designs and move forward in her creativity.
+“When someone gives a person my card, they don’t need to throw this away. It’s a piece of art. It was hand-screenprinted the same way everything else in the collection has been done,” Kennedy said.
+What makes sass&peril a  unique business is the owner’s ability to keep the nature of her craft in perspective. Though sass&peril goods are sold in both local boutiques and stores in different parts of the world, Kennedy never loses the concept behind her craft and gives her best in every design and print.
+“It’s starting as what they call a cottage industry,” Kennedy said. “You start small and kind of want to stay that way. I’m not saying that I don’t want to be successful, but I want to be a part of it. I don’t want to shortchange anybody. It’s a quality over quantity sort of deal.”
+Sass&peril products are made with the individual customer in mind and not the mass market shopper. As a business owner and a fan of quality over quantity, Kennedy has made it her mission to leave her artistic mark — and not with just a signature on her screenprints, but a personal touch that is crafted from her hands and creativity.
+“I want people to remember my designs as well-designed and well-crafted, made with good materials,” Kennedy said. “But with me, the person who designed it is the person who is seeing it through from the very beginning to the very end.”
+Ultimately, it’s the handcrafted nature of each product of Kennedy’s line that makes her business unique. There is a story behind each print and that is what makes her products valuable. With a fresh and innovative perspective, sass&peril comes from the mind of an individual who takes the profession to heart,  offering a piece of herself through her work.
+As a young entrepreneur, Kennedy offers other artists and future business owners her take on turning something you are passionate about into a thriving business.
+“Be a sponge,” said Kennedy. “Soak up as much as you can. You may be sitting in class wondering ‘What good is this doing me?’ but every little thing counts. Be thirsty for knowledge and soak it all up.”
+As a whole, the sass&peril collection is a fun line of goods with a wide range of products for people of all ages to enjoy.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The walls of Ronald Tutor Campus Center’s Grand Ballroom will pulse with energy as hundreds of students eagerly await the start of KXSC’s annual music fest. This year’s lineup promises to feature a wide-variety of genres that will rock the space for eight hours straight at KXSC radio’s fifth annual music festival, held this Saturday.
+Doors will open at 3 p.m. and the musical event will feature food trucks, art vendors, free food and activities and, of course, an energy-packed line-up, headlined by electronic artist Dan Deacon.
+KXSC Promotional director Malia Schilling said that, in addition to headliners, the festival will include performances in an “eclectic” mix of musical genres.
+“We also have a band called KNOWER performing, which is this really funky, jazzy, experimental band,” Schilling said. “The Dead Ships are a local L.A. band and they’re kind of indie rock, and we also have the Dublab DJs, which is a radio collective.”
+Festival attendees will also be able to stop by the Ableton DJ tutorial booth for a free DJ tutorial lesson, snack on a free açaí bowl from AmazeBowls or stay hydrated and alert with a free cup of coffee from Coffee Bean & Tea Leaf in the ballroom.
+The music will also be broadcasted live on the video screens at Traditions, where attendees who are 21+ can enjoy the show with a beer in hand.
+General Manager of KXSC Lee Robinson hopes that these additional events will help draw an audience for bands that might not be well-known.
+“We are trying to find a niche,” Robinson said. “I think the event is super unique in that it’s not just a concert. Concerts do a good job bringing in known artists, but we’ve tried to supplement the music by putting our festival where there is a component of vendors, food trucks, et cetera and people will still be able to watch the show.”
+Robinson said he is confident the festival will have a good turnout and hopes that successful past festivals will encourage new students to attend.
+“The festival is starting to gain momentum because, in the past years, people have had fun even though they may not have known some of the bands,” Robinson said.
+The festival is free to USC students, and each student can bring one 18+ guest. Students do not have to formally RSVP and can check into the festival upon arrival with their USC ID.
+“It’s going to be a lot of fun — we’re kind of taking over the entire Campus Center,” Schilling said. “We just really want to bring amazing music to the USC community and this is also our chance to put out name out there.”
+KXSC Radio is the official independent, student-run radio station of USC run entirely on a volunteer basis. The station provides original radio programming 24 hours a day on 1560 AM and was founded in 1975.
+ 
+For a complete list of performers, please visit kxsc.org/kxscfest.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+When thinking about underserved ethnic groups, Asian-Americans rarely come to mind.
+Popular culture and the media have shaped the perception of Asian-Americans as compulsive overachievers. But, just as there is no such thing as a “typical” USC student, this stereotype is inevitably false. As a result, the Pacific-Islander community often gets neglected.
+In order to combat this, USC Asian Pacific American Student Services is coordinating with the Pacific Islander Initiative as well as the Promoting Unity, Liberation, and Education, to host the Second Annual PULE High School Summit on Saturday, March 30.
+According to CollegeBoard’s data, 44.1 percent of Asian-Americans hold a bachelor’s degree or higher. Though this is almost double the average for all Americans (24.1 percent), this statistic cannot be taken at face value. But while considered “Asian-American,” only 13.6 percent of Pacific Islanders attain a bachelor’s degree or higher.
+More significantly, nearly a quarter — 21.7 percent — do not even finish high school.
+The model minority myth obscures these facts and prevents the PI community from accessing the resources it needs.
+This prompted student coordinators Danny Boy Naha Ve’evalu and Mace Porotesano  to reach out to the local Pacific Islander community through a mentorship program in 2009. Their Positive Outcomes Through Outreach program pairs students from Jordan High School with USC mentors. Though Naha Ve’evalu cites Professor Nancy Lutkehaus’s class, From “Romance” to “Reality:” Western Representations of Pacific Islands and Islanders, as one of the few classes that addresses the Pacific Islander community, most schools do not teach PI history.
+Naha Ve’evalu told the Daily Trojan that the POTO program is “necessary and vital” because it opens up “a dialog about issues in the PI community.”
+He adds that this program is “more than just another [PI] club.” Mentors integrate film screenings, book discussions and guest lectures into their curriculums. POTO aims to expose students to current PI leaders, help them think critically about issues in the PI community and encourage them to apply to college.
+According to USC’s online Facts and Figures, 23 percent of the students in the fall of 2012 identified as Asian-American. But higher-education enrollment rates gloss over the Pacific Islander population by grouping them under the umbrella term “Asian-American.”  Only after unearthing USC’s 2012-13 freshman profile does the disparity between Asian-Americans and Pacific Islanders become apparent.
+Only 2 percent of incoming students identified as Pacific Islander or Native American; thus, less than 2 percent of the incoming class identified as Pacific Islander, making this the smallest demographic group at USC.
+The APASS’s PULE summit empowers PI youth and provides local students with access to information about higher education. Porotesano describes the summit as “bridging a gap” between the PI youth and higher education. The goal of the summit is to encourage local Pacific Islanders to apply to and enroll at USC.  Despite USC’s intimidating price tag, PULE wants local Pacific Islanders to know that attending USC is an option.
+“In the long term, we hope to establish a pipeline [to USC],” Porotesano remarked.
+The summit will also feature a campus tour with admission and financial aid presentations sponsored by the Asian Pacific Islander Caucus and Undergraduate Admissions.
+In addition to reaching out to high school students, the PULE summit engages with the Pacific Islander community on and off campus, celebrates PI leaders and draws attention to issues in the PI community.
+The summit will feature guest speaker Sefa Aina, director of the Asian American Resource Center at Pomona College. Aina is also a leader in the White House’s 2009 Initiative on Asian Americans and Pacific Islanders under the U.S. Department of Education. The Samoan National Nurses Association will also make a presentation on mental health. Local student volunteers will also conduct PI pride and identity workshops.
+Although the summit emphasizes the relationship between PI youth and higher education, Porotesano and Naha Ve’evalu emphasize that this is not an exclusive event. In order to attend this free event, email Porotesano at                                                     mace.porotesano@usc.edu.
+ 
+Veronica An is an undeclared freshman.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+After years of battling with economic decline and rising fuel prices, airlines were recently presented with a tentative solution from an unlikely source. CNN reported that Dr. Bharat P. Bhatta, an associate professor of economics at Sogn og Fjordane University College in Norway, proposed that air ticket costs be calculated according to passenger weight.
+Media outlets have given the idea the name “fat tax,” and though the entire policy does seem discriminatory toward heavier passengers, economic and environmental practicalities must be considered. A fat tax on airfare might be a move toward more fair and practical solution to not only the economic issues for airlines, but also the health issues of our world.
+Yiwen Fu | Daily Trojan
+Bhatta is proposing three models in his paper, published in the Journal of Revenue and Pricing Management last November, that might “provide significant benefits to airlines, passengers and society at large,” according to CNN.
+“Charging according to weight and space is a universally accepted principle, not only in transportation, but also in other services,” Bhatta said in his paper. “As weight and space are far more important in aviation than other modes of transport, airlines should take this into account when pricing their tickets.”
+One of his suggestions is based on total weight, with the price of the airline ticket based per pound and the total cost depending on the combined weight of the passenger and luggage.
+The second is a base fare, with a per-pound weight subcharge applying to overweight passengers.
+The third is the high/low method, in which Bhatta proposes that a standard weight range be chosen, and that passengers above or below the range receive credit or are charged additional fees. Weight would be self-declared, with one in five passengers randomly weighed to deter cheaters.
+Though at a glance, this might seem to be an act of discrimination against people for their weight, technically, it is merely a tax of practicality. The intentions of the policy are pragmatic and the end goal is not to deliberately refuse service to any one group. Safety concerns are also behind the policy, in anticipation of cases where larger individuals might pose a hazard with emergency exits and so on.
+In addition, the flight experience of those whom are not overweight should be considered. Airlines such as Southwest do have policies for overweight passengers that cannot fit into one seat to purchase extra seats, but as ABC News stated, these policies are “often arbitrarily enforced and the airlines who try to enforce them tend to suffer backlash from the public,” as seen in many cases.
+Kenlie Tiggeman, a “too-fat-to-fly” passenger, sued Southwest in 2012 for “discriminatory actions … toward obese customers,” according to ABC News. And actor-director Kevin Smith lashed out at the same airline on Twitter in 2012 for being removed because he was “too large for his seat.”
+However, the experience of other passengers is important as well. Any flier who has had to scrunch into the middle seat between two passengers of larger size thinks it’s unfair to share a seat that they paid equally for. In a poll by the Daily Mail for the UK, 43 percent of women and 51 percent of men were in favor of the additional charges, indicating that a significant portion of the population sees an issue with the status quo.
+The implementation of a fat tax policy could also have positive effects in the health sphere, posing an effective incentive for healthier lifestyles in a world that is becoming increasingly larger. According to the World Health Organization, obesity globally has nearly doubled since 1980, with 35 percent of adults over the age of 20 falling under the label of overweight in 2008. With a fat tax in place, unhealthy diets will be discouraged for many, offsetting the economic costs of obesity as well as the quality of health for many.
+By no means is the policy perfect. There is also a long list of scenarios to account for — how the general discrepancy between the weights of women and men should be considered, how height should factor in, the expensive cost and time of having to weigh passengers in check-in, whether or not seats should then be wider for the passengers that must pay more, how those seats will be built into new models, what to do for people have serious medical issues with weight, such as hypothyroidism, and even if there should just be select flights for the policy to be applied. However, with refinement and more planning, the tax does have its benefits. Yes, there is the looming potential for long lines and embarrassing moments, but any airport security check-in is already fraught with them.
+With no better solution in the air, this could be a good bet. If no change is implemented, air fare for all passengers will only go up.
+ 
+Valerie Yu is a freshman majoring in biological sciences and English. Her column “Heart of the Matter” runs Fridays.
+I got excited when it looked like the DT was coming out with an article favoring the “flat tax” but this is disappointing…
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+
+USC Concerts Committee has announced that rapper Big Sean, DJ A-Trak and the collaboration of Travis Barker (of Blink-182) and Mix Master Mike (of the Beastie Boys) will headline the Springfest music festival.
+The annual musical festival, which is set to take place on April 6 on McCarthy Quad, features seven other acts and bands, including Walk the Moon and Capital Cities. The other acts were revealed in two teaser videos posted online this week.
+Sean Michael Anderson, who performs under the stage name of Big Sean, released his first studio album Finally Famous in 2011 to positive reviews. He has collaborated with many hip-hop artists, including Kanye West and Tyga.
+Alain Macklovitch, who performs under the stage name of A-Trak, is an award-winning Canadian DJ and turntablist who has collaborated with artists ranging from Kid Cudi to Swedish House Mafia. Many of his mixes have been featured in movies, including Project X.
+Barker debuted his music career as a drummer in the rock band Blink-182 and released his first solo album, Give the Drummer Some, in 2011. In 2011, Barker teamed up with Michael Schwartz, a.k.a. Mix Master Mike, an award-winning DJ and turntablist who has won the DMC World Championships and rose to mainstream fame as a contributing member of acclaimed rap group Beastie Boys.
+For the first time, Springfest will be held alongside the Black Student Assembly’s annual fashion festival and concert Gearfest, which features performers Rippy Austin and Rhyon Brown. Program Board is anticipating the largest Springfest attendance to date because of the collaboration, according to a press release.
+The two festivals, which will begin at 11:30 a.m., will feature student activities, such as a how-to-DJ tent vinyl painting. Food trucks will also be present on the quad.
+The festival is free to students, faculty and staff and funding for the event comes from Program Board’s student-programming fees and sponsorships. Attendees must present university identification to enter the event.
+ 
+The Lineup:
+Rippy Austin
+Rhyon Brown
+SB Babyy
+Faith Tucker
+Mora Mora
+Y Luv
+Culprit
+Capital Cities
+Papa
+Walk the Moon
+Travis Barker & Mixmaster Mike
+A-Trak
+Big Sean
+
+Travis Barker didn’t debut his career with Blink-182. He was originally the drummer for The Aquabats, and he became the drummer for Blink-182 when the two bands went on tour together.
+His humming the song was not the clue, it was his face paint.
+And A-Trak is a part of Duck Sauce
+also kinda bummed it’s not the rest of blink 182
+no arcade fire or duck sauce, trailer 3 was so misleading haha
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The Daily Trojan features Classified advertising in each day’s edition.  Here you can read, search, and even print out each day’s edition of the Classifieds.
+Click the icon to download the PDF of today’s Classifieds:
+
+To place an ad, please contact an ad representative:
+(213) 740-2707
+USC Student Publications Student Union – Room 404
+Los Angeles, CA 90089-0895
+http://dailytrojan.com/ads
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:

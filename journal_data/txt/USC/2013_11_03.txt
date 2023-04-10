@@ -1,0 +1,608 @@
+Though USC Viterbi School of Engineering assistant research professors Yu-Han Chang and Rajiv Maheswaran won’t be seen scoring slam dunks on national television, their experience in computer science could make them more knowledgeable about basketball than players in the National Basketball Association.
+Starting this season, NBA teams will have access to mountains of analytical data thanks to motion-tracking cameras developed by STATS LLC. Chang and Maheswaran have developed a software program that will help teams make sense of these numbers.
+“The data from the NBA will give teams the numbers,” Maheswaran said. “But we can turn the numbers into insight and helpful information that non-experts and non-technical people can understand.”
+The software system, called Eagle, will give teams information about where rebounds are most likely to fall, how to best defend pick-and-rolls, how to create the most efficient lineups and more. Chang and Maheswaran have licensed Eagle to the Los Angeles Clippers and three other NBA teams through their startup company, Second Spectrum.
+Chang and Maheswaran each have more than a decade’s worth of experience working in pattern recognition and motion data technology. The duo’s previous experience includes projects for the Department of Defense and the National Science Foundation.
+“I like to say it was great to transition from tracking military targets to tracking our favorite players on the court,” Chang said.
+The developments for Eagle began in the Viterbi Startup Garage, a resource for Viterbi students to learn how to turn their research into successful business ventures. The team’s first work won the Best Research Paper Award at the 2012 MIT Sloan Sports Analytics Conference.
+“The conference gave us a lot of publicity and we realized there was a clear need in the marketplace for someone to turn these numbers into something insightful and understandable. We wanted to create a product to address that,” Chang said.
+Major League Baseball has been using similar motion-tracking data for roughly a decade, but only recently has technology allowed for this information to be used for faster-paced sports such as basketball. Chang, Maheswaran and their students have become pioneers in utilizing this information for basketball.
+“We’re hoping this is going to be a Moneyball moment,” said Tal Levy, a junior majoring in computer engineering and computer science. “This will be a time when teams can make more informed decisions instead of solely rely on preconceived ideas, and I’m excited to see where it will go.” Levy became involved with the Second Spectrum team when Eagle was still in the research stages last fall.
+Currently, only professional teams have access to the STATS data that the Eagle system utilizes. Maheswaran anticipates, however, that motion-tracking data will become common at the college level soon. Second Spectrum would welcome the opportunity to bring Eagle to the collegiate level and especially to USC, said Chang.
+“We would certainly be interested in helping our home team out when that chance comes around,” he said.
+Chass Bryan, a sophomore guard on the USC men’s basketball team, recognized some potential benefits of utilizing Eagle at USC, but was conflicted about how much of an impact it could make.
+“A lot of basketball is numerical values, seeing who is most efficient and where strengths and weaknesses are, so in that respect the software would be useful,” he said. “But when you’re on the court you’re not thinking mathematically, and at a point you have to let the talent speak for itself.”
+Despite any doubt from athletes, Apratim Ghosh, an MBA student at Marshall, has been working at Second Spectrum for two months and is optimistic about the success of Second Spectrum in any field.
+“This data gives you the ability to bring out efficiencies in sports but also in any business,” he said. “It’s very exciting when you can apply quantitative methods to do that.”
+Maheswaran said the analytical data Eagle provides can be transformative in how professional basketball operates. Though the software is currently only in use for basketball, Maheswaran said Second Spectrum will consider researching the use of Eagle in other sports such as soccer or football.
+“We’re at the cutting edge of research and industry capabilities,” he said. “We can transform how everyone interacts with sports for the future.”
+ 
+Follow us on Twitter @dailytrojan 
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Doheny Memorial Library hosted “Lewis Carroll Outsiders,” an annual conference on the lasting influence of Lewis Carroll, mathematician and writer of Alice’s Adventures in Wonderland, on Saturday.
+Down the rabbit hole · Author Raul Contreras signs copies of his book, Alice’s Bloody Adventure in Wonderland at Doheny Memorial Library. – Jessica Zhou | Daily Trojan
+Attendees of the event were greeted by a sculpture of distorted Alice in Wonderland characters when they entered the foyer of Doheny Library. Karen Mortillaro, sculptor and head of the Lewis Carroll Society of North America’s planning committee, created these sculptures for the event. The Lewis Carroll Society of North America puts on the daylong event.
+“For my work, this is a wedding of word to imagery. Most of Lewis Carroll is flat book illustration,” Mortillaro said. “So being sculptural is taking it off the page and making it three-dimensional.”
+The emphasis to bring something new to Alice was reiterated throughout the conference. Mortillaro said that the many different views of Carroll’s work was what made the author popular.
+“If you look at the people in attendance here, they are an eclectic group,” Mortillaro said. “Some have a love of the books, some the illustrations. If you asked each one you’d get a different answer.”
+The conference began with an “elevator pitch” session at 9:30 a.m., in which exhibitors of Alice merchandise pitched their Carrollian products, everything from animated Alice films to illustrations to biographies.
+Attendees came from as far as Sweden and Lithuania to hear panelists who ranged from video game designer American McGee to USC recipients of the Wonderland Award, an arts and scholarship award for college students in California.
+The first speaker of the day was Dan Bergevin, a publisher who created a collaborative illustrated version of Alice’s Adventures in Wonderland. He contacted artists through the portfolio website Behance and received 58 illustrations from 58 artists, only eight of which came from America. On a projector, he showed all the illustrations from the book. The styles ranged from gothic Alices to ’50s cartoon-style Alice characters.
+“I don’t think I could have pulled it off without Tim Burton’s movie to pull it along,” Bergevin said of how the movie brought interest to the project. “I don’t think [some of the artists] realized that the book and the movie are different things.”
+Bryan Talbot, writer and illustrator of the graphic novel Alice in Sunderland, joined the event via Skype from Sunderland, England. In a discussion moderated by USC professor Henry Jenkins, Talbot spoke of how John Tenniel’s classic illustrations of Carroll’s books influenced his work.
+“I can’t remember a time when I didn’t know the Tenniel illustrations,” Talbot said.
+Talbot’s book deals with the history of Sunderland, where Carroll wrote “The Jabberwocky” and its influence on the author. His knowledge of Sunderland and England was immense.
+“[‘The Jabberwocky’] is very much based on northeastern legends,” Talbot said of the poem’s connection with Sunderland, which is located on the eastern coast of Britain.
+Christopher Tyler, a neuroscientist and investigator of the historical context of Alice in Wonderland, spoke after Talbot. He presented his book Parallel Alices: Alice through the Looking-Glass of Eleanor of Aquitaine, which discusses historical influences on Alice, rather than focusing on the Alices Carroll knew.
+“Lewis Carroll knew a lot of Alices,” Tyler said. “These are photographs of eight different Alices that he knew. This gives you a sampling of his own photographs and drawings.”
+In the afternoon, USC students Lindsey Jones, a graduate student in liberal studies, and Andrew Woodham, a doctoral candidate in genetics, molecular and cellular biology, presented their winning  projects. The two have each won the Wonderland Award twice. Because the two have won the award multiple times, they were introduced as the “King and Queen of Wonderland.”
+Woodham’s inspiration for Queen Victoria of Hearts, a Queen of Hearts composed of morbid playing cards, came from the theory that the Queen of Hearts was a satire of Queen Victoria, who was the reigning monarch for most of Carroll’s life. Woodham said he was also inspired by Carroll’s book on mathematics, An Elementary Treatise on Determinants.
+“The Wonderland Award lets us play around with things we wouldn’t in our ordinary endeavors,” Woodham said.
+Jones presented a scrapbook and a chess set based on Alice Chess, a 1953 variation of chess played with a mirror.
+McGee discussed his games American McGee’s Alice and its sequel Alice: Madness Returns.
+“My background was with games like Doom and Quake, which tended to focus mainly on violence,” McGee said. “Coming out of that I saw a lot of opportunity for storytelling.”
+Not everyone in the industry, however, saw game-making in the same light.
+“There was a quote within the industry: ‘Story within games is as useful as story within pornography.’ The first thing I wanted to do was prove that wrong,” McGee said.
+To prove the theory wrong, McGee honed in on Carroll.
+“I began to brainstorm,” McGee said. “I was driving here in California and a song was playing, and the word ‘wonder’ was featured. And somehow when the word ‘wonder’ hit my brain, it felt like an epiphany that Alice could become a game.”
+The event concluded with a tour of the Lewis Carroll Collection, a collection founded in 2000 with more than 3,000 rare documents relating to Carroll’s work.
+ 
+Follow us on Twitter @dailytrojan
+The visual arts may help to understand Carroll’s work better. Yet, most research on Carroll is textual. Thus, readers keep missin clues, as they for example are provided by Henry Holiday’s illustrations to Carroll’s “The Hunting of the Snark”.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Alan Prieto, a native of Mexico, and Daily Trojan staff member, has never felt comfortable with calling himself Latino at USC. Though the university has a large Latino community, with more than 20 student groups geared toward Latino students, Prieto feels as if the organizations often force all who fall under the Latino umbrella into one entity.
+“I don’t like the term Latino or Hispanic, let alone Chicano — it’s very homogenizing to a whole culture,” said Prieto, a senior majoring in art history and critical studies. “Let’s try to differentiate between being Mexican and being Latino.”
+Before his move to the United States in the seventh grade, Prieto commuted to a California school from Mexico five days a week and learned English and Spanish simultaneously. His upbringing shows just one facet of the diverse Hispanic and Latino community at USC, a community that has grown to represent 14 percent of the entire USC student population.
+This 14 percent is made up of thousands of students who come from many countries and cultures. From second-generation Mexican-Americans to first-generation Peruvian- and Ecuadorian-Americans to Brazilian internationals, the USC Latino student body is one of variance. But that diverse student body is often blurred.
+“It’s not like I’m trying to be political about it and want to try and avoid being a part of those organizations,” Prieto said. “I just don’t think that they represent who I am.”
+Prieto’s issue is not uncommon. He’s one of many students who said they found themselves marginalized into being categorized as “Latino.”
+“Although these students tend to have many things in common, they themselves are very diverse as our community is represented by Mexico, Central America, South America, Dominican Republic, Cuba and Puerto Rico,” said William Vela, director of USC’s El Centro Chicano, a department in the USC Division of Student Affairs aimed at helping the Latino community at USC, in an email to the Daily Trojan.
+Geography is not the only element dividing Latino students. About 50 million Hispanics and 11 million undocumented immigrants currently reside in the U.S., according to the U.S. Census Bureau and the Pew Research Center. In California alone, about 38 percent of the state’s population identify as Hispanic or Latino according to the U.S. Census Bureau.
+“Then you have folks who are multiracial, first to fourth-generation, various religious affiliations as well as social class variance, amongst tons of other factors that make our community extremely diverse and not monolithic,” Vela said in an email.
+Many students feel the term Latino, as unifying as it can be to a segment of the population, is also limiting to the diverse cultures that lie under its domain. As Latinos at USC have faced numerous challenges ranging from misconceptions and to friction within the community, many students said identity plays an important role in their lives.
+“Who’s this guy?”
+ 
+“When I hang out with my friends, they all speak Spanish,” said Isadora Costa, a junior majoring in economics. “But I don’t.”
+Costa, an international student from Brazil, found that in the United States, the terms Latino and Hispanic are often used interchangeably, even though it is possible to be considered Latino but not Hispanic, Hispanic but not Latino, or both.
+Those who identify as Latino have cultural roots in a Latin American country in the Western Hemisphere, while Hispanics are those who speak Spanish, which can include people from a number of countries around the world. But many students feel that the diverse Latino student body at USC is often written off as solely Mexican.
+Jessica Vidal, a senior majoring in political science and sociology, has often been mistaken for Mexican even though she is a first-generation American whose family is originally from Ecuador and Peru.
+“I always get mistaken for Mexican on campus,” Vidal said. “When I first got to USC it was the strangest thing that everyone automatically assumed I was Mexican because I was Latina.”
+But the perception of homogenization doesn’t capture the many countries that the term Latino applies to.
+“A lot of the time, people think, ‘Oh Latino, oh you’re Mexican,” said Priscilla Hernandez, a sophomore majoring in international relations. “[Latinos] are very similar in some aspects but we’re so different in others; we have different types of culture, different types of food, different traditions — even the way we speak is different.”
+Hernandez grew up in West Covina, Calif., a town with a population of 53.2 percent Latinos according to the U.S.  Census Bureau.
+“People are multiracial,” Hernandez said. “I think people just don’t know. They haven’t really learned a lot about Latin American history.”
+Stephanie Aceves, co-assistant director of the USC Latino Student Assembly, said that LSA is trying to change this misconception.
+“The Latino community is typically viewed as being just everyone has the same problem, the same thing, and there’s no way to generalize it,” said Aceves, whose organization works to support Latino students. “[LSA’s] main focus is more visibility to be able to educate others to know that there’s more than just Mexican. There are a ton of different cultures that don’t get a lot of attention.”
+Sometimes, these misconceptions even come from within the Latino community itself. Though Spanish is his first language, Undergraduate Student Government President Christian Kurth, who is half Mexican,  said other Latinos on campus have dismissed him as being Caucasian.
+“I was part of the Latino Alumni Association and, to be honest, when I go there, sometimes I feel like people are like, ‘Who’s this guy and what is he doing here?’” Kurth said.
+Kurth’s mother is a first-generation American from Mexico, and attended USC along with his aunt and uncle.
+“We’re all Latinos regardless of how you look or what part or what kind of Hispanic you are or if you speak Spanish,” Kurth said.
+The dichotomy between the unifying term and the cultures that fall within it, however, has led to some Latino students feeling alienated from the greater Latino community. Vidal grew up in Westchester, N.Y., where Caucasians comprise about 75 percent of the population, according to the U.S. Census Bureau.
+“I feel like I have a very different background,” Vidal said. “A lot of the Latinos here are Mexican-American and I grew up in a suburb with not many Latino families and grew up in a very Americanized way.”
+Many students said the detachment that Vidal describes also exists within the international Latino population, in which many students report feeling estranged from the Latino American community.
+“The difference between Latinos that are American and international students is huge because even though you are considered a ‘Latino,’ you were raised in America, so you have their culture and values,” said Kim Robles, a sophomore from Mexico who is majoring in business administration. “In contrast, international students were raised in their countries so they are used to having the Latino culture, values and perspectives.”
+El Centro has been working to integrate more international students into its group but finds the cultural divide difficult to overcome.
+“With respect to the international students, there’s a matter of cultural perspective,” Vela said. “[Domestic students have] grown up here, we’re very much part of the United States, we’re American. International students are really international students.”
+Self-segregation and self-empowerment
+ 
+Last year, USC’s El Centro Chicano celebrated its 40th anniversary. The organization, housed in the Student Union, aims to provide “personal, social and academic support through graduation and beyond,” according to its mission statement. But El Centro is only one of more than 20 organizations on campus that caters to the Latino student community, a community that keeps growing every year.
+Hispanic/Latino students make up 14 percent of the USC undergraduate student population. Though this number is considerably higher than many other private research universities such as Duke University, whose Latino population is 6 percent of its total student body, students still feel the pressure of being a minority group at USC.
+“Many [students] inform me that they do not see an overwhelming presence of Latino students at USC, walking around campus and in their classrooms,” Vela said in an email. “That is why they come to USC El Centro Chicano, to make those connections and find a supportive and familiar community where they receive cultural as well as academic support via various resources, services and programs we provide.”
+These services include referrals for academic advising, counseling, career help, as well as a speaker series and local field trips.
+El Centro has become a home away from home for many Latino students searching for a way to acclimate to college life. As a spring admit, Hernandez joined El Centro during her first semester in search of a community that better reflected the one she grew up in.
+“It was a shock when I came to ’SC because I’ve never seen so many Caucasian students,” Hernandez said. “I felt so out of place, I needed to find a little place, a little niche. When I started working at El Centro, I made friends a lot faster.”
+Groups such as El Centro have often been subjected to accusations of self-segregation, since they are aimed toward a specific ethnicity.
+“I actually had a student in one of my classes who was in a Latino frat and he said that the Latino Greeks often close themselves out to others,” Vidal said.
+But supporters argue that cultural groups are imperative to help students feel comfortable and help adjust to an incredibly diverse university. As a member of Lambda Theta Nu, a Latina greek sorority, Hernandez has been accused of closing herself off to the wider community.
+“People ask me, ‘Why are you in a Latina sorority, isn’t that kind of segregating yourself?’ To me, it’s a sense of empowerment, because I feel more comfortable with people who understand my cultures and traditions,” Hernandez said. “I just wanted to find people who were more like me.”
+In 1974, the university created the Latino Floor residential program, which allows freshmen students to live on a floor centered around Latino culture that provides a supportive atmosphere for Latinos through community service initiatives, cultural, academic and social activities as well as just being a home away from home.
+“It’s still a reality and feeling of being underrepresented and not the majority,” Vela said in an email. “So when at the end of the day, they come home to something familiar, it’s reassuring and conveys to them that they are part of the USC community, they belong and therefore they engage, become involved and ultimately find their grounding at USC so they can be successful as they approach their sophomore year.”
+The floor, however, is not limited to only Latino students.
+“Some have grown up around our community and want to continue that experience, others have not at all and want that experience,” Vela said in an email. “Some want to have a community where they can continue to practice speaking Spanish.”
+Hernandez said she finds the claims of self-segregation to be unfounded.
+“Caucasians hang out with Caucasians all the time and no one tells them that they’re segregating themselves,” Hernandez said. “So why can’t I hang out with my Latina friends also?”
+The importance of education
+ 
+The United States’ growing Latino population is on track to set a record in the rate of Latino college enrollment. According to the Pew Research Center, 69 percent of Latino high school graduates enrolled in college in 2012 — two points higher than the Caucasian population.
+In 2000, the Latino high school dropout rate was 32 percent. In 2012, however, the dropout rate fell to 15 percent. According to NBC, a poll by the National Hispanic Media Coalition and Latino Decisions showed that 51 percent of non-Latinos think Latinos can be “very” or “somewhat well” described as “welfare recipient” while 50 percent think that Latinos are “less educated” and 44 percent believe that Latinos “refuse to learn English.”
+Prieto defies those stereotypes. After spending the first 13 years of his life commuting from Mexico across the border to attend school in the United States, Prieto’s family moved to El Centro, Calif., so that he and his older brother could attend public school and ultimately attend American universities. Since his father was not an American citizen, Prieto lived with his mother and brother in the United States while his father visited on alternate weekends.
+“Both of my parents were really supportive, they wanted me to go to an American university rather than a Mexican one so we moved to the U.S.,” Prieto said. “We were well aware of the efforts they did.”
+Prieto is not alone. Hernandez’s parents emigrated from Mexico and worked as janitors, in bakeries and in factories until they learned English in community college. Her mother is currently a third grade teacher and her father works for a dispatching company.
+“My parents have always pushed education,” Hernandez said. “My dad because he never got an education and he always regretted that, and my mom because she did and knew that it could open doors for me. It was a given that I was gonna graduate high school, it was given that I was going to go to college.”
+Kurth’s mother grew up on Normandie Avenue, minutes away from the University Park campus. His mother’s side of his family attended USC decades ago, albeit for different reasons.
+“Pretty much the only reason why my aunt and uncle went here is because they got full-ride academic scholarships,” Kurth said. “My grandpa had to stop working and they were very low-income. It really shows that hard work does pay off and that’s always been instilled in my household. Don’t allow yourself to feel disadvantaged. No matter what your background is, you can do it.”
+At USC, Kurth has excelled, winning the 2013 election for Undergraduate Student Government President. He hasn’t forgotten how hard his parents worked to make his successes possible.
+“[My family] always expected us to go to college,” Kurth said. “They did a lot for the family because their parents didn’t speak any English.”
+Finding their niche
+ 
+Today, the heterogeneous population comprising the Latino student body is still searching for a niche within the USC community.
+“It’s almost a blessing and a curse that there’s so much to get involved in,” Kurth said. “There’s all different kinds of people that all fall into this Latino thing.”
+Vela said students who identify outside the traditional Latino norm have begun to organize clubs and groups, such as the USC Brazilian Club. Costa even made a USC Brazilians Facebook group to connect on campus.
+Hernandez said she wants Latino students to realize their full potential at the university because there’s a lot to get involved in, and the community is open to everyone.
+“At the end of the day, every Latino kind of makes their own experience here at USC,” Hernandez said. “Everyone is going to have unique experiences but you shouldn’t be closed off to something. So I think just be open to all the new experiences and see what fits you and what doesn’t.”
+Follow Sheridan on Twitter @IAmSheridanW
+(http://www.sharethis.com)http://dailytrojan.com/2013/11/03/latino-students-reflect-on-their-complex-roles-at-usc/#sthash.A4qDEboB
+This message was sent using ShareThis (http://www.sharethis.com)
+My name is Martha and I am currently an online student in the MAT/Credentials program.
+I simply want to say that I particularly enjoyed this article.  I grew up in Los Angeles as a child of one
+parent who who was born and raised in Mexico and the other parent born in the United States then
+at an early age was taken to Mexico where she remained until the age of 32.
+I, as Prieto, also have a dislike for being categorized into the terms “Latino” and/or “Hispanic”.
+These are labels which group us into a very generalized category.  I am not quite certain, however,
+what I would feel comfortable with since I had very little influence as to my parents’ cultural
+background.
+You see, they were so intent on not being “lumped” into the negative images which some
+people had of Mexicans that they kept us from participating/experiencing of any
+Mexican-cultured activities.  As a result, I personally felt unattached to any particular
+group.  Somewhat sad actually.
+Diversity lies in the many cultures living here from many countries…Cubans from Cuba,
+Puerto Ricans from Puerto Rico,  Ecuadorians from Ecuador,  Guatemalens from Guatemala, etc., etc.
+Latinos from ??      Hispanics from  ??
+I am of Mexican descent because my father was from Mexico and I am proud to say it as such.
+Just thought I’d share a bit of my thoughts.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The USC women’s soccer team flipped the script this weekend, capturing dramatic overtime wins over Oregon and Oregon State after a season of tough breaks.
+Freshman forward Kayla Mills delivered the winner in Friday’s contest, before Jamie Fink did the same with a final minute penalty kick on Sunday. Both games ended 2-1 in favor of USC.
+The two wins spelled the end of a difficult three-game stretch, in which the squad lost to Arizona, Colorado and Utah by just one goal. The Women of Troy now stand at 8-9-2, with a 3-6-1 mark in Pac-12 play.
+USC fell behind early to the visiting Ducks on Friday, yielding a goal to the Ducks’ Kristen Parr in the fifth minute of the match.
+Junior goalkeeper Caroline Stanley would respond with a lockdown performance, allowing only one goal over the next five periods of play over the weekend.
+After a tense 70 minutes, sophomore Katie Johnson delivered the equalizer midway through the second half. After a scoreless rest of the half, the Women of Troy began their chase of a first overtime win. Senior forward Elizabeth Eddy and freshman forward Tanya Samarzich both had solid chances for USC, as did Oregon’s Mia Gunter.
+It was Mills who would be the hero, however, with a slicing goal past Oregon keeper Abby Steele in the final minute of the first overtime period. This win got the proverbial monkey off of USC’s back, and set up another exciting win on Sunday.
+The Women of Troy fell behind immediately for the second straight contest against Oregon State when the Beavers scored on the first shot of the game at the 46-second mark. This time, however, USC would strike back immediately.
+Eddy converted a penalty kick just seven minutes later after senior defender Autumn Altimirano was fouled in the box.
+After a quiet first half, the USC offense exploded for 19 shots in the second half to the Beavers’ three. Unfortunately, the team could not convert, and went to overtime for the second straight game.
+In a heartstopping moment early in the extra period, a yellow card from Marlee Carrillo set up a Beavers free kick just 17 yards from the goal. The USC defense would come through with a block, setting up an unbelievable finish.
+With just 17 seconds left in the last period, Oregon State was called for a handball in the box.
+The foul set up the winning penalty kick from Fink. As the penalty was called, USC coach Ali Khosroshahin was in disbelief.
+“I couldn’t believe we got a call that late in the game,” he said. “But good things happen when you put up 43 shots.”
+It was a heartstopping yet fitting final homestand for the Women of Troy, who celebrated seniors Eddy, Altamirano, Mia Bruno, Jordan Marada, and Haley Boysen on Sunday in a pregame ceremony.
+The team moves on to their final game of the season this Thursday night, a road matchup against archrival UCLA.
+The Bruins are at the top of the Pac-12 and ranked No. 2 in the nation. The Women of Troy will attempt to duplicate last year’s result, when they toppled UCLA at home on a buzzer-beating goal from Marada.
+ 
+Follow us on Twitter @dailytrojan 
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The USC men’s water polo team suffered a rare setback on Saturday, falling 10-6 to Pacific for the first time since 2002.
+The Trojans (20-2, 2-1) entered the game with the top spot in the nation, setting the stage for a clash of Mountain Pacific Sports Federation titans, as Pacific (16-3, 3-1) entered the game just two spots below.
+More than 1,300 fans attended the game in Stockton, Calif. and fostered a raucous environment to support their hometown Tigers. The Trojans struggled to stop Pacific’s high-octane offensive attack, highlighting an issue on defense that has recently become more prevalent for head coach Jovan Vavic’s squad.
+USC gave up 10 goals for the second consecutive game. They had previously allowed that many points just once in the team’s previous 20 matches this season.
+“We are giving up, again, too many goals,” Vavic said. “We just have to be more aware and tougher at defense.”
+The defensive problems were highlighted through the first three quarters, as the Trojans gave up eight goals to dig themselves an 8-5 hole entering the final stanza.
+Another tough aspect for the Trojans was the hostile crowd. As the undisputed top program in the nation, USC often becomes the marquee matchup for opponents — and the Tigers were clearly amped to host the Trojans.
+“It was a great atmosphere — lots of people, lots of cheering,” Vavic said. “You need to welcome that and enjoy it. But at the same time, some younger players do get nervous.”
+Though it certainly provided another challenge for the Trojans, Vavic welcomed the boisterous scene in Stockton.
+“We were talking about it before the game,” Vavic said. “If you’re the No. 1-ranked team in the country, people will come watch you play. And that is why you play for USC.”
+The Trojans held close in the beginning, scoring first and jumping out to a 2-1 lead behind two goals from senior utility man Mace Rapsey.
+But Pacific responded by scoring four consecutive goals through the second quarter. The Trojans came back and cut the margin to 5-4 off a five-meter penalty shot from junior driver Kostas Genidounias with 3:55 left in the second frame, but entered the break down 6-4 after the Tigers converted on a power play.
+The Trojans would get no closer than that two-goal margin, as the Tigers simply wore down USC’s defense and continued to pile it on.
+Some of USC’s stars continued their consistent play for the Trojans, as Rapsey and Genidounias led the Trojans with two goals apiece. But senior two-meter Jeremy Davie and senior driver Nikola Vavic each contributed just one goal.
+The loss dropped the Trojans behind Pacific by half a game for the top spot in the MPSF.
+As dynasties form, program outsiders can be quick to make comparisons between current teams and past squads. But coach Vavic asserts that every team has its own strengths and weaknesses.
+“This is a different team than the team we had last year,” Vavic said. “We have some young players and they are going to gain from this experience.”
+The Hall of Fame-worthy coach knows that the Trojans need not overreact to one loss, but simply keep their noses to the grindstone.
+“I think that focus is the biggest thing,” Vavic said. “We’re plenty strong, we have good speed … That’s the way we want it.”
+USC will trek back to NorCal next week, when they visit California in a high-profile match that will be televised on the Pac-12 Networks.
+The team will then return home to the friendly confines of the Uytengsu Aquatics Center on Nov. 10 for a matchup against the Pepperdine Waves.
+ 
+Follow us on Twitter @dailytrojan
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The USC women’s volleyball team escaped the Bay Area unscathed last week for the first time since 2006 and returns home with two critical victories against its strongest rivals.
+Top-notch · Sophomore outside hitter Samantha Bricio set USC’s single-season record for service aces (61) against California on Friday. – Ralf Cheung | Daily Trojan
+After a grueling, five-set win over No. 5 Stanford on Wednesday night, the No. 8 Women of Troy (20-3, 10-2) turned away No. 27 California 3-1 (25-23, 24-26, 25-12, 25-23) Friday night to earn its fifth consecutive 20-win season.
+“We’re tired because we had a five-set game [on Wednesday],” sophomore outside hitter Samantha Bricio told the Pac-12 Network after the game. “But we came really focused today and we’re just getting better.”
+Combined with home victories against both teams in early October, the wins on the road represented USC’s third-ever regular season sweep of the Bay Area teams and first since 2003. The win over the Bears also improved USC’s all-time record versus Cal to 52-11.
+“Anytime you can get out of the Bay Area with two wins is equal to teams coming to Los Angeles and beating USC and UCLA, which is tough to do,” USC head coach Mick Haley said. “Beating Stanford and Cal at their own places is a very hard task, so you have to be as pleased as you can be leaving here with two wins.”
+Bricio unsurprisingly led the USC attack against the Bears with 14 kills and 13 digs, her fifth straight double-double. She also set USC’s single-season record for service aces (61) by converting five on the night in addition to four solo blocks and four block assists in a strong all-around performance.
+“Today the hitting wasn’t my forte, but I can compensate with other things,” Bricio told the Pac-12 Network. “I’m really excited right now because I’m seeing the results of how I work.”
+Freshman outside hitter Ebony Nwanebu (13) and senior middle blocker Alexis Olgard (10) also struck double figures in kills, while senior libero and captain Natalie Hagglund posted another phenomenal defensive outing with 36 digs.
+USC quickly jumped out to an 8-2 lead to open the match, but Cal won seven of the next nine to pull within one at 10-9. The Women of Troy recovered to go up 16-10 on a kill by junior middle blocker Hannah Schraer, but the Bears put together an impressive comeback and took a 22-20 lead. USC calmly fought back, however, as freshman outside hitter Elise Ruddins’ kill brought up set point before Nwanebu finished with a kill to seal the first set 25-23.
+Cal regrouped in the second frame and went on a 6-1 run to go up 13-8. USC came back and eventually tied it at 17-all on a tandem block by Bricio and Schraer, then strung together four straight points to tie it at 24 after facing set point.  But Cal claimed the set 26-24 when sophomore Lara Vukasovic knocked down a kill and then an ace to tie the match 1-1.
+The third set, noted by Haley to be a team weakness, actually proved to be the easiest for the Women of Troy. A Schraer kill put USC up 10-5 after which the Women of Troy extended their lead to as much as 21-9 on a kill by senior outside hitter Sara Shaw. Back-to-back blocks by Bricio and Schraer introduced set point at 24-11. After conceding a point, USC clinched the set at 25-12 when Schraer punctuated the rally with a kill that gave the Women of Troy a 2-1 lead.
+The fourth set was more contentious as the teams went back and forth. The Women of Troy saw their 11-7 lead diminish to 11-10 before going up 15-14. Consecutive kills by Olgard and Bricio put USC up 20-16 before Cal came back to whittle the deficit down to one at 23-22. Nwanebu then registered her 12th and 13th kills to end the match 25-23.
+“I think we were upset that we gave away that second set after working so hard in the first set,” head coach Mick Haley said. “They stayed even with us all the way through but we were able to stay one good play ahead of them.”
+Haley seemed proud of his team not only because of the wins, but also the grinding manner in which the Women of Troy claimed victory.
+“It was a hard fought match and the girls got very tired, but we deserved to win both of these matches,” Haley said.
+USC will return to the Galen Center this weekend to face Oregon Friday and Oregon State Sunday.
+ 
+Follow us on Twitter @dailytrojan
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+After a season mired with disappointments and injuries to several of USC’s top offensive stars, I didn’t think it was cynical of me to think that Oregon State would cover against the Trojans as consensus 5.5 point favorites.
+With the Beavers boasting the best passing offense — at least, by statistical measure — in the nation, it was easy for me to imagine quarterback Sean Mannion and receiver Brandin Cooks picking apart USC’s beleaguered secondary.
+It also didn’t seem inconceivable that the Trojans’ offense would struggle with junior wideout Marqise Lee, redshirt sophomore tailback Tre Madden and redshirt junior tight end Xavier Grimble not playing at 100 percent.
+And without redshirt senior right tackle Kevin Graf available to stabilize the protection of redshirt sophomore quarterback Cody Kessler, I could picture junior guard/tackle Aundrey Walker desperately grabbing the jersey of an Oregon State player before Kessler was brought down for a back-breaking sack.
+With Kessler’s dropback time potentially cut down dramatically, it would be all too easy for offensive coordinator Clay Helton to revert back to the conservative playcalling that yielded unspectacular results for USC when former coach Lane Kiffin was still roaming the sidelines.
+But sometime during the Trojans’ first play from scrimmage on offense, all the pessimistic scenarios that had been running through my head vanished.
+By hauling in a 71-yard bomb from Kessler, Lee effectively told Cooks that he couldn’t be crowned the best receiver in the Pac-12 just yet, and warned the entire Beaver defense that the Trojans would not be holding back.
+It’s difficult to imagine that the ever-cautious Kiffin would have made such a gutsy playcall with Lee still recovering from a nagging knee injury. But Helton showed no such reservations by setting the tone for an evening that was undoubtedly USC’s most impressive performance this season — one that was even more impressive considering the Trojans who filled up the stat sheet.
+Redshirt sophomore running back Javorius Allen rushed for a career-high 133 yards and three touchdowns on 16 carries, begging the question of why he had rarely found his way onto the field under Kiffin’s supervision.
+It wasn’t just the statistics Allen racked up — it was the manner in which he did it. His first score of the night showed his trucking ability, as he bullied through several Beaver defenders before extending over the goal line. Later, he took a stretch handoff and somehow managed to outrun the entire Oregon State defense to the corner before cutting upfield for an 18-yard touchdown.
+But the most impressive score was his last — a 52-yard romp that featured the nastiest cutback in cardinal and gold since R—– B— donned the colors of Troy to put the game out of reach.
+Allen’s breakout game came with a big assist from USC’s offensive line, which had its best showing of the season even without Graf. The unit opened up holes for Allen and senior tailback Silas Redd (22 carries, 140 yards) while also providing steady protection for Kessler, who completed 17 of 21 passes for 247 yards.
+The defense more than held up its end of the bargain, too. Mannion threw three interceptions — equaling his season total — and should have had at least two more. The flurry of turnovers helped cancel out Oregon State’s big advantage in penalty yards (68-15).
+Cooks was held to six receptions, his lowest total this season, and 88 yards, his second-lowest output this year.
+But the statistic that’s most surprising is the one that is the simplest measure of a team’s success — wins and losses. The Trojans are now 3-0 in the Pac-12 under Orgeron.
+It’s doubtful that this unblemished conference record will hold up through the rest of the season — but if it does, even the most cynical of USC supporters will have to admit that the best candidate for the permanent head coaching job might already be on staff.
+ 
+ 
+“Laying Down the Laws” runs Mondays. To comment on this story, email Will at wlaws@usc.edu or visit dailytrojan.com.
+Follow Will on Twitter @WillLaws 
+This was our best game of the Coach O era. It was not perfect, we made mistakes but we overcame penalties and a pick 6 and we dominated a team on the road. We can win our remaining 4 games. I am not guaranteeing we will win all 4, but we can if we play similar to this last Friday night game in Oregon. I know Stanford will be a big challenge, but we have some receivers that are faster than Stanford’s corners and safeties. M. Lee and AG(#15) are faster and more athletic than Stanford’s secondary. We need to exploit that early and set the tone of the game. Stanford will ground and bound and use it muscle, but they will most likely not run a fast paced offense trying to run 5 plays in 30 seconds like an Oregon Duck team. Hopefully our defense will not get exhausted by the 4th quarter. I will be there and will help the Trojans upset the Indians(Cardinal) they used to be Indians!! Go Trojans! Fight On!
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Redshirt sophomore running back Javorius “Buck” Allen rushed for 133 yards and three touchdowns, and USC’s defense shut out Oregon State in the second half as the Trojans knocked off the Beavers 31-14 on Friday in Corvallis, Ore.
+Diving right in · Redshirt sophomore tailback Javorius “Buck” Allen (pictured) teamed with senior running back Silas Redd to total 273 rushing yards for the Trojans. Allen also scored a career-high three touchdowns. – William Ehart | Daily Trojan
+“I’m just really happy for our football family,” interim head coach Ed Orgeron said. “I’m really happy for our young men. It was a great job of coming to a hostile environment and really not letting it affect us as much as it has done in the past.”
+The victory was USC’s first win in Corvallis since 2004, snapping a three-game losing streak at Reser Stadium.
+The Trojans’ defense held the Beavers to just 369 yards of total offense. OSU quarterback Sean Mannion, who entered the game leading the nation in passing yards and touchdowns, completed just 26 of 45 pass attempts for 277 yards with one touchdown and three interceptions.
+Redshirt sophomore quarterback Cody Kessler completed 17 of 21 passes for 247 yards with one touchdown and one interception that was returned for a touchdown in the second quarter.
+BREAKOUT
+Though the defense dominated and the offense was balanced and efficient throughout the game, the night belonged to Allen, who, after two years of little to no playing time, had by far the biggest game of his career.
+“I just want to give thanks to my O-linemen, and my coaching staff for believing in me and trusting me,” Allen said. “Like Coach Orgeron said, when you’re having fun with the game, then everything else will flow. I just want to thank my O-linemen and fullbacks for doing a great job.”
+Allen had been buried on the depth chart during his first two seasons at USC, but had a strong preseason and finally got his opportunity when injuries depleted the Trojans’ depth at tailback.
+Redshirt sophomore tailback Tre Madden left Friday’s game after re-aggravating a nagging hamstring injury, and with freshman Justin Davis already ruled out for the season with an ankle injury, it was Allen who got the call.
+“We knew what he could do, and now it’s time for the world to know what he can do,” senior running back Silas Redd said. “I’m just proud of him because he works so hard.”
+UNSUNG HERO
+Though Allen stole the headlines with his three-touchdown performance, it was Redd who paced the Trojans on offense. Redd tallied 140 yards on 22 carries, serving as the “Thunder” to Allen’s “Lightning” and picking up several crucial first downs.
+“It’s fun to be out there playing with these guys,” Redd said. “We really feed off the defense when they’re on the sideline, and in the midst of the game you could hear them cheering us on. There is just such passion involved out there and that makes it 10 times better.”
+Friday was the first time since USC’s 62-41 loss to Arizona State that the Trojans had two players each eclipse 100 yards rushing in the same game. Against ASU, Madden had 128 yards, while Davis finished with 122.
+TURNING POINT
+In the Trojans’ loss to ASU, the game swung in the Sun Devils’ favor after Kessler threw an interception that was returned for a touchdown, igniting the ASU crowd. On Friday, Kessler threw another pick-six, this one tying the score at 14-14, but this time, the team’s response was different.
+“No one turned on each other,” redshirt junior safety Dion Bailey said. “Everybody just leaned together, going up to Cody and just saying, ‘Hey man, don’t worry about it.’ We knew we had [OSU’s] offense taken care of. We just wanted to go back out there, get [USC’s offense’s] confidence going and score some points.”
+Kessler felt the support of his teammates after his costly mistake, and said he believes the team grew stronger because of the positive response.
+“The best part was that the [defensive] guys came up to me too and said, ‘Cody, you got this, you’re doing great,’” Kessler said. “When you know your guys are behind you like that, it just helps you so much. I blocked it out like it didn’t even happen and played the rest of the game positive and played with a great attitude.”
+Following the interception, the USC offense went on a 10 play, 75-yard scoring drive that swung the momentum back in its favor. Though the drive was capped by Allen’s second touchdown of the night, Redd was the focal point, with seven rushes for 46 yards and four first downs.
+“It felt awesome,” Redd said of the drive. “Whenever they call my number, when they need me, I’m ready. Whatever situation, whatever time in the game, I’m ready.”
+FAST START
+Perhaps the most encouraging aspect of Friday’s win was the return of junior wide receiver Marqise Lee. After injuring his knee against Arizona State, Lee missed two of the past three games, and left the Notre Dame game at halftime.
+But against OSU, the Trojans leaned on Lee from start, with Kessler and Lee connecting on a 71-yard touchdown pass on USC’s first offensive snap.
+“It was nice to come out and establish the deep ball,” Kessler said. “That’s what I love about [offensive coordinator Clay] Helton’s playcalling — he loves to take shots.”
+Lee finished with five catches for 105 yards — a season-high — and one touchdown.
+DOMINANT
+Entering Friday’s game, Mannion was generating buzz as a dark horse candidate for the Heisman Trophy. The USC defense, though, made Mannion uncomfortable all night.
+“He’s a very good player,” Orgeron said. “I thought we did an overall great game plan of creating an atmosphere that they are not going to throw the deep ball on us. We knew if they didn’t throw the deep ball on us, we had a chance.”
+Mannion entered the game with only three interceptions this season, but threw three on Friday and was sacked twice. The USC secondary also held OSU’s star receiver Brandin Cooks to 88 yards on six catches, his lowest reception total of the season and second-lowest receiving yards total.
+STREAK BUSTED
+With all the attention given to USC’s three-game losing streak in Corvallis, the team admitted that there was an extra motivation to silence the Reser Stadium crowd.
+“We heard a lot about coming here and not being successful,” Orgeron said. “Our whole goal was to win the game and see the stands empty.”
+USC players relished the sight of OSU fans heading for the exits early, even more so because Friday served as the team’s first road victory since USC beat Hawai’i in the first game of the season.
+“When their fans start emptying their stadium, and they’re not in a good mood, you’ve done something right,” Kessler said. “It’s a good feeling when their fans are gone and your fans are still here.”
+ 
+Follow Nick on Twitter @NickSelbe 
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The time has come for Trojans to toss aside their textbooks and pack their suitcases for a hard-earned recess from midterms. This weekend is one of the most anticipated times for Trojan football, as Cal and USC duke it out at California Memorial Stadium in Berkeley, Calif.
+For those lucky enough to get away to Northern California with friends, there’s one thing that you’ll need just as much as clean laundry and extra cash — the perfect road trip playlist. Forget the radio and turn your car into the ultimate music hub with this handpicked selection of songs so there’s never a dull moment in your adventure.
+To follow the full 5 hour and 36 minute playlist, composed of hits such as Katy Perry’s “Dark Horse” and Tyga’s “Switch Lanes,” look below.
+
+ 
+For the purposes of this column, however, here are some standout tracks worth taking a look at.
+“Talk Dirty” — Jason Derulo feat. 2 Chainz
+Singer Jason Derulo began his pop career releasing bubblegum singles such as “It Girl” on which he crooned, “You could be my it girl / Baby you’re the s*** girl / Lovin’ you could be a crime.”  Ah, what a brilliant lyricist.
+But in all seriousness, Derulo’s career has taken a more mature turn with his most recent album, Tattoos. The Mediterranean-influenced sampling of American-Israeli duo Balkan Beat Box’s “Hermetico,” which kicks in around 0:41, is quite the contrast to what we’re accustomed to hearing in Derulo’s songs. Though he typically plays it safe with his R&B numbers, the experimentation pays off here. The inclusion of 2 Chainz’s provocative verses further electrify this track.
+“Biggie Bounce” — Diplo feat. Angger Dimas & Travis Porter, TWRK Remix 
+Producer Diplo makes his way onto another edition of “Traveler’s Tracks.” But this time around, I’m revisiting his music to honor the October release of his album, Revolution. The title track fails to impress as past hits “Express Yourself” and “Boy Oh Boy” did, but “Biggie Bounce” makes up for the disappointment.
+But fair warning, fellow Trojans: As the name suggests, the TWRK remix might have your passengers dancing erratically against your seats — safety not guaranteed.
+“Resolution” — Matt Corby
+In every road trip there comes a point when eyes start to droop, voices start to trail off and you’re left with an endless road and a car of sleeping friends.
+Vocalist Matt Corby provides the perfect backdrop to the more relaxed portion of a road trip with this song. The song begins with slow fingerpicking and a gentle drumbeat. Other notable instruments, such as the banjo and keyboard, accompany his passionate vocals. As Corby told Australian radio station Triple J, “The song was written in this little dingy L.A. apartment I’ve been living in for the last few months. It’s an ode to humanity and the way I want to be with other people and spread some love in an un-cheesy way.”
+“Loved You Tonight” — John West
+I discovered John West by chance on a beautiful spring day this past year, while strolling through Third Street Promenade, gelato in one hand and shopping bags in the other. A crowd slowly formed around a fedora-wearing fellow, whose infectious charisma left passers-by smiling from ear to ear. I threw a couple of dollars into his bucket, enamored with his lyrics such as, “Would you mind if I told you I love you tonight / Cause it seems when you’re close to me / It’s gonna be alright.” It was only later in the day that I learned who he was. He wasn’t just any other street performer, hoping to get his big break. He was John West, an artist who had performed with names such as Big Sean and Pusha T.
+“Tired Magician” — Lady Danville
+Our crosstown rival, UCLA, brought Michael Garner, Matt Frankel and Dan Chang together in 2005 to form Lady Danville. The indie-pop trio has covered songs such as MGMT’s “Kids” alongside the creation of unique numbers such as “Cast Away” and “Love to Love.” Lady Danville’s accolades include features on MTV, E! as well as the critically acclaimed documentary, Craigslist Joe.
+Despite its success, Lady Danville suffered the same fate as bands such as ’N Sync and My Chemical Romance: a bad breakup. But not all was lost, as members Michael Garner and Dan Chang went on to create the group Hunter Hunted, producing music with similarly indie vibes.
+“White Walls” — Macklemore feat. Schoolboy Q and Hollis
+Ben Haggerty, better known as Macklemore, is the 6-foot-tall free spirit who graced radio airwaves with his songs “Same Love” and “Thrift Shop” this past year.
+But “White Walls,” a gem off of his 15-track album, The Heist, deserves just as much attention as the aforementioned tracks.
+The masterful inclusion of the pungi, a flute-like instrument used by snake charmers, spices up the song with an ethnic flavor. Though Hollis Wong-Wear’s vocals cannot compare to Mary Lambert’s heartfelt verses in “Same Love,” she does the job. Plus, all the talk of driving will add a little sparkle to your roadtrip: “I got that off-black Cadillac, midnight drive / Got that gas pedal, leaning back, taking my time.”
+“Home” — RAC
+I know. It’s cheesy. But when the time comes to turn that car around, you’ll be happy to hear this familiar Edward Sharpe and The Magnetic Zeroes number. The Remix Artist Collective version slows it down a notch and adds other instruments to the arrangement to give it an innovative spin.
+So if you’re headed to NorCal, enjoy your weekend in enemy territory. Bask in the lack of smog and cooler temperatures. But just remember, regardless of your destination this weekend, sunny Southern California and lively Los Angeles will always be your home.
+ 
+Rini Sampath is a sophomore majoring in international relations (global business). Her column “Traveler’s Tracks” runs Mondays. 
+Follow Rini on Twitter @RiniSampath  
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Downtown Los Angeles might best be described as an urban enigma. It is a relic of a bygone era, as well as a symbol of Los Angeles’ quest to become a more livable and sustainable city. Los Angeles Conservancy’s Modern Skyline Walking Tour helps people conceptualize the city better by exploring the historical context behind the city’s most significant buildings.
+Standing tall · The Los Angeles Conservancy offers walking tours of the Downtown LA skyline for a small fee. The tour highlights L.A.’s architectural diversity and the history behind the city’s buildings. – Photo Courtesy of Los Angeles Conservancy
+During the tour, guides discuss the process of converting buildings such as the Strand Hotel and Pegasus Apartments from offices to residential uses. Other well-known buildings that are discussed on the tour include the Central Library, the U.S. Bank Tower and the Westin Bonaventure Hotel. The executive director of the Los Angleles Conservancy, Linda Dishman, emphasized that the walking tours spotlight Los Angeles’ architectural diversity.
+“Our walking tours support our educational mission in a very significant way,” Dishman said. “People who take our tours get to explore the history of Los Angeles and the unique architectural resources of our city and learn the stories of why these buildings exist. Over 8,000 people took our walking tours last year.”
+USC has utilized the tour to show students Los Angeles through a Visions and Voices event, as well as through different departments.
+“We would love for USC students to get [more] involved,” Dishman said. “We have volunteer opportunities throughout the year, and students interested in volunteering can fill out our volunteer application on our website.”
+Professor Laura Voisin George takes her students on the Skyline Tour as part of her course, PPD 245: “The Urban Context for Policy and Planning.” For George, the walking tour provides an opportunity for her students to experience the tangible results of city planning.
+“I wanted [my students] to see some adaptive reuse and how the city has evolved in the past few decades,” George said.
+George has a deep appreciation for the work of the conservancy itself. The organization was founded in 1978 in response to the proposed demolition of Los Angeles’ historic Central Library. Since it was founded it has played a significant role in numerous preservation and urban revitalization projects. Particularly, the group has made strides in the last 15 years, through efforts such as the Bringing Back Broadway Initiative. Through its work, the conservancy has become a major player in Downtown’s transition into a vibrant urban center.
+“In a city like Los Angeles, there is so much politics involved in all of the decisions that have to do with policies related to historic preservation,” George said. “More so than other [like-minded] organizations, which are focused on education, the Conservancy has to be so connected to political organizations and leaders.”
+The conservancy has used its political cachet to help preserve Los Angeles’ most significant historic structures but also to promote neighborhood revitalization.
+George and Dishman said that the Adaptive Re-Use Ordinance was an important example of the organization’s role in creating dynamic neighborhoods in historic districts by reusing old buildings.
+“In 1999, the conservancy launched our Broadway Initiative which built on the passage of the Adaptive Re-Use Ordinance, which made it easier to convert existing buildings to residential uses,” Dishman said. “The conversion of historic buildings into lofts has had a tremendous impact in not only creating a residential community downtown but also increasing people’s interest in the historic architecture. With more than 14,000 lofts in existing buildings, these residents support restaurants, bars and retail that bring even more people downtown.”
+ 
+Students can still explore the historical architecture of Los Angeles on Nov. 16th, Dec. 7th and Dec. 21st. Tours take place at 2 p.m. on the first and third Saturdays of each month and cost $10 per person.
+ 
+Follow us on Twitter @dailytrojan 
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+As part of its 50th anniversary season, the Los Angeles Master Chorale presented Carl Orff’s Carmina Burana on Saturday and Sunday. The Master Chorale has close ties with Orff’s work. Since its inception, each of the four choral directors has led the L.A. Master Chorale in Orff’s piece. This performance marked the chorale’s 17th rendition of the piece and the second under director Grant Gershon. Over the years, each of the chorale’s four music directors have conducted the choral standard with a slightly different variation. The chorale’s repeated performances reflect the cyclical nature of the piece itself and its staying power. Since its composition, the grand and ominous-sounding “O Fortuna,” which bookends the piece, has appeared in countless films and TV shows.
+Good fortune · The Los Angeles Master Chorale’s performance of Carl Orff’s “O Fortuna” has a special symbolic significance: The cyclically themed work marked the beginning of the 2013/2014 choral season. – Photo courtesy of Los Angeles Master Chorale
+ 
+Carl Orff composed Carmina Burana in 1937, taking the text from a series of medieval poems by the same name from a monastery in Benediktbeuren, Bavaria. The title is derived from Latin and means “poems from Beuren.” Though these poems were found in a monastery, they stray from typical religious themes. Penned by rebellious seminary students and vagabonds, these “goliardic” poems address human flaws, sexuality and the nature of desire. The work is divided into three sections: lyrical “Spring,” party-like “In the Tavern” and sentimental “The Court of Love.” Akin to modern day satires and lighthearted social critiques, these poems evoke a rebellious and witty spirit.
+When the piece debuted in Frankfurt’s Opera House in 1937, Orff included elaborate scenery and costumes to complement the modernist sounds of the piece. At the time of its debut, this piece provided a refreshing contrast to the dense orchestrations other composers employed.
+As Alan Chapman, host of KUSC, noted: “[Carmina Burana] sounds like nothing else ever written.”
+Most notably, Orff uses a series of simple repetitive motifs in the orchestral accompaniment to the third section of the piece, “The Court of Love.” These rhythmic and harmonic melodies seem to be a precursor to the minimalist movement. Yet Orff’s work cannot be easily categorized into a single musical style; it explores a variety of vocal techniques. The concert’s three soloists played on the theatrical aspects of the work, adding to the piece as a whole. Though the Master Chorale did not stage Carmina Burana like an opera, the 115-person Master Chorale and the Los Angeles Children’s Chorus gave a magical and fairytale-like rendition of Orff’s piece, complete with stunning solos and lush orchestral accompaniment.
+The spirited performance and lighthearted nature of Carmina Burana contrasts with the concert’s opening piece, Verdi’s Te Deum. In 2006, Gershon paired Carmina Burana with Cliff Eidelman’s Wedding in the Night Garden. Previous LAMC conductors have paired it with Mozart’s Mass in C Minor and Morten Lauridsen’s Les Chansons des Roses. Former director John Currie juxtaposed Carmina Burana with Antonín Dvorák’s Te Deum and Aaron Copland’s “Four Dance Episodes” from Rodeo. Each composer brought his own flavor to Orff’s piece and the LAMC website allows listeners the chance to compare various renditions.
+In the “Listen Up!” pre-concert talk, Gershon described Verdi’s Te Deum as one of his “desert island pieces,” or pieces he would take with him to a deserted island. He added that the piece is especially relevant because this year marks the 200th anniversary of Verdi’s birth. Verdi’s dramatic Te Deum recalls a more traditional, though no less monumental, choral piece. Composed when Verdi was 82, this piece draws from the Latin story of Saint Ambrose’s baptism by Saint Augustine and is commonly referred to as the “Ambrosian hymn.” Verdi builds drama and grandeur by giving the tenors and basses a distinct and thematic melody. Te Deum uses a double choir to create a robust and overwhelming sound. The piece begins with an a cappella opening and increases in scale. Though the work is considered Verdi’s most musically unified piece, each song in Te Deum involves vivid change of character. Aside from featuring robust chant-like lines in the bass and tenor sections, this piece also takes on a lighter, more haunting quality with the soprano and alto parts. The orchestra adds richly contrasting countermelodies that provide jewel-like color and depth. The piece ends with a call and response between the orchestra and a single soprano voice.
+Te Deum weaves a rich, traditional tapestry of sound while Orff’s Carmina Burana paints an aural fairy tale, more akin to the stories of The Brothers Grimm. The pieces complement each other and showcase the skill and versatility of the choirs and orchestra. Though Carmina Burana has become an LAMC standard, the Master Chorale renews Orff’s works with each performance. Like the shifting light shining through a stained glass window, each experience is singular and captivating.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Yellow journalism, or sensationalist stories, about benign topics are nothing revolutionary in today’s press. Since 1895, when Joseph Pulitzer and William Randolph Hearst began sensationalizing headlines to sell papers, news outlets worldwide have followed suit with their own trumped-up unimportant stories. Unfortunately, in an increasingly digital age with a 24-hour news cycle, the ability of news media today to report on the most boring and unimportant issues has been crowding out important stories about the changing world.
+Wendy Fu | Daily Trojan
+ 
+In the digital age, news organizations are finding a variety of ways to force unimportant news coverage on the masses. According to Neilsen ratings, televised news remains popular, and Fox News has been the leader in cable news for the last decade, with CNN and MSNBC following behind. According to Alexa, an Internet research subsidiary of Amazon, Yahoo News is the most popular among internet news, followed by CNN, the Huffington Post, and Reddit. Interestingly, Reddit is a social network where users award each other with Internet points known as “karma” for posting popular links to cat videos, funny pictures, pornography or, evidently, news stories. As such, calling Reddit a news website is laughable. Reddit is an embodiment of yellow journalism by anonymous Internet masses.
+The plague of yellow journalism is not limited to Reddit, however. Increasingly, news organizations seem to be in the business of making money first, and generating quality reports second. Perusing the front pages of the websites of each of these news sites supposed international coverage garners reports on a Saudi man beating a servant (CNN), Cuba closing movie theaters (NBC), and Qatar removing a statue of two head-butting soccer players (Fox). Frankly, the majority of the “news” stories on the front pages of the international sections of the most viewed news organizations are pieces that should be relegated to local news outfits, not multinational news corporations. Most of these stories are not going to be relevant for more than a day, if even that. Putting them on the front pages of international news sections gives the stories more weight than they deserve.
+In some cases, this kind of international news coverage actually makes viewers less informed. A report from Fairleigh Dickson University found that, on average, Fox News viewers actually knew less about domestic and international events than people who watched no news at all. The most informed people were those who regularly listened to NPR broadcasts. Part of the problem is probably that Fox reports junk that clogs their front page and prevents actual news from getting coverage.
+For well-respected news organizations with the resources to deploy reporters around the globe, reporting on pieces that should be local issues is a waste of their time and resources. This type of reporting wastes the resources of news organizations because they fail to report on important stories that can have international impact. It encourages readers to become more concerned with stories that are not going to have an impact on the world, like soccer statues in Qatar, rather than continuing conflict in the Middle East, international rifts over spying, or any one of the other numerous stories that should be at the forefront of the minds of educated people.
+The reason that this type of news coverage exists is to make money. In some sense, it is a necessary evil, as stories that go viral about tiny issues but generate temporary readership for news organizations also generate advertisement revenue. The only way to make a business work is to have a certain amount of revenue, and banal stories about the world generate more revenue than hard-hitting stories with analysis about global topics.
+But other business models for news coverage exist. In some instances, news organizations do a good job of balancing less important but more sensation stories with hard-hitting journalism; NPR has some of these stories that help generate donations to the site, but still does the best in creating informed viewers. The BBC operates off a similar model, and as a result of British tax cuts in recent years, the BBC has actually trimmed back less important programming in favor of keeping strong news coverage, according to The Economist. Other news organizations charge subscription fees, such as The Economist, The New York Times and the Foreign Affairs Journal, but these papers use the subscription process as a way of targeting only a select group of readers and making sure that their exemplary coverage is geared toward internationally relevant events, with analysis from seasoned reporters, academics and political leaders.
+There are two divergent paths for news coverage in the modern age: Either news moguls can use global reporting to bring quality news and analysis to readers at a fast pace with a high quality, or news organizations can engage in yellow journalism, favor quantity over quality, and attempt to monetize content at the expense of an informed populace. For everyone’s sake, hopefully the latter will become less common in the near future.
+ 
+Dan Morgan-Russell is a sophomore majoring in international relations (global business). His column “Going Global” runs Mondays.
+Follow Dan on Twitter @ginger_breaddan
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+On Oct. 8, the USC student organization Free Minds hosted an event focused on mental health, where a panel of professionals discussed the lack of student awareness regarding mental health. The aim was to promote equality between mental health and medical issues in the community in an effort to destigmatize mental health. Though awareness among adults is already high, the deficit in understanding lies within the demographic affected most by psychological disorders: college students. A lack of education about the issue is to blame for this problem and the university community must continue the discussion on mental health.
+According to the National Alliance on Mental Illness, one in four young adults between the ages of 18 and 24 have a diagnosable mental illness, 40 percent of those surveyed did not seek help and 57 percent of whom did not request accommodations from their school.
+These statistics are highly concerning and demonstrate the negative effects of mental health stigmatization in America.
+Understandably, freshman year of college can feel like a candy store. There’s excitement everywhere new students turn, with new people to meet and new activities and events to engage in. But these opportunities present equally as much stress. Evaluating one’s own physical health during this period can be problematic, but it is even more difficult to evaluate one’s own mental health. Students must learn to recognize that these problems, like many other medical issues, are not their own fault.
+The fact that mental health problems — unlike physical illnesses — can’t usually be detected by others makes it difficult for outsiders to grasp their impact on people’s lives. Regardless of personal experience, no one should denounce the diagnoses of others or make them feel at fault for their illnesses. In reality, the people who are struggling the most try to suppress their problems out of fear and avoid seeking attention. The rise in recreational drug use such as Adderall trivializes the plight of those who take medications for medical reasons.
+Besides these social stigmas, politics contribute to the negative perception surrounding mental health. Health care companies have begun referring to mental health as “mental illness” in policies, which only amplifies the shame associated with seeking treatment. When mental health is framed with such a negative connotation, who would want to admit to having a problem with mental health? It appears that insurance companies are using this to their advantage, as stigmatizing mental health lowers the number of people seeking professional help and thus lowers the number of bills the companies would have to cover.
+A solution to this problem lies in changing vernacular. Replacing the word “illness” with “health” is the first step. This change puts the topic in a less degrading light, promoting wellness instead of implying insanity. Furthermore, mental health shouldn’t be as taboo of a topic as it is now. If the public can address mental health in the same way race, sexuality or war is talked about, it will create a better atmosphere for honest conversation. A way in which this can be accomplished is through the help of celebrities. These highly regarded individuals, in coming out with their own personal struggles, put a face to issues of mental health.
+The recent mental health panel at USC was just the first step in raising awareness and changing the university culture. Students must be constantly reminded to care for each other if the climate surrounding mental health is going to change.
+ 
+ 
+Abby Mark is a freshman majoring in theatre.
+Follow us on Twitter @dailytrojan
+“the deficit in understanding lies within the demographic affected most by psychological disorders: college students. A lack of education about the issue is to blame for this problem and the university community must continue the discussion on mental health.”  I couldn’t agree more, in fact, I think we need to start educating young people while they are still in high school.  Onset of schizophrenia can begin in the teen years, so why wait until college to broach the subject?  Many years ago I worked in the criminal justice system and was saddened by how far things had to go before a person could get help.  I saw young men and women come in to court after committing some offense and they’d be wild-eyed with fear.  They didn’t know what was happening to them.  The voices seemed so real, the commands needed to be obeyed.  They literally didn’t know they were succumbing to schizophrenia and the world around them was a terrifying place.  —  Janice Holly Booth, author of “A Voice out of Nowhere:  Inside the mind of a mass murderer.”
+“an effort to destigmatize mental health” This is a dangerous idea. The goal should not be to make people complacent about mental health issues. Mentally ill people are often a danger to themselves and society. Nearly every mass shooting since 1977 was committed by a person diagnosed as mentally ill. It is not safe to have more mentally ill people as potential ticking time bombs. Mentally ill need to get help or be locked up – for the safety of the rest of us.
+For the mental illnesses that are not a danger to society, we need a different name to keep them from being bunched in with the group that is dangerous.
+LM, I’d like to correct one statement you make when you say that nearly every mass shooting since 1977 was committed by a person diagnosed as mentally ill.  Based on recent research — and two reports published recently by the NY Times and Mother Jones — a large percentage of mass killings in the US were indeed committed by people who had severe, untreated mental illness.  Once the crime statistics were adjusted to remove incidents of gang-related violence and armed robbery, it appears that about 40% of the killings were committed by untreated mentally ill persons.  That’s still way too high, of course, and the whole thing becomes even more tragic when we know those killings could have been prevented if we’d only given appropriate and effective help to the perpetrators in time to stop them.  The whole notion of effective mental health care is a complicated issue but locking people up won’t solve the problem.  We need some good, strong, clear-headed leadership around this social, medical and moral issue, for everyone’s sake.
+great article…. you should take a look at ” I AM NOT OKAY. I’M BIPOLAR”  by Khalil Kuntz  available at amazon…you will be amazed at how this woman has been ignored since a child and the reasons why she continues to struggle with mental illness. it is amazingly deep, disturbing and touching all at the same time. The details are much too vivid to be anything other than nonfiction. After reading this, i am sure eyes will be open to perhaps the answers to all the why’s and how’s that are being questioned about mental illness and situations going on in the world today.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:

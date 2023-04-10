@@ -1,0 +1,655 @@
+The Jesse M. Unruh Institute of Politics hosted its first roundtable discussion of the year on Wednesday. The event featured legislators-in-residence, former State Senator Tony Strickland and former Assemblyman Anthony Portantino, in a discussion about the recent implementation of the Affordable Care Act, popularly known as Obamacare.
+Round table · Tony Strickland, a former California State Senator, and Anthony Portantino, a former California Assemblyman, talk to a group of students about the challenges of health care on Wednesday. – Austin Vogel | Daily Trojan
+Strickland, a Republican, and Portantino, a Democrat, both agreed that the recent introduction of the online health exchanges was flawed. The government website has suffered from technical issues preventing Americans from being able to purchase health care online.
+Strickland said that he believes the problems with the healthcare act went beyond the problems with the website.
+“When you listen to what it was in theory and what it was sold as, it sounded like a fantastic plan. I always thought it wouldn’t work. I also don’t think it’s an Internet issue or a computer issue — it’s not,” Strickland said. “I think, fundamentally, some of this is flawed.”
+Strickland also cited the statistic that 85 percent of the population was either satisfied with or liked their health care plan before Obamacare.
+Portantino, however, affirmed his support for the Affordable Care Act.
+“I’m a cheerleader for our country, I’m a cheerleader for our state. I’m a cheerleader for your future,” he said. “I want things to work. And a computer problem can be fixed. Now there’s no excuse that they couldn’t get that right.”
+Both men also noted that they supported bipartisanship on both the state and national levels. Strickland, who is running for U.S. Congress next year, also conceded that Republicans did not do enough to improve health care legislation.
+“Republicans didn’t do a good job at saying what the alternative was,” Strickland said.
+The discussion also included a brief overview of topics such as the individual mandate, which requires people to purchase health care. Many students believed it was both interesting and informative.
+“I’m glad that they’re here to enlighten us and give us that political aspect of it,” said Tara Campbell, a junior majoring in political science and broadcast and digital journalism. “I think health care is going to be something that is deliberated throughout next year, and we’re going to see even more of it.”
+Others were impressed by the amiable tone of the discussion, despite the fact that the speakers were from different political parties.
+“I really enjoyed how nonpartisan they were. They offered thoughtful and comprehensive opinions that didn’t just toe the party line,” said Brandon Chung, a sophomore majoring in political science.
+Many students also said they enjoyed the roundtable setting because it made them feel comfortable asking questions and engaging in discussion.
+“I liked the fact that it was very receptive to all opinions and there wasn’t any heated debate,” said Fernando Delgado, a senior majoring in international relations. “It was overall very informative.”
+ 
+Follow us on Twitter @dailytrojan 
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+In honor of GIS Day, a celebration dedicated to geographic information sciences, students enrolled in SSCI 301: “Maps and Spatial Reasoning,” launched a 5-foot weather balloon in Alumni Park with an infrared camera to demonstrate aerial mapping technology.
+Up in the air · Robert Abugel, a junior majoring in policy, planning and development, prepares the weather balloon in Alumni Park. – Jessica Zhou | Daily Trojan
+This semester, the course is taught by Darren Ruddell, an assistant professor and the director of undergraduate studies for the Spatial Sciences Institute.
+Once the helium-filled weather balloon was launched into the air, the mounted GoPro camera captured photos every couple of seconds. After enough photos were captured, the individual images were stitched together using MapKnitter, an open-source mapping tool, to form one large geospatial image.
+“One of the key features of this technology is the application of layering features,” Ruddell said.
+Students then analyzed the map that they have created in terms of geospatial decisions and land use.
+“I wanted to create a good balance of assignments and hands-on activities,” Ruddell said. “This project is all about integrating hardware and software platforms and doing field work.”
+Yvette Ximenez, a sophomore majoring in policy, planning and development, is in the course and helped launch the weather balloon.
+“We have been learning how to make maps. We take geospatial data, make maps of it and interpret it,” Ximenez said. “This technology of aerial photography can be used for anything, such as finding a specific store in South Los Angeles.”
+Some students were surprised by how popular the activity is.
+“The most interesting part of the project is seeing how many people are interested in doing [do-it-yourself] mapping and seeing that there is a community for DIY mapping,” said Matthew Del Muro, a junior majoring in environmental studies and earth sciences.
+Brigid Kelly, a sophomore majoring in policy, planning and development, was also enthusiastic about the launch.
+“I am fascinated with why the built environment impacts social and spatial experiences,” Kelly said. “This is a great opportunity for me to learn about it in an academic setting.”
+Kelly and other students in the course are learning computer programming that involves the ArcGIS software, a platform that allows users to design solutions by utilizing geographic knowledge.
+“This course has been teaching me design planning, which requires geospatial information such as statics and thinking geospatially,” said Haijing Lin, a senior majoring in policy, planning and development. “What’s exciting is that everything makes sense and it ties everything you think about in regards to urban and rural natural environment.”
+As a participant of GIS Day, Ruddell hoped to raise awareness about geospatial literacy and the programs that are offered at USC in regards to geodesign.
+“This course is all about map design, cartography, map interpretation, GIS software and spatial literacy, which is all the skills required by students who want to pursue careers in water resource management or forest management,” Ruddell said.
+ 
+Follow us on Twitter @dailytrojan 
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The Office for Fraternity and Sorority Leadership Development, a department of USC Student Affairs, is conducting a survey among the Greek councils in order to “assess the perception of diversity and tolerance in the Greek community” and allow the office to collaborate with cultural centers on future programming, according to an email sent from Associate Director Ray Carlos to chapter presidents.
+The survey asks students to rate their fraternity or sorority in categories of diversity among race, class, gender and sexual orientation. It also allows students to state what kinds of resources they believe would be useful to address issues of diversity.
+Beth Saul, the office’s assistant dean, declined to comment on the data because she believed any comment at the moment would be premature. Saul added that the office would comment on the data being collected once the results were released at the end of the semester.
+USC’s Greek life is divided into six distinct councils. Of those, only one — the Asian Greek Council — targets a specific ethnic group in its description on the Greek life website.
+Jeffrey Liu, president of Beta Omega Phi, a member of the Asian Greek Council, said he was not informed of how Student Affairs will use the survey data.
+“I don’t really know what they’re trying to achieve with this survey,” Liu said. “Even if they find out that there isn’t cultural diversity, I don’t know what they can do to promote that.”
+Liu said that some councils are less diverse than others because they mainly target members from a specific race or cultural background.
+“Ethnicity and diversity will depend on the council. The Interfraternity Council is not necessarily representative because they’re predominantly white,” Liu said.
+Liu’s claim was echoed by one Panhellenic Council sorority member who did not wish be named because she feared facing consequences from her sorority if they found out she was speaking out against the Greek system.
+“I was talking to Asian girls during rush, and some said they had low expectations because they expected that a house would only take about three Asian girls,” she said.
+She added that she could only think of three girls out of her pledge class of approximately 80 who were members of minority groups.
+Liu said there are multiple reasons why this might occur in the Greek system.
+One reason, Liu said, is that the cost can be prohibitive to those from lower income brackets. Seeing the lack of diversity might also discourage students from trying to join if they don’t see themselves fitting in, Liu said.
+Liu said he doesn’t feel like the multi-council system is necessary, and that integrating the Greek system into two councils — one for fraternities and another for sororities — would help diversify the system.
+“If I were looking at the community from the outside. I would definitely feel that there is a huge division between cultures,” Liu said. “I think it’s kind of accurate.”
+A non-Greek student who also did not wish to be named said he perceived the IFC and PHC to be “dominated by whites.”
+“Minorities aren’t formally discouraged,” the student said. “But they’re discouraged from trying to join in the first place because they see it as a white institution.”
+Leaders from within the IFC defended their community’s diversity.
+IFC Vice President of Recruitment John Martello said that the stereotypes that IFC fraternities are “white and upper-class” are unfounded and originate from media representations of Greek life.
+He said the other multicultural councils were instituted because of segregation in the past and they don’t necessarily reflect current attitudes.
+Martello pointed out that the IFC held a seminar at the start of rush week to welcome lesbian, gay, bisexual and transgender students to rush a fraternity.
+IFC Vice President of Communications Tanner Sandoval said he doesn’t see racial inclusion as a problem that needs to be addressed with additional attention at this point. He added that the other councils have a different focus than the IFC and PHC and should not be seen as mutually exclusive.
+“You can be in a multicultural fraternity and a social fraternity,” he said. “IFC and PHC serve more of the social aspect of Greek life.”
+As far as costs go, Martello noted that there are a number of scholarships available for those who cannot afford dues.
+“I can say with confidence that being in Greek life isn’t necessarily a financial burden if you maneuver through it correctly,” he said.
+ 
+Follow us on Twitter @dailytrojan .
+The poor and middle class have always hated the rich for being successful.  That’s the way it always has been, and that’s the way it always will be.
+The Asian fraternities aren’t diverse enough either. They’re too Asian. Diversity is not 100% of something.
+I dunno. I don’t think Greek orgs are obligated to practice diversity. I’m not saying they should blatantly practice racism. But what I’m saying is that people can choose whom they want to associate with. It’s human nature. If a Greek org wants to be WASPy, so be it. If a Greek org only wants to admit a certain ethnicity, let it be. What’s up with all this PC stuff?
+This is all the work of Max Nikias and Beth Garrett.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Senior administrators from the Division of Student Affairs gathered with graduate students of the Rossier School of Education Wednesday night to discuss problems in higher education.
+Reflection · Lynette Merriman, the senior associate dean of student relations, discusses higher education at the Rossier School of Education. – Ralf Cheung | Daily Trojan
+The panel included Vice Provost of Student Affairs Ainsley Carry; Assistant Provosts of Student Engagement Monique Allard, Lynette Merriman and Tim Bessolo; Director of Student Counseling Services Ilene Rosenstein and Executive Director of the Career Center Carl Martellino.
+“We decided to co-host the event in order to look at higher education issues and learn from people like Dr. Carry who have experience and can prepare us as we go into the field,” said Leslie Quinto, president of the Postsecondary Administration and Student Affairs Network, a student-run organization promoting graduate studies in that field.
+The panelists shared their different responsibilities in the Student Affairs department, as well as goals they have for the program. Carry outlined his goals for the program since the recent restructuring of the Student Affairs governing body.
+Carry said his current priorities include making improvements to the student health and wellness, student engagement and student support and advocacy divisions, as well as improving financial stewardship.
+“We’re moving towards an era where every dime matters,” Carry said.
+Panelists also discussed the career paths that led them to their current positions. Sarah Ruelas, a first-year graduate student in the PASA program felt she benefited from hearing about the panelists’ past experiences.
+“It was interesting to hear their career paths because this is what we are studying so it was cool to see how they came to where they are now,” Ruelas said.
+Members of the panel, however, highlighted how the field of higher education is rapidly changing and discussed today’s graduate students might need to make adjustments to their career paths in order to keep up with these adaptations.
+Carry spoke about how the federal conversation about affordability of college tuition is changing higher education. Though keeping tuition costs low is great, this also means fewer administrators, he said.
+“We need to think of innovative ways to serve the student population rather than just throwing money at it,” Carry said.
+Panelists shared advice with graduate students on how to succeed in today’s world of higher education, with all the changes that the field is undergoing. One skill set that all panelists agreed is crucial is networking.
+“Professionals always talk about networking but I felt that they gave us ways to network in more a human and genuine approach,” said Andrew Barton, a first-year PASA student.
+This event marked the first time PASA and SiHEC partnered with Student Affairs administration. Due to the event’s success, Tim Khuu, secretary and historian for the PASA Network, said he hopes student organizations will continue to utilize these resources.
+“I was surprised that the administration was so accessible and transparent,” he said. “They really have a vision for USC and we should continue to collaborate with administrators and to hear their thoughts.”
+ 
+Follow us on Twitter @dailytrojan 
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+For director Lee Daniels, making movies is more than just a job.
+Oscar buzz · Famed director Lee Daniels discussed his most recent film Lee Daniels’ The Butler at the Ronald Tutor Campus Center on Wednesday. – Uracha Chaiyapinunt | Daily Trojan
+“I live my life through my films,” Daniels told a crowd of students Wednesday night in Ronald Tutor Campus Center ballroom. “It’s very therapeutic for me. Every time I do a movie, a little part of me dies — I know that I am closer to death every time I finish a film.”
+After selling his health care business at the age of 21, Daniels became a millionaire overnight. He didn’t have to make movies, but he said he did because after an opportunity came up that he couldn’t refuse. Daniels worked in casting the music video for Prince’s song “Kiss,” and the artist was so impressed with his work that he asked him to cast the 1984 film Purple Rain, for which Prince’s album of the same name was a soundtrack.
+“Manipulating talent and the audience into make believe was intriguing to me,” Daniels told the Daily Trojan.
+Since, Daniel has gone on to direct films including Lee Daniels’ The Butler and Precious: Based on the Novel Push by Sapphire. Elena Dole, a freshman majoring in theatre, said Daniels’ directorial style and themes of race are effective at educating viewers in a way that is also beautiful to watch on screen.
+“It’s really interesting how much art can transform people’s opinions,” Dole said. “It’s incredible how much race can change the way perceive things and bring issues to light. The fact that he can bring to light these issues in a positive way and in a way that so many people can accept them and get involved is also a way that doesn’t make them uncomfortable.”
+Daniels told the Daily Trojan that his work has left him fundamentally optimistic about how much society has progressed in terms of accepting people who are different.
+“I think we’re at a great pace. There are those that complain that we want more, and of course, we always want more,” he said.
+Daniels, who is gay, said that new generations are growing up in a culture of acceptance.
+“We are coming to a place where [Daniels’ son] has two dads: one white and one black,” Daniels said. “His perception of homosexuality is normalcy, for a heterosexual kid. I think that that is beautiful.”
+The event was sponsored by the Black Student Assembly and the Political Student Assembly, who hoped to bring a fresh perspective on race issues to students.
+Justin Bogda, president of the PSA, said Daniels would do just that.
+“I thought he would be a great person to have a conversation about civil rights in this country and about how it has changed and evolved, because that’s what we’re having a conversation about at this school,” Bogda said.
+Daniels described growing up with an abusive father in an impoverished area of South Philadelphia. He never went to college, but said he got a fresh start when he sold his health care business and began a career in the film industry. Daniels also described spending the money he made on cars and drugs.
+“You are all blessed in this room,” he told the audience. “Everything I did I don’t want you to do.”
+Bogda said the conversation Daniels led was one that needs to happen more often at USC.
+“We’re behind the times with the conversations that we have about sexuality and difference,” he said. “The fact that he made a film that explored that journey in the United States, I thought it would be a really good idea to have that conversation here.”
+ 
+Follow Nathaniel on Twitter @Haas4Prez2036 
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+USC’s men’s and women’s diving teams will look to continue their undefeated starts to the season this weekend at the Wildcat Diving Invitational in Tucson, Ariz. It’ll mark the first tournament of the 2013-14 campaign where they’ll compete without their swimming teammates, as USC will compete in the 1-meter, 3-meter and platform contests.
+Crest of a wave · Just two weeks after beating Arizona and Arizona State, USC returns to the desert for the Wildcat Diving Invitational. – William Ehart | Daily Trojan
+The top-ranked women’s swimming and diving team found its oasis in the desert two weekends ago, as they swept Arizona State and Arizona on the road to improve to 3-0 on the season and 3-0 in Pac-12 matchups. The Women of Troy prevailed by a score of 167-128 over the Sun Devils and 167-133 against the Wildcats.
+The men’s team, ranked No. 4 in the nation, enjoyed equal success, beating Arizona State 171-119 and Arizona 172-128 to post a 2-0 record to start their season.
+Seniors Meghan Hawthorne and Stina Gardell as well as sophomores Sam Adams and Kendyl Stewart were instrumental in leading the Women of Troy to victory over the weekend. Senior Dimitri Colupaev led the way for the men, winning four events over the weekend, while junior Cristian Quintero won three.
+Those swimmers earned a much-deserved rest, while some of their teammates will look to beat the heat once again in Tucson this weekend at the Wildcat Diving Invitational.
+Redshirt junior Haley Ishimatsu will compete alongside sophomores Natalie Kalibat, Natalie Stahl and Katherine Van Winkle for the women’s squad, while junior Jordan Gear and sophomores Adam Payne and Collin Pollard will represent the men’s team.
+Ishimatsu enters the women’s side of the tournament as a favorite after taking home the NCAA title for the platform last year. Ishimatsu’s older sister, Victoria, won the 1-meter event at the Wildcat Invitational in 2010.
+Gear was the top performer for the mean’s team in the 3-meter last season, and also performed well on the 1-meter and platform. Pollard placed second in the 1-meter and the 3-meter against both Arizona and Arizona State, and will look to take home his first win of the year this weekend.
+USC will face off against divers from Arizona, UCLA, BYU, Nevada, Wyoming, Boise State and Northern Arizona at the tournament.
+ 
+Follow Aubrey on Twitter @aubreykragen 
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The cold weather in Los Angeles on Wednesday gave the Trojans a glimpse of the conditions they’ll face this Saturday night, as they travel to Boulder, Colo. to take on the Colorado Buffaloes.
+Back in the game · Redshirt junior safety Dion Bailey intercepted a pass to halt a dangerous Stanford drive last Saturday. The secondary will be tested again this weekend by Colorado wide receiver Paul Richardson. – Ralf Cheung | Daily Trojan
+ 
+Orgeron honored
+On Wednesday, interim head coach Ed Orgeron was named a semifinalist for the Maxwell Football Club Collegiate Coach of the Year after leading the Trojans to a 5-1 since taking over for former head coach Lane Kiffin.
+Orgeron is the only Pac-12 representative on the list, and joins 15 other impressive nominees, including Alabama’s Nick Saban, Baylor’s Art Briles, Florida State’s Jimbo Fisher and Ohio State’s Urban Meyer.
+Orgeron was hesitant to acknowledge the honor and credited the team’s recent success to the entire staff and team instead.
+“My first thought went to the players and the coaches,” Orgeron said of hearing the news. “We’ve got guys that are doing a tremendous job here. This is a total team effort, it’s not about [the] individual.”
+To many of his supporters, the honor is just another reason Orgeron deserves to remain head coach of the Trojans going forward, a sentiment echoed by many of his players.
+“I love Coach O. He’s a great guy,” redshirt junior safety Dion Bailey said. “He cares about his players. He’s done a lot to enhance our experience here … But like Coach O always says, just let the chips fall where they may and just control what you can.”
+Scouting Colorado
+Though the Buffs (4-6, 1-6) have struggled this season, the Trojans aren’t letting up in practice this week, and are preparing especially for a few big matchups.
+Colorado wide receiver Paul Richardson, who played alongside USC junior wide receiver Marqise Lee at Los Angeles’ Serra High, ranks fourth in the nation in receiving yards.
+“He’s the best receiver I’ve seen on film this year,” redshirt junior safety Josh Shaw said. “He can run, he can catch the ball and he knows the game as a wide receiver.”
+Though Richardson has proven himself a true threat, the Trojans have been effective in shutting down big receivers this season. In their 31-14 blowout of Oregon State earlier this year, USC’s defense held Brandin Cooks, the No. 1 wide receiver in the nation, to only 88 receiving yards.
+Colorado quarterback Sefo Liufau replaced Connor Wood as the starter for the Buffaloes midway through the season, and pawwssed for a career-high 364 yards in the Buffaloes’ 41-24 victory over Cal last weekend. Liufau, however, is young and inexperienced, traits that the Trojans will look to exploit this weekend.
+“He makes a lot of freshman throws — overthrows, underthrows, misreading things,” Bailey said. “But obviously they have big things in store for him. They pulled the redshirt off of him in the middle of the year and he started starting. It must be something special about him, so we’ve got to prepare for him like we prepare for every other great quarterback that we play.”
+It’s a trap
+The game against the Buffaloes comes one week before USC hosts crosstown rival UCLA, but the Trojans insist they are focusing on the task at hand and not overlooking their opponent.
+“You’re talking to a team that lost to Washington State,” Bailey said, referring to the Trojans’ ugly 10-7 to the Cougars loss earlier this season. “We don’t have the ability to overlook anyone like we’re not better than anyone just on paper. We’ve got to go out and give A+ effort week in and week out.”
+ 
+Follow Aubrey on Twitter @aubreykragen 
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+I thought I was going to be upset.
+When the clock hit triple zeros Saturday, and the student section emptied quicker than the 9-0 after undercover cops arrive, I have to admit I was a little surprised, and briefly a little miffed.
+“This is USC,” I thought. “USC doesn’t rush the field. USC should never rush the field. USC expects — or at least should expect — to beat everyone.”
+Think about how backwards this sentence is: “USC fans stormed the field after the unranked Trojans upset No. 5 Stanford.” What? USC fans stormed the field? USC was unranked and Stanford was fifth? Backwards — that’s the only way to describe it.
+The college football universe was simultaneously flipped right side up and further upside down on Saturday. For USC (11 national championships, six Heisman Trophy winners, .706 winning percentage) to be that thrilled after beating Stanford (one national title, one Heisman winner, .573 winning percentage) just seems wrong. And in many ways it is. But not on Saturday.
+The saying goes, “Act like you’ve been there before.” I certainly quote it a lot. USC has beaten Stanford roughly two out of every three times they’ve played. In that respect, USC had certainly “been there.” But this was about more than that. As has often been pointed out in the days since, USC hadn’t really been there. Not in this way.
+No current student or player knew what it was like to beat Stanford. USC hadn’t beaten them at home since 2005. The Trojans had never before lost four straight games to the Cardinal — no one knew what it was like to beat them after that.
+So no, I wasn’t upset. How could I — or anyone other than an old curmudgeon — be?
+The last time students stormed the Coliseum field, as best anyone can remember, was 1999, when USC knocked off UCLA for the first time in nine years. But that scene, to hear it described, didn’t compare to Saturday. For a scene like that, you have to go back to 1996, when the Trojans beat Notre Dame after 13 years of failure — and one tie — against the Irish.
+The Irish were ranked 10th on that November evening, a 27-20 overtime win for the Trojans. The Bruins were unranked in 1999. The Cardinal, of course, were ranked fifth. But as 1999 shows, the ranking isn’t what’s important. USC fans didn’t storm the field because the Trojans beat a good team. They stormed because the Trojans beat a team that had their number.
+As ABC’s Brent Musberger asked co-commentator Kirk Herbstreit after the game, while surveying the sea of cardinal and gold on the field below them, “Is there anything better than college football?”
+That’s a debate for another time. But that Saturday, on that field, the answer was exactly as Herbstreit gave it: “Nothing.” There is something about college sports that bonds players and fans in a way that professional sports simply cannot match.
+Coach Orgeron has his line: “One team, one heartbeat.” But there’s one more clause that should be added to that. “One team, one heartbeat, one Trojan family.” Corny as it might sound, that’s how I felt trying to pick my way through the mayhem that ensued on that field.
+And as vexed as I initially was when I saw the student section start to empty, the sheer jubilation that surrounded me made that feeling go away almost instantly. And it wasn’t about beating the No. 5 team in the country — I still believe that USC, being USC, should expect to do that. As I wrote last week, it was about something else. It was about restoring order in the college football world. It was about finally, finally, beating “Stanfurd.”
+ 
+“Any Given Saturday” runs on Thursdays, ironically. To explain to Nick how this makes no sense, or comment on this column, email him at burtonn@usc.edu or visit dailytrojan.com.
+Follow Nick on Twitter @NickMBurton 
+
+It WAS about more than just a victory.  It wasn’t just the student section, it was the whole Coliseum!  In those streak-ended games you mention, it was nothing compared to this game, honestly.  There were families, grandmas, parents, all manner of fan were there too celebrate the turnaround.  While I usually am critical of rushing the field for the same reason, this was much more, and it made me proud!  Fight On!
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The USC men’s basketball team will look to put the finishing touches on a successful homestand as they take on West Alabama on Thursday at 7 p.m. at the Galen Center.
+On the fly · Freshman point guard Julian Jacobs has occasionally played at the 2-guard spot for USC due to the absence of senior guard J.T. Terrell. – Ralf Cheung | Daily Trojan
+The Trojans (3-1) won their third straight game on Tuesday, beating Cal State Fullerton 76-62. Junior guard Byron Wesley led the charge with 22 points, senior center Omar Oraby had 15 points and nine rebounds and freshman guard Julian Jacobs added 10 points, seven rebounds and five assists. USC held the lead throughout, building their advantage to as many as 24, but a 14-0 run by the Titans (2-2) kept the game interesting.
+“His 22 tonight was a little quieter than his 31 on Friday,” USC head coach Andy Enfield said of Wesley’s performance. “Byron is becoming a complete player, and I’m impressed because he’s not forcing bad shots and he’s not shooting a bad percentage. He has more assists than turnovers, and he’s our leading rebounder at about nine per game. He’s not taking it 1 on 3 and that’s the sign of a player that’s really improved.”
+Wesley is now averaging 20.7 points, 9.3 rebounds and 4.3 assists per game. Oraby has 13.3 points, 7.3 rebounds and 2.7 blocks per game.
+“We’re really fortunate to have him,” Jacobs said of Oraby. “A lot of times we get bailed out because we just throw it in to him. He’s a big advantage to have, and as the season progresses he’s getting a lot better and our job is just to feed him and look through to him.”
+Senior guard J.T. Terrell, the only other Trojan averaging double-digit scoring (10.0 points per game) didn’t play on Tuesday for what Enfield called “academic reasons.” Terrell came into the season as the squad’s returning leading scorer (11.7 points per game) and was the only player to represent USC alongside Enfield at the Pac-12 Basketball Media Day, but his future with the team seems cloudy. Enfield said Terrell’s status for Thursday’s contest is uncertain.
+West Alabama (1-1), a Division II school of the Gulf South conference, is coming off a 67-46 exhibition loss to UTEP (3-1). The Tigers were 18-for-73 (24.7 percent) from the field, but out-rebounded the Miners on the offensive boards 23-4. Jarrell Byrd led the effort with nine rebounds (three offensive). Sandy Underwood, who leads the Tigers with 20.7 points per game, was held to five points. Cordell Pope led West Alabama with 15 points, bringing his average to 10.3 points per game.
+This will be the first meeting between the Trojans and the Tigers. A USC win wouldn’t do much to impress critics, but a home loss to a Division II school such as West Alabama would prove costly to the Trojans’ hopes to reach the NCAA Tournament.
+“We need every win we can get if we want to go to the postseason,” Enfield said. “We’re going to be in a lot of close games, and our talent is such that we’re a little streaky right now. So we need to win Thursday night, have a great week of practice and see some improvement with our young players who are little streaky.”
+The Trojans will head to Nassau Paradise Island in the Bahamas to take on Villanova (3-0) in the first round of the Battle 4 Atlantis Tournament on Nov. 28 at 10 a.m. They will then take on either No. 2 Kansas (3-0) or Wake Forest (4-0) in Nassau on Nov. 29.
+ 
+Follow us on Twitter @dailytrojan 
+Magnificent beat ! I would like to apprentice while you amend your website, how could i subscribe for a blog web site? The account helped me a appropriate deal. I had been a little bit acquainted of this your broadcast offered brilliant transparent concept
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+No. 2 USC travels to Westwood on Thursday to take on crosstown rival UCLA, in what will be the team’s last regular season game of the year and a crucial Mountain Pacific Sports Federation matchup heading into the conference tournament.
+Too little · Senior utility man Mace Rapsey scored a team-high four goals against Stanford in USC’s 17-16 overtime loss to the Cardinal. – Ralf Cheung | Daily Trojan
+The Trojans (23-3, 5-2 MPSF) will be matching up with the No. 3-ranked Bruins (26-2, 6-1 MPSF) for the third time this year. This game, however, is of utmost importance because of MPSF tournament seeding implications.
+The Trojans currently trail their rivals by one game in the MPSF standings and a win against the Bruins would allow them to clinch at least the No. 3 seed of the conference tournament. In order for the Trojans to achieve a higher seed, Pacific or Stanford would have to lose their final matches this weekend.
+The Trojans have gotten the best of the Bruins in four of their last five matchups, but each of those games has been extremely close.
+The last time the teams had a match decided by more than one goal was when USC defeated UCLA 7-4 in the 2011 national title game.
+In their last epic clash, USC defeated the Bruins when junior driver Kostas Genidounias netted a goal to allow the Trojans to prevail 12-11 in overtime. At the time, the Bruins were the top-ranked team in the country after beating USC 9-8 earlier in the season to snap the Trojans’ 41-game winning streak.
+“We’ve played them twice already this season,” redshirt junior driver Zach Lucas said. “We know what they have, we know what their strengths are so we are just going to have to focus on that.”
+With so many recent losses to USC, UCLA will be especially motivated to clinch the season series at their home pool.
+“They’re definitely going to be after us,” senior two-meter Jeremy Davie said. “It’s going to be their senior day at home and they’re going to be going all out, so we are just going to have to match their intensity.”
+Last week, the Trojans split a pair of matches at home, losing to No. 4 Stanford on the team’s senior day 17-16 in overtime before bouncing back to defeat the No. 8 Long Beach State 10-8. USC had previously defeated both squads at neutral sites earlier this season.
+The team’s loss to the Cardinal was a heartbreaker, as Stanford struck at the final buzzer to prevail over the Trojans. USC is determined to prevent any more last-second defensive breakdowns.
+“We have to focus a lot more, improve on our defense and helping each other out,” Lucas said.
+The Bruins played the Cardinal twice this season, defeating them 10-5 at the SoCal tournament but losing 8-6 in MPSF play.
+UCLA is led by junior Paul Reynolds, who leads the team with 40 goals on the year. They have five total players who have 30 or more goals. Redshirt freshman Garrett Danner has made 217 total saves in goal in his 25 starts.
+The showdown in the pool is set to start at 7:30 p.m. and will be broadcasted nationally on ESPNU.
+ 
+Follow Darian on Twitter @dariannourian24
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+deLaB Grand Central Market Tour
+317 S. Broadway, Los Angeles
+Nov. 23, 12 — 1 p.m.
+If you haven’t visited Grand Central Market yet, you’re either hiding under a rock or a mechanical engineering major. That said, there’s no excuse to miss out this week as design east of La Brea (or deLaB) is hosting a one-hour guided tour of all the food options at Grand Central Market. If you haven’t tried it yet, now’s your chance.
+The Musical of Musicals, The Musical!
+5429 W. Washington Blvd., Los Angeles
+Nov. 22 — 23, 8 p.m.;
+If you like musicals — great. If you don’t like musicals — even better! Eric Rockwell and Joanne Bogart’s five-act performance, The Musical of Musicals, the Musical! parodies the genre through the theme of not being able to pay one’s rent. What could be more humorous than the levity of singing contrasted with the gravity of financial trouble?
+Pearl Jam
+L.A. Sports Arena, 3939 S. Figueroa St., Los Angeles
+Nov. 23  — 24, 7:30 p.m.
+It’s a blast from the past. The second-best alternative rock band of the ’90s comes to Los Angeles for the first time since 2009. Eddie Vedder is aging like fine wine — his live performances are as energetic as ever, so expect favorites like “Even Flow” as well as much more from that one band that wasn’t Nirvana.
+L.A. Public Library Reading of Moby Dick
+One Windward Ave, Los Angeles
+Nov. 23 — 24. 8 a.m. — 10 p.m.
+It’s the beginning of grey whale migration season, and the L.A. Public Library will celebrate by having a reading of all 500 pages of Moby Dick in order to introduce it to new readers. It’s a sitting marathon!
+ 
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Stop Facebook stalking me, you big creep.
+That’s something I could imagine myself saying, or on a particularly caffeinated day, tweeting. But the truth is that I’d venture to say most Facebook stalking isn’t actually that creepy. After all, you’re presumably already “friends” with the person you’re stalking — but we all know how real those friendships are.
+Most of us, if we’re honest with ourselves, will admit to Facebook stalking in the past. Sometimes it’s just too easy to keep clicking the next button on the photos of a best friend or, more likely, a met-once-at-a-party-but-can’t-remember-which-one friend.
+By now, it’s common practice for employers to take advantage of Facebook stalking when making new hires.
+A blogger from the Huffington Post provided this tidbit back in March about her witnessing her bosses huddling around a computer doing just that. According to the blogger, her boss noted that the prospective employee was from Seattle and speaks Italian. Both are pretty benign, though one might imagine some more damaging findings coming up after rifling through some Facebook profiles.
+Employers are not the only ones using Facebook as an evaluative tool. Admissions offices around the nation are doing the same thing, only with college applicants.
+Earlier this month, The New York Times reported on an incident involving Bowdoin College in which a prospective student made nasty remarks on Twitter about other attendees of an informational session for the school. The prospective student was denied admission.
+“It was incredibly unusual and foolish of her to do that,” Bowdoin’s Dean of Admissions Scott A. Meiklejohn told the Times.
+“We would have wondered about the judgment of someone who spends their time on their mobile phone and makes such awful remarks,” he elaborated in a quote that appeared later on in the story.
+Not exactly Facebook — but the same rule applies.
+Oh the joys of social media. Facebook stalking is to know someone without ever having to know them. It is like a pre-interview that doesn’t even have to happen on the phone, or really anywhere, because it’s not even an interview. It’s simply research.
+Facebook stalking like the kind described above is neither particularly worrisome nor reprehensible. It really just makes sense. Why wouldn’t an employer use all the information available to evaluate you? Why wouldn’t an employer look through Facebook posts or tweets? After all, you’re the one who is controlling what information is posted.
+When it comes to dating, however, my take is slightly different. Stalking seems to take on a whole different meeting when a romantic relationship could be on the line.  Given the growing popularity of online dating (and even app dating), the urge to gather more information about who it is you’re dating seems reasonable and, in some ways, responsible.
+Online stalking your date for creepy information could, in fact, prevent you from being creepily stalked offline (the old-fashioned way). Using social media stalking to carry out these ends makes sense.
+But a film, which apparently came out a while back but I’m just now finding out about, envisions a less admirable, albeit crafty, application of Facebook stalking. A Case of You, presumably named for the Joni Mitchell song, follows a writer who uses his love interest’s Facebook to morph himself into a man of her interests, or at least the ones she lists on Facebook.
+“That’s the beauty of getting to see her online profile,” a friend says to the protagonist in the trailer. “You’ll become the man of her dreams if you wanted.”
+She “likes” cooking, learning guitar, judo and ballroom dancing.  I’m going to take a wild guess that he doesn’t.
+In all honesty, this movie sounds right up my alley. But it reveals a basic online fear that I never would have imagined could have resulted from Facebook stalking — losing oneself.  In conforming his interests to a Facebook profile that is decidedly not his, the character, or so the trailer suggests, sacrifices his own identity in the process.
+The premise, both topical and original, is an important reminder of the less (or more) creepy side of Facebook stalking. It’s all too easy to stalk even a friend and mimic what they project onto social media for whatever the reason might be.
+Besides, I’m not sure how the movie ends but were someone to do that to me, I might just have to say: “Stop Facebook stalking me, you big creep.” After the fright, however, I can’t say I wouldn’t be slightly flattered, too.
+ 
+Daniel Rothberg is a junior majoring in political science. His column “21st Century Fears” runs Thursdays.
+Follow Daniel on Twitter @danielrothberg 
+What is your point, what are you arguing, what are you saying to make me care??? Are you thinking of your audience at all when writing or do you just like to hear the sound of your own typing? And why in the world would you construct an argument around a movie you haven’t watched? 
+I ONLY came on this website because my (intelligent, nonjudgemental, kind) friend so often disparages this newspaper; I usually tell him to give you guys some slack, but wanted to doublecheck for myself before I disagreed too adamantly.
+Well, he was right to be incredulous. I am now too. I don’t even know who to blame, the author of this word vomit?  Daily Trojan editors for letting it slip by them? USC?!
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Despite perhaps the most unrealistic premise imaginable and little deviation from what Vince Vaughn usually plays, Delivery Man was a pleasant surprise for someone expecting a few cheap jokes. Though the film is predictable and borderline sappy at times, the movie offers a hilarious yet feel-good response to a very strange dilemma.
+Underachieving · Vince Vaughn plays David Wozniak, a meat truck driver who finds himself $100,000 in debt to the mob. Delivery Man is buoyed by Vaughn’s hilarious performance as a slacker with a heart of gold. – Courtesy of Dreamworks Pictures
+David Wozniak (Vince Vaughn) drives a meat truck for his family business and creates his own misfortunes through a string of bad financial decisions. When introduced to Vaughn’s character, the opening credits take a tour through David’s apartment, a typical bachelor pad decked out in Knicks gear and a setup for growing weed. Soon to follow is news of a $100,000 debt to the mob, and the audience’s suspicions are confirmed — Vince Vaughn is certainly sticking with the underachiever archetype audiences so fondly know him for.
+The story shows David progress into a marginally decent human being through the incentive of gaining custody of his and his pregnant girlfriend Emma’s (Cobie Smulders) child, as well as the welfare of 533 children that he unwittingly fathered through sperm donations. One hundred and forty-two of his children decide to file a lawsuit to overthrow the confidentiality agreement signed by David, under the alias “Starbuck,” at the sperm bank and expose the true identity of their father.  With the help of his equally unaccomplished best friend Brett (Chris Pratt), who conveniently has a law degree, David battles with the decision between letting his kids know who he is or using the potential profit from the lawsuit to settle his debts.
+In the meantime, the audience follows David as he searches for each of his children, dubbing himself their “Guardian Angel.”  He completes tasks as mundane as cheering on his street musician of a son to saving the life of one of his daughters, a struggling drug addict. All the while, one can’t help but pity his family, who tolerate the most incompetent delivery man the world has ever seen as he slowly becomes even worse at his job while pursuing his mission to help his kids.
+The whole premise of his 142 children coming together proves awkward at times, especially as David gets to know each of them. For example, after accidently attending a meeting hosted by his kids to discuss the lawsuit, David, in true Vince Vaughn fashion, goes on a rant at the reception as he introduces a few of his kids to each other, listing off brutally honest descriptors for each one without letting any of the kids actually speak for themselves. As more of his children join the conversation, David’s whole introduction repeats all over again, and the rant continues. Though funny, the scene is repetitive and lasts a little too long for comfort.
+It is very refreshing, however, to see Vince Vaughn as a character who really does want to do something better with his life, rather than continue the streak of the underachieving has-been who stumbles from one scene to another. One almost expects a sick joke to surface when David visits one of his sons, a mentally disabled child, but thankfully nothing of the kind presents itself. In addition, David avoids the typical dire mistake along the way (probably because having more than 500 kids is enough of one in the first place), and seems to genuinely want to strengthen his relationship with his girlfriend for the sake of their child. This and other key aspects of the film urge the audience root for Vaughn to succeed. while pitying his children, who most likely think their father is an awful individual, when actually he is a decent guy.
+And though there are definite hiccups along the way, such as poorly filled plot holes involving the mob, Delivery Man was thoroughly enjoyable and had its funny moments. The last half hour had the audience in hysterics, and the court scenes made the movie well worth sitting through.
+The comedy oozed sappiness through David’s experiences with his children; but frankly, the movie would have been awful if it had lacked the emotional depth these scenes offered. For example, in response to the obvious question the audience asked before they even walked into the theater, “What could one person possibly need more than 100 sperm donations’ worth of profit for?” the screenwriters add in a typical backstory to evolve David into a respectable character. Though the extra plot was unnecessary, especially since it is never referred to again after its introduction, it was an endearing testimony to the fact that Vaughn’s character loves his family and his business.
+Overall, Delivery Man was mediocre — enjoyable, but not exactly worth spending twenty bucks on a ticket and a bag of popcorn. If there is nothing else to do over Thanksgiving break, however, this movie will definitely provide an easy laugh.
+ 
+Follow us on Twitter @dailytrojan 
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+For most, the winter months bring hot coffee, warm blankets and smoldering fireplaces, which provide comfort and uplifted spirits in time for the holidays. For some, however, the winter months bring the most difficult times.
+Rockin’ out · Sophomore popular music major Shawn Halim will perform Friday night at the Ground Zero Performance Cafe to help benefit Monday Night Mission, an organization that assists the homeless. – Photo courtesy of Shawn Halim
+According to the 2009 Annual Homeless Report to Congress,  nearly 3.5 million Americans experience homelessness each year. In Los Angeles County, approximately 82,000 people live homeless on the street, including anywhere upwards of 5,000 children. Skid Row has a permanent population of around 6,000 of Los Angeles County’s homeless citizens, with a steady cycle of thousands of others coming through every night. USC’s chapter of the Alpha Phi Omega community service-based leadership fraternity is making an effort to combat homelessness on Skid Row this holiday season with a benefit concert at Ground Zero Friday at 6 p.m.
+The acoustic-style concert features headliner Clara C. (Clara Chung), a YouTube-famous acoustic artist and 2009 winner of Kollaboration L.A. Shawn Halim, a sophomore majoring in popular music, will also perform.
+“I wanted to reach out to the homeless community on Skid Row and help them by providing … items that we have the privilege to call our basic necessities,” said Alpha Phi Omega president Michelle Kang in a press release about the event.
+Alpha Phi Omega is a co-ed service fraternity dedicated to serving the community in the greater Los Angeles area. Members often volunteer in homeless shelters and have witnessed the poverty and homelessness that affects Los Angeles. Their Monday Night Missions reach out to those on Skid Row on a weekly basis to provide as many meals as possible. Unfortunately, the fraternity does not have the funds to provide shelter, blankets and supplies. In honor of National Homelessness Awareness Week, Kang decided that greater awareness and funds needed to be raised and formulated the idea for a benefit concert.
+“Two years ago, I actually did a mission trip that helped out with homeless people on Skid Row where I spent a week living right near the slums,” Halim said. “We got up each morning to help and I saw firsthand what it’s like for people living there. Because of that [experience], this benefit is close to my heart.”
+For the concert, Halim will contribute a special acoustic set that will feature both covers and original songs, including music that he has never played for a crowd before. Halim is bringing along his friends in the form of a backup band, which will include a guitarist, bassist, keyboardist and box drummer.
+Halim, who has performed at Ground Zero for midterms in his popular music classes, has never had the opportunity to perform his own set there.
+“A bunch of my friends are in APO and they asked me to play and I said yes right away,” Halim said. “It means a lot to me to be able to share music for a cause. I want to show people that it’s not just entertainment. Music isn’t just listening, it’s something that can be used for a lot of good and being able to demonstrate that with a benefit concert is a huge blessing to me.”
+Kang is excited to help benefit Skid Row in a way that’s also fun for students.
+“I thought that having a benefit concert would be a fun and entertaining way to help raise awareness among USC students about what is happening in the greater Los Angeles area … and raise money for such a great cause,” Kang said.
+Homeless people, both in and out of Los Angeles, are an often-neglected population. Halim feels there are ample opportunities to help the homeless community, especially at USC where there are so many people in need in the areas around campus.
+“I go out of my way to help homeless people on the street, even the ones who live near here,” Halim said. “I think it’s so unfortunate that we neglect homeless people and take things for granted.”
+Admission to the concert will be free, but voluntary donations, even small ones, are encouraged. As little as $5 is enough to provide 10 meals to the less fortunate people living on Skid Row.
+The benefit will also feature a silent auction, including items such as movie tickets and gift cards donated by Los Angeles-area sponsors. Raffle tickets for a chance to win a meet and greet with the performers will be sold for $2 each or $10 for six.
+All proceeds from the raffle, silent auction and door donations will go toward blankets, food and hygiene products for Monday Night Mission. APO members will deliver all the items they are able to purchase to Skid Row inhabitants in the coming weeks.
+ 
+APO’s Skid Row benefit concert will take place Friday, Nov. 22 at Ground Zero at 6 p.m. For winners of the raffle, the meet and greet will begin at 9 p.m.
+Follow Ariana on Twitter @starry_ariana
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Tomorrow is the 50th anniversary of the assassination of President John Fitzgerald Kennedy, an event that shocked the world and brought the nation to its knees. For my parents’ generation, Kennedy was a hero. And at 43, he is still the youngest person to be elected to the United States presidency.
+Arnav Garg | Daily Trojan
+My parents can remember every detail of the day they heard about the assassination on Nov. 22, 1963, just like how many people of my generation can remember where we were on Sep. 11, 2001.
+Tragedy has a curious way of bringing people together. It brought them together on that Friday in 1963, and it will bring the world together tomorrow to reflect on Kennedy’s legacy and the lessons he taught by example. The U.S. Congress has made it nearly 35 days without a major political catastrophe, which many might consider an accomplishment. As the nation gathers to mourn Kennedy’s all-too-short presidency, we should remember that it was deeply representative of the characteristics of leaders for the people — something our current government could use a lesson in.
+Kennedy inspired the nation 
+ “We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard,” Kennedy told students at Rice University in 1962. Though Kennedy would never live to see Neil Armstrong take the “one giant leap for mankind” that the president inspired years earlier, his words challenged the nation to never give up the fight for progress and to never be satisfied with the status quo. Fifty years later, with a government space program on the chopping block, and with the shuttle fleet that Kennedy’s words inspired now resting in science museums around the country, this nation could use some inspiration.
+Kennedy looked out for the little people 
+“We can say with some assurance that, although children may be the victims of fate, they will not be the victims of our neglect,” Kennedy stated when he signed mental health legislation in 1963. Though government assistance is a central political question that divides Congress year after year, Kennedy reminded us to never lose sight of our most basic moral responsibility as humans: to look out for each other, and to look out for those that are less fortunate. Now, as Congress decides how to restore the nearly $5 billion that was cut from the Supplemental Nutrition Assistance Program, also known as food stamps, the less fortunate should not be far from their minds.
+Kennedy took responsibility for his actions 
+When it became clear that the Bay of Pigs invasion had been mishandled by the United States and the Central Intelligence Agency, Kennedy could have remained silent and allowed a furious bipartisan debate to overwhelm Congress over who was to blame for the invasion. Instead, Kennedy stood before the nation and took “sole responsibility” for the failed attempt at a coup. After accepting responsibility, a settlement was arranged with the Cuban government for the safe return of the fighters taken prisoner during the invasion.
+These days, the public watches as their elected officials struggle to avoid taking blame at all costs for embassy security in Benghazi, Libya, allegations that the Internal Revenue Service unfairly targets conservative groups and the problems with the implementation of the Affordable Care Act. What most of people don’t realize — and what Kennedy did — is that moving forward begins with accepting responsibility. Given that no one in the modern political era is willing to attempt this on any range of issues, it should come as no surprise that we aren’t moving forward on those issues.
+Three days before Kennedy was assassinated, the nation celebrated the 100th anniversary of one of the greatest speeches in U.S. history, delivered by President Abraham Lincoln at Gettysburg, Pa. Lincoln spoke of the necessity of preserving the union, and preserving government “of the people, by the people, for the people.” Today, we face a new threat to that government — and it is because our leaders spend more time asking what their country can do for them, instead of asking what they can do for their country.
+Sound familiar?
+ 
+Nathaniel Haas is  a sophomore majoring in economics and political science. His column “A House Divided” runs Thursdays.
+Follow Nathaniel on Twitter @Haas4Prez2036
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+George Zimmerman is making headlines again. But this time around, Zimmerman is on trial for allegedly pointing a shotgun at his girlfriend.
+For some people, it might be easy to brush this case off as yet another instance of Zimmerman’s erratic behavior. For other people, Zimmerman’s actions are a painful reminder of the Trayvon Martin tragedy and Florida’s deeply flawed stand-your-ground law.
+But in addition to discussing Zimmerman’s past actions, it’s extremely important to evaluate the gravity of what he has done to a presumed loved one. Zimmerman’s most recent blunder sheds light on a terrifying epidemic — domestic violence.
+In her 9-11 call, Zimmerman’s girlfriend Samantha Scheibe told authorities, “He’s inside my house breaking all my (things) because I asked him to leave,” according to CNN.
+Though it is important to reflect on Zimmerman’s past actions, the most important fact here is that Scheibe isn’t alone. Thousands of others are in the same boat — silenced by mental or physical abuse perpetrated by someone they love.
+Safe Horizon, a nonprofit organization that helps victims of domestic violence, reported how over 3 million children experience domestic violence in their homes each year.
+For those unconvinced by the emotional weight of these stories, consider the economic implications of allowing domestic violence to continue. Safe Horizon’s website states, “According to the U.S. Department of Housing and Urban Development, domestic violence is the third leading cause of homelessness among families.” Furthermore, domestic violence  cases cost the nation more than $37 billion because of the amount of  effort needed to treat victims including law enforcement, legal work and medical and mental health treatment.
+But domestic violence is not unique to the United States — it touches every corner of the world, demonstrating how ingrained it has become in the behavior of mankind. A United Nations Development Programme study found that one in four citizens of Montenegro blame the victim in domestic violence cases. The Women’s International Zionist Organization reported that 200,000 women have been physically abused in Israel. It wasn’t until recently that Saudi Arabia outlawed domestic violence — up until late August, men could legally beat their wives. Human Rights Watch reports that in 1999, nearly 90 percent of Pakistani women were victims of domestic violence.
+There’s a misconception that such cases traditionally occur between married couples, and the media can be blamed for perpetuating these inaccuracies. But domestic violence isn’t limited to married couples — it can happen on a college campus like USC.
+According to a 2007 study from the National Coalition Against Domestic Violence, 32 percent of college students experienced dating violence by a previous partner, and 21 percent of college students experienced it with a current partner.
+But with such a complex issue, where can we even start in solving it?
+First, society must stop trivializing domestic violence. In 2012, a fictional Apple advertisement for Siri went viral. When asked to tell a joke about Chris Brown and Rihanna, Siri responded: “I can’t. I always forget the punch line.”
+This October, one Texas bar owner scrawled onto a store-front display, “I like my beer like I like my violence: Domestic.”
+It might seem funny for a moment. It might elicit a few laughs. But such jokes come at the expense of the victims — such jests might fade with time, but the scars of those who suffer each day will not.
+This must cease in order for domestic violence to be viewed as problem to solve, rather than a problem to treat lightly.
+Second, more efforts must be made to educate and reach out to those affected by domestic violence. Counseling services on college campuses and a greater increase in public service announcements are one way to do this.
+Third, the government must take responsibility for implementing hefty punishments on perpetrators such as Zimmerman — not a single one of them deserves to get off easy. Otherwise, it runs the risk of allowing the cycle to continue.
+Though these three steps won’t solve everything, it’s a start. With the collective efforts of organizations such as the National Coalition Against Domestic Violence, greater attention can be brought to this problem. There’s potential to end the violence and the time is now.
+So whether it’s Zimmerman or someone you know, there is never an excuse for abuse.
+ 
+Rini Sampath is a sophomore majoring in international relations. She is also the editorial director at the Daily Trojan.
+Follow Rini on Twitter @RiniSampath
+
+It is really funny – when a “white” Hispanic acts violent – it becomes National News. When a black person in South Central acts violent – no one says a peep – because if they do and especially if they are not black – then they fear being called a racist.
+I agree we all need to deal with domestic violence – but i wonder if it took a Zimmerman for this article’s author to realize such a thing exists. We have plenty of domestic violence right in our backyards that we quietly ignore – and then act sanctimoniously when a “white” Hispanic commits violence.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The Daily Trojan features Classified advertising in each day’s edition.  Here you can read, search, and even print out each day’s edition of the Classifieds.
+Click the icon to download the PDF of today’s Classifieds:
+
+To place an ad, please contact an ad representative:
+(213) 740-2707
+USC Student Publications Student Union – Room 404
+Los Angeles, CA 90089-0895
+http://dailytrojan.com/ads
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:

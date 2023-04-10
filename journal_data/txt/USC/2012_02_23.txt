@@ -1,0 +1,705 @@
+The Center for Excellence in Teaching held an event on Thursday to inform undergraduate students about how to apply to non-professional graduate school programs.
+The event, Now You Know: How to Get Into Grad School, included a presentation about the application process and a question-and-answer session with a panel including graduate students and an undergraduate student who recently completed the application process.
+Juvenal Cortes, a CET teaching assistant fellow, said the program wanted to familiarize undergraduates with graduate school.
+Learn · The panel included Datton Combs, Ph.D. student, Neuroscience (left), Edson Rodriguez, a graduate student in sociology, and Christopher Hrvoj, a sophomore pursuing an M.D./Ph.D.
+“The way we measure ourselves is to see what undergrads do after they graduate,” Cortes said. “We want to give information on what to expect, and we hope they can take away some preliminary knowledge. If you’re passionate about a topic and if you have skills, why not pursue it?”
+The event emphasized how applications to graduate school largely focus on a specific degree program more than the university as a whole. Panelists also touched on the differences between doctoral programs, which typically lead to careers in academia, and master’s programs, which mainly apply knowledge to areas other than research, such as education.
+Ana Lee, a pre-graduate school adviser in the Office of College Advising, said undergraduates should not underestimate the importance of maintaining their GPA and participating in research or an internship to prepare for graduate school. She also said students should talk to T.A.’s and professors who have been through the process.
+“It’s never too early or too late to think about grad school. While an undergrad, you should take advantage of all opportunities to prepare yourself so you have the option to go if you decide to,” Lee said.
+The Office of College Advising often recommends, depending on the profession, that students do not attend graduate school immediately after receiving their undergraduate degree so they can gain a greater understanding of how they can contribute to the field they wish to study, Lee said.
+CET undergraduate fellow Michelle Tomkovicz said she wanted to host the event after realizing as a junior the complexity of the application process for graduate schools.
+“The most common misunderstanding is that it’s similar to undergrad [applications],” Tomkovicz said. “Most students think you look at a school, you apply and you get in or you don’t. When it comes to grad school, it’s so much more personally oriented because it’s much like you are applying to a specific professor. They don’t want to take a chance on someone who isn’t organized.”
+Desiree Romero, a junior majoring in psychology, said the event provided her with new information about the application process and degrees to pursue.
+“At first I was more interested in how to go about [applying to graduate school],” Romero said. “I thought that I would do a master’s degree, but now I’m definitely considering a Ph.D.”
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+With the Academy Awards coming up Sunday, the Annenberg Innovation Lab hopes its new tool will help predict Oscar winners.
+The Oscar Senti-meter, developed in partnership with the Annenberg Innovation Lab, the Viterbi Signal Analysis and Interpretation Lab, and the Los Angeles Times, analyzes opinions using thousands of tweets about the Academy Awards to chart popular opinions.
+The device uses language-recognition software Streams to find tweets about best actress, best actor and best picture nominees and plots the results on a graph.
+Annenberg Innovation Lab director Professor Jonathan Taplin said the lab used the IBM-donated software for several other projects before the Senti-meter.
+The lab first used the software to analyze political tweets, then moved to track the success of the box office.
+The team first became inspired with the idea for the Senti-meter by the software’s accuracy at predicting the success of movies, Taplin said.
+“We saw that Cowboys and Aliens was going to bomb in the box office when the studios thought it was going to be a big movie,” Taplin said. “We saw The Help was going to do well when Disney wasn’t too sure about it.”
+Taplin said the Senti-meter measures anywhere from 300,000 to 400,000 tweets each day.
+Shrikanth Narayanan, director of Viterbi SAIL and a professor of psychology, linguistics and computer science, said the lab had previously used the software for understanding language in settings such as marriage counseling, but Twitter presented a new challenge.
+“The power of Twitter is in using only a few characters to pack a lot of your emotions and feelings into the message,” Narayanan said. “What we try to do is see the kind of words people use and how they use them to map it to their sentiment.”
+The shortness of tweets, however, can also make them more difficult for the software to read. But now the Senti-meter can understand complex features of language such as emoticons and sarcasm, though Taplin said achieving that result took hard work.
+“What we do is we have students look at 5,000 or 7,000 tweets and compare their meaning to what the computer thought they meant,” Taplin said.
+Nuances in meaning that humans naturally analyze in speech patterns can be difficult for the computer to read as well.
+“Sentiment expressions are very complex to quantify. People might say one thing but mean the opposite, such as when they are being sarcastic. But if you look in context, you can try to figure out what the words really mean,” Narayanan said.
+Narayanan said he hopes to put the technology to use in other areas.
+“One of the big problems that interest us a lot is to watch for patterns over time, see how opinions change over time and see how long opinions last,” Narayanan said.
+The Oscar Senti-meter will be updated on the Los Angeles Times website.
+For anyone interested in playing with Twitter sentiment analysis, we wrote an Android app called TxtMiner that lets you do that — http://bit.ly/Axxoju
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Every writer has to start somewhere, and for David Treuer, a professor of English, it was a bet in his dorm at Princeton University.
+“A guy in my hallway was very proud of himself for being in the creative writing program,” Treuer said. “He kept bragging about how hard it was to get into the program, so we made a bet. I wrote a story, and I was rejected.”
+Treuer was studying anthropology, but refused to settle for rejection and continued applying to the creative writing program until he was accepted.
+Native roots · David Treuer, a professor of English, spoke about inspiration behind his fifth book, Rez Life, at Doheny Memorial Library on Thursday night. - Priyanka Patel | Daily Trojan
+More than 20 years later, students, faculty and friends gathered in Doheny Memorial Library Thursday night to celebrate the publication of his fifth book, Rez Life: An Indian’s Journey Through Reservation Life. He shared his inspiration behind the book, read an excerpt and answered a few questions.
+Treuer, an Ojibwe Indian, grew up on the Leech Lake Reservation in Minnesota. Three of his previous novels were works of fiction based on Native American culture. Rez Life is his first full-length work of nonfiction, inspired by a desire to write a contemporary view on Native American issues, such as reservation rights, casinos and spirituality.
+“There was a frustration with the kind of easy journalism that basically focused on, or only conceived, the tragic wrecked Indian communities and lives,” Treuer said. “I also turned around and realized there wasn’t really a major book of nonfiction by a native writer that tried to find some other way into the issue of who we are and where our communities are going, where they’re from and what they mean.”
+Treuer said many Native American writers are prone to falling into telling their stories through the frame of tragedy, a pattern he sometimes found himself falling into during seven years of researching and writing.
+“We’re used to thinking of reservations as places of deficit,” Treuer said. “This is the official version of rez life. The book was a process of finding some other way of seeing truly.”
+Treuer was a professor at the University of Minnesota while writing Rez Life, but came to USC last fall. He teaches several writing workshops, including a course for graduate students where he uses his experiences to help writers with their own work.
+Diana Arterian, a master’s candidate in literature and creative writing, said Treuer’s workshops have helped her develop as a writer.
+“I’m a poet,” Arterian said. “So he helps with seeing the greater mechanisms of prose, which I am not versed in, and giving tools you can use to illustrate the goal of your writing more concisely.”
+These mechanisms are something Treuer himself learned during his time at Princeton, taking classes with notable authors, such as Toni Morrison and Paul Muldoon. Morrison, he said, has become one of his greatest influences.
+“I was petrified the first day of class with her,” Treuer said. “She’s impressive, not just as a writer but as a person. She stressed that books create an opportunity to engage with readers, so you have to think strategically about what assumptions a reader is going to have, and to either use them, or use them against the reader.”
+Treuer is now working with his brother Anton Treuer and linguist John Nichols to write a book on the grammar of the Ojibwe language.
+“If my tribal language dies, a lot is going to die with it,” he said. “It’s vital to my tribe for a whole host of reasons, not only practical, but also philosophical.”
+Treuer also created a Maymester course, Writing on the Rez, which will take USC students to the Leech Lake Reservation in Minnesota in May for a monthlong immersion into Native American culture, where they will write fiction and nonfiction and will collaborate on a documentary about contemporary Native American life.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Steven Park (left), a freshman majoring in international relations (global business), and Bradley Lai (right), a freshman majoring in business administration, enjoy Indian and Jamaican food, respectively, at the International Food Fair in McCarthy Quad on Thursday. The event was sponsored by the International Students’ Assembly.
+Jennifer Schultz | Daily Trojan
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Off to its best start since 2005, the USC baseball team will return home from a victory in Long Beach to take on Akron in a three-game weekend series at Dedeaux Field.
+On target · Senior pitcher Ben Mount and the Trojans are off to their best start since 2005. Mount currently has an earned run average of 1.50. - Katherine Montgomery | Daily Trojan
+The Trojans started 4-0 thanks in large part to their starting pitching, which gave up a total of six earned runs during the season’s opening week. That performance was highlighted by freshman pitcher Stephen Tarpley’s nine-strikeout debut in the series finale against Jacksonville University and capped by senior pitcher Brandon Garcia’s gutsy 5 2/3 innings on Tuesday at Long Beach State.
+“Three of the games were really tight in the late innings,” said coach Frank Cruz. “The fact that the team was composed enough to go ahead and win all three says something. We’ll take that experience with us to the later parts of the season.”
+Now, USC takes on an Akron team still searching for its first victory in 2012. The Zips fell to Elon University in their season opener before dropping both ends of a doubleheader against Appalachian State on Saturday.
+Against the Zips, the Trojans will feature what figures to be their regular weekend rotation with redshirt senior pitcher Andrew Triggs toeing the rubber Friday night and senior pitcher Ben Mount and Tarpley holding down Saturday and Sunday afternoon, respectively. Cruz, however, indicated that no one’s spot is 100 percent secure.
+“It all depends on performance,” Cruz said about the makeup of his weekend rotation. “Things change, but I know that’s the way it’s going to be this week.”
+If any of the Trojan starters are secure, it’s Triggs, whom Cruz called the team’s “de facto ace.”
+“[Triggs] has been ‘the guy’ for three years here now,” Cruz said. “I don’t see that changing.”
+Akron will likely counter with its own three-man rotation, which struggled in its first go-around of the year. Sophomore Jon Pusateri was the only Zips starter to go longer than five innings during Akron’s three losses, and senior Andrew Brown was tagged for seven runs in five innings on Opening Day against Elon.
+Cruz isn’t letting the team take any opponent lightly, however, and stressed that his team still has several things to work on during the week.
+“I’m not trying to give anyone the ‘coach talk’ but [the Zips] are a solid team,” Cruz said. “They have a very well-respected manager [Coach Rick Rembielak] and they’ll be a tough opponent.”
+“I think base running is definitely something we can improve on. We need to have a bit higher percentage on our execution. We’re doing OK, but we need to be better.”
+The bats, led by do-everything freshman Garrett Stubbs, who has seven hits in his first 16 at-bats as a Trojan, also drew Cruz’s praise for their performance in the season’s opening week.
+“I think we’re taking some good swings,” Cruz said. “We’re taking some mature swings, which I would expect from some of our older players. But the younger guys are stepping it up as well.”
+The three-game home stand will give USC time to prepare for its first big test of the year, a road series at perennial national power North Carolina that will likely provide an accurate gauge of where USC stands in the college baseball landscape.
+First pitch on Friday against the Zips is at 6 p.m., Saturday’s afternoon contest begins at 2 p.m. and Sunday’s series finale is a 1 p.m. first pitch.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+After winning the Intercollegiate Tennis Association National Team Indoors Championships for the first time since 1988, the Trojans will return home from Charlottesville, Va. with a doubleheader awaiting them.
+No. 1 USC (11-0) will take on No. 60 San Diego State (5-1) at 1 p.m. and No. 24 San Diego (5-2) at 6 p.m. at Marks Stadium on Friday, a week after they began the tournament in Virginia.
+Their 4-3 victory over No. 3 Ohio State (12-1) landed the Trojans not only the Indoors title, but also their best season start since 1987 amidst a 30 dual-match winning streak spanning from last February.
+The Trojans look to carry the momentum from No. 36 freshman Yannick Hanfmann’s comeback victory over Ohio State’s No. 65 Devin McCarthy to clinch the championship.
+Besides Hanfmann, three other Trojans went undefeated in singles, including No. 11 senior Steve Johnson, No. 14 senior Daniel Nguyen and No. 47 sophomore Emilio Gomez.
+“We have a couple veterans that we knew we could count on, and I thought we had a good game plan in singles,” USC coach Peter Smith said. “The guys came out and did the things we talked about, which was good to see.”
+Last season, USC’s only two losses came from the Indoors tournament. With the title in hand, the Trojans will now shift their focus toward the remaining matches on the schedule before the Pac-12 and NCAA Championships in April and May.
+“[Winning the Indoors] was definitely very special, but we should put it in the past,” Nguyen said. “We won it, but we have to keep it day-by-day and keep working hard and work on the things we need to improve on.”
+USC will have the chance to improve its record with a clash against the San Diego schools. The Aztecs and Toreros come to Marks Stadium with streaks of two and three wins in a row, respectively.
+San Diego State currently has no players ranked in singles and doubles. San Diego is led by No. 74 senior Patrick Pohlman, No. 77 senior Nikola Bubnic and No. 97 junior Thibaut Visy.
+On the other hand, USC will enter the two matches with six players ranked in singles and one pair ranked in doubles. Hanfmann and Johnson, who are No. 28 in doubles, took their first loss of the season together in a 5-8 loss against the No. 1 pair of Ohio State’s Chase Buchanan and Blaz Rola.
+The Trojans are no strangers to the doubleheader. They opened the spring dual-match season on Jan. 22, with matches against Loyola Marymount and UC Santa Barbara and swept them both 7-0.
+USC has not lost at home since a 3-4 defeat to UCLA in 2010.
+“It’ll feel good,” Nguyen said. “For the team, playing at home is always a huge relief. It’s definitely going to be good for us.”
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Senior Katinka Hosszu broke a school record in the 200-yard free in a lead-off swim of USC’s third-place 800-yard to highlight the Women of Troy’s first night at the 2012 Pac-12 swimming and diving championships in Federal Way, Wash., on Wednesday.
+Final push · The Women of Troy are currently tied for third place at the conference championships. The meet will continue until Saturday. - Anna Wierzbowska | Daily Trojan
+USC finished third in a three-way tie with Arizona and Arizona State with 104 points for the first night, which consisted of just two relays. California is currently first (128 points), while Stanford is in second (112). The three-way tie is followed up by UCLA (96), Oregon State (90), Utah (88) and Washington State (86).
+USC’s 800-yard free relay quartet of Hosszu, junior Haley Anderson, senior Amanda Smith and sophomore Lynette Lim took third in 7:01.76, behind California’s first-place time of 6:57.86 and Stanford’s 6:58.82. USC’s time was a season-best and NCAA “A” cut, and fell just short of the 2010 school record of 6:59.48.
+Hosszu led off the relay with a 1:43.19, cutting almost a full second off of her school record of 1:44.01 over 200 yards.
+USC’s 200-yard medley relay took fifth as the foursome of junior Yumi So, sophomore Kasey Carlson, junior Christel Simms and Hosszu finished the tight race in 1:37.77. California’s relay team won with 1:36.77.
+The championships continue through Saturday with prelims beginning at 11 a.m. and finals starting at 6 p.m.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The following incidents were reported in the USC Dept. of Public Safety incident summary from Wednesday, Feb. 22.
+
+View Roundup 02-24 in a larger map
+Crimes against a person
+At 9:17 p.m., two suspects approached two non-USC females who were walking near Vermont Avenue and 37th Place and one of them forcibly grabbed a purse from one of the females’ hands. The suspect demanded money while searching through the purse and the female informed him that she didn’t have any. The suspect threw the purse back at the female and demanded money from the second female. The second female opened her bag to show the suspect that she also had no money and both suspects subsequently fled on foot. DPS officers responded and conducted a search but were unable to locate the suspects.
+Crimes against property
+At 5:29 p.m., two suspects who arranged to meet with a student at Marks Tower to sell him what he believed to be his stolen laptop computer were arrested by LAPD officers for outstanding warrants. The computer in question did not belong to the student.
+Miscellaneous incidents
+At 5:37 p.m., DPS officers responded to a report of an intoxicated staff member refusing to leave the pizzeria at Raddison Midcity Hotel after his manager asked him to do so. The officers advised the staff member that his manager would like him to leave the premises and he complied without further incident.
+At 2:02 p.m., a student reported that she closed and locked the door to her dorm room in Parkside Residential Building upon leaving in the morning and when she returned in the afternoon she found it open. No property was removed.
+ 
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The USC men’s basketball team found itself in unfamiliar territory on Thursday night, grabbing an early lead on the road against a Pac-12 foe that they maintained for more than 17 minutes.
+Free falling · Senior guard Andrew Strangis (above) and the Trojans have dropped 16 of their last 18 contests and only have one win in conference play. They will play two of their last three games at the Galen Center. - Chris Pham | Daily Trojan
+But the Trojans (6-22, 1-14) were unable to hold off Arizona (20-9, 11-5), which finished the first half on a 12-0 run to take a 28-24 advantage into the break that the Wildcats later extended to a 70-54 victory.
+Sophomore guard Garrett Jackson was USC’s main source of offense in the first half, scoring 10 points and adding four rebounds. But he finished 3-13 and failed to register another basket. Freshman guard Byron Wesley, coming off a 16-point performance against UCLA, put together 18 points on 8-14 shooting and seven rebounds in 38 minutes of action. Sophomore guard Maurice Jones joined Jackson and Wesley in double figures with 10 points while playing the entire game.
+The Wildcats, meanwhile, recovered from a rough start to outscore their opponents 42-30 in the second half. The win was Arizona’s sixth in its last seven contests, keeping the Wildcats afloat in the Pac-12 race and as a possible at-large bid for the NCAA tournament.
+Guard Kyle Fogg led Arizona with 16 points and a career-high 12 rebounds, and guard Josiah Turner added 15 points off the bench. Forward Solomon Hill and guard Nick Johnson combined for 18 points. The Wildcats as a team shot 26-57 (45.6 percent), while USC finished 22-57 (38.6 percent).
+USC coach Kevin O’Neill utilized just seven players, a common theme for his injury-depleted team. USC dropped its sixth game in a row and its 18th game in 20 tries. At 6-22, the Trojans have set a school record for most losses in a season and will have to win at least two of their remaining three games (excluding the Pac-12 tournament) to avoid their worst record in terms of win-loss percentage.
+USC will finish out a two-game road trip against Arizona State (8-20, 4-12) on Saturday. The Sun Devils are one of three teams in the Pac-12 with a losing record overall, joining USC and Utah at the bottom of the conference standings. In the teams’ last matchup on Jan. 5, the Trojans fell to Arizona State 62-53 at the Galen Center. Tip off at Wells Fargo Arena is set for 5 p.m., and the game will be broadcast on Fox Sports Prime Ticket.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+In what has been a recurring theme this season, the Women of Troy struggled early against a team below them in the Pac-12 standings. Arizona came out shooting lights out in a back-and-forth first half. But a 12-4 run gave the Women of Troy a 39-31 lead heading into the locker room and the team never looked back, winning by a final score of 78-62.
+“That’s a very good basketball team, with all those guards. For us to do a good job on Davellyn Whyte was the key,” USC coach Michael Cooper said.
+Arizona (14-14, 3-13) shot 50 percent from the field in the first 20 minutes, with Whyte leading them with seven points. But the offensive standouts of the game were wearing Trojan pink, not Wildcat red.
+The Gilbreath sisters scored 20 of USC’s 39 halftime points combined and finished the game with 32 points. Senior Briana Gilbreath had 14 points and redshirt junior Stefanie Gilbreath scored a career-high 18.
+“I felt really good. I’ve been working hard, and my team hasn’t lost their faith in me,” Stefanie Gilbreath said. “They keep passing me the ball, and I had to start making them sometimes.”
+It was another strong game in a comeback year for Stefanie Gilbreath, who was forced to sit out three entire seasons while dealing with three separate knee injuries. After undergoing three surgeries to repair the anterior cruciate ligament in her right knee, she played sparingly last season. This year the older of the two Gilbreaths has played in every game while starting in 13 of them.
+“This young lady has had a turbulent time since being here at USC. For her to come back from her injury and to stay positive like she’s been doing is fun to see,” said Cooper.
+“I keep telling her, ‘Keep shooting, keep shooting.’ At times it becomes almost a tearful moment, because seeing her now is what should have been happening four years ago.”
+USC outrebounded Arizona 50-32, thanks in large part to sophomore forward Cassie Harberts, who had 14 points and 11 rebounds, and junior forward Christina Marinacci, who scored eight points and grabbed 11 rebounds. That solid post play led to 28 points in the paint compared to Arizona’s 16.
+“We’re a big team, probably one of the biggest in the Pac-12, so when we can take advantage of our size, we try to,” Cooper said.
+In the second half, the Women of Troy clamped down on defense, forcing seven turnovers and holding the Wildcats to 29.4 percent shooting. USC was able to convert those turnovers into 17 points.
+Offensively, USC was efficient, shooting 47.1 percent in the first half and 39.1 percent on the night. The team was especially deadly from beyond the arch, shooting 7-12 from 3-point land. Senior guard Ashley Corral shot a scorching 3-5 from long distance and scored 17 points.
+With its third straight victory, USC (15-11, 9-6) leaps over Arizona State for third place in the Pac-12. The two teams square off on Saturday for what will be a pivotal contest that will have major implications on the Pac-12 Tournaments standings.
+“We might have won those games, but now they’re in the past. We have a future,” Briana Gilbreath said. “We have games we have to win, and like coach Cooper said, we control our own destiny.”
+Tipoff for Saturday’s game is scheduled for 2 p.m at the Galen Center.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Maybe USC coach Lane Kiffin is not finished with the University of Tennessee after all.
+On Thursday, the USC football coach hired Kentucky passing coordinator and former Volunteer quarterback Tee Martin onto his staff as wide receivers coach. Martin, who backed up Peyton Manning at Tennessee for two years before winning a national championship in 1998, also played in the NFL for four seasons before beginning his coaching career.
+Martin’s arrival was announced by junior quarterback Matt Barkley, who tweeted, “Excited to welcome @TeeMartin17 to the Trojan Family as our new WR coach!”
+Martin is known in the college football world as a top recruiter and has experience coaching quarterbacks through his “Dual Threat” quarterback camp and working at the Nike Elite 11 camps for the nation’s top quarterback recruits.
+Martin’s hire fills out the football coaching staff for the upcoming season and replaces departed receivers coach Ted Gilmore, who left to take the same position with the NFL’s Oakland Raiders.
+Very excited to watch the Southern California Trojans play this up incoming season! Looks like USC is always doing what’s best for the University and it’s students and players. GO USC!!!!!!
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Cheryl Miller, Lisa Leslie, Tina Thompson, Cynthia Cooper, Paula and Pam McGee.
+Those names put USC women’s basketball on the map, and back in the 1980s, you could synonymously link the program to major success: back-to-back NCAA championships in 1983 and 1984, five Pac-10 conference titles and four appearances in the Final Four. All six players hold several records in USC history, too.
+Fast-forward to the late-2000s when then-USC coach Mark Trakh recruited two All-Americans — one out of Washington and one out of Texas — in hopes of bringing the same level of success the program achieved during the ’80s.
+Those two All-Americans would be seniors Ashley Corral and Briana Gilbreath.
+Four years later, Corral and Gilbreath have etched their names alongside some of USC’s all-time greats in the record books. Gilbreath currently ranks 10th all-time in scoring, eighth in rebounds, sixth in steals and fourth in blocked shots. Corral, meanwhile, is USC’s all-time 3-point leader and ranks fourth in assists.
+The stats say enough about what these two players have accomplished so far during their time at USC, and donning the cardinal and gold carries a special feeling for both players.
+“It has meant so much to me to play here and put on a USC jersey,” Gilbreath said. “All the history that we’ve had, being able to leave my mark and being able to be involved in a family such as USC has been an amazing journey.”
+Likewise, Corral echoed similar sentiments.
+“It’s meant a lot to me,” Corral said. “I’ve created memories on and off the court with people that’ll probably be my friends for the rest of my life. Being a part of the Trojan Family is something I’ll never be away from.”
+But even greater than what it has meant to play for the university is the bond that these two share. Backcourt mates for all four years at USC, the two have forged a lifelong friendship beyond the court.
+“It’s been amazing,” Gilbreath said of playing with Corral. “She’s been like a sister to me. We just have that connection and that bond that cannot be replaced by anyone or anything. It’s been amazing to have somebody to go through the experiences that I’m going through. We’ve shared so many accolades and so many accomplishments together. We always have each other’s back no matter what’s going on and it’s been great to play with her.”
+With Senior Day on Saturday, these two faces of the USC program have certainly given fans something to cheer about. Despite missing out on the NCAA tournament for two consecutive years — two years that the team deserved a berth — both players understand there is unfinished business at USC.
+After last season’s Women’s National Invitational Title run, there were lofty expectations for this squad. Much of the team’s core group of players returned, ready to punch their first ticket to the Big Dance.
+But the injury bug struck, and the injury that might have hurt the most was to senior guard Jacki Gemelos, who tore her anterior cruciate ligament for the fifth time.
+Despite losing one of their leaders and top scorers from last year, the Women of Troy have carried on.
+A roller coaster season, according to both players, might have tested the team early in the season, but they’re better because of it.
+They currently sit in fourth place in the Pac-12 and are six wins away from the magical number of 20, which would almost guarantee a spot in the tournament.
+Gilbreath and Corral will be asked to carry the team these last few games of conference play and in the Pac-12 tournament, all in hopes of clinching that tournament berth.
+Whatever the case might be, whether the Women of Troy make the tournament or not, both players have surely made a lasting impression.
+A career might be defined by how much you win for most people, but for these two players, their impact on the program cannot be understated and their careers have been nothing short of spectacular.
+ 
+ 
+“In the Zone” runs every other Friday. If you would like to comment on this story, visit DailyTrojan.com or email Trevor at trevor.wong@usc.edu
+ 
+ 
+ 
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Let’s get one thing straight.
+There’s nothing wrong with watching a simplistic, thrilling action movie.  Sometimes what’s needed is a ton of excitement, delivered at a fast pace and with such fist-pumping energy that you can’t help but smile. Timur Bekmambetov’s Wanted (2008) is a perfect example: the premise is ridiculous, but the witty direction and the humorously gratuitous use of CGI and slow-motion make the film a rollicking good time.
+Let down · Mike McCoy and Scott Waugh’s Act of Valor disappoints with amateurish directing, poor writing and unconvincing acting. - Photo courtesy of EPK.TV
+Watching the trailer for Act of Valor, it’s easy to see this sort of potential.
+“The characters in this film are portrayed by active duty U.S. Navy SEALs,” the trailer states. “The story is fictional, but the weapons and tactics are real.”
+The trailer goes on to show off some intense, inspired combat scenes, full of dramatic moments and firefights that get the adrenaline pumping. It’s a promising start to what appears to be an indulgently entertaining film.
+Good news: The action scenes are, as the trailer promises, a lot of fun to watch — smartly choreographed with sharp cinematography and pacing.
+The bad news? There’s not enough action. In fact, Act of Valor’s action sequences are few and far between. And the rest of the film is so atrocious that it’s painful to describe it.
+Act of Valor doesn’t have much of a plot; it begins with the kidnapping of a CIA officer, which predictably develops into a rescue scenario. Past that, there’s not much to describe: The story stumbles aimlessly ahead with the premise that the SEALs discover a terrorist plot that must be stopped at all costs. More than anything, the storyline is there to support the depiction of military missions in random international locales.
+To be fair, the combat missions are well portrayed. The soldiers depicted in the movie are perfectly convincing in battle — they are active-duty military men, after all — and it’s quite obvious directors Mike McCoy and Scott Waugh have a sense of how to show this action unravel, even if they do dabble in some suspiciously cheesy first-person camerawork.
+If McCoy and Waugh had stuck with their strong suit, Act of Valor would’ve been fine, if nothing more than a bloody guilty pleasure. Unfortunately for audiences, the film’s few battle scenes can’t redeem it.
+That’s because these scenes are tucked between gargantuan expanses of what must be one of the most poorly written, directed and acted narratives possible.
+For all the novelty of watching real-life SEALs on-screen, Act of Valor reminds us why most films do not employ soldiers: They can’t act. For the most part, the performances in the film are akin to what one might find in a seventh-grade production of Grease: incredibly awkward, stilted and humorous for all the wrong reasons.
+And McCoy, Waugh and writer Kurt Johnstad are apparently content to break every rudimentary film school rule. There’s no attempt to convey what’s going on in the film in a compelling way.
+Mostly, Act of Valor’s narrative is explained through characters standing around, asking questions and receiving lengthy, literal answers about what will happen. Whatever happened to “show, don’t tell”? This is dialogue that even Meryl Streep and Gary Oldman would struggle to make interesting.
+Even more embarrassingly, there is a lot of amateurish directing and cinematography; the camera is noticeably out of focus in certain shots, and not in an intentional shaky-cam sort of way. Coupled with the shoddy plot, these faults make Act of Valor an abject disaster.
+What’s most infuriating about the film is that it tries to show off as a noble salute to the men and women serving in the military. Act of Valor wants the drama and emotion of Saving Private Ryan or The Hurt Locker, without any of the narrative effort; a funeral scene at the end of the movie does nothing to create genuine emotion and only feels exploitative in its forced histrionics.
+Why even bother to show a funeral when the movie blatantly fails to address the human complexities of the men and women who serve in our military? Act of Valor isn’t an honest look into why we should honor soldiers — it’s a mere caricature of it.
+There’s no reason, then, to see Act of Valor. Though the use of real-life SEALs in the film is intriguing, their involvement does not elevate the action beyond what you’ll find in other, more impressive war films. Want a real look into war? Watch Restrepo.
+Act of Valor is simply fiction filmmaking at its worst, somehow simultaneously pointless and boring where it could have been at least entertaining.
+With the film dedicated to American soldiers, they deserve far better than this.
+Sir you are wrong about everything except the poor acting.  This was a tremendous film that could have been better, but was well worth the money to see.  Your first mistake was to go into the movie expecting grammy award performances from non-actors.  This a film that brings into focus the sacrifices that our soldiers and their families make in a very real manner.  I for one loved the movie so much that the poor acting and lack of action scenes do not take away from the film. 
+PS dan…….I am on the west coast.
+Imagine that.  Someone on the west coast bashing a movie that stars members of our military.
+Who would ve thought.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+STRFKR: The name sounds vaguely familiar, like an old acquaintance or a distant memory.
+If you saw Target’s Pepto-Bismol commercial featuring the song “Rawnald Gregory Erickson the Second” in 2009, then STRFKR is on your radar.
+Astrological · Keil Corcoran (left), Josh Hodges (center) and Shawn Glassford (right) of STRFKR will play the group’s signature indie-pop, laid-back dance beats at KXSC Fest Saturday, Feb. 25 at Founders Park. - Photo courtesy of Polyvinyl Record Co.
+But the group, comprised of Joshua Hodges on keyboards, Shawn Glassford on bass and Keil Corcoran on drums, is more than something recognizable from entertainment’s past. Rather, it’s the underground triple threat of lighthearted, good-spirited and dance-worthy indie-pop rock.
+STRFKR, however, did not always occupy such a prestigious position within the underground music scene.
+The animated trio had a rough start because of its unconventional and provocative name, which led to failed licensing deals and wary industry representatives. The group even changed its name at one point but decided to remain true to its original idea.
+“We kind of just decided that we didn’t really care. We eventually just gave in and accepted our fate,” said Corcoran, who is not an original member but has dealt with concerns regarding the band’s name.
+With this nonchalance came an adventurous spirit. STRFKR tackled criticism from the forefront, which prepared the band to be even more daring.  For instance, STRFKR often dresses in drag for its music videos and live performances — a rarity even in the often-bold music industry.
+“Sometimes when we’re in weird little cities, people are freaked out by it, so we enjoy that aspect,” Corcoran said. “I think we started out just doing it for fun and it’s been a pleasant byproduct to see people be weirded out.”
+STRFKR’s music keeps with this spry and lively attitude and employs a vivacity in its tracks. This energy is inspired, in part, by the band’s particular fondness for “music that young people are making.”
+“We’re all like 30 and sh-t but I have a lot of respect for kids doing rap stuff when they’re like 18,” Corcoran said.
+In addition to celebrating youth culture, STRFKR is inspired by Zen philosopher Alan Watts, whom the band samples in an assortment of songs including “Florida” and “Hungry Ghost.”
+STRFKR, however, doesn’t do it for the sake of jumping on the sampling bandwagon. Instead, the band uses the technique as a means to make its music more dynamic and exciting.
+“It’s something Josh just does if he feels that it needs a little something, which I think is cool,” Corcoran said. “It makes it interesting.”
+STRFKR’s willingness to experiment, along with the band’s longevity, has allowed the band to develop its musical complexity.
+“It’s [STRFKR’s music] definitely evolving,” Corcoran said. “The songs are getting a little bit more intricate.”
+This ongoing development has engendered a slew of new opportunities for the band: STRFKR’s “Bury Us Alive” from its second album Reptilian was recently featured on the Chronicle soundtrack.
+Though the band is open to new artistic pursuits like film soundtracks, the group remains particular.
+“We would love to have our music in more stuff, but we’re just going to take what comes to us,” Corcoran said. “I mean, we pick and choose. We wouldn’t do a commercial for Wal-Mart.”
+This selectivity, however,  doesn’t apply to illegal downloading; here, the band’s signature laid-back attitude comes back into play. In fact, STRFKR owes much of its success to piracy.
+“If people weren’t downloading our records illegally, I doubt we would have as many people coming to the shows,” Corcoran said. “We don’t get a lot of blog love or radio love just because of our name.”
+The lack of media affection has led STRFKR to look to new outlets for its music, which exemplifies exactly what the band believes bigger music labels need to embrace: forward-thinking and a roll-with-the-punches attitude.
+“[Piracy] is inevitable, and the only people that are really b-tching about it are the major labels that haven’t updated their industry,” Corcoran said.  “They’re just working on these outmoded models, and it’s just not working for them.”
+Other than fighting big, bad business moguls, STRFKR has plans to work on its side project bands: Fake Drugs, Sexton Blake and Skeletron, which all serve as different artistic outlets for the band members to harness their varying creative visions.
+“Some stuff just doesn’t really work for STRFKR, doesn’t sound like STRFKR. So that will go into another project,” Corcoran said.
+As for future endeavors, STRFKR is happy to take whatever comes its way.
+“It’s pretty much we work one record at a time,” Corcoran said. “We just focus on finishing records and booking tours. I mean that’s about as long-term as we think ahead.”
+STRFKR is career-driven, but the band also has a sense of humor, which will ultimately get it places.
+“We’re not like ‘Oh, we’re going to take over the world and become f-cking rock stars,’” Corcoran said. “We’re just hanging out.”
+ 
+STRFKR is headlining KXSC Fest Saturday, Feb. 25, at Founders Park.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+If people are enjoying live performances nowadays, it might be for all the wrong reasons.
+Somewhere along the line, live performances have become more about theatrics than about vocal talent. In other words, what gets people talking now is cool dancing and light shows.
+It is, however, worth noting that lights, pyrotechnics and dancing are excellent complements to a live show — good side dishes to the entrée, if you will. But these supplemental assets are being milked for all they are worth in an effort to take the “live” out of live performances and shift the attention elsewhere.
+It would be unfair to say that everyone who lip-syncs is a bad singer. Though it is common for one’s singing to be enhanced by studio magic, it does not make sense that stars, such as Christina Aguilera, Chris Brown and Madonna, have been caught blatantly lip-syncing.
+Perhaps it is a fear of messing up, like Aguilera did when she sang the wrong lyrics to the National Anthem at the 2011 Super Bowl.
+Or maybe the aging Madonna needs help singing her songs live because she does not have the same stamina she used to.
+And maybe Chris Brown is a dancer at heart. Perhaps he sings on CDs solely to provide a soundtrack for his true passion: generating smooth, synchronized footwork and impressive body movements.
+These statements are only suppositions, but there certainly could be some truth to them. In an era when thousands of concert videos are available on YouTube for a single artist, the live performance has lost its original luster. The market is oversaturated with different musical options, and the attention spans of Internet users seem to be much shorter than the run time of a song.
+For this reason, artists have to try something different to capture listeners’ attention. Unfortunately, that means going for pizzazz.
+That is why pop stars like Ke$ha sound like robots on the radio and why Madonna, who many people would call a living legend, could not sing a single note during her Super Bowl halftime show this year.
+If performers want to dance, then they can join dance groups. And if they want to put on light shows, they can probably find employment at a local planetarium. The bottom line is artists should take the stage to showcase their musical abilities.
+Maybe this belief is old-fashioned, but “singers” should be up onstage to sing. If they can do other things simultaneously, that is great too, but fans should not have to sit through lip-syncing just so the performer can focus on other talents.
+More importantly, fans should not accept lip-syncing. When fans hear a song, they should want to see it performed, not just danced, live. After all, what makes someone fall in love with a song is the music: the melody, the vocals and the arrangements, not the vision of fireworks going off or someone popping out of the floor.
+Artists, meanwhile, should see live shows as an outlet to prove that they can sound just as good in person as they do on the record — if not better.
+With that in mind, recent comments made by Foo Fighters’ frontman Dave Grohl make much more sense. Grohl received extensive backlash for his acceptance speech at the 2012 Grammys when the Foo Fighters took home the award for best rock album.
+Though many people saw his speech as a criticism of electronic acts like Skrillex, the main point was that live performances are “not about being perfect … not about sounding absolutely correct. [They are] about what goes on in [your heart] and what goes on in [your head].”
+Grohl went on to clarify his statements in a subsequent Facebook post when he said, “I do the best that I possibly can within my limitations and accept that it sounds like me. Because that’s what I think is most important. It should be real, right? Everybody wants something real.”
+Grohl has it right. Live performances should be real because reality creates the most passion. It is real when a guitar goes slightly out of tune. It is real when a vocalist sings incorrect lyrics and the rest of the performers onstage sort of smile at each other because they know that he or she messed up. It is real to get up there, be yourself and do your best as a performer.
+When everything is said and done, all the audience members will sing along no matter what. No artist should be so focused on other acts as to not sing back. Live performances are all about connecting with the fans in a powerful, evocative way. The easiest way to do that is to be one of them and to sing along.
+ 
+Nick Mindicino is a sophomore majoring in print and digital journalism. His column “Industry Ballads” runs Fridays.
+You should take some more time to qualify the statements you make in your article. The live show is still very alive, especially in the smaller venues that one can find throughout Los Angeles. Your narrow focus on bands that are signed to major labels and have widespread name-recognition robs smaller bands of the credit they rightfully deserve. 
+Could you see anybody you mention in concert for less than fifty dollars? Could you see them in a venue that seats less than five hundred? These are factors that go into making a performance more intimate, not the lights flashing behind them. 
+Additionally, you imply that vocal talent is what makes a strong and memorable performance. This is certainly not the truth in quite a number of cases. Tell me Paco de Lucía gives poor performances. Go ahead, tell me.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+As long as we live in an industrial society, energy needs to be readily available. The price of gas, however, has increased to an average of $3.52 per gallon nationwide.
+If we want to decrease our financial burden, we must elect a president who will address the issue swiftly and effectively by tapping into our own oil and natural gas reserves.
+Nick Cimarusti | Daily Trojan
+ 
+When President Barack Obama took office in 2009, the average price for a gallon of gas was $1.89. Obama’s refusal to pursue affordable energy before alternative energy has had no positive impact on the state of energy in the United States. The situation will not change if he is elected for another term.
+Though Obama has placed a sharp focus on reforming Wall Street for the improvement of the national economy, he has failed Main Street by largely ignoring the flaws in our current energy policy.
+Putting off this problem any longer will have a direct impact on our lives. College students are the ones who will inherit even higher prices at the pump.
+The last thing Americans need is unnecessarily high expenditures on gas in the midst of a significant financial struggle. Not only is it difficult to get a job, it is a struggle to fill up the tank to drive to that elusive interview.
+Instead of kicking the can down the road with foreign entanglements and vague plans for alternative energy development, we have to push our next president to drill here and now.
+Republicans are attempting to push through legislation for the construction of oil pipeline Keystone XL, which would stretch 1,700 miles from Canada to refineries near the Gulf Coast. Obama opposes the pipeline.
+But domestic production of energy resources wouldn’t just reduce our conflicts abroad and drive down gas prices. It would create thousands of jobs here at home, from construction to engineering.
+Critics argue against the pipeline largely on the grounds of environmental concerns. Though environmental risk should be considered, the more pressing issues are creating jobs and increasing energy independence, not to mention lessening the pain of going to the gas station.
+The easier it is to access nonrenewable resources at home, the less money and focus that will be allocated to foreign conflict over such resources. The money and manpower we gain from scaling back the battle for foreign oil can be reallocated to developing alternative forms of energy for the future. Removing our dependence on foreign oil and allowing access to resources here will leave no excuse for pushing off progress in the area of alternative energy.
+Energy will only continue to increase in importance, and there is no better time than now to reap the many benefits of a domestic energy industry.
+Failing to do so promises a future of ludicrous gas prices, negating the potential for more jobs and long-standing economic growth.
+ 
+Sarah Cueva is a sophomore majoring in Middle East studies and political science. Point/Counterpoint runs Fridays.
+ 
+ 
+The Keystone Pipeline is being advocated for by a Canadian energy company. Profits and jobs once the line was done would largely be in Canada. Also, as a deeply uninformed person, Sarah, you should probably not declare that the environmental concerns should take a back seat to energy production. You do not live in the areas that would be affected and I doubt you’ve even been there. As a Midwesterner I am not okay with the building of a pipeline through some of the most beautiful land in this country.
+Also, several organizations that have looked in to TransCanada’s jobs numbers have found that they are either greatly inflating or out right lying about them. Neither seem like a good reason to do what they want.
+How about we invest in efficient, fair public transportation, and LET GAS PRICES REFLECT HOW MUCH PETROLEUM ACTUALLY COSTS. Keeping prices low only encourages the idiots who drive hummers and Escalades, THEY SHOULD ABSOLUTELY PAY THE PRICE AT THE PUMP IF THEY WANT TO DRIVE THOSE CARS.
+That said we need to provide subsidies to lower income people so they can still afford the transportation to the places they work.
+As usual Sarah can’t make a logical argument, so she goes to the standard talking points of the Republican Party. I would welcome the Daily Trojan getting a conservative opinion writer who is smart and/or articulate, but I guess I’ll just have to settle for knowing the conservative voice on campus is not well represented.
+Nope to Nope;
+The Canadian press has complained that the pipeline will employ only a dozen or so workers in Canada, while creating hundreds of jobs in the U.S. I assume this response is advocating government control of pricing, and any microeconomics student three weeks into a course would be able to discredit the disastrous consequences associated with this suggestion.  It is the high price of fossil fuel that has driven additional exploration and extraction, so that we now have more proven reserves of oil than ever in the history of man. More importantly, it is the high prices of fuel that is making it possible to fund alternative approaches to energy, including nuclear, solar, and wind, among others.
+Back to the Keystone pipeline — I wonder if the author is aware there are thousands of miles of pipelines, decades old, now carrying fossil fuels across the country, making it possible to heat our homes. Whether we want solar, nuclear, or wind energy, or other sources, we will always find that energy is inherently dangerous, and at some point we must nevertheless place our trust in the technology.
+ I wonder who has so much credibility that they would be believed if they claimed that it is possible to build a pipeline that will not harm the flora and fauna along its route? My guess is that no one has that much credibility for some people — including the reader who had so little awareness of the facts that s/he had to resort to ad hominem attacks on the article’s author.
+Energy is a “wicked problem” because we cannot agree on the causes of the problems, and are therefore going to find it impossible to agree on a workable set of solutions.
+As for me — I am with the author — a well-presented article that contains a tidy summary of the key points.  I assume no one would advocate a return to biblical levels of technology — and it is risk and experimentation driven by a market that have created a world in which people live longer, enjoy more leisure time, and enjoy safer environments than ever in the history of mankind.
+Nope, I guess it’s OK to think this way but to actually write it for all to see is a bit silly. Your response to an argument based on your selfish fantasies completely discredits any argument you were attempting to make. So you don’t want a pipeline so we can tap into our own reserves and create jobs and save our citizens money at the pump because…….it’s not going to be pretty for you to look at and because several organizations(unnamed for a reason) say the reports are lies??? You think a guy buys a hummer or Escalade because gas prices allow it and thus we should have higher prices??? You want to give lower income people money so they can get to work because your fantasy plan doesn’t allow them to make enough money for gas???
+Wow, you got it all figured out and for the right reasons
+Iran is in a critical dilemma.  On the one hand it wants to show the world all it’s got and put it at ease, while on the other hand it fears that such show ‘n tell will give its enemies a roadmap to bomb it.
+Saddam Hussein faced a similar dilemma ten years ago. Though he wanted the world to know he had nothing to hide, he also wanted to bluff his archenemy Iran into believing Iraq still had WMD.
+Bluffing did not go well for Saddam, and it might not go well for Ahmadinejad.
+But since the price tag for ridding Saddam proved high, we ought to reflect what we are asking of Iran now.  On the eve of a threatened attack, we are asking it to take us to the depths of its arsenal and show us all it’s got.
+Such great expectations are a sign we have been talking to our friends too long and are in need of a broader perspective.  Exactly when was the last time we asked Pakistan, India, China or Russia to show us their arsenal?
+“But those countries are not advocating the destruction of Israel.”
+True, but Israel is not a thorn on their side either.
+Surely, however, we can see beyond the hyperboles and figure out their underlying purpose.  Or have we forgotten that not all Iranians are thrilled with Ahmadinejad?
+He sure hasn’t.
+Nor has he forgotten that that his countrymen hate Israel even more.  So he tells them that Israel will be wiped from the face of the earth.  Expectantly, this nonsense unites them against a common enemy. It even becomes a diversion from the misery and isolation brought on by his anachronistic regime.
+Quite clever work by Ahmadinejad — and not a rial spent or a bullet fired.
+So why are we letting the crazy talk about destroying Israel get us all worked-up — to the point of turning the world topsy-turvy again.
+Can we not plainly see the machinations of an unpopular regime trying to hold on to power?
+Great argument! I completely agree that Keystone would have been greatly beneficial in solving our energy problem. Oh well, until 2012…
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Rapidly rising gas prices might pose a problem for the United States, but tearing up nearly 2,000 miles of American wilderness to build the massive oil pipeline known as Keystone XL is certainly no solution.
+Many Republican presidential candidates hope to pump $7 billion of taxpayer money into the pipeline’s construction. Instead, the federal government should invest that money into fuel efficiency, alternative energy and support for Americans who are hit hardest by the high cost of gas.
+Nick Cimarusti | Daily Trojan
+The global energy crisis demands a solution far more comprehensive than simply improving American access to oil.
+There will come a time when that demand for oil cannot be met, no matter how much drilling we do at home. When that happens, we need to have a well-developed alternative energy sector and a minimal dependence on oil.
+Keystone XL, a pipeline designed to carry the heavy crude produced by Canada’s oil sands to refineries around the Gulf of Mexico, offers no other benefit. The expansion of off-shore drilling, another Republican proposal, demonstrates an equally narrow focus.
+Construction of the pipeline would threaten the environmental welfare of regions such as Nebraska’s Sand Hills and the Ogallala Aquifer. Proposed passage through these areas prompted significant resistance to the pipeline’s initial route.
+The controversy culminated in President Barack Obama’s rejection of the pipeline’s construction permit last month — at least until a new route can be negotiated.
+It is better to abandon the project entirely. If we want to lower gas prices and to decrease dependence on foreign oil, we should concentrate on improving our nation’s fuel efficiency rather than depleting our natural resources.
+At the height of the energy crisis in the 1970s, President Jimmy Carter urged Americans to take steps on an individual level to reduce their use of fuel. Four decades later, the hike in gas prices demands a similar lifestyle change.
+By subsidizing the alternative energy industry, backing technology and engineering education, improving public transportation, and providing tax breaks to companies manufacturing fuel efficient products, the government can curb the demand for gas. The government should not force itself to meet it. The distinction between these two alternatives is vitally important.
+Attaining such stability takes time, which is why we need to begin working toward it immediately. In the meantime, initiatives like the payroll tax cut can help support Americans struggling to afford expensive gas. Educational and industrial development will create benefits for up-and-coming generations through the creation of jobs and the enhancement of technical and other modern fields of study.
+The price of gas is steadily becoming a huge issue in the 2012 election campaign. Voters should support a candidate whose solution to the problem considers the long-term health of the nation.
+ 
+Francesca Bessey is a freshman majoring in narrative studies. 
+Point/Counterpoint runs Fridays. 
+ 
+ 
+ 
+ 
+Something is amiss when we can consider the movement of 200,000 barrels of oil a day and several thousand jobs a “. . . narrow focus . . .”
+Advocacy for a global solution has a nice ring to it — but is wildly impractical.  Energy cost and distribution is a “wicked problem” which means since we cannot agree on the causes, or even the symptoms, we will never agree on a set of solutions.  It seems to me the problem from the U.S. perspective will require a series of meaningful steps, including pipelines and expanded exploration and extraction — and it is the high price of gas that will make those things economically feasible — including the endless quest for alternative forms of energy.  Ultimately, though, we will need to trust technology.  In a recent article, solar panels have been found defective and causing fires in homes where they were installed. Wind power kills large numbers of migrating birds.  I believe we can make aircraft that fly and pipelines that don’t leak — and ultimately we must trust technology.
+Presently we have a crushing government debt on our economy. One way we can reduce the debt is to develop our oil & gas resources and sell the resources or products. China has plenty of dollars to spend, why not sell oil & gas to them and pay down our debt in the same transaction?
+Our nation increasingly embraces Fascism at every level as government and big business seek to take liberties from its citizens with mandates and government takeovers and selection of winners and losers by this Administration.
+Consider that Canada gave USA the “first rights” so to speak on the pipeline and this Administrations abrupt denial after 4 YEARS.  Canada has now opened the door for China (who recently invested nearly $1 Billion to develop new tar sands in Alberta) as Canadians are now working to approve a pipeline to Canada’s west coast and a new terminal to ship oil to the Far East.  Canada is now moving to decouple its energy relationship with USA.
+Secondly, USA is one of the leading refiners of oil and actually exports, you see we take crude from USA, Venezuela and Canada that cost $100/barrel and we refine it and then we sell it for upwards of $250/barrel. As with most American industries, we are able to “value add” products and make a market and a profit and we can emoy our citizens.  This society is oil based and shall be as long as it is the most efficient available commodity.  Mankind never ran out of copper in the Copper Age or Iron in the Iron Age or Coal in the Industrial Revolution nor will we run out of oil as you see man is the greatest of Gods creatures and we are blessed with the ability to innovate, something that is not typically found in the animal kingdom.  We will not run out of oil but it does not preclude oil commodity prices rising as demand and supply determine pricing and easy oil is not so easy anymore.
+Thirdly: are you even awake at the wheel? Hello? Solyndra? “No wind farms in my back yard” especially if your a Kennedy in Cape Cod… We have to get away from the hypocrisy of “Do as I say, not as I do” and get back doing what is best for USA.  (Consider just how important USA is to the world, we get an economic “cold” based on unaffirdable mortgages to the masses and the entire world goes in to recession.
+Consider that the Arab Spring had its roots in the inability of Egypt and Tunisia being able to economically feed it’s own people on $2/day because the price of corn had doubled because the America had diverted substantial amounts of corn to ethanol production.  Our action to be more green had significant ramifications to other parts of the world.  Consider that corn based ethanol is 20% as efficient as cane sugar ethanol yet we subsidize corn production, why?
+The USA needs an all inclusive energy strategy including clean(er) coal, oil, nuclear and increased efficiency in wind, solar and geothermal as well as a “Going to the moon in this decade” development effort fir fusion energy so that some time in our lifetime fusion energy can be economically developed-that is the Holy Grail.
+It is too bad that education today is not balanced, that ithe educators agendas are not understood by the consumers-students.  In Business, society and law there are incredible ramifications of DISCLOSURE, Educators need to be honest and disclose their agendas so student can separate opinion from facts and make honest decisions in their lives and in the end for our country’s future.  It is perfectly fine to have an agenda but it is dishonest not to properly disclose it and I fear that this generation of educators and students have been duped about the realities of life in 2012.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Despite the unease that comes with saying this, it seemed like it was only a matter of time until Rihanna and Chris Brown were collaborating on good terms again in the music business. They each released a remix featuring the other on February 20th, Rihanna’s 24th birthday. The songs were Rihanna’s “Birthday Cake” from her album Talk That Talk and Chris Brown’s “Turn Up the Music” from his upcoming album Fortune.
+Even though Rihanna and Chris Brown are entertainers, not role models, it’s still incredibly awkward to see them come back together in the music world. While some fans wish to leave the domestic assault incidents in the past and others don’t care, some feel like Rihanna is letting down those who look up to her by working with Brown and that Brown’s arrogance and transition back into the charts is disgusting. It’s also just nearly impossible to listen to the music without thinking of the context of the singers’ lives.
+But how is the actual music?
+It’s no surprise that either song is doing respectably on the charts, but considering the general scope of music, both songs are pretty awful.
+While you can clap along to it, “Birthday Cake” is repetitive and awkwardly vulgar. The cake/ sex metaphors and similes are painfully uncreative and having Chris Brown sing “I wanna f— you right now,” dredges up the very uncomfortable and horrible domestic violence acts he committed several years ago.
+“Turn Up the Music” is only a little better. Rihanna sounds comfortable on this track unlike Brown who sounded completely obtuse on “Birthday Cake.” However, while it may be catchier and more palatable than “Birthday Cake,” “Turn Up The Music” has the lyrical creativity of toast. The beat is danceable, but is a popular, generic dance song that will inevitably be usurped by the next popular, generic dance song. Anything to get excited about? Of course not. What’s mainly driving the popularity of both songs is the controversy of Rihanna and Chris Brown working together again.
+Still, love it or hate it, entertainers will do what they do, even if it produces subpar music.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The Daily Trojan features Classified advertising in each day’s edition.  Here you can read, search, and even print out each day’s edition of the Classifieds.
+Click the icon to download the PDF of today’s Classifieds:
+
+To place an ad, please contact an ad representative:
+(213) 740-2707
+USC Student Publications Student Union – Room 404
+Los Angeles, CA 90089-0895
+http://dailytrojan.com/ads
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:

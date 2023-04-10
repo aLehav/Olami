@@ -1,0 +1,661 @@
+Doctoral student researchers in several fields are collaborating to explore the possibilities of engineering, computer science and biology through the use of autonomous underwater vehicles.
+Ocean gliding · The ocean gliders, which roam the ocean floor and can test and gather data, were enhanced by engineering students. – Ralf Cheung | Daily Trojan
+Students in the Viterbi School of Engineering’s Robotic Embedded Systems Laboratory and USC(sea) Lab have been able to do this by programming underwater gliders that will roam the sea, testing and gathering data that is essential to biological research conducted by other students.
+Chairman of the Computer Science Department Gaurav Sukhatme, who is overseeing the project, said the research is actually composed of a series of projects.
+“We are interested in understanding how to build robots that are intelligent and that can survey the ocean,” Sukhatme said. “This has been about a decade-long activity, so what you are seeing are our latest set of experiments in our long-term endeavor.”
+Sukhatme said the project is not without challenges, especially when it comes to adapting computer science for the rigors of real-world applications.
+“We are a bunch of computer scientists, and we are specializing in computer intelligence,” Sukhatme said. “But just to work in the actual ocean, we have to do a lot of things to integrate our ideas with ocean-going hardware and get it to work reliably in the ocean.”
+Arvind Pereira, a fifth-year doctoral candidate studying computer science and the student leader of the lab conducting the joint research effort, said the research group is augmenting pre-existing technology with new technology to fit the project.
+“We decided not to make our own glider because we did not want to spend time developing a system that is already out there and seems to be working quite well,” Pereira said. “Instead, we wanted to focus more on engineering the new things in it, which would allow us to use the preexisting glider and make it smarter. In computer science we do that through improvements in software and hardware.”
+Dave Caron, a professor of biological sciences, said these vehicles are not only cost- and time-efficient, but can also stay out on missions for a month at a time and reach places where human divers could not go.
+“The idea of the robotics is that we will have a continuous presence in the ocean and that is basically what we have developed,” Caron said. “We have developed technology and approaches that allow us to know what is going on in the water on a constant basis, so that when something is beginning to happen, we can be there as it unfolds, rather than be there after the fact. That way we try to understand what the environmental conditions are that give rise to the toxic algae that we see in the water.”
+Caron said the collaboration and teamwork better these very different fields is necessary to achieve both groups’ ultimate goals.
+“It’s a huge environment, so if we tried to keep track of things by simply going out there, we would not be able to cover the area or the time,” Caron said. “We want to be able to have a finger on the pulse — know exactly what’s going on and when things look like they will be informative to us. Then we can get out on the ship and do our sampling and experimental work.”
+Caron said he works closely with the bioscience side of the project, which has been going on for almost a decade. During this time, he has seen results in not only the project itself, but in the students participating as well.
+“I think the students benefit tremendously because they get essentially an interdisciplinary training,” Caron said. “They not only are versed in the robotics and the computer science of it, but they understand … how their approaches can benefit other aspects of science and engineering and, in this case, the biology of coastal oceans.”
+Bridget Seegers, a doctoral student studying biology, said the intertwining of science and engineering has been mutually beneficial for both sides.
+“[The robotics group] definitely has a different set of skills than we have, so it’s been nice having them help us with data processing. They do things a little more efficiently that help save us some time,” Seegers said. “Even though you are working together, you have slightly different goals, because we are interested in the science and they are interested in the engineering aspect. I think we have come to the spot where we can do both those things. There is a lot of understanding between the groups and working together to make sure everyone’s goals are realized.”
+However, Caron said collaboration and cooperation is not always easy. With so many different ideas and backgrounds, the diversity presented its own problems.
+“The most challenging aspect of this has been that we have biologists and engineers and computer scientists and robotics people sitting down at the same table and trying to talk, and we often have very different jargon, very different terminology,” Caron said. “We spend a great deal of time making sure we understand each other when we start speaking in our respective jargons. The communication issue is a significant one, and we do spend a lot of time on that — making sure that we really understand each other when we talk.”
+Caron also noted other challenges the team faces.
+“The other thing that I think is challenging and that we work very hard at is that we always try and pick a topic that will be interesting to both the engineers and the biologists and to the computer scientists in general,” Caron said.
+Though people focus on their individual interests, Caron said it benefits the project’s progress.
+“We have people who want to do just the hardware robotics, we have people who want to do the computer programming, we have people who want to use the information to understand biology and we try to make sure that whatever problem or issue that we pick is interesting in all aspects of those endeavors so that everyone has research to do.”
+Overall, Sukhatme praised the effects collaboration praised the positive effects of collaboration.
+“It’s wonderful,” Sukhatme said. “It’s absolutely superb. We learn a lot from each other and it makes us ask questions that we wouldn’t normally ask.”
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+After changing the focus of graduate student events, Graduate Student Government finished the year with a budget surplus of approximately $100,000, according to organization officials.
+GSG, which lobbies administrators on behalf of graduate students and brings the graduate student community together through programming events, begins each year with a budget of $1.5 million. The events are hosted by the more than 60 umbrella organizations within GSG, which represent various schools and departments at the university. Student enrollment numbers in each organization determine the amount of funding.
+GSG President Yael Adef said finishing without debt as been rare in recent history. Adef said one of her objectives for this year’s administration was to focus more on stabilizing the budget.
+“This is one of the first years we did not have to end the school year with debt from other bodies or our endowment,” Adef said.
+Rohan Handa, the director of finance for GSG, said the finance committee is essential to the programming of events. Annually, about 40 percent of the budget goes toward GSG’s umbrella organizations.
+“Groups like the Viterbi Graduate Student Association and the Mathematics Graduate Student Association fall under this category,” Handa said. “These umbrella organizations submit a budget forecast at the beginning of each school year, giving us an idea of how to best allocate the funds that are available.”
+Handa said that this year, the GSG finance committee focused on providing different programs to the graduate student body.
+“In past years, many of the programs were held within departments and focused on parties and more social events,” Handa said. “This year we emphasized the importance of collaboration among departments and schools.”
+Handa said the organization was able to collaborate more and improve the quality of events by stepping outside of normal scheduling patterns for graduate students.
+“Graduate students overall like to stay more confined to their own schools and departments. We made great strides this year to change that,” Handa said.
+Among the 19 graduate schools and programs at the university, GSG scheduled fewer events with more student participants. For example, the Graduate Research Symposium held this year was coordinated between different departments and schools.
+“We focused on having as many events that broaden a lot of meaning to the graduate life,” Handa said. “In the previous years a lot of funds were held individually and utilized by student leaders in their own specific fields.”
+In addition, the finance committee designated its money toward a wider range of activities, such as lectures by distinguished speakers, job fairs and cultural events.
+Some groups use funding for tailgate parties during football season. Others host brunches for professors or alumni. Once approved by GSG, the distribution of monies is at the discretion of each individual umbrella organization.
+Approximately half of GSG’s yearly budget is put toward administrative costs and salaries, as well as the funding of independent graduate student organizations that are not connected to a school or department.
+Adef stressed that the money that the organization is finishing off with this year will impact students directly.
+“This money will go toward the students and their programs,” Adef said. “I’m happy to say that it will greatly benefit graduate students.”
+With the budget in the black, GSG leaders said they want to improve their technology infrastructure to allow the organization to run more efficiently and increase GSG’s presence on campus.
+“The technology side of our organization is lagging a bit,” Handa said. “There is a plan to establish a better financial website with the money [in the budget.] It is so closely related to everything that goes on on-campus, so we want to make that process smoother and user-friendly.”
+Handa said graduate students will be able to submit funding proposals and requests on a database on the website, which will facilitate better communication with the finance committee. Students will also be able to check their application statuses and budget accounts.
+Adef compared the state of GSG’s budget in terms of a lesson she learned during her days in Girl Scouts.
+“I was always taught to leave the world off a better state than when you found it,” Adef said. “That’s what we did with GSG and its budget this year.”
+ 
+Austin Reagan contributed to this report.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Marianne Hirsch, named the USC Shoah Foundation’s 2013 Yom Hashoah scholar-in-residence, educated an audience of 40 students and faculty at Doheny Memorial Library Thursday about her concept of “postmemory,” or the younger generation’s responsibility to remember trauma such as the Holocuast, suffered by their elders.
+Memory · Marianne Hirsh discusses Thursday the concept of postmemory to an intimate audience in Doheny Memorial Library. – Ralf Cheung | Daily Trojan
+ 
+Hirsch, the president of the Modern Language Association and a professor of English and comparative literature at Columbia University, presented different artistic mediums, such as poetry and drawings, as “small acts of repair,” or ways in which today’s generations can begin to understand the experiences of those who have died in mass genocides throughout history.
+The presentation was prefaced by the story of a young girl, Sonja Jaslowitz, who wrote poetry at the age of 16 while a prisoner in a Jewish ghetto.
+“She did not survive to have her history recorded, but we have her testimony in the form of her poems,” Hirsch said. “But what are we to do with them?”
+Hirsch also spoke about the lack of archived information and public knowledge of the Romanian Holocaust and specifically on Transnistria, a large Romanian region where dozens of ghettos and concentration camps existed during World War II. Nearly 300,000 Jews died in Transnistria during the Holocaust.
+“For many of the Jewish and non-Jewish survivors of Romanian displacement and horrible violence, the suffering of the warriors remained open wounds,” Hirsh said. “Neither justice nor historical accounting had in any sense been served.”
+Though Transnistria was given to Romania as a token of gratitude from Adolf Hitler for the country’s support of the Nazi regime, the Nazi party held ultimate power of the region and Nazi officers often visited on what they called “special missions.”
+“Transnistria became a dumping ground, as everybody came to call it,” Hirsch said. “Prisoners were forced to suffer from mass starvation, deprivation of water and poisoned food, yet its presence in Holocaust history remains relatively unknown.”
+To this day, remains of the site are largely unidentified and neglected, its history unknown to even local inhabitants.
+“As a student at USC and an educated person, I can’t believe I hadn’t even heard of it,” said Hayden Furey, a junior majoring in business administration. “It really makes you wonder how much history has never been told before, and how much we really don’t know about our ancestors.”
+Adrienne Liu, a freshman majoring in political economy, echoed Furey’s thoughts, saying it was fascinating to learn about a little-known aspect of such a major historical genocide.
+“It was really eye-opening that this facet of the Holocaust has been largely omitted from history,” Liu said. “I had never even heard of it before.”
+In addition to reading the poems, Hirsch also played a short video clip from the archives of the Shoah Foundation that presented testimony of one Romanian Holocaust survivor, who recalled looking out her window one evening and seeing a mass shooting of prisoners.
+Hirsch closed the lecture by expressing her hope that such art forms can continue to preserve and honor these little-known stories.
+Frankly, I agree. 
+Someone has to stop this horrible abuse of the Palestinians and it should be all of us. Lord knows, Israel will only do it once the US tells them to and that will be never since AiPAC owns half of Congress. Really pathetic  amoral politicing.
+Very Strange how Ms. Hirsh fails to mention the present day Muslim ghettos (prisons) of Gaza and the West Bank where the prisoners are deprived of their human rights along with water, power, food, jobs, education, etc.. They can neither leave nor enter their Ghettos without Israeli permission, much like the Nazi Ghettos Ms. Hirsh, and indeed the whole world decry. Of course, much like the Nazis, the Palestinians are allowed to leave the ghettos in order to work for the Israelis, but they must return each night under watchful guard of the Israeli Police. There is no doubt that the West Bank and Gaza are ghetto prisons.
+To Ms. Hirsh and to the Israelis, apparently, the past is more important than their present. The whole point of the Shoah Foundation is to stop these past atrocities from occurring again. Yet, the very people who suffered the most are repeating the horror of their own experience upon the occupants of the ghettos that are created and maintained by the Israeli government. Of course, there is no racial cleansing going on by the Israelis, unless you consider that forced steralization fits the definition, but I am not writing about that aspect of the Nazi pogram. I am talking very simply about human rights–and Ghettos are not consistent with human rights.
+Let’s all go forward together and BOYCOTT ALL ISRAELI PRODUCTS until they grant the Palestinians their human rights. Boycotts work, they worked in SOUTH AFRICA and they will work in Israel. Israel is so afraid of BOYCOTTS that they passed a law making it illegal to call for BOYCOTTS from within Israel.
+Let’s us not repeat the past Ms. Hirsh. The past is gone. Let’s use our knowledge of the evilness of human rights abusers to stop the terror that is going on by the hand of the Israelis right now.
+BOYCOTT ISRAEL NOW!!!
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Coming off a third-place finish at the USA Volleyball Beach Collegiate Challenge at Hermosa Beach on Saturday, April 20, the No. 4-ranked USC women’s sand volleyball team now moves on to take part in an exhibition match with the USA junior national beach team on Saturday, April 27.
+“Pairs on the junior national team might be similar to a North Florida or a Louisiana-Monroe team that we might meet that have that scrappy, little beach game,” USC head coach Anna Collier said. “This will be good for our team of more beach-style players so that we don’t get caught off guard by these other teams’ different styles of play.”
+Although it will only be an exhibition, this will be USC’s last home match at the brand new Merle Norman Stadium, where the team has gone 7-3 this season.
+“It’s a lot easier playing on our home sand because we are able to move quicker, run faster and jump higher than we would on the actual beach,” graduate student Stevi Robinson said. “More than anything though, we just need the ball touches and playing competitive games.”
+The matches will serve as a final tune-up for the Women of Troy before they travel to the American Volleyball Coaches Association sand volleyball national championship in Gulf Shores, Ala., May 3-5.
+The Women of Troy (14-6) found out this week that they will be the fourth seed in the tournament, which top-ranked Pepperdine won last year. This seeding seems to be appropriate since USC has been ranked as the No. 4 team in the country for the majority of the season. Its highest ranking earlier this season was third but dropped a spot after narrowly losing to Florida State.
+“I felt our seed was appropriate since every team above us has beaten us, but I think we are better than at least one team that is above us,” Collier said. “However, we didn’t play enough to prove that we are so it’s fair.”
+The Women of Troy will also have individual pairs participating in a 16-team pairs championship that will feature the top duos in the nation on sand. USC will be represented by its No. 1 team of junior Kirby Burnham and Robinson, as well as the No. 2-ranked pair of senior Katie Fuller and freshman Cinnamon Sary.
+Last weekend at the USAV tournament, the duo of Burnham and Robinson finished as the runner-ups in the gold division, tying for the highest finish of any USC team. The two beat Long Beach State’s, Santa Clara’s and Pepperdine’s No. 2 teams, all in straight sets, before dropping the final to Pepperdine’s No. 1 duo of Kim Hill and Lilla Frederick in two close sets, 21-19, 21-18.
+The pair of junior Sam Hirschmann and senior Natasa Siljkovic also finished as runner-ups, but in the bronze division, falling to yet another Pepperdine pair in the final. The USC duo narrowly lost in three sets, 15-21, 21-15, 12-15.
+In the team competition, USC won two of its three dual matches, opening the day with a 4-1 loss to No. 2 Long Beach State and then bouncing back with commanding wins over CSU Bakersfield (4-1) and Loyola Marymount (5-0).
+USC will look to build on its performance last weekend against the USA junior national beach team on Saturday. That team features former USC players such as Geena Urango, who was the first scholarship recipient of the Women of Troy’s sand program in its 2012 debut season. First serve for the dual is set for 9 a.m.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+USC is aiming for the fences and hopefully some baseballs will end up there, too.
+Help needed · Despite a recent improvement in runs scored, USC’s pitching still leaves much to be desired. Junior pitcher Sean Silva (above) and the Trojans have the worst ERA (4.80) in the Pac-12 conference this season. – Corey Marquetti | Daily Trojan
+With only 17 games left in the regular season, the Trojans (16-23) are reflecting on the relative success they’ve had in their first year under USC head coach Dan Hubbs.
+The team is boasting seven everyday starters with batting averages above .300, including freshmen Blake Lacey and Bobby Stahel.
+Though the offense has been underappreciated in a season full of missed scoring opportunities and close losses, it showed up with a bang in USC’s road battle over the weekend.
+After being shut out for the first time all season against a similarly youthful Utah team, the Trojans bounced back for 22 runs off 32 hits in the final two games of the series. USC will need that resurgent offense when it heads back out on the road to take a crack at a formidable foe in Pac-12 conference leader Oregon State (31-8).
+The new spark of life that Hubbs witnessed in the Utah series makes him optimistic about his team’s chances against the Beavers.
+“We’ve proven that we’ll get on base against anybody in the country, and I’m planning on us being on base a lot on Friday, Saturday and Sunday,” Hubbs said.
+If USC can carry over its performance from last weekend, Hubb’s optimism might come to fruition. He plans on keeping his lineup relatively the same, and even though senior infielder Adam Landecker is day-to-day on defense, Landecker will take the designated hitter slot at the very least.
+Hubbs said that even when the team loses some players, others step up.
+“The benefit of guys struggling or being in and out of the lineup for an extended period of time is that it gives other guys a chance to get at-bats,” Hubbs said. “We’re going to need those guys to continue to get at-bats and fill in the lineup.”
+In conference play, those at-bats have helped give USC a slight advantage over the Beavers in batting average (.286 to .281) and hits (381 to 367). Though those statistics look good from a distance, Oregon State takes almost twice as many walks and has scored 58 more runs.
+The Beavers really distance themselves from the Trojans in pitching. They lead the conference with a 2.07 ERA. USC, by comparison, is dead last with a 4.81 ERA.
+Hubbs isn’t worried about Oregon State’s pitching staff, though.
+“We’re pretty comfortable with where we’re at and we know we have guys that are capable of pushing them,” Hubbs said. “I’m very optimistic that we’ll be able to handle their pitching.”
+USC’s numbers on defense, on the other hand, give him pause.
+The Trojans were rattled last Friday for 10 runs and struggled to maintain their hefty leads in the following two games. On Saturday, USC got careless with a 7-1 lead and allowed Utah to put a three-run dent in its solid pitching performance. The following day, a 10-2 lead was quickly squandered in a nightmare ninth inning.
+Hubbs chalked up the mishaps to a combination of not pitching well and playing poor defense, but the real problem lies in one of this season’s trigger words: consistency.
+“On the mound, we need to be more consistent,” Hubbs said. “That’s what’s going to give us the optimism moving forward.”
+Other reasons to look forward to an improvement in pitching include the return of junior ace Bob Wheatley after three weeks and what could be a bounce-back performance from hot-and-cold freshman Kyle Twomey.
+The team will play four more games on the road before returning home to Dedeaux Field, but Hubbs said USC is looking forward to the challenge.
+“Obviously, this is a huge test this weekend but I think that we’re at the part of the season where it doesn’t matter if you’re on the road or at home,” Hubbs said. “You just have to go play good baseball.”
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+It’s far too fitting that I’m writing my last column for the Daily Trojan on the first day of the 2013 NFL draft.
+As I watch Matt Barkley, Robert Woods, T.J. McDonald and others hear their names called over the next few days, I can’t help but remember all the times I interviewed them on the practice field. The laughs. The awkward pauses. The tension after a loss and the joy after a victory. All of it.
+But I also felt a connection in another strange way. All the prospects are likely reflecting on their time at USC. Three or four years at a school, and it’s on to the next chapter, wherever that may be. As they ponder their futures and reflect on their pasts, I find myself doing the same.
+I came to USC as a graduate student in journalism in the fall of 2011 as a lifelong Trojan fan. My father’s whole side of the family went to USC, and I grew up watching Matt Leinart, Troy Polamalu, Mike Williams and so many other stars.
+I finally got to Troy in September of 2011 and was accepted to the Daily Trojan staff. I was assigned my beat by the sports editors at the time and was deeply disappointed: Swim and dive. Not exactly what I had in mind. I couldn’t have told you whether USC had a good team or not. But everyone starts somewhere.
+And as I covered head coach Dave Salo and his team of swimmers and divers, it quickly became apparent that I was watching something special that provided me a lesson I wouldn’t soon forget: there’s so much more than just football at USC.
+Water polo, tennis and volleyball, for example, are all national championship contenders every single year. Watching Salo’s squad made me realize just how lucky I was to be covering an athletic department like this. Talking to players and coaches and getting access was unlike anything I could have imagined.
+But, I’d be lying if I said that my eyes weren’t still on the biggest prize of all: covering Trojan football.
+I was lucky enough to be named the sports editor in spring of 2012 and carried that over into the fall of 2012, this time with a co-editor, Sean McCormick. As the editor, football becomes your beat; it’s the main reason a lot of people apply for sports editor in the fall. And why wouldn’t you? You get to travel to all the games, stay in cities you’ve never been to and talk with players and coaches you’ve been watching on the television for years. It was perfect.
+Except, then the season actually began. And though I was professional in the press box, I was a little disappointed in watching a 7-6 record unfold before my very eyes. For a team that was coming off a 10-2 record and a No. 6 ranking in the Associated Press poll, it was, again, not exactly what I had in mind. I’ll never forget the scene after the Stanford loss in Palo Alto: An absolutely dejected Barkley and McDonald sitting in a makeshift tent-type conference room, at a complete loss for words with their heads down in front of the microphones.
+Even I felt bad, and I hadn’t played a snap. I just had to watch.
+But just like covering swim and dive, there was something more important behind the scenes than the sport itself — that was the experience I had along the way. Sure, witnessing a devastating loss in Tucson, Ariz., wasn’t a perfect weekend for me. But covering games in New Jersey, Seattle, Salt Lake City and El Paso was a dream come true.
+Now, I’m not going to say that staying in El Paso was the greatest moment of my life (anyone who has been there understands), but just being able to present myself as a professional, fly all over the country and sit in the same press box as guys such as Bill Plaschke, Gary Klein and Arash Markazi was an experience you just can’t get in journalism school classes, no matter how good the university is.
+But just as important as traveling and sitting with the big dogs was interviewing the biggest dogs of all: the Trojan football players. My first interviews for a football story were with Barkley and offensive lineman Matt Kalil. Talk about getting your feet wet. I was a tad bit starstruck.
+But the pair of Matts were two of the nicest guys I’ve talked to and were in no way condescending to a new journalist who was trying to figure things out. They answered my questions respectfully, and I came away impressed. And as I interviewed guys such as McDonald, Woods, Marqise Lee and Nickell Robey, I didn’t even feel like I was interviewing college football stars. Instead, it felt like I had just finished a casual conversation. The butterflies in my stomach disappeared and intimidation dissipated as the year continued.
+Even though the 7-6 record in 2012 was subpar, covering this football team was a dream come true, the pinnacle of fanhood for anyone who has ever rooted for the Trojans. Talking to Barkley after a game against Washington at CenturyLink Field in Seattle and asking him why the offense was terrible in the second half is something I will never forget and will cherish forever. It was the opportunity of a lifetime, to say the least. The whole year was.
+As the NFL draft continues through the weekend, Barkley, Woods and the gang are probably thinking back, as I am, to their times at USC — the good, the bad, the painful and the joyous. The future is as unclear for them as it is for me, though they’re all going to have jobs in the next few days. Me? Not so much (hopefully that changes soon).
+But here’s the bottom line: The past is over with. I seem to remember Barkley responding, when asked about coming back for his senior season and whether it was a mistake or not, with the following:
+“I’ve never had one regret about coming back and making the decision to play my senior year. I’ve learned so much from this year that I would never have gained if I had left — I’m not the type of guy to look back and think ‘what if.’
+For the first time in my life, I feel like Barkley. Because I wouldn’t have changed a thing in my experience on the Daily Trojan staff, either.
+ 
+“Goal Line Stand” runs Fridays. To comment on this story, email Michael Katz at katzml@usc.edu or visit dailytrojan.com.
+Watching you grow as a writer over the last few years has been a pleasure. Your honesty and willingness to be critical and thoughtful at the same time will take you far. The Daily Trojan will miss you. Great things are on their way. Good luck!
+Excellent message in this article! Good luck!
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+All season long, the USC women’s water polo team has had its sights on the grand prize: winning the NCAA tournament. And with the regular season over, the Women of Troy’s road for the title begins now.
+Resume builder · Dominique Sardo (above) and the women’s water polo team are looking to boost their seeding in the NCAA tournament. – Ralf Cheung | Daily Trojan
+Friday marks the beginning of the Mountain Pacific Sports Federation post-season tournament, a three-day playoff to determine which team from the stacked conference will receive an automatic bid to the NCAA tournament. Though the Women of Troy are essentially a lock to make the NCAA tournament with at least an at-large bid, senior and co-captain Dominique Sardo know how important it is to win the conference event.
+“The MPSF tournament is tough,” Sardo said. “If we win it, we’re ranked No. 1 going into the NCAA tournament, which will make our path to the final easier.”
+No. 2 USC (21-1, 5-1 MPSF) will take on the unranked CSU Bakersfield Roadrunners (12-22, 0-6 MPSF) in Friday’s first-round matchup. The teams last met in Bakersfield on March 30, when the Women of Troy dismantled the Roadrunners’ defense in a 19-goal exhibition.
+Though recent history and statistics show USC as the clear favorite, the team is not taking their first-round opponent lightly.
+“We don’t look past anyone,” Sardo said. “Every opponent can give us a great game. We need to play our best defense and execute our offense to make it to the semis and the finals.”
+The Women of Troy will play, at most, three games this weekend. Should they win against CSU Bakersfield, they will match up against either No. 3-seed Arizona State or No. 6-seed San Jose State. The other side of the bracket is shaping up for a No. 1-seed Stanford (who earned a first-round bye) versus No. 4-seed UCLA semifinal matchup, provided UCLA survives its first round clash with tournament host and No. 5-seed Cal.
+Though USC will have the tougher road to the final, the tournament has actually set itself up in the team’s favor. Based on this season’s games, the Women of Troy would much rather see Arizona State than the Bruins in the semifinals. In two games, USC has defeated ASU handily by scores of 13-6 and 11-7. Against UCLA, however, the margins of victory have not been so kind. While the Women of Troy did hold off their crosstown rivals fairly easily in their last game, the Bruins took them down to the wire in their first matchup of the season, as USC managed to come out on top with a nail-biting one-goal victory.
+A lack of momentum certainly will not be a problem for USC, coming off a rejuvenating 11-6 win against UCLA last Friday. The team is hoping to ride this wave of success all the way past the MPSF tournament and into the NCAA tournament.
+“It was huge [to beat UCLA],” Sardo said. “It was tough to lose to Stanford, but our team bonded beating [UCLA] at their home pool on their senior day. It lit a fire under us and really energized us.”
+A lack of experience also should not be a problem for this USC team, carrying five senior leaders into the postseason bolstered by a solid group of juniors and sophomores who have experience in the playoffs. Even the players who haven’t seen collegiate playoff action yet are no strangers to challenging environments.
+“The newcomers have international experience,” Sardo said. “With [freshman Jayde] Appel, [junior Hannah] Buckling, and [freshman Anni] Espar, we have enough experience. Everyone knows how tough these games are. The underclassmen play like juniors and seniors.”
+Appel and Buckling played competitively in Australia before making the move to Los Angeles, and Espar is a reigning silver medalist from the 2012 London Olympics, where she played on the Spanish national team.
+With only one blemish to their record all season long, the Women of Troy will be an exciting bunch to watch in this season’s playoffs. The MPSF tournament begins Friday and will continue until Sunday. The       USC-CSU Bakersfield game begins at 11 a.m. in Berkeley, Calif.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The USC women’s lacrosse team looks to secure a playoff berth in the program’s inaugural season as it hits the road to take on San Diego State in a winner-take-all match on Saturday at 7 p.m.
+Now or never · Freshman Katie Austin (above) and the Women of Troy can only advance to the MPSF tournament, and later the NCAA tournament, if they can defeat the San Diego State Aztecs on Saturday. – Ralf Cheung | Daily Trojan
+The winner of Saturday’s contest will earn the fourth and final seed in the Mountain Pacific Sports Federation tournament, to be held in Eugene, Ore., while the loser will be eliminated from playoff contention. The winner of the MPSF tournament earns an automatic bid in the NCAA tournament.
+“We know there’s a lot on the line in the back of our head, and we know everyone has to play their best game,” freshman attack Caroline de Lyra said. “I think everyone’s getting into the mentality that they have to have a good game for us to win.”
+The Women of Troy (7-9, 4-3 MPSF) hope to carry the momentum from their previous outing, a 19-1 win over Fresno State (2-13, 0-8 MPSF) on April 20. Seven players scored at least two goals for USC in the blowout, with de Lyra leading all players with six points (two goals, four assists) while sophomore attack Olivia Gerton led all scorers with four goals and an assist. Freshman midfield Amanda Johansen finished with two goals, three assists and a career-high and MPSF-record 13 draw controls, two away from tying the NCAA record.
+“We have really high momentum for this game, especially since it’s the last game and everything’s on the line,” de Lyra said. “I think everyone’s really pumped up.”
+USC currently has four players with more than 30 goals on the season. De Lyra leads the Women of Troy with 48 goals and 40 assists and is No. 4 in the nation with 88 points. Johansen is second on the team with 49 points (35 goals, 14 assists), along with a team-high 5.81 draw controls per game (good for No. 7 in the nation). Freshman midfielder Paige Bonomi has 36 goals, while freshman attack Caroline Cordrey has 34. Freshman defender Courtney Tarleton, meanwhile, leads USC with 37 ground balls and 29 caused turnovers.
+San Diego State (8-7, 3-4 MPSF) is currently in the middle of a three-game losing streak, with the most recent loss being a 23-16 defeat to No. 14 Stanford (10-4, 5-1 MPSF). The Aztecs are led by Michaela Jarvis, who has 22 goals and 35 assists on the season, and leading scorer Bailey Ewing, who has 44 goals.
+“I think there are a lot of things we can look to that were successes this year,” head coach Lindsey Munday said. “As a first-year program, we’ve done some really great things. We’ve improved, which has been our goal from day one … At the end of the day, it’s a big game Saturday, and we’re really excited for it.”
+If USC wins the match against the Aztecs, it will take on No. 11 Denver (15-1, 7-0 MPSF) in the MPSF semifinals on Friday, May 3, at 4:30 p.m.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+In this special summer preview edition of Box Office Beat, we’ll be looking over the entire summer slate to see which films will do the best and which films will likely have to make the most of it on cable television.
+Superhero takeover · Tony Stark, played by Robert Downey Jr., returns to the silver screen to pick up where he left off in Iron Man 2, finding his world torn apart by Mandarin, a villainous arch-nemesis. – Courtesy of Marvel
+ 
+This time last year, The Avengers opened to an astronomical $207.4 million and went on to become the third-highest grossing movie of all time. It was such a dominant film at the box office, however, that it completely overwhelmed other films that came out right afterward, including notable flops Dark Shadows and Battleship.
+To be fair, both of those films had issues to begin with, but they had no chance of breaking out. In fact, very few films truly “broke out” — Ted being one of the few exceptions. Not to mention that the later part of the summer had the movie-theater shooting in Aurora, Colo., which arguably scared off a percentage of people who would’ve gone to the movies.
+This summer is much more evenly stacked, at least in May and June. Though another Marvel superhero flick will open the season, there’s still plenty of other films that will draw interest and perhaps will serve as the sorely needed boosts to the box office that the industry has been looking for.
+Iron Man 3 has the most going for it. Not only does the film benefit by being the first film of the summer lineup, but it also comes on the heels of the wildly successful Avengers film. Though the reception for the second Iron Man was mixed, the marketing for this one has made it out to be an event comparable to last year’s superhero mashup.
+With a more compelling villain, a storyline that takes Tony Stark to the brink and all those extra awesome Iron Man suits he has on hand, expect a $150 million-plus opening and a total of around $380 million, which could be enough to be the biggest of the season.
+Airing two weeks later, Star Trek Into Darkness, the sequel to the crazy-successful J.J. Abrams-directed reboot, has arguably just as much going for it as Iron Man 3.  Abrams and Co. have done an admirable, if slightly infuriating, job of hiding the plot details as much as possible, and that has only added to the anticipation.
+What will likely prevent it from reaching the same heights as Iron Man 3, however, is that Star Trek remains attractive to a restricted audience compared to the former property. Still, expect a giant $130 million-plus opening; since it’s more fan-driven, the total run will drop off quicker to just over $300 million.
+Memorial Day weekend will be one of the more stacked weekends in recent memory. Fast & Furious 6, The Hangover Part III and Blue Sky Studios’ Epic all come out the same day.
+Though Epic is a wild card, being the first family film of the season, and The Hangover Part III is coming off a polarizing predecessor. But Fast & Furious 6 is bringing even more of the action-packed car chases and high-octane set pieces, which should draw in a large audience.
+Expect the sixth feature to jump out with a $105 million-plus opening and a $247 million-plus total.
+The third Hangover won’t have as large of an opening as the second one but should still get a $65 million-plus opening and $170 million total.
+Man of Steel, the Zack Snyder-directed superhero epic, probably has more relying on it than any film this season. Though Marvel has had unbelievable success, with 10 features starring the company’s characters coming out over the next three years, Warner Bros. and DC have struggled to launch any franchise that doesn’t star Batman; both Superman Returns and Green Lantern failed to connect with audiences.
+The studio is hoping that this film, featuring a more serious, deified version of Superman, can launch a series of franchises in much the same way that Iron Man did for Marvel Studios. So it not only has to do great, it has to be super (sorry, had to).
+The marketing, fortunately, has sold the Nolan-esque tone, even if we have to go through another origin story. It’s looking like it’ll open above $85 million-plus and have a $250 million-plus total.
+In the battle of the animated features, we have Monsters University on June 21, Despicable Me 2 on July 3 and Dreamworks’ Turbo on July 17.
+Against all odds, the biggest animated feature of those three could be Despicable Me 2. The original was one of the biggest summer surprises in years, and those little minions are still as crazy, annoying and adorable as you’d hope. Aided by the Fourth of July weekend, it could end up with a giant total of more than $300 million.
+Coming in second, Monsters University will likely settle for a cushy $200 million-plus total, and Turbo, being the odd one out in the bunch, which will settle with about $130 million-plus or so.
+This doesn’t even touch a third of the big films of the summer season, which is sure to have something for everyone. Not every film can be The Avengers, but sometimes it’s better to have multiple good box-office runs than just one outstanding one.
+ 
+Robert Calcagno is a second-year graduate student in the School of Cinematic Arts pursuing an MFA in animation. His column “Box Office Beat” runs Fridays.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+A compelling work of theater is one that draws in the audience through a visceral connection to the characters and the situations that they find themselves in. The audience needs to truly care about the fates of the people before them, either in a positive or negative light, for the story to become important and impactful.
+A brilliant mind · James Whitmore Jr. plays a math professor who leaves behind mathematical equations for his daughter to find in Proof. – Courtesy of Aliah Whitmore
+The premiere of Hayworth Theatre’s production of David Auburn’s Proof successfully creates this sense of connection and meaning. Under Aliah Whitmore’s directing, the play takes a more symbolic and mysterious approach to the story and adds new elements to both the theatrical and technological aspects of the performance.
+Proof is a play that revolves around realism and focuses on the life of Catherine (Daniela Ruah), a young mathematics student who is forced to drop out of college to take care of her father (James Whitmore Jr.), a genius former math professor at the University of Chicago who has slowly begun his descent into madness. The intrigue grows when the professor passes away yet still continues to have conversations with his daughter.
+Meanwhile, one of the professor’s students, Hal (Dustin Seavey), comes to Catherine’s home after her father’s death in order to search for any possible mathematical proofs that the professor may have worked on in the last few years of his life. Though Catherine initially resents this intrusion, she comes to deeply trust and care for Hal — only to discover he might only be after the fame and fortune that her late father’s work could bring him.
+To add to this upheaval and confusion in Catherine’s life, her concerned sister, Claire (Whitmore), comes down from New York.
+Even though, as mentioned, this play is often crafted as a more realistic show, Whitmore stages this particular production with several heavily symbolic elements that add a new and interesting perspective to the story.
+For starters, Whitmore includes the use of speakers that emit angry, sinister or haunting whispers in moments when Catherine is experiencing mental anguish or emotional upheaval. This allows the audience to experience Catherine’s perspective when she begins to doubt her sanity.
+The problem is that sometimes the sounds are abruptly introduced or cut off and can feel a little bit out of place with the pacing of a scene.
+Another new addition to the play is the symbolic use of masks during transitions between scenes. Masked actors walk into the house on set and peer through an eerily-lit window while the rest of the stage is left dark.
+But again, though the symbolism adds a new layer through which to interpret the production, it also unfortunately creates some confusion as to the meaning of the masks in relation to the characters and the action happening on stage.
+There is also the issue of having a tree in the corner of the stage with mask-like faces carved into it. The tree is never addressed nor highlighted in the performance. The actors ignore it and no blocking is chosen to work around it. Yet, it seems to be an integral part of the story — it is just unclear what its function might be.
+As much as these symbolic elements add a new level of depth and interest to the plot, a secondary downside to this approach is the subsequent emphasis on Catherine’s potential mental instability.
+The masks, the tree and the sinister whispers all direct the focus of the play to the issue of Catherine’s sanity, rather than allowing the  show to explore the true power and potential of women. The play is in and of itself a social critique on the sexist attitude toward women in academia, and the symbolic approach takes too much focus and reflection off of that element of the script.
+Indisputably, however, the performances delivered by the outstanding cast are truly the highlights of the evening. Ruah delivers an especially standout performance, taking the character in a more vocal and visceral direction than often seen while also infusing Catherine with a childlike sense of vulnerability and fiery spirit.
+Also notable is Whitmore Jr.’s performance as Robert — even though his character is dead for the majority of the play, his presence and commitment to the role captures your attention every time he came on stage.
+Despite some of the holes in the Proof, its powerful story and its characters ultimately round out the production, leaving viewers with an impressive theatrical experience.
+ 
+Proof is playing at the Hayworth Theatre, located at 2511 Wilshire Blvd., Los Angeles, CA. 90057 until May 12. Tickets are $25 for regular admission and $10 for students and senior citizens. For reservations or more information contact 818-826-3609 or visit www.whitmoreeclectic.com
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+It’s another typical school morning for Plinio Garcia and Andrew Ruesch. The partners hurry into Franceil Masi’s kindergarten classroom with their two children in tow, making sure their kids are situated OK in the morning rush.
+But then, rather than leave, they turn to greet Masi in winded, yet cheery voices. They chat for a moment about their lives and children, but then the conversation turns to talking shop.
+Indy art · Indy Plush began after teacher Franceil Masi had her students create plush toys. One of her students showed his creation to his parents, who then contacted Masi to see if she wanted to start a business with them. – Courtesy of Indy Plush
+Garcia and Ruesch don’t have a typical parent-teacher relationship with Masi. The trio are the creative minds behind plush toy business, Indy Plush, a business inspired by a class art project that Masi started with her third graders.
+Prior to Indy Plush, Masi, a Florida-native and USC alumna, had been working and creating illustrations for various children’s books. After completing a children’s book entitled Kilkenny Cats, a colleague suggested she create her own cat plush toy based off of the book. From there, Masi’s relationship with plushes was born.
+Masi began having her third-grade students make plush toys, teaching them how to sew and cut. Then she had them draw the toys, which Franceil would soon create for them.
+“I wanted to make the kids do it because it was a good way to get them moving their hands and creating and putting art in the classroom, and that’s how it evolved,” Masi said.
+Then Garcia and Ruesch’s son, Luke, joined Masi’s class last fall. Like every other student, Luke created a drawing that Masi brought to life as a plush toy. When Luke brought his new stuffed dog home with him one day, Garcia and Ruesch were astounded.
+“From a benevolent, academic, philanthropic, creative perspective, the fact that she would have kids draw drawings and interpret them and give them back for free is amazing,” Garcia said. “For a teacher to take the time and do that is amazing. Kids actually see what they draw come to life — it gives them a whole different appreciation and inspiration.”
+At that moment, Garcia and Ruesch knew they wanted to start a business with Masi.
+“He’s 25 and I’m 52, and so if we both agree on something, it’s a go,” Garcia said.
+After a bit of hesitation and negotiating, Masi finally agreed.
+When they started out, the three co-owners agreed that they wanted to create an environmentally friendly business. Because of that, all of their materials are sourced locally, their fabrics are sustainable and the stuffing used in their plush toys is made of recycled plastic bottles.
+“We agreed the company needed to have all the ingredients of what’s right,” Garcia said.
+Because of their work, they have earned a Green American certification, distinguishing Indy Plush as a recognized environmentally and socially responsible business.
+On top of making a huge effort toward a 100-percent environmental initiative, Indy Plush products are made entirely in the U.S., helping the economy “one toy at a time.” However, acquiring materials made in America has proven to be Indy Plush’s biggest challenge.
+“They closed the mills in North Carolina and Downtown that makes fleece, so now [we] can’t even buy [colored] American-made fleece,” Ruesch said.
+The three overcome the challenge of domestic sourcing with a lot of patience, first and foremost, and continuously are looking to figure out other options where they can source their materials from. For better or for worse, sourcing locally causes costs to rise high above their competitors’.
+“It’s a huge price difference, and that’s what we find hard in just selling our product altogether because we have to educate the consumer at the point of sale,” Ruesch said.
+Not only do people at Indy Plush educate their consumers on their prices, but they also try to educate their young customers. The Indy Plush trio hopes the company’s environmentally friendly values will carry over to their consumers’ lifestyles.
+“We want to give values to children that matter. We’re bringing back the value and concept of ‘reduce, reuse, recycle,’” Garcia said. “Let’s protect our product, let’s protect the earth, let’s protect everything.”
+One way they are putting a spotlight on environmental issues is by having a line of endangered species plushes, complete with tags that share facts about each animal, including the remaining population count.
+Another value they tirelessly preserve is Masi’s freedom as an artist. The small business spends tens of thousands of dollars trademarking Masi’s art in order to protect her work, Masi said.
+“Plinio lets me have range, and I do whatever I want, and I’m very happy with it,” Masi said.
+Masi still has her students draw and make plush toys, carrying on her tradition of encouraging kids to create their own crafts. But the company is also starting to make its move beyond the toy realm.
+“We have three books coming up, but we agreed they have to be educational,” Ruesch said.
+Already, though, the trio’s “plush couture” (as Plinio put it) seems to be everywhere. With more products on the way, this environmentally conscious idea seems poised to continue to grow. Perhaps, as it gains popularity, Indy Plush’s message will also spread with the product.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The three shows this week are all presented by the School of Dramatic Arts, but they are all very different pieces of theater. Hopefully you are free to see them all!
+First up is Museum, directed by professor Jack Rowe and starring the members of the sophomore BFA Acting class. BFA shows are always interesting to see, as they usually have a very clear sense of ensemble. This is the first show for the sophomore BFAs and it’s exciting to see them as a whole for the first time.
+The play takes place in a museum of modern art at a new art installation. Throughout the course of the play, 42 characters attend the art show, ranging from art lovers to lost souls, students to museum guards. Many productions cast 42 actors for those 42 characters, but in this version, the 20-odd person class will have to tackle it on their own. Check out Museum at the McClintock Theatre this Thursday through Sunday (April 25-28).
+If older theater is more your style, this weekend has the token “classical” show– Getting Married by the supremely witty George Bernard Shaw. Shaw tackles a wide range of issues relating to marriage in this show, including sex, children, property, and divorce. Written at a time with much different marriage laws than today, the stories still ring true.
+The discussion revolves around a bride and groom, along with their families and friends as they discover their dissatisfaction with the rules and practices of marriage at the time. Directed by outside professional Robert Shampain, this BA-only production shows serious promise. It is always fun for students to work with texts by great authors like Shaw; it is a test of the performers’ training and skill. Getting Married runs Thursday through Sunday, (April 25-28) in the Scene Dock Theater.
+The last show to discuss is My Dear Hussein, the last of the MFA New Works for this year. The play is about a 4 year old girl’s experience living in Iran during the Iran-Iraq war. Over the course of the story, we meet her 8 year old neighbor, her stuffed toy dog Hussein and her imagination’s rendition of the fearsome Saddam Hussein. It is written by MFA Dramatic Writing student Nahal Navidar and directed by experienced television actor Shishir Kurop. I’ve heard very good things about this production, especially its creative storytelling and actors portraying young children. My Dear Hussein is performing Friday through Sunday (April 26-28) in the Massman Theater.
+There’s the roundup for the week! Only one more weekend of shows after this, so don’t miss your chance!
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+In response to “USG should focus on student spending”
+Two days ago I read an article published in the Daily Trojan about how USG should focus on student funding. The opinion piece claims that the procedures a club has to follow to get funding are tough and the money awarded too small to help out student organizations. Besides being riddled with inaccuracies about the workings of USG, the article was deceiving in nature.
+It overlooked the 152 student organizations that received funding this year at an average of around $2,000. USG allocates more money to funding boards than any other line item in budget. Anyone that looks at the USG budget can see that the numbers show the opposite of what the article argues: the Undergraduate Student Government indeed does care about funding student clubs and organizations more than any other issue.
+My biggest concern with the opinion piece was its misguided criticism.  We strive to provide funding in an efficient and fair manner. This means that we need to make sure there is a preset limit on each individual request (this helps us distribute the funds evenly throughout the year).
+That being said, we have provided upward of $4,000 to multiple organizations. Our application is thorough because it is our way of vetting events and clubs. We want to give funding to groups and organizations that have taken the time to do the necessary work to receive funding. We know our system works by the thank you notes we receive from student organizations such as Troy Camp, World Vision Acts, Saved by Grace, Net Impact and Society 53, just to name a few.
+We are responsible for the students’ money and we work our hardest to make sure it’s being put to good use. Aside from the events that result from funding student organizations, USG’s Program Board puts on events such as Springfest, Conquest and the Welcome Back Concert, as well as brings performers such as Seth Meyers and Neil deGrasse Tyson, and supports other programing that makes every effort to reach a wide variety of groups on campus.
+As for recreation sports funding, we have the research and surveys to confidently assert that this is an issue students care about deeply. I do agree with the article that this is a matter far too big for us to handle alone, which is why we strive to work together with the USC administration to fix the problems we see. We have worked closely with the administration to help facilitate construction of the Ronald Tutor Campus Center and the new Village at USC, so we know this approach works.
+Lastly, I would like to provide insight into several of the criticisms directed toward our organization. The student government retreat, a necessary event from a productivity and efficiency standpoint, only lasts two nights. It is held locally and USG does not pay for any transportation costs. Members share beds at the retreat in order to be cost-efficient.
+Also, the presumption that senators have “nothing to do” is simply incorrect. This year has had the most active and engaged senate over the last five years, and they have passed more resolutions than in recent senate history.
+In terms of the mechanics of our funding boards, an individual organization is NOT restricted to an individual board. In fact, they can apply to as many as are applicable for their organization.  We work hard so that our funding rules provide a flexible approach for organizations to seek money for their events, trips and initiatives.
+Overall, I am extremely happy with the success of the organization this past year. The claims found in this article are out of line and they do not reflect our organization. I felt a sense of urgency in responding to the DT piece because it felt more like an arbitrary, biased attack rather than an honest critique.
+I know Christian [Kurth] and the 2013-2014 USG administration are very excited to serve the student body, and I know they will continue to follow the imperative legacy of supporting students and student organizations.
+ 
+Mikey Geragos
+Outgoing USG President
+Long live Mikey
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+As a report by the Center for Social Justice released Tuesday reveals, during the past five years, an estimated 600 immigrants who entered the U.S. illegally have been deported by American hospitals in a little-known removal system called “medical repatriation.”
+Yiwen Fu | Daily Trojan
+As inhumane as the end decision seems, the underlying complexities regarding illegal immigration and health care costs are to blame here, not the hospitals.
+In one of the 600 cases detailed in the report, days after a near-fatal car accident, Jacinto Cruz and Jose Rodriguez-Saldana lay comatose in Iowa Methodist Medical Hospital. Both did not immigrate legally and the hospital was unsure of whether the victims’ health insurance would pay for long-term rehabilitation, according to the Latino Post.
+In the end, the hospital took matters into its own hands by quietly loading Cruz and Rodriguez-Saldana on a chartered international flight back to Mexico.
+Shipping unconscious patients back home might sound harsh, but many key points have been left out or understated by the media in its sensationalized retellings of these stories. Before categorizing hospitals as insensitive and ruthless, a closer look shows that they really had no choice in light of financial pressures and responded with the most rational plan.
+First off, the immigrant patients that the report speaks of were not just “unconscious” but were in a chronic vegetative state. Both Cruz and Rodriguez-Saldana had been in a coma for more than 11 days when the hospital deported them, according to Salon.
+After receiving treatment in a Veracruz hospital, Cruz and Saldana woke up with life-altering disabilities. With such severe medical conditions, if these immigrants had stayed in American hospitals for care, the costs that taxpayers and hospitals would have to shoulder would have been exorbitantly high.
+Comatose patients are often placed in intensive care units, and the national economic cost for intensive care in U.S. hospitals was an estimated $75.6 billion in 2010, according to the Center for Disease and Prevention Control. That comes out to an average of $2,000 to $3,000 a day for intensive rehabilitation, according to the American Journal of Respiratory and Critical Care Medicine.
+With such severe injuries, these patients are better off in their own countries where they possibly have family to look after their long-term well-being as well as to make legal decisions for them.
+Additionally, because patients who immigrated illegally are often uninsured and families are not available to provide care, medical personnel are left with simply monitoring them in the hospital, which could be detrimental because such unconscious patients are bound to be at a higher risk for nosocomial infections, and other complications, according to the CDC.
+The fact that the medical repatriation system is not government-run, but hospital-initiated, also sheds light on the danger of being quick to judge hospitals as evil just because of these deportations. As much as we wish it were the case, hospitals in this country cannot afford to distribute free services generously to all, because they are also for-profit businesses that rely on funding to continue saving lives.
+According to Salon, the Iowa hospital officials allege they had received permission from Saldana’s parents and Cruz’s long-term partner for the flight to Mexico. Though the men and their families filed a lawsuit in 2010 because of alleged minimal rehabilitative care in Veracruz, the court found that Iowa Methodist was not to blame. Moreover, although the families denied giving consent for the flight, they also failed to object to it.
+In addition, the two patients were treated in accordance with hospital guidelines, which state that patients must be cared for regardless of their citizenry or ability to pay — that is, until the patients are stabilized. With that policy, a happy medium of providing service and avoiding long-term costs is reached.
+Also, the Huffington Post reported that many hospitals tried contacting immigration authorities about undocumented patients, but most calls were ignored, leaving care providers no other alternative than taking matters into their own hands. Though the American Medical Association’s Council on Ethical and Judicial Affairs told doctors in 2009 not to let “hospital administrators to use their significant power and the lack of regulations to send patients to other countries,” if there aren’t any legal protections or another solution to the ever-looming need to maintain revenues, what, frankly, is a doctor to do?
+Under President Barack Obama’s health care reform plan, set to go into effect in 2014, immigrants who have not entered the country legally will have to wait eight years before becoming eligible for public health care benefits, Fox News reported. This attests to the hard times still to come. In a time, when, as Salon reported, the federal government plans to cut payments to hospitals that make room for the uninsured instead of American citizens eligible for Medicaid, doctors and hospitals have to make adjustments in their care-giving priorities.
+These deportation measures might seem harsh, but before protesting them, it’s time for a reality check.
+ 
+Valerie Yu is a freshman majoring in biological sciences and English. Her column “Heart of the Matter” runs Fridays.
+I agree that when the patient family is not in the same city in which the patient is, it becomes difficult for the patient and hospital to take care of things. Moreover, the mental and physical support by the family of patient is very necessary for recovering quickly.
+Access to health care varies across countries, groups and individuals, largely influenced by social and economic conditions as well as the health policies in place.
+i  agree  with  you   post….
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+In the entertainment industry, people always say “It’s not about what you know, it’s who you know.” And rest assured, USC’s Annenberg School of Communication lets the USC community know just exactly who they know in this year’s Hollywood 3.0 Forum.
+From music industry publicists to radio personalities, Hollywood 3.0 is an event geared towards the future of students in entertainment.
+Hollywood 3.0 is a free conference hosted by USC’s Annenberg School of Communications and Journalism that discusses the future of media and entertainment. Varying from year to year based on the cohort of students, the forum will feature a combination of professional panel discussions and transmedia presentations presented by USC Graduate students in Professor Daniel Kregg’s CMGT 543 Managing Communications in the Entertainment Industry course. The event promises to be entertaining, and students interested in pursuing careers in entertainment will also find this conference resourceful. Hollywood 3.0 gives a glimpse into the life of working in the entertainment industry while discussing the direction the industry is heading in as new trends become promising in taking entertainment by storm.
+The graduate students putting this event together strive to give USC students interested in media and entertainment an opportunity to discuss with a variety of professionals about their jobs and how what they do impacts the industry. Tim McHugh, a graduate student studying Online Communities and Team Lead of Promotions of the event touched upon what the USC community can gain from Hollywood 3.0.
+“I feel like each panel provides a variety of tidbits of information that anyone wants to pick up on,” McHugh said. “If someone were interested in going into Public Relations, you will definitely learn a lot from the PR panel. . . We wanted to get a variety of people who can approach the growth [of entertainment] from different angles. It’s purposely a wide net, and because of that, I believe there can be a lot taken from it.”
+Two of the prominent panelists and headliners of the event is the father-son duo of Henry and Max Winkler. McHugh promises that their panel will not only be inspiring, but also one everyone can gain something from.
+“Anyone can have fun with the Winklers,” McHugh states. “Henry Winkler played the popular character Fonzie back on Happy Days and his son Max is a writer, director, producer in his own right in filmmaking. It’s kind of a generational panel… the Winkler event will be in the Annenberg lobby, to create more of a sit-down vibe to it. It’s also about what it’s like working in front and behind the camera and needing to diversify skill sets especially in today’s modern Hollywood.”
+What Hollywood 3.0 recognizes is the multiple levels of media and entertainment that help define its place in pop culture. An event focused on the future of media and entertainment, Hollywood 3.0 approaches this concept from a variety of perspective which makes this event not only entertaining and resourceful, but engaging. From the “I am East Hollywood” transmedia presentation that strives to create the awareness of the wealth East Hollywood possesses in regards to culture and its movement to the public relations panel “Pitch & Toss: The Importance of Maintaining Relationships in Public Relations and Advertising”, this event promises to entertain and engage you with possibilities in the industry from multiple cultural and global viewpoints.
+From a global standpoint, Hollywood 3.0 hopes to reach out to Chinese students with their “The Best of Both Worlds: Co-Producing Films for the US and China” which hopes to bring Chinese entertainment and US together through film as a collaborative medium.
+“We are actually marketing this panel really hard to a lot of the Chinese student organizations. The thought behind it is there are student from China coming to America and having filmmaking be that kind of mirror of their path,” said McHugh. “Also, there is the professional relationship between the China and US from an entertainment perspective as well.”
+Ultimately, Hollywood 3.0 allows students to not only see the future of media and entertainment, but also find themselves and where they fit as both media and entertainment continue to advance.
+        “I love Annenberg as a building and it’s a really cool place to host this event,” said McHugh.
+“I hope this event will be a good experience for everyone who comes. I know it will be.”
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+April is almost over and that can only mean one thing:  The MLB All-Star Game is right around the corner! News flash: We’re actually not at all close to the midpoint of the Major League Baseball season (22 games in, 140 to go), but MLB unveiled its All-Star ballot yesterday, thus launching the 2013 campaign.
+It’s never too early to conjecture about players whose statistics are bound to change in the next month and a half, but I’ll indulge.
+Aside from the Buster Poseys and Miguel Cabreras of the world, who practically clinch a spot before the season, the 2013 season has thus far taken notice of some new All-Star contenders.
+Baltimore Orioles first baseman Chris Davis could punch his first ticket. He’s sporting a .356 average, a figure 100 points above his career average. This could be a fluke or his five years of experience paying off. But with all the same AL East favorites usually clogging the ballots, a new face is more than welcome.
+Mike Napoli, Joe Mauer and Matt Wieters are always favorites for catcher. On a revitalized Blue Jays team however, J.P. Arencibia is slowly inching his way into the picture. He leads the AL in home runs and has a .308 batting average over the past week.
+An All-Star Futures Game participant, rookie Jean Segura of the Brewers might see a real All-Star Game in his future. He’s among the top five NL hitters in batting average, alongside some other possible candidates in Arizona’s Paul Goldschmidt and Pittsburgh’s Starling Marte. Goldschmidt was recently booed by the Giants after lighting up some of their aces, while Marte is known for knocking the first pitch of his first career at-bat out of the park.
+Something else to consider is that fans always tend to count the number of players that represent each team. It’s a bit sad when some teams only send out one guy you’ve never heard of, but quite possibly even sadder to watch a team send out half its starting lineup. Expect to see some of the same guys that are always in the All-Star dugout, but this time in different uniforms.
+Although the cream generally rises to the top, the final lineups are dictated by the fans. Last year, 40.2 million ballots were cast, proving that there is amply opportunity for fans to stack teams with established crowd-pleasers and underperforming household names. The teams with the largest fan bases can ultimately monopolize the voting.
+The race is off, so cast your vote or start crafting a slogan for your favorite under-the-radar slugger. Voting ends July 4. Don’t panic. There’s plenty of time.
+Amazing – most people in the team city know all the players on their team.  But really interesting is the fact that no dead voters voted for the All Star team making it the most legitimate election in the US.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Photos by Ani Kolangian
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The Daily Trojan features Classified advertising in each day’s edition.  Here you can read, search, and even print out each day’s edition of the Classifieds.
+Click the icon to download the PDF of today’s Classifieds:
+
+To place an ad, please contact an ad representative:
+(213) 740-2707
+USC Student Publications Student Union – Room 404
+Los Angeles, CA 90089-0895
+http://dailytrojan.com/ads
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:

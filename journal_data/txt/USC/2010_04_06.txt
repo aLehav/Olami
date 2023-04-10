@@ -1,0 +1,612 @@
+Two unlikely partners, the Viterbi School of Engineering and the School of Theatre, are teaming up to study human behavior in an innovative way.
+Center stage · Theatre students, dressed in black suits equipped with sensors, act out scenes in a room with cameras as part of a research effort. - Whitney Blaine | Daily Trojan 
+In 2008, the National Science Foundation gave Viterbi a grant to fund a project that uses innovative motion-capture technology to study and model human interaction.
+The project aims both to analyze how people encode emotions and to provide mathematical models of interactions. To do this, Viterbi researchers have groups of actors from the School of Theatre improvise scenes in a lab equipped with cameras. The actors don special black suits equipped with sensors and move around in the lab.
+The fifth and final staging of this semester was held Friday. Now, researchers are hoping to use the data collected so far in their next published report, said Jeremy Lee, a Ph.D. engineering student who is working on the project with Angeliki Metallinou, also a Ph.D. engineering student.
+“What we want to study is when you [put] people in various situations of improvisation, we want to see how they express themselves,” said Shrikanth Narayanan, Viterbi professor of electrical engineering. “Their use of voice and body communicates intent, emotions and expressions.”
+In the digitized space, researchers map the actors’ body movement on a computer to track their motion with consequent speech.
+“We want to see how their specific intentions are expressed through their body language,” said Lee.
+The actors are given two sentences and two verbs and then interact using the filmed space.
+“We fit this data in a fairly sophisticated mathematical model. In what we call machine learning, you learn specific movement and voice patterns,” Lee said.
+Alex Lubischer, who graduated from the School of Theatre in December, said participating in the stagings is a unique experience.
+“You feel like a superhero,” Lubischer said after putting on the suit.
+Lee said that actors are integral to the project’s success because they provide insight into predictable human behavior.
+“Humans express a lot of noise because they’re hiding their emotions. But with actors, we script out that noise so we can see more clearly what humans do when they truly express emotion,” Lee said.
+The actors benefit from the engineers’ research by partaking in a new technology typically accessed only by professionals.
+“It’s a new thing to use [motion capture] in films,” said Sharon Carnicke, a professor of theatre  and co-principal of the project. “It’s been done primarily for effect. We’re really interested in improving the quality of acting within that field.”
+Lubischer said he thinks knowing the technology will give him a competitive advantage.
+“It’s a chance to work on something a lot of actors haven’t yet,” he said.
+Studying human behavior is not a new idea, Narayanan said, but the way his team is quantifying the data is. He said the research could be applied to fields including autism, therapy sessions and addiction interventions.
+The technology, Lee said, is similar to that used in the film Avatar but takes a different approach.
+“The hardware you see is pretty much the same [as Avatar], but we’re studying it in a mathematical-engineering way and they did it in a production way,” Lee said.
+In the future, the researchers said their data could possibly humanize the gaming industry or provide data to developers looking to add life to their technology. They noted, however, that it is still too early to make concrete plans.
+“A lot of work has to be done on the analysis part; it is more about understanding right now than production,” Lee said.
+Although there will be no more recordings for this academic year, the grant is funded through 2012.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+On a recent trip to her home city of Santiago, Chile, Natalia Bogolasky Fliman, a graduate student studying specialized journalism, saw the damage caused by the 8.8-magnitude earthquake that hit the country Feb. 27 and was inspired to help.
+Ever since the earthquake rattled her home country, Fliman knew she wanted to organize a fundraising concert. Now, Fliman and Alan Fischer, a graduate student majoring in cinema-television production, have organized a fundraising concert that they hope will remind the public of the trouble the country is still facing.
+“It’s not in the news [in the United States] anymore,” Fliman said. “The situation is not really good, but [we’re] really getting nervous because help is not getting to them … It’s a part of our responsibilities to help, too.”
+The event, called “Los Angeles Helps Chile,” is a fundraiser for non-profit group Un Techo Para Chile (A Roof for Chile), which has been actively constructing emergency housing for earthquake victims, especially in the southern area of the country where the earthquake struck the hardest.
+“It’s really important for [the organization] to work fast because the winter is coming in the South of Chile,” Fliman said. “We are really committed in trying to help this organization to work as fast as possible.”
+The name of the event, Fischer said, echoes other relief efforts around the world.
+“All the events organized throughout the world have been named the same, like ‘Japan Helps Chile,’ and ‘Paris Helps Chile,’” he said.
+Yael Meyer, a Chilean native and musician, and Shane Alexander, a Los Angeles-based musician, will perform at the event as well as stand-up comedians Tracy Locke and Erik Passoja.
+“We wanted to do something fun, so we wanted not only Chileans to be interested,” Fliman said.
+Fischer said Meyer helped find and schedule the other musician and comedians.
+Fliman will also be auctioning off authentic Chilean products that she brought back from her recent trip that are generally not available in the United States. These products include Pisco, the national liquor; Vino, Chilean wine; and Chilean chocolate and caramel.
+José Manuel Lira, the Los Angeles Chilean consul general, will be attending the event, along with Chilean students from UCLA, USC and Chapman University. Other students and residents from the L.A. area will also attend.
+“We want to invite as many people as possible and raise awareness that in Chile there are more than two million people affected by the earthquake,” Fischer said. “The South is completely destroyed, and people are living on the streets and in emergency housing, and I don’t think that people are aware of that in the States.”
+The event will take place today at Vermont Bar — located at 1714 N. Vermont Ave. — from 7 p.m. to 12:30 a.m. Tickets are $10, and all proceeds will be donated to Un Techo Para Chile.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Nathaniel Gonzalez | Daily Trojan
+Chris Cheng, the new president of the Undergraduate Student Government, was sworn in by Max Heffesse, an outgoing member of USG’s judicial council, during Tuesday night’s Senate meeting. The outgoing administration, led by President Holden Slusher and Vice President Ashlie Chan, held its final Senate meeting Tuesday and then turned the floor over to the new administration  to begin the swearing in ceremony.
+This article is incorrect. Max Heffesse is not an outgoing member of the Judicial Council. He’s still going to be there next semester.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The announcement that a Chick-fil-A restaurant will be opening near Tuscany this summer has prompted mixed reactions from USC students.
+The restaurant is projected to open midsummer near the intersection of Figueroa Street and State Drive, according to a company spokesperson.
+“We’ve been in negotiations since summer of last year, but we were looking at property in the area long before that,” said Brenda Green, the senior public relations coordinator at Chick-fil-A. “It will definitely open in July.”
+Many students said they were happy to hear the popular chain would be coming to the USC area next year.
+“I’m excited for it to be there,” said Cat Price, a freshman majoring in political science. “All of my friends from the South always talk about Chick-fil-A, and I’ve never had it before.”
+Brittany La Hue, a freshman majoring in communication, said that although she likely won’t visit Chick-fil-A, she knows a number of people who will.
+“I probably won’t eat there often. But I know people are excited about it because it’s really good,” she said. “Before I was a vegetarian, I used to eat there all the time.”
+Not all students, however, are excited by the announcement and some students said there are other restaurants they would rather see in its place.
+“I’d like to see something that isn’t fast food,” Price said.
+La Hue said the lack of good Asian cuisine near campus bothers her the most.
+“I wish we had more options for Asian food that isn’t Panda Express,” La Hue said. “It would be nice to see a restaurant like that go into the new location.”
+Christian Daly, a junior majoring in English, said he might go to Chick-fil-A, but there are other restaurants he would have preferred.
+“I’d rather see Johnny Rockets there,” Daly said.
+Though many agreed Chick-fil-A will likely be popular among USC students, some said they wished the location were more convenient.
+“I don’t think I’ll be going there too often,” Price said. “It’s kind of out of the way.”
+La Hue echoed this idea.
+“If they had a location on campus that would be the best,” she said. “I know Figueroa is also really popular for students who have been out on The Row, but Tuscany is pretty far.”
+Green said Chick-fil-A does background research to ensure it doesn’t open up a store that will be a financial flop.
+“Whenever we build a store, we make sure that the financial model for the new location meets what we are looking for,” Green said. “So we do anticipate this being a successful store.”
+Students also think the restaurant will be successful.
+“I’ve definitely heard a lot of people talking about it, so I’m sure a good number of students will eat there,” Price said.
+Chick-fil-A is nasty.
+1. We can’t have an IN-N-OUT because of our contract with Carl’s Jr. Get over it.
+2. There’s a Johnny Rockets downtown AND in Little Tokyo — that’s just 2-3 miles away. Come on.
+@ food dude
+rumor has it there’s going to be one in the new Tutor Center
+There is no “in-n-out hype.” It’s just that good. I grew up in California. In-n-out has that “back to basics” taste, not the disgusting “under a heat lamp” corporate burger taste a la Jack in the Crack, McRonald’s, Carl’s Sr., etc. These burgers patties taste like processed soy i.e. wannabe meat, and the lettuce is nasty yellow. 
+I want to petition a “bring In-n-Out to USC!!” Who’s with me????
+the In-n-Out hype is by those who didn’t grow up in California and had access to those burgers on the reg.
+EAT MORE CHICKEN!
+This is the most delicious food. Period.
+I agree, Robs. These other students trippin about Asian Cuisine and what not have no idea how delicious Chick is. This place is going rival 9-0 in terms of lines
+Oh god no, food dude! I’d be 300 pounds in a year!
+I say we get an In-n-Out!!
+This is the best news to hit USC ever. No need to have Pete’s recruiting abilities when you got chicken burger gloriousness next to your campus.
+Whoever is the “mixed” reviewers obviously haven’t frequented a Chick-fil-a recently (or irie)…
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The Trojans’ defensive backfield might be down, but it is far from out.
+With Brian Baucham (foot), Drew McAllister and Marshall Jones (neck) all sitting out of practice, the secondary reminded everyone that there are still people on the field who could hit. Hard.
+Catching up · Freshman receiver Kyle Prater, a spring enrollee, has  struggled some in early practices but impressed coaches Tuesday. - Carlo Acenas | Daily Trojan 
+Senior running back Allen Bradford and freshman wide receiver Kyle Prater were both on the receiving ends of some bruising collisions.
+In the 11-on-11 scrimmage at the end of practice, Prater caught a pass on a slant route over the middle, only to be blindsided and sent to the turf by redshirt freshman Torin Harris.
+“That’s the hardest hit I’ve ever felt,” Prater said. “That was a real good hit.”
+A few plays later, senior cornerback Shareece Wright licked his chops when Bradford caught a 20-yard pass from Barkley near the sideline. Wright hit his former high school teammate as soon as he caught the pass. When asked if there was anybody he liked to hit more than Bradford, he didn’t think long.
+“No, not really,” Wright said. “I didn’t really hit him as hard as I could though.”
+Wright ended practice with a 50-yard interception return for a touchdown on a three-step drop from Barkley, who was trying to throw a short slant route that Wright jumped.
+“I didn’t know it was coming but it was a running back out there and he’s not going to run a deep route,” Wright said.
+As the most experienced defensive back and only senior in the secondary, Wright likes the improvement of the younger players, such as Harris, freshman Patrick Hall (who played at cornerback yesterday) and sophomore Jawanza Starling.
+“They’re working hard and trying to learn. They’re trying to make plays all together and working hard. That’s one thing I can say about them.”
+Redshirt freshman Byron Moore might have had the play of the day. On a deep pass to Ronald Johnson, Johnson dove but failed to cleanly catch the ball and actually had the ball bounce off his shoe into the air, when an alert Moore snatched it.
+Prater spoke to the media for the first time yesterday, and despite making some incredible catches, said his hamstring, which he pulled during winter workouts, is still only 75 to 85 percent.
+Despite this, Prater feels that he has the same role in coach Lane Kiffin’s eyes as he did in Carroll’s and thinks he can make an impact right away.
+“I really do feel like I can have an impact. If I didn’t feel like I could have an impact, I wouldn’t be here right now,” Prater said. “So I came here early to come out here and show them what I got.”
+Prater has already made his mark on the cornerbacks, who have been surprised by his size and toughness.
+“He’s a lot stronger and more physical than I thought he was going to be,” Wright said. “He’s not as light as he looks. He’s been taking hits and staying on his feet, which is good, and he has real good hands.”
+Shareece Wright is one of my favorite players and people of all time.  I have had several classes with him.  He’s a good man.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+After just four practices, there is no question Lane Kiffin is running things a bit differently than Pete Carroll.
+Practices, while still up-tempo, are more intense. Players touch every line in sprints. If someone is out of line or makes an unforgivable mistake, that player runs a lap, regardless if it’s Matt Barkley or a walk-on receiver.
+Not everyone is allowed in practices either. Unlike in the Carroll days, when pretty much all you had to do was show up with a photo I.D., security is more noticeable and enforced.
+Kiffin doesn’t tweet a “song of the day” or hold his players’ hands and sing “Kumbaya.” He hasn’t had Will Ferrell come charging through Howard Jones’ gates dressed in a speedo and an Ironman top. In essence, Kiffin is all business and all football.
+Ironically, it’s the latter part of that statement that seems to be hurting the Trojans. Before the first week of spring practice ended, more than a dozen players had sat out at one time or another with injuries. Here are the leads to the two Daily Trojan articles written after the Thursday and Saturday practices last week.
+Thursday: “Day two of the Lane Kiffin era was nearly identical to day one — lots of second teamers, lots of intensity and a heavy emphasis on discipline.”
+Saturday: “With injuries decimating the roster and a quarterback competition keeping the spring interesting, it was defense, not offense, that characterized this Saturday’s third football practice of the spring season.”
+The common theme among these two sentences is injuries. Second teamers were playing Thursday because many starters couldn’t, as was evident Saturday.
+This begs the question: Are Kiffin’s practices too tough, or were Carroll’s practices, while still hard-hitting, too relaxed?
+Now, it must be noted some of the players are on the disabled list for reasons totally unrelated to practice. Redshirt junior tight end Rhett Ellison has mononucleosis and could miss all of spring practiceand redshirt junior center Michael Reardon is in a neck brace for injuries suffered during an ATV accident a few weeks ago.
+Regardless, at least 10 players sat out Saturday’s scrimmage, the first practice in full pads, because of injuries including freshman running back Dillon Baxter (quad), safety Marshall Jones (neck), redshirt sophomore offensive linemen Matt Kalil (hip) and junior tight end Blake Ayles (ankle).
+During USC’s first weekend scrimmage last year, there weren’t nearly as many players watching from the sideline. Taylor Mays barely played because of dehydration and Drew McAllister and tight end Anthony McCoy had hamstring injuries, but other than that, the team was healthy.
+This spring, just four practices in, USC has been forced to go with many backups, especially at tight end. With USC’s top two returning tight ends, Ayles and Ellison, both out with injuries, the two players on the top of the team’s depth chart are two former wide receivers: senior Jordan Cameron and senior David Ausberry. They will both continue to get reps at tight end because, as Kiffin said Thursday, “we just don’t have the numbers.”
+Some players are choosing to play despite injuries. Senior center Kristofer O’Dowd has been playing with a knee injury he sustained Thursday, and sophomore linebacker Devon Kennard is playing with a cast on his right wrist.
+“It was a very physical, very long practice, but guys need to learn to get hurt and continue to play,” Kiffin said Saturday.
+O’Dowd certainly got Kiffin’s message.
+“Being injured means you can’t do anything — you’re out. Being hurt means, OK, you’ve got a knick-knack, but you can play through it,” he told the Los Angeles Times Saturday.
+I like the energy, discipline, old-school toughness and business-like attitude Kiffin brings to the team. As much as I’ve enjoyed watching Carroll’s teams dance on the sidelines, break out in song in team meetings and joke around, something has been missing from the team over the past few years.
+During the last few years of Carroll’s tenure, it felt almost like the team expected the trophies to be handed to them. It seemed as if they felt entitled.
+Kiffin is making sure nobody feels entitled to anything and that’s what has been missing from USC’s past teams.
+“There’s a definite emphasis on toughness,” Kennard told the Los Angeles Times. “We’re trying to go out there and bang as a defense and rekindle something we didn’t have last year.”
+So while the injuries stockpile for the Trojans, it’s doubtful Kiffin will change his ways. If USC goes out and wins the national championship next season, it won’t be because of the glitz and glamour Trojan teams had in the past. It will be because of the toughness and new attitude Kiffin instilled in this squad.
+He’s not too tough. And toward the end of his tenure, Carroll just wasn’t tough enough.
+“Spittin’ Sports” runs Wednesdays. To comment on this article, visit dailytrojan.com or e-mail Kenny 
+at klegan23@gmail.com.
+Kenny,
+I get the feelilng  that you are RIGHT ON on everything you said.
+I like your instincts on this and look forward to more of your articles   :)
+These boys are soft!  What a bunch of girly men!  Steven Sample needs to get on there on the grass and show them some smash mouth football!  I like milk!
+Hi Coach kiffin,is practicing hard and making guys play who are injuried that is stupid! odowds problems have been he is out of shape overweight and somewhat lazy having observered his play at usc his best position is on the bench!? it might improve his attitude!? Edward
+Eddie, get back to class.  Your grammar is atrocious!
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The middle of the week has been kind to the Trojans.
+And with wins coming at a premium in the grueling Pac-10 conference, they need that to remain the case tonight.
+Important · Sophomore infielder Ricky Oropesa’s team leading nine home runs and 29 RBI have helped keep USC’s record near .500. Oropesa and USC take on Cal State Bakersfield tonight at Dedeaux Field. - Brandon Hui | Daily Trojan 
+USC takes on Cal State Bakersfield at 6:30 p.m. at Dedeaux Field, the first ever meeting between the two teams.
+The Trojans (14-14) have excelled in midweek games in 2010, winning five of six. Their only loss came on March 10, a 5-4 defeat against Connecticut. In those five victories, the Trojans have outscored their opponents 33-19.
+Despite the midweek success, USC has been inconsistent. The Trojans are now 2-4 in Pac-10 play after dropping two of three to Oregon State.
+They have won just one game in each of their first two conference series and have lost three straight series overall since taking three of four from Hawai’i in the middle of March.
+The Roadrunners (12-14) have also struggled with inconsistency this year. They won four games in a row to open the season, but followed that streak with eight losses in 10 games.
+Bakersfield is coming off a series sweep by Fresno State in which it was outscored 36-22.
+The Trojans have shown flashes of brilliance in this streaky season. They had chances to win both games they dropped to Oregon State, as was the case two weekends ago at Stanford.
+Sophomore infielder Ricky Oropesa remains on a tear, leading USC with a .333 average, nine home runs and 29 RBI. Sophomore infielder Matt Foat is right behind him with an identical batting average and 27 RBI.
+But USC has had difficulties finding hits in some key situations. Junior infielder Joe De Pinto struck out to end Saturday’s game in the bottom of the ninth, leaving the tying run on third base and the winning run on second. The Beavers held on for a 4-3 win.
+And in Thursday’s loss, the Trojans put the winning run on second base with one out in the bottom of the ninth, but failed to bring him in. Oregon State broke through with three runs in the top of the 10th and won 4-1.
+The Trojans have also had trouble at home. They are just 4-8 at Dedeaux Field and 10-6 away from it.
+But they have a chance to reverse that mark by the end of the week as USC wraps up a seven-game homestand against California. After tonight’s game, the Trojans will host Cal in a three-game series starting Friday.
+USC currently sits at 10th in the conference, tied with Arizona and Oregon at 2-4 in Pac-10 play.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+For the past two weeks, students in the USC Roski School of Fine Arts have been showcasing their work at the Pacific Design Center in Hollywood. The Senior Seminar Exhibition, titled “Four Legs on the Floor,” is an eclectic culmination of art that engages all five senses.
+Bear-y nice · Chuck Hohng’s “Family” (2009), made of fabric and stuffing, is on display at the exhibition. - Photo courtesy of Chuck Hohng 
+Upon walking into the showroom, I was promptly asked by one of the artists, Chris O’Hurley, if I would like to climb into his womb.
+The question made more sense after seeing a girl crawl out of a big wooden box lined with red blankets and pillows that looked as if it had a heartbeat.
+O’Hurley says his piece, which took three days to build, was inspired by a crawl space that he used to have in his house.
+“I liked the idea of taking away some of your senses in order to enhance others, which is what I tried to achieve by creating this womb,” O’Hurley said. “You’re constricted in the space and it’s dark [inside], so the sound of the heartbeat becomes very intense and relaxing.”
+In the end, O’Hurley acheived his goal, at least according to Rachel Brady. “It was really intense, yet comfortable,” Brady said of her experience lying inside the padded box. “I felt swaddled like a little baby, and the heartbeat noise was actually really relaxing. If you shut that door, I’d probably fall asleep.”
+After experiencing the womb, I continued through the exhibition and observed a beautiful snow scene created by Clover Oak. The piece included snow coming from the ceiling, a white chair and snowballs — meticulously hand-crafted from hundreds of plastic bag strips — all reminiscent of Oak’s home.
+Having grown up on the East Coast, Oak said it was interesting to learn about the West Coast’s fascination with snow and how this half of the country goes out of its way to recreate snow themes in art and songs like “White Christmas.”
+“In this piece, I was trying to capture that love I have for snow along with the West Coast’s fascination with it,” Oak said.
+Another artist who drew inspiration from an idea that has become commoditized was Chuck Hohng. His piece was a comment on the social clichés our society uses to embody happiness.
+Hohng used teddy bears to epitomize childhood in his piece, but pointed out that not everyone has the luxury of a happy childhood and that objects like the iconic teddy bear create facades that paint pretty pictures but mask reality.
+In Hohng’s work, a teddy bear hangs under a painting that represents the hypocrisies Hohng believes society is based upon. Each bear represents a member of his family through a physical trait; he explained that his father could be stubborn, for instance, so the bear that represents him literally has a harder head than the rest of the bears.
+“I tried to take something personal and make it universal,” Hohng said. “I’ve always felt a calling to do this, to kind of break free from my very strict and traditional Korean upbringing.”
+Hohng has hit roadblocks on some of his past efforts to create these sorts of universal claims.
+“I tried to express myself through creative writing, but there was the language barrier, which is how I discovered art as a way to voice myself.”
+Photographers Michelle San Agustin and Chelsea Jeheber used their cameras to capture the essence of human nature so poignantly that their images literally jump out at you, creating an almost 3-D effect.
+San Agustin’s subject is Krys Fox, a performance artist, who’s eye-popping, eccentrically decorated home is almost no match to his flamboyantly colorful appearance. From fake lashes to fringe and a sassy house cat, the photo gives the observer a peek into Fox’s fascinating world, and believe me, it can take a while to soak it all in.
+Jeheber also invites us into the homes of strangers, but after talking to her I learned that she too did not know the subjects in the pictures.
+For her sequence of photos, Jeheber posted an ad on Craigslist requesting interesting people who would like to be photographed, and interesting people she found. From a quirky man donning a suite at noon while drinking tea in his mother’s florally decorated living room to a shirtless, long-haired, tattooed hunk lounging on his disheveled bed, Jeheber captures such private moments that the viewer feels almost shameful and inappropriate for staring, which makes the series a captivating peep show.
+“Four Legs on the Floor” runs until April 8, so if you’re interested in engaging all senses and experiencing a variety of truly impressive work, get to the Pacific Design Center and check it out before it’s too late.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+No matter what your mom might say, television can be educational. Anyone who grew up on a rigid diet of Rugrats, Doug and Scooby Doo has all the tools for social interactions, school life and dodging vigilante laws.
+In at least one respect, things haven’t changed much since ’90s-era Nickelodeon programming. If everything in your kitchen except for the microwave is gathering dust, flip on the T.V. and check out Food Network. Watching a few specific shows can teach you everything you need to get started on culinary adventures. Consider it night class.
+Iron Chef America
+It’s 9 p.m., you haven’t been grocery shopping in two weeks and you’re starving — oh, and a hobo stole your wallet, precluding the possibility of takeout. What could gourmet chefs like Bobby Flay or Masaharu Morimoto possibly teach you about slapping together a half-tasty dinner?
+In Iron Chef, it’s a level playing field. Chefs are given a secret ingredient, which can be anything from beef jerky to cantaloupe. The contestants then have an hour to concoct a five-course meal.
+The show proves you can make decent food out of anything. Would you ever think to combine collard greens and tamale mix? With a bit of creativity, you can whip up something as eclectic as a Dali painting, without a repeat of your Easy Bake Oven experimentations.
+Meanwhile, Iron Chef isn’t about carefully constructing a precise piece of foodie artwork — it’s about cranking out five courses in 60 minutes. Watching Iron Chef illustrates that good food can be made on the fly, with some deft knife work and timesaving substitutes like baking soda.
+The next time you open your cupboard to find only a banana, pinto beans and some leftover mole sauce, don’t despair and reach for the Frosted Flakes — bring some excitement into your life and get cooking!
+30 Minute Meals with Rachael Ray
+This is the best show for the cook who wants to make something simple, fast and budget-friendly. Many like to hate on Rachael Ray and claim she is not a “real cook,” but anyone who makes a salad with hotdogs and pickles gets an A in my book.
+Ray’s list of ingredients can actually be found in Superior Grocers, or at least Ralphs. Delicate omelets and painstakingly braised beef are forgone in favor of hearty frittatas and juicy seared steak. Because each show is 30 minutes, the cooking techniques are never particularly involved, and Ray emphasizes going by feel and adjusting to taste.
+For a straight-up cooking demonstration for everyday food, Ray rules. Pork chops with beer bacon gravy, anyone?
+The Best Thing I Ever Ate
+Sometimes you just don’t want to cook. Who better to recommend a restaurant than chefs who routinely make a conscious choice between Meyer and Lisbon lemons? In The Best Thing I Ever Ate, Food Network stars, such as chef Giada De Laurentiis and Ace of Cakes’ Duff Goldman, name their favorite dishes from specific restaurants. Each episode has a different theme, which have included “Crunchy Edition,” “The Classics” and “Sugar Rush.”
+Many of the restaurants are in New York City, but don’t discount Los Angeles for eating options. The legendary Number 19 from Langer’s Deli and the Brazilian Chicken Pot Pie from Wood Spoon have both made an appearance.
+Impress all your friends when you suggest a seemingly random restaurant for a Saturday lunch. Most of the dishes do not actually come from fancy restaurants, so even broke college kids can enjoy fine dining.
+Good Eats
+Some say food is an art. With Good Eats, engineering and chemistry majors can totally get in on the food scene. In each episode, food nerd Alton Brown teaches you how to prepare a certain dish, such as beer bread or curry. Along with plenty of random humor and pop culture references, Brown goes into the history and science behind dishes such as corned beef, gravies and omelets. Brown also shows how virtually any food, from doughnuts to gyros, can be made in your own kitchen.
+A blossoming cook can also pick up neat little tricks in the kitchen. For example, did you know it is actually better to add water to an omelet mix than the typical cream or milk? All recipes also appear on the website, providing weeks’ worth of tasty eats. If you watch the show, you will know just how to make them — complete with a side of interesting table talk.
+Diners, Drive-ins and Dives
+Few know host Guy Fieri as a particularly delicate chef, and that’s just fine. Diners, Drive-ins and Dives, a.k.a. Triple D, follows Fieri across the country as he explores America’s greatest greasy spoons. Restaurant owners show off their most popular dishes and take viewers through the whole cooking process. Forget foie gras and crème fraise — Triple D is all about the burgers, grilled cheese and pizza, but only the tastiest, craziest of each make the cut and appear on the show.
+Those wanting to take the Great American Road Trip this summer will get a list of delicious, cheap places to grab some chow. But Triple D goes beyond restaurant recommendations — it’s a perfect muse for culinary adventure.
+These out of the way diners churn out some awesomely crazy eats. Hash made out of quinoa, kettle corn-flavored milkshakes and cheeseburger Reubens are just a few of the interesting dishes for those who like to play around in the kitchen.
+Mimi Honeycutt is a sophomore majoring in print journalism. Her column “Gingersnaps” runs Wednesdays.
+[…] Learning a lot from cooking T.V. shows | Daily Trojan […]
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+4:50 a.m., Saturday: At an hour when most students might be found in bed, writhing from the spoils of a weekend night, junior Andi Riveron, a student film producer, is awake and waiting for her ride to a 12-hour day on set.
+Action · Film school students are assigned principal crew positions for four faculty-approved scripts. The crew of Little Spoon started preliminary filming in February in the house of lighting director Katie Mitchell. - Photos courtesy of Jane O’Neill 
+“This past week I’ve been saying, ‘I’m never producing again,’” Riveron laughed, knowing the majority of her day will be spent wrangling, feeding and energizing up to 30 cast and crew members.
+Riveron is currently enrolled in a class known ominously among cinema students as “480,” and her early-morning wake-up is all in the name of a good grade.
+Designed to mirror the workings of a professional film set, Production Workshop I (CTPR 480) students are assigned principal crew positions for four faculty-approved short film scripts, each of which is directed by a veteran of the class.
+Little Spoon, the film that Riveron is producing, concerns the withdrawal of a self-describe “spooning” addict, whose family problems suggest a need for intimate human contact.
+The course is taken by many students hoping to direct similar scripts in the future.
+“Ultimately, I want to direct,” said junior Alysia Russo, the film’s assistant director. “But anything you can do to put yourself on set is valuable. My job puts me close to nearly every department in the production.”
+According to most principal crew members, the greatest challenge of the class is managing a large team full of different ideas and opinions.
+“In an ideal world, your crew would be totally synchronized,” Riveron said. “I think the biggest problem we face is taking too long in making decisions. In a leadership position, you have to be forceful and be the boss.”
+Professor Michael Peyser, who teaches the course, said he agrees.
+“Everyone makes their own movie,” he said. “But what 480 students learn is that everyone is making the movie. Even the directors and writers who know what the film is discover it in that group endeavor.”
+Preliminary filming for Little Spoon started at the beginning of February in the Los Angeles home of lighting director, junior Katie Mitchell. When it arrived, the day was uncomfortably hot.
+The halls of Mitchell’s house were festooned with coffin-sized metal cases, racks of light stands and multi-colored piles of cables. In the front yard, production assistants assembled a 15-foot tall silk to block sunlight as Mitchell’s mother, Joyce, watched with a mixture of fascination and unease.
+The day played out like a football game, with production halting after each take. Dead camera batteries were swapped for fresh ones. Endless adjustments were made to the position of the camera and diffusion of lights. The day’s final shot — in which the camera moves away from the house on a long, angled dolly track — was assembled with painstaking precision. Wedging wooden blocks beneath the tracks and taking level measurements, the crew struggled to hide their exhaustion.
+Though no one on the project is financially compensated for their work, Mitchell is quick to note the importance of production assistants.
+“Everybody that’s not in the class is not being paid and we have to remember that,” she said. “We have to treat them with respect as a part of the crew. We need them.”
+According to Mitchell, kind gestures work wonders on and off the set.
+“Once, the crew got left with loading the van,” she recalled. “Alec [the director of photography] and I felt really bad and took them out to lunch.”
+Despite the challenges of the work, the camaraderie of the principal crew has brought assistant members back to set each weekend.
+“The chemistry on this set is the best I’ve ever seen,” said freshman Alanna Hanson, a key grip. “More than anything, seeing such a well-run film set makes me want to work on others.”
+Two weeks later, the crew relocated to an apartment building on The Row, this time with actors, shooting an irreverent “Spooners Anonymous” meeting. The atmosphere was notably pleasant.
+The actors enjoyed themselves and caused a lot of laughter among the crew, which now operated with lightning efficiency and care. Lighting decisions were made with little debate; camera positions changed in seconds. At one point, a loose cable nearly sent a victim crashing to the floor. Instantly, however, Riveron secured it with tape.
+While enthusiastic about the production, the crew did not hide their anticipation of the film’s wrap and the inevitable celebrations. The film will screen after finals week, but before that night of exaltation, many hours will be spent in the basement of the George Lucas Building, digitally trimming scenes and taming audio levels.
+“We held a public screening last night for a group of uninvolved viewers,” co-producer junior Taylor Luce recounted. “The film is coming along well. With each edit, the story becomes more clear, concise and effective.”
+The film’s May 13 premiere will mark the end of a collective endeavor that has taken considerable residency in the lives of its makers.
+“After we wrap, we can go back to being ourselves,” said Mitchell.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Someday, the Trojan Family might have to answer questions about where students can smoke marijuana on campus, but first the university needs to deal with an unresolved issue: cigarette smoke.
+Two years ago, the Office of the Provost charged the Work and Family Life Advisory Committee two years ago with the task of looking at wellness on campus, including the responsibility to determine how students, staff and faculty felt about smoking on campus. The group has not yet made a recommendation of whether or not to revise the current campus smoking policy.
+Betsy Avila | Daily Trojan
+Nearly 400 American colleges and universities, including 19 in California, have smoke-free campuses indoors and outdoors with no exceptions; another 80 campuses are nearly smoke-free with a few exceptions for remote outdoor areas.
+Although USC could decide to ban smoking on campus altogether, the best solution is a closer adherence to the current smoke-free policy that is listed in the SCampus Student Guidebook.
+In the smoking policy, the university recognizes the need to accommodate those who choose to smoke. According to USC’s 2007 Health Assessment, 3.3 percent of undergraduates and 2.6 percent of graduates reported smoking on a daily basis.
+On a college campus, exposure to secondhand smoke in most cases is fleeting.
+At issue, then, is the brief encounters people have with individuals who smoke outside of residential buildings, classrooms and dining facilities.
+Although the health effects of intermittent exposure might be unclear, the fact that smoke can annoy people is clear is as ever. Secondhand smoke leaves many with coughing spurts, tears in their eyes and general irritation.
+The current smoking policy attempts to bring “a safe and healthy environment” to everyone on campus. It bans smoking “in all enclosed buildings, facilities and university vehicles, which are owned or leased by the university, on both the University Park Campus and the Health Sciences Campus.”
+Yet, there are the handful of university employees who light up during breaks while still sitting in their pick-up trucks, especially along the northern end of McClintock Avenue.
+The policy further states that “administrative and academic units may designate existing outdoor space as smoking areas, but these areas should be located far enough away from doorways, windows and ventilation systems to prevent smoke from entering enclosed buildings and facilities.”
+These so-called designated smoking areas, however, don’t seem to exist or be clearly delineated. Instead, people light up next to doorways all over campus. This is especially troublesome outside a building such as the Von KleinSmid Center, where air seems to get trapped under the walkways over the doors. One walks outside from an air-conditioned building only to unexpectedly enter into a pool of cigarette smoke.
+Creating remote locations for smoking would only allow smokers to continue smoking without the inconvenience of a total ban.
+As the university continues to follow through on its intent to reduce what it calls a “health hazard in our campus environment,” the best policy appears to be to follow the current policy by giving smokers some direction to where they can enjoy their unhealthy habits.
+Paresh Dave is a freshman majoring in print journalism.
+“This is especially troublesome outside a building such as the Von KleinSmid Center, where air seems to get trapped under the walkways over the doors. One walks outside from an air-conditioned building only to unexpectedly enter into a pool of cigarette smoke.”
+Wow kid. You live in one of (if not the most) polluted cities in the United States. Stop whining about the millisecond you spend walking through an exhaled cloud of smoke. This article is a complete waste of space and resources.
+Would be awesome.
+Picture a smoking ban on campus during exams week.  
+that is all
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+According to the United States Center for Disease Control, between 20 and 25 percent of college women experience sexual assault, attempted rape or rape during their time in college. Rape is a very specific and escalated form of sexual assault that occurs in the United States about every two minutes according to a report by the U.S. Department of Justice.
+Last week, the Women’s Student Assembly addressed this appalling reality with its annual “Take Back the Night” event, enabling women to speak out against the horrific crimes of sexual assault and call for men to take a closer look at how they treat women.
+The struggle to overcome this social problem is twofold: The legal system is ineffective at preventing the crime, and the culture of macho fails to encompass a genuine care and honor for women. The most effective solution would be a reformation of popular views on manhood.
+Sexual assault convicts average between eight and nine years in prison while rape convicts average between 12 and 13 years, according to a past DOJ report. Conviction rates remain relatively low because of a lack of evidence and an unwillingness of witnesses to testify.
+The punishments for sexual assault, given their low conviction rate, poorly prevent the crime.
+Many solutions have been proposed to curb sexual assault and rape, but the crimes cannot be easily subdued.
+Perhaps to make up for the low conviction rate, the punishment should be more severe. If sexual assaulters or rapists were sentenced to capital punishment, more would be deterred from the crime.
+But the escalation of punishment to the  a death penalty would make criminals more likely to execute their victims and witnesses, since that murder would result in the same punishment as an assault. Thus, escalating the punishment of these sexual assault crimes might be inefficient or result in harsher crimes.
+Aaron Rovner | Daily Trojan
+One effective means to reduce the crime rate would be to remove the shame associated with the crime that prevents women from reporting their victimization and testifying against their assailants. But this has proven very difficult.
+The most efficient and valuable prevention of sexual assault is to change the social mores surrounding “manliness.” The most relevant of these often unjust standards include the need for men to be “macho” and the increased respectability for those engaged in sexual relations with women — i.e., the more, the better.
+These mores can lead to aggression and emotional detachment according to Gail Dines, an American Studies professor at Wheelock College in Boston. Because men want to be macho, they become more prone to committing sexually violent crimes.
+The Feminist Review cites other studies that show sexual assault and rape to be crimes of sexual power and manipulation rather than sexual pleasure — a reason why rape is prevalent by conquering armies in times of war.
+The solution to sexual assault crimes is rewriting the definition of manliness to include a genuine care and honor toward women.
+If men truly put women before themselves, are willing to sacrifice for women and treat women as equals, the problem of sexual assault would greatly diminish.
+People generally condemn sexual assault. However, the fight against this crime requires some intentionality and awareness on a practical level — particularly at college parties. The power to impede sexual crimes is in the hands of individuals, not any organization at large.
+This power is particularly important for members of the respectable USC Greek community, which has traditionally developed campus, business and global leaders.
+Although many women do not report their victimization, knowledge and rumors of the crimes in the Greek community  have spread, potentially deterring future leaders already on campus from joining the Greek system.
+If we, men, take on a chivalrous attitude toward women, we could largely rid our campus of sexual assault. This solution can begin with just a few brave men dedicated to honoring women in their own circles and willing to confront someone acting inappropriately.
+Curbing sexual violence does not require everyone to create picket lines at parties or any other form of political activism. Rather, these men will create a culture in their respective communities that breeds a natural accountability, allowing us to hold a higher standard for our university.
+For those that really care about ending this grave injustice toward women, let us take on a heart of chivalry: a genuine and pure care for women. Let us honor each other until sexual assault and other abuses are rare.
+Jensen Carlsen is a senior majoring in economics and mathematics and a member of Alpha Gamma Omega fraternity. His column “The Bridge” runs Wednesdays. 
+“ Why rape is prevalent by conquering armies in times of war.”
+Is because they cant get reprimanded!  
+“The solution to sexual assault crimes is rewriting the definition of manliness to include a genuine care and honor toward women.”
+How exactly do you propose that?   In fact I think that’s WHY men rape!  We put way to much value into females.  We should have a society that got laid more, not less!  I’ve to rural parts of Italy where church doctrine teaches similar values to people and the whole monogamous spiel and those men, because of sexual repression are some of the most brusque and sexually harassing people I’ve ever meant.  Do to the fact that men who don’t get laid rape.  If a man was getting laid more than average, let’s say three girls a week, regularly, I doubt that he would “force” himself on an unsuspecting female.  It’s the sexually frustrated chump, which I suspect that you yourself might be, that end up date-raping.  
+The violent sexual-murders kind are not, and cannot be reformed I believe.  Animals of a different nature, and really an entire, and separate article should be done for these people.  I don’t endorse capital punishment, sorry Chuck Norris, I didn’t go to Sunday school, I was too busy playing with firecrackers and booby traps, but I was in Argentina five months ago, (their president is a woman by the way) and they were flirting around (no pun intended) with the idea of chemically castrating males who rape.  Yes its very XII century but not only will it work!  Because it would completely eliminate (ok, here comes a big word, get your dictionary page tab ready) recidivism they’ve completely lost all sexual drive, (lol). We rid their bad genetic defects out of the evolutionary pool, and save tax payers MONEY, because we would no longer have to feed them, shelter them, and clothe them, they would be scot free, albeit a few ounces lighter.  
+Please stop it with this spiel about “treating them like equals”, heterosexual men don’t treat men like women because we don’t want to mate with them.  Again, this Jensen fellow is only exasperating the problem by further cementing false truisms.  If we started all “putting ourselves in front of women” and still got no poo-tang there would be even more civic, state, national, and interracial warfare.  What women want is a man with some cajones who tells them, what to do, when to do it, & how to do it!
+“These few dedicated men” would not only be the laughing stock in the school, but I believe your protectionism would also be unwanted by the ladies (ladies your input is invaluable, please post your opinions on this particular issue).  Alcohol has never made any do anything they didn’t want to do, it just enable them to do what they already wanted to do.  Not only is it a crime, and I’m not condoning sexual intercourse with a passed out chic… even I have my limitations.   And you Chuck Norris shouldn’t be comforting anybody, “acting inappropriate” because, one, you’re not the police and two… well theirs only pretty much one, you’re not the police.
+I am afraid this article assumes all rapes and sex assaults are committed by drunk frat boys who get too “hand-sy” and then eventually can not differentiate between consent and force against one’s will. Although that is definitely a problem I wonder if the author has ever walked through a State Penitentiary and looked at most of the men convicted of rape. It is rather naive to think by merely having the university community take a “chivalrous attitude toward women” – that this will prevent rape. The author seems to be someone who has been rather sheltered and believes people do not exist beyond the gates of this university. It has become fashionable to think rape exists only in date-rape scenarios. It is as if people no longer want to admit that there might be a total stranger that – gasp- is not even a student – gasp again-  that might walk behind a female and sexually assault her – or worse. While I think men should always be encouraged to respect women, it would be giving ourselves a false sense of security to think the Ted Bundys, Willie Hortons and other monsters of the world will be swayed by this. The sad truth is women are raped everyday – every hour for that matter and one must try not to be one of them. Remain vigilant and do whatever you can to not be a statistic. Politically correct academics will cry this is like blaming the victim but I disagree. Car drivers should not run over children but that does not mean you let your  toddler play in the streets.
+If the chick snubs you…too bad. Develop in your character thick-skin and move on. There is nothing macho about imposing your physical will on a woman just because she snubbed your sexual overtures. What happened to old fashioned charm, wooing, etc.? Even if all these don’t work, just use them as a learning experience.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+As part of a national tour, Tavis Smiley’s “America I AM: The African American Imprint” exhibit came to the California Science Center in Los Angeles and has since garnered well-deserved attention for its intriguing display of African-American history and influence throughout United States history. Recently, the exhibit extended its run through May 2, granting Angelenos who haven’t yet experienced the exhibition another opportunity to see it before it moves on to other major cities.
+The exhibition includes  an extensive 13,000 square foot exhibit that is separated into a dozen galleries and features an array of historical artifacts. The exhibit is unique because it doesn’t simply recite history but instead takes a close look at the way African-Americans have helped to shape spirituality, economics and culture in American society for more than 500 years and also analyzes the implications the past have on the present.
+The exhibition is something that everyone — regardless of ethnicity — should take a moment to visit. Because the United States, despite its diversity, is founded on the shared history of its citizens, it’s important that the contributions and achievements of all groups are remembered. The “America I AM exhibit” is an educational and interesting display that highlights and celebrates the achievements of African Americans throughout history to the present.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+USC women’s basketball head coach Michael Cooper can add another honor to his list of achievements.
+The former Los Angeles Lakers’ great and Pasadena City College basketball star was recently inducted into the California Community College Sports Hall of Fame.
+He joins a list of elite PCC alumni that have been inducted into the Hall of Fame including MLB great Jackie Robinson, NFL wide receiver and Trojans alum Rod Sherman and NCAA basketball coaching legend Jerry Tarkanian.
+While playing at Pasadena Community College, Cooper became the fifth Lancer in basketball history to score more than 1,000 points in his career.
+He would then go on to play at New Mexico, where he led the Lobos to a Western Athletic Conference (WAC) title and earned All-American honors as a senior.
+The Los Angeles Lakers drafted Cooper in the 1978 NBA Draft and he played an integral defensive role on the “Showtime” Lakers teams during the 1980s.
+During his 12-year career in the NBA, “Coop” was named to eight NBA All-Defensive teams, he won the NBA Defensive Player of the Year Award in 1987 and he helped lead the Lakers to five NBA championships.
+After his player career, Cooper moved into the coaching ranks, leading the WNBA’s Los Angeles Sparks to two WNBA titles over an eight-year span.
+This past year, he led the Women of Troy to a 19-12 record and a 12-6 mark in conference play, which was their best finish since the 2004-05 season.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+USC Hospitality announced Monday that Wahoo’s Fish Taco Stand will move into the Ronald Tutor Campus Center when it opens this fall. Wahoo’s is the fourth of 10 dining options that will be available in the campus center.
+Wahoo’s currently resides in Café 84 and USC Hospitality did not announce what will replace it once Wahoo’s moves to the new campus center.
+USC Hospitality already revealed that California Pizza Kitchen, Lemonade and Carl’s Jr. will join Wahoo’s in the food court of the campus center.
+USC Hospitality plans to announce one new option each Monday on its Facebook and Twitter accounts until a week prior to the planned opening of the center this summer.
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The Daily Trojan features Classified advertising in each day’s edition.  Here you can read, search, and even print out each day’s edition of the Classifieds.
+Click the icon to download the PDF of today’s Classifieds:
+
+To place an ad, please contact an ad representative:
+(213) 740-2707
+USC Student Publications Student Union – Room 404
+Los Angeles, CA 90089-0895
+http://dailytrojan.com/ads
+Extra en Español
+The student club brings together a diverse group of students weekly.
+The nonprofit works with freshmen in a Marshall School of Business program. 
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
