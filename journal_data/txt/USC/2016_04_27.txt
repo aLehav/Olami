@@ -1,0 +1,698 @@
+Tutoring is now on-demand thanks to a program through the Rossier School of Education.
+Founded in February 2015, One With USC Rossier connects tutors from USC with parents and students, beginning in kindergarten, who are looking for academic help.
+The program is an online marketplace. USC students, graduates and faculty members can all offer their tutoring services. Each tutor must take a course on tutoring pedagogy, as well as pass an assessment by a tutoring expert. The tutors have the option to conduct their lessons using an online platform, which allows them to use various features such as virtual whiteboarding, document sharing and video conferencing. The platform also gives tutors the ability to create an individualized lesson for each student, although it can be customized for small group lessons as well.
+Tutors can set their own hours and rates. Twenty percent of the proceeds go back to Rossier for scholarships and other funding.
+Kristen Shultz Thompson, program administrator of the office of professional development programs at the USC Rossier, said she believes anyone who understands how learning and instruction work can be a good teacher, and she encourages people who might be interested in becoming tutors to try it.
+“Even if you don’t think you have the experience to be a tutor, you probably do, especially if you know how to work with and listen to people,” Thompson said.
+Molly Phelan, director of operations, Adam Kliegman, product lead, and Yiwen Looi, head of marketing and growth at Noodle Partners said they agreed.
+“We believe everyone in the USC community has something to teach, and there are many people in the USC community and beyond who would love to learn from them,” Phelan, Kliegman and Looi said in a joint email to the Daily Trojan.
+One with USC Rossier partners with Noodle Partners, a New York-based ed-tech startup. Noodle Partners was founded by John Katzman, founder and former CEO of The Princeton Review and 2U. The company’s goal is to help colleges and universities improve learning, raise revenues and lower costs by bringing together technology and tech-enabled service organizations. Katzman sits on the board for Rossier, and USC became one of the first schools he introduced to Noodle Partners.
+“It’s a true partnership,” Thompson said.
+Noodle partners provided the online platform and the marketing piece, while Rossier provided training for the tutors.
+Before partnering with Noodle Partners, USC Rossier had not worked with many tech-heavy companies.
+“It’s an entirely new partnership. It made us reframe the way we approach learning,” Thompson said.
+The first tutors were the Masters of Arts and Teaching students. Now, Rossier’s primary role is providing the training for tutors. The course teaches tutors about different features of learning and instruction. Thompson said many tutors have reported that Rossier’s training program has helped them to frame their sessions.
+Benjamin Gross, one of Rossier’s tutors, recently graduated from USC with a Ph.D. in physics. After graduating, a friend told him about the tutoring program and he decided to become a tutor.
+“One with USC Rossier carries a good name. A lot of people will trust it because it’s USC. I like the name recognition and the program’s network a lot,” Gross said.
+Thompson said that because the program is over the internet, it is easier connect with tutors.
+“What’s great about this program is that it can be completely online. If you’re looking for tutoring in Mandarin, you can be working with a native speaker in China who has been trained and can work with you one-on-one,” Thompson said.
+Phelan, Kliegman and Looi said another benefit to the program is the variety; students can reach out to as many tutors as they would like to before deciding on one who is a good fit for their specific needs, and they can search for the tutors by geography, price point, subject or skill.
+Currently, the program has 93 tutors, but Phelan, Kliegman and Looi said it has been a challenge to meet demand.
+“Clients have a wide array of requests and we hate to turn away clients whose requests we can’t fulfill. The only way to guarantee that a great match is made in a timely way is to rapidly increase the number of tutors on the site,” the email said.
+Thompson said that because USC offers so many tutoring options, it has been difficult to spread the word about why people should use the One with USC Rossier platform.
+“There’s this idea of on-demand tutoring. You can be a tutor or you can receive tutoring right now. That’s what makes us different,” Thompson said.
+Gross said he thinks one-on-one tutoring is going to be an enormous industry moving forward.
+“There’s a lot of frustration with the old style of education. Smart kids get bored and check out and the less-advanced kids get left behind,” Gross said. “Parents who have the resources are starting to realize it’s better to hire tutors.”
+Thompson said her main goal is for the tutors to be well-trained.
+“My goal is to make the tutors the most qualified they can be, so that if you go onto the platform, you know you’re getting a high-quality tutor,” Thompson said.
+Correction: A previous version of this article referred to the One with Rossier program. It is the One with USC Rossier program. The Daily Trojan regrets the error. 
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Beginning the morning of April 18, a total of 2,784 phishing messages were delivered to members of the USC community.
+An email claiming to be from “USC Admin” asked students, faculty and staff to verify their USC credentials. The email included a link which led them to a form that asked people to input their USC username and password.
+“While the message included several common indicators of a phishing email, such as the low-resolution graphics, grammatical errors and a generic salutation, it was believable enough to prompt us to warn students so that they would not become victims,” said David Shaw, the chief information security officer, in an email to the Daily Trojan.
+ITS resolved the issue by working with their email protection vendor, Proofpoint, to block the link in the email.
+“Anyone who clicked on the link would see a warning message indicating that the link had been blocked due to malicious content, and would not be able to access the site,” Shaw said. “In addition, we sent an email to students and placed alerts on both the ITS Security Blog and the ITS homepage.”
+The identity of the originator, however, could not be found. According to Shaw, because phishing is a widespread problem that all organizations deal with, it is easy for perpetrators to cover their tracks, making it extremely difficult to track the senders. The originators of the phishing emails often attempt to acquire students’ basic information such as student usernames and passwords to ultimately infiltrate into the internal system.
+“In many cases, the authors of phishing emails are only after user credentials,” Shaw said. “They can then use these compromised credentials to access a company’s internal systems or the victim’s personal information. The goal of phishing campaigns are not always the same and are not always readily apparent.”
+Regardless of the recent incident, many students believed that the University and their email providers do a good job in terms of warning users about potential phishing attempts.
+“Other than the warning emails USC sends us, I have not experienced nor heard of anyone else that has had issues with phishing,” said Michelle Huber, a junior majoring in environmental studies. “For my email, the phishing emails must be going directly into ‘Spam.’ I never check my spam email, but I have never gotten a phishing email.”
+Hannah Bosnian, a freshman majoring in animation, had a similar reaction, saying she thinks the University does a good job warning students about potentially malicious emails.
+“I have never had any experience with it. I just received warnings for them,” Bosnian said. “The only thing I did see was that Gmail has warnings for all the ‘dear sirs/madam’ emails. Google would, however, give me phishing warnings.”
+However, some students have experienced phishing incidents as ITS said. Madison Norton, a junior majoring in biological sciences and psychology, got the email, but luckily did not provide any information because the sender was not an accredited website.
+“I got an email requesting all my school information, like my ID number, from a website claiming that they are an honor society,” Norton said. “But it was not an accredited website, so I did not provide them my information.”
+Shaw urged students to practice key email security practices actively in order to avoid becoming the victims of the phishing. He urged students to be suspicious of any message asking them to log into their accounts before they lose access, to type URLs directly into the browser rather than clicking links in emails in order to avoid visiting malicious or fake websites and to change their USC NetID password as soon students have received a phishing attempt.
+“Remember that ITS will never ask you for your password in an email or over the phone,” Shaw said.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Starting on June 1, the USC Center for Women and Men will be renamed the Relational and Sexual Violence Prevention Services, or RSVP, to better reflect the resources that it offers as well as support a variety of gender identities among the student body.
+As part of the Engemann Student Health Center, the CWM aims to provide counseling to victims of sexual assault and gender-based violence, as well as offer educational programs on gender-related topics. Heidi Ried-Gonzaga, the marketing and media director for Engemann’s Division of Student Affairs, said that the change was driven by a desire to include all students, not just those who identify as women or men.
+“While CWM’s departmental name currently implies a space for male and female students, it misses the mark by excluding students and staff who do not identify within the gender binary,” Ried-Gonzaga said in an email to the Daily Trojan. “Having this type of center name may be an improvement from other women’s centers, which only convey a space for female students, but the title does not do justice to the USC student or staff population. In actuality, the center’s name has often been denounced as not being an inclusive space for genderqueer and transgender students.”
+The services that CWM offers focus on supporting students affected by childhood sexual abuse, interpersonal violence and trauma related to sexual assault, according to Ried-Gonzaga. However, the center also provides a safe space for those struggling with their gender identity to speak to someone who can help.
+“CWM has been highly effective in providing support to students who have experienced sexual assault or gender-based harm, but also assists those students who struggle with a variety of gender issues, such as struggling with societal notions and pressures related to gender constructs,” Ried-Gonzaga said.
+According to Ried-Gonzaga, CWM cannot fulfill its mission until it reflects the diversity of students that seek its services.
+“A center like CWM has been necessary so that students have a safe place to confidentially talk to professionally trained staff members about the issues of sexual assault, gender-based harm and many other related issues,” Ried-Gonzaga said. “With the name change to RSVP, the center hopes to reach out to even more students seeking this assistance and support.”
+A formal press release will go out to USC media shortly, and all marketing materials and the CWM website will reflect the change by June 1, according to Ried-Gonzaga.
+The center will also be introduced as RSVP during the summer orientations so that new and transfer students grow accustomed to the name.
+RSVP staff will hold an open house to promote the new name and remind students of the services that the center offers in the fall.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+At least nine USC Housing apartment buildings could be at risk of damage in a major earthquake and may require retrofitting, according to the Los Angeles Department of Building Safety. These USC buildings are just a few of more than 13,500 buildings in Los Angeles that could face a similar danger.
+LADBS identified thousands of “soft-story” buildings, which have “weak or open” bottom floors, as part of an ordinance issued by the City of Los Angeles requiring soft-story apartment building owners to perform retrofits. Typically these buildings include space for parking on the first floor, with the main portion of the building perched above it. According to the Los Angeles Times, these buildings are “vulnerable to violent shaking.”
+This form of construction was popular in the 1950s and 1960s, the Times wrote, because the layout made it easier to fit parking, outdoor space and living space onto small lots. But because much of the building’s weight is supported by a few columns, the failure of these columns in an earthquake could cause the whole structure to collapse.
+Lucy Jones, former earthquake safety advisor to Mayor Eric Garcetti told the Times that about two-thirds of the 49,000 apartment units damaged in the 1994 Northridge earthquake were located in soft-story buildings.
+The USC-owned soft-story apartment buildings on LADBS’ list are spread throughout the North University Park area. According to data from the USC Housing website, these buildings are designed for use by a total of 718 undergraduate and graduate students. No on-campus buildings met the criteria to be on the list.
+In the ZIP code 90007, a total of 136 addresses are listed by LADBS as potentially at risk. The listed USC-owned buildings are Bel Air Apartments, Century Apartments, Fairmont Apartments, Helena Apartments, La Sorbonne Apartments, Manor Apartments, Stardust Apartment, Troyland Apartments and Twin Palms Apartments.
+The City of Los Angeles passed a law in 2015 mandating that owners retrofit these buildings, which involves adding steel frames to reinforce the bottom floor. Courtesy notices were sent in March, and official notices will be sent to building owners beginning May 2 through the end of next year, according to LADBS.
+The list compiled by LADBS is not definitive, and some buildings on it may not require retrofitting. Owners have an opportunity to prove that their buildings are safe, but the city is offering online resources and in-person workshops to help those who do have to retrofit their buildings.
+From the date they receive the order, building owners have two years to either submit plans for retrofitting or proof that the building doesn’t require modification. Final completion of retrofits must be completed within seven years of receiving the order. But retrofitting can cost “as much as $130,000,” the Times wrote.
+USC is aware of the new law and the potential earthquake risk to some of its apartment buildings, according to University spokesperson Emily Gersema. USC Capital Construction is in the process of evaluating the buildings to determine if any retrofitting needs to be performed.
+The United States Geological Survey has predicted an 85 percent chance of a magnitude 5.0 or greater earthquake in the Los Angeles area in the next three years.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The following incidents were reported in the USC Dept. of Public Safety incident report summary on Tuesday, April. 26. 
+Crimes against a person
+At 2:09 p.m. on April 26, an University employee reported that a postcard that sent to her caused her to question the sender’s mental stare in the Robert Zemeckis Center.
+At 4:05 p.m. on April 26, a student reported that he was hit by a vehicle but sustained no injuries.
+Crimes against property
+At 3:20 p.m. on April 26, a non-USC student reported that someone hit her car and left without leaving information at 32nd Street and Figueroa Street.
+Miscellaneous incidents
+At 2:09 p.m. on April 26, a University employee reported that a postcard that was sent to her department caused her to question the mental well-being of the sender in the Robert Zemeckis Center.
+At 2:36 p.m. on April 26, it was reported that a USC staff member crashed into a tree branch with a University owned vehicle in Parking Structure D.
+At 4:05 p.m. on April 26, a student reported that he was hit by a vehicle and sustained no injuries.
+At 9:41 p.m. on April 26, a student went to a hospital for a psychiatric evaluation at the Row House.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Devon Manney | Daily Trojan
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Joseph Chen | Daily Trojan
+Departing Athletic Director Pat Haden will always tell you that’s he not interested in his legacy, but he will undoubtedly be leaving one at his alma mater. Haden sought to leave USC Athletics in a better place than  when he took over nearly six years ago — and while that is up for debate, there has certainly been change.
+In 2010, Haden took on a job that he never thought he would accept in the first place and, quite frankly, one that was not too desirable at the time due to the harsh sanctions that were handed down by the NCAA. He said that he wouldn’t have stepped into the athletic director post — succeeding Mike Garrett — had it not been for the incoming president at the time, C. L. Max Nikias, a long-time friend and colleague of his, someone “he could always count on.”
+“I did it because I loved the school and wouldn’t have done it anyplace else,” Haden said.
+At the time, Nikias, the athletics department and the University as a whole needed a hero as they prepared to embark on some rough waters, and that protagonist was indeed Haden, a former star Trojan athlete and scholar himself.
+“It was in a time of need, and I didn’t realize how rocky it was going to be,” Haden said.
+It’s fair to say Haden was faced with an unprecedented amount of undesirable circumstances, difficult decisions and controversy for any collegiate athletic director.
+One could imagine that scholarship limitations and postseason bans, fused with the never-ending pressure that is derived from hiring and firing coaches, and even more off-the-field drama, would take its toll on just about any athletic administrator. Even in times of turmoil, being the Trojan he naturally is, Haden always tended to do what he has been doing his entire life — fighting on.
+“At age 63, I know who I am and who I’m about, and while lots of times there is outside noise and people criticizing who criticize you [for] virtually every decision you make,” Haden said. “I think that belief in yourself helps you weather that storm.”
+The fruit of his labor is a restored and revamped athletics program, one that Nikias described as in a “free fall” just six years ago.
+“[The program] felt like that hamster in the cage just trying to paddle as quickly as we can to keep up with the rest of the University,” Haden said.
+But its upward trajectory now is more evident than ever in a number of different facets, thanks to Haden’s leadership.
+“The thing I’m most proud of is our academic achievement,” Haden said.
+Student-athlete graduation rates and GPAs are not only up, but are also the highest they’ve been in the program’s history. To go along with academic success, Haden has also streamlined one of the most robust compliance departments in the nation, with the help of Vice President of Athletic Compliance Dave Roberts, who like Haden, was brought in during one of the program’s darkest periods.
+“[Haden] worked so hard in restoring the dignity of our program very quickly,” Nikias said earlier this month after new Athletic Director Lynn Swann’s introductory press conference. “He has been a good friend and done an outstanding job.”
+Haden also broke more ground at USC than any athletic director before him, overseeing the development of a number of athletic facilities, including the John McKay Center, Merle Norman Stadium for beach volleyball, as well as the renovations of the Uytengsu Aquatics Center and Heritage Hall.
+In competition, the numbers speak for themselves. USC has brought home 10 national championships, 30-plus individual national titles and counting during Haden’s tenure. One of the things that Haden is most proud of is the unprecedented advancement of a pair of sports which the athletics program added just a few years ago: women’s lacrosse and beach volleyball.
+The beach volleyball team claimed its first-ever team national title last spring, while the lacrosse team just celebrated an undefeated regular season campaign, catapulting to a No. 5 national ranking and a league title. Both programs accomplished these feats in just four short seasons since they began at USC.
+Meanwhile, this past season, the men’s basketball team returned to the NCAA tournament for the first time since 2011 and the “800-pound gorilla” that is the football program has actually won more games than all but two teams in the conference over the past five years.
+“That’s pretty incredible considering what we’ve been through,” Haden said.
+While the athletics program has improved over time with Haden at the helm, his tenure has not been without its blunders and missteps. He even pronounced the very day he took over that he was going to “make mistakes” and “do some stupid things.”
+Haden said that one of his greatest regrets was when he went down on the field during a football game against Stanford in 2014 after receiving a text message from former head coach Steve Sarkisian. He received a lot of backlash for doing so, particularly because he was serving on the College Football Playoff selection committee at the time.
+“I could have handled that situation better,” Haden said.
+Other criticized mishaps have included the airport firing of Lane Kiffin and the mismanaged handling of the unfortunate Sarkisian predicament.
+“The job wasn’t without its challenges and its ups and downs,” Haden said.
+Now that Haden has managed to carefully maneuver just about every curveball thrown at him during his tenure, he prepares to pass the ball off to former Trojan wide receiver Lynn Swann, like they did so often as teammates at USC on those dominant teams in the 1970s.
+While Swann will take over Haden’s duties as athletic director, effective July 1, Haden will be staying at USC to oversee the Coliseum renovation project, a proposed $270 million endeavor that is expected to be completed by 2019.
+“Pat is not going anywhere,” Nikias said.
+The Coliseum will house the newly relocated Los Angeles Rams for the next three seasons, who return home after a 21-year hiatus from the city. Haden played for the Rams during his NFL career and is excited to see his former team back at the historic venue.
+“If there was going to be a team, I’m glad it was the Rams, a team that has shared the Coliseum with USC before,” Haden said.
+Aside from completing the Coliseum makeover, Haden has his sights on what’s next after finishing his time as athletic director. He plans on taking the extra time to work on his health, as well as helping raise the seven grandchildren that live right around the corner from him. He also plans on frequently returning to USC to attend sporting events.
+“I met my wife here, my kids went to school here, my best friends to this day went to school here, I was on the board for 19 years, so I have a lot invested in the place, and will continue to be a huge USC supporter moving forward,” Haden said.
+Reflecting on what he says is one of the most challenging jobs of his life, Haden exhibited a great deal of appreciation for what students on the University Park Campus have given here over the course of the past six years.
+“I enjoyed working on a college campus with young people and some of the world’s best athletes, who happened to be some of USC’s best students as well,” Haden said.
+That feeling is mutual from his student-athletes, who are also going to miss what he brought to the program.
+“Pat Haden has been much more than just an athletic director at USC. He’s been a father figure, a role model, a mentor and a friend to hundreds of us student-athletes,” said graduating football player Robby Kolanz, who also interned for Haden. “I can’t imagine this school without him, but I know he’ll be around because it’s just part of his blood.”
+As for advice for his successor, Haden said that Swann should really get to know the place and try to not make any drastic changes for at least six months into the job.
+With just two months to go in Haden’s stint as athletic director, though, his mentality hasn’t changed one bit.
+“I don’t want any special plaques or anything,” Haden said. “I’m going to finish my job June 30, and I hope to have left it a better place for the next athletic director.”
+Well done, Mr. Haden.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+As the 2016 season winds down, the No. 1-ranked beach volleyball team is living up to its billing as the top team in the land. The Women of Troy (26-2) might also be the nation’s hottest team as well, as they bring a 22-match winning streak with them into postseason play this week at Merle Norman Stadium.
+With the regular season now complete, head coach Anna Collier and the Women of Troy will turn their attention to the inaugural Pac-12 Conference Beach Volleyball Championships being hosted on campus from Thursday to Sunday.
+The Pac-12 is one of the premiere beach volleyball conferences in the country and is the first major conference to sponsor beach volleyball as an official sport. There are eight schools that will participate in the tournament — Arizona, Arizona State, California, Oregon, Stanford, UCLA, USC and Washington — with four of those teams being nationally ranked (No. 1 USC, No. 4 UCLA, No. 6 Arizona and No. 15 Cal).
+While being the top ranked team in the nation could bring extra pressure heading into the tournament, Collier thinks her team is excited for the opportunity all at once.
+“We try to challenge them in practice so when they do get out on the court and are challenged by other teams, hopefully they’ve already experienced that here,” Collier said. “Like this week, we might play UCLA in the finals. They’re good and I think the girls are feeling the USC vs. UCLA rivalry as well, so that’s going to be something they’re very excited about and will want to play well for.”
+The championships will crown both a pairs winner and a team champion, which will also be awarded the Pac-12’s automatic berth into the first-ever NCAA Championships. The tournament will begin with the first round of the pairs’ championship on Thursday at 1 p.m.
+In the pairs bracket, juniors Kelly Claes and Sara Hughes are the No. 1 overall seed, while junior Sophie Bukovec and senior Alexa Strange are the No. 5 seed in the competition. Claes and Hughes have been on a tear this season as USC’s top pair, winning 61 straight matches dating back to last season to account for a perfect 36-0 record overall in 2016. Bukovec and Strange have been steady themselves with a 12-match dual winning streak and a 29-8 overall record this season. Should both pairs advance, USC’s top two flights would meet each other in the semifinals to be held on Friday at 10 a.m.
+Furthermore, the team competition will begin with top seed USC taking on No. 8 seed Oregon on Friday at 1 p.m. in a double-elimination style bracket. Other seedings in the team competition include No. 2 UCLA, No. 3 Arizona, No. 4 Cal and No. 5 Arizona State. Stanford, Washington and Oregon round out the last three seeds.
+While the competition might not be as stiff from top to bottom, Collier doesn’t think her team will get too far ahead of themselves.
+“The girls really want to go down in history as the first team to win the conference title, so they really see it as motivation and aren’t overlooking it because this in itself is making history,” Collier said.
+Strange thinks her team will need to be mentally prepared for this heavy slate of competition as well.
+“It’s all about being mindful,” Strange said. “It’s important for us to be mindful about the fact that, yes, we want to win the national championship, but before we can win the national championship, we have to win the Pac-12 tournament, and in order to win the Pac-12 tournament, we have to win our first match, so it just goes on and on.”
+The Women of Troy will begin their quest to be crowned the first-ever Pac-12 Tournament Champions on Friday at 1 p.m.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+A little more than four years ago, while cruising down PCH with my mother and sister, I got my first glimpse of it. The scene was set: sun shining, wind blowing, ocean on the horizon. The beauty of Mother Nature around me complemented the allure of what sat right in front of me — a fresh copy of the Daily Trojan. Its texture, its scent and most significantly, its content reeled me in the very moment we met back in what seemed like simpler times  — my mom still had to sign my permission slips.
+After browsing through different columns, stories and photos in the DT, I knew that this was something that I wanted to do. More than a hundred bylines later — it’s pretty easy to lose count — I’m publishing my last words in this publication that has meant so much to me. The Daily Trojan is one of the main reasons I decided to come to USC and it’s also why it is so hard to let go and say goodbye.
+From my time as a sports writer to sports editor to columnist, I’ve had my fair share of memorable moments, both on and off the page. The best part about writing is that it allows those moments to come to life.
+Whether I was writing a story in the middle of the night or pulling my hair in the newsroom because the basketball game was headed into its fourth overtime while on deadline, I’m lucky to be able to go back, find the headline and say, ”Oh yeah, I remember that.” Regardless of how good, bad or ugly the circumstances, I’m pretty sure I almost always had a smile on my face while writing and editing for the DT, mainly because I loved what I was doing.
+I’ve been blessed to be able to have this platform at my disposal at least once a week for the past three years, and its value shouldn’t be taken for granted. It has the power to share people’s stories, catalyze change and start dialogue about important issues both on our campus and around the world. From what I’ve learned, words are never greater than sports themselves, but they do possess the capacity to draw awareness — to a sport, an athlete or an overarching theme.
+With great power also comes great responsibility that many of my readers, time and time again, held me accountable for, providing me with a variety of funny stories and learning experiences along the way. I’ve been publicly called names and slurs. I’ve been blatantly told that my opinions or predictions were erroneous. I’ve even received death threats— thanks to O.J. Simpson, ironically.
+I’m human and I’ve been wrong, sometimes very wrong. The 2015 Stanford football team is responsible for that one, but right or wrong, I never stopped coming back, putting my head down and getting back to writing the next day.
+It’s cliche, but you get out what you put into an experience, and I threw down almost all of my marbles. Hours of writing and editing, laying out pages in the newsroom, conducting interviews, sending e-mails to Sports Information directors: It all surely adds up over time. My friends always asked me why I was inflicting all of this responsibility on myself, and I think I’ve finally found an answer for them.
+You see, the DT is a lot like that clingy significant other. As hard as you try to get rid of them or spend time apart, they keep managing to find ways to stay with you. I couldn’t get away from the DT. From the plains of rural Indiana to the “Windy City” to the beaches of Orange County, it was always there, so naturally, I did everything I could to keep it happy. Sometimes that required writing on my phone at the Lakers’ game, ditching class to cover a press conference, or working on a breaking news story on a bus filled with a bunch of fraternity drunkards. As we prepare to actually part ways for real now, though, I look back and know that it was all worth it.
+There’s so much I’m going to miss. There are the media scrums with one of four head football coaches, who were hired or fired at what seemed like the most inopportune times. There’s the Pac-12 after dark, AKA 8 p.m. basketball games that allowed me to flirt with deadlines. Finally, there’s the coaches, student-athletes and Sports Information directors who I’ve had the great privilege of working with and learning more about over the years.
+From my first interview with former women’s basketball coach Michael Cooper, to my last one with Athletic Director Pat Haden, and everything in between, it’s been quite the ride.
+Words are powerless to express my gratitude to all of them, and not to forget, to each and every person who took time out of their day to read one of my stories or columns: I hope I didn’t let you down.
+Last but not least, I have to thank every single one of my amazing colleagues, editors, writers and photographers alike, that I’ve had the pleasure of knowing in both the past and present. Like the Trojan family, the DT family is something that is very real and it possesses a sort of gravitational pull that never really lets go.
+I’m not going to lie: The thing I’m going to miss most is being that kid from the DT. It’s a brand that was cast on me early in my college career and one I still embrace today. It’s one of the many things that is keeping me from wanting to pick up my fingers from the keyboard for the last time. If only I could get in one more word, phrase or paragraph.
+Sadly, Father Time has finally caught up to me. Now that he has, I’m going to drive off into the sunset where it all started, a copy of the DT in one hand and four unforgettable years of writing for this paper in the other, because like words in print, the memories you make at the DT  last forever.
+Darian Nourian is a senior majoring in print and digital journalism. His column, “Persian Persuasion,” ran Thursdays.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Now that the collegiate season is over, it would be fair to assume USC swimmers would be eager to leave the pool in favor of the sand and surf of Los Angeles’ beaches, free of any kind of walls or lanes. Instead, the Trojans are hitting the pool even more vigilantly as many of them are preparing to qualify for the 2016 Summer Olympics in Rio de Janeiro.
+With the coming of another Summer Olympic Games, it’s no surprise that the swimmers of South Los Angeles are hopeful that they will have the chance to represent their respective countries. In what has become a quadrennial tradition, USC swimmers are turning up the heat on their training as the summer months approach.
+Over the summer, Trojan Olympic hopefuls will compete in their respective countries’ trials. For some swimmers, like Poland’s Michael Domagala, a junior, just making the FINA “A” cut might be enough to qualify for the national team. For others, especially American swimmers like junior Reed Malone, senior Kendyl Stewart and junior Chelsea Chenault, the competition is a little stiffer.
+“In the U.S., we don’t have to worry about the ‘A’ cut,” Malone said. “Everybody is going to hit it.”
+Instead, the United States will take the top two swimmers from each individual event, except for the 100 and 200 freestyle, where the U.S. will take the top six for relay events. Training for these Olympic events will require a slight change of gameplan, as Olympic events are long-course (50-meter lanes), whereas collegiate events take place in short-courses (25-meter lanes).
+In preparing for the 2016 Olympics, Malone, Stewart and Chenault are continuing a friendship built over just shy of 10 years of training together. The swimmers met sporadically throughout high school at various national events before joining forces in the pool at USC. Though the three swimmers have trained together since their early teens, they each have their own secret to success. For Malone, the key is confidence.
+“When you’re racing the best in the world, you have to think that you belong there,” Malone said. “Otherwise you’ve already been beaten.”
+Chenault, a perennial All-American, knows it’s always been about managing stress and staying focused when the time comes.
+“I can’t take myself too seriously,” Chenault said. “I have to be goofy with it. I’ll be sitting in the ready room which can be the most intimidating place, for some meets, but I’ll try to figure out where to find cute shoes or start dancing to stay relaxed.”
+Stewart, a graduating senior who debated taking this season off to train for the Olympics full time, knows she belongs among the top swimmers in the world. This year in the trials, she anxious to prove it.
+“I try to make it not a bigger deal than it is,” Stewart said. “I’m pretty relaxed in most situations, and I try to keep swimming in perspective.”
+Domagala, Malone, Stewart and Chenault have established themselves as the frontrunners to be this year’s Trojan swimming representatives, but — to steal another sport’s metaphor — it’s anyone’s ballgame.
+“Anything can happen,” Malone said. “Basically the whole team is going to trials. On any given day, if you’re on, you’re on.”
+Other Trojans to look out for this Olympic season include sophomore Estonian Ralf Tribuntsov, junior Canadian Santo Condorelli, senior Kasia Wilk and sophomore Pawel Furtek for Poland, senior American Haley Anderson and junior Dylan Carter from the Republic of Trinidad and Tobago.
+Regardless of who makes it to this year’s Olympics, any Trojan will be continuing in a legacy of greatness. Since 1912, a Trojan has won a gold medal in at least one event at each Summer Olympic Games, and many of them have been swimmers — including a Trojan gold in 1980, won by Australian Michelle Ford while the United States was boycotting. Two of USC’s six U.S. Olympic Hall of Famers — John Naber, and Janet Evans — are swimmers.
+At the 2012 Games in London, Trojan Rebecca Soni won three medals: two golds, in the 200 breaststroke and the 400 medley relay and a silver in the 100 breast. Clement Lefert and Ous Mellouli, Trojans representing their respective home countries of France and Tunisia, were double medalists in London, while Anderson took home a silver medal for the United States.
+“When you walk into the weight room of the John McKay Center, it has the name of every USC Olympian,” Malone said. “To put your name on that wall would be a dream come true.”
+For the time being, Trojan swimmers might be missing out on the Santa Monica Pier and the surf at Manhattan, but they’re hoping their hard work will pay off soon in a beach city more than 6,000 miles to the southeast of Los Angeles.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+On the heels of a perfect 17-0 regular season, the No. 5 women’s lacrosse team received a number of honors on Wednesday.
+Headlining the news were senior captain Courtney Tarleton, who received MPSF Player of the Year honors, and head coach Lindsey Munday, who was named MPSF Coach of the Year for the second consecutive season.
+Eight members of the team, including Munday, received awards in all, and seven players landed on the all-conference first and second teams.
+Senior attacker Caroline deLyra, senior midfielder Amanda Johansen junior attacker Michaela Michael, sophomore goalie Gussie Johns and Tarleton were named to the first team, while junior attacker Kylie Drexel and sophomore midfielder Lydia Sutton landed on the second team.
+A four-year captain, Tarleton anchored the nation’s top defense this season. Her 2.59 caused turnovers per game ranks first in the conference and seventh in the country, earning her MPSF Defensive Player of the Week honors three times this season.
+Munday has brought the Women of Troy a long ways in four years. The 17 wins this season is the most in team history and third in MPSF history. USC’s No. 5 ranking is also the highest ranking for an MPSF team in history.
+The Trojans will look to cap off their impressive season with an MPSF title. They will play either Denver or UC Davis in the semifinals of the MPSF tournament on Friday.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Though the baseball team dropped its single game series against UC Irvine on Tuesday 6-5, the team is looking to maintain its form from last weekend — when their bats came alive to take two of three games from Washington State — against Arizona on Thursday.
+After winning the first two games of the series against the Cougars, the Trojans lost in the finale Sunday 9-2 in Pullman. Their two victories were largely brought on by the offensive production from junior catcher Jeremy Martinez, who was named offensive Pac-12 Player of the Week. Martinez went 2-of-3 at the plate with a double and a run scored in the first game of the series as the Trojans won a rain-delayed 10-inning contest 4-2 on Friday, and added to the Trojans 3 home-run effort with a solo home run on Saturday as they won 6-2.
+With an 18-21 overall record and 7-8 conference record, head coach Dan Hubbs says that he told his team after Tuesday’s loss to remain focused on ultimately winning the Pac-12 title because, the winner of the conference automatically advances to the postseason, noting that the team is only two games removed from first place and has a multitude of conference opponents left on their schedule. Though USC is certainly looking to make a run at the conference title, Hubbs said that he has cautioned his players not to put the entire burden of pressure on themselves individually, but rather that they need to rely on their knowledge of fundamentals and teammates to begin to accumulate wins.
+“It seems like this daunting task, so they put that pressure on every play and on every at bat,” Hubbs said, “We have 18 games left. [The players] cannot think about going 18-0. We have got to try and win the first inning on Thursday first and see what happens.”
+Hubbs said that in order for USC to go on this winning streak, his pitchers need to perform like “Pac-12 starters.” While freshman pitcher CJ Stubbs recovered to throw three scoreless innings Tuesday against UC Irvine after allowing 2 runs in the first, Hubbs notes that his team has to stop allowing multiple runs to score in the same inning. Though USC held the lead from the second inning until the seventh, the defense allowed 2 runs in the first inning, 2 runs in the sixth inning and 2 runs in the seventh to eventually lose 6-5. Hubbs is hoping that his pitching rotation against Arizona of redshirt junior Joe Navilhon Thursday, sophomore Mitch Hart Friday and senior Kyle Davis Saturday will give his team “a chance to win every game.”
+“Sometimes you are going to give up a run, but can you minimize and make it one instead of two?” Hubbs said. “We practice it over and over again, but it comes down to whether guys can slow the game down and make plays.”
+Hubbs says that Arizona is playing with “a lot of confidence” as they find themselves in the mix of teams in striking distance to win the Pac-12 title after sweeping Cal last weekend, without failing to mention that they had also won their single game series against Arizona State Tuesday, 8-0. Though he admits that Arizona boasts strong pitching, Hubbs notes that the team is capitalizing off of the “clutch hitting,” from Wildcats batters who are have a great deal of momentum after scoring 5 runs in the eighth inning Sunday to rally from being 4 runs down and complete their sweep of first place Cal on the road.
+“I think [USC players] are frustrated with where we are at, but we need to stop looking at where we are at and where we need to go and just focus on that,” Hubbs said. “Arizona has a lot of momentum, and we know are going to have to match that with enthusiasm and attention to detail in our performance.”
+The three-game series will begin Thursday at Dedeaux Field at 7 p.m.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+President of Russia Vladimir Putin and Alekseyevna Lvova-Belova, the presidential commissioner for children’s rights in Russia, allegedly ordered the seizure Ukrainian children from border cities.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Photo courtesy of Sigma Eta Pi
+Malak Mossadek, a sophomore majoring in business administration, spent his childhood in Morocco and adolescence in Boston. By combining his diverse backgrounds, Mossadek decided to create a clothing company for authentic and unique women’s wear in the United States. He aims to raise awareness for Moroccan culture as well as aspects of Western culture through his brand. With every piece of clothing handmade, sewn and exported overseas, this USC student has a one-of-a-kind company for irreplaceable products.
+Daily Trojan: How did your company and brand start, and why did you decide to do it?
+Malak Mossadek: La Tunique started back when I was in Morocco. I was born in Morocco, but moved to Boston when I was 13 years old. I always wanted to create something out of it. It was something that I really wanted to cultivate. There’s no handmade stuff. You cannot find this anywhere. I always wanted to push whatever I wanted in Morocco; I wanted to see these beautiful [pieces] elsewhere. Beach coverups, tunics, prom dresses, evening wear, etc.
+DT: What is La Tunique, what does it stand for and why did you name it?
+MM: La Tunique, it means “a single tunic” in French. I based it on the one-of-a-kind tunic that I am selling, that cannot be replicated. One designer, one fabric, pretty much exclusive. We were originally a women’s sewing company in Morocco, with two tailors and designers, and I wanted to create a brand out of it in America. I wanted a fusion clothing style that combines Westernized fashion and a Moroccan touch. Everything is handmade. We use high-premium Swarovski rocks to embellish every piece. Everything from the fabric to the sewing is 100 percent authentic work and cannot be duplicated.
+DT: How has your involvement with Sigma Eta Pi, a co-ed entrepreneurship fraternity on campus, helped with the development of La Tunique? What have they taught you about building your own start-up business?
+MM: When you surround yourself with like-minded people, it’s extremely helpful and valuable. Being part of the fraternity has a served as a business incubator. The members have guided me in finding mentors, exchanging ideas and learning about import, exports and supply chain. I feel like if I go overseas, to expand in China or India, I have people to help me promote it and make it happen because the diversity of SEP can help me expand globally. It’s all about bringing the culture to a diverse city like Los Angeles.
+DT: What are some other upcoming projects coming up with your brand?
+MM: “Kaftan” means a woman’s long dress, like an Indian sari. Right now we’re doing more casual wear, like tunics and beach coverups, but we want to expand to more high-end evening wear, like prom dresses. Now to L.A. to see how it fits on non-Moroccan people, I really wanted to see people in different backgrounds. We’re also working on a website that is launching soon.
+DT: Could you describe some qualities that you use as a business leader for La Tunique?
+MM: For a fledgling business to cross the chasm from startup to successful enterprise, one needs analytical skills, judgment, research and planning skills and a sophisticated understanding of banking products and services.
+DT: How has your cross-cultural background affected the way you view the business world? What  kind of impact do you hope to bring with La Tunique?
+MM: Being at a crossroads of cultures  — African, Arabic and European  — allowed me to experience my personal development while  helping me see that there are limitless opportunities for emerging markets to connect with the world. What’s needed now, and what I hope to achieve, is to become an educated business leader who is willing to make those connections and do what comes naturally to them: to dream, take chances, and see opportunity where others might see a rusty old scrap heap.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Animal Equality came to USC to share a virtual reality film pertaining to modern animal agriculture with students and faculty on Monday and Tuesday. Located on Trousdale Parkway, the animal activists attracted large crowds with their Virtual Reality goggles and two enticing signs, reading “Do you dare try virtual reality … And discover what the meat industry hides from you?” The film, “comprised of footage from multiple facilities across the world” with a focus on how pigs, in particular, are raised and “processed for human consumption,” according to the Facebook event, surely made an impact on the viewers.
+Animal Equality, an international farmed animal advocacy organization, dedicates itself to defending animals through education, campaigns and investigations. Their mission is to attain a more compassionate and just world for animals. Aside from the United States, Animal Equality is active in the United Kingdom, Germany, Italy, Spain, Mexico, Venezuela and India.
+iAnimal, Animal Equality’s current project, aids their goal to achieve long-term social change, as the technology serves as an avid and extremely effective form of activism. The five-minute film, shot by an undercover investigator in multiple countries in Europe, follows the lives of pigs raised for food. The film shows the cruelty of the meat industry, which many people aren’t aware of.
+Pigs are given a voice in this film — literally and figuratively, as the voices of the pigs are heard from the headset and the viewer is given the unique opportunity to see from the perspective of a pig. The interactive 360 degrees makes the virtual experience seem real, and scarily so.
+Regardless of the activists’ warning of the slightly graphic material, many were eager to experience iAnimal. The six goggles were in constant use, perhaps due to interest in virtual reality. For whatever reason people chose to watch, the film had an equally strong impact. After finishing the film, an activist would debrief the viewer about what he or she saw. This period usually resulted in lengthy philosophical discussions regarding the industrialization of the slaughter and consumption of animals for human pleasure. After the debriefing, the activist handed the viewer a booklet containing information on how to make the transition to a plant-based lifestyle, and then invited the viewer to sign a pledge to cut meat out of their diet.
+After watching the film, Carissa Chang, a freshman studying business administration, shared her thoughts on this healthy lifestyle.
+“It definitely made me think about eating a more plant-based diet. I’ve seen documentaries before about animal cruelty, especially in the industry,” Chang said. “You have to be more aware about what you’re eating and where it’s coming from. I think it’s really important … and you can always eat plants!”
+Though the scene of six motionless bodies facing the same direction with chunky goggles on is disturbing and looks a bit like a scene out of George Orwell’s iconic novel 1984, Chang’s statement proves how educational virtual reality can be. By opening college students’ eyes to the horrors of animal agriculture,
+Animal Equality offers some food for thought — and what better way to celebrate the end of the semester than to spare a life, help a good cause, while experiencing innovative technology in a new and exciting way?
+For those who missed this virtual reality experience, the film can be viewed online at ianimal360.com.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Photo courtesy of Stanford University Press
+When I first stepped onto the USC campus on a scorching day in mid-August of 2015, I never expected to be a spokeswoman of sorts for Islam and the hijab.
+Would I have reconsidered transferring to USC had I known that people thought I was making a political statement by wearing a hijab? No, but knowing that might have prepared me better for what was to come.
+“The Muslim woman’s headscarf seems to attract an unusually large set of interpretations in political debate,” write Anna Korteweg and Gökçe Yurdakul, authors of The Headscarf Debates: Conflicts of National Belonging.
+The Headscarf Debates focuses on modern discourse around the hijab in Turkey, Germany, France and the Netherlands, which are all countries with large Muslim populations. Much of what Korteweg and Yurdakul find, however, also applies to the U.S., specifically Southern California, which has a significant population of Muslims. A 2010 U.S. Religion Census estimated there are approximately 130,000 Muslims living in Los Angeles, Orange, Riverside, San Bernardino and Ventura counties. Arabs make up only 27 percent of the population, while South Asians make up the bulk with 41 percent.
+“Debates on where and what occasions headscarves can be worn … turn into conflicts, sometimes heated, about how Muslims can show their religiosity. Debates regarding how headscarves should be worn… segue into discussions of what headscarves represent politically. Do they represent fundamentalist Islam? A threat to nationhood?” Korteweg and Yurdakul continue, accurately sketching out the politicization of a piece of cloth.
+Within my first week in Los Angeles, I was taunted for being Muslim. At the first football game of the season, an elderly white man took one look at me and my hijab-wearing friend and yelled out, “terrorists!” A USC student also called me a terrorist, but he added a “boom!” After the Paris attacks, a man in Downtown stopped me as I exited a cafe and yelled a litany of insults, including “Kill all Moz-lems! You did Paris!” According to these people, I was a terrorist.
+Others focused on my hijab in a different way. Non-intersectional feminists thought I was oppressed by my patriarchal Arab and Muslim cultures. Why did I wear that? Was I forced to wear it? Will I be ‘honor killed’ if I took it off? (I really hope the last question was a failed joke, but I still can’t tell if the girl who asked me that was serious or not.) According to this set of people, I was a victim.
+Each of these incidents is the direct result of being identifiably Muslim. Those interactions boiled down to people reducing me to my hijab in order to project their perceived idea of Islam on me, ironically enough.
+It is as though there is a disconnect between the hijab and the person who wears it.
+“For wearers, the headscarf can have a range of meaning beyond the obviously religious,” write Korteweg and Yurdakul.
+These meanings range from the headscarf as an indicator of religious and ethnic identity, to freedom of self-expression, to “cover[ing] up one’s messy hair,” according to Korteweg and Yurdakul. As someone who struggles with basic hairstyles beyond the ponytail, I can confirm that the hijab is a great way to hide my terrible braiding skills.
+All jokes aside, however, freedom of self-expression is a very important aspect of wearing the hijab. Groups like Femen, which is “an international women’s movement of brave topless female activists painted with the slogans and crowned with flowers,” call themselves feminists and yet try to pull off the hijabs of Muslim women. This white feminism ignores a core tenet of real feminism, which is allowing women to be whatever they want to be, be it head-honcho, housewife or hijabi.
+Here’s a quick cheat sheet: Islam calls for women to be covered, leaving the face visible; this is called the hijab. A niqab is not the same thing as a burka. A niqab covers the face but not the eyes, while the burka covers the entire head and includes a mesh panel so the wearer is able to see. Neither is prescribed by Islam.
+Noorhan Maamoon is a junior majoring in print and digital journalism.  Her column, “The Hijabi Monologues,” ran on Thursdays. 
+Bilge and utter nonsense.  Freedom means nothing in Islam.  And Islam would impose its values and mores on others by force if needed – ask Ms. Maamoon what the word jizya means for example, and what part does it play in Islam.  Look at what is happening in Muslim immigrant locales in Europe for a glimpse of what she and her co-religionists want for us.  Hint – Charlie Hebdo and dimminitude.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Today marks the last issue of the Daily Trojan this semester. To most, this doesn’t mean much, but to me — as today marks the end of three columns, four semesters with the Daily Trojan and two semesters as its editorial director — it carries intense emotional consequences that somehow feels like a closure to my commitment to campus issues.
+Ironically, when this prints, I won’t even be on campus — I’ll be at the White House for National College Reporter Day, learning more about the role of the Obama Administration in topical issues in higher education. So, even as today marks the end of my formal stint for now, I’ll find it hard to stop pursuing the mission which I set forth both in this column and in my editorship — to provide a vehicle for student advocacy.
+At the very least, I’ve hoped to continue conversations that have taken place, are taking place and will continue to take place on campus for years to come. This means engaging with real and difficult issues — college affordability, racism on campus, sexual assault prevention, mental health awareness and environmental sustainability practices, among others. In doing so, my mission resonates with so many other Trojans attempting to do the same thing from all corners of campus. And as the semester comes to an end, it’s important for students to remember to seize the momentum of the advocacy and activism that has taken place on campus over the past year. Student organizers should use it to build an activism pipeline, and students looking to explore issues more should reach out to campus organizations to get involved — because regardless of what we might like to think, these issues aren’t going anywhere anytime soon.
+Research points to a generation that want to be engaged — a Telefónica study found that “an impressive 62 percent of respondents believe they can make a local difference, and 40 percent think they can make a global difference.” But at the same time, it is clear to many a Trojan that USC is no UC Berkeley. Advocacy and activism are just not institutionally active on this campus the same way they are at other campuses — largely because, as I’ve discussed before, the private status of the University does not lend itself to as much transparency and accountability as other colleges. Traditional grassroots activism is less robust, so institutional pipelines for advocacy exist on a smaller scale. But that’s not to say that advocacy and activism don’t take place — because they do, visibly in the form of rallies and Undergraduate Student Government Senate meetings but also behind the scenes in conversations between students and administrators. So the onus is on students to get involved.
+But that shouldn’t be a deterrent — because advocacy has no fixed prescription. It doesn’t have to be a position in USG or participation in a student rally or a column in the student newspaper. But it can be all of these things. Or it can be participating in an artistic project that uplifts marginalized communities. Or it can be contributing to an entrepreneurial organization that looks at issues in the surrounding community. Social impact, advocacy and activism are closely intertwined.
+Administrators also have a stake in supporting student engagement with campus issues. They may not always be able to respond fully to student demands, but encouraging students to engage more in the policies that affect their lives fosters a sense of civic engagement that creates long-lasting leadership skills and advances greater commitments to social impact — both of which are fundamental traits of global influencers.
+I’m a little scared of what it means for me to stop writing this column and stop directing the opinion section at the Daily Trojan. For one, I’ve increasingly found identity in the role I occupy, both formal and otherwise. But more fundamentally, I wonder whether I can be an advocate without it.
+The answer, of course, is a resounding yes. Advocacy takes many forms, some of which I have explored and some of which I have yet to. I may be cooling off for the summer, but I hope that my work is far from over.
+I am not a journalism major. But I am sincerely appreciative of the small way of contributing to my community that this publication has given me. My sage advice? Find yours.
+Sonali Seth is a sophomore majoring in economics and policy, planning, development. She is also the editorial director of the Daily Trojan. “’SC, What’s Good?” ran every other Thursday.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+President of Russia Vladimir Putin and Alekseyevna Lvova-Belova, the presidential commissioner for children’s rights in Russia, allegedly ordered the seizure Ukrainian children from border cities.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Sarah Park | Daily Trojan
+If Prince Charming went to Brandeis University, he’d be thrown out. That’s the experience of one Brandeis student who was punished for sexual misconduct partially on account of waking a long-term boyfriend with a kiss. Here on campus, a USC student was suspended for sexual assault, not for assaulting a woman, but for not preventing another man from slapping her butt. In fact, the victim explicitly said that her sexual encounter with the accused was completely consensual. Later, judges overturned both cases and rebuked the colleges responsible.
+Unfortunately, these cases are not unique. In the last year, an unprecedented 10 such cases have been overturned. In an effort to combat sexual assault, college administrations have created a new class of victims and undermined the fight against sexual assault by cutting corners and adhering to zero-tolerance policies rather than common sense.
+These cases irreversibly affected the lives of both of the accused Brandeis University and USC students; although their punishments were later overturned, they must both live with the stigma of sexual assault and will have to explain this incident for years to come. The national outcry on college campuses against sexual assault is a call for justice, and these incidents make a mockery of that cry by committing a further injustice.
+Besides the damage done to these students, these miscarriages of justice hurt the fight against sexual assault by destroying trust in the institutions that are tasked with balancing the rights of the victim with those of the accused. Historically, activists condemned universities for not protecting the victims, but in these cases, some colleges have committed an equally atrocious offense.
+Perhaps most damagingly, these outlandish cases lend credence to the ideas of those who refuse to acknowledge the reality of sexual assault on campus. Despite the evidence that one in five women are sexually assaulted during college, some, like conservative commentator Milo Yiannopoulos, a recent speaker at USC, maintain that rape culture is a facet of the liberal imagination. However ridiculous Yiannopoulos’ claim may be, these similarly ridiculous cases are easily used as a distraction from the real issue of sexual assault on campus. Though women are the victims in the vast majority of sexual assault cases, these botched decisions allow for such distractions as the “men’s rights” movement, which further detracts from the actual issue of protecting victims of sexual assault.
+Finally, the procedural sloppiness demonstrated in some overturned cases poses the risk of letting predators return to campus. Though the very premises of the Brandeis University and USC cases were ridiculous, other sexual assault cases are being appealed based on procedural failings such as not presenting the accused with the full evidence. Besides the fact that this is an affront to the accused, it is also dangerous in that it could let rapists go unpunished because of administrative mistakes.
+Colleges have a great responsibility to provide a safe environment for their students, and it is important that they are able to effectively and efficiently handle allegations of sexual assault. Given the lengthy and often ineffective nature of criminal investigations and trials, it is essential that colleges have the ability to keep their campuses safe. As such, these incidents are not a reason for colleges to cede all power to the local police. Rather, these cases should act as a lesson in what not to do and a call for colleges to follow standardized procedures while leaving room for common sense and human judgment.  No one need be punished over waking their loved one with a kiss.
+The bias and lack of professionalism is by design.  Victim’s (read Women’s) advocates have long bridled at the hurdles and evidence based judicial processes that have prevented some women from getting justice.
+So at every turn, they have sought to a) reduce or eliminate evidence requirements, and b) reduce or eliminate rights for the accused including cross examination of witnesses.
+The single investigator model does both – a single person gets to choose who to interview, what evidence gets considered, how that evidence is presented (including errors or lies) and then decides.  Since the colleges are under threat of losing funding if they don’t to the OCR and activists bidding, it’s better err on the side of throwing men under the bus.  Let them sue later.
+Administrators care only about one thing – their paychecks.  Until schools get sued enough to start losing money, they will sacrifice genuine victims as well an the unfairly accused.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+When people think of graduate school, they generally see it as a time to focus only on academics, while a person’s undergraduate years are more often seen as the time to have fun and be heavily involved in campus life. However, if someone chooses to go to grad school, there’s no reason they shouldn’t be as involved as they were when they were an undergrad.
+It makes sense that many graduate students wouldn’t want to be active participants in student life. Some graduate students don’t start their programs until they’re in their 30s or even 40s. Others have children to take care of and or are already working full-time. It’s completely understandable that people in these categories wouldn’t have any interest in being heavily involved in student life. However, graduate students that are in their early to mid-20s and are fresh out of undergrad or back in school with a year or two off shouldn’t feel like their time to enjoy school is over.
+At a Graduate Student Government meeting with President C. L. Max Nikias in the fall of 2014, a GSG member asked Nikias what he could do to make graduate students feel more involved in the Trojan community, stating that the graduate community often felt left out.
+There are so many opportunities at this school, and graduate students should take greater advantage of them. The USC student body has more graduate students than it does undergrads. Many of the organizations and events on campus are open to all USC students. A diverse group of students in graduate school with many different passions and backgrounds has so much to offer, the over 800 on-campus student organizations, a majority of which are open to both graduate and undergraduate students. There are sports clubs, faith-based groups, political organizations, networking clubs for all kinds of fields and just about every other kind of group you can imagine. Some of them are even strictly for graduate students.  These organizations are a great way to meet people and enjoy the time spent on campus.  They allow graduate students to meet, work and grow personally with other students at USC.
+Sports — particularly football — is another area in which graduate students at USC can make the most out of their experience. The student section is open to all USC students and tailgating on game days is a common practice. Game day is often an integral part of the college experience, especially at USC. Graduate students, particularly those may not have gone to an undergraduate school with a major football program, can really take advantage of this. The game day experience as a student is a privilege and one that can make the graduate experience that much more memorable.
+All of these things can lead to an increased social life within the USC community which generally leads to a more enjoyable graduate experience. Social life at USC is often seen as being dominated by the Greek community, which undergraduates generally participate in. However, many graduate students were in fraternities and sororities as undergrads. These students, primarily those who recently finished their bachelor’s degrees and aren’t quite ready to give up the lifestyle that Greek life offers, can potentially get involved. If a graduate student’s fraternity or sorority chapter is at USC, they’ll often be welcomed in. These grad students don’t need to be active within their chapters, but they can get to know their fellow chapter members  at USC. They can hang around the house, attend events and go to parties. Greek life presents a unique opportunity for young graduate students to have two separate experiences with their fraternity or sorority.
+College is often described as the best four years of a young person’s life. If these years are so great, there’s no reason one shouldn’t be able to extend them to five or six years. As graduate school becomes more common, so too should the idea of including graduate students in the general college experience. Current USC graduate students and seniors planning on entering graduate school — whether it’s at USC or somewhere else — should take note of this. Ultimately, it’s up to individual graduate students to determine their experience. They shouldn’t feel like their graduate experience can’t be as fun as their undergraduate one, and they should make the most of their time, both socially and professionally.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Samantha Lee | Daily Trojan
+As the years here at USC pile on, the campus map that lives within our mind’s eye may either be very much like the official blueprint given to us freshman year — or not. Our experiences begin shaping our perspective of campus from Day One so that the vision of USC that an English major has can’t be more different than a mechanical engineer’s. Daily Trojan Blogs handed 14 students a blank sheet of paper, a pen and challenged them to draw a map of campus from memory in under two minutes. The quickly-drafted maps are very telling of what students remember best and consider most important. Presented below, these masterpieces are organized according to their artists’ schools and accompanied by a quote of their favorite thing about USC and its campus.
+1. Annenberg School for Communication and Journalism  
+Iman Rana, senior, international relations: “My favorite place on campus? Probably Doheny Library. I also like New Annenberg, it’s really nice. Actually, I really like VPD, too. Top three.”
+
+Janice Wong, senior, environmental science and health: “I love the weather!”
+
+Lauren Taylor, senior, human biology: “My favorite thing is the people.”
+
+Jane Kim, senior, biological sciences and social sciences (emphasis in psychology): “I really like that it’s small enough to get around quickly, but it’s big enough so we always have somewhere new to go.”
+
+3. Marshall School of Business 
+Andrew Nazarian, sophomore, business administration: “The atmosphere, the school spirit. It’s definitely very lively. Everyone’s kind of like in the same place, you know.”
+
+Stefen Chraghchian, sophomore, business administration and real estate development: “My favorite part of campus, I’d say, is Campus Center and Moreton Fig just because it’s a lot of people and you always run into your friends.”
+
+4. Viterbi School of Engineering 
+Paranat Thirawattanawong, junior, biomedical engineering: “I love the finger fountain because it’s very symbolic.”
+Shi Hao Hong, junior, biomedical engineering: “I like the architecture, because it’s very cool.”
+Ryan Louie, junior, electrical engineering: “I like Campus Center, because they have food.”
+
+9. School of Cinematic Arts 
+Rachelle Hoppel, junior, film and television production: “My favorite part about USC is the community of film students.”
+Genny Parkes, junior, film and television production: “My favorite place on campus is the stacks in Doheny because they’re really quiet, and it’s a nice place to get a break from all the stressful stuff going on.”
+
+10. School of Architecture 
+Mariuska Stepenka, junior, architecture: “I should have started from Expo and went all the way up to the finger fountain.”
+One word to describe campus: “A-lot-of-brick.”
+
+Michael Jennings, junior, architecture: “Favorite part: The sky-scraper.” (He meant VKC.)
+One word to describe campus: “Quaint, or idealized.”
+
+Our editors in the newsroom also had some fun with this activity:
+Joseph Chen, Photo Editor:
+
+Jack Walker, News Editor:
+
+Hawken Miller, Deputy News Editor:
+
+Danni Wang, Associate Managing Editor: 
+
+ 
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The Daily Trojan features Classified advertising in each day’s edition.  Here you can read, search, and even print out each day’s edition of the Classifieds.
+Click the icon to download the PDF of today’s Classifieds:
+
+To place an ad, please contact an ad representative:
+(213) 740-2707
+USC Student Publications Student Union – Room 400
+Los Angeles, CA 90089-0895
+http://dailytrojan.com/ads
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+President of Russia Vladimir Putin and Alekseyevna Lvova-Belova, the presidential commissioner for children’s rights in Russia, allegedly ordered the seizure Ukrainian children from border cities.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:

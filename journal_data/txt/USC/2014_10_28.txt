@@ -1,0 +1,531 @@
+A research team at the Viterbi School of Engineering’s Information Sciences Institute has discovered that the Internet “sleeps,” meaning that its accessibility varies over the course of the day.
+The team consisted of USC alumnus Lin Quan, John Heidemann, a research professor and Yuri Pradkin, a USC researcher.
+Countries in Asia, South America and Eastern Europe tend to have varied rates of Internet access over the course of the day compared to the United States, where people typically have consistent broadband access.
+The team built on previous research by Heidemann and Pradkin that surveyed the relative size of the Internet. This outcome led them to study network outages and develop some new analytical approaches, leading to a piece of the data that showed the possibility of a “sleeping” Internet. This is especially important because it will serve in identifying the difference between a sleeping Internet and an Internet outage.
+On Oct. 20, a video was released on Viterbi’s YouTube page further explaining the study through a more creative, animated approach. In addition, a peer-reviewed, technical paper will be presented in the first week of November describing the study. The data sets from the study have been made public in the hope that other people will build on the work.
+“The longer-term direction of the work is using this information to understand how the different policy choices affect what’s going on and to understand how the diurnal is coordinated with other factors,” Heidemann said.
+Data about diurnal networks — networks that vary in access and usage over the course of a day — have a multitude of uses. One use is in policy discussions, which make use of the quantitative aspect of the data when making decisions about free communication or economic growth. For example, the correlation between diurnal networks and GDP suggests an economic relationship.
+“It’s not that diurnal [usage] causes low GDP, but if you want to increase your GDP, [a question to ask would be,] ‘Should you be investing in your network? If you’re investing in your network, should you be encouraging people to always have their Internet on or not?’” Heidemann said.
+The team looked further into the relationship between GDP and the age of IP addresses. Though they did not find a direct relationship, they found that diurnal use is a reflection of the age of the IP address. Older IP addresses were used differently, because there were billions to give out. Now, however, IP addresses are used very carefully due to their limited availability.
+In the immediate future, the data will most likely be used to crack down on network power outages, such as those in the New York area after Hurricane Sandy.
+“We’re currently working with the FCC [Federal Communications Commission] to understand if our techniques are useful for understanding U.S. networks,” Heidemann said. “It turns out if you’re going to study network outages, you better know about sleeping networks because you don’t want to confuse a network that is underused relative to normal with a network that’s broken.”
+Another use of the data, Heidemann noted, is to potentially investigate just how large the Internet is. By being able to count how many computers are on the network, the data would provide for further understanding of the baseline for the population, helping crack down on cybersecurtity. Diurnal information can determine if the estimate of the Internet size is accurately high or low depending on if it is day or night.
+The team plans to present its research at a conference on Internet measurements on Nov. 5 in Vancouver, Canada.
+ 
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+President of Russia Vladimir Putin and Alekseyevna Lvova-Belova, the presidential commissioner for children’s rights in Russia, allegedly ordered the seizure Ukrainian children from border cities.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The Latino/a Social Work Caucus, in collaboration with the Latino Graduate Student Association and El Centro Chicano, hosted its annual event in celebration of the holiday of Dia de los Muertos on Tuesday.
+RIP · LAUSD Board member Monica Garcia (left), William Vela, director of El Centro Chicano (center) and student Carlos Reyes-Ruiz speak Tuesday. – Mariya Dondonyan | Daily Trojan
+ 
+This year, the topic of the Dia De Los Muertos event was Latinos in Education. Speakers discussed the “death” of education that many individuals in the Latino community face and highlighted the barriers that Latinos experience in their personal lives and professional work in their pursuit of higher education.
+“The goal is to educate our fellow USC students about the struggles and to discuss solutions that may help bridge the gap from the minority communities and public schools towards Universities like USC,” said Joanna Burga, a graduate student studying social work and one of the organizers of the event, in an e-mail to the Daily Trojan.
+Dia de los Muertos, or Day of the Dead, refers to the holiday that is celebrated throughout Latin America and is most strongly associated with Mexican culture. The festival is celebrated from Oct. 31 to Nov. 2 every year and honors the deceased by celebrating with food, drinks and activities that they enjoyed in life. The holiday recognizes death as a natural part of the human life and experience; therefore, the dead are invited to celebrate and take part in the festivities.
+The organizing committee, in order to meet the event’s goal, wanted to include individuals who had worked with education in the Latino community in various levels. The panel discussion featured Monica Garcia, LAUSD School Board member; William Vela, director of El Centro Chicano; and Carlos Ruiz, a master’s student studying social work.
+“We reached out to Billy Vella because we know that through working in El Centro Chicano, he is highly connected with the undergraduate Latino students at USC interested in linking those students with other Latino students who are in graduate and Ph.D. programs to promote higher education as well, which we think is important,” said Jon Vales, co-chair of the Latinos in Social Work Caucus, in an e-mail to the Daily Trojan.
+Data has shown that Latinos comprise more than 38 percent of the California population, but they attend college in the lowest numbers compared to other ethnic groups. The Latinos in Social Work Caucus wanted to address this issue with the panelists they chose for the event.
+“It was important for us to be able to have dialogue with someone who was one of the main players in the Los Angeles Unified School District: Monica Garcia was another person that we thought would add another element into this discussion as she actually is an alumni from the USC School of Social Work,” Vales said in an e-mail to the Daily Trojan.
+The event began with the ceremonial blowing of the conch to welcome the ancestors, followed by the welcome song. The audience interacted with the panelists and put forth an array of questions regarding the education system, obstacles and how to overcome them successfully. Panelists discussed the ways of overcoming obstacles students face in education. The panelists felt that by reducing the number of students in a school and increasing the number of schools, the attention a child gets from his or her teacher might improve, resulting in better quality education. Members of the audience expressed that attending USC would open a new world to them.
+The participants also celebrated the festival by putting up pictures and mementos to honor people who had died. The audience included Latino students, graduate students and many students from the social work department.
+“Celebrating Dia De Los Muertos is a way of thanking the ancestors who enrich our lives,” said Paul Maiden, executive vice dean of academic and student affairs at the School of Social Work, at the event.
+The altar arranged by the students as a part of the festival is available for viewing in the El Centro Chicano office in the Student Union building.
+ 
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The USC U.S.-China Institute hosted a reception for Chinese students studying at universities in Southern California at the Westin Bonaventure Hotel in Downtown Los Angeles.
+Pacific Rim · Chinese Consulate General Liu Jian (left), USC President C. L. Max Nikias (center) and LAPD Assistant Chief of Police Earl Paysinger (right). – Photo courtesy of Kenneth Rodriguez-Clisham
+Speakers at the event included the Mayor Eric Garcetti, the Consulate General of the People’s Republic of China in Los Angeles Liu Jian, Los Angeles Police Department Deputy Chief Bob Green, and USC President C. L. Max Nikias.
+USC U.S.-China Institute, founded by President Nikias in 2006, was created to garner public discourse of the evolving U.S.-China relationship and key trends in contemporary China.
+“As the world tilts from the Atlantic to the Pacific, the work we do at USC and in Los Angeles takes on increasingly critical importance. The university is a vital intellectual and cultural link to the Pacific Rim,” Nikias said. “USC is clearly uniquely committed to building bridges of study and opportunity with China.”
+The university has made efforts to foster the U.S.-China relationship through the USC Pacific Asia Museum, the Viterbi School of Engineering’s Global Academic Initiatives, and the Marshall School of Business Global Leadership and Learning about International Commerce programs.
+Given China’s increasing prominence, the university has selected Shanghai to host its 2015 USC Global Conference next year. The conference will focus on digital media and business development.
+In light of the July 2014 murder of Xinran Ji and the April 2012 murders of Ming Qu and Ying Wu, the Chinese Students and Scholars Association worked with Dr. Ainsley Carry, vice provost of Student Affairs, to create additional safety measures on campus to protect international students. The changes, which were implemented this August, included increasing the number of cars and drivers in the university’s Campus Cruiser program. According to Carry, there has been a 50 percent increase in Campus Cruiser usage since August, and students have seen shorter wait times than ever before.
+Garcetti applauded efforts by the Los Angeles Police Department and the university’s Dept. of Public Safety to increase campus security.
+“I, as mayor, take your safety incredibly seriously. One act of crime is too much. And while we can never get to a place where there is zero crime in the city, we are going to try and get as close as we can to that,” Garcetti said. “This will be a Pacific century, and you will help lead it. I hope you will consider Los Angeles as your home.”
+First-year master’s students in the Price School of Public Policy Debby Zhong, Katherine Wang and Lu Tian expressed gratitude for the university’s new safety measures and welcoming attitude toward international students.
+“I think USC’s location is really perfect. The faculty in the Price School has been really fantastic,” Zhong said.
+“When I was studying in London, we didn’t really have the same environment … There was no sense of Trojan Family like there is at this university,” Wang said.
+ 
+ 
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+At the SpeakSC forum Tuesday night in Ronald Tutor Campus Center, USC students voiced opinions about the search for the next new Provost and Senior Vice President for Academic Affairs and their vision for USC’s future. Vice Provost of Student Affairs Dr. Ainsely Carry, who presided over the meeting, said that student involvement is “critical” in selecting the next Provost.
+Looking ahead · Vice Provost for Student Affairs Ainsley Carry led Tuesday night’s SpeakSC forum to discuss the search for a new provost. – Mariya Dondonyan | Daily Trojan
+The provost is the second-ranking USC administrator under the president. The position oversees student affairs, research, libraries and health care. Eighteen schools report directly to the provost.
+Previously, the provost was chosen by the board of trustees or the president. This is the first time the student body has been included in the search process.
+“I’m really here to listen to you tonight,” Carry said.
+The forum opened with a question: “Five years from now, if we picked ‘the right’ provost, what would you want them to have accomplished?”
+Paige Brenner, co-director of USG’s Undergraduate Student Government’s Wellness Affairs, said she wants a provost who continues to support the initiatives of student government
+“We’re in positions for only one year, its easy to get into a mindset that you can’t get anything done,” Brenner said. “I’d like the provost to be an advocate for long-term as well as immediate action.”
+Carry responded, saying that the administration is making an effort to respond to students’ concerns in a timely manner.
+“We try to work as fast as we can on many initiatives, but some of them take time to get done,” Carry said. “The things we can move on immediately, we will.”
+Several students mentioned feeling “powerless” in implementing policies on campus, since important decisions are made without student involvement. Carry disagreed, saying this was a perception issue.
+“Students are very empowered here, though they’re not always aware of it,” Carry said.
+Carry cited several initiatives over the past year, such as gender neutral housing, sexual misconduct policies and extension of the add/drop date for fall 2015 as proof of effective collaboration between the administration and the student body.
+USG Vice President Rini Sampath suggested that increased communication between the new provost and students would help resolve feelings of disempowerment.
+“It would be great to see the provost being visible,” Sampath said.
+Others students expressed concern about how the appointment of the new provost will affect life on campus. Eric Miller, a sophomore majoring in business administration, said that though USC strives to improve academically, the new provost should also be cognizant of USC’s historic culture and school spirit.
+“There’s been a change to focusing just on academics … [but] Getting students excited about what’s going on outside the classroom is important,” Miller said.
+USG President Andrew Menard cautioned that in planning for USC’s future, the new provost should focus on students actually attending USC. Though many improvements are planned for the future, Menard stressed that current students also have pressing needs.
+“The dialogue should be less about prospective students and more about students right here right now,” Menard said.
+With respecting the needs of its current student body, Kaylee Ho, executive director for Asian Pacific American Student Assembly, said that she would like to see more emphasis on diversity and ethnic studies. Ho claimed that while USC’s high percentage of international students is used as a selling point for the university, this diversity is undervalued in practice.
+“We say we have a diverse campus, but students and faculty don’t always feel like they’re in an inclusive environment,” Ho said.
+Carry encouraged other organizations and student groups to reach out to him, and emphasized that the meeting was only the first stage of a continuing dialogue. In involving students in the decision-making process, USC administrators hope to create a model that other universities will follow.
+“What we’re doing is really cutting edge,” Carry said.
+ 
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+President of Russia Vladimir Putin and Alekseyevna Lvova-Belova, the presidential commissioner for children’s rights in Russia, allegedly ordered the seizure Ukrainian children from border cities.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Halloween is one of the most exciting times of the year. We get to dress up as anything and anyone we want and, even if just for a moment, we can pretend to be someone or something we aren’t. The best part of this holiday has to be the events, and college students are known to have some wild nights, especially at USC. Because of that, we can all expect to have some killer Halloween parties this week (yes, pun intended).
+The Row will certainly be full of parties, but if that doesn’t sound like an appealing scene for Halloween, don’t fret. There are plenty of spooky, cute and fun things to do with a first-time date or long-term love.
+Being from the East Coast, it can be difficult for me to feel like it’s truly fall in Los Angeles, but one thing that never fails to put me in the Halloween spirit is visiting a pumpkin patch. Located at the Del Amo Fashion Center Mall in Torrance, Cottone and Sons Pumpkin Patch is open seven days a week from 9 a.m. to 8:30 p.m. until Oct. 30. You and that special someone can enjoy a day or night picking the perfect pumpkins, venturing through a corn maze or — if that inner kid is coming out — partaking in face painting and even a petting zoo. For those who are having the time of their lives and want to keep the date going, I recommend picking up some apple cider and a pumpkin carving kit from Ralph’s and putting those pumpkins to good use. There are so many interesting designs to choose from and, if you are artistically challenged like I am, there are sure to be plenty of laughs.
+Love being scared? Love The Walking Dead? Haunted Hollywood Sports located in Bellflower, California has 23 Acres of Tower dedicated to making the blood in your veins run cold. Say goodbye to typical haunted houses that either are boring or knock you to the ground. On Oct. 31, starting at 8 p.m. and closing at midnight, you and your date can enter a haunted maze with an airsoft/paintball gun — instead of being scared to death by the zombies jumping out at you, you get to take action and shoot them down. Don’t worry though, just like in The Walking Dead, the zombies are not armed so you have full control over the situation. Get down and dirty and have a romantic evening killing zombies.
+Don’t want to go far from campus or spend too much money? Host a scary movie marathon. A great date night does not mean the two of you have to be alone — invite some of your closest friends over for a terrifying all-nighter.
+If you do not usually watch scary movies here are some choices that are sure to make you wet your pants: The Exorcist (1973), a classic horror flick where a little girl becomes possessed by a demon (the things she does are sure to make your head spin); The Shining (1980), which features one of Jack Nicholson’s most convincing roles as a writer who turns into a crazed man on a mission to chop up his family; and lastly 1408 (2007), in which John Cusack decides to stay a night in a haunted hotel room for inspiration to write his next book when he finds he might not make it to the next morning. These are just a few movies to make your skin crawl, so have everyone bring a little treat and drink and enjoy the night with your date and friends.
+For those who do want to partake in the Row activities this weekend but need costume ideas for couples, there are plenty to choose from. Just to get the creative juices flowing, let’s start with the basic ones: Superwoman and Superman or any of your favorite superheroes, Red Riding Hood and the Wolf, zombie bride and groom, Pikachu and Ash, Shrek and Fiona, any Disney princess and prince, Sandy and Danny from Grease and lastly, Cosmo and Wanda. These are just a few ideas, but there are countless options. Think of your favorite foods, shows, kid movies and even beverages.
+So muster up the guts and ask that cute boy or girl in your class out on a spooky date.
+ 
+Cassie Collins is a junior majoring in communication. Her column, “From Troy, with Love,” runs Wednesdays.
+ 
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+A quick search for opportunities afforded to young entrepreneurs at USC yields an overwhelming amount of results: Spark SC, LavaLab, Ignite USC, The Lloyd Greif Center for Entrepreneurial Studies and others.
+Dynamic Duo · The genYrator platform was developed by Jay Roth and Sean Nasiri, both recent graduates of the Marshall School of Business. Though still in beta stages, the pair envision that eventually their network could take the focus of entrepreneurship out of its home in Silicon Valley. – Photo courtesy of GenYrator
+To an entrepreneurial student hoping to optimize access to resources, this yield of information can be confusing and difficult to navigate. Jay Roth and Sean Nasiri, recent graduates of the Marshall School of Business, hope to streamline the process with their new company GenYrator, a platform they describe as a start-up ecosystem. This company hopes to bring together young entrepreneurs, investors, mentors and skilled students with the aim of making meaningful connections that foster entrepreneurship at USC.
+The pair believe that Generation Y, or the millennial generation, is well equipped to form interactive communities online because of their extensive experience connecting via social media. This tech-savvy generation is also most likely to want to work in an entrepreneurial environment, according to the co-founders.
+“That’s why we called it GenYrator: it’s Generation Y plus accelerator. We’re taking the Generation Y businesses of today and we’re accelerating them through our platform,” Roth said.
+At its core, GenYrator is a platform for equity crowdfunding, a term used to describe crowdfunding that gives investors a share in the company in which they invest. The company currently works out of the Annenberg School for Communication and Journalism, and is developing the beta version of the platform strictly for opportunities at USC, though it is hoping to expand in the future.
+This means students will have the ability to present their established company to a network of investors tied to the Trojan Family by making an account with GenYrator and going through their approval process.
+“Given that GenYrator will be exclusive to USC, the eClub hopes to drive interest by encouraging its members to explore the opportunity and its benefits, while providing step-by-step guidance throughout the process,” said Patrick Tanahan, president of the Entrepreneur Club.
+For alumni and other interested parties, GenYrator hopes to act as a trustworthy concierge, curating businesses that are well-established and prepared to take on the pressure of investment.
+“When you make an investment in the early stage, it’s about the people,” Nasiri said. “Because we’re removing that human element by going online, we hope to come up with different ways to create that connection by being very targeted in how we reach out to people.”
+Roth and Nasiri present a confident front and speak in a well-oiled pattern, with Nasiri starting boldly and often passionately interjecting with the big ideas and Roth following up with details and processes. Both are passionate about the project and believe in the positive effects of building an entrepreneurial community. They see the process as a way for older generations to pass along success.
+“Though return on investment is never guaranteed, it is guaranteed that you’re helping a group of young people trying to pave their way in this world, and follow their dream,” Nasiri told potential investors.
+The idea for GenYrator came to the pair a few months before equity crowdfunding was made legal in the United States by the Securities and Exchange Commission as part of Title II of the JOBS Act in September 2013. Though still in its beta stages, the company boasts an established network of partners and mentors including Blackstone LaunchPad and co-founder of TechCrunch Keith Teare. As for potential investors, the pair have begun reaching out to the USC network, including the university’s trustees and board of governors, as well as their own personal networks. GenYrator hopes to utilize what Nasiri describes as USC’s vast “prideful, affluent and well-connected alumni network” to mobilize start-ups that use their service.
+Their future goal, however, is to create an overarching network that takes the focus of entrepreneurship and angel investing out of the perceived locus of Silicon Valley and into the global sphere.
+GenYrator markets itself as a place for “true” angel investment. Nasiri contrasted their company’s spirit of helping a newer generation with the perceived practices of many angel investors today.
+“There’s nothing too angelic about it,” he said. “The show Shark Tank is more of an accurate term for what’s going on there.” Nasiri suggests that many investors skew companies’ valuations and use their leverage for maximum personal profit. The goal of the platform is instead to form a spirit of community and create a system of paying it back.
+Entrepreneur Club Vice President Shiv Shah said there are many companies getting involved in the equity crowdfunding space currently, including a fellow student in the club. To Shah, there have been just a few limelight entrepreneurial businesses out of USC, such as camel milk company Desert Farms and Talent Trail, the internship and job matching site. He hopes that the number of successful entrepreneurial businesses will grow in the coming years.
+“More important than the funding is that they create a platform where students can see other start-ups,” Shah said. “You want to see your peers building a successful company.”
+GenYrator aims to serve a need that the co-founders saw during their time as students: a cohesive platform that supports the entrepreneurial spirit that they believe is strong at the university, but that lacks extended support.
+“Once you hit market, once you graduate, USC doesn’t provide the capital or access to capital services or guidance you need once you have your business, that take it to the level of it being truly great,” Nasiri said.
+They state that their platform will provide a support system that extends past networks of current students, and will help companies past the primary fundraising stages through their community network. Nasiri and Roth hope to facilitate the renewal of entrepreneurial influence at the university.
+“We need to be bringing our resources, mentors, advisors, tools, services, benefits together, interacting as one,” Nasiri said. “They all need to be interacting as one if USC really wants to be established as an entrepreneurial powerhouse.”
+ 
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+For L.A. electronic music aficionados, there are a few can’t-miss events each year. One of these events, HARD Day of the Dead, is just coming up from Nov. 1-2 at the Fairplex in Pomona. The lineup is once again curated by HARD founder and CEO Gary Richards, who moonlights as the performer Destructo.
+Going HARD · Gary Richards, HARD’s founder and CEO, will also be performing at Day of the Dead under his stage name Destructo. – Photo courtesy of Destructo
+ 
+This year, Richards enlisted headliners including Calvin Harris, Deadmau5, Pretty Lights, Eric Prydz and Knife Party, along with many rising artists such as Huxley, Snakehips, Rustie and Botnek. Richards spent a set amount of time creating individual stages to suit the different kinds of performers.
+“I try to give each stage a theme, and then I try to decide for those twelve hours who I would like to see back-to-back-to-back,” Richards said. “It’s kind of like I’m deejaying the D.J.s … there’s definitely a science to it, but the key is picking all things that we love and then making them all run together.”
+For some stages this weekend, this set-up will result in some garage house in the afternoon that flows into house music, and then progresses to techno by the end of the night. Others close out with huge names that combine elements of pop and traditional song structure with various types of electronic music. The overall effect is a multitude of genres that allows listeners to either build a schedule out of all the artists at the festival, or choose one stage to experience the whole day through.
+Though HARD is famously artist-centric and geared to favor music over production, there are still a plethora of exciting installations to look forward to at Day of the Dead. The main stage will be in the shape of a giant pyramid and the Fairplex’s warehouses will be utilized as indoor stages. The ground’s zip lines will provide concertgoers a bird’s eye view of all the outdoor festivities, including carnival games and the Dirtybird BBQ, a traveling event that combines performances by artists on the Dirtybird label and an excellent barbeque menu. As usual, there will also be an extensive selection of food to suit all diets as well as beer gardens spread across the festival.
+Other companies that are part of the Live Nation conglomerate put on events regularly in Southern California, but what sets HARD apart is a reputation of excellence across the board, from stellar lineups that incorporate established and emerging artists to tightly run shows with no-tolerance policies for illegal substances and disruptive attitudes.
+“I think people come to HARD to hear the new stuff,” Richards said. “They know that the production, the sound, the lights, everything, is going to be solid and it’s just going to be a good time. I think what’s cool about HARD is that it’s different from a lot of other events I go to. Right when we open doors, people are ready and they’re into it. It’s not like people are just coming to see the headliner. They’re coming early to see who the headliners are going to be next year and I think that’s what’s special about HARD.”
+Notable issues for electronic music events have included underage patrons, drugs, unruly behavior and ticket scams, but Richards firmly believes that none of that has a place at his shows. If given the chance to reason with a problematic young fan, he would do his best to let them know how important their attitude was.
+“If I could sit down and have lunch with them, I’d say ‘Hey, listen. You’re jeopardizing the entire event for everyone. Any stupid mistake that somebody makes, whether it’s jumping the fence or trying to sell fake tickets or whatever nonsense that goes on at these events, it creates problems from top to bottom and it’s a reflection on me and HARD … If you’re a genuine fan of the music and you love the music and your head’s in it for the right reasons, don’t ruin it for everybody else,’” Richards said.
+Historically, the provisions set in place by HARD and Live Nation have done well to quell fence-jumpers and medical emergencies.
+Following the death of a 15-year-old girl at an Insomniac event in 2010, electronic music concerts have had a difficult time getting permits and maintaining working relationships with the city of Los Angeles. The preventative measures and preparations taken by Richards and Live Nation have helped maintain HARD’s reputation as a no-frills, safety-driven promoter.
+ 
+ 
+ 
+ 
+ 
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Saturday Night Live’s infamous segment begins, “Weekend Update with Michael Che and Colin Jost. And here are tonight’s top stories.” This satirical segment touches upon the past week’s biggest news stories with laughs and sarcasm. USC’s TV channel, Trojan Vision, recently began broadcasting a similar parody news show, The Breakdown. The Breakdown’s introduction mirrors that of Saturday Night Live and begins with, “And this is The Breakdown,” with two co-anchors smirking at the camera.
+The Breakdown is USC’s first satirical news show. It airs on Friday mornings at 10:30 a.m. and reruns at 6 p.m. later at night. The Breakdown was created by two sophomores, Rick Cisario and Carter Feuerhelm. Both are students in the School of Cinematic Arts; Cisario is a screenwriting major, and Feuerhelm is a film and television production major.
+The show offers quick and controversial one-liners that reflect national headlines. Co-host Josie Andrews begins in the premiere, “Comedian Joan Rivers was not buried in her local cemetery because they require that anyone to be buried there have been at least 40 percent organic material at the time of death. The good news is that she passed away doing something that she loved: having surgery.” After which satire-induced laughter ensues.
+In addition to SNL’s Weekend Update, the show was inspired by a variety of news sources within the same entertainment genre.
+“We draw a lot of inspiration from the Weekend Update in our style and format,” Cisario said. “But The Daily Show, The Colbert Report and Jon Oliver also have a huge influence on us. I think The Onion has also made a big impact.”
+The show’s very structure mirrors these late night shows.
+“We tell jokes, have guests and air correspondent segments,” Feuerhelm said. “There’s definitely a good bit of oblivious, character-driven comedy present on The Breakdown, without being especially political.”
+In addition to producing, writing, and filming Trojan Vision’s weekly show, Cisario and Feuerhelm are full time students at the School for Cinematic Arts.
+“The biggest challenge is having enough material,” Cisario said. “It’s a half hour each week. You see it with every weekly or nightly comedy show, to come up with consistent stuff each week is hard.”
+The creators are involved in every step of the show’s production, including the writing process.
+“In the writer’s room we pretty much just riff back and forth and see what makes us laugh, then based off of that we pretty much decide what’s going to be written,” Feuerhelm said.
+Working on The Breakdown is exactly what the co-creators have always dreamed of doing. Feuerhelm is part of a YouTube comedy channel, “The Origami Team,” and is passionate about filming and producing; comedy has been Rick Cisario’s lifelong aspiration.
+“For me the most rewarding part is making people laugh,” Cisario said. “Even if it’s just the people in studio, my mom -— just knowing that we’re putting out stuff that makes people laugh is very rewarding.”
+Not only are Rick Cisario and Carter Feuerhelm business partners, they are also close, goofy friends.
+“It’s fun because Rick and I actually have quite different styles of comedy,” Feuerhelm said. “He grew up doing stand-up and watching a lot of late night TV, so he’s mastered the craft of these jokes … I think that difference in style gives us a good variety of material to draw upon.”
+Cisario was especially appreciative of how Trojan Vision provides students with an opportunity to take a hands-on approach in the processes of acting and production. The pair wanted to create a forum where their fellow students could learn skills that would be used on an actual TV or movie set.
+“I think Trojan Vision in general was great,” Cisario said. “That’s where Carter and I got to know each other, and they let us move up because we were passionate about TV … It is a fantastic place to be, and we would love it if The Breakdown became one of the places people came to improve and get their stuff out there.”
+ 
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+President of Russia Vladimir Putin and Alekseyevna Lvova-Belova, the presidential commissioner for children’s rights in Russia, allegedly ordered the seizure Ukrainian children from border cities.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The USC football team, which recently dropped out of the national rankings following a close loss at Utah, is gearing up for its second straight road game this Saturday. The Trojans will head to Washington State in front of a hostile crowd in Pullman, Washington.
+Kill the Cougs · Sophomore safety Su’a Cravens, who has been playing linebacker recently, will be crucial in slowing down Washington State. – Mariya Dondonyan | Daily Trojan
+The Spirit of Troy
+After suffering their second last-minute loss of the season, the Trojans approached Tuesday’s practice as they would any other. The team has without a doubt shown great fortitude through a challenging season.
+“This is a different feeling than I’ve felt with any other team, and the reason I say that is because the people in this locker room care about each other,” redshirt sophomore offensive tackle Zach Banner said. “It’s a great feeling.”
+USC head coach Steve Sarkisian also praised his team for its continued dedication and ability to bounce back.
+“There are quite a few teams who could lose a ball game the way we did Saturday and mope around and feel sorry for themselves,” Sarkisian said. “This group is the furthest thing from that.”
+Sarkisian took the blame for the loss Saturday, stating that he had not done a good enough job of developing this team’s killer instinct following its earlier last-second loss to Arizona State.
+“We should be undefeated in conference play,” Sarkisian said. “We are good enough to win.”
+The key to winning is to play all 60 minutes of the football game, something the Trojans have struggled with in conference play so far this year. Both of their conference losses, to Arizona State and Utah, came in the last 10 seconds of play.
+“Pouting about it or having a bad attitude isn’t going to change it,” redshirt junior quarterback Cody Kessler said. “We’ve got to come out here and keep working.”
+Taking on the Cougars
+Washington State (2-6, 1-4 Pac-12) is ranked last in the Pac-12 North division heading into Saturday. The Cougars are not a team to be taken lightly, however. Sarkisian spoke of how the Cougars’ record doesn’t necessarily reflect their talent.
+“They’ve played a lot of people very tough,” Sarkisian said.
+Indeed, three of the Cougars’ losses have been by fewer than 10 points.
+“They throw the ball all over the place,” Sarkisian said. “They have a strong defensive front that likes to get out after the quarterback and stop the run game, so we have our work cut out for us.”
+Kessler discussed the offense’s responsibility to put up as many points as possible and give the defense something to work with.
+“We got to put up a lot of points,” Kessler said. “We are going to have a lot of opportunities.”
+Washington State’s only conference win this season came against Utah, something the Trojans will most certainly take personally considering last week’s effort against the Utes.
+Injury Report
+Redshirt sophomore left tackle Chad Wheeler tore his ACL during the game against Utah. He will be out for the rest of the season as he undergoes extensive surgery and rehabilitation that will take six to eight months.
+Sarkisian did not name a replacement for Wheeler following practice.
+Freshman offensive guard Damien Mama reaggravated his knee injury during Tuesday’s practice, and Sarkisian listed Mama as day-to-day. Mama’s availability is expected to influence the choice of starter in place of Wheeler.
+A blow to the Trojan defense came when senior outside linebacker J.R. Tavai suffered an unspecified knee injury that is expected to keep him off the field for several weeks.
+Soma Vainuku, a redshirt junior fullback, was very limited in practice Tuesday.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Rick Neuheisel offered the most interesting prediction  I heard of USC’s game this past Saturday. It was interesting not because he pretty much hit the nail on the head with his projected result, but because of the explanation he offered behind it and the fact that he offered it a week in advance.
+On the Pac-12 Network’s postgame show immediately after USC thumped Colorado for a 56-28 win two Saturdays ago, the former UCLA head coach and current TV analyst said he was worried the USC defense would not be able to hold on next week against Utah.
+Why? Because USC’s offensive play calling against Colorado was too aggressive.
+You read that right. Not too conservative; too aggressive.
+Not only did Utah have a solid offense, but the high altitude at Utah’s stadium would also test USC’s weak depth on defense. The battered unit could have had a trip to the spa the week before to ensure everyone was well rested and recovered in time for a crucial conference game, but the defense actually spent a lot of time on the field against Colorado. Instead of chewing up a lot of the clock with a methodical, slow-and-steady run game on offense, the Trojans went with more of a quick-strike aerial assault, scoring seven of their eight touchdowns on the night from passes.
+Though it was a record-breaking night for redshirt junior Cody Kessler, as his seven TDs were more than any USC quarterback had ever thrown in a single game, Neuheisel concluded that USC had a much greater chance of running out of gas next week on defense.
+Sure enough, the Trojans surrendered touchdowns to the Utes on two of Utah’s last three possessions — including their final drive that ended with eight seconds left in the game — and USC fell by a final score of 24-21.
+Now whether or not USC’s defense would have stopped Utah on the final drive if it had played less against Colorado is impossible to answer. But the only other comparable two-week stretch gives a very good clue.
+If we rewind back to Week 1, the final score of USC’s season opener would imply that the Trojan offense was marginally less dominant against Fresno State than it was against Colorado — the Trojans beat the Bulldogs by a final score of 52-13. But looking deeper within the box score shows that the opposite is true.
+The key stat is time of possession. USC had the ball for 38:54, while Fresno had the ball for 21:06. Against Colorado, the time of possession numbers almost flipped, as USC only had the ball for 24:03 while the Trojan defense was on the field for 35:57. Instead of 17:48 time of possession advantage, the Trojans had an 11:54 possession deficit.
+Part of that has to do with the turnover margin. Fresno State threw four interceptions while Colorado only gave away possession twice. But the Trojans lost two fumbles against the Bulldogs, leaving their turnover margin at +2 for the game, and only lost one against the Buffaloes, leaving them +1 for that game. One extra possession does not explain the issues of possession.
+What does explain it is play calling. USC had 64 rushing attempts against Fresno State to only 41 attempted passes. That’s 61 percent of plays staying on the ground. Against Colorado, the ratio was 33 rush attempts to 28 passes, or 54 percent staying on the ground. It’s not a huge difference, but it’s definitely noticeable. One is a lot closer to a 50/50 split; one could almost pass as two out of three.
+What makes a huge difference is the total number of plays in the two blowouts. USC set a Pac-12 record by running 105 plays against Fresno State. As fun as it was to watch Kessler set his individual record, the Trojans only ran 61 plays against the Buffaloes. The team accomplishment was much more impressive and significant than the individual mark, especially considering the outcome of the respective games that followed the record-breakers.
+Though frustrated USC fans might have forgotten, there was a time when the Trojan defense came up big at the end of a one-possession game.
+It was during the Stanford game in Week 2, back when everyone was still really excited about USC football.
+I wrote after the game that there was plenty of luck involved in that win, and it easily could have ended in defeat. But after holding tight against the Cardinal all game, a forced fumble from senior linebacker J.R. Tavai on the Cardinal’s final drive sealed the 13-10 win.
+To me, it is absolutely no coincidence the defense came into Stanford well rested from the week before and held on to win, but came into Utah after a relatively long game and fell just short at the finish line. The USC defense held Utah without an offensive touchdown through almost three quarters before the Utes’ late comeback. Yes, Utah got to face the Trojan defense much later in the season so injuries have added up. But the prior week still matters.
+These two nailbiters provided even more interesting proof. USC held on against Stanford despite a 26:13 to 33:47 possession deficit. The Trojans had 37 rush attempts and 22 pass attempts; that’s 63 percent of plays staying on the ground. Time of possession was essentially even against Utah, with the Trojans having possession 29:41 and the Utes holding the ball 30:19. But the play calling from the Trojans was pretty close to even, too, with 37 rush attempts and 33 pass attempts. That adds up to only 53 percent of the plays staying on the ground.
+There have been plenty who have questioned coach Steve Sarkisian’s play calling this year, saying he needs to stop settling for the safe run play on offense and start throwing more deep balls. I couldn’t disagree more.
+The “bend, don’t break” defensive scheme and the generally conservative offensive style is not inherently flawed. In fact, I think it’s absolutely the best strategy for this USC team given its severe lack of depth. If anything, breaking away from that philosophy is what really caused the Trojans to lose this weekend. Was Sarkisian “playing it safe” when he called a pass play to Jahleel Pinner on third-and-two from Utah’s 28-yard-line instead of running it up the middle? In 20/20 hindsight, the incomplete pass stopped the clock and a run play would have forced Utah to use a crucial timeout, which might have been the difference. But from the replay, we can see it was a perfectly valid play call, and Kessler had a wide open receiver on the play, but he just missed the throw.
+I think people really dislike the conservative mentality because it’s just not as fun to watch, not for any strategic reason. Playing conservatively, though, is not inherently boring. If you disagree, you’re probably a bandwagon fan anyway, and you should start pretending your favorite team is Baylor. You can have your 56-28 win over Colorado, I’ll take my 13-10 victory over Stanford any day.
+My conclusion here is not that we should fire Steve Sarkisian and hire Rick Neuheisel. Sarkisian is doing just fine. I have total faith in him for the near future and I think he’s the right man for the job. He hasn’t disproven that on the sideline yet. He has proven that on the recruiting trail, and you’re still not a better play caller than him.
+ 
+Luke Holthouse is a sophomore majoring in broadcast and digital journalism and policy, planning and development. His column, “Holthouse Party,” runs Wednesdays.
+ 
+Luke,
+Sarkisian has had questionable play calling in the losses. Too aggressive my butt. Lack of depth or not, USC is loaded with talent and shouldn’t be struggling to win in the last two or three minutes of multiple games. There are four games on the schedule and I predict no less than two losses. Regardless of the supposed recruiting ability you tout Sarkisian to have, at the end of the day it comes down to wins. So if the team keeps this struggle going toward the end of next year with a poor record again then he will definitely be on the ropes. I think he was the best pick for the job but if things don’t change there will be no choice and Pat will have to take action. I do not dislike any particular play calling but I do not like the way games are being played and I emailed the AD about it. Nonetheless, a fan for life! Go USC!!!
+We need to change QB. His too many 123 out is putting pressure on our defense thus causing them to be way too tired in 4th qtr and end of the game. USC has a ton of talent. QB is avg at best. He makes big mistake and he is not progressing.
+Farzad,
+I agree.  Too many times it is coming down to a single play and they always end up loosing the ball.  The team is energetic the first half and then they are winded by the 4th quarter as you said.  Kessler is ok, but he isn’t the best and he seems to look to the sidelines too much before the snap indicating some issues with decisions and the play calling.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Etched into the five obelisks adjacent to USC’s Cromwell Field are the names of some of the university’s most storied Olympic athletes. The Trojans have a long and illustrious history in the Olympic Games, having sent more athletes to the Olympics than any other university.
+Just beachy · AVP pro beach volleyball star and Olympic silver medalist April Ross won two NCAA championships with USC’s indoor women’s volleyball team in 2002 and 2003 before hitting the sand. – Photo courtesy of AVP/Robert Beck
+ 
+One of those 420 world-class athletes is former Trojan volleyball player and current AVP pro beach volleyball star April Ross. Ross, who hails from Newport Beach, California, took home a silver medal in beach volleyball at the 2012 Summer Olympic Games in London. The 6-foot-1, blonde and bronzed Ross looks like the perfect specimen for beach volleyball, but her path to glory on the sand was by no means linear.
+Ross excelled in indoor volleyball throughout her four years at USC, winning two NCAA championships (2002 and 2003) under head coach Mick Haley, who still coaches the Women of Troy today. In her senior year, Ross led the team in kills, service aces and points, and prepared herself to play professionally. But her first few years of professional indoor volleyball were tough on the former All-American, and almost put an end to her dreams.
+“From playing indoor here, I actually went and played professionally in Puerto Rico for three years and my body just kind of fell apart,” Ross said. “You have a whole team of managers [in the United States]. You have your coach, obviously, and then your physical therapists that work on you. You have your weight lifting coach who keeps you strong so you don’t get hurt. When I went down to Puerto Rico, I didn’t have any of that. My body broke down. I came home, had surgery on my knee and I was like, ‘I’m done with volleyball. I’m not playing ever again.’”
+But a twist of fate led to Ross heading down a path she never anticipated. She received a phone call from a former USC teammate, Keao Burdine, inviting her to try out beach volleyball. Ross hit the ground running and never looked back.
+“I just kind of fell in love,” Ross said. “I was really bad, so it was like starting over again, starting a new sport. I had to learn so much. But I fell in love with the sport and the culture and the people.”
+Ross’ modesty lent to her willingness to quickly learn the ins and outs of beach volleyball, and as she improved, she was noticed by another former Trojan volleyball star: Jennifer Kessy. Little did the duo know when they paired up that they’d go on to be partners for seven years and represent their country in the gold medal match at the 2012 Olympic Games. Kessy and Ross’ success was especially improbable considering Ross’ feelings toward her future teammate before they paired up.
+“I played against her one time when I was in high school and she was at ’SC and I remember not liking her,” Ross said. “She, I think, yelled at me through the net one time … And I played against her my first year on the AVP. That did nothing to help my image of her — she always beat me.”
+But once they got on the same side of the court, the former Women of Troy built instant chemistry — the kind that can only be accomplished by what Ross describes as the teammates’ desire to give their all for each other at every moment. This chemistry allowed the duo to sail through the pro tours and make their way to the Olympics, an experience Ross still has a hard time putting into words.
+“It’s just the most amazing feeling,” Ross said. “But I don’t think it really, really hit me until we were going out for our first match. We were warming up and it didn’t hit me. I was nervous, obviously, but walking through the tunnel into the big arena with like 15,000 people, that’s when you’re actually competing in the Olympics.”
+Kessy and Ross fought their way through the first few rounds, and upset the top-seeded team in the Games, Brazil’s Larissa França and Juliana Felisberta Da Silva, in the semifinals, 15-21, 21-19, 15-12.
+That set up an All-American gold medal match, where Kessy and Ross came up short against the legendary Kerri Walsh Jennings and Misty May-Treanor.
+“I know it was hard for people to watch and choose to cheer for one or the other,” Ross said about playing against her compatriots. “I felt a lot of love and I felt like a lot of people were on our side. I was bummed that we lost, but to stand up there on the podium with gold and silver for the U.S., I was still really proud and really happy.”
+Though Ross felt the sting of losing that day in London, it didn’t stop her from teaming up with Walsh Jennings after the Olympics ended. Kessy and May-Treanor both decided to retire, allowing Ross and Walsh Jennings to pair up and become the nation’s new No. 1 beach volleyball team.
+Ross is embracing the view from the top.
+“It’s the first time that I haven’t been any kind of an underdog,” Ross said. “It’s crazy to have everyone trying to knock you off all the time and you have to defend your No. 1 standing in the country and, a lot of the time, in the world, this past summer.”
+But the duo absolutely refused to let anyone knock them off this summer. In fact, they became the first teammates in the 31-year history of the AVP Tour to win all seven tournaments on the schedule.
+Now, the pair is focusing on gearing up for the next AVP season and preparing for the 2016 Olympic Games, which will be held in Rio de Janeiro. Ross said the process involves working out in the gym for a few hours every day and doing “brain training,” an activity in which she has electrodes attached to her head that allow her to control virtual situations, like driving a car, only using her mind. Though it seems unorthodox, Ross insists it improves her abilities on the court.
+“You just have to play with your brain and not try too hard but not relax completely,” Ross said. “You have to find that middle ground, which is essentially where you want to play volleyball.”
+Should the duo make it to Rio, it would only add to the list of breathtaking places Ross has had the opportunity to play volleyball, such as under the Eiffel Tower and in the Swiss Alps.
+Despite all her travels, Ross still keeps a close eye on her home, and tries to follow Trojan athletics when she can.
+“I’m actually really fired up on the sand program,” Ross said. “I want to see some of them come out to the AVP and eventually compete there. So I follow them a lot and I’m hoping they can win a team national championship this year.”
+While Ross continues to root for USC, the Trojan Family will certainly be rooting for her in her ultimate quest for Olympic gold.
+ 
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+For anyone who likes science fiction stories, Hollywood films such as Contagion are always riveting. In such films, the world panics as a deadly virus begins killing millions of people, slowly bringing devastation to the world. The outbreak of Ebola within the United States has drawn quite a parallel to storylines like this. Though the constant stream of media coverage seems to feed into the dangers of hype, the issue of desensitization could also pose a threat when people decide to joke about actually having Ebola. If the media blows the disease out of proportion, the effects of heightened panic could backfire, causing more people to dismiss the gravity this epidemic calls for.
+Just this month, a man wearing a surgical mask, as he was exiting a Los Angeles Metro bus, yelled, “Don’t mess with me; I have Ebola!” While the driver remained on his route, he later took the bus out of commission so it could be investigated. In the end, the Los Angeles County Department of Public Health ruled it out as a hoax.
+Unfortunately, similar jokes in public spaces about Ebola have occurred since the virus made its appearance in the United States. According to NBC, on Oct. 10, a man on a flight from Philadelphia sneezed and jokingly said, “I have Ebola! You are all screwed.” The statement caused passengers on the flight undergo medical examinations after landing to ensure the threat was not a serious one.
+These two examples play on the panic spread by the excessive news coverage of Ebola, the jokes simultaneously demonstrating the desensitization that comes with the hype. According to the Chicago Tribune, the “careful Obama administration pronouncements about the limited threat posed to most Americans by Ebola were being drowned out by ‘wall-to-wall coverage of Ebola’ on cable news networks.”
+These days, separating reality from fiction has become increasingly difficult. Columnist Chris Jones of the Chicago Tribune noted, “The world has become so complex — the competing data sets that we find on our computers so tricky to dissect and intuit — we rely more and more on stories as a means of basic comprehension, especially in crisis.”
+According to Priscilla Wald, a professor of English at Duke University, virus contagion narratives do not address the very real roots of epidemics, such as poverty, poor health care and faulty infrastructure.  “Microbes, spaces, and interactions blend together as they animate the landscape and motivate the plot of the outbreak narrative,” Wald said in her book Contagious: Cultures, Carriers, and the Outbreak Narrative. It is important for people to remember that epidemics don’t fit that easily into such suspenseful, thrilling frameworks. The end of the epidemic does not come just because it’s been “defeated” as the narrative closes. Rather, the world must reach an understanding the causes of outbreaks and learning how to combat them from there. What people need to start learning is the importance of deciphering fact from fiction.
+“[We] remain confident that Ebola is not a significant public health threat to the United States,” Thomas Frieden, the director of the U.S. Centers for Disease Control and Prevention, said in a statement. “We know Ebola can be stopped with rapid diagnosis, appropriate triage, and meticulous infection-control practices in American hospitals.” There is also, however, no reason to joke about having Ebola.
+It is important for Americans to remember the facts about Ebola before resorting to extremes, because both ends of the spectrum hold many dangerous social implications.
+Chelsea Hernandez is a senior majoring in English (creative writing). Her column, “Foot in Mouth,” runs Wednesdays.
+ 
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+In the midst of college application season, the University of California system has recently announced that it is considering cutting down out-of-state enrollment. Back in 2009, after the recession, the University of California began admitting more out-of-state students than ever before because those students pay triple the tuition of California residents. Despite the fact that UC schools are accommodating the additional amount of out-of-state students on campus by increasing the overall undergraduate population, many California residents have since complained that UC schools are not prioritizing California students, depriving them of admission to what could potentially be their top-choice university. Regardless of these complaints, the UC system should continue to admit out-of-state students as long as the schools do not admit a higher percentage of out-of-state students than California residents.
+Deena Baum | Daily Trojan
+With nine undergraduate campuses, the UC system offers a wide variety of distinguished universities for students to choose from. Of those nine, six of the campuses are listed in the top 50 public schools in the nation on U.S. News and World Report. Because of the prestige surrounding the schools, especially UCLA and UC Berkeley, applications from both in-state and out-of-state students will only increase throughout the years. By reducing the amount of out-of-state students admitted to UC schools, the system is denying admission to students who might fulfill admissions requirements as well as — or even better than — in-state applicants.
+In addition, in-state students already have a better chance of getting admitted to UC schools, as all public institutions prioritize state residents. Though out-of-state admission chances are increasing, these admission standards are steep in comparison to those of an in-state student. Because in-state students already receive an advantage in admissions for UC schools, they should not feel intimidated by out-of-state students who face slimmer chances of admission, despite overall better test scores or higher grade point averages.
+Price-wise, out-of-state students, like international students, pay higher rates of tuition. Before the new admission standards in 2009, the average UC school admitted only 6 percent of out-of-state students. Now, the average has increased to 20 percent.
+Sen. Jean Fuller (R-Bakersfield) has argued that the UC system must not forget that “the university’s job is to educate Californians first, the California taxpayers who pay for it.” Yet, when it comes to that education, diversity is a valuable factor — and out-of-state students provide that. If UC schools return to their old admission practices, then campuses will lose out on students who come from a broader range of cultures and various walks of life.
+Many California residents want to attend UC schools not only for their prestige, but also for their lower tuition rates. At $12,192 for tuition, many in-state families believe attending a UC school is expected. Despite the economy’s comeback, UC schools have become dependent on the extra money they receive from out-of-state students to maintain class sizes and provide financial aid for California residents. If UC schools have to decrease admission to out-of-state students, however, the universities might have to increase the overall tuition for in-state students, detracting from one of the main perks of attending a UC school. In-state students rely on the low cost of tuition, especially families who do not qualify for financial aid or receive any form of scholarship. UC schools need to continue admitting out-of-state students in order for California residents to pay a fair, lower cost of tuition.
+Though UC schools are admitting an unprecedented amount of out-of-state students, those students have become a necessity to the UC system. By reducing the amount of out-of-state students admitted to UC schools, the UC system, as well as each individual campus, will suffer. The universities’ financial stability and sense of diversity should be seen as something welcome, not something intimidating. As long as the admission rate for out-of-state students remains at roughly 20 percent, the UC system should not change its admission standards just to accommodate worried residents.
+ 
+so continue admitting non-residents because they bring in more money, as sustaining salary increases for non-academic administrators is crucial for any research-driven institution.  Are those inflated usnwr rankings really that important!?!  Meanwhile, qualified high school seniors are denied a chance, settle for a CSU, and then face limited career opportunities and lower pay, or limited opportunities for further education.  you obviously don’tt understand how the real world operates; then again, with legacy admits making up 20% of Fall’s incoming freshmen class, i’m not surprised.  
+“Are those inflated usnwr rankings really that important!?!””settle for a CSU, and then face limited career opportunities and lower pay, or limited opportunities for further education.”-Job offers, for those with only undergrad degrees, are dictated primarily on your major, GPA, and what school you attended. Only a couple schools come to my mind with a lot of clout: Harvard and Stanford. Every other school…they’re about equal. I talked to people across town (because it’s foolish to be insular), with good majors, GPAs, and so forth, and they’re struggling too in the job market. 
+“you obviously don’tt understand how the real world operates”-the pot that calls the kettle black.
+Peyton,
+I hear your viewpoint loud and clear. But, I have to agree that Californians come first.
+Extra en Español
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The Daily Trojan features Classified advertising in each day’s edition.  Here you can read, search, and even print out each day’s edition of the Classifieds.
+Click the icon to download the PDF of today’s Classifieds:
+
+To place an ad, please contact an ad representative:
+(213) 740-2707
+USC Student Publications Student Union – Room 404
+Los Angeles, CA 90089-0895
+http://dailytrojan.com/ads
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:

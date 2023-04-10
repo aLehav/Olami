@@ -1,0 +1,469 @@
+College students are calling for reprioritization of First Amendment rights, and the University is failing to keep up.
+According to a recent report by Inside Higher Ed, absolute free speech is no longer as important to college students as it was in previous generations, and it seems USC is unaware and unprepared to address this shift. More than 50 years after the Vietnam War-era campus Free Speech Movement, college students now prioritize diversity over free speech, even if this means abridging their own freedom of speech. In a Gallup survey released by the John S. and James L. Knight Foundation, a slight majority — 53 percent — of students responded that a diverse and inclusive society is ultimately more important than all free speech rights, and holding people accountable for hate speech is viewed as more important too. 
+USC does a poor job of informing students of their free speech rights. While most people are aware that their speech is limited because they are enrolled at a private institution, many don’t know the extent of these limitations. Students can all access SCampus and read the University codes on their own time, but in the midst of heated discussions, general ignorance sometimes takes precedence; it is safe to say that the average student does not know whether hate speech is allowed on campus or not. USC’s speech code does not explicitly bar hate speech unless it implies or causes violence. But Gallup surveys report that the majority of students want to ban hate speech entirely. Students at USC need an accessible mode of discussion to offer feedback to the University, and express what changes they want to see in University conduct code.
+An open forum to discuss USC’s speech policies — or any other policies — is difficult to find. USC’s events page has a category to easily find events that have “free food,” but it does not offer the same for events related to USC’s student policies, and how students could offer feedback regarding their needs and ideas. Town hall meetings and student government meetings aren’t as openly advertised as they could be, and there are not many physical public discussion spaces for University policy-related topics.
+USC’s various events around political and societal discussion are advertised on the University website’s events page and on other respective platforms, but USC fails to create a method for students to send feedback about their experiences or suggestions for future talks. While there are social media sites USC runs to facilitate discussion, some are not accessible, difficult to moderate or stray from the topic at hand. Many events that offer a space for discussion tend to be specific to a school or field of study. Though they are open to the public, most people who are not affiliated with a particular school or organization do not know about these events. 
+A majority of students across the country who participated in the aforementioned Gallup poll believe that many discussions about political and social issues are happening online and that these discussions are more susceptible to restrictions on free speech. An unpopular opinion is easily blocked and an uncalled for comment is easily deleted. As a nonpartisan institution, USC has a duty to represent different sides of the conversation and ensure that these arguments are productive and do not devolve into chaos. But it can be more difficult to moderate online discussion, especially if the platform is not designed to prioritize moderation. Anonymity and evasiveness only contribute to the difficulty of having online discussions.
+USC is arguably a less politically polarized environment than campuses like UC Berkeley or other liberal arts colleges. It is not notorious for protests and riots opposing alt-right speakers. But that does not mean we don’t need productive, moderated spaces for discussion, including spaces for discussion regarding the limits to our own free speech. 
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+President of Russia Vladimir Putin and Alekseyevna Lvova-Belova, the presidential commissioner for children’s rights in Russia, allegedly ordered the seizure Ukrainian children from border cities.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Terry Nguyen | Daily Trojan
+Since last weekend, Facebook’s Cambridge Analytica scandal has evoked wariness among social network users internationally, as people rushed to change privacy settings and remove third-party apps from further accessing private information. Vigilance is necessary as the online world becomes increasingly intrusive: Users are responsible for what they share and allow to be accessed online. 
+But on Friday, a Department of Justice indictment into international cybercrime highlighted the danger and weakness of large internet networks themselves — private information, such as credentials and saved passwords, can be breached simply through the network a user is accessing. The indictment charged nine Iranians with cyber intrusions into the computer systems of 144 U.S. universities and 176 universities across 21 foreign countries, as well as numerous private sector companies and governmental agencies. 
+Although the DOJ did not provide specifics as to which universities were targeted for academic data, the large number of institutions affected by this hack is alarming. University networks are accessed by thousands of students and faculty members daily, yet they are not comprehensively designed to maximize users’ privacy and secrecy due to the collaborative nature and academic openness of these institutions. 
+A large institution like USC must work to ensure that its networks are secure and foolproof, and continually provide technological updates to guarantee the safety and privacy of its constituents.
+A 2015 Atlantic article stated that universities are still working to find a way to balance their academic research and educational mission without compromising cybersecurity. The piece compared campus networks to hotels and coffee shops, rather than secure corporate networks, since colleges frequently host visitors seeking access to the internet. Therefore, these networks must be easily accessible and not as tightly secured.
+USC has three wireless network systems that can be generally accessed by students and faculty: USC Secure Wireless, which requires a MyUSC login, USC Guest Wireless, an unprotected public wifi network; and eduroam, a global wifi network for traveling academia. 
+Di Wu | Daily Trojan
+USC Secure Wireless appears to be the most protected system, as it requires users to sign into their USC accounts for access. But speaking from personal experience, the crowded secure network can disconnect easily and is often difficult to connect to, depending on one’s location on campus. 
+If a user has previously connected to both USC’s secure and guest networks, failure connecting to the secure network would result in the user automatically connecting to the unprotected public guest server. It’s important to note that these public networks are not secure against potential cybercrimes; if users are attempting to access private information and accounts on them, potential hackers could monitor user data if it is not encrypted. Also, students’ private information, from social security numbers to bank accounts and credit cards, are within reach on these networks.
+Students and faculty are also connected through the USC Gmail portal and within the mailing lists compiled by the University. These virtual databases can be susceptible to companies emailing promotional materials (the Lorenzo has somehow signed me up on its mailing list) or hackers sending out phishing messages, although USC Informational Technology Services has an active spam and phishing email filter.
+In the first half of 2017, digital security company Gemalto reported that the number of data breaches in the education sector increased by 103 percent from the second half of 2016. And large, elite institutions like Harvard University, UC Berkeley and the USC Keck and Norris hospitals were not exempt from those data breaches. It’s clear that universities are cyber goldmines for hackers, given the sheer amount of information they hold. 
+While USC offers personal security and antivirus softwares for faculty and students, duo factor authentication for enhanced account security and other security services, a majority of students do not actively seek these resources out of inconvenience or lack of awareness. Simple steps, such as increased accessibility to security resources and consistent technological updates, can be taken to improve online vigilance within the USC community. 
+Last month, USC ITS announced it was working to improve its network since users reported connectivity issues. The University should work proactively to ensure that it addresses faculty and students’ network concerns first and foremost, and it should invest in increasing network security and safety to proactively prevent data breaches.
+The slight pitfalls observed within USC’s wireless networks, for a school with over 40,000 students and 20,000 faculty, are not to be entirely blamed on the University alone. This is demonstrative of the culture of naivete we have cultivated in our attitudes toward the internet — that it should be viewed as a collaborative and safe space for ideas, rather than a platform we must fear and distrust. 
+Terry Nguyen is a sophomore majoring in journalism and  political  science. She is also the features editor of the Daily Trojan. Her column, “Digitally Yours,” runs Tuesdays. 
+Extra en Español
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+More than 100 USC custodians, students and professors marched along Trousdale Parkway and into USC Village Monday afternoon to protest for better wages and benefits from USC subcontractor Aramark. 
+Yamilet Rustrian, the daughter of a USC custodian, led the crowd in chants as they marched to USC Village. Tomás Mier | Daily Trojan
+The custodians’ union, Service Employees International Union, has been working negotiations with Aramark to settle a contract by the current deal’s end on Thursday. 
+With a bullhorn in hand, Yamilet Rustrian, the daughter of a USC custodian, led chants at the protest in both English and Spanish, encouraging those who marched.
+“[My mom] deserves these human rights and fair wages and deserves to be treated as a human,” Rustrian said. “We’ll keep fighting for people like my mother who are just seen as people who will take little pieces of the cake. We’re here to fight for the whole cake.”
+Rustrian said that custodians have not been treated fairly by USC subcontractors. According to a 2015 Daily Trojan article, USC has used independent contractors like Aramark for janitorial services for more than 20 years.
+“Unfortunately, we feel now that [the contract] is getting stuck,” said Cesar Quiles-Borrero, lead organizer for SEIU – United Service Workers West.  “We are asking the company to lower the healthcare contribution for the members and also to get people outside of the minimum wage area.”
+Quiles-Borrero said with the increase in minimum wage in Los Angeles, Aramark believes the wage will be sufficient for workers, but this is not true. 
+He also said that it was unfair that Eric Foss, the current president and CEO of Aramark, made approximately $7,847 per hour in 2017, according to a brochure distributed at the protest. 
+Many of those who rallied carried signs demanding fair treatment from both Aramark and the University. 
+“The University has the power to tell Aramark what to do with the workers,” Quiles-Borrero said. “We want them to be treated as a part of the Trojan family. We ask them to talk to Aramark and make sure that these workers are treated correctly.”
+In response to the rally, USC said it did not have a comment  since “they aren’t involved in the negotiations.” 
+Rustrian said the fight for fair wages will not end today.
+“If by Thursday we don’t receive any agreement, we will be escalating our action,” she said.
+Aramark did not immediately respond to requests for comment.
+Tomás Mier contributed to this report.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+USC announced Sunday that Oscar Munoz, the CEO of United Airlines and a Marshall School of Business alumnus, has been elected to the USC Board of Trustees. 
+Photo of Oscar Munoz courtesy of USC News.
+Munoz graduated from USC in 1983 with a bachelor’s degree in business administration. He was the first in his family to attend college and was raised in an immigrant family. He hopes to use his role on the Board of Trustees to advocate for students like him, according to USC News. 
+“I’ve never forgotten just how fortunate I was to become the first in my family to attend college,” Munoz said to USC News. “And I feel a tremendous obligation and sense of joy to be able to open that door of opportunity to others.”
+Munoz said he sees his role as a trustee as giving back to the Trojan community, USC News said. 
+“The memories we created [at USC] grew into lifelong relationships that I treasure to this day,” Munoz told USC News. “Having an opportunity to serve this place which served me so well in life is something I am very much looking forward to. The saying ‘A Trojan for life’ definitely sums up the journey I’ve taken from student to alumni to trustee.”
+President C. L. Max Nikias told USC News that Munoz’s business skills make him a suitable addition to the University’s Board of Trustees. 
+“Oscar Munoz is an extraordinarily talented leader, highly effective communicator and distinguished Trojan alumnus,” Nikias told USC News. “His knowledge, management skills and business acumen will be a tremendous asset to the university and our Board of Trustees.”
+Before becoming the CEO of United Airlines, Munoz held positions at both PepsiCo and Coca-Cola, and chief financial officer at AT&T. Immediately before moving to United, Munoz was the president and chief operating officer at CSX Corporation, a rail transportation company. 
+At United, Munoz is credited with increasing the airline’s yearly traffic to 150 million passengers. However, Munoz has also been criticized for his role at United. In April 2017, a passenger on an overbooked United flight was forcibly removed from the flight after he refused to leave the plane. Cell phone video footage from other passengers on the plane showed the passenger being dragged down the aisle of the plane. 
+In response, Munoz initially sent out an email to United employees stating that the passenger in question was “disruptive and belligerent” and claimed that employees followed “established procedures” in their removal of the passenger. 
+Munoz also issued a public statement apologizing for having to “re-accommodate” passengers, without acknowledging the forced removal of the passenger. Munoz later sent out an updated statement that acknowledged the company’s fault in the incident. 
+In February, USC also announced that the Los Angeles Memorial Coliseum would be renamed the United Airlines Memorial Coliseum in a $69 million naming rights deal with United. It is unclear whether Munoz played any role in securing the naming rights of the Coliseum for the company.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+President of Russia Vladimir Putin and Alekseyevna Lvova-Belova, the presidential commissioner for children’s rights in Russia, allegedly ordered the seizure Ukrainian children from border cities.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+California gubernatorial candidates John Chiang, John Cox, Antonio Villaraigosa, Travis Allen and Delaine Eastin spoke at Bovard Auditorium in a town hall hosted by USC Price School of Public Policy. Ling Luo | Daily Trojan
+The USC Price School of Public Policy and KNBC hosted a debate for California’s gubernatorial candidates at Bovard Auditorium Monday.
+Republicans Travis Allen and John Cox and Democrats John Chiang, Delaine Eastin and Antonio Villaraigosa were in attendance. Democrat Gavin Newsom, the current California lieutenant governor and frontrunner in the gubernatorial race, did not participate in the debate.
+“There is a chance for us tonight to hear directly from the candidates, to learn more about each of them, where they stand on the issues that matter most, and to listen to what their vision is for the future of California,” Price Dean Jack H. Knott said in his opening speech. 
+The candidates’ opening statements made their political stances clear. Chiang, who currently serves as the California State Treasurer, emphasized his commitment to never tolerating sexual abuse or harassment and his passion for fixing the problem of affordable housing. 
+Cox and Allen explained their dedication to lowering taxes and protecting the Second Amendment.
+“California spends $4.50 for every dollar Texas spends to build a mile of road,” Cox said. “That’s your tax dollars. We collect tons of revenue. [Governor] Jerry Brown raised his budget from $80 billion to $130 billion in his term, and they keep wasting the money.” 
+Eastin, a former superintendent of public instruction in California, spoke of the importance of improving California’s education systems. Villaraigosa, a former Los Angeles mayor, highlighted his plans to increase economic opportunities for all Californians.
+Throughout the event, the candidates discussed issues such as homelessness, gun violence, education and funding for a high-speed rail connecting Northern and Southern California. 
+KNBC news anchor Coleen Williams, one of the debate moderators, opened the broadcast with a question regarding California’s 24 lawsuits against the White House.
+“Can the state of California work with the Trump administration?” Williams asked. 
+The conversation quickly became partisan. With two Republicans and three Democrats on stage, candidates were divided on the issue of whether California should continue to be a sanctuary state and not aid U.S. Immigrations and Customs Enforcement in implicating undocumented immigrants.
+“As your next governor of the state of California, I vow my first 100 days in office to reverse the illegal sanctuary state,” Allen said. “California must follow and enforce federal immigration laws.”
+Eastin, the only female candidate in attendance, refuted Allen’s claim, saying the practice isn’t illegal because of the Tenth Amendment, which protects state’s rights. 
+“It is our right as the State of California to protect and defend our immigrants,” Eastin said. “Let’s never forget that everybody in this room is probably a descendant of an immigrant. [Some of] the most ambitious, entrepreneurial, risk-taking people on the face of this planet happen to be called immigrants.”
+Sherry Bebitch Jeffe, a Price professor and political analyst, asked the candidates how they could get students passionate about politics during a time of deep national divisiveness. 
+“I think we need to bring civics back to our classrooms,” Villaraigosa said. “We need to engage in the social sciences and social studies, study history again, understand that it’s not individuals who make history, it’s movements.”
+Chiang echoed the sentiment and emphasized his plans to motivate young people.
+“We have young people who are very passionate about their future, who are stepping up because they recognize that the officials and the adults are building their future,” Chiang said. “I want to encourage all the young people to understand that they can make an extraordinary difference. As governor, I would recruit them to participate in the state’s service corps … I want them to take ownership of their local communities.” 
+According to Knott, more than 25 percent of all registered voters in California reside in Southern California, making the area’s voting population an important one for the race. 
+Extra en Español
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+USC will put in place new safety measures for Springfest this year.
+Students will now have to register for the event online and will not be permitted to bring guests.
+Pre-registration, however, does not guarantee admission to the venue. Students will be admitted on a first-come, first-serve basis.
+There will also be increased security and increased fencing at the entry points and around the perimeter of McCarthy Quad, which will host the event.
+“We’re looking that practices are consistent to have a safe and fun event for everyone and to reduce potential for injuries and unlawful behavior,” DPS Lieutenant Mark Cervenak said.
+According to Cervenak, the number of students admitted to the venue will be capped at 5,000, but fire regulation will be conducting ongoing assessment of the crowd throughout the night.
+“If you have people dancing, one becomes two maybe three people [because] if someone’s moving around it creates less space,” he said.
+Students will not be permitted to reenter the venue if they leave. This is to assure that students do not lend their student IDs to others to allow them entry, Cervenak said.
+“[We] might have a real popular artist performing or a real popular event and the venue has to be able to accommodate our guests for that,” Cervenak said. “If there’s too many people, it poses a safety concern for all of us and liability for the University.”
+These new measures have stemmed from last year’s Springfest, which was canceled before the headliner came out onstage due to concerns for student safety and security because of overcrowding. Springfest 2017 drew a larger crowd than previous years with a crowd in which 30 percent were non-USC students, according to a Daily Trojan article from April.
+“[My] position that we didn’t have last year so I guess that’s the biggest indication that there’s been a change,” said Kira Stiers, director of risk management for concerts committee. “We’ve created this position just because our shows have gotten bigger as our artists have gotten bigger.”
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+President of Russia Vladimir Putin and Alekseyevna Lvova-Belova, the presidential commissioner for children’s rights in Russia, allegedly ordered the seizure Ukrainian children from border cities.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+During its first weekend back in Southern California, the Trojan beach volleyball team put on an impressive showing in the Pac-12 South Invitational, dominating its opponents at Ocean Park Beach in Santa Monica. 
+Freshman Haley Hallgren bumps the ball to her teammate, senior Jenna Belton. Alex Zhang | Daily Trojan
+Though the Trojans’ loss record remained unscathed, their first match of the weekend proved to be closer than anticipated. Facing the No. 16 Cal Golden Bears that were riding an 11-match winning streak, the Trojans came out strong with a mixture of youth and experience on the first two courts. 
+The Women of Troy dominated the first two courts; junior Abril Bustamante and freshman Tina Graudina defeated Alexia Inman and Mima Mirkovic (21-15, 21-12) on the first court and senior Terese Cannon and freshman Sammy Slater came out on top against Jessica Gaffney and Iya Lindahl (21-10, 21-18). 
+Despite falling behind two games early, the Bears bounced back strong when their fifth court pair of Grace Campbell and Madison Micheletti soundly defeated USC’s junior Katrina Kernochan and graduate student Alexandra Poletto 21-16 in back-to-back sets. 
+The Trojans would need a victory from senior Jenna Belton and freshman Haley Hallgren on Court 3 (21-16, 25-23) to seal the victory for USC before Mia Merino and Caroline Schafer of UC Berkeley defeated sophomore Joy Dennis and senior Jo Kremer on Court 4 with the match already decided. The two games that Cal won were the first they’ve ever won against USC.
+In their second and third matches of the weekend, USC methodically defeated the two Pac-12 Arizona representatives in the No. 11 Arizona Wildcats (9-6) and the Arizona State Sun Devils (3-9). In both matches, USC rode their 1st, 2nd and 4th courts to victory. The pairs of Bustamante/Graudina, Cannon/Slater and Belton/Kremer each consecutively swept their opponents, ending the matches before the outcomes of the 3rd and 5th courts mattered. The Trojans’ win over the Wildcats was their seventh in a row against Arizona. 
+For their final showdown of the weekend, USC faced their highest-ranked opponent for the weekend against the No. 14 Stanford Cardinal (11-5), who were 3-0 on the weekend leading up to that match and riding an 11-match winning streak. In what was supposed to be their toughest test of the weekend, USC swept the Cardinal 5-0. The Trojans on the first four courts dominated their matchups while the 5th court pair of sophomore Cammie Dorn and freshman Maja Kaiser saw a thrilling comeback in three sets to defeat Kat Anderson and Caitlin Keefe of Stanford (17-21, 21-13, 15-8). Their matchup marked only the second time both teams have faced off. 
+After their 4-0 weekend, USC cemented themselves once again as the cream of the crop in the Pac-12. The only other team to come out of the weekend without a loss was the No. 2 UCLA Bruins (18-3). The Trojans’ top performers, Bustamante/Graudina and Cannon/Slater, were selected to the all-tournament team. Both pairs went 4-0 on the weekend, without dropping a single set. UCLA was the only other school to have pairs recognized. 
+With the performance, the women’s beach volleyball team improves its record to 15-6 on the season. 
+Up next, the Trojans will head to Pepperdine University on March 31 to take on No. 19 St. Mary’s, No. 16 Loyola Marymount and the No. 1 Pepperdine Waves in the Pepperdine Invitational. USC will have a full week to prepare for another dual against Pepperdine after falling to them twice in one week earlier this season. 
+Extra en Español
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+There are tough days, there are successful days and then there are career-defining days. On Sunday, a few Women of Troy rewrote their own record books with  unbelievable individual performances against No. 8 Pacific at the Utengsu Aquatics Center. 
+Sophomore utility player Maud Megens dominated in the Trojans’ 19-8 victory against No. 8 Pacific. Emily Smith | Daily Trojan
+Although they have been strong throughout their USC tenures thus far, sophomores Maud Megens and Denise Mammolito have never been quite as dominant as they were this past Sunday. In a match-up against Pacific, a top-10 program that had been riding a strong three-game winning streak, the pair of second-year players had their work cut out for them.
+To make things more difficult, USC was on the second day of a back-to-back stretch that included a trip to Tempe to take on Arizona State the day before. While the Trojans were able to push forward to a relatively calm 12-6 victory over the Sun Devils, any two-day stretch of consecutive matches will tire down a squad. Well, any squad but the Trojan women.
+“It takes two or three tough matches [in a row] to win [in the NCAA tournament],” coach Jovan Vavic said. “We have been doing this a long time and know that you have to be able to perform in situations like that.”
+As a result, the Women of Troy, especially Megens and Mammolito, were less tired than and motivated to take on Pacific. After contributing greatly to the win over Arizona State, Mammolito had a hat trick while Megens contributed a score of her own — the pair came out firing against the Tigers.
+By the end of the first half, USC had a commanding 12-2 lead off of an unbelievable 6-goal half from Megens. That mark was already enough to set a new career high for the sophomore utility player and would be further extended after she scored her seventh in the fourth period. Megens’ performance marks not only the highest individual offensive production of the season for USC but also the third-most prolific goal scoring day in program history. 
+“[Maud] is truly a complete player,” Vavic said after Megens’ surreal performance. “She is just as good at getting assists and steals as picking up goals. She [also] will be the first to say that she can do better.”
+Not to be overlooked, Mammolito also set new personal records in the match against Pacific. Picking up another 4 goals on the day, the sophomore driver made it 7 on the weekend and set a new career high in goals scored in a game. Beyond her excellent goal-scoring output, Mammolito provided a solid spark defensively for the Trojans.
+“She is a more defensively oriented player but still is capable of delivering on offense,” Vavic said. “She can really be one of the best players in the nation.”
+After all was said and done, the Trojans finished off the Tigers to the tune of a 19-3 margin. Pushing the team’s record to 16-1 and marking its sixth-consecutive win, the Women of Troy are playing as well as any squad in the country.
+Moving forward, USC’s schedule will open up significantly as the team will go the better part of a month without back-to-back games. Their next match is at home at the Uytengsu Aquatics Center this Saturday against Hartwick College. 
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Julia Poe | Daily Trojan
+It’s the final week of March Madness, and I’m here to officially attempt to convince you, the reader, to cheer for one of the underdogs. One of those teams is Loyola Chicago, the No. 11 seed little-engine-that-could that somehow has delivered shock and awe by defeating college basketball Goliaths. The other, believe it or not, is No. 1 seed Kansas. This rests on a hope for two teams who are underdogs in their own right, and on the possibility of a dream come true for two players who grew up in my hometown.
+Let’s start with the easier sell. There is, quite honestly, nothing to dislike about Loyola Chicago. They won their first three rounds of NCAA tournament play in breathtaking fashion by sinking back-to-back-to-back buzzer-beaters for three victories by 2 points or fewer. The Ramblers fulfill every hope of a Cinderella story: They’re scrappy and full of heart, playing aggressive and clean basketball that is right to terrify even the most stacked top seed in the tourney.
+And of course, they’ve got a patron saint in Sister Jean, the 98-year-old chaplain of the basketball team who offers blessings and scouting reports before every game. 
+“Don’t let those Tennessee team members scare you with their height,” she told the team before their second-round game. “Height doesn’t mean that much. You’re good jumpers. You’re good rebounders. You’re good at everything.”
+The university sold out, restocked and then sold out again in preorders of bobbleheads of Sister Jean, and her message “We’re on a mission from God” has become one of the best catchphrases of this March. It’s hard to imagine an underdog that’s more inspiring or more fun to watch.
+The Jayhawks are a different story. They have pedigree and five-star recruits, including a colossal big man in seven-footer Udoke Azubuike and the unanimous Big 12 Player of the Year in Devonte’ Graham. Add in Malik Newman, the unanimous Big 12 Newcomer of the Year who put up 32 points in an overtime classic against Duke on Sunday, and it’s pretty hard to imagine how this team isn’t privileged with a wealth of talent.
+But if there were ever a Kansas team coached by NCAA Hall of Famer Bill Self that could be called an underdog, this is it. 
+After last season, when the Jayhawks lost Frank Mason — the all-around player of the year who snagged every top honor, including the Naismith and Wooden awards — this team entered a bit of a flux. It dropped early losses to teams like Washington and allowed a series of home losses at Allen Fieldhouse, a court where Self never loses. After winning 13 straight conference titles, most sportswriters predicted that this would be the team that finally broke the streak.
+“This is the softest team that Kansas has had since I’ve been here,” Self said in December. “A lot of that is experience. A lot of that is youth. A lot of it is just the way that we’re physically built and the way our skill set is. But the bottom line is we’ve got to become tougher.”
+I’ve been a Kansas fan for most of my life, so I know that I risk sounding like a serious homer. But after a season of taking heat, this Kansas team has the heart and mentality of an underdog, especially when led by the smiley Graham, whom Duke head coach Mike Krzyzewski described as one of the best leaders in the country. If you’re picking between two No. 1 seeds, I can’t see how you wouldn’t pick Kansas based on heart alone.
+The best reason to cheer for both of those teams rests in the possibility for a storybook ending to this tournament. That storyline rests partially on the idea of the Ramblers becoming the lowest ranked seed ever to cut down the nets at the national championship, and in the rush of defeating a No. 1 seed along the way. If Loyola Chicago wins, however, that will happen anyway, regardless of whether it faces Villanova or Kansas.
+But if Kansas advances, something even sweeter will happen for both teams. That brings us to two Ramblers players, boys whom I watched play ball in high school and whom I’ll cheer for next Saturday — and hopefully next Monday.
+Loyola guards redshirt junior Clayton Custer and senior Ben Richardson grew up in Overland Park, Kan., and starred at Blue Valley Northwest, the high school 20 minutes north of mine that we played twice a year. Like most of the kids in my area, they grew up as Kansas basketball fans, raised on the 2008 NCAA championship game. The pair lived on the same street, and they spent hours re-enacting the same play that every Kansas kid memorized — Mario and the Miracle, the pass from Sherron Collins to Mario Chalmers, the buzzer-beater with 3.6 seconds left.
+They’ve both lived out their own versions of miracles this tournament — Richardson with the pass for the game-winner over Miami, Custer with the perfect banked shot to defeat Tennessee. But a chance to repeat the magic against their childhood team? I can’t imagine a better way for this tournament to end.
+Every year, March offers a story to hook in neutral fans, the ones whose brackets are busted and whose teams are eliminated before the end of the road. This year, I hope this is a story that every fan can cheer for — two underdog kids facing the team that taught them to love the game on its biggest stage. 
+Julia Poe is a junior majoring in print and digital journalism. Her column, “Poe’s Perspective,” runs Tuesdays.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+President of Russia Vladimir Putin and Alekseyevna Lvova-Belova, the presidential commissioner for children’s rights in Russia, allegedly ordered the seizure Ukrainian children from border cities.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The Student Assembly for Gender Empowerment hosted its sixth annual female-led festival, FemFest, on Sunday, featuring vendors, live painting, craft-making and live music.
+Gavin Turek, a Los Angeles-based singer-songwriter, was the second-to-last performer of the night. Emily Smith | Daily Trojan
+Several hundred people attended this year’s festival which featured different feminist vendors. Allegra Rosenberg, the director of FemFest, said that FemFest is important because it gives female artists a platform. 
+“It wouldn’t be as important if Concerts [Committee] and other USC committees had more equitable booking practices, but they don’t,” Rosenberg said. “So FemFest continues to exist just to give those acts a chance to be spotlighted.”
+Rosenberg organized the festival along with a committee of eight other women.
+Carly Sabicer, FemFest’s production manager, said that as a woman, she would not have had the chance to help organize a festival if it weren’t for FemFest. 
+“There are more women in the industry, but it still is very much run by men as far as audio engineers, producers and all that stuff,” Sabicer said. “I think it’s a great experience for women and non-binary individuals to get hands-on experience.”
+Rachel Davis, a featured artist from Azusa Pacific University, did a live painting during the festival. Her piece was centered around female empowerment. 
+“The piece I’m doing is centered around the phrase ‘empowered women empower women,’” Davis said. “I think it’s really important and really beautiful to have women supporting each other and each other’s artistic endeavors and to celebrate our femininity and all that that means.”
+The vendors at the festival included Planned Parenthood, Bloom Boutique and a company focused on empowering girls to pursue audio production called SoundGirls, among others.
+Bloom Boutique is a student organization that accepts donated clothes, curates them and resells them to students at an affordable price with no item costing more than $20. CeCe Uhrich, a junior majoring in environmental science, runs the organization’s website and creates editorial content. 
+Uhrich noted the fashion industry is one of the rare industries that features female voices, but the money still mostly goes to male designers. 
+“I think the fact that we’re an all-female organization reflects the direction the fashion industry should be heading,” Uhrich said.
+Some female artists are empowered by the fact that their industry is male-dominated. Christine Meisenhelter, a junior in the pop music program and the bassist of MOTHER, one of the bands playing at the festival, is one such artist.
+“It kind of sucks but it’s also super empowering to have a male-dominated industry,” Meisenhelter said. “You realize when you get past the fact that you are the minority you also have the power. It gives you the power to get on stage and kick ass and show what you can do.”
+Another artist, singer-songwriter Gavin Turek, performed second to last at the festival, effectively working the crowd and telling them to stop “fighting the urge to dance.” The audience danced through Turek’s entire set with Turek even joining them on the grass at different moments. Uhrich was impressed by Turek’s performance. 
+“She radiates girl power,” Uhrich said. “I was so proud to be a woman watching her perform, thinking, ‘This is what it means to be a female.’”
+Indie dream pop artist Jay Som headlined the event and closed out the night with a mellow performance of her best-known songs, including “I Think You’re Alright” and “The Bus Song.” 
+Joey Krieger, a junior majoring in mechanical engineering, has been attending FemFest for four years. He credits the festival with drawing his attention to the inequality women and girls face in the music industry. 
+“I’ve been to entire shows where everyone playing was a man and to recognize how rare it is to see the opposite makes you realize that something’s off,” Krieger said.
+Leila Kashfi, a sophomore majoring in business administration and music industry, said FemFest can encourage attendees to think about the issues women face.
+“Hopefully at some point it’s just normalized so that we can all be empowered in this space to the point where there’s no space needed,” Kashfi said. “Even people who might just be coming for an artist or something then are forced to think about the things we’re talking about in this space and that we’re making a point to acknowledge that they wouldn’t have.”
+Extra en Español
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Arya Roshanian | Daily Trojan
+On a slightly chilly spring day in lower Manhattan, a well-dressed homosexual decided to drop out of graduate school.
+The decision was not made rashly — in fact, much consideration went into it. Consultations were made with peers and elders that he trusted. Lists of pros and cons were constructed. A one-on-one meeting was even held with his professor. But these efforts were mere formalities made in earnest, for in his heart, he knew that leaving the program was the right thing to do from the beginning.
+In case you haven’t caught on, the person I’m talking about is me.
+Before coming to this decision, I decided to head to New York City to clear my head — because where else could I get some clarity than in one of the busiest, dirtiest cities in the country? I had gone back-and-forth for many weeks on whether or not I should drop out. When I finally made my decision, I felt free, yet equally diminished. Deciding to drop out was both the easiest and hardest decision I’ve ever had to make, because I didn’t want to be perceived as a quitter.
+When I applied last year, my life was not nearly as stable as it is now. Six months ago, my only sources of income were from freelance gigs at a few different magazines. Money was so tight that I was forced to move back to my parents’ house near Calabasas. My parents, God bless their hearts, have no idea what today’s job market is like. They still believe that one can just submit their resume to a couple different companies and immediately receive offers within a week. But while awaiting these miraculous offers, they told me that I should apply to graduate school. 
+I was hesitant, because school has never really been my forte. I love to learn, but place me in a classroom and force me to do work, and all my motivation will cease to exist. Still, the reality of living back home seemed much worse than going back to school. So I applied to the library science master’s program at USC and expected to wait months for a decision that could change my life.
+Joscelyn Stocks | Daily Trojan
+Three days after I applied, I received a job offer at L.A. Opera. I accepted it right away, forgetting that graduate school was still on the horizon. A few weeks later, I received my acceptance letter from USC.
+I won’t bore you with every single detail that went into my decision to both work and go to class full-time, so the abbreviated response is that I decided to give graduate school a trial run to see if it was something I still wanted to do. But in retrospect, the only reason I wanted to become a librarian is that I love to read. At the time, I was extremely disillusioned as to what a librarian actually does for their daily work. Spoiler alert: It isn’t sitting in a corner and reading all day. It would have been easy to throw in the towel in the first week and get my tuition money back, but my pride stopped me. I didn’t want to quit on something yet again, because it seems that quitting is all I’ve ever done.
+When looking at my track record, it’s easy to think that I am indeed a quitter. I abandoned my pursuit to be an opera singer to become a journalist. And after that became too hard, I decided to enroll in graduate school. But then I joined the PR team at L.A. Opera and then decided to drop out of a graduate program that I had come to detest. I have experienced more change in the last three years than I have in the rest of my lifetime. I try not to think of all these sharp turns as me quitting. Can’t I just change my mind without it being a big deal? But more importantly, why can’t I (or anyone else) throw in the towel and not have it be a big deal? Is the negative stigma of “quitting” merely a product of the problematic patriarchal society in which we are expected to endure discomfort for the sake of a positive end result? In some situations, hanging on would be an appropriate decision. But I’m not sacrificing my happiness any longer in an attempt to appear strong.
+I’m waiting until the end of the semester to officially drop out, and will continue in the meantime. And if that makes me a quitter, fine. I’d rather have a scarlet “Q” embroidered on my A.P.C. turtleneck than pretend I’m happy doing something I hate. If you’re in a similar situation, I encourage you to follow my lead.
+Arya Roshanian’s column, “From The Top,” runs Tuesdays.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+President of Russia Vladimir Putin and Alekseyevna Lvova-Belova, the presidential commissioner for children’s rights in Russia, allegedly ordered the seizure Ukrainian children from border cities.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Electronic dance music legend Diplo has made a career out of producing radio-friendly dance tracks for years. His career reached new heights when he joined forces with Jillonaire and Walshy Fire under the pseudonym Major Lazer. The dance artist’s work as Major Lazer led to the ubiquitous “Lean On” and the grammy-winning “Where Are U Now?” featuring pop singer Justin Bieber. His ability to access the mainstream and work well with a diverse set of vocalists solidified his notoriety as a heavily in-demand collaborator.
+Diplo’s versatility is showcased now more than ever on his latest EP, “California.” The concise, six-song set draws most of its inspiration from the hip-hop and R&B genres. “California’”s sunny disposition is representative of the titular state, but its existential lyrics add compelling depth. The record sees Diplo taking a more laid-back approach to his production.
+The EP’s relaxed aesthetic allows a deeper exploration of the lyrics and meaning behind each track. One of the most experimental and intriguing songs on the album is “Look Back.” The song adopts an indie rock sound accompanied by a soulful performance by “Broccoli” singer DRAM. The collaboration is a nice surprise, as it showcases new sides of both Diplo and DRAM.
+The experimentation on the extended play, while commendable in its ambition, does not always pay off. Diplo’s collaboration with Desiigner on “Suicidal,” for example, is an instantly forgettable mumble rap track that could just as easily be found on a Migos B-side tape. Its indecipherable lyrics and unoriginal production are a low point on the otherwise solid EP.
+Photo courtesy of Mad Decent
+The existential themes on the EP are further explored on “Wish,” which featured rapper and singer Trippie Red. The song features a soft rock production that allows Redd a chance to showcase his soulful vocal ability. The track explores the intoxicating atmosphere of depression and longing for a past love. It is reminiscent of rapper Lil Uzi Vert’s recent work on Luv is Rage 2.
+Reflection and introspection continue on the Lil Xan collaboration “Color Blind.” On the track, Lil Xan reflects on a past relationship through which he only recognizes the relationship’s flaws in hindsight. The song is accompanied by a dreamy production, and Diplo’s signature post-chorus dance break is fitting on the track.
+The closing track, “Get it Right,” features Diplo’s past collaborator MØ as well as “Crew” singer GoldLink. The track is the closest semblance of Diplo’s past work with Major Lazer. It plays as a distant cousin to the songs “To U” and “Where Are U Now.” MØ and GoldLink are a solid team, whose vocals blend seamlessly to conclude the EP on a high note.
+Clocking in at a mere 19 minutes, “California” is a quick and convenient listen. It invites introspection and introduces a new side of Diplo never heard before. He finds success in collaborating with an eclectic array of artists, ranging from Santigold to Lil Xan. A full hip-hop album with bigger names could be in the artist’s future — and would be welcomed. Although it is neither perfect nor particularly groundbreaking, the EP is an easy listen and a fitting set of songs to play on a drive through its eponymous state.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+USC Graduate Student Government voted to pass a resolution on Monday to support graduate students’ unionization efforts through USC Forward, a group of students, faculty, alumni and community organizers seeking to better working conditions, wages and educational accessibility at USC. 
+Photo by Emily Smith | Daily Trojan
+The resolution was passed with an 84.4 percent approval from GSG Senate and will be presented to all graduate students, University President C. L. Max Nikias, Provost Michael Quick and the Board of Trustees. GSG will also publicly declare its support for a graduate student union. 
+The motion was penned by Senator John Oltean, who represents the Gould School of Law, and co-sponsored by Director of External Affairs Gilbert Felix. Oltean worked alongside members of USC Forward to write the resolution and believes unionization will improve students’ professional lives by holding the University accountable to their working conditions and needs.
+“As the diversity of graduate student populations increases, we have more students with families [and] nontraditional students entering this higher education sphere,” Oltean said. “Formal union representation [will] bolster a lot of the recent work that GSG is doing — institutionalizing a complementary organization with codified mechanisms will give us more of a voice and power to relay these concerns to the administration regarding diversity and inclusiveness.” 
+Oltean and Robert Chlala, a doctoral student in sociology and USC Forward member, have worked to solicit graduate students’ opinions and concerns across all academic schools to recognize the diversity of student needs the union should address.
+“The greatest reason to unionize is evident in the daily life situations here,” Chlala said, noting how graduate employees provide integral academic labor to USC as teaching assistants and researchers. “We have limited protections over that work, and in case an issue does arise, we don’t often have the capacity to do anything about it.”
+A union would provide more accountability for graduate workers and set up a system where students can elect their representatives and contact them with any concerns, according to Chlala. This will reduce the burden dissertation advisors face, as a union would serve as an arbitrator between graduate workers and the University.
+USC Forward began to mobilize for a graduate student union during the Fall 2016 semester, following a National Labor Relations Board ruling in August 2016 that allowed graduate students working as teaching and research assistants at private universities to mobilize. Before that landmark ruling, the NLRB did not consider graduate assistants employees of a university because of their statuses as students.
+The organization was present at the monthly GSG meeting, clad in bright orange t-shirts with the motto “Uniting to reclaim higher ed” on their backs. Members loudly cheered when the vote was approved. 
+Clare O’Connor, a doctoral student in communication, said unionization is crucial to ensure increased basic rights for students who are starting families. O’Connor, who is pregnant, was concerned about the healthcare options for her future child, since USC covers only its students directly but not their dependents. 
+“A union provides the negotiating power that would allow us to legally require USC to follow through on commitments, like [healthcare],” she said. “One of the most persistent problems for graduate student workers, for TAs and residential assistants, is overwork. We’re supposed to be working 20 hours a week in most cases and do so much more.” 
+The motion ensures that GSG will be able to present its resolution to USC administrators, but a union can only be recognized legally through the NLRB or voluntarily by the University. Regardless, Chlala and Oltean said they will continue to advocate for unionizing efforts and graduate workers’ needs.
+“For us, success comes with operating like a union, operating like a collective body that can collectively voice these issues,” Chlala said. “We have the capability now to put that into practice for graduate workers, and it’s really critical that we seize on that and show that.”
+Extra en Español
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The Daily Trojan features Classified advertising in each day’s edition.  Here you can read, search, and even print out each day’s edition of the Classifieds.
+Click the icon to download the PDF of today’s Classifieds:
+
+To place an ad, please contact an ad representative:
+(213) 740-2707
+USC Student Publications Student Union – Room 400
+Los Angeles, CA 90089-0895
+http://dailytrojan.com/ads
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+President of Russia Vladimir Putin and Alekseyevna Lvova-Belova, the presidential commissioner for children’s rights in Russia, allegedly ordered the seizure Ukrainian children from border cities.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:

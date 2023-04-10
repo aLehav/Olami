@@ -1,0 +1,355 @@
+Rhys Yahata, Technical Director MxR Studio with Summer Crunch 16 students. Photo courtesy of MxR Lab Personnel.
+The USC Institute of Creative Technologies’ lab in Playa Vista resembles a science fiction movie set — two researchers with headsets and remote controls stand among several autonomous drones, and a free-standing door and its frame are situated in the middle of the room. 
+In the virtual world, the drones detect walls on either side of the door and do not cross to the other side unless the door is opened by the researchers. 
+Director of Advanced Prototype Development Todd Richmond gave a tour of the lab to West Coast news anchor Alyssa Julya Smith of Cheddar, an online network that explores budding technology and innovation, last month to demonstrate the work that has been going into developing mixed reality.
+“This is really about asking the question of how are humans and autonomous objects going to partner and be teams,” Richmond said in the Cheddar segment.
+Founded in 1999, ICT fosters collaboration between students and experts from the film, gaming and computer science fields to “study and develop immersive media for military training, health therapies, education and more,” its website states.
+According to Richmond, mixed reality is becoming increasingly popular among service providers who want to understand their fields on a deeper level. By combining aspects of virtual and augmented reality, researchers have been exploring how machines can improve daily life. Mixed Reality (MxR) at USC has been showing soldiers how virtuality can provide a more accurate lay of terrain than an outdated map might, or how medical professionals can better comprehend a patient’s traumatic past experiences.
+“A big part of what the lab works on is [asking], ‘Given all of these technological capabilities why should a human care? What is this stuff really going to be used for? What’s it going to be good for, and where [are] the potential harms going to be?” Richmond said.
+Creative Director of MxR Lab, David Nelson, who works with Richmond in the MxR Lab, recently wrote about a new mixed reality product in Rolling Stone. He also emphasized how the USC MxR team has increasingly earned the respect of the technological community, as well as its clients from the health and military fields.
+“People come to the lab often because of the expertise that’s there,” Nelson said. “I’ve been talking a lot about how the building blocks of storytelling and the language of immersion because that’s my background, but I’m certainly kind of on the front lines of new technology and capabilities. When the new devices start to come out we often called to comment on them.”
+Nelson is also working on an MxR project with students to encourage bystanders to take action in a situation of sexual harassment or assault by developing a virtual simulation, which they will present to the sexual harassment and assault arm of the institute this week.
+Even as mixed reality research progresses, Nelson highlighted the importance of getting students involved by encouraging creative pitches and motivating students to stop by the MxR studio on the main campus.
+“[I’d] like the studio to be an open space where students can come in and try things,” Nelson said. “I always tell students, if you’ve got something you want to work on, we can provide space and equipment … We want it to be a real active prototyping environment.”
+Correction: A previous version of this article identified David Nelson as “Project Director.” He is actually “Creative Director of MxR Lab.” The Daily Trojan regrets this error.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The Viterbi School of Engineering is offering a new course this semester titled “Augmented, Virtual and Mixed Reality.” The class gives students the opportunity to learn and design in a collaborative space.
+Embedded is a virtual reality game presented at the GamePipe Showcase that discusses how the media can change public perceptions. Students in CSCI 538 will be able to build projects like this. Photo courtesy of Embeddedgame.com
+The course is taught by USC GamePipe Laboratory Director Michael Zyda and Professor Vangelis Lympouridis, whose classroom has provided an interactive environment where students can learn about a variety of mixed-reality platforms and the progress of computer science in current and future technologies. 
+“Virtual reality is where you’re in this computer graphics environment and everything you see is computer graphics,” Zyda said. “Augmented reality is a graphics overlay of the world, so you see the table in front of you and there are computer graphics characters walking on that table. So there is a very simple vision solution that happens to find the tabletop and then puts your 3-D characters on top of it.” 
+The course covers a multitude of topics such as 3-D interactive and procedural graphings, motion trackers, rapid prototyping and virtual reality programming. It is currently open only to computer science majors and students in the Iovine and Young Academy, as their curriculum incorporates innovation and technology. 
+“This course is necessary because everyone from content creators to big technology companies are invested in developing this new era of immersive media, which essentially will be a new medium,” Lympouridis said. 
+According to Zyda and Lympouridis, the course was approved for Viterbi several years ago; however, it was never taught. This past year, both professors took the time to revive the course and submitted it again for the Spring 2018 semester. 
+“Before, it was [titled] ‘Immersive Environments,’” Zyda said. “We never had anyone to teach it and what happened was that it was in the catalogue all the way until June of 2014, right at the start of the latest VR craze, and the student department took it out of the catalogue.” 
+The course is split into two different parts. In addition to learning through lectures, there is a hands-on development section in which students will build projects related to augmented and virtual reality. The student works will be presented in class at the end of the year. 
+“We will create some team projects and the best case scenario is to have some that are focusing on AR, so working with Microsoft Hololens or any other AR technology,” Lympouridis said. “Others can focus on virtual reality and developing with Oculus. But the applications and projects are open to student ideas, so you can make a new game, we can do a social experience. It’s whatever the students’ interests are.”
+According to Lympouridis, developing immersive media has brought about significant inventions such as televisions, radios and cinema. With new and upcoming technologies, Lympouridis said that these developments can connect new cultures of stories and gaming.
+“[Media] will be embraced by every aspect of our lives, so being informed and being prepared on how to properly design and how to develop these applications in the following years can be helpful for someone’s career,” Lympouridis said. 
+Prior to working at USC, Zyda’s professional experiences were centered around computer science and engineering. Since 1973, Zyda, who had a career in computer graphics, has been heavily involved with STEM fields — he has consulted the White House Office of Science and Technology Policy, was the Founding Director of the Modeling, Virtual Environments and Simulation Institute for the Naval Postgraduate School and was a chair of the National Research Council Committee, which produced the study “Modeling and Simulation — Linking Entertainment and Defense.”
+Lympouridis received a Ph.D. in Whole Body Interactive Performance Systems, a subset of human computer interaction. With a mixed background in the fine arts, sound design and interactive media, Lympouridis became the creative director at the School of Cinematic Arts, founded Enosis VR and worked with Google last year to produce a “Bohemian Rhapsody” VR Experience.
+Zyda hopes that students will build a virtual environment that will help them get a job in the future. Through a hands-on experience and trial and error, he wants them to have produced something that is unique, interesting and personal. 
+“Virtual reality and augmented reality are the future,” Zyda said. “For now, we have iPhones, but eventually, we’re going to have technology like light-weight augmented reality glasses that do projections into our eyes and it’s going to change the world. That’s the future of computer.” 
+Extra en Español
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Donald Glover announced in June 2017 that his next album would be his last under his stage name, Childish Gambino. Photo from Wikimedia.
+Each year brings a new crop of artists, projects and expectations for the music industry, and if all indicators are true, 2018 will prove to be another prolific year for musicians and music fans alike. 
+2017 brought greater attention and acclaim to female creators and creators of color, and streaming’s popularity surge has given the indie community a significant boost in exposure. These trends are likely to continue in 2018, with several highly anticipated albums slated to make a big impact. Here are five upcoming projects to get excited about.
+Childish Gambino
+To say that Donald Glover has kept busy over the past few years would be a massive understatement. From producing and starring in his Emmy-winning FX show Atlanta, to landing critical roles as Simba in the upcoming The Lion King and Lando Calrissian in the upcoming Star Wars films, Glover’s acting career has blossomed at a blistering pace. Naturally, Glover has had less time to release music under his Childish Gambino moniker. But in a one-off show at New York’s Governor’s Ball Music Festival in June, he announced that his next album will be his last under his alter ego. If this announcement holds true, expect the workaholic entertainer to put forth an impressive effort in his final project as Childish Gambino.
+Glover’s most recent album, Awaken, My Love!, dropped in 2016. The album saw a departure from his experimental hip-hop style to a more funk-inspired, neo-soul sound, and earned him a Grammy nomination for Best Urban Contemporary Album. 
+Frank Ocean
+The anticipation Frank Ocean built for the follow-up to 2012’s widely acclaimed Channel Orange became a well-documented internet meme, going strong until Blonde and Endless were eventually released in 2016. Since then, a string of canceled festival appearances, in addition to several breathtaking performances following the release of these albums, has produced similar excitement for the indie R&B crooner’s next project. Ocean once promised to make five albums before the age of 30, and while Ocean celebrated his 30th birthday last year without releasing his fifth album, he revealed in a late-November Tumblr post that the project was finished. It would be reasonable to expect the project’s release in 2018.
+My Bloody Valentine
+My Bloody Valentine has remained one of the most prolific and forward-thinking rock bands of the last 25 years, due largely in part to its impressive and consistent musical output. The shoegaze trailblazers have not released a project since 2013’s critically acclaimed m b v, but frontman Kevin Shields said there is a “100 percent chance” that a new album is coming in 2018. The new project has been described as a psychedelic turn from the band’s last album, and should make waves when it is released.
+FKA twigs
+For the most part, artpop visionary FKA twigs has remained quiet about a full-length project following her monumental LP1 in 2014. Since then, however, she’s turned heads with a Matisse-inspired dress at the Met Gala, and released the critically acclaimed M3LL155X in 2015. After ending her highlypublicized relationship with actor Robert Pattinson, the singer has seemingly strayed from the public eye. For her fans, this hiatus is hopefully indicative of an artist hard at work in the studio, meaning 2018 could bring a second full-length album as well as a string of her acclaimed live performances to accompany it.
+Vampire Weekend
+Since 2013’s critically acclaimed Modern Vampires of the City, each member of Vampire Weekend has kept busy in his own right. Drummer Chris Tomson, bassist Chris Baio and producer Rostam Batmanglij have each released solo albums, while frontman Ezra Koenig has produced his own Netflix series Neo Yokio. Batmanglij’s departure from Vampire Weekend in 2016 left many fans uncertain of the band’s musical direction. While it has been confirmed that Batmanglij has contributed to several tracks on the band’s upcoming fourth LP, fans should expect some variation from its classical-influenced, indie pop sound. Koenig, the band’s primary songwriter, previously said that he was inspired by a performance from a country-pop star. No matter what direction Vampire Weekend takes on its latest album, expect Koenig to wear his influences and oddities on his sleeve.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+SOKFY, which stands for Sport of Kings, Forever Young, opened up its second store in USC Village on Jan. 2. Photo by Kitty Guo | Daily Trojan
+Nestled in the heart of USC Village, right next to Starbucks, is a surfer’s paradise. SOKFY, which stands for Sport of Kings, Forever Young, set up shop on Jan. 2 and aims to bring its easygoing, carefree lifestyle to the USC campus. 
+The brand was co-founded by three childhood friends: Casey Wheat, Ziggy Williams and Chris Moreno. They opened a flagship store located in Huntington Beach in 2014, selling casual clothing and surf gear that embodies the surfing lifestyle. SOKFY also formed an organized surfing league, which boasts club members from cities spanning the entire California coast. 
+“We also own and operate a surf contest called the West Coast Board Riders,” Moreno said. “We started club style surfing and it changed the face of competitive surfing in the United States. We have clubs competing from Santa Cruz, San Luis Obispo, Ventura, South Bay, Seal Beach, Huntington Beach, Laguna Beach, Newport [Beach], Dana Point, Oceanside, San Clemente and Carlsbad.” 
+When USC offered Moreno the opportunity to expand the brand and open up a second location, he jumped at the chance. 
+“USC came to us because they saw our store, and they pursued us,” Moreno said. “We actually have a handful of the guys from the USC surf team and surf club working here, and it seems like it’s going to be a good fit. A lot of people seem to like surfing up here at USC.” 
+Gabriel Riegner, a junior majoring in neuroscience, is a member of the surf club and works at the store. He felt that it was a perfect fit for his interests and commitments.
+“I’ve been looking for a job, and I have a passion for surfing,” Riegner said. “I try to surf as often as possible so this is a great way to continue the tradition while working.”
+Riegner began surfing when he came to school in California and fell in love with the sport. He was drawn to SOKFY because he identified with its values and lifestyle brand.
+“The carefree lifestyle is something that really resonates with me,” Riegner said. “The adventure of going surfing, traveling, looking for new spots and always being excited about new experiences.”
+Moreno hopes that the SOKFY space will generate more student interest in surfing and surf culture.
+“Our mission statement is ‘a highly charged, carefree lifestyle, a passion for surfing and the pursuit of happiness’,” Moreno said.
+The store is offering surf lessons that take place in Huntington Beach, open to rookie and veteran surfers alike.
+Cultural appropriation duuude!
+Extra en Español
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+This fall, a robot passed a class on the philosophy of love at Notre Dame de Namur University in Fremont, Calif. Known as Bina48, the humanoid artificial intelligence system enrolled in the section after expressing its own desire to attend college, an idea that was excitedly supported by both students and the course instructor. Bina48 — considered as the world’s most sentient robot — is the first socially adept AI to independently complete a university-level class. 
+Art by Deena Baum | Daily Trojan
+This is no small feat. Developers have made leaps and bounds in terms of recent AI innovations — household products like Amazon’s Alexa are just previews of what’s to come in the tech industry. And, while many are unsettled by the dangers of unchecked artificial intelligence, Bina48’s participation in class debates is one of the first real demonstrations of the fact that AI can help people beyond the realm of being a personal assistant; it can engage with people and, from a true outsider’s perspective, challenge their preconceived beliefs.
+In this regard, it would be foolish to overlook the potential benefits that such intelligence systems can bring to classrooms as well as people’s everyday lives. As centers for cultivating an innovative spirit, universities in particular should strongly consider incorporating AI into course curriculum — whether through theoretical approaches or direct participation. 
+Artificial intelligence provides students with a unique opportunity to analyze how the human mind formulates thoughts and ideas. While it may seem like a stretch to encourage the normalization of robot classmates, Bina48’s success at Notre Dame is indicative of how such technology can fit into higher education. For instance, in philosophical debates and discussions with Bina48, students were forced to explain one of
+the most complicated feelings a human can experience: love. Weighty discussions like these not only forced students to venture outside their own perspectives to define the “human” condition, but also reinforced integral concepts and frames of thought that the course was trying to emphasize.
+Of course, artificial intelligence does not have to come in the form of a humanoid college student to contribute to the class environment. Among many potential features, AI can help grade homework and tests, personalize educational software to meet students’ needs and devise plans for future course instruction.
+If anything, the concept of artificial intelligence provides universities with a compelling source of material for class curricula.
+As seen with Bina48, the myriad of potential debates on topics such as human emotion and existentialism are thought-provoking components of any philosophy, sociology or ethics course. Within the realm of STEM, the presence of artificial intelligence could be used in lessons regarding machinery learning, computer logic and algorithms. 
+In this regard, USC has already taken commendable steps to keep up with the times. For example, in the Viterbi School of Engineering’s computer science department, the course entitled “Introduction to Artificial Intelligence” is teaching students the construction and functionality of machines like Bina48. In the Annenberg School of Communication and Journalism, students can take a course entitled “Hands-on Disruption: Experimenting with Emerging Technology,” which explores how journalists can work with new intelligence systems to create timely and relevant stories.
+One such technological development being explored is “QuakeBot,” a tool of the Los Angeles Times that automatically sends reports of local earthquakes according to a predetermined formula. But however progressive this perspective may seem, instances such as Notre Dame’s philosophy course with Bina48 show that USC can, and should, incorporate artificial intelligence into more overlooked disciplines, such as the social sciences.
+For these applications to be successful, however, people must overcome their fear of technology. While the events in the science fiction anthology series “Black Mirror” are indeed possibilities, they are not necessarily realities. And although jokes on social media about the dangers of AI systems like Sophia the Robot may be amusing on the surface, they are indicative of a general reluctance to accept change. But once again, educators and students alike would be cheating themselves if they shied away from such a groundbreaking resource.
+As artificial intelligence continues to permeate discourse in science and politics, so will perceptions of its potential place in society. Will instructors be replaced by AI? On that note, will all jobs be replaced by machines? Only time will tell. For now, universities need to take full advantage of the potential benefits that such technology can bring to both intellectual and pre-professional development. After all, students are taught to be leaders of the future — they can’t be afraid of it. 
+What amazing writing!! This guy should be a journalist.
+Brilliant article, Ryan! Have a positive semester of learning!
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Last week, the Los Angeles Times reported that city lawmakers could soon be deciding on whether to allow nonprofits to be exempt from reporting their lobbying contributions in local government. Nonprofits often seem discouraged from getting involved with local government, fearing they are unable to compete with wealthier opponents like the billion-dollar Koch industry, but could play a crucial role in Los Angeles’ political landscape. 
+While the law may seem beneficial to the community on the surface, there is one key problem that needs to be considered: Not all nonprofits are created equal. The decision to allow exemptions for all nonprofits is inherently problematic because it fails to consider the difference between smaller organizations and those that act as large corporations.
+In fact, this law has the potential to alter how USC participates in the local political sphere. Considering USC’s status as a 501(c)3 registered nonprofit organization, the decision could impact what the University is required to disclose when it comes to lobbying. And while there are numerous benefits to the aforementioned exemptions, they also have the potential to confuse University policy on community matters.
+So far, the University has done well in this arena. The USC Office of Government Relations recently stated, “Because governmental decisions have the potential to significantly impact the University, USC frequently participates in the governmental process at the federal, state and local level.” 
+In the past, laws have required nonprofits to release information on conducted research. But the problem with this rule is that it limits organizations with smaller bandwidth and fewer resources, preventing them from completing even basic research on issues that are crucial to the organization. 
+There is, however, a legitimate justification for why several organizations have requested that the exemptions include all nonprofits: The law would allow them to function properly and achieve their goals without fear of unintended consequences, such as being vilified by opponents or losing donors because of their categorization as a lobbying group. 
+But because of the wide range of nonprofits that exist with great diversity in resources, operation, distribution of funds and other factors, an overarching protection for all 501(c)3 registered organizations would not provide the impact that this exemption intends to engender. This blanket exemption would have some positive impact on smaller organizations — but overall, it would primarily prevent larger organizations from being held accountable for their interactions with the government. 
+Considering the obstacles small nonprofits face — such as  lack of resources and political backing — this law would give large nonprofits an unfair advantage over corporations or for-profit organizations with similar intentions. 
+A 501(c)3 stamp on an organization does not guarantee that all of its lobbying efforts and funding are going directly to public goods. Large nonprofit organizations can get caught up in bureaucracy and politics just as corporations do. If they have the same resources as corporations, they should be held to the same standards. 
+Instead of an overarching 501c3 protection, a more nuanced solution must be considered. Instating a higher lobbying limit before allowing exemption for nonprofits is one way to differentiate between wealthy nonprofits and smaller ones. As mentioned by the Los Angeles commission, another recommendation is to differentiate nonprofits not by their lobbying contributions, but rather by their annual income — doing so would ensure that even smaller nonprofits would be able to compete with larger organizations without having to shoulder the burden of added regulations under current laws. 
+Los Angeles has the ability to set a precedent for the way the public holds corporations and government officials accountable for upholding their political interests — and, as mentioned previously, such decisions have the potential to impact USC’s political standing in the community. Therefore, lawmakers must consider a multi-faceted approach to this issue to ensure transparency.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+On Tuesday night, the Undergraduate Student Government Senate voted unanimously in favor of a resolution requesting that Provost Michael Quick respect the Norman Topping Student Aid Fund’s individual autonomy.
+Sabrina Enriquez, a senior studying mathematics, urged the USG Senate to take quick action and vote on her resolution immediately rather than agreeing to wait a week before voting, as is most common. Photo by Emily Smith | Daily Trojan
+The resolution was presented by senior mathematics major Sabrina Enriquez, a Topping scholar who recently penned a letter to Quick opposing the changes to Topping.
+The USG senate suspended Robert’s rules, allowing it to deviate from standard parliamentary procedures. They used this suspension in order to pass this resolution the same day it was introduced. This is the first time the Senate has done this in the 2017-2018 academic year.
+The resolution asked that Quick reverse the dismissal of the Topping Fund’s director Christina Yokoyama. It also asked that Quick respect the fund’s guidelines and consult the Topping Fund’s governing board before making any decisions regarding the spending of the fund. 
+Quick announced on Friday that structural modifications were going to be made to the Topping Fund in order to expand the number of students the scholarship program can serve. 
+However, the change resulted in the removal of the program director position, held by Yokoyama for the past 11 years. This decision was received with criticism from many Topping scholars, alumni and the governing board. 
+Enriquez voiced indignation regarding the recent moves by the administration at the USG meeting and said scholars were neither involved in nor notified of this decision process. 
+She said scholars were unclear on what Quick’s views on the changes were since decisions were made “behind closed doors.”
+“No students or representatives of the program were consulted or warned that the director of the program would be eliminated,” Enriquez wrote in the resolution.
+Senator Preston Fregia said that he feared passing the resolution might only be symbolic and lack tangible results. 
+While supporting the resolution, he said that he thinks the administration will pursue its goals, irrespective of what USG says.
+“This University does not have the greatest track record with doing anything for minority students or respecting their board of governors or their scholarships at all,” Fregia said. “They make unilateral decisions all the time and they’ll find another convenient excuse like they always do.”
+Enriquez acknowledged these concerns, saying that the resolution may have little concrete impact. 
+However, she argued that it is a step toward greater administrative transparency and accountability.
+“All this resolution says is to please respect our guidelines that have always been there and have always been respected,” Enriquez said. “In a sense, this resolution is symbolic. In another sense, when it passes, we expect the provost to respond.”
+The USG resolution took place following a meeting held Tuesday morning in which several Topping scholars, alumni and faculty members voiced their opposition to the restructuring of the scholarship fund to Andrea Hodge, the vice provost of undergraduate programs. 
+Enriquez said Hodge made it evident in the meeting that the changes — including the elimination of Yokoyama’s position — are rooted in an attempt to expand the number of Topping scholarships available. 
+Following the meeting, Hodge penned a letter to Topping scholars calling the meeting “productive and informative,” and further explained the Provost’s Office decision. Hodge’s letter to scholars was acquired by the Daily Trojan.
+I want to reiterate that we need and welcome the help and support of the board – and current students – to move forward,” she wrote. “In restructuring, we are seeking to ensure that Topping will always be more than a scholarship. I hope that you will join with me in building on the legacy of the Topping Scholarship vision and creating a more accessible program for our students.”
+In an interview with the Daily Trojan, Hodge explained that she had consulted with the USC Office of Admission and the USC Financial Aid Office.
+She also said that the Graduate Student Government and USG were consulted. However, USG President Austin Dunn refuted this in an email sent to the Daily Trojan, stating that neither USG nor GSG collaborated with administration in the decision process.
+“I cannot speak on behalf of any Topping scholars as I, myself, am not part of the program,” Dunn said in the email. “Therefore, USG has never and will never speak on behalf of the Topping scholars without meeting with them first.”
+On Tuesday night, the Topping Fund hosted a “Call to Action” meeting at the USC Radisson Ballroom to further discuss the changes to the program. More than 50 people attended the meeting in an effort to show their support for the Topping Fund.
+Topping Governing Board Chair Sierra Williams addressed the support Yokoyama has received after the recent announcement. 
+“The response of love and support from you all has been overwhelming and invigorating,” Williams said. “We are grateful that the rain didn’t stop you all from being here.”
+Enriquez joined Williams on stage, detailing the meeting she had with Hodge earlier that day, expressing her disappointment with Hodge’s strong stance on the decision. Yokoyama and other faculty members also spoke at the meeting.
+Members of the Topping Fund said they are working on holding  a rally and an online petition. The rally’s date has yet to be determined.
+Correction: An earlier version of this article reported that Enriquez met with Michael Quick. Enriquez met with Andrea Hodge. The Daily Trojan regrets this error. 
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Scientific concepts govern the universe, but according to USC professor Clifford Johnson, sometimes they can be difficult to understand — not because they are hard, but because people are wrongfully told that they cannot master them, he said. 
+Clifford Johnson, an astronomy and physics professor, combines pop culture with astronomy in his graphic novel. Photo from the MIT Press.
+In November 2017, Johnson published the graphic novel Dialogues: Conversations About the Nature of the Universe. With visuals and a conversation-based approach, Johnson hopes to expose the general public to basic scientific principles and enforce the idea that anyone can engage with science.
+According to Johnson, the media heavily espouses the idea that it is difficult for the general public to understand scientific principles. Therefore, instead of making a textbook aimed at the scientific community, Johnson set out to make a graphic novel that could creatively explain science for everyone to understand. 
+“People shut down,” Johnson said. “People stop keeping themselves open to appreciating scientific ideas because they’re already told that it’s going to be hard.” 
+Through the visual medium of the graphic novel, Johnson attempted to help people outside of the community better understand science. The novel takes a conversational approach to breaking down complex concepts and relaying them in a way that humanizes scientists. 
+“It allowed me to show that these people are out there in the world, as opposed to just being in the lab,” Johnson said.
+To give the graphic novel authenticity, Johnson learned to draw at a level where he could illustrate the work himself. Since such a book had not been published before, Johnson felt that the only way to find out if completing this project was possible was to finish it himself.
+“There certainly has been a push toward more nonfiction comics in recent years, including comics by scientists,” said USC professor Henry Jenkins, who conducts research on comics and has worked with Johnson through the Los Angeles Institute for the Humanities. “But I don’t know of any case where the scientist is also the cartoonist. Where a scientist on Dr. Johnson’s level translated his own ideas directly in the comics as a form.”
+Being both the illustrator and writer of his book gave Johnson more control over how the scientific concepts are presented. In his mind, this makes the ideas more accurate and reduces the risk of translation errors. 
+“The science is the core of the book,” Johnson said. “It’s about ideas, and so you’re seeing those ideas being discussed.” 
+At USC, Johnson also founded the USC Science Film Competition during the 2011-2012 academic year to get more people involved with science. An annual event, the contest has teams of USC students from varying disciplines make a video explaining a scientific concept. This way, they can develop the skills needed to break down science in a more engaging format. 
+The competition also serves to establish connections between students who will go on to be scientists or those who will have roles in the media. Johnson believes some of the problems in media representation of science stem from a lack of exchange between the science and media communities. Bridging the gap between the two fields can improve the way science is portrayed in the future, he said, thus inspiring more people to get involved in the field.
+“The people who are going to be in the media are the people who need to know this, as well as the people who are creating the scientific ideas and making discoveries,” Johnson said. “They also need to learn how to communicate.”
+Aside from working on his novel, Johnson also served as a science adviser for books, television shows and films like Thor: Ragnarok, Agent Carter and Genius. Most of Johnson’s advice is aimed at creating fantasy worlds that run with scientific logic and consistency so  their overall story arcs make more sense and remain entertaining for all audiences.
+According to Johnson, removing scientists from the context of a lab or classroom setting can engage more kinds of people and create a more informed world. Being given examples of science functioning in different settings can help audiences feel less intimidated and want to try it out for themselves.
+“Right now there are very narrow perceptions as to who does science and who has access to science and who engages with science,” Johnson said. “And those perceptions are wrong.”
+Extra en Español
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+The Daily Trojan features Classified advertising in each day’s edition.  Here you can read, search, and even print out each day’s edition of the Classifieds.
+Click the icon to download the PDF of today’s Classifieds:
+
+To place an ad, please contact an ad representative:
+(213) 740-2707
+USC Student Publications Student Union – Room 400
+Los Angeles, CA 90089-0895
+http://dailytrojan.com/ads
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+President of Russia Vladimir Putin and Alekseyevna Lvova-Belova, the presidential commissioner for children’s rights in Russia, allegedly ordered the seizure Ukrainian children from border cities.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+USC made it to the regional round of last year’s NCAA Tournament, but now face have the challenge of adjusting to a new coach. Photo by Alexandra Ting | Daily Trojan
+The USC  women’s volleyball team named Brent Crouch as the team’s next head coach on Tuesday.
+Crouch formerly served as head coach for the University of Portland’s women’s volleyball team since 2014.
+Mick Haley, who served 17 years as the head coach of the Trojans, was let go a week after the Women of Troy were narrowly defeated in a five-set contest against No. 3 Florida Gators in the regional title match. 
+Haley led the Trojans to 17 consecutive appearances in the NCAA tournament and compiled an overall record of 435-119, including a 25-10 mark this past year. 
+Haley led the Trojans to two NCAA championships in 2002 and 2003 and won AVCA Coach of the Year in 2003. 
+Crouch, meanwhile, served as the head coach of the Portland Pilots for four seasons. He led the team to a resurgent four years, following a winless season. The Trojans will be counting on Crouch to turn the Trojans back into championship contenders as well.
+Crouch took over Portland in 2014 following a 0-27 season in 2013. He led the team to a 7-23 record in his debut season and to a 16-15 and 17-13 record the two next seasons.
+This last year, Crouch led the Pilots to a 15-15 record as the team suffered numerous injuries that dogged the team throughout the season. His overall record with Portland stands at 55-66. 
+Prior to his stint in Portland, Crouch also served as an assistant coach for the St. Mary Gaels women’s volleyball and as a head coach for the Gaels’ beach volleyball squad. Crouch also has experience working with the U.S. Volleyball program and the U.S. Women’s National Volleyball team.
+USC hopes Crouch can continue Haley’s run of success as he inherits a talented team with All-American outside hitter Khalia Lanier, and four starters returning for the 2018 season. 
+Wow, what a hire. Last three years was 48 – 43 in the WCC conf. Another national search for a top Coach
+produced this hire. The money is never there to pay for excellence. Haley had won a national title at Texas
+to put on his resume at least. The athletic dept. is inept once again working with a research firm if that was
+the case. The new women Tennis Coach won many national titles even though in Div. 3 I believe giving her
+a lot more credibility. Have heard that the incoming Volleyball recruiting class was highly rated which will
+hopefully stay intact.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+President of Russia Vladimir Putin and Alekseyevna Lvova-Belova, the presidential commissioner for children’s rights in Russia, allegedly ordered the seizure Ukrainian children from border cities.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:

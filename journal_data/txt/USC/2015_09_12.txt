@@ -1,0 +1,98 @@
+Sari Castro | Daily Trojan
+Step Two: The Cooking Process
+One of the most annoying things of having to cook is figuring out what to cook. Whether you’re an experienced cook or a beginner, this is something that is always a hassle.
+To begin with, here are some terms you should learn: casseroles, one-pot meals and freezer meals. Type them in Google or Pinterest, and various recipes will pop up. To make your search easier, here are several helpful links that will supply you with amazing cooking ideas. 
+Go ahead and check out the links. Most of them classify food by breakfast, lunch and dinner. Try to dedicate some time during the week or over the weekend to schedule your foods for the week; don’t underestimate the power or being organized! This way, if you know you’re going to cook meat the next day, take the food out of the freezer and into the fridge to defrost the night before. If you know you want to have a certain meal for the next day’s lunch, then make it at night and prepare your airtight container.
+QUICK TIPS
+Breakfast – I have 8 a.m. class Tuesdays and Thursdays. Since it’s so early and I barely have time to get ready and eat (learned from experience), I prepare overnight oats Monday and Wednesday night and take it with me the next morning. They are super simple, delicious and nutritious. Plus, you can add whatever you want. If you want my recipe, check out my blog at https://bakeandread.wordpress.com/about/blog-entries/overnight-oatmeal/.
+Lunch – If you can’t go back home for lunch, bring your container and heat it up. There’s a microwave in the food court of the Ronald Tutor Campus Center.
+Dinner – I know it’s hard and most of us make this our biggest meal of the day, but try your best to eat something light as you won’t be able to burn those calories while sleeping!
+One of the most popular dishes among college students is pasta, and I’m no exception.Here’s a super easy recipe for lasagna, my all-time favorite dish. If you read my previous post, “Back to Basics,” you’ll remember how I said that I don’t eat steak unless it’s cooked in a certain way. But even though I don’t really eat it, I do eat burgers and you know what regular burgers are made out of? Ground beef. And do you know what lasagna is made out of? That’s right, whatever on earth you want it to make it out of. But this one has ground beef.
+INGREDIENTS
+PROCESS
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+What a week. Students are going to Leavey more to avoid the insufferable heat wave rather than study, the Southeastern Conference has a record 10 teams in the Associated Press Top 25 Poll and the Pac-12 overall had arguably the biggest opening week flop in recent memory. But fear not, because the Trojans are alive and kicking, and we’re back with more pick’em predictions!
+Now I can tell your burning question right now is this: “How did the model do last week?” Well, thanks for asking —we had an 80 percent success rate last week! As good as that is, here at the Daily Trojan we like to keep things exciting, and we’ve been working on some changes to our model so we don’t have to include a pesky caveats section.
+Updates to the Model:
+Now that play is underway, we finally have data from this season we can incorporate into our model. But before we get ahead of ourselves, we’re still including the 2014 data in our model. Why? Well, throwing the 2014 data out in favor of Week 1’s data is foolish from a statistical standpoint because the small sample size of Week 1’s data would violate a basic assumption of our regression model. Thus, whether it is because they played against a Division-1AA team or because inclement weather canceled their game (or both — yeah, LSU we’re talking about you) some Football Bowl Subdivision (FBS) teams still do not have 2015 data for games against other FBS teams. For these teams we will continue to use 2014 data from games against other FBS teams because the talent difference between FBS and Football Championship Subdivision teams can result in inflated observations that would skew the model, except for the rather rare occasion (c’mon now, Washington State).
+While the new data is exciting, what we’re really hyped about is our strength of schedule measure. We’re aggregating the weekly Football Power Index rankings of the opposing teams each team has played to create a variable that accounts for the level of difficulty of each team’s past games. After all, there is a big difference between scoring 40 points or earning 500 yards on offense against an unranked team and doing the same against a top 25 team.
+One final cool thing that we added in is the spread for each game. For the less betting inclined, the spread is an estimate of the point gap between two teams in the final result. For example, the spread for the USC-Idaho game this week is -21. This can be interpreted as saying that our model predicts USC to win by three touchdowns over Idaho (not bad, right?).
+With all that methodological mumbo-jumbo out of the way, let’s take a look at the matchups this week.
+
+
+
+Idaho at No. 8 USC (Spread: -21)
+If you’re a good Trojan fan, I suspect you already took a look at the odds for this week’s game. If you haven’t, look now. Our model has USC as a 21-point favorite, and that’s a conservative estimate compared to Vegas odds, which have us as a 43-point favorite.
+Regardless, this game will be a good tune-up match before we begin conference play. Though as any Trojan fan who went through last season knows, overconfidence can come back to haunt you.
+Data provided by cfbstats.com
+Team logos courtesy of sportslogos.net
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+President of Russia Vladimir Putin and Alekseyevna Lvova-Belova, the presidential commissioner for children’s rights in Russia, allegedly ordered the seizure Ukrainian children from border cities.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
+Jackie Mayuga | Daily Trojan
+Like most collegiates, I had the intention of being productive and getting work done over the three-day weekend. But again, like most collegiates, I didn’t do anything to contribute to society and instead spent my time ignoring my responsibilities. So, upon my return to the City of Angels for school, I had to cram the workload of a weekend into a five-hour window.
+The obvious solution? Work in a café. The unnecessary condition? Work in a café that I’ve never been to, add it to my ever-growing list of Coffee Tour locations and call it “research.” Always a good idea, right?
+After spending way too much time cold-calling cafes about their Labor Day hours, my apartment mate and I settled on the humorously named “Bricks & Scones” in Larchmont because it was the only one open until 9 p.m.
+As far as transportation goes, the drive out and the parking situation were surprisingly OK and — dare I say it — almost pleasant (key word: almost. I shake my fist at the confusing parking signs of L.A.). Spacewise, Bricks & Scones is a two-story café nestled in a larger building that houses other offices. From the outside, it resembles a classic L.A. gem — garden lights, potted plants and stereotypical wrought iron tables that are way too small. If you’re into the whole Scandinavian design shebang with clean corners and smooth surfaces, Bricks & Scones is definitely not for you. It boasts a charming wooden interior lined with mismatched chairs (if you can find one), an assortment of old school board games to borrow and a refreshing flood of outlets upon outlets. Neither my heart nor my laptop could have been more pleased.
+With the abundance of outlets in mind, you could probably guess that Brick & Scones is a great study spot. In fact, everyone I saw was working — and on Labor Day, mind you. On my left, a semi-pretentious screenwriter was discussing her next adaptation; on my right, a girl doing the exact same thing as me and scrambling to get her work done; and behind me, an incredibly talented cartoonist sketching storyboards to his heart’s content. I think I was able to absorb everyone’s stellar work ethic by osmosis or something because I did non-stop work for hours. Woo!
+Food and beverage-wise, as I’m sure you all care about the most, was slightly above average, but definitely nothing to write home about. They have an enormously expansive menu, but because I’m super creative, I ordered a vanilla latte. It was definitely sweeter than most I’ve had in the area, but it wasn’t bad. They take requests for latte art too, if that’s your thing.
+The Apartment Mate and I requested flowers, and the tulips we were served were proof that their barista had a pretty solid amount of experience under his belt.
+The only caveat to this cute hideout is that they are not cheap. I mean, I get it ­­— driving out to buy a $5 latte every week probably isn’t the best idea for my wallet. Brick & Scones might not break my bones, but they sure will hurt my bank account. And yes, I have been trying to get that phrase somewhere in this article since I started writing.
+All in all, Bricks & Scones is a great place to work and grab a quick snack if you’re feelin’ bougie. You can find it at 403 N. Larchmont Blvd, Los Angeles, CA 90004.
+Jackie Mayuga is a junior majoring in applied and computational mathematics. Her blog column, #JackieLikesJava, runs every Saturday.
+Extra en Español
+The Tree Yoga Cooperative offers peace and healing for a diverse range of customers.
+In a joint media briefing, Andrew Guzman discussed his vision and the importance of continuing diversity initiatives.
+Braveband alerts emergency contacts of an user’s location when they are in danger.
+About 5% of the graduating undergraduate class in 2021 were humanities majors.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.
+If you do not want that we track your visit to our site you can disable tracking in your browser here:
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Google Map Settings:
+Google reCaptcha Settings:
+Vimeo and Youtube video embeds:
+The following cookies are also needed - You can choose if you want to allow them:
