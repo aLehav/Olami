@@ -1,6 +1,12 @@
 def no_query(text):
     return text
 
+def count_query(count_string):
+    return lambda text: text.count(count_string)
+
+def hillel_counter(text):
+    return count_query("Hillel")(text)
+
 def mention_tracker(text, pipeline, query):
     processed_text = text
     for step in pipeline:
