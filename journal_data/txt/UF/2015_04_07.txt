@@ -1,0 +1,1807 @@
+We Inform. You Decide. www.alligator.org
+Not officially associated with the University of Florida Published by Campus Communications, Inc. of Gainesville, FloridaVOLUME 109 ISSUE 133 TUESDAY, APRIL 7, 2015
+By Cresonia Hsieh
+Alligator Contributing Writer
+Marvin Andujar and Chris Craw-
+ford have been inseparable for about 
+three years and can practically read each other’s minds. Now they have a drone that can read theirs.
+Andujar and Crawford, both UF 
+human-centered computing third-year doctoral students, programmed a brain-computer in-terface software for a mind-controlled drone.
+The 25-year-olds 
+transferred from Clemson University together, in-terned at Intel together, roomed 
+together and now share an ofﬁ  ce 
+together.
+Their drone responds to people 
+when they wear an Emotiv Systems EPOC headset, a device that trans-lates electrical signals from the brain into code the drone can understand.
+The drone responds to any ba-
+sic directional command, Crawford said. However, ﬂ  ying is currently limited to forward and stopping mo-tions because it needs additional hu-man training and software develop-
+ment. Users typically need three to 
+four minutes of brain training to ﬂ  y the drone.
+After more than two years of re-
+searching, building and developing the drone, both students said they believe the most difﬁ  cult part wasn’t creating the drone. It was communi-
+cating with people.
+“One of the most 
+restraining parts is to convince people that this actually works —  that this is the future and that this is very 
+useful, too,” Andujar said.
+Andujar said BCI technology, a 
+realm of study with fewer than 100 
+American researchers, has practical 
+applications in the medical ﬁ  eld.
+While it can be helpful to those 
+with physical disabilities, BCI tech-nology can also serve able-bodied people, Andujar said. Robots can be used in the future for time- and 
+Running back seeks fresh start
+After being a backup for two years, Kelvin T ay-
+lor is expected to carry the load at running back next season, pg 13.
+Strawberry season delayed by cold
+Local grower says berries are peaking now, pg 3.
+UF Wetlands Club cypress trees selling fast
+It even has buyers from T exas, pg 9.UF student memorialized with 
+scholarship endowment
+It will be awarded to juniors and seniors
+studying health disparities, pg 5.
+Hannah Morse / Alligator Staff 
+From left: Ellen Allen, 68, Shirley Roseman, 25, and Krys Davis, 28, hold signs outside City Hall on Mon-
+day morning protesting HB 583, which would require that single-sex public bathrooms only be used by persons of the legal sex the facility is intended for. “Everyone deserves to live their lives in a positive, equal way, ” Allen said.
+By Ariana Figueroa
+Alligator Staff Writer
+aﬁ  gueroa@alligator.org
+On Monday morning, a group 
+of about 15 people called for 
+Gainesville’s mayor and city com-missioner to take a stand against a proposed bill that would affect the transgender community.
+At City Hall, the 
+groups Trans Com-munity and Allies of Gainesville held a press conference to 
+ask Mayor Ed Braddy 
+and the commission to oppose House Bill 583, which would force transgender in-dividuals to use public bathrooms, dressing rooms, ﬁ  tting rooms and showers based on their legal sex or be punished with jail 
+time and a ﬁ  ne.
+Signs that read “We just need 
+2 pee” and “Flush HB 583” were 
+held by supporters.
+Harmony Cole, a 25-year-old 
+transgender woman who lead the rally, said the bill discriminates against transgender people. She said transgender people are more susceptible to harassment in pri-vate areas such as bathrooms.
+Cole said she has experienced 
+difﬁ  culties going in bathrooms of 
+her assigned sex.
+“I feel there’s great discomfort 
+by crouching over and hiding my 
+breasts,” she said.
+Zot Lynn Szurgot, a transgen-
+der woman, said the bill is cruel and inhumane.
+“To be singled out 
+and isolated is hard on 
+transgender folks,” she 
+said.
+The group said they 
+have called Braddy about seven times and left ﬁ  ve voicemails try-ing to set up appoint-ments to discuss the issue.
+If the bill is approved, violators 
+could face up to 60 days in jail and a $500 ﬁ  ne.
+Cole said she wasn’t able to 
+talk with the mayor or city com-missioners, but she was able to make an appointment with Brad-dy and with City Manager Russ Blackburn.
+She said she plans to ask the 
+mayor to put the issue on the agenda for the commission’s meet-ing April 16.GNV groups gather to protest trans bathroom bill
+UF students program software for mind-controlled drone
+SEE DRONE,  PAGE 4
+Cresoniah Hsieh / Alligator 
+Marvin Andujar, a 25-year-old UF 
+human-centered computing doctoral student, poses for a photo with a mind-controlled drone that he and his partner, Chris Crawford, programmed.STATE
+NEWS
+CAMPUSSubscription Rate: Full Year (All Semesters)  $100
+The Alligator  ofﬁ  ces are located at 1105 W. University Ave. Classiﬁ  ed advertising can be placed 
+at that location from 8 a.m. to 4 p.m. Monday through Friday, except for holidays. © Copyright 
+2005. All rights reserved. No portion of The Alligator  may be reproduced in any means without 
+the written consent of an ofﬁ  cer of Campus Communications Inc.The Independent Florida Alligator  is a student newspaper serving the University of Florida, pub-
+lished by a nonproﬁ  t 501 (c)(3) educational organization, Campus Communications Inc., P .O. 
+Box 14257, Gainesville, Florida, 32604-2257. The Alligator  is published Monday through Friday 
+mornings, except during holidays and exam periods. During UF summer academic terms The Al-
+ligator  is published Tuesdays and Thursdays.
+The Alligator is a member of the Newspaper Association of America, National Newspaper As-
+sociation, Florida Press Association and Southern University Newspapers.Not ofﬁ  cially associated with the University of Florida
+Published by Campus Communications Inc., of Gainesville, FloridaISSN 0889-2423 VOLUME 109 ISSUE 133
+Have an event planned?
+Add it to  the  alligator ’s 
+online calendar:
+alligator.org/calendar2   ALLIGATOR   TUESDAY, APRIL 7, 2015
+NEWSROOM
+352-376-4458   Fax: 352-376-4467
+ Editor Kathryn Varn, kvarn@alligator.org
+ Managing Editor / Print Kristan Wiggins, 
+  kwiggins@alligator.org    
+ Managing Editor / Online Alex Harris, aharris@alligator.org
+ Metro Editor Melissa Mihm, mmihm@alligator.org
+ University Editor Alyssa Fisher, aﬁ  sher@alligator.org
+ Freelance Editor Emily Cardinali, 
+  freelance@alligator.org
+ Opinions Editor  Alec Carver, opinions@alligator.org
+ Sports Editor Jordan McPherson,    
+  jmcpherson@alligator.org
+ Assistant Sports Editor  Graham Hall, ghall@alligator.org
+ alligatorSports.org Editor Ian Cohen, icohen@alligator.org   
+ Editorial Board Alec Carver, Alex Harris,    
+  Kathryn Varn, Kristan Wiggins
+ Photo Editor Andres Leiva, photo@alligator.org
+ the Avenue Editor Ellen Villafuerte, 
+  emichelle@alligator.org
+ Blogs Editor Lawrence Chan, lchan@alligator.org  
+ Copy Desk Chiefs Mary Grace Henley, Christine Preston
+ Copy Editors Kelsey Bona, Alex Fernandez, Kortney   
+  Sweeney, T aylor Bello, Kathy Pierre,   
+  Melissa Smith, Logan Ladnyk,    
+  Shari Linn, Kendall Prior     
+    
+DISPLAY ADVERTISING
+352-376-4482   800-257-4341   Fax: 352-376-4556
+ Advertising Director Shaun O’Connor, 
+soconnor@alligator.org
+Advertising Retail Manager Michael Fyalka, 
+advertising@alligator.org
+Advertising Ofﬁ  ce Manager Cheryl del Rosario, 
+cdelrosario@alligator.org
+ Intern Coordinator Jordan Thurn
+Sales Representatives Elena Chow, Amanda Churchill, 
+  Bailey Gaul, Eva Sailly, Gabriel Skura,   
+  Jessica Samuelson, Jordan Thurn,   
+  T ori Wienke
+Advertising Clerks Ian Shuker, Blair Smith,    
+  Haylee Tuason
+CLASSIFIED ADVERTISING
+352-373-FIND   Fax: 352-376-3015
+Classiﬁ  ed Advertising Manager Ellen Light, ellight@alligator.org  
+BUSINESS
+352-376-4446   Fax: 352-376-4556
+ Comptroller Delia Kradolfer, 
+  dkradolfer@alligator.org
+ Bookkeeper Cheryl del Rosario, 
+  cdelrosario@alligator.org
+ADMINISTRATION
+352-376-4446   Fax: 352-376-4556
+ General Manager Patricia Carey, tcarey@alligator.org
+Assistant General Manager Shaun O’Connor,
+soconnor@alligator.org
+Administrative Manager Tiffany Lee, tlee@alligator.org
+Administrative Assistant Lenora McGowan,
+  lmcgowan@alligator.org
+President Emeritus C.E. Barber, cebarber@alligator.org
+SYSTEMS
+ IT System Engineer  Kevin Hart
+PRODUCTION
+ Production Manager Natalie T eer, nteer@alligator.org 
+ Assistant Production Manager Evan Walker, ewalker@alligator.org
+ Advertising Production Staff Evin Ershock, Fernanda Martinez,   
+  T akashi Wickes
+Editorial Production Staff Shawn Janetzke, Rebecca Kravetz,   
+  Bakr SaliqLocal Events / News in BriefT oday’s Weather
+AMNOONPM
+HIGH  86° LOW  64°
+The Alligator strives to be accurate 
+and clear in its news reports and editorials. If you ﬁ  nd an error, please call our 
+newsroom at 352-376-4458 
+or email editor@alligator.org. WHAT’S HAPPENING?
+Hippodrome Cinema presents ‘A 
+Year in Champagne’ as next 
+Cinema Lounge filmThe Hippodrome Cinema’s next Cinema Lounge presents “A Year 
+in Champagne” tonight at 7 p.m. 
+Journey through the vineyards of the French Champagne region and explore six Champagne mak-ers with wine importer Martine Saunier. Free champagne will also be served for those 21 and older courtesy of Dorn’s Liquors. Admission is $10. The 
+Hippodrome Cinema is located 
+inside the Hippodrome State Theatre at 25 SE Second Place. For a complete listing of films and additional showtimes, please visit thehipp.org.
+Edible Book Contest
+The George A. Smathers Libraries’ 
+annual Edible Book Contest will 
+take place today from 11 a.m. to noon in front of Library West. Prizes are awarded in five cat-egories by a panel of judges, and the public is invited to vote for the People’s Choice Award. Winners will be announced at 12:15 p.m., and entrants do not 
+have to be present to win. Free 
+cake is served to everyone. UF students, faculty, staff and com-munity members are invited to submit an entry. The only rules are that entries must be edible and somehow related to a book. For more information, see uflib.ufl.edu/ebc.
+Second annual Three-Minute 
+Thesis competitionThe UF Graduate School and the Graduate Student Advisory Council are excited to an-nounce the second annual UF Three-Minute Thesis Finals Competition, which will take 
+place today at 2 p.m. in the Reitz 
+Union Auditorium. Ten UF final-ists from across multiple disci-plines will explain their research in three minutes or fewer with one static PowerPoint slide. The judges will award a first- and second-place prize, and attendees get to vote for their favorite in the 
+People’s Choice Award. 
+Sacred Intimacy, Sacred Sexuality 
+Join David Deida, UF alum-nus,  best-selling author and renowned workshop leader, for a free, interactive presen-tation today at 7 p.m. at the Health Profession, Nursing and Pharmacy Building Auditorium. Deida’s insightful and pro-vocative teachings continue to revolutionize the way men and women grow spiritually and deepen their sexual experienc-es. For more information about Deida, go to www.deida.info or call 352 -374-4478.
+Got something going on?
+Want to see it in this space? 
+Send an email with “What’s 
+Happening” in the subject line 
+to kwiggins@alligator.org. To ensure publication in the next day’s newspaper, please submit the event before 5 p.m. Please model your submissions after above events, and keep them to 150 words or fewer. Improperly formatted “What’s Happening” 
+submissions may not appear in 
+the paper. Press releases will not 
+appear in the paper.
+CORRECTION
+A story published Monday under 
+the headline "UF-based non-prof-it awards first scholarship to stu-dent with MS," the Alligator in-
+correctly stated the organization's 
+benefit concert is Thursday. The 
+date of the concert is actually April 16.
+TUESDAY, APRIL 7, 2015   ALLIGATOR   3
+Aaron Albright / Alligator 
+Abby Kirksy, 2, picks strawberries for the ﬁ  rst time with her mother, Melissa Kirksy, on Brown’s Farm 
+in Hawthorne on Wednesday. Kirksy, from Starke, said it was their ﬁ  rst time on the farm.
+By Aaron Albright
+Alligator Contributing Writer
+For one Florida farmer, this 
+year’s strawberry season will come 
+a little later than expected.
+At Brown’s Farm in Orange 
+Heights, strawberry season usually 
+begins around October or Novem-
+ber and peaks around late March to early April, said owner Roy Brown. After a colder-than-usual start to the year, the peak season has been slightly delayed.
+Now, Brown said he expects 
+most of his crop to be ripe around mid-April. Last year, he said the 
+berries peaked in March.
+“We had a very good crop last 
+year,” he said.
+However, since not every berry 
+ripens at the same time, it’s difﬁ  -
+cult to measure a speciﬁ  c amount, he said.
+But that doesn’t mean the ber-
+ries aren’t ready to be picked.
+Brown’s Farm, located at 18120 
+State Road 26, opened up its rough-ly 500-acre strawberry ﬁ  eld for picking March 14, where anyone 
+can pick the berries for $1.50 per 
+pound.
+Brown said when he was grow-
+ing up, Bradford and Alachua County were the main strawberry-growing counties in Florida. But a few hard freezes over the years have resulted in most of the indus-try moving south to Plant City.
+This makes selling to local gro-
+cery stores more difﬁ  cult, he said, as there is more competition from Plant City and California, where the strawberries peak much soon-er due to the consistently warmer weather.Ward’s Supermarket buys 
+its strawberries from farmers in Gainesville and Plant City, said  Produce Manager Brooke Ward. Ward’s typically buys from Brown’s farm, but the delay in the season has Ward’s buying straw-
+berries from other farmers.
+Brown said he grows two vari-
+eties of California-bred strawber-
+ries: Camarosa and Benicia, but next season he plans to grow a new kind of strawberry called the “Florida Sensation,” which was de-veloped by UF and introduced to Florida growers last year.
+Overall, Brown said he ﬁ  nds the 
+newest developments in strawber-ry varieties to be less ﬂ  avorful than they used to be, though he said they are certainly sweeter.
+“The redder the better,” he said, 
+smiling.Strawberry season delayed by cold
+Gainesville Throwbacks
+April 9, 1968:  
+Forty-seven years ago and two days before a sched-
+uled concert by the Beach Boys, tensions were high in 
+Gainesville following the assassination of Dr. Martin Luther King Jr. four days earlier. Police responded to reports of broken windows and gunshots; UF students and a professor were arrested in a sit-in downtown, and an 11 p.m. curfew was mandated.
+April 9, 1983: A world record is shattered as the American Build-
+ers Institute and a team of 300 workers build a four-bedroom, two-bathroom house in 11 hours and 11 minutes in Gainesville. Construction of the house at 7220 SW 18th Place started at 7 a.m. with the founda-tion laid an hour later and walls up by mid-afternoon. The entire 1,100 square-foot building was ﬁ  nished by 6:11 p.m. that same day.
+April 11, 1985: 
+Thirty years ago Saturday, state lawmakers raised 
+Florida’s drinking age to 21 from 19. Under the law they passed, newly underage drinkers 19 and over were grandfathered in. Ever since, everybody else has been SOL — so out of luck.
+April 8, 1995:  
+We caught a photo of a smiling Chris Robinson, 
+lead singer of the then-relevant Black Crowes, as he performed at the Stephen C. O’Connell Center on Sat-urday night. The day after, Flavet Field hosted Sun-fest ‘95, featuring acts like Beenie Man and Silver Cat. Seven people were arrested on drug-related charges.
+April 6, 2001: Students, administrators and city ofﬁ  cials marched 
+on the Reitz Union Colonnade in a “Rally Against Hate” in lieu of recent incidents at UF involving mi-nority groups. “We really want to show the school that racism needs to come to an end,” Julia Akamn, president of Asian Student Union, said. The rally was in response to a slew of racial incidents, such as “No Spicks (sic) for President!” being spray painted on the Institute of Hispanic-Latino Cultures and banners ad-vertising Pride Awareness Month being vandalized.
+— STAFF REPORT4   ALLIGATOR    TUESDAY, APRIL 7, 2015By Chris Watkins
+Alligator Contributing Writer
+Investment in renewable energy re-
+sources is up as costs for renewable en-
+ergy drop.
+According to a report by the United 
+Nations Environment Programme, total worldwide investment in renewable en-ergy reached $270.2 billion in 2014, an 
+increase of almost 17 percent 
+from 2013. The jump made re-newable energy responsible for 9.1 percent of the total energy production in 2014, an increase 
+of 0.6 percentage points.
+But although Gainesville saw 
+a peak in renewable energy investments 
+over the years, those investments have 
+slowed down, said Wayne Irwin, presi-
+dent of Pure Energy Solar. 
+This is in part due to a Gainesville 
+Regional Utilities program that ended in 2013 that would offer rebates and feed-in-
+tariffs, or compensation from the power 
+company for the energy put back into the power grid
+Currently, there is still a 30 percent 
+federal tax incentive to install a solar system, but that will expire at the end of 2016, he added.
+As the rest of Florida is pushing for 
+more investment, Irwin’s company is do-ing more and more projects outside of Gainesville.
+“I think that the grid that powers this 
+country will be drastically different in 10 years,” said Wendell Porter, a lecturer and undergraduate adviser in the Agricul-tural and Biological Engineering  Depart-
+ment at UF.
+Porter said the price of renewable en-
+ergy, such as solar and wind technology, 
+has dropped as much as 60 percent over the 
+past three years, and he does not predict it will stop.
+Solar technology 
+costs have plunged be-
+cause the price of silicon, which is used in solar panels, also dropped, said Barry Jacobson, the president of Solar Impact.
+Nearly half of the total investment 
+— $131.3 billion in renewable energy — was made by developing countries, ac-cording to the report, with solar and wind technology leading the way.
+The actual numbers are a bit bigger, 
+said Porter, because the report did not take into consideration hydroelectric power production.
+“Wind and solar is becoming cheaper 
+than fossil fuels,” he said, with 60 coun-tries getting more than half of their en-ergy from renewable energy sources.
+Giuseppe Sabella / Alligator
+Pictured are solar panels outside ECS Solar Energy Systems Inc., the first licensed solar con-
+tractor in Florida, in February. The price of solar energy technology has dropped 50 to 60 percent the past three years, according to Wendell Porter, lecturer and adviser in Agricultural and Biological Engineering at UF.
+Renewable energy taking off worldwide, stalling in GNVIT NEEDS TO RAISE $5,000.
+By Hunter Williamson
+Alligator Staff Writer
+hwilliamson@alligator.org
+A nonprofit is raising money to 
+start its free delivery service for people with disabilities.
+Delivery Foundation, Lazy De-
+livery’s nonprofit entity, launched its organization Monday to pro-vide free delivery services to peo-ple with physical disabilities or chronic conditions that prevent them from getting around easily, according to a press release. 
+But before the Delivery Foun-dation can begin providing its free services, it needs $5,000.
+The Delivery Foundation, 
+while separate from Lazy Deliv-ery, will work similarly to the company.
+The foundation’s team is made 
+up of four UF students and Lazy Delivery Co-Founder Daniel Ze-laya.
+The group first thought of the 
+idea for Delivery Foundation in January, Marketing Director Pa-
+tricia Potestades said.
+“One thing that we noticed ... 
+is that we have a lot of custom-
+ers who have disabilities, and those were the people who were our most loyal customers,” Po-testades said. “(So) we decided we wanted to give back to these people.”
+Gainesville residents with 
+physical disabilities and chronic conditions who want to take ad-vantage of the free delivery ser-vice must first apply to the De-livery Foundation, according to the press release. Once accepted, they create a Lazy Delivery ac-count and use the site like regular customers.
+But unlike Lazy Delivery, 
+which operates in three Flori-da cities, Delivery Foundation will only provide services in Gainesville.
+To cover the costs of free de-
+livery, the Foundation will rely 
+on donations, Potestades said.
+Joy and Kat Drawdy, owners 
+of Earth Pets, a pet food and sup-ply store in Gainesville, were the 
+first to donate to Delivery Foun-dation.
+“They’re just awesome,” Joy 
+said of the team. “Really, it was just about the company and the people that came in and talked to us. They were just really, really nice, and it’s a great service, and it’s great what they’re doing.”
+Delivery Foundation will begin 
+providing free deliveries in May if it receives enough funds.
+As of press time, the founda-
+tion’s Indiegogo account has re-ceived three donations totaling $55.
+Delivery service for people with disabilities raising money 
+CAMPUS
+By Adrian Cibran
+Alligator Contributing Writer
+Arturo Bustamante said gaming 
+has shaped his UF experience.
+Bustamante, a UF computer sci-
+ence junior, is a member of UF’s 
+Gator Gaming, an organization that 
+promotes gaming for its communi-
+ty-building and network-enriching environment. Gator Gaming will be hosting GatorLAN, the largest free-gaming event in Florida, on April 18.
+Gator Gaming regularly hosts 
+public gaming tents and tourna-ments where students play video 
+games in a free social setting. Ga-
+torLAN will host 10 to 15 games in the Reitz Union Grand Ballroom from noon to midnight.Bustamante, 20, spends more 
+than four hours a week playing video games, which is how he met most of his friend circle.
+“It’s actually helped me with 
+getting through school,” he said.
+Bustamante goes by the tag 
+“Martakia.” Gamers use tags as a brand or nickname, which is how 
+they often introduce themselves to 
+others at tournaments.
+J.J. Torres, a UF English sopho-
+more, said he got hooked on video games as a child playing with his cousins. He likes that he gets to continue with the gaming commu-nity in college.
+At a tabling event on Turling-
+ton Plaza last week, Torres, 20, played “Super Smash Bros.” with 
+members and passersby on two TV 
+monitors and a projector. 
+Members also volunteer at UF 
+Health Shands Hospital and play video games with the children.
+“You get to meet so many peo-
+ple from so many different walks of 
+life,” Torres said.
+Bustamante said the culture be-
+hind gaming isn’t just about the 
+games themselves.
+“It brings people together,” he 
+said, “and it connects them into something that’s common ground for them.”Gaming group a haven for students 
+energy-saving tasks as simple as carrying groceries.
+The technology is also being 
+implemented in fields like neu-rogaming.
+“The most frustrating thing is 
+that after you do make a break-through, is that if you submit a paper or if you do something or you try to talk to someone about funding, they don’t understand it,” Crawford said.
+Andujar and Crawford have 
+been working to make the technol-
+ogy more user friendly.
+“If people cannot use this, then 
+it’s useless,” Andujar said.Juan Gilbert, associate chair of 
+research in the UF Department of 
+Computer and Information Science and Engineering, understands and supports their work. 
+As their adviser, Gilbert has 
+sponsored them and helped con-duct research since Fall 2013.
+“They are relentless in their 
+pursuits,” Gilbert said. “They re-ally are the kind of people who pick up a problem and can’t set it down.”
+Both doctoral students and their 
+adviser said they believe the drone 
+is still unfinished, and it will con-
+tinue to be a tool for BCI research at UF.
+Next up, the duo plans to make 
+a humanoid a reality.DRONE,  from pg 1Creators, adviser believe 
+drone is still unfinished“One thing that we noticed ... is 
+that we have a lot of customers 
+who have disabilities, and those 
+were the people who were our 
+most loyal customers.”
+Patricia Potestades
+marketing director, 
+Delivery Foundation
+“It brings people together, and 
+it connects them into something 
+that’s common ground for them.”
+Arturo Bustamante
+member, Gator GamingLOCALTUESDAY, APRIL 7, 2015   ALLIGATOR   5 Andres Leiva / Alligator Staff
+Maria Coady, a UF education associate professor, presents the Thomas J. Coady 
+Memorial Scholarship Endowment in Emerson Hall on Monday. “T om taught me how motivation to learn and teaching go hand in hand, ” she said.
+CAMPUS
+IT WILL BE AWARDED TO 
+JUNIORS AND SENIORS 
+STUDYING HEALTH DISPARITIES.
+By Ariana Figueroa
+Alligator Staff Writer
+afigueroa@alligator.org
+Maria Coady said goodbye to her son 
+four months ago after he died in a motor-cycle accident, and now she has found a way to keep his memory alive.
+Thomas Coady, 22, died following a 
+Dec. 5 accident when he collided with a pickup truck at the intersection of North-west Eighth Avenue and 34th Street. An-other student, Halie Guelfi, also 22, was on 
+the back of his motorcycle and died as well.
+His mother, Maria Coady, a UF educa-
+tion associate professor, created an endow-
+ment in memory of her son.
+“He was my heart,” she said.
+The $30,000 endowment that was pre-
+sented to a small crowd Monday afternoon at Emerson Alumni Center will go toward 
+students in the College of Liberal Arts and Sciences studying biology, just like Thomas.
+The Thomas J. Coady Memorial Schol-
+arship Endowment will be a fundraised award that will be given out every spring to a UF junior or senior studying health dis-parities, the field Thomas Coady wanted to 
+dedicate his life to.
+Carol Ritchie, Thomas Coady’s grand-
+mother, said Thomas wanted to help peo-
+ple.
+“Those of us who knew Thomas knew 
+he was a devoted, caring young man,” she said.
+Michael Muir, Thomas Coady’s friend 
+from Buchholz High School, described him 
+as passionate about science and said he al-
+ways put others before himself. 
+“Tom actually taught me how to be a 
+better person,” he said.
+Maria Coady shared with family, friends 
+and supporters a story about how she taught Thomas to read when he was 4 years old. 
+She said the two of them crushed the 
+“Harry Potter” series together, and her son 
+would insist they pre-order the books be-
+cause he could hardly wait for the next one 
+to come out.
+“Thomas was my inspiration, my voice 
+of reason and my teacher,” she said.
+By Caitlin Ostroff
+Alligator Contributing Writer
+A proposed House bill would allow private 
+adoption agencies with written moral or re-
+ligious policies to refuse adoption to couples who violate those policies. 
+House Bill 7111, sponsored by Florida Rep. 
+Jason Brodeur, passed the Judiciary Commit-tee on April 2.
+The bill would allow businesses to deny 
+couples who don’t correlate with the agency’s policy, which could include gay and lesbian couples, mixed-faith couples and mixed-race couples, among others.
+“My wife and I are a mixed 
+couple — she’s Jewish, and I’m 
+Catholic,” said Bob Rooks, the 
+director of Florida’s Adoption In-formation Center. “There may be agencies that wouldn’t be willing to work with us because of a dif-ference in religion.”
+Rep. Elizabeth Porter, a co-
+sponsor of HB 1171, believes if people have a religious reason to object to 
+something, they should be able to opt out of it.
+“It will give more children homes and still 
+allow people to adhere to their religious be-
+liefs,” she said, “which is what this country was founded on.”
+In 2010, Florida’s Third District Court of 
+Appeals held Florida’s 1977 law banning adoption by gays was unconstitutional. Since then, same-sex couples have been allowed to 
+adopt in Florida.
+Some private adoption agencies receive 
+state funding, said Jim Akin, the executive di-
+rector for the Florida chapter of the National Association of Social Workers.
+But Porter said this isn’t justification for 
+private agencies being required to allow gay couples to adopt children under their care.
+“Couples will still have the ability to choose 
+which adoption agency to facilitate their adop-tion,” Porter said.
+There are currently about 80 private adop-
+tion agencies in Florida, Akin said.
+Terry Fleming, co-president of the Pride 
+Community Center of North Central Florida, said even if the bill passes the House, it’s un-likely the legislation will become law because 
+the House bill has no Senate companion. 
+Without a Senate companion, the 
+bill cannot become law.
+Fleming compared the bill to 
+recent religious freedom legisla-tion in Indiana.
+“It’s an Indiana-style law that 
+allows discrimination against LGBT freedoms in the guise of 
+religious freedom,” Fleming said. 
+“It’s very disappointing that some legislators feel they need to en-
+shrine discrimination against the LGBT com-munity in Florida law.”
+Florida’s adoption agencies serve more 
+than 10,000 people per year, Rooks said. While he said the bill may be a barrier to couples looking to adopt, it isn’t a major one 
+because most adoption agencies aren’t reli-
+giously affiliated.
+But Akin said the bill would limit the num-
+ber of agencies couples could go to.
+“When someone refuses to provide ser-
+vices to you, that’s also discrimination,” Akin said. “We have 859 children that currently need homes. The focus should be on getting these children into homes.”UF student memorialized in 
+scholarship endowment
+FL bill aims to apply religious freedom to adoption agencies  Andres Leiva / Alligator Staff
+Baby Gators
+Drew Carlton, a 19-year-old UF microbiology and cell science sophomore and mem-
+ber of the Florida Cicerones, leads a tour group through Turlington Plaza on Monday morning.
+“Those of us who knew Thomas 
+knew he was a devoted, caring young 
+man.”
+Carol Ritchie
+grandmother of Thomas Coady
+STATE
+NEWSThe Alligator  encourages comments from readers. Letters to the editor should not exceed 150 words (about one letter-sized page). They must be typed, double-spaced and must include the author’s name, classiﬁ  cation and phone number. Names 
+will be withheld if the writer shows just cause. We reserve the right to edit for length, grammar, style and libel. Send letters to opinions@alligator.org, bring them to 1105 W. University Ave., or send them to P .O. Box 14257, Gainesville, FL 32604-
+2257.Columns of about 450 words about original topics and editorial cartoons are also welcome. Questions? Call 352-376-4458.The views expressed here are not necessarily those of the Alligator.Editorial
+Column
+Kathryn Varn
+EDITORAlex Harris
+Kristan Wiggins
+MANAGING EDITORSAlec Carver
+OPINIONS EDITOR
+Reﬂ  ections on the 
+UVA/Rolling Stone 
+report
+It seems a chapter of one of the year’s most grueling sto-
+ries — one that encompasses journalism, college life and 
+sexual assault — has come to an end.
+We’re talking, of course, about the controversy sur-
+rounding an article published last year by Rolling Stone, a 
+story called “A Rape on Campus.” It told the horrifying story 
+of a University of Virginia student identiﬁ  ed only as “Jackie,” 
+who told a Rolling Stone contributing writer she had been 
+gang-raped at a fraternity party her freshman year. “A Rape 
+on Campus” repeated this story and criticized UVA adminis-
+trators for bungling the investigation.
+Since then, it’s become clear that, at the very least, much 
+of the story is inaccurate or false. On Jan. 12, a police inves-
+tigation concluded Jackie could not have been assaulted at 
+the fraternity she accused in the story. As things began to fall 
+apart, Rolling Stone submitted the story to the prestigious Co-lumbia University Graduate School of Journalism for review. 
+The report, released Sunday night, conﬁ  rmed public doubts 
+about the story.
+The exhaustive report has been described as “a piece of 
+journalism... about a failure of journalism.” It explores the 
+ill-fated and poorly executed story. In summary, the story was 
+riddled with inconsistencies and inaccuracies that would have 
+dismissed Jackie’s story immediately, but they weren’t found out because the magazine was reluctant to challenge Jackie’s 
+version of events. Multiple people at Rolling Stone neglected 
+crucial elements of journalistic procedure, cutting corners to 
+publish a story that turned out to be too awful to be true.
+The writer, Sabrina Rubin Erdely, didn’t pressure Jackie 
+into providing the names of the rapists and three friends she claimed had betrayed her. Erdely’s editor was okay with the decision to use pseudonyms in lieu of attribution, ignoring 
+the standard journalistic practice of contacting all parties for their sides of the story. Copy editors decided to go along with 
+the decision rather than challenge their superiors on the call.
+Irresponsibility on this level comes with huge consequenc-
+es. First and foremost, the story — meant to publicize a par-
+ticularly horriﬁ  c example of sexual assault so prevalent on college campuses — did a massive disservice to victims. It 
+will serve as one more piece of evidence against them in the 
+court of public perception and one more hurdle to overcome 
+in the pursuit of justice. 
+A society which is already quick to dismiss their stories 
+will point to Jackie and Rolling Stone as reasons she shouldn’t 
+be believed.
+It has disgraced Rolling Stone and tarnished the reputation 
+of the fraternity, which will be suing the magazine for defa-
+mation, and it has validated the rape apologists who eagerly 
+hounded the story from the very beginning. The fact that they 
+happened to be right about this one will encourage them to 
+perpetuate their warped worldview.
+That’s what’s so infuriating about all this: Rolling Stone 
+let us all down. Its botched reporting was irresponsible, but it wasn’t a hit piece — it was a mistake, based on hubris and 
+the unreliable testimony of a source. Erdely could have writ-
+ten stories just as horrifying but true. 
+The problem of sexual assault persists. Rolling Stone only 
+set back efforts to stop it.Too much texting hinders real-life connections
+This weekend I was watching “Catﬁ  sh,” a popular 
+MTV series that brings together couples who have never seen each other face to face. In the episode, 22-year-old Daisy expressed doubt over the legiti-macy of a guy she met on Instagram and had been 
+in touch with for the past few years.
+I watched, mesmerized, as she admitted they had nev-
+er spoken on the phone or video chatted on Skype before — texting is the only way they “talk” to each other.
+As ridiculous as it seems to form a relationship with 
+someone completely over text, it isn’t uncommon any-more. Texting has become one of our primary methods of communicating with other people, especially when we are beginning to get to know someone.
+It’s not hard to ﬁ  gure out why. Texting is incredibly 
+quick, convenient and easy. At the tips of our ﬁ  ngers, we can connect with another person without having to worry about awkward silences or uncomfortable slips of the tongue. Anytime and anywhere, we can craft the perfect response to the person we want to impress, never once having to venture out of our comfort zone. For those who are afraid or nervous to have face-to-face conversations, texting is a welcome alternative.
+There is much to appreciate about texting, and it has 
+certainly made our lives easier and more comfortable in many ways. But as technology continues to advance, we need to be careful not to let texting replace the more genuine and meaningful ways of connecting with other people.
+According to a recent Brigham Young University study, 
+constantly connecting through technology can actually cause disconnects in relationships. The study, which fo-
+cused on 18- to 25-year-olds, found using texting as a way 
+to make important decisions or settle arguments resulted in lower relationship quality for women. For men, too much texting lowered the relationship quality.
+Additionally, an Intel study found more than 60 per-
+cent of young adults believe relying too much on technol-ogy can be dehumanizing.
+Sure, texting is perfect for making plans, expressing affection or touching base when you don’t have time to talk or meet up in real life, but it is a detached and ineffective way of having important conversations and building the foun-
+dation for a relationship.
+Communication extends so far 
+beyond just words. Facial expres-
+sions, tone of voice, eye contact, laughter and physical touch are in-credibly important forms of commu-nication texting can never provide. 
+Though we can send emojis like faces, winks, kisses and hearts to show how we are feeling, isn’t it better to read 
+those emotions on someone’s face instead of on a screen?
+“There is a narrowness with texting,” BYU researcher 
+Jonathan Sandberg said, “and you don’t get to see the 
+breadth of a person that you need to see.”
+Not only does constant texting deprive us of mean-
+ingful interactions with other people, but it also hinders our ability to effectively process emotions and social cues. Scientists at the University of California, Los Angeles, re-cently observed two groups of sixth graders: One group 
+went ﬁ  ve days without looking at any digital screen, and 
+the other group spent that time continuing to use phones, computers and televisions.
+The group of children who didn’t look at any digital 
+screen performed vastly better than the others at reading and interpreting human emotions.
+This research implies we are in desperate need of more 
+genuine face-to-face conversations. The more we rely on texting as our main way of interacting with others, the 
+more likely we are to become worse at talking to people 
+in real life.
+If we truly want to form meaningful and genuine con-
+nections with other people, we should look into some-one’s eyes instead of into our screens. But ﬁ  rst, we have to be brave enough to put our phones down.
+Moriah Camenker is UF a public relations senior. Her 
+column appears on Tuesdays.TUESDAY, APRIL 7, 2015
+www.alligator.org/opinions
+Moriah 
+Camenker
+opinions@alligator.orgTUESDAY, APRIL 7, 2015   ALLIGATOR   7
+There’s a common misconception that once marriage 
+equality becomes a national standard, the struggle the LGBTQ+ community faces will be over. But as the bills emulating the Religious Freedom and Restoration Act in Indiana and Arkansas show, discrimination of 
+LGBTQ+ people goes way beyond their ability to marry and extends to denial of service.
+Denying business to people based on 
+their sexual orientation or gender iden-tity truly makes no sense, especially giv-en how so many businesses have had to close because of their reputations for discrimination. Just because a law jus-tiﬁ  es discrimination does not mean the market forces won’t act against a busi-ness that decides to deny service. Mak-ing it possible for businesses to voice their disapproval of marriage equality through denial of services just makes a state look bad.
+While many believe marriage equality is the only issue 
+that affects LGBTQ+ Americans, a focus on marriage equal-ity distracts from the fact that the LGBTQ+ community is still ﬁ  ghting for respect and more general equality. Many of these issues deal with the often forgotten “T” in LGBTQ+, which represents the transgender community. These include ﬁ  ghts over the most basic rights, such as being allowed to use pub-lic bathrooms. Transgender people can experience problems in gender-speciﬁ  c restrooms, which forces many to resort to completely avoiding public restrooms. This can affect their health and cause urinary tract infections, dehydration and kidney infections. No one should have to cause themselves health problems because they feel unsafe using public rest-rooms.
+Sometimes within the college bubble it can be hard to see 
+how life is outside it. In many parts of the country, discrimi-nation against LGBTQ+ people is a fact of life. Luckily, in Alachua County, there is a human rights ordinance that regu-lates discrimination, but scary things are happening in the Florida Legislature that undermine the rights of trans people.
+Even though marriage equality was recently legalized in 
+Florida, there are still no statewide anti-discrimination mea-sures that protect discrimination based on sexual orientation and gender identity. With House Bill 583, the so-called “bath-room bill,” the Florida Legislature is attempting to pass a bill that would force trans individuals to use the bathroom of their legal gender and allows them to be sent to prison for up to 60 days if they get caught. This bill also allows owners of public accommodations to be sued for allowing trans people to use the bathroom that they feel most comfortable using. Essentially, this forces trans people to either avoid public re-strooms, risking health problems, or be sued or imprisoned.
+The policy clearly seeks to humiliate trans people. It is dan-
+gerous enough to be a trans person as it is, with trans women of color being at a particularly high risk of being victims of murder or other hate crimes. HB 583 makes discrimination legally acceptable and even encouraged to avoid lawsuits. It would penalize people who want to run inclusive businesses. 
+In a time when trans people need to be protected and sup-
+ported, it ostracizes them.
+Of course, the root of this discrimination cannot be legis-
+lated away. It’s naive to think laws will make people more inclusive and accepting overnight. The underlying prejudices will be here for a long time to come. But we can at least put standards in place for how trans people should be treated, starting with the ability to use a public restroom.
+Nicole Dan is a UF political science freshman. Her column 
+appears on Tuesdays.Long road to LGBTQ+ 
+equality demonstrated 
+by FL's trans bathroom billColumn
+On March 30, Indiana native Purvi Patel 
+was sentenced to 20 years in prison after she miscarried her pregnancy. 
+Convicted in February, Patel was 
+charged with feticide — illegally in-
+ducing an abortion — and accused of giving birth to a baby, whom she then neglected, re-
+sulting in the infant’s supposed death.
+This case has so many weird, uncomfort-
+able and downright shameful aspects about 
+it, especially the fact that all information sur-rounding whether Patel actually allowed a baby to die or even committed feticide are incredibly vague and unreli-
+able.
+However, despite extreme discontinuities in the facts 
+of the trial, Patel has now been sentenced. The next 20 
+years of her life are gone.
+Patel, 33, went to an emergency room in Indiana in 
+July because of a miscarriage. She claimed the fetus had been stillborn, and she had abandoned it, not knowing what else to do. 
+After police retrieved text messages she exchanged 
+with a friend that discussed the possibility of taking pills 
+to end her pregnancy, Patel was charged with feticide 
+and felony child neglect.
+To start, there is much debate over whether Patel’s 
+child was stillborn. During the trial, doctors used arcane 
+tests, such as whether the deceased baby’s lungs were 
+able to ﬂ  oat in water, to determine whether the baby might have taken a breath after birth, thus not being stillborn.
+Honestly, this seems like a highly unscientiﬁ  c meth-
+od.
+There is debate over whether Patel knew her baby 
+might have been alive and what she could have done in the situation, being medically compromised herself at the time.
+Despite these points of contention, there 
+were bigger forces of prejudice playing in Pa-tel’s trial.
+Patel’s case, although unusual because of 
+the length of its sentence and the murkiness 
+of the facts surrounding it, is nonetheless an 
+example of how women who have had mis-
+carriages or stillbirths are sometimes uncon-
+sciously and shamefully depicted as criminals.
+Indiana — a state making waves in the news lately for 
+unsavory law-making decisions — is now the ﬁ  rst state to 
+have a state-level feticide law that was used to success-
+fully prosecute a woman for trying to have self-induced abortion, although there have been other instances in the U.S. of women being charged with other crimes after taking abortion pills while not on prescription.
+This case is disturbing to any woman who views her-
+self as an individual with bodily autonomy and a value outside of a baby incubator. 
+Pregnancy loss and miscarriage are not totally uncom-
+mon; 10 to 25 percent of clinically known pregnancies result in miscarriage. Should every woman who has had a miscarriage or discussed the possibility of inducing an abortion with a friend be treated as a blatant murderer?
+The idea of prosecuting a woman who might have 
+suffered through the traumatic experience of a miscar-riage, especially with such broad assumptions and dis-crepancies occurring in the trial process, is highly offen-sive to Patel and to women everywhere in America who 
+have undergone similar circumstances.
+The treatment of the Patel case is especially unsettling 
+because it raises questions about our entire health care 
+system and the inequalities and prejudices within it.
+Should we hesitate to seek medical treatment after a 
+painful, damaging experience, such as a miscarriage, be-
+cause of the chance our request for help might be viewed 
+as incriminating?
+Too often, scared, uniformed and isolated people in 
+dire medical situations avoid professional treatment be-cause of the fear and concern generated by this bias, 
+which only leads to more suffering overall. Perhaps Pa-
+tel’s case is one such example. 
+Sally Greider is a UF English and public relations 
+sophomore. Her column appears on Tuesdays. Indiana miscarriage case and feticide law unjust 
+for convicted, setback to women's body rightsColumn
+Sally Greider
+opinions@alligator.org
+Nicole Dan
+opinions@alligator.org
+In a time when trans people 
+need to be protected and 
+supported, it ostracizes them."This case is disturbing to 
+any woman who views herself 
+as an individual with bodily 
+autonomy and a value outside 
+of a baby incubator."
+8   ALLIGATOR    TUESDAY, APRIL 7, 2015Nicole Gomez / Alligator Staff
+Pride Prom 
+Sajhmori Dunn, a 20-year-old UF nuclear engineering sophomore, and Laura Perez, a 19-year-old UF 
+psychology sophomore, pose in a photo booth at the Queer Prom in Ustler Hall on Monday. The prom was held as part of Pride Awareness Month.
+THEY CAUSED $40 BILLION 
+WORTH OF DAMAGE LAST YEAR. 
+By Shelby Pulley
+Alligator Contributing Writer
+Two of the world’s most destructive spe-
+cies of termites are creating hybrid colonies 
+in South Florida, and they may be more re-
+sistant to pesticides.
+A UF study published last month found 
+that Asian and Formosan subterranean ter-
+mites are swarming at the same time and 
+now mating.
+Nan-Yao Su, an entomology and nema-tology professor at UF’s Fort Lauderdale 
+Research and Education Center, said he noticed both species migrated from their usual regions. In 2012, his team discovered 
+the Asian termite spread from the Caribbe-
+an islands to South Florida. The Formosan termite, which originated in China, is now established throughout Georgia, North Caro-
+lina and northern Florida.
+Both species of termites were responsible 
+for about $40 billion worth of damage last 
+year, Su said.
+Their recent migrations also caused an 
+overlap in swarming seasons. Although the Asian termites’ swarming season occurs from February to April and the Formosan termites’ is from April to June, the hybrids were first discovered last May.
+In the lab, the hybrids were exposed to 
+different termiticides. However, Su discov-ered they are more resistant to chemicals than any other termite species.
+“When chemicals are put into the soil, the 
+hybrids simply move on to another house-hold,” Su said.
+John Scott, owner of Gainesville Pest 
+Control, said a new species of termite will force his business to look into new treatment 
+methods and ways to prevent infestations.
+Scott’s company mainly uses the chemi-
+cal Termidor for infestations.
+“In my years of experience, I have found 
+that this is the most successful treatment for 
+termites,” Scott said.
+Su said he plans to explore how much 
+damage the hybrid termites are capable of. It will take about three years for Su and his 
+team to gather information during each spe -
+cies’ swarming season.UF researching termite species resistant to pesticides
+LOCAL
+By Nicole Gomez
+Alligator Staff Writer
+ngomez@alligator.org
+The end of the road is near for 
+Northwest 16th Avenue lane clo-
+sures.
+All four lanes of 16th Avenue 
+between Northwest 22nd Street 
+and Northwest 34th Street should 
+be opened by the end of May, said Brian Singleton, an Alachua County transportation engineer-ing manager and project manager.
+Singleton said open lanes will 
+be shifted from the south to north side of the road this week.
+Between Northwest 22nd 
+Street and Northwest 31st Drive, the reconstruction serves to re-move clay underneath the road, which caused bumps and cracks in the asphalt.
+The repair is part of a larger 
+county project affecting North-west 16th Avenue from North-west 13th Street to Northwest 57th Terrace. The entire area will have lane closures on certain Sun-days and week nights between 7 p.m. and 7 a.m. until the project 
+is finished in August, Singleton 
+said.
+The final part of the project 
+will involve giving the whole stretch a new layer of asphalt.
+The construction project, 
+which includes sidewalk widen-ing and repair of the retaining walls, cost about $7.5 million, 
+which Singleton said comes from 
+gas taxes and impact fees.
+Alisa Woofter, owner of Al-
+ternatives Global Marketplace in Millhopper Shopping Center, said the construction has affected her store’s business. 
+The median outside the plaza’s 
+entrance was changed, Woofter, 
+33, said, which may have made it 
+confusing for customers to get to the store.
+“The road was really bad,” she 
+said, “so I’m glad to see it fixed.”Construction on NW 
+16th Ave. nearing end
+THEY WERE HIT ON 
+WALDO ROAD.
+By Melissa Mihm
+Alligator Staff Writer
+mmihm@alligator.org
+Gainesville Police released the 
+name of the female pedestrian who 
+died after being hit by a car Friday 
+night.
+At about 10:45 p.m., Shannon 
+Michelle Lynn Justus, 44, and Dan-
+iel William Buhi, 40, were crossing 
+Northeast Waldo Road near 16th Av-
+enue when Eric Bernard Darby, 34, hit them with his 1987 Chevy Monte Carlo, Gainesville Police  spokesman Officer Ben Tobias wrote in an email. 
+Justus was pronounced dead at 
+the scene, and Buhi was taken to UF Health Shands Hospital where he remains in critical condition. He is expected to survive, Tobias said. Both Justus and Buhi were listed as homeless.
+A witness told police Darby had 
+a green light, Tobias said. No charg-es against Darby are expected as of press time.
+Traffic was blocked in both direc-
+tions for several hours following the accident, Tobias said.
+Justus’ family learned of her 
+death after they contacted the medi-cal examiner’s office over the week-
+end. Contacting family members of 
+homeless victims can be difficult, Tobias added.
+The last time a pedestrian died 
+after being hit by a car was Jan. 9, Tobias wrote, when UF student Rudejerry G. Declasse stepped into traffic on the 1200 block of North-east Waldo Road — four blocks from 
+where Justus and Darby were hit.GPD releases name of 
+fatal accident victim
+By The Associated Press
+CHARLOTTESVILLE, Va. — A fraternity at the 
+University of Virginia announced Monday that it will 
+“pursue all available legal action” against Rolling Stone, saying a Columbia University Graduate School of Journalism review shows the maga-
+zine acted recklessly and defamed its 
+members by publishing an article that falsely accused them of gang rape.
+“The Rolling Stone article viewed by 
+millions fueled a court of public opinion that ostracized Phi Kappa Psi members and led to vandalism of the fraternity house,” the fraternity’s statement said.
+“Clearly our fraternity and its mem-
+bers have been defamed, but more importantly we fear this entire episode may prompt some victims to remain in the shadows, fearful to confront their attackers,” said Stephen Scipione, president of the UVA’s Phi Kappa Psi chapter.
+Rolling Stone’s “shock narrative” about sexual 
+assaults at UVA was rife with bad journalism, and the magazine has nobody but its own staff to blame, Columbia University Graduate School of Journalism Dean Steve Coll said Monday at a Q&A session about the review he led at the magazine’s request.
+The magazine pledged to review its practices and 
+removed “A Rape on Campus” from its website, but publisher Jann S. Wenner said he won’t fire anyone 
+despite the blistering review. 
+In a New York Times interview, 
+Wenner described “Jackie,” whose claims provided the article’s narrative thread, as “a really expert fabulist sto-ryteller.”
+“Rolling Stone Magazine admits 
+its staff engaged in reckless behavior 
+while covering this story, yet the maga-zine refuses to take any action against 
+those involved in reporting the story or address needed changes to its editorial process. The reporter in question not only failed to apologize to members of Phi Kappa Psi, but doesn’t even acknowledge the three witnesses she quoted in the article but never interviewed. This is a clear and sad indication that the magazine is not serious about its journalistic obliga-tions,” the fraternity said.UVA fraternity suing Rolling 
+Stone for retracted rape story
+NATIONAL
+NEWS“When chemicals are put into the soil, 
+the hybrids simply move on to another 
+household.” 
+Nan-Yao Su
+entomology and nematology professor, UFTUESDAY, APRIL 7, 2015   ALLIGATOR   9 
+Danielle Veenstra / Alligator 
+Showstoppers
+Haley Straub, an 18-year-old UF animal sciences freshman, dances to the beat of a traditional West African drum 
+Monday night in the Reitz Union Grand Ballroom. The group, Agbedidi, is part of UF’s West African Dance class. Time Lapse: A Fashion Show was hosted by Volunteers for International Student Affairs (VISA).
+Staff Report
+UF is teeming with brilliant people working on cutting-edge 
+technology that saves lives, reveals mysteries and solves prob-
+lems. We’re here to share the latest in UF’s advancements, research and studies.
+Take me out to the ball game
+A UF study has found that baseball players in the South 
+are susceptible to more injuries. The region’s warm weather 
+allows for year-round baseball, which leads to throwing-arm overuse.
+The study, according to UF News Center, shows that col-
+lege baseball pitchers in the South are at a 5.5 percent higher risk for tearing a ligament in their elbow, an injury that pri-marily plagues pitchers. Former high school baseball pitchers in southern states are also 6.2 percent more likely to tear the 
+ligament than former pitchers in northern states.
+Of the 58 injuries they found in collegiate pitchers, 40 oc-
+curred in the Southeastern Conference, and 18 occurred in the 
+Big Ten conference.
+Got milk?According to a UF study, vitamin D may decrease pain and 
+improve function in obese people with osteoarthritis, the most common form of arthritis.
+The study, according to UF News Center, indicated that 
+obese individuals who suffer from osteoarthritis and have high vitamin D levels could walk, balance and rise better than obese participants with lower vitamin D levels. This suggested a correlation between obesity and vitamin D levels for tasks such as standing from a seated position.
+Researchers analyzed blood samples for vitamin D levels 
+from a racially diverse group of 256 middle-aged and older adults. Among the 126 obese participants, 68 were vitamin D-deficient while only 29 of the 130 non-obese participants 
+were deficient.
+Alcohol, death and taxes
+UF Health researchers found that increasing state alco-
+hol taxes can prevent fatal alcohol-related car crashes. In the study, according to UF News Center, they discovered these crashes declined 26 percent in Illinois after a 2009 increase in alcohol tax was instituted.
+There was a 22-percent reduction in crashes involving alco-
+hol-impaired drivers and a 25-percent decrease with extremely 
+drunk drivers.
+The research team used records of fatal crashes from the 
+National Highway Traffic Safety Administration from January 
+2001 to December 2011. They looked at the 104 months before the tax was enacted and the 28 months after it was enacted to see whether the effects of the tax change differed according to a driver’s age, gender, race and blood alcohol concentration at the time of a fatal motor vehicle crash.Research roundup:
+baseball injuries, milk and alcoholCAMPUS
+By Paige Levin
+Alligator Contributing Writer
+Even Texans are looking to the UF 
+Wetlands Club to buy cypress trees.
+Increased advertising launched cross-
+country excitement over $5 3-foot cy-
+press seedlings and $10 5-foot cypress 
+plants. Reaching out to more campus 
+departments increased the club’s sales from 200 seedlings last year to 150 seed-lings in the first few weeks, said Mark Clark, the club’s faculty adviser and a UF professor of wetland ecology.
+Haley Glaab, the fundraising chair, 
+said she received more emails than she knew what to do with.
+“I received an order for a tree for someone in Texas, and I don’t even 
+know how to ship a cypress tree to 
+them,” the UF environmental manage-ment sophomore said.
+Money raised from the fundraiser 
+goes back to the Wetlands Club for trips and activities. Clark said the cost of growing seedlings is low, so profit is high.
+“We certainly have a good revenue 
+stream for club activities because we purchased 500 seedlings for only 30 
+cents each,” he said. “Everything else is 
+free.”
+Glaab, 19, said cypress trees are a 
+good investment because they can be planted anywhere with sun and provide great shade.She is confident the club will sell all 
+500 prepared seedlings.
+“Our success rate has been excep-
+tionally high,” Glaab said. “It’s crazy that we can go so far, and this has never happened before.”
+Though the cypress fundraiser is the 
+club’s main source of revenue, Glaab said she also sells apparel and hopes to sell different types of plants in the future.
+“We want to sell smaller plants that 
+are more mobile, like pitcher plants,” 
+she said. “We’re trying for smaller house 
+plants that are more decorative and geared toward students.”
+She said the seedlings are selling out 
+quickly. Those who want to order a cy-press can email ufwetland@gmail.com.Wetlands club cypress trees selling fastTUESDAY, APRIL 7, 2015
+www.alligator.org/classifiedsBUY IT. SELL IT. FIND IT. 373-FINDGet that rent money rolling in. Place an ad 
+in the Alligator Classifieds to get your place rented out. Call 373-FIND.
+ SS & VA ARE WELCOME!
+Starting @ $375/BR All inclusive! 
+Furnished ● Cable ● Internet ● Utilities
+www.campuswalk.co 352-337-9098
+4-22-71-1
+University Commons 4BR/2BA across from 
+campus. $1300/mo. Includes hi-speed in-ternet & cable. 1 year lease starting August 15th. Call 239-370-8735    4-22-15-36-1
+Countryside 4 Bd/4 Bth beautifully furnished condo on bus route. Bball, vball, pool, spa and fitness room. $395/room, includes $50 utility allowance per/room. Fall occupancy. Jamie 561-338-5297 or jamie@zakarinlegal.com    4-22-15-22-1
+starting Aug 15, furnished 4 bedroom,4 bath, Condo 1-mile from UF on busroute, 3800 SW 20th Ave, W/D,kitchen, living, pool, all  util included,$350/mo per student, 1 yr lease352-586-6468    4-7-15-10-1
+Don't forget to tell them:
+"I found it in The Alligator!"
+2For Rent
+unfurnished
+Empty Space? Find your next tenants in the Alligator Classifieds. Call 373-FIND to place your ad today!
+2BR APT $475/mo1BR APT $395/mo
+Small pet ok. 352-372-1201 or 352-213-3901    4-22-14-71-2
+Deluxe, Large 1, 2, 3, 4, 5, 6, 7BR apt/
+house, 60 second walk to UF. Remodeled, Old House charm. Central AC, washer/dryer included. Wood floors. With Parking. By Private Owner. 352-538-2181 lv message    4-22-14-71-2★★ ELLIE’S HOUSES ★★
+Quality single family homes. Walk or bike to UF. www.ellieshouses.com 352-215-4991 or 
+352-215-4990                   12-11-14-169-2 
+● Centerpoint - 1220 NW 12 ST ●
+$470 - 1BR/1BA – 530 SQ.FT.
+Bike to UF through-tree lined streets or
+ride the bus located one block away!
+No application fee, most pets ok.
+E.F.N. Properties, 352-371-3636 or
+www.efnproperties.com
+rentals@efnproperties.com
+4-22-14-72-2
+8 Blocks to UF!
+Large 2BR, W/D, island kitchen
+$700 mo. 352-505-5049
+crosskeysproperties.com     4-10-15-40-2
+2BR/2BA luxury condo, granite counters,  
+crown molding, pool view, fitn ess center, lg laundry, W/D, screened lanai, 2013 carpet/paint, Tower Rd bus rt, $875/mo, water/sew-er/trash inc, 352-262-3291    4-22-15-45-2
+May or August: Several Cute & Clean 1 & 2 BR vintage apartments near UF & down -
+town, with wood floors, fans, & blinds. Rents: $465 to $1090. Call/text: 352-575-4395; www.CozyGator.com    4-7-15-20-2
+Available August: Several Cute & Clean 2, 3, & 4 BR vintage homes near UF. Wood floors, C/HA, W/D. Rents @ $890-$1760/mo. Call/text Anita 352-575-4395 Details: www.CozyGator.com    4-7-15-20-2
+August: Cute & Clean Vintage 4BD/2.5BA house in NW behind Applebee's. Bike to UF/Downtown. Wood floors, CH/AC, W/D, fans $1760/mo. call/text: 352-575-4395 visit www.CozyGator.com    4-7-15-20-2
+2 Blocks to UF!
+Fully remodeled historic 1BRGranite counter tops, hardwood floors$700 mo. 352-505-5049     4-10-15-20-2
+Studios 2 Blocks to UF!
+New kitchens, granite counters, balconyParking included $575 mo.352-505-5049       4-10-15-20-2
+Luxurious Jackson Square
+2BR/2.5BA TownhouseDouble balcony; One left!$1500 mo. 352-505-5049      4-10-15-20-2● ● ● BIKE TO UF. ● ● ● Large 4x2 house Travertine & granite bath-rooms, cent ac/ht, W/D. Modern kitchen, ga-rage, fenced. Landscape care incl. Avail Aug 14th, 1yr lease. No pets. $1590. 352-665-8166    5-28-15-28-2
+2BR/1.5 BA Condo in Casablanca East. Close to UF/Shands, shopping, and on bus route. Quiet neighborhood, newly remodeled end unit, W/D, screened back porch, and Pool. Available Aug $825/month, tonyc@kinetixpt.com 352-246-5958.     4-8-15-11-2
+Walk to campus. 2-story condo, Cresap Arms NW 15th St & 5th Ave. 2BR/1.5BA, furnished living & dining rooms. W/D, balcony off mas-ter. Covered parking. Avail Aug 8th. No pets.  $1050/mo. Email: debramain@gmail.com    4-10-15-10-2
+● CAMPUS EDGE CONDO ●
+2BR/2BA Walk to UF, Shands, Dental 
+School,  Pharm School & VA.. Tile floor, W/D 
+in unit. Avail fall. Reasonable rates. 239-300-
+1294   4-14-15-10-2 
+1BR Cottage $495
+Small Pet ok
+352-372-1201 or 352-213-3901    4-22-15-
+14-2
+FOR RENT: MIDTOWN.
+Blocks from UF. 4BR/2BA, all appliances in-
+cluded, W/D, DW. Pets ok. From $1600/mo. Call Carol 352-359-3341    5-12-15-14-2
+3 Subleases
+Don’t get stuck with an extra rent payment. Advertise your subleases in the Alligator Classifieds and save yourself some cash. Call 373-FIND.
+Need to Sublease for the Summer?
+Are you leaving for the summer?
+Do you need to sublease your
+apartment, room or house?
+DON'T WAIT!
+The last issue for the Spring semester
+will be on Wednesday, April 22nd.
+GET YOUR AD IN TODAY!
+Just go to www.alligator.org/classified
+IT'S EASY!I’VE HAD IT WITH YOUR LOUD MUSIC!Is your roommate driving you crazy? Find a replacement in the Alligator Classifieds!
+Roommate Wanted, private br/ba, furn liv-ing room, condo end unit (Rockwood Villas) $375/m + util, free internet, close to UF, I-75, shopping and bus, w/d. Call George 904.874.5774    4-22-15-14-4
+$475/mo May 1st Furn'ed Pvt masterBR 
+incl utils, WiFi, W/D, TV. Quiet w/ 3 males in UF Midtown, 13th/8th area easy Bus, Bike routes. ROOM@COX.NET / ph(352) 338-1113    4-13-5-4
+5 Real Estate
+Sell your house, condo, acreage, mobile 
+home and much more in the ALLIGATOR 
+CLASSIFIEDS! Reach thousands of possible 
+buyers! Mastercard and Visa accepted over 
+the phone, by fax, email or CHECK OUT 
+PLACING YOUR AD THRU OUR ONLINE 
+AT www.alligator.org. or please call 373-
+Find (373-3463)
+NEW CONDOS-WALK TO UF
+For Info on ALL Condos for Sale,
+Visit www.UFCONDOS.COM orMatt Price, University Realty, 352-281-35514-22-71-5
+6 Furnishings
+Got a new couch?. Sell your old one in the Alligator Classifieds. Call 373-FIND (3463) to place your ad today.
+BED - QUEEN - $120 ORTHOPEDICPillow-top, mattress & box. Name brand, new, still in plastic. Call 352-372-7490 can deliver.     12-10-169-6
+BED - FULL SIZE - $100 ORTHOPEDIC
+Pillow-top mattress & box. New, unused, still in plastic w/warranty. Can deliver. Call 352-377-9846        12-10-169-6MICROFIBER SOFA & LOVESEAT - $400Brand new still packaged w/warranty. Must sell. Can deliver. Retail $1600. 352-372-7490        12-10-169-6
+BED - KING - $200 PILLOWTOP
+mattress & box springs. Orthopedic rated. 
+Name brand, new, never been used, in plas-tic with warranty. Call 352-372-8588. Can deliver.  12-10-169-6
+7 Computers
+Selling computers, parts, or repair services or just looking for that new rig? Look in the Alligator Classifieds. Call 373-FIND for more information.
+COMPUTER & LAPTOP REPAIRS
+Network specialists
+We buy computers and laptops
+Working and Non-working
+378-4009, 607 NW 13th Street
+4-22-15-18-7
+8 Electronics
+Place an ad to sell your old stereo, cell phone, and more in the Electronics Section of the Alligator Classifieds. 373-FIND
+9 Bicycles
+In the market for a new set of wheels or just looking to add a second to that collection? Want personalized handlebars or a fitted seat? Check in the Alligator Classifieds
+10 For Sale
+●UF Surplus On-Line Auctions●
+are underway…bikes, computers, furniture,vehicles & more. All individuals interested inbidding go to: SURPLUS.UFL.EDU 392-03704-22-14-71-10
+ Goats for Sale &
+Horse Boarding - 7 miles to UF
+Charlie - 352-278-1925      4-22-71-10
+ 1 For Rent: Furnished
+ 2 For Rent: Unfurnished
+ 3 Sublease
+ 4 Roommates
+ 5 Real Estate 6 Furnishings
+ 7 Computers
+ 8 Electronics
+ 9 Bicycles
+ 10 For Sale 11 Motorcycles, Mopeds
+ 12 Autos
+ 13 Wanted
+ 14 Help Wanted
+ 15 Services 16 Health Services
+ 17 Typing Services
+ 18 Personals
+ 19 Connections
+ 20 Event Notices 21 Entertainment
+ 22 Tickets
+ 23 Rides
+ 24 Pets
+ 25 Lost & Found
+All real estate advertised herein is subject to the Federal Fair Housing Act, which makes it illegal to advertise ‘’any preference, limitation, or discrimination because of color, religion, sex, handicap, familial status, or national origin, or intention to make limitation, or discrimination.’’ We will 
+not knowingly accept any advertising for real estate which is in violation of the law. All persons are hereby informed that all dwellings advertised are available on an equal opportunity basis.  •  All employment opportunities advertised herein are subject to the laws which prohibit discrimina-
+tion in employment (barring legal exceptions) because of race, color, religion, sex, national origin, handicap, familial status, age, or any other covered status.  •  This newspaper assumes no responsibility for injury or loss arising from contacts made through the type of advertising that 
+is know as “personal” or “connections” whether or not they actually appear under those classifications . We suggest that any reader who responds to that type of advertising use caution and investigate the sincerity of the advertiser before giving out personal information.  •  Although this 
+newspaper uses great care in accepting or rejecting advertising according to its suitability, we cannot verify that all advertising claims or offers are completely valid in every case and, therefore, cannot assume any responsibility for any injury or loss arising from offers and acceptance of offers of goods and/or services through any advertising contained herein.How To Place A Classified Ad:
+In Person:
+Cash, Check, MC, or Visa
+The Alligator Office1105 W. University Ave.M-F, 8am - 4pm
+By E-mail : classifieds@alligator.org
+By Fax: (352) 376-3015By Mail:
+Call 352-373-FIND for information. Sorry, no cash by mail. MasterCard, Visa or checks only.
+By Phone: (352) 373-FIND
+Payment by Visa or MasterCard ONLY. M-F, 8am - 4pmWhen Will Your Ad Run?
+Ads placed by 4 pm will appear two    publica -
+tion days later. Ads may run for any length of time and be cancelled at any time. Sorry, but there can be no refunds or credits for cancelled ads.Corrections and Cancellations:
+Cancellations: Call 373-FIND M-F, 8am - 4pm. No refunds or credits can be given.
+Alligator errors: Check your ad the FIRST day it runs. Call 373-FIND with any 
+corrections before noon. THE ALLIGATOR IS ONLY RESPONSIBLE FOR THE 
+FIRST DAY THE AD RUNS INCORRECTLY.  Corrected ads will be extended one 
+day. No refunds or credits can be given after placing the ad. Corrections called in 
+after the first day will not be further compensated.Customer error or changes: Changes must be made BEFORE NOON for the next 
+day’s paper. There will be a $2.00 charge for minor changes. Online:  w/ Visa or MasterCard at www.alligator.org/classified1For Rent
+furnished2For Rent
+unfurnished2For Rent
+unfurnished4 Roommates 6 FurnishingsTUESDAY, APRIL 7, 2015   ALLIGATOR  11 
+ Alligator Classifieds is the way to get your 
+2 wheels on the road. Show off your bikes, scooters, and repair services. Call 373-FIND to get your classified in.
+4-22-14-71-11
+★★★★NEW SCOOTERS 4 LESS★★★★
+Great Scooters, Service & Prices!
+118 NW 14th Ave, Ste D, 336-1271
+Vespa, Genuine, GMW, & More! NS4L.com
+facebook.com/newscooters4less
+4-22-14-71-11
+★★SCOOTER REPAIR★★
+New Scooters 4 Less has LOW repair rates!
+Will repair any make/model. Close to UF!
+Pick-ups avail. Cheap oil changes!! 336-1271
+4-22-14-71-11
+Now you can easily
+submit your classified ad
+for print and/or web editions
+right thru our website!
+Just go to 
+www.alligator.org/classifieds
+Visa and Mastercard accepted.★★SCOOTER RENTALS★★
+Rent for a day, week, month or semester.
+Now renting Buddy scooters too!   352-336-1271
+www.gainesvillescooterrentals.com
+4-22-14-71-11
+Campus Scooters Mobile Sales and
+Scooter Service. We offer free estimates on all repairs and we come to you.We also have new scooters starting at$799.00 Call us today at 352-263-0425   4-22-71-11
+12 Autos
+Unload your lot. Sell your cars through Alligator Advertising for cheap. 373-FIND or place your ad online at www.alligator.org/classifieds
+●●● We Buy Junk Cars ●●● ●Trucks, Vans - Titled only ●
+    Call KT 352-281-9980 or 352-215-31914-22-71-12
+Don't forget to tell them:
+"I found it in The Alligator!"
+SUNRISE AUTO SALES
+NO CREDIT CHECK!!!
+6 MONTHS TO PAY
+DOWN PAYMENT!!!
+352-375-9090                     4-22-71-12SUNRISE AUTO RENTAL
+ALL VEHICLES 2014
+3630 N MAIN ST
+www.carrentalsunrise.com
+352-375-9090                    4-22-71-12
+SUNRISE AUTO RENTAL
+EASY TO RENT!!!!
+NO CREDIT CARD REQUIRED!
+www.carrentalsunrise.com
+352-375-9090                   4-22-71-12
+GET INTO A VEHICLE $100 & UP
+PAYMENTS YOU CAN AFFORD
+6 MONTHS TO PAY TAX, TITLE,
+& REGISTRATION FEES
+352-338-1999                   4-22-71-12
+WE BUY CARS!1
+DOES NOT HAVE TO RUN
+ANY CONDITION!!
+$300 & UP!!
+352-338-1999                  4-22-71-12
+SUN CITY AUTO SALES
+ALL VEHICLES $0 DOWN!
+NO CREDIT CHECK!!
+NO EMPLOYMENT CHECK!
+352-338-1999                  4-22-71-12
+CASH PAID $250 AND UP!!!
+ANY CONDITION-RUNNING OR NOT!!!
+FREE TOWING & SAME DAY PICK-UPNO TITLE NEEDED. Call 352-259-2020   4-22-14-71-12
+91 Chevy Caprice Wagon $999
+95 Toyota Camry $1250
+88 Honda Civic $1250
+95 Pontiac Bonneville $1300
+352-338-1999                      4-22-71-12
+02 Dodge Intrepid $1750
+92 Nissan Maxima $999
+95 Pontiac Bonneville $1300
+92 Ford Crown Vic $1999
+352-338-1999                 4-22-71-12
+97 Ford Contour $950
+00 Dodge Intrepid $130092 Toyota Camry $175091 Chevy Blazer $699352-338-1999    4-22-71-12
+WANTED: JUNK & USED CARS
+Up to $1000 & more paid.Free pick up. Call 352-342-7037.Also buying ATVs & UTVs     4-22-15-16-12Sell your running or not running carUp to $2500 or more
+Cash buyers   352-771-6191   4-22-15-14-12
+13 Wanted
+This newspaper assumes no responsibility for injury or loss arising from contacts made 
+through advertising. We suggest that any 
+reader who responds to advertising use cau-
+tion and investigate the sincerity of the adver-
+tiser before giving out personal information 
+or arranging meetings or investing money.
+UF GRAD PAYS MORE
+for gold jewelry, scrap gold, Rolex, diamonds, guitars, etc. Top $$$. Get my offer before you 
+sell! Call Jim 376-8090 or 222-8090
+4-22-71-13
+The American Cancer Society
+Road to Recovery Volunteers Needed!
+VOLUNTEER DRIVERS NEEDED
+to transport cancer patients to treatment. 
+Flexible schedule.
+Training and liability insurance provided. 
+Please call
+352-240-5062 if interested.
+St. Francis House is a homeless shelter
+and soup kitchen located in downtown
+Gainesville, and we are looking for help
+from volunteers like you.
+St. Francis House depends on monetary 
+support from individual donors and
+community businesses in order to help feed
+the homeless and the hungry.
+If you are interested in volunteering,
+please contact Candice Jones
+at (352) 378-9079 or
+sfhcoor@stfrancis.cfcoxmail.com
+To make a donation by mail,
+please send checks payable to
+St. Francis House
+P.O. Box 12491
+Gainesville, FL 32604CASH PAID $250 AND UP!!!
+ANY CONDITION-RUNNING OR NOT!!!FREE TOWING & SAME DAY PICK-UPNO TITLE NEEDED CALL 352-259-2020    4-22-14-71-12
+VOLUNTEERS NEEDED
+I AM BLIND & WOULD LIKE HELP WITH:
+●Rides to church: Mass at Queen of Peace.
+●Learning to rake knit hats to send to Haiti & 
+other places.                   Call 352-219-6948 
+4-17-14-73-13 
+14 Help Wanted
+This newspaper assumes no responsibility for injury or loss arising from contacts made 
+through advertising. We suggest that any 
+reader who responds to advertising use cau-
+tion and investigate the sincerity of the adver-
+tiser before giving out personal information 
+or arranging meetings or investing money.
+Assistant Production Manager
+The Independent Florida Alligator,
+the largest student run newspaper in the
+country, is seeking to hire someone for the
+position of Assistant Production Manager.
+This position is responsible for:● supervising the nightly activity of the    production department● working in coordination with newsroom staff 
+● responsible for meeting 1:00 a.m. deadline
+   for submissions to printer.
+Candidate must be extremely knowledge-
+able in, and be able to train others to use the following:● Adobe InDesign● Adobe Illustrator● Adobe Photoshop● Stock Image Sites
+Responsibilities also include:
+● Hiring● Firing● Training employees● Maintaining balance between career staff    and editorial staff
+Work hours are 5:00 p.m. to 1:00 a.m., 
+Sunday through Thursday.
+Fridays and Saturdays off.
+Great work atmosphere.
+Modest salary.
+Email cover letter and resume to
+tcarey@alligator.org
+to be considered for an interview.
+No phone calls please. EOE.
+Student Positions Available
+Evening Newspaper Production
+The Independent Florida Alligator Editorial
+Production department is now accepting
+applications from students only.
+Applicants should be available
+evenings between the hours of
+6:00 pm and 11:00 pm.
+Production duties include page layout and
+design. Experience with Adobe InDesign is
+preferred, but not required.
+A one-year commitment is expected.
+Must be available for the summer semester.
+Fill out an application at the front desk of
+The Alligator, 1105 W University Ave, M-F 9
+am - 5 pm. Include available work schedule
+and references. No phone calls or e-mails,
+please.  Previous applicants are welcome to
+reapply with current schedule. EOE
+Students in Accounting, Aviation, Business/Sales and computer science needed for various positions. Flexible schedules and competitive pay. Join our team! Learn more at www.gleim.com/employment    4-22-14-71-14
+11Motorcycles/
+Mopeds11Motorcycles/
+Mopeds12 Autos 12 Autos 13 Wanted12   ALLIGATOR    TUESDAY, APRIL 7, 2015
+SBSG is a financial transcription company
+offering part-time work.
+- Create your own schedule
+- Competitive Production-Based Pay
+- Close to campus!
+- Must be able to touch-type 65wpm
+Apply Online: www.sbsgnv.com     12-11-14-
+165-14
+Don't forget to tell them:
+"I found it in The Alligator!"
+DOMINO"S HIRING
+Delivery Experts & Assistant Managers & Future Managers. Drivers earn between $14-$17 per hour. GMs earn 40K-50K+.  Apply at gatordominos.com    4-22-15-
+48-14
+$100 PER NIGHT GUARANTEED
+SW 13th St Domino's hiring delivery driv-
+ers. Closing drivers earn $100/night + . 
+Apply at store or at gatordominos.com     
+4-22-15-48-14
+DATA ENTRY/CLERICAL POSITION
+Full or Part - Time WantedPlease apply in person5609 SW 64th StreetVeterinary Experience Ideal      4-16-15-14
+Opus Coffee
+We are searching for fun and active students 
+to work 12 to 30 hours per week at a fast paced coffee bar near campus. 
+Starting wage plus tips = $12.00/hr. To apply, go to our website 
+opuscoffee.com, click on the employment tab on the bottom right, and follow the direc-tions.     4-10-15-10-14
+DATA ENTRY / CLERICAL POSITIONFull or Part-time wantedPlease apply in person5609 SW 64th St.Veterinary experience ideal.    5-19-15-14
+Part-time student positionsat GatorWell:  STRIVE peer educators & wellness educators for the Health Hut. Details on our websitegatorwell.ufsa.ufl.edu         4-10-15-4-14
+STAY IN GAINESVILLEFull/Part time openings 
+Accounting Assistants
+Linux AdministratorsSoftware/Web DevelopersMarketing CoordinatorCustomer Service Rep'sSales RepsAccounting EditorsAviation EditorWeb DesignerProofreaderCPA Product ManagerVideo TechPlease apply online atwww.gleim.com/employment.    4-20-15-10-14
+College Female needed as Tutor/Driver 
+for 7-8th grader. Strong math, organiza -
+tion. Dependable. MTWRF 3:15p to 7:00p, Periodic weekend/late eve hours. Call 352-514-8944.    4-13-15-5-14
+15 Services
+Do you have a business that provides  a service? Place your ad in the  Services Section of the Alligator Classifieds for as little as $2.50 per day. Call us at 373-FIND.
+Want to be a CNA, phlebotomist or pharm tech? Express Training offers courses, days, eve, weekend. All classes live, no videos. Call 352-338-1193 or expresstrainingservices.com  4-21-14-71-15Now you can easily
+submit your classified ad
+for print and/or web editions
+right thru our website!
+ Just go to 
+www.alligator.org/classifieds
+Visa and Mastercard accepted.
+Need Aggressive Lawyer?
+SiddiquiLegal.com
+Private Experienced Affordable  4-22-14-71-
+15
+Want to be a CNA?       Don’t want to wait?
+Express Training Services now offers a 
+CNA class which can be completed in one 
+weekend.  Perfect for busy college students.   
+www.expresstrainingservices.com/ww   4-22-
+14-71-15
+US IMMIGRATION ATTORNEY
+Marriage & Employment Greencards, 
+Naturalization, H1B Visas
+www.ruthimmigrationlaw.com
+4-7-30-15
+16 Health Services
+HIV ANTIBODY TESTING
+Alachua County Health Dept. Call
+334-7960 for app’t (optional $20 fee)Tired of Mood Altering Chemicals?
+Let us help you.
+Learn a new way of life.
+No Dues or Fees
+Local meetings on a regular basis.
+For more information please call
+Narcotics Anonymous
+uncoastna.org
+352-376-8008
+18 Personals
+HIV ANTIBODY TESTING
+Alachua County Health Dept. Call
+334-7960 for app’t (optional $20 fee)
+Don't forget to tell them:
+"I found it in The Alligator!"
+19 Connections
+Want to make a connection?
+Place your ad here to look for someone to 
+share a common interest with or for your true 
+love 
+Your roommate hasn’t done the dishes in 
+How long?! Find a better dishwasher in the 
+Alligator Classifieds.IS YOUR BUSINESS, CLUB OR 
+ORGANIZATION HAVING AN EVENT?
+DO YOU HAVE A SPECIALANNOUNCEMENT? PLACE YOUR AD HERE AND GET IT NOTICED!
+21 Entertainment
+Get the party started! Place your Entertainment classified today to get people up and about. Call 373-FIND.
+WALDO FARMERS & FLEA MARKET
+Vintage & Unique - Like EBay in 3D
+Sat & Sun    www.WaldoFlea.com
+10-24-17-21
+23 Rides
+Trying to get to and from somewhere? Want to cut back on that gas bill? Place an ad in the classifieds to find trip arrangements or show off your bus and shuttle service. 373-FINDFurry, feathery, scaly...no, not your room-
+mate...pets. Find or advertise your pets or 
+pet products here in the Pets section of the 
+Alligator.
+Because Cats
+Don't Understand
+Abstinence
+OPERATION CATNIP
+Spaying/Neutering Free-Roaming Cats
+Borrow a Trap / Make a Clinic Reservation
+Make a Donation / Volunteer
+New Expanded Hours
+Lots of NEW info at
+http://ocgainesville.org/
+25 Lost & Found
+Finders Keepers? If you find something, you 
+can place a FREE FOUND AD in our lost & 
+found section. Be kind to someone who’s lost 
+what you’ve found. Call 373-FIND.
+SAY:
+"I FOUND IT INTHE ALLIGATOR!"
+14 Help Wanted 15 Services 16 Health Services 20 Event Notices 24 PetsBy Morgan Moriarty
+Alligator Staff Writer
+@Morgan_Moriarty
+Over the last few seasons, the Florida Gators secondary 
+has garnered a nickname: “No Fly Zone.” 
+As Kirk Callahan settles into his new role as UF's defen-
+sive backs coach this Spring, it won’t be too difficult to con-
+tinue to build on that tradition.
+Returning starters include 2014 All-American Vernon 
+Hargreaves III, sophomores Jalen Tabor and Duke Dawson, senior Brian Poole, and juniors Marcus Maye and Keanu Neal.
+Having this kind of talented depth in the secondary is 
+nothing short of a luxury in college football, and Callahan is 
+grateful for the talent he inherited this spring.
+“It’s a good problem to have,” Callahan said. “The great 
+thing is the competition level. Each guy brings his own little 
+variety, his own uniqueness to it.”
+While the aforementioned starters were typically first or 
+second on the defensive depth chart last season, new de-
+fensive coordinator Geoff Collins has a different philosophy 
+when it comes to filling out a depth chart. 
+Instead of listing guys specifically at first or second team, 
+he uses an “above the line” approach, meaning players 
+above the line are included in the defensive back rotation.
+“Let’s roll guys and keep guys fresh because if you sit 
+there and play in the SEC East, you’re going to see teams 
+that play with 10, 11 personnel, up-tempo speeds,” Callahan said. “We want to, like the d-line, keep guys going in fresh 
+because at the end of the day, we’ve got a lot of playmakers 
+and we have to put them in position to make plays.” 
+Callahan touched on the versatility of the group by add-
+ing there are six guys repping at the nickel spot this spring. 
+Maye and Poole saw the most time at the nickel spot last 
+Jordan McPherson / Alligator Staff
+Vernon Hargreaves III runs to catch a ball during practice at Donald R. Dizney Stadium. Hargreaves led the Southeastern Conference in pass breakups last season with 13 and finished the season with three interceptions, good for second on the Gators' roster
+Florida secondary building around depth, experience
+Stay up to date with alligatorSports
+For everything you want to know about UF athletics, go to alligator.org/sportsFreshman and Gainesville native T aylor T omlinson has been one of the UF women's golf team's most reliable players this season. Read the story on page 16.
+Injury Update
+UF offensive lineman Rod Johnson did not practice on Monday with a stinger 
+that left his hand numb, UF coach Jim McElwain announced. Johnson is one of UF's most experienced offensive linemen, with three starts. The Gators now have only six healthy scholarship offensive linemen available for Spring practice.TUESDAY, APRIL 7, 2015
+www.alligator.org/sports
+FOOTBALL
+By Luis T orres
+Alligator Writer
+@LFTorresIII
+It’s time for Kelvin Taylor to step up.
+He is no longer sitting behind Matt Jones or 
+Mack Brown. 
+He’s going to have to be the workhorse out of 
+the backfield this season.
+He has to be more consistent heading into his 
+third season and not have flashes of greatness in one game, and then completely disappear in the next.
+Coach Jim McElwain brought Tim Skipper with 
+him from Colorado State to coach Taylor and the other running backs.
+And so far this Spring, Skipper has seen posi-
+tive things from Taylor.“KT has looked very good. He has real good 
+feet, that’s the number one thing that sticks out,” 
+Skipper said. 
+“The kid is a competitor. There hasn’t been a 
+practice where he hasn’t showed up. He brings 
+his ‘A’ game every day. He lets the defense know 
+about it.”
+In his first two seasons, Taylor rushed for 1,073 
+yards on 227 carries. 
+Last season, Taylor ran for 565 yards and six 
+touchdowns.
+But Taylor racked up most of his yardage in 
+one game against Georgia, when he rushed for a 
+career-high 197 yards with two touchdowns.
+In the other 11 games he played in, Taylor 
+rushed for a combined 368 yards and didn’t rush for more than 50 yards on seven different occa-sions.
+The statistics speak for themselves, but his in-
+consistent season last year isn’t getting in the way of Taylor trying to become a better player.
+“He just brings a lot of energy, I enjoy coach-
+ing him,” Skipper said. “He’s here whether we’re Running back seeks fresh start
+By Jordan McPherson
+Alligator Staff Writer
+@J_McPherson1126
+With Duke holding a 66-58 with 
+1:28 left on the clock, Wisconsin had 
+one last chance for a comeback in the NCAA Championship game.
+A Frank Kaminsky three and a 
+Nigel Hayes dunk cut the Badgers’ deficit to 66-63 with just 50 sec-onds remaining.
+But the Blue Devils 
+held tight. 
+Duke (35-4) iced 
+the game with a pair of Tyus Jones free throws to earn a 68-63 victory and the fifth national title in program history on Monday in Indianapolis.
+Jones was named the tourna-
+ment's Most Valuable Player af-ter scoring 32 points on 10-of-21 shooting and making nine of his 10 
+free-throw attempts in the last two 
+games. 
+He scored eight of the Blue Dev-
+ils’ final 12 points against Wisconsin.
+Coming out of the half tied 31-31, 
+Wisconsin (36-4) dominated the first 
+eight minutes of the second half, out-scoring Duke 20-14 to take a 51-45 
+lead.
+But following the 
+Under-12 timeout, it was all Duke, shooting 7-for-14 from the field and sinking six of its final 10 free throws to 
+seal the win.
+Kaminsky led the Badgers with 
+21 points and 12 rebounds. 
+Hayes (13), Sam Dekker (12) and 
+Bronson Koenig (10) also posted double-digit scoring efforts for Wis-consin.Duke basketball wins 
+NCAA Championship SEE DEFENSE,  PAGE 15
+SEE KELVIN,  PAGE 15NCAA“This offense here is just an offense that's 
+really, to be honest, just a running back's 
+dream. ... I think it just fits me perfect.”
+Kelvin T aylor
+UF running back 14   ALLIGATOR    TUESDAY, APRIL 7, 2015
+By Graham Hack
+Alligator Writer
+@graham_hack24
+Saturday was an important step 
+for Florida.
+Obviously, the Gators needed to 
+ﬁ  nish ﬁ  rst or second to advance to 
+the NCAA Semiﬁ  nals, something 
+they accomplished easily.
+But by step-
+ping back under 
+the microscope, feeling the pres-sure and deliver-ing, the Gators proved to themselves that they have made strides from the Southeastern 
+Conference Championships.
+From a scoring standpoint, 
+Florida didn’t improve much — a 
+197.475 compared to the 197.400 the team scored in the SECs.
+But scoring is typically lower 
+in regional competition, and com-pared to recent UF history, Satur-day was impressive.
+Other than a 198.400 scored by 
+Florida in 2013 when the university hosted the regional in Gainesville, this weekend’s regional perfor-mance was the program’s best since 2010. The championship-win-
+ning team in 2014 only managed to 
+score a 197.050.
+More than anything, though, the 
+team showed Rhonda Faehn com-posure and unity throughout the competition, attributes the coach 
+was looking for and felt weren’t 
+quite where they needed to be two weeks ago.
+“The best thing I thought they 
+showed was togetherness on the ﬂ  oor,” she said. “They didn’t seem rattled in any sense, we seemed completely together and focused 
+only on what we 
+were doing and 
+nothing else.”
+That was 
+evident after Florida’s slow 
+start on bars, something that could have easily caused the team to get nervous right before competing on beam — the event which gave the 
+Gators problems competing for the 
+conference title. 
+But the group showed no signs 
+of anxiety and scored a progres-sively higher score on each event.
+While this was an important im-
+provement for the Gators, there are more steps to be made before the team travels to Texas in two weeks for the NCAA Semiﬁ  nals and poten-tially the Super Six competition.
+There, the teams will all be 
+capable of scoring well into the 197-range and potentially the 198-range, and there will be no 
+room for errors.
+Any little mistake will throw the pressure right back onto Florida’s 
+gymnasts, a pressure they have not 
+felt all season.
+This week was good, but every 
+element of Florida’s arsenal will need to be in peak form come April 
+17.
+“It’s totally different,” Faehn 
+said. “(Regionals) is very challeng-ing and it’s very stressful because you don’t want your season to end right there. That’s the stressful part of that.
+“But the national championship 
+is a whole ‘nother thing.”
+Jordan McPherson / Alligator Staff
+Bridget Sloan celebrates with teammates following her bars routine at the Southeastern Conference 
+Championships on March 21 in Duluth, Georgia.
+UF held composure during regionals, still have room to improveFLORIDA FORCED 19 TURNOVERS 
+AGAINST GEORGETOWN.
+By Alex Maminakis
+Alligator Writer
+@alexmaminakis
+If the Gators buys into the old saying that 
+defense wins championships, Florida took a 
+step in the right direction toward that ultimate goal in their thumping of Georgetown on Sat-urday.
+The No. 9 Gators (9-4, 3-0 Big East) took 
+care of the Hoyas (2-9, 1-1 Big East) 18-4 on Saturday in Gainesville, and while UF’s of-fense displayed its typical dominance, the defense turned in its best performance of the season, coach Amanda O’Leary said.
+Florida held Georgetown to four goals on 
+just 17 shots while forcing the Hoyas into 19 turnovers and 26 ground balls. 
+Junior goalkeeper Mary-Sean Wilcox made 
+seven saves, and Caroline Fitzgerald and Ni-cole Graziano each forced four ground balls – a season-high for Fitzgerald and a career-high for Graziano.
+“It was probably, in my opinion, the best 
+we’ve played all season,” O’Leary said on Monday. “Offensively, defensively, through the ride – we truly played a complete game.”
+O’Leary praised her defensive line and 
+defensive midﬁ  elders for their one-on-one de-fense, their communication and their leader-ship throughout Saturday’s win. 
+Florida displayed its full 
+potential against George-town by utilizing its relent-less offense and powerful 
+defense — a combination 
+the Gators have been trying to perfect all season.
+Sophomore Taylor Bresnahan was a 
+player who, O’Leary said, had the best game she’s played all year in the win over George-town. Bresnahan has played at defender and midﬁ  elder this season, and has consistently brought a strong defensive presence to each 
+game she’s played in. She said high intensity 
+and trust among her teammates is the key to sustaining that balance between a strong of-fense and defense.
+“It goes back to intensity, and just playing 
+hard like we can, playing hard for each oth-er,” Bresnahan said. “It’s just easier to know that the person next to you has your back.”
+O’Leary was quick to point out that there 
+are still areas to improve upon, but now that Florida is ﬁ  guring out how to play with that combination of high-powered offense and brute defense, the Gators have the potential to be one of the most dangerous teams in the country heading toward the postseason.
+“It’s fun to watch,” O’Leary said. “As 
+someone who has seen them play day-in and 
+day-out, when you watch it all come together, 
+it’s an exciting time.”
+Defense showing up during conference play for UF lacrosse
+GYMNASTICSWilcox
+TUESDAY, APRIL 7, 2015   ALLIGATOR   15  
+meeting in the morning or practic-
+ing later in the evening it doesn’t 
+matter. That kid is going after it. A real student of the game, works real hard and it’s been a 
+joy coaching him.”
+Doug Nussmeier has been the 
+offensive coordinator for a num-
+ber of talented running backs 
+who have run for more than 
+1,000 yards in a season.
+At Alabama, Nussmeier was 
+the coordinator who saw T.J. Yeldon and Eddie Lacy pass the 
+century mark in yardage, with 
+Yeldon doing it twice.
+Throw in McElwain who was 
+the offensive coordinator for two 
+Heisman finalists: Mark Ingram 
+won the award in 2009 and Trent Richardson finished in third.  
+Both of those guys have the 
+background that Skipper doesn’t.
+This year will be the first time 
+since Skipper was at Fresno State from 2006-2008 that he will be coaching the running back posi-
+tion.
+But under the leadership of 
+McElwain and Nussmeier, Skip-per is coaching a position in a 
+style that tailors to the running 
+backs on the team.   
+“This offense here is just an 
+offense that’s really, to be hon-
+est, just a running back’s dream,” Taylor said when speaking to 
+the media last week. “It’s perfect 
+for a back. Zone read, one cut, downhill, catch the ball out of the backfield. You got so many things 
+you can do in this offense, and I 
+think it just fits me perfect, so I’m excited.”
+With the history of an offense 
+that’s been prolific in producing 
+some of the best running backs 
+in college the past few years, he will have big expectations on his shoulders.
+Taylor, however, isn’t lacking 
+any confidence.
+“This is going to be my best 
+season I’m going to have at Flor-ida,” Taylor said. “I feel like this 
+right here is going to be my best 
+season. I’m just so excited. My first two years, I mean they were decent, but I know I can do way 
+better.
+“So that’s all I’m looking for-
+ward to.” KELVIN,  from pg 13Taylor expects to be more consistent in his junior season
+Alligator File Photo
+Kelvin T aylor celebrates during Florida's 38-20 win against Georgia on Nov. 2 at EverBank Field in 
+Jacksonville. T aylor will be one of the Gators' primary running backs next season.
+season.
+“We’ve been positioning people in different groupings to 
+see how people play with each other,” Callahan said. “One guy with this guy to see how he works with this safety and vice versa. As of right now we’ve got about six guys repping at the nickel. I mean we have six guys rolling at the nickel posi-tion that can play at a variety of different spots.”
+Callahan was on staff at Florida in 2010 as a staff intern and again in 2011 as a graduate assistant. In both seasons, Florida finished in the top 15 nationally in passing defense. Callahan spent three seasons at UCF before returning to Florida in Janu-ary.
+Callahan says that despite the Gators going 29-21 since the 
+2011 season, the recruiting prowess of the Orange and Blue hasn’t worn off due to the  poor product on the field.
+“You can sit there and say, ‘Ask anybody who was your fa-
+vorite team growing up and so it was the Gators.’ I don’t think that’s been lost,” Callahan said. “It’s just at the end of the day, you’ve got to win.” DEFENSE,  from pg 13Six players are practicing at nickel cornerBASEBALL
+By Ian Cohen
+Alligator Staff Writer
+@icohenb
+Two weeks ago, when Florida and 
+Stetson faced off for the first time in six years, the Hatters nearly upset a struggling UF team trying to find its rhythm.
+Two weeks later, not much has 
+changed.
+No. 10 Florida (24-9) will host Stet-
+son (18-15) tonight at 7 after dropping its second Southeastern Conference series of the season. A live stream of the game will air on SEC Network+.
+UF lost its first series the weekend 
+before defeating Stetson 9-6 on the road.
+That March 24 contest held some 
+unexpected hostility — two UF play-
+ers were beaned, a Stetson pitcher 
+was ejected, and the Hatters quickly 
+turned a four-run deficit into a one-run lead in the bot-
+tom of the sixth in-
+ning.
+Ultimately, the 
+Gators escaped with a win, but 
+their bullpen’s streak of medioc-
+rity has ensued.
+UF sits in sixth place in the con-
+ference in ERA (3.45), saves (9), runs 
+allowed (131) and 13th in home runs 
+allowed (24).
+Meanwhile, Stetson is sixth out of 
+nine Atlantic Sun Conference teams in hits (33) and runs (20) but is first in ERA (2.67). The Hatters are also on a four-game winning streak.
+“Its up to us to get to work, 
+we’ve got to get better,” coach Kevin O’Sullivan said on Sunday. “We’ve got a good Stetson team coming Tues-day… so we’ve got to play better Tuesday night.”Florida faces Stetson in 
+midweek game tonightBy Ryan Summers
+Alligator Writer
+@RyanSummers18
+The teams at the Old Waverly Collegiate Cham-
+pionship on Monday all had a common enemy: the 
+rain.
+The first of two days at the tournament in West 
+Point, Mississippi, was delayed due to a morning rain delay that eventually led to playing through the effects.
+Play suspended for the day during 
+Round 2 due to weather conditions. 
+Florida as a team shot four-under-
+par through part of Round 2 to secure a share of third place.
+The Gators sit at three-under-par 
+for the tournament, four strokes off the lead.
+"They're really working hard and they're buying 
+into what JC (Deacon) and I are teaching them," 
+assistant coach John Handrigan said in a release.
+After a delayed start, the Florida men’s golf team 
+shot 5-under-par to take an early lead through five 
+holes and through the front nine, the Gators shot 6-under-par.
+Everything took a turn for the worse when senior 
+J.D. Tomlinson was the only player who shot under par on the back nine holes. The Gators totaled 11 bogeys, two double bogeys and an eight-shot par 
+four by freshman Alejandro Tosti on the back nine.
+Despite some poor play, Tosti was able to birdie 
+three of his final six holes to end the round at three-
+over-par.
+The Gators were led in round one by seniors Eric 
+Banks and Tomlinson who both shot under-par for the round and placed inside the top-10 at the end of 
+the round on Monday.
+The team was in fourth position af-
+ter shooting a combined five-over-par 
+heading into the second half of day 
+one.
+Heading into round two, the Gators 
+again came out firing, shooting five-under-par through each of the players’ first five holes.
+Tomlinson and Banks are both sit-
+ting at 4-under-par for the tournament and are tied for fifth after Day 1.
+Tosti is tied for 31st through part of Round 2 af-
+ter shooting 2-over-par for the tournament, sopho-more Ryan Orr shot 3-over-par for a share of 37th, and junior A.J. Crouch rounds out the five for the Gators at 4-over-par.
+The Gators return to action today for the re-
+mainder of the Old Waverly Collegiate Champion-ship and will try to improve upon their third place standing.UF tied for third at Old Waverly
+O'Sullivan
+ MEN'S
+GOLF
+Key players returning in the secondary
+Vernon Hargreaves III  
+50 tackles, three interceptions, 13 pass breakups
+Keanu Neal
+45 tackles, three interceptions, four pass breakups
+Jalen T abor
+31 tackles, one interception, eight pass breakups
+Brian Poole
+45 tackles, four interceptions, 10 pass breakups
+Marcus Maye
+62 tackles, one interception, five pass breakups16   ALLIGATOR    TUESDAY, APRIL 7, 2015
+By Justen Rosenberg
+Alligator Writer
+@JustenRosenberg
+Deciding where to attend col-
+lege is arguably one of the hardest 
+decisions a high school student must face.
+But for women’s golf freshman 
+and Gainesville native Taylor Tom-linson, her decision to attend the University of Florida wasn’t a hard one to make at all.
+“Growing up in 
+Gainesville, just being a Gator all my life, it’s really hard to go any-
+where else,” Tomlin-
+son said.
+A big factor in her 
+decision to become a Gator was the opportunity to stay near the people who know her best: her family.
+“I wanted to be somewhere close 
+enough where I can still be by my family, and still be close to them be-
+cause we are a really tight-knit fam-
+ily,” Tomlinson said.
+One individual who celebrated 
+her decision to stay in Gainesville was her brother J.D., the senior lead-er on the men’s golf team.
+“I was really happy,” he said. 
+“My family is here; it kept her here. … I was really glad she decided to 
+stay.
+“She’s always smiling, she’s al-
+ways energetic, and she knows how 
+to have fun.”
+But before she could decide 
+where to attend college, Tomlinson was becoming a student-athlete.
+At Oak Hall School in Gainesville, 
+Tomlinson was an all-around ath-
+lete. She led the golf team in scoring 
+each match during her senior season and represented the school as the individual district champion for four straight years. Her elite level of play had her ranked No. 2 in Florida and No. 10 in Golfweek’s girls’ junior rankings for the Class of 2014.
+“For her it’s a lot of ﬁ  rsts, a lot of 
+new experiences,” Florida women’s golf coach Emily Glaser said. “We feel like as much as we can get her into those types of situations, and playing and competing, the more comfortable she’ll be.”
+With her ﬁ  rst year as a Gator 
+winding down, Tomlinson has had an excellent opportunity to adjust 
+to the college game by competing in each of the Gators’ tourna-ments this season, ﬁ  n-ishing in the top-25 on ﬁ  ve occasions.
+In February, Tomlin-
+son had the best tour-nament of her career, 
+completing the Allstate 
+Sugar Bowl Intercollegiate Golf 
+Championship with a three-round score of 4-over-par and a collegiate best sixth-place ﬁ  nish.
+“It was really nice to see the re-
+sults ﬁ  nally come,” Tomlinson said. “I’ve been playing pretty well, but the scores haven’t been showing. It 
+really boosted (my) conﬁ  dence.”
+While her play can be attributed 
+to a boost of individual conﬁ  dence, 
+her success has resonated with her teammates as well.
+“When she plays well, being only 
+a freshman, it gives the rest of the team a lot of conﬁ  dence,” Glaser said.
+Despite Tomlinson’s success on 
+the course, golf is just one of the many sports where she excels.
+In high school, Tomlinson also 
+played on the women’s basketball team for four years. During that time, Tomlinson was a catalyst on both offense and defense.
+“She wanted the ball at the end 
+of the game,” said Eric Ringdahl, Tomlinson’s high school basketball coach. “We wanted her to have the ball at the end of the game.”
+As a senior, Tomlinson became accustomed to getting the ball, ﬁ  n-ishing the season with an average of 
+11.5 points, 1.8 assist, 4 rebounds 
+and 4 steals per game. 
+Tomlinson ended her basketball 
+career on a high note, as her team 
+won their second district champion-
+ship in three years. But her play went beyond the stat line and banners.
+“It was physical, but also cere-
+bral,” Ringdahl said. “They (Taylor and J.D., who also played basket-ball at Oak Hall) would sit there and watch a team play. They’re watching 
+the tendencies of the other players. 
+A lot of kids don’t do that and they did.”
+While Ringdahl raved about 
+Tomlinson’s basketball ability, he, along with the rest of the staff at Oak Hall, knew her becoming a collegiate golfer was inevitable.
+“Her plan was to go and play at 
+UF,” Ringdahl said, “and she never lost sight of that goal.”
+And while golf and basketball 
+don’t have any direct correlation, Tomlinson said the four years of bas-ketball helped her improve the men-tal aspect of being an athlete.
+“If you make a mistake in basket-ball you just have to get right back into it,” Tomlinson said, “and I think 
+with golf that helps in the sense that 
+if you make a bad shot, you have to refocus as quickly as possible.”
+Tomlinson has made mistakes. 
+She’s had bad rounds and she has had bad ﬁ  nishes. All golfers do.
+But as a freshman, getting accli-
+mated to a new environment and the grind of being a Division I athlete is 
+something that will go a long way in 
+helping her improve as a golfer.
+“I can see her being the leader of 
+this team in the future. She brings that kind of quality to our team,” Glaser said. “I think it’s exciting for us as coaches to see the future out there.”
+Aaron Albright / Alligator
+UF freshman T aylor T omlinson putts during the 2015 SunTrust Gator Invitational on UF’s Mark 
+Bostick Golf Course.
+Early Success: Gainesville native leading UF in freshman year
+WOMEN’S
+GOLF“Her plan was to go and play 
+at UF, and she never lost sight 
+of that goal.”
+Eric Ringdahl
+Oak Hall School basketball coach
