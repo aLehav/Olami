@@ -1,0 +1,4830 @@
+This article is the first part of a two-
+
+part investigation by The Michigan 
+Daily’s Focal Point team into allegations 
+of sexual misconduct against computer 
+science professor Walter Lasecki and 
+the University of Michigan’s handling of 
+these allegations. It is based on emails, 
+documents, notes and interviews with 
+12 individuals knowledgeable of these 
+events.
+
+Content Warning: Sexual harassment 
+
+and misconduct
+T
+
+wo investigations into four 
+allegations of sexual misconduct 
+against University of Michigan 
+
+computer science professor Walter 
+Lasecki began in November 2019. One 
+was conducted by the University’s 
+Office of Institutional Equity (OIE). 
+The other was conducted by the 
+Association for Computing Machinery 
+(ACM), a prominent computer science 
+research association. 
+
+Despite 
+receiving 
+the 
+same 
+
+allegations, the two investigations 
+reached vastly different conclusions.
+
+OIE’s investigation ended on July 13 
+
+2020, with the finding that Lasecki’s 
+behavior in all four cases did not violate 
+the University’s sexual harassment 
+policy, Standard Practice Guide 201.89 
+and with no sanctions against Lasecki. 
+ACM, however, concluded in February 
+
+2021 that Lasecki had violated its Policy 
+Against Harassment, and Lasecki was 
+banned from ACM events for at least 
+five years.
+
+Hired to the University in 2015, 
+
+Lasecki is an assistant professor in the 
+Computer Science and Engineering 
+(CSE) department of the College of 
+Engineering. He also held a position in 
+the School of Information until March 
+2020.
+
+Three of the allegations against 
+
+Lasecki came from non-University 
+affiliated 
+graduate 
+students 
+and 
+
+involved 
+his 
+conduct 
+at 
+social 
+
+gatherings and industry conferences 
+from 2016 to 2019. The fourth allegation 
+came from a student at the University, 
+who alleges she had been harassed on 
+campus, off campus and at industry 
+events.
+
+The 
+four 
+students 
+requested 
+
+anonymity in interviews with The 
+Michigan 
+Daily, 
+citing 
+Lasecki’s 
+
+prominence in the industry and their 
+fears of professional retribution.
+
+All the allegations shared common 
+
+characteristics: while joining the 
+students for drinks, Lasecki allegedly 
+made statements that made the 
+students feel uncomfortable. In at least 
+six instances, he allegedly touched 
+them sexually.
+
+Lasecki did not respond to multiple 
+
+email requests for comment from 
+The Daily. He denied all allegations of 
+sexual harassment and misconduct in 
+statements to OIE. 
+
+In a statement to The Daily on May 
+
+14, University spokesperson Rick 
+Fitzgerald declined to discuss the 
+specifics of this case, citing issues of 
+confidentiality. 
+
+“It is university policy not to publicly 
+
+discuss personnel matters out of 
+respect for employee privacy. That also 
+means we are unable to discuss details 
+of any matters that may be reported to 
+the Office for Institutional Equity for 
+review,” Fitzgerald wrote.
+
+When asked if Lasecki would be 
+
+returning to the University to teach in 
+Fall 2021, Fitzgerald wrote that “there 
+has been no final determination at this 
+time.” 
+
+The allegations against Lasecki are 
+
+not the first to rock the University’s 
+Computer Science and Engineering 
+department. In Feb. 2020, an article 
+in The Verge uncovered numerous 
+previously 
+undisclosed 
+allegations 
+
+of sexual harassment against CSE 
+faculty member and former Clinc CEO 
+Jason Mars, who continues to teach 
+courses in the CSE department despite 
+pushback from students and faculty. 
+In January 2021, CSE faculty member 
+Peter Chen — and interim chair of the 
+department from January to July 2020 
+— was placed on leave after criminal 
+sexual misconduct charges of the first 
+degree with a victim under 13 years old 
+were filed against him. 
+
+University spokesperson Fitzgerald 
+
+offered a brief summary of the College 
+of 
+Engineering’s 
+commitment 
+to 
+
+Thursday, May 20, 2021
+
+INDEX
+
+Vol. CXXIX, No. 112
+ © 2020 The Michigan Daily 
+
+NEWS ....................................
+OPINION................................
+MiC......................................... 
+ARTS.......................................
+MULTIMEDIA........................
+STATEMENT..........................
+SPORTS.................................
+
+ARTS
+
+Bright Green Field 
+Squid’s new album is 
+dedicated to the concept 
+of “no idea is a bad idea”
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ >> SEE PAGE 8
+
+NEWS
+Vaccine Mandate
+
+How the U-M community 
+
+is reacting to the Housing 
+
+requirement
+
+ 
+>> SEE PAGE 2
+
+OPINION
+Sexual Misconduct
+
+Pursuing systemic 
+
+change in a toxic U-M 
+
+environment
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+>> SEE PAGE 5
+
+MICHIGAN IN COLOR
+Free Palestine 
+
+“Palestine will be free 
+
+because the liberation of 
+
+Palestine is a victory for all of 
+
+humanity”
+
+ 
+>> SEE PAGE 6
+
+SPORTS
+Perfection
+Meghan Beaubien tosses a 
+perfect game to close out 
+the Softball regular season
+
+>> SEE PAGE 13
+
+inside
+
+2
+4
+6
+8
+9
+11
+13
+
+Daily investigation finds divergence in U-M, 
+outside organization’s handling of allegations 
+
+against CSE professor
+
+ONE HUNDRED AND THIRTY YEARS OF EDITORIAL FREEDOM 
+michigandaily.com
+
+NINA MOLINA AND SAMMY 
+
+SUSSMAN
+
+Daily Staff Reporters
+
+addressing matters of culture and 
+inclusivity in a statement to The Daily.
+
+“CSE is committed to fostering 
+
+an inclusive environment, where all 
+community members feel safe and 
+welcome,” Fitzgerald wrote. “Efforts 
+to broaden participation and improve 
+climate in CSE have been underway 
+for years, including mechanisms to 
+improve climate, educate employees 
+and students on inclusivity, increase 
+representation and remove roadblocks. 
+These can be seen in detail in the 
+annual DEI Climate Report.”
+
+Fitzgerald also highlighted a specific 
+
+initiative by Alec Gallimore, dean of the 
+College of Engineering, to improve the 
+CSE department’s climate. This group, 
+known as the CSE Climate Assessment 
+Committee, investigates and manages 
+the department’s culture, according to 
+Fitzgerald. 
+
+The formation of this committee 
+
+came after faculty members called for 
+its creation in a Feb. 1, 2021 open letter. 
+According to Fitzgerald, this climate 
+assessment will be led by a third-party 
+and a final report will be released this 
+summer.
+
+“CSE has not demonstrated that it 
+
+can fully resolve culture and climate 
+issues internally, and CSE would 
+benefit from outside perspectives,” the 
+open letter reads. “Michigan conducts 
+program reviews for internal academic 
+improvement. We propose a regular 
+climate-related program review for 
+CSE, similar to such academic or 
+graduate program reviews.”
+
+Sexual harassment and misconduct 
+
+allegations 
+at 
+the 
+University 
+of 
+
+Michigan are not unique to the College 
+of Engineering. The School of Music, 
+Theater and Dance has seen allegations 
+against two former professors Stephen 
+Shipps and David Daniels, while the 
+School of Literature, Science and 
+the Arts has seen allegations against 
+English professor Douglas Trevor and 
+former American Culture professor 
+Bruce Conforth.
+
+In January 2020, Provost Martin 
+
+Philbert — who previously oversaw 
+OIE — was placed on leave and later 
+resigned after multiple allegations 
+of sexual harassment against him 
+were reported to the University. The 
+allegations were later investigated and 
+corroborated by law firm WilmerHale. 
+Another WilmerHale investigation 
+released earlier this month found 
+hundreds of credible allegations of 
+sexual abuse against former University 
+doctor Robert Anderson over a 37-year 
+period. The Anderson report concluded 
+that the allegations represent a 
+“devastating pattern” of abuse that was 
+known to University officials.
+
+Read more at michigandaily.com
+
+Design by Marina Sun
+
+
+The Ann Arbor City Council will 
+
+vote on the proposed city budget 
+for fiscal year 2022 at the council 
+meeting on Monday night. A meeting 
+was held on May 3 for residents to 
+express thoughts and concerns about 
+the roughly $470 million proposed 
+budget. Covering issues ranging from 
+policing to deer population control, 
+the proposed budget contains many 
+hotly contested items. 
+
+Police 
+The budget includes $155,000 
+
+for the Ann Arbor Independent 
+Community 
+Police 
+Oversight 
+
+Commission (ICPOC), which serves 
+as a bridge between residents and the 
+Police Department.
+
+The ICPOC was established in 2019, 
+
+partly in response to the fatal shooting 
+of Aura Rosser, a Black woman with 
+mental illness, by Ann Arbor police.
+
+At the May 3 meeting, Ward 5 
+
+resident Ralph McKee urged the 
+council to follow recommendations 
+from the ICPOC as well as Dr. Lisa 
+Jackson, chair of the ICPOC, who also 
+spoke at the beginning of the council 
+meeting. 
+
+“I would really urge you to really 
+
+engage (Dr. Jackson) in depth on 
+(police funding),” McKee said. “She 
+has really studied that. Many of the 
+rest of us are what I would call part-
+timers on that issue. We’re interested 
+in it, but we really haven’t studied it to 
+the level she and other activists have.”
+
+Many Ann Arbor residents want 
+
+to see mental health professionals, 
+not police, respond to emergency 
+calls when appropriate. City Council 
+passed a resolution in April asking the 
+City Administrator to create plans for 
+
+an unarmed first responder program 
+for mental health crises in Ann Arbor.
+
+At the meeting, Ward 2 resident 
+
+Jeremiah Simon said he wants to see 
+police funding redirected to mental 
+health professionals.
+
+“The current budget proposal 
+
+increases the police budget from 
+$30.7 million to $31.4 million from 
+2021 to 2022,” Simon said. “The city 
+should shift responsibility for mental 
+health and substance use crisis 
+response away from the police, and 
+therefore should shift money to a new, 
+autonomous, unarmed crisis response 
+program.”
+
+City 
+Councilmember 
+Kathy 
+
+Griswold, D-Ward 2, told The 
+Michigan Daily she supports having 
+unarmed mental health professionals 
+with proper oversight and training 
+respond to appropriate emergency 
+calls.
+
+“The county is responsible for the 
+
+911 Dispatch… (if we) say we want 
+to be treated differently you have to 
+have the dispatcher know when to 
+send out a police officer and when to 
+send out an unarmed mental health 
+professional,” Griswold said. “That’s 
+going to be difficult, but it’s going to 
+be possible. We have to have a lot of 
+training and a very clearly defined 
+implementation plan.”
+
+Ann Arbor resident Michelle 
+
+Hughes called in to the Council 
+meeting to show her support of 
+increasing the amount of money 
+for unarmed responders which is 
+currently at $234,000.
+
+“We should have more money spent 
+
+on unarmed responders this year, 
+shifting the enforcement of traffic 
+things away from the police,” Hughes 
+said. “The amount that we have on our 
+budget for the new unarmed response 
+program is not zero, and I very much 
+
+2
+
+Thursday, May 20, 2021
+The Michigan Daily — michigandaily.com
+NEWS
+
+A preview of the 2022 Ann 
+
+Arbor City Budget
+
+Leaders 
+of 
+the 
+University 
+
+of 
+Michigan 
+Central 
+Student 
+
+Government (CSG), including its 
+president and vice president, issued a 
+statement via the CSG Instagram page 
+on Monday condemning Israel’s recent 
+actions in the ongoing Palestine-Israel 
+conflict.
+
+The statement was released after 
+
+reports of the deaths of over 30 
+Palestinians, including ten children, 
+due to Israeli airstrikes in Gaza 
+City. The attack came after rockets 
+launched from the Gaza Strip reached 
+the Israeli city of Tel Aviv. 
+
+The statement was signed by 
+
+CSG President Nithya Arun, CSG 
+Vice President Carla Voigt, CSG DEI 
+Coordinator Zaynab Elkolaly, CSG 
+Cabinet Member Eman Naga, LSA 
+Student Government Vice President 
+Zackariah Farah, SAFE, the Arab 
+Student Association (ASA) and the 
+Muslim Student Association (MSA). It 
+was not approved as a resolution by the 
+CSG Assembly.
+
+In the statement, the CSG leaders 
+
+said Israel is responsible for the death 
+and destruction of the Palestinian 
+people and property since the state of 
+Israel was established by the United 
+Nations in 1948. 
+
+“For the past 73 years, this 
+
+violence 
+has 
+displaced, 
+harmed, 
+
+and killed indigenous Palestinians,” 
+the statement reads. “This is not a 
+‘conflict,’ but emblematic of Israeli 
+settler colonialism, ethnic cleansing, 
+and apartheid.” 
+
+The CSG leaders went on to 
+
+claim that anti-Palestinian and pro-
+Israel sentiments were rampant 
+in our campus community. The 
+statement acknowledges that CSG has 
+
+participated in pro-Israel events, such 
+as funding yearly trips to Israel for 
+Jewish students. 
+
+“We also must recognize CSG’s 
+
+prior complicity with Israel’s violence 
+through participation in events such 
+as yearly trips to Israel that supported 
+the settler-state in its apartheid and 
+occupation,” the statement reads.
+
+The CSG leaders ended their 
+
+statement by calling on the University 
+to divest from Israeli companies and 
+by vowing to use their platform to 
+uplift and represent Palestinian voices 
+and work with Palestinian student 
+groups, such as Students Allied For 
+Freedom and Equality (SAFE). 
+
+“The 
+University 
+of 
+Michigan 
+
+remains complicit by choosing not 
+to divest from Israeli companies 
+profiting 
+off 
+the 
+settler 
+state’s 
+
+occupation,” the statement reads. “As 
+such, CSG is determined to correct 
+these wrongs by working with SAFE 
+and other organizations advocating 
+for Palestinian liberation to curate 
+actionable steps that will be released at 
+a later date.” 
+
+The statement comes less than 
+
+five years after CSG voted against 
+calling on the University to divest their 
+investments from Israeli companies 
+in 2016. CSG passed a resolution in 
+2017 calling on the University to form 
+a committee to look into divesting 
+from said Israeli companies, but that 
+resolution was ultimately rejected by 
+the Board of Regents. 
+
+Student reactions
+The 
+statement 
+drew 
+mixed 
+
+reactions 
+from 
+the 
+campus 
+
+community, with some believing that 
+the statement was biased and one-
+sided, and others believing that CSG 
+did what was necessary to support 
+
+CSG response to the Israel-Palestine 
+conflict draws mixed reactions from 
+
+U-M community
+
+ JUSTIN O’BEIRNE
+
+Daily Staff Reporter
+
+GEORGE WEYKAMP
+
+Summer News Editor
+
+420 Maynard St.
+
+Ann Arbor, MI 48109-1327
+
+www.michigandaily.com
+
+CALDER LEWIS
+
+Editor in Chief
+
+eic@michigandaily.com
+
+KATIE LYNGKLIP
+
+Business Manager
+
+business@michigandaily.com
+
+EDITORIAL STAFF
+
+Madison Gagne 
+
+Managing Editor 
+
+mbgagne@umich.edu
+
+Allison Engkvist 
+
+Digital Managing Editor 
+
+engkvist@umich.edu 
+
+Christian Juliano and Shannon Stocking
+
+Managing News Editors 
+
+news@michigandaily.com
+
+Josh Taubman and Max Wadley 
+
+Managing Sports Editors
+
+sports@michigandaily.com
+
+Rosa Sofia Kaminski and Julian Wray 
+
+Managing Arts Editors 
+
+arts@michigandaily.com
+
+Becca Mahon and Dominick Sokotoff 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Managing Photo Editors 
+
+photo@michigandaily.com
+
+Sarah Chung and Allison Yih
+
+Managing Design Editors 
+
+design@michigandaily.com
+
+Ethan Patrick and Caroline Atkinson
+
+Managing Copy Editors
+
+copydesk@michigandaily.com
+
+Eliya Imtiaz and Lola Yang
+
+Managing Michigan in Color Editors
+
+michiganincolor@michigandaily.com
+
+Amelia Duffy and Zoe Storer
+
+Managing Social Media Editors
+
+socialmedia@michigandaily.com
+
+Mary Rolfes
+
+Editorial Page Editor
+
+opinion@michigandaily.com
+
+Margaret Rudnick 
+
+Managing Video Editor
+
+video@michigandaily.com
+
+Samantha Cole 
+
+Managing Statement Editor
+
+statement@michigandaily.com
+
+CONTACT INFORMATION 
+
+News Tips tipline@michigandaily.com
+
+Corrections 
+ corrections@michigandaily.com
+
+Letters to the Editor tothedaily@michigandaily.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+News section news@michigandaily.com
+
+Photo Department photo@michigandaily.com
+Arts Section arts@michigandaily.com
+
+Editorial Page opinion@michigandaily.com
+Sports Section sports@michigandaily.com
+Advertising wmg-contact@umich.edu
+
+The 
+Michigan 
+Daily 
+(ISSN 
+0745-967) 
+is 
+published 
+Monday 
+through 
+Friday 
+
+during 
+the 
+fall 
+and 
+winter 
+terms 
+by 
+students 
+at 
+the 
+University 
+of 
+Michigan. 
+One 
+
+copy 
+is 
+available 
+free 
+of 
+charge 
+to 
+all 
+readers. 
+Additional 
+copies 
+may 
+be 
+picked 
+
+up 
+at 
+the 
+Daily’s 
+office 
+for 
+$2 
+per 
+issue. 
+Subscriptions 
+for 
+September 
+- 
+April 
+are 
+
+$250, 
+and 
+year-long 
+subscriptions 
+are 
+$275. 
+University 
+affiliates 
+are 
+subject 
+to 
+a 
+
+reduced subscription rate. Subscriptions must be prepaid. 
+
+Read more at michigandaily.com
+
+DOMINICK SOKOTOFF/Daily
+
+The Ann Arbor City Council is set to vote on a proposed $470 million budget Monday 
+night.
+
+applaud that, (but it) is much closer to 
+zero than I would like it to be.” 
+
+Pedestrian Safety
+Ann 
+Arbor’s 
+Healthy 
+Streets 
+
+program which aims to provide safe 
+options for pedestrians and bikers in 
+the city was of particular concern to 
+residents.
+
+The program, which was designed 
+
+to allow for proper social distancing 
+during the COVID-19 pandemic, 
+was first passed by City Council 
+in July of 2020. The city employed 
+several methods to increase outdoor 
+recreational space for pedestrians, 
+including street closures, sidewalk 
+space expansion, new bike lanes and 
+
+reducing vehicle lanes. 
+
+At the Council meeting, Ann 
+
+Arbor resident Shannon Hautamaki 
+said paying for the Healthy Streets 
+initiative is vital for the wellbeing of 
+children in Ann Arbor.
+
+“For 
+families 
+with 
+young 
+
+children, I don’t see a return to 
+normalcy happening that quickly. 
+Vaccines for young children are still 
+several months, if not a year away,” 
+Houtamaki said. “Children will have 
+to do most of their socializing outside 
+where transmission of COVID is 
+
+Read more at michigandaily.com
+
+
+The 
+Food 
+and 
+Drug 
+
+Administration and Centers for 
+Disease Control and Prevention 
+issued a joint statement on April 13, 
+recommending an immediate pause 
+on administering the Johnson and 
+Johnson/Janssen COVID-19 vaccine 
+“out of an abundance of caution.” The 
+ensuing 11-day pause was a result of 
+six reported cases in which women 
+ranging from 18 to 48 years of age 
+experienced severe blood clots — a 
+new condition known as thrombosis 
+with thrombocytopenia syndrome 
+(TTS) — less than two weeks after 
+receiving the Johnson and Johnson 
+vaccine. By the time the vaccine had 
+been brought to a halt, 6.8 million 
+doses of the vaccine had already been 
+administered in the U.S. 
+
+The J&J vaccine is one of three 
+
+CDC-authorized and recommended 
+COVID-19 vaccinations, along with 
+the Pfizer and Moderna vaccines. 
+The J&J vaccine is currently only 
+approved for those 18 and over and 
+was reported as 66.3% effective in 
+clinical trials at preventing COVID-
+19 two weeks after vaccination, 
+compared to Pfizer and Moderna, 
+which were 95% and 94.1% effective 
+respectively.
+
+Despite the lower efficacy, the J&J 
+
+vaccine was 100% effective in trials 
+against hospitalizations and death 
+from COVID-19. Unlike the Pfizer 
+and Moderna vaccinations, the J&J 
+vaccination does not need to be stored 
+at sub-zero temperatures and is 
+administered in one shot rather than 
+two. The single required shot makes 
+administration 
+and 
+distribution 
+
+easier for communities with limited 
+access to health resources and may 
+be more attractive to individuals with 
+needle anxiety or busy schedules.
+
+Less than a week before the 
+
+recommended pause of the J&J 
+vaccine, University President Mark 
+Schlissel sent out an email to the 
+campus community announcing that 
+7,500 doses of the J&J vaccine would 
+be available for students to receive at 
+locations across the three University 
+of Michigan campuses at no cost.
+
+After the recall was announced, 
+
+student appointments for the J&J 
+vaccine were either switched to Pfizer 
+
+vaccine or cancelled altogether.
+
+On April 23, Martino Harmon, vice 
+
+president of student life, announced 
+that being fully vaccinated against 
+COVID-19 would be required for 
+all students living in on-campus 
+housing for the Fall 2021 semester. 
+The University said students are 
+considered fully vaccinated two 
+weeks after receiving a single dose 
+vaccine — like J&J — or two weeks 
+after receiving the second shot in a 
+two-dose vaccine series.
+
+On that same day, the FDA and 
+
+CDC put out an additional statement 
+lifting the pause on the J&J vaccine, 
+publicly reaffirming that it is both safe 
+and effective. 
+
+As of May 14, including the six 
+
+reported cases before the pause, there 
+have been 28 total confirmed cases of 
+TTS — six of them males. All of them 
+were individuals who had recently 
+received the J&J vaccine, and three 
+patients died as a result.
+
+Campus 
+community 
+remains 
+
+confident in Johnson and Johnson 
+vaccine safety
+
+Although there were concerns 
+
+regarding the J&J vaccine’s safety 
+after the recall, a national poll 
+conducted by the de Beaumont 
+Foundation reported that 76% of 
+those surveyed were just as likely 
+to get a COVID-19 vaccine as they 
+were before the pause. Additionally, a 
+Kaiser Family Foundation poll found 
+that only 18% of Hispanic women, 
+11% of Black men and 7% of white 
+women said the news regarding the 
+TTS cases made them less likely to get 
+vaccinated.
+
+U-M students have also expressed 
+
+minimal concern about the recall 
+of J&J or campus vaccination 
+requirements. As of May 13, Michigan 
+Medicine had administered over 
+126,000 COVID-19 vaccines with no 
+signs of slowing down. 
+
+LSA sophomore Sophie Rogoff 
+
+received the J&J vaccine prior to the 
+recall and said she has no concerns 
+about the safety of the vaccine. She 
+mentioned her experience with 
+using birth control, which the FDA 
+states has between a 0.09% and 0.3% 
+chance of causing blood clots. The 
+risk of developing TTS after receiving 
+the J&J vaccine is significantly lower 
+than the blood clots occasionally 
+caused by birth control. 
+
+3
+
+Thursday, May 20, 2021
+
+The Michigan Daily — michigandaily.com NEWS
+
+University of Michigan President 
+
+Mark Schlissel announced on Apr. 23 
+that any students who decide to live in 
+on-campus housing for the 2021-2022 
+school year must be fully vaccinated 
+to be eligible for housing. Students 
+planning to live in the residence halls 
+must provide proof of vaccination by 
+July 15, barring limited exemptions 
+that have not yet been laid out.
+
+A large contingent of higher 
+
+education institutions have set forth 
+vaccination requirements for their 
+students, while other universities 
+and colleges are reluctant to mandate 
+vaccines due to legal and ethical 
+reasons. 
+
+In an email to The Michigan 
+
+Daily, Dr. Robert Ernst, Associate 
+Vice President for Student Life and 
+Executive Director of the University 
+Health Service, wrote that the 
+University will accept COVID-19 
+vaccinations 
+that 
+are 
+approved 
+
+by the United States Food and 
+Drug Administration or the World 
+Health Organization. The accepted 
+vaccines currently include the Pfizer 
+BioNTech, Moderna, Johnson & 
+Johnson/Janssen, and AstraZeneca 
+(Covishield) vaccines.
+
+The 
+University 
+recommends 
+
+that all students, regardless of living 
+location, upload proof of their COVID-
+19 vaccination to Wolverine Access 
+before the beginning of the fall 
+semester. Ernst said this information 
+will be used to inform plans for the 
+fall. 
+
+Ernst said that Michigan Housing 
+
+is working on a specific plan for how 
+exemptions will be managed and 
+will share this information soon. 
+Students who are vaccinated will not 
+be required to adhere to on-campus 
+testing requirements in the fall 
+semester.
+
+“This (vaccine) information will 
+
+be used to protect our community in 
+many ways, including waived testing 
+and quarantine requirements, social 
+distancing needs, public health-
+informed housing decisions and 
+administrative planning,” Ernst said.
+
+Professor Emeritus Peter Jacobson, 
+
+professor of health law and policy, said 
+that although the vaccines did not 
+go through the normal three-phase 
+process of approval, they are still safe 
+and effective. 
+
+“Nothing is perfect, but just think of 
+
+it this way: a little over a year ago, the 
+
+hope was that in two years, we would 
+have a vaccine that might be effective 
+at the 50% level,” Jacobson said. “We 
+now have, in one year, a vaccine that’s 
+effective in the 95% level.” 
+
+Regardless of the public concern, 
+
+Jacobson said the vaccine mandate at 
+the University will protect the overall 
+community as long as the University 
+gives students and staff of different 
+socioeconomic backgrounds equal 
+access to the vaccine. Jacobson said 
+he is a firm believer in vaccinating 
+everyone, with the exception of 
+certain students and staff due to 
+medical reasons. 
+
+“You’re in a small community,” 
+
+Jacobson said. “You’re in dorms, 
+you’re in classes, you’re exposing 
+professors. You’re exposing U-M 
+staff. It seems to me that the 
+University has every right to protect 
+itself.”
+
+Some critics argue that vaccine 
+
+mandates are a violation of the 
+Nuremberg 
+code, 
+which 
+was 
+
+created after World War II to 
+
+protect people from non-consensual 
+experimentation. 
+Jacobson 
+said 
+
+the vaccines are not experimental 
+because there is concrete evidence the 
+vaccines are not harmful to human 
+beings. 
+
+“How do you then have so few side 
+
+effects after millions of doses — after 
+a hundred million doses — in the U.S., 
+two hundred million shots in the 
+U.S.?” Jacobson said.
+
+J. Scott Roberts, professor of health 
+
+behavior and health education, said 
+each university should set policies 
+according to the needs of their specific 
+community. One example of this, 
+according to Roberts, is the execution 
+of soft mandates, where colleges set 
+consequences for students and staff 
+who do not get vaccinated, such as 
+
+increased testing and mask wearing. 
+
+“Given the politicized environment 
+
+we’re in, there is this threat of backlash 
+and I think before we go there, we 
+should consider there’s a lot of options 
+on a continuum here,” Roberts said. 
+
+Additionally, Roberts said, clear 
+
+and early communication to all 
+campus community members is 
+vital to the peaceful enforcement of 
+vaccine requirements on the U-M 
+campus.
+
+“Historically, there was great 
+
+trust in government public health, 
+and even reasonable trust in the 
+pharmaceutical industry not so long 
+ago, but you think both of those 
+actors have suffered from a loss of 
+public trust,” Roberts said. 
+
+International Students
+Even if international students 
+
+arriving on campus in the fall are 
+unable to get vaccinated in their home 
+country, Ernst said the University will 
+provide easy access to vaccination. 
+The University has partnered with 
+Michigan Medicine, the Washtenaw 
+
+County Health Department and 
+several local pharmacies to help the 
+campus community get vaccinated. 
+Ernst said students who arrive on 
+campus 
+unvaccinated, 
+including 
+
+international students who were 
+not able to get vaccinated before the 
+fall, will be expected to undergo 
+surveillance testing until they are 
+fully vaccinated.
+
+At the time of publication, 12.2% 
+
+of people living in China have been 
+vaccinated against COVID-19. China 
+is using the Sinopharm vaccine, 
+which has a lower efficacy rate than 
+the Pfizer or Moderna vaccines. In 
+2020, there were 3,493 Chinese-born 
+students enrolled at U-M.
+
+U-M community reacts to the COVID-19 vaccine 
+
+mandate for students in on-campus housing
+
+It’s been one month since the FDA 
+
+paused the Johnson & Johnson 
+
+vaccine: Here’s how vaccine
+hesitancy has been impacted
+
+JUSTIN O’BEIRNE, LIZ HWANG & 
+
+ISABELLE REGENT
+Daily Staff Reporters
+
+EMILY BLUMBERG & 
+MADELEINE BAUER
+
+Daily Staff Reporters
+
+Read more at michigandaily.com
+Read more at michigandaily.com
+
+TESS CROWLEY/Daily
+
+Students and staff following COVID-19 precautions in Bursley Hall.
+
+
+4
+
+Thursday, May 20, 2021
+The Michigan Daily — michigandaily.com
+OPINION
+
+I 
+
+once had an interaction with 
+my high school physics teacher 
+that has stuck with me ever 
+
+since. During one of the weekly 
+chats we’d have in her classroom 
+after school, I wondered out loud 
+why neither evolution nor the Big 
+Bang theory were covered in the 
+biology or physics curricula. My 
+teacher explained to me that being 
+in a town drenched in parochial 
+ideology, there was a don’t ask, don’t 
+tell policy covering the teaching 
+of evolution. Science instructors 
+were encouraged to not teach the 
+subject and to only field questions 
+when asked. While not surprising 
+to me in light of the culture of my 
+hometown — Ortonville, Mich. — it 
+was infuriating to know that social 
+pressure was pushing my science 
+teachers to avoid evolution in their 
+general science courses. No law was 
+restricting them. Only the fear of 
+becoming a social pariah was in the 
+way of them providing students with 
+a scientifically complete education. 
+
+What 
+is 
+happening 
+in 
+my 
+
+hometown is not an anomaly in the 
+contemporary United States. A 2019 
+survey reported that only 67% of 
+public high school biology teachers 
+present Charles Darwin’s theory 
+of evolution by natural selection 
+as the scientific consensus. This 
+is an increase from past surveys, 
+but still quite low given that the 
+theory of evolution is one of the 
+most championed theories in all 
+of biology. One out of every three 
+teachers is not portraying evolution 
+by natural selection as the robust 
+scientific theory that it is — a theory 
+that has been fortified with new 
+evidence every year since it was first 
+proposed. This presents obstacles to 
+students who wish to further their 
+science education at postsecondary 
+institutions. More worrisome is 
+that evolution denial propagates 
+ignorance and scientific illiteracy — 
+issues all the more pertinent in light 
+of the COVID-19 pandemic. 
+
+Legal prohibitions on the public 
+
+instruction of evolutionary theory 
+do not hold anymore, but teachers’ 
+apprehension 
+about 
+teaching 
+
+evolution as agreed-upon science 
+indicates that traditionalist mores 
+still weigh down the American public 
+education system. Bans on teaching 
+evolution in public schools is as old 
+as the theory itself. One of the first 
+major conflicts between scientific 
+
+educators and conservative policy 
+makers in U.S. history was the 
+Scopes Trial of 1925. This legal case 
+concerned a Tennessee public school 
+teacher who taught evolutionary 
+theory despite a Tennessee law 
+prohibiting instruction of human 
+evolution in any school that received 
+state funding. This trial catalyzed 
+the debate between creationism and 
+evolutionary theory. From then on, 
+legal challenges to the instruction 
+of evolution and natural selection in 
+public schools have been mounted 
+by many Christian groups — usually 
+those from evangelical traditions — 
+with varying degrees of success. 
+
+Now, I cannot criticize those 
+
+1920s Tennessee creationist policy 
+makers too virulently, as at that time 
+evolution was not a majority-held 
+belief among Christians nor society 
+at large. But criticism is warranted 
+for contemporary teachers and 
+education boards who are still 
+reluctant to teach evolutionary 
+theory and natural selection in light 
+of the now 160 years of evidence — 
+including the crucial discovery of 
+DNA and genes — that provide robust 
+support for evolution. And while I 
+understand that some regions of the 
+country have intense negative social 
+sanctions against anti-creationist 
+rhetoric that can be hard for teachers 
+to overcome, it is more important that 
+teachers plan science curriculum 
+around empirical observations than 
+socially-pressured traditional beliefs. 
+
+This is not to say that learning 
+
+about religious practice has no room 
+in education — just that it does not 
+belong in scientific curriculum at 
+the expense of silencing scientific 
+fact. A more apt place would be in 
+the domain of social studies, with an 
+emphasis on the diversity of religious 
+practice. But having evolutionary 
+theory not presented to students 
+within 
+their 
+science 
+courses 
+
+promotes widespread ignorance 
+and scientific illiteracy, two issues 
+detrimental if a society wishes to 
+better itself. Denying students the 
+knowledge that many biologists view 
+as foundational to their discipline 
+serves ideology much more than 
+it serves education. 
+
+O
+
+n 
+Thursday, 
+April 
+22, 
+
+representatives 
+from 
+
+the Graduate Employees’ 
+
+Organization met with University of 
+Michigan administrators to discuss 
+an important campus free speech 
+issue — the right to exercise freedom 
+of conscience through the refusal 
+of letters of recommendation. The 
+discussion revealed the University’s 
+policy for what it is: an attack on 
+academic freedom designed not 
+to protect students or faculty, but 
+only to shield the University from 
+controversy and liability.
+
+This right has been under attack 
+
+at the University of Michigan since 
+2018, when two instructors, in 
+separate incidents, declined requests 
+for recommendations from students 
+wishing to study in Israel. Writing 
+these letters would have gone against 
+the academic boycott of Israel in 
+support of Palestinian human rights, 
+ 
+
+and both instructors declined them 
+for that reason. Even though Professor 
+John Cheney-Lippold was exercising 
+his constitutional right to free speech, 
+University leaders nevertheless issued 
+severe sanctions, including the loss of 
+his upcoming sabbatical and a denial 
+of a merit-based raise for one year. The 
+graduate student instructor received a 
+formal letter of admonishment from 
+her department chair with implied 
+threats of dismissal from the graduate 
+program if such behavior were to 
+happen again. What’s more, President 
+Schlissel and then-Provost Martin 
+Philbert issued a public statement that 
+denounced both instructors. 
+
+The punishment meted out to 
+
+Professor Cheney-Lippold and the 
+public statement from the most 
+powerful University leaders was 
+meant to warn campus faculty of 
+the price for academic freedom, and 
+potentially had a chilling effect on 
+those who might otherwise speak 
+out if they did not feel threatened. But 
+the University wanted to make sure 
+this wouldn’t happen again, so they 
+convened a so-called Blue Ribbon 
+Panel to devise a policy that would 
+govern letters of recommendation.
+
+The resulting policy is a strident 
+
+attack on free speech. It doesn’t 
+prohibit instructors from denying 
+letters 
+of 
+recommendation 
+for 
+
+political or ethical reasons, but only 
+from vocalizing those reasons. This 
+did not sit well with GEO members, 
+who 
+voted 
+overwhelmingly 
+to 
+
+oppose the policy in our 2020 
+contract negotiations. Much has 
+been written about “The Palestine 
+Exception to Free Speech,” which 
+describes the way norms of freedom 
+of expression are so often bent to 
+exclude those who would speak 
+out for justice in Palestine. Despite 
+the ongoing assault on Palestinian 
+lives and human rights, however, 
+our problem with the University’s 
+policy on letters of recommendation 
+is not just about Palestine. More and 
+more, instructors are starting to see 
+letters of recommendation as an 
+important site of political opposition 
+and learning. There is a growing 
+movement among mathematicians 
+to refuse to write letters for privacy-
+
+violating surveillance organizations, 
+like the National Security Agency. 
+There is also the longstanding 
+trend of declining recommendation 
+requests for Teach for America 
+applicants. We can think of a whole 
+host of objectionable organizations 
+— 
+ExxonMobil, 
+Raytheon, 
+U.S. 
+
+Immigration 
+and 
+Customs 
+
+Enforcement or U.S. Rep. Marjorie 
+Taylor Greene’s, R-Ga., congressional 
+office — to which an instructor 
+may want to vocally refuse to write 
+letters of recommendation. Being 
+able to voice the reason for denying a 
+letter of recommendation is a critical 
+component of any boycott, and 
+GEO is proud to stand against this 
+indefensible policy.
+
+GEO ultimately won a meeting 
+
+with U-M administrators to discuss 
+the policy and how it will be 
+implemented. The discussion left 
+us only with a clearer sense of how 
+poorly thought-out and difficult 
+to implement the policy is. While 
+U-M administrators made repeated 
+reference to fears of discrimination 
+as justification for the policy, they 
+were never able to explain how Teach 
+for America applicants could be 
+understood as a group that could be 
+discriminated against. 
+
+Let America’s educators teach 
+
+science without the stigma
+
+GEO’s Fight for the Right to Boycott
+
+420 Maynard St. 
+
+Ann Arbor, MI 48109
+
+ tothedaily@michigandaily.com
+
+Edited and managed by students at 
+
+the University of Michigan since 1890.
+
+ MARY ROLFES
+Editorial Page Editor
+
+Julian Barnard
+Zack Blumberg
+Brittany Bowman
+Elizabeth Cook
+
+Brandon Cowit
+Jess D’Agostino
+Andrew Gerace
+Jessie Mitchell
+
+Mary Rolfes
+
+Gabrijela Skoko
+Jack Tumoowsky
+
+Joel Weiner
+
+Unsigned editorials reflect the official position of The Daily’s Editorial Board. 
+
+All other signed articles and illustrations represent solely the views of their authors.
+
+CALDER LEWIS
+
+Editor in Chief
+
+EDITORIAL BOARD MEMBERS
+
+AMIR FLEISCHMANN | CONTRACT COMMITTEE CO-CHAIR
+
+BENJAMIN DAVIS | OPINION COLUMNIST
+
+Benjamin Davis is an Opinion Columnist 
+
+and can be reached at bendav@umich.edu.
+
+Amir Fleischmann is the Contract 
+
+Committee Co-Chair at the University 
+
+of Michigan’s Graduate Employees 
+
+Organization and can be reached at 
+
+contractchair@geo3550.org.
+
+ Read more at michigandaily.com
+
+ Read more at michigandaily.com
+
+
+4.2% of men experience nonconsen-
+sual sexual touching on campus; 34.3% 
+of undergraduate women remain most 
+at risk for experiencing nonconsen-
+sual touching and penetration on cam-
+pus; 17% of undergraduates, 26.4% of 
+women, experience unwanted kissing 
+and sexual touching prior to coming to 
+the University; 6.7% of undergraduates, 
+
+10.6% of women, experience unwanted 
+penetration or oral sex prior to coming 
+to the University. 
+
+5
+
+Thursday, May 20, 2021
+
+The Michigan Daily — michigandaily.com
+
+Beyond empty promises: The pursuit of systemic change to the University’s 
+
+toxic environment of gender-based violence
+
+Beyond empty promises: Why I signed onto the class 
+
+action lawsuit against U-M for students affected
+
+OPINION
+
+CECIEL ZHONG | SOPHOMORE DUAL-DEGREE 
+
+JOSIE GRAHAM | JUNIOR
+
+Content Warning: This article dis-
+
+cusses gender-based violence, which 
+includes but is not limited to sexual vio-
+lence.
+E 
+
+ngaging in student activism 
+was not part of my plan in 2019, 
+but like many others, to stay 
+
+calm was to ignore the horror and 
+anger caused by the new interim sexu-
+al assault and misconduct policy. This 
+policy, among other things, allowed 
+direct cross-examination for survi-
+vors who came forward. Despite the 
+outcry, the University of Michigan did 
+not change its procedure, insisting to 
+wait for former Secretary of Education 
+Betsy Devos’s new regulations to come 
+out. The University’s position drifted 
+with the unstable political climate and 
+in turn, allowed survivors of sexual 
+violence to be re-traumatized through 
+this interim policy.
+
+Administrators claim that they 
+
+“take allegations of sexual miscon-
+duct very seriously.” The words seem 
+
+clear: “Sexual misconduct will not be 
+tolerated in the University of Michi-
+gan community.” However, in the past 
+two years, it is hard to count the times 
+when high-profile cases on campus 
+arose with one hand. The University 
+administration has made its stance 
+well known through words and state-
+ments, but how has institutional 
+change truly been implemented so far? 
+
+To look at that we need to under-
+
+stand that sexual assault is about power 
+and control. The University, as an insti-
+tution, exerts institutional power that 
+ostracises survivors through inad-
+equate report addressments, resulting 
+in institutional betrayal. This pattern 
+has been exemplified through high-
+profile cases at the University such 
+as Robert Anderson, Martin Philbert, 
+and David Daniels, to name a few. 
+Institutional betrayal created a mass of 
+known perpetrators spreading across 
+schools and departments, including 
+SMTD, EECS, Michigan Athletics, 
+
+Michigan Medicine, and OIE itself, a 
+place that everyone was told to go to if 
+an incident occurs. Meanwhile, cam-
+pus organizers witnessed an apparent 
+disconnect between the administra-
+tors and the people whom the policy 
+directly impacted. What was consis-
+tent among the headlines is that the 
+University knows of perpetrators at 
+the institution, but continues failing 
+to act promptly and comprehensively, 
+both in retrospect and in foresight.
+
+To “act” would be a series of 
+
+steps toward justice, which includes 
+both individually and systemically 
+addressing where the failure occurred, 
+rethinking and transforming the 
+institutional structures and power 
+relations that enabled harm. In the 
+class-action lawsuit against former 
+University of Michigan athletic doctor 
+Robert Anderson, that abuse occurred 
+years ago is not an excuse for fractional 
+justice and no change. 
+
+Appropriate actions extend beyond 
+
+providing verbal support to adopting 
+institutional courage, which means 
+cherishing the whistleblower, creating 
+a culture of transparency, and using 
+institutional power to protect commu-
+nity members, not assaulters. Despite 
+the long-standing myths of false 
+reports ruining one’s life, “the alleged” 
+seldom face expulsion from the Uni-
+versity, as reflected by OIE’s Annual 
+Report in 2016, 2017, and 2018. In the 
+workplace, three out of four sexual 
+misconduct cases go unreported, and 
+over 60% of people who committed 
+sexual assault are repeated offenders. 
+This reality is played out in Philbert’s 
+rise in ranks despite years of rumors 
+and Anderson’s decades of abuse, 
+which harmed hundreds of students.
+
+Statistics and numbers numb me, 
+
+as do all of the released “official state-
+ments.” Actions, not words, are the 
+true criterion of our community values. 
+When protecting survivors is solely 
+treated as a checkbox to maintain fed-
+
+eral funding and reputation, the cam-
+pus climate will not improve. When 
+the Sixth Circuit Court discouraged 
+personal confrontation — recom-
+mending agents, not students them-
+selves to conduct cross-examination 
+— but the University’s interim policy 
+still maintained to not provide rep-
+resentatives for students who need 
+them, we ask, how could we count on 
+the procedure to be trauma-informed? 
+When a professor with pending sexual 
+misconduct lawsuits was appointed 
+to teach a large course in the upcom-
+ing semester without considering the 
+community, we ask what the Univer-
+sity has learned from the WilmerHale 
+report that was released not long ago? 
+
+Ceciel Zhong is a sophomore dual-degree 
+
+student in the School of Information and the 
+
+College of Literature, Science, and the Arts. 
+
+She can be reached at xizhong@umich.edu.
+
+ 
+
+ Read more at michigandaily.com
+
+ Read more at michigandaily.com
+
+AMBIKA TRIPATHI | OPINION CARTOONIST 
+CAN BE REACHED AT AMBIKAT@UMICH.EDU.
+
+Content Warning: This article dis-
+
+cusses gender-based violence. Gender-
+based violence “ … refers to harmful 
+acts directed at an individual based 
+on their gender. It is rooted in gender 
+inequality, the abuse of power and 
+harmful norms.”
+I
+
+write this article in honor of the 
+survivors of gender-based violence 
+filing the class-action lawsuit 
+
+against the University of Michigan for 
+allowing Robert E. Anderson former U 
+of M athletic doctor’s decades of abuse 
+to continue unabated and for all other 
+survivors of gender-based violence. 
+This story belongs to them and to all 
+of the survivors who go unheard and 
+continue to be failed by oppressive 
+systems, which perpetuate violence 
+and inequity against marginalized 
+groups, on this campus, in this country 
+and across the globe.
+
+I am no expert; I do not hold all 
+
+the answers to solve this complex, 
+nuanced issue. I write this, first and 
+foremost, to call for justice for survi-
+vors, a form of justice defined solely 
+by them and what they need to heal, 
+varying on a case-to-case basis. They 
+deserve better. 
+
+To all survivors, thank you for pro-
+
+tecting all of us in filing this suit. The 
+University knew of its abuse and failed 
+
+all of you and the rest of our commu-
+nity by enabling it. If the University 
+cares about its students, it would take 
+responsibility for this unimaginable 
+injury and validate these survivors. 
+
+Second, I write this as a call to 
+
+myself and all of us to continue to reck-
+on with the reality of gender-based 
+violence, a reality we construct and 
+maintain and to start to think of and 
+pursue solutions to deconstruct it. I 
+hope this op-ed encourages further 
+debate, reflection and action when it 
+comes to addressing and dismantling 
+the oppressive systems that create 
+gender-based violence.
+
+* * *
+
+Zoom In. 
+Case I: Former U-M provost Martin 
+
+Philbert sexually harassed multiple 
+people over two decades throughout 
+his entire career at the University, ris-
+ing in ranks from professor to Dean 
+to Provost, the head of the office that 
+oversees cases of gender-based vio-
+lence. University officials, including 
+President Mark Schlissel, knew of the 
+rumors, now proven true, circulating 
+about Philbert’s misconduct and failed 
+to launch investigations until the 2018-
+2019 school year. 
+
+Case II: More than 150 survivors 
+
+have come forward in filing indi-
+
+vidual lawsuits and a class-action 
+lawsuit against the University in 
+response to the University’s handling 
+of sexual abuse of students by former 
+athletic doctor Robert E. Anderson 
+dating back to the 1960s. The Uni-
+versity received over 460 complaints 
+against Anderson, starting this Feb-
+ruary. Worst of all, former football 
+coach Bo Schembechler and former 
+athletic director Don Canham knew 
+about Anderson’s actions and failed 
+to do anything in response at the time. 
+Anderson worked until his retirement 
+in 2003, despite being demoted for his 
+behavior in 1979. 
+
+Case III: The Michigan Daily 
+
+uncovered 40 years of harassment and 
+sexual misconduct allegations against 
+SMTD faculty Stephen Shipps. 
+
+Case IV: Employees at Clinc, an AI 
+
+start-up, made allegations of sexual 
+misconduct against Clinc’s CEO and 
+EECS professor Jason Mars; some fac-
+ulty wrote a statement calling for Mars 
+to take a leave of absence. He taught an 
+undergraduate course during the Win-
+ter 2021 semester. 
+
+Case V: In 2019, the University 
+
+conducted a survey on sexual miscon-
+duct. Critical results include: 12.4% of 
+women and 1.7% of men experience 
+rape on campus; 20.4% of women and 
+
+Josie Graham is a junior in the College of 
+
+Literature, Science, and the Arts and can be 
+
+reached at josiekg@umich.edu. 
+
+
+The month of May brings warmer 
+
+weather and millions of posts under 
+the Asian American Pacific Islander 
+hashtag across all social media 
+platforms. It is AAPI Heritage 
+Month, a time for every Asian 
+American and Pacific Islander to 
+celebrate their respective cultures. 
+AAPI commemoration was first 
+officially recognized in 1978 as just 
+one week in May, and the celebration 
+didn’t expand into a month and 
+didn’t become annual until 1990. 
+At the same time, the U.S. Census 
+Bureau was using the Asian Pacific 
+Islander label they had used starting 
+in the 1980s. However, while the 
+Census Bureau separated the two 
+groups in the year 2000, the label 
+has continued to persist in colloquial 
+use and in names such as AAPI 
+Heritage Month. From celebrities to 
+“woke” corporations and Instagram 
+activist accounts, everyone has 
+started using the AAPI label, yet the 
+term never felt right to me. 
+
+As the word AAPI has risen in 
+
+popularity in recent months, I began 
+to wonder if people really had Pacific 
+Islanders’ interests in mind when 
+they used the AAPI label. I grew up 
+in Hawaii, and as I met more people 
+from mainland America, I realized 
+just how little people know about the 
+Pacific Islands. Most of my mainland 
+American friends didn’t even know 
+the three regions composing the 
+Pacific Islands, yet all of a sudden, 
+it 
+seemed 
+like 
+everyone 
+was 
+
+discussing violence against Asian 
+Americans AND Pacific Islanders. 
+As I read article after article with 
+AAPI in the headline, I noticed that I 
+found nearly no quotes from Pacific 
+Islanders. I waded through a flood 
+of Asian-focused writing until I 
+found articles specifically centering 
+Pacific Islanders’ opinions on the 
+AAPI label.
+
+The AAPI label continues to 
+
+spread 
+online 
+without 
+people 
+
+understanding its flaws. Despite 
+comprising half the acronym, Pacific 
+Islanders, composed of Polynesian, 
+Melanesian and Micronesian ethnic 
+groups, are often left out of the 
+
+discussion surrounding AAPI issues. 
+In reality, AAPI in most contexts 
+just means Asian, more specifically 
+East Asian, yet tacks on Pacific 
+Islanders like an afterthought. While 
+AAPI and Asian American seem 
+like innocuous and interchangeable 
+terms to us non-Pacific Islanders, our 
+carelessness with the label harms the 
+Pacific Islander community we claim 
+to want to uplift.
+
+In an attempt to be inclusive, the 
+
+use of the AAPI can end up causing 
+more harm than good. Pacific 
+Islanders are often drowned out 
+by the comparatively large influx 
+of Asian American voices. As a 
+result, the issues and needs of Asian 
+Americans are projected onto Pacific 
+Islander Americans, misrepresenting 
+the actual struggles Pacific Islanders 
+face. For example, according to 
+research compiled by APM Research 
+Lab, Pacific Islander Americans are 
+facing COVID-19 infection rates 
+nearly two times higher than Asian 
+Americans. 
+
+6
+
+Thursday, May 20, 2021
+The Michigan Daily — michigandaily.com
+
+When I arrived in Ann Arbor 
+
+in January, I embarked on a quest 
+to survive my second semester of 
+college. Along my epic journey, I 
+faced powerful foes such as Calculus 
+2 and second year-level Japanese. 
+Night after night, I crossed swords 
+with Taylor polynomials and kanji 
+characters. Despite several defeats 
+over the course of the semester, I 
+vanquished my last final exams and 
+claimed the ultimate treasure, an 
+ancient relic I had long since forgotten: 
+free time. Immediately after my Calc 
+2 final, I swiftly exited Gradescope 
+and navigated over to Steam; it was 
+time I enjoyed myself with a good 
+video game after months of non-
+stop work. Combing through my 
+backlog of games, I stumbled across 
+“Omori,” a psychological horror 
+game set in a deceptively bright and 
+colorful, nostalgic, 8-bit fantasy world 
+brimming with amusing characters 
+and heartfelt moments.
+
+I bought Omori just a few days after 
+
+its release after seeing a video showing 
+the game’s cute art style on Tiktok. 
+I had anticipated the game’s horror 
+
+elements from its description on 
+Steam; nevertheless I was still a little 
+shocked when my player character 
+began in a sparse, eerie white room 
+called Whitespace. After poking 
+around the area and obtaining a knife 
+as a weapon, a door became accessible 
+and let me venture through the 
+world with other friendly characters 
+I met. The pastel world design and 
+charming characters were so adorable 
+that I pretty much forgot that this was 
+a horror game. And because I was 
+familiar with the fairly simple combat 
+system found in other turn-based 
+role-playing games like “Pokémon,” 
+I was immediately comfortable with 
+Omori. As a result, I never wondered 
+why there was an inaccessible menu 
+option labelled “???” on the top-left 
+corner of my screen (Since I was still 
+in the tutorial, I figured this would 
+be a normal tool that would open up 
+to me later). And when my character 
+learned a combat skill bluntly labelled 
+“stab,” I never viewed it as anything 
+more than a basic element typical to 
+the genre. 
+
+This 
+comforting 
+familiarity 
+
+combined with Omori’s exaggeratedly 
+adorable world design lulled me into a 
+false sense of security and quietly set 
+me up for calamity.
+
+After I spent about 30 minutes 
+
+learning 
+the 
+in-game 
+combat 
+
+mechanics, becoming acquainted 
+with the main cast and marveling at 
+the charming world and character 
+design, 
+one 
+of 
+the 
+supporting 
+
+characters 
+suddenly 
+became 
+
+enveloped by a mysterious darkness. 
+Completely unexplained, the player 
+character is teleported back to 
+Whitespace, except now the door 
+I once passed through is gone. The 
+sudden ejection from my pastoral 
+fantasyland back into the sinister 
+Whitespace left me trembling as I 
+yearned for the sense of comfort I 
+felt just minutes prior. With no clear 
+way out in an infinite and empty 
+room, I wandered around aimlessly, 
+desperately searching for the exit but 
+to no avail. Out of options, I opened up 
+the in-game menu in order to search 
+for an item or something to use. 
+
+“STAB,” written in a bold red 
+
+font, replaced the “???” option I 
+had previously ignored. Once I 
+apprehensively selected the “STAB” 
+option, the game prompted me to 
+confirm that I wanted to stab my 
+player character. 
+
+Disclaimer: 
+This 
+collective 
+
+statement 
+is 
+written 
+under 
+the 
+
+crucial understanding that Israel is 
+an occupation and apartheid. It is an 
+occupation in that it controls who goes 
+in and out of Palestine and continuously 
+and illegally occupies Palestinian land 
+through Israeli police aggression and 
+Israeli “Defense” Forces, which we 
+will more accurately refer to as the 
+Israeli Occupation Forces throughout 
+this statement since “defense” falsely 
+implies an equivalent power to defend 
+against. Israel is an apartheid in that the 
+Palestinian citizens of Israel are treated 
+as less than by the Israeli government 
+on issues from a lack of civil rights 
+compared to Jewish citizens of Israel, to 
+medical discrimination, to a lack of clean 
+water, and property expulsions. Israel 
+exists at the expense of Palestinians, 
+and for that, this piece is centered on the 
+importance of a liberated Palestine. 
+
+Introduction
+Saturday, May 15 marked the 
+
+annual 
+commemoration 
+of 
+the 
+
+Nakba (Nakba is the Arabic word 
+for “catastrophe”). Since 1948, the 
+ongoing Nakba has resulted in the 
+displacement of over 7.2 million 
+Palestinians, the brutal genocide of 
+over 1,240,000 Palestinians and the 
+destruction of over 927 Palestinian 
+villages. This day signifies yet 
+another year of oppression and forced 
+immobility for the Palestinian people 
+as they continuously suffer from the 
+structurally violent state of Israel 
+that works to oppress, dispossess and 
+displace Palestinians. The oppression 
+of Palestinian people is commonly 
+mislabeled as a “conflict” between 
+two sides. This false characterization 
+serves as an erasure of Palestinian 
+oppression and suggests Palestine’s 
+defense is equally oppressive. Israel 
+
+has one of the most extensive armies 
+in the world, while Palestine does 
+not have a unified military and has 
+restricted access to weaponry; it’s 
+clear that “bothsidesism” and the 
+notion of an equal conflict are not 
+only inapplicable, but dangerous. 
+The magnitude of Israeli settler-
+colonialism, the development of the 
+apartheid-state and the ongoing 
+ethnic cleansing committed against 
+Palestinians 
+indicates 
+that 
+this 
+
+oppression should more accurately 
+be termed a humanitarian crisis. The 
+oppression of Palestinians is rooted in 
+Zionism: a racist, ultra-nationalistic 
+ideology that, while based on the 
+desire for Jewish self-determination, 
+strips Palestinians of their rights 
+on their own ancestral land and 
+justifies the continuous perpetration 
+of inhumane war crimes towards 
+Palestinians. The bigotry and violence 
+birthed from Zionism is the direct 
+reason that Israel violently targeted 
+Palestinians in the Al-Aqsa Mosque on 
+May 7, killed over 197 Palestinians in 
+Gaza with airstrikes in the last week, 
+murdered at least seven people in the 
+occupied West Bank and violently 
+attempted to dispossess Palestinian 
+families in Sheikh Jarrah. 
+
+May 15 of 2021, Nakba Day, 
+
+commemorates 73 years of pain for 
+Palestinians, characterized by years 
+of air strikes, innumerable violations 
+of humanitarian laws — including the 
+denial of basic rights for Palestinians 
+such as the right to own property or 
+vote — and relentless weaponization 
+of international aid in support of 
+Israel. Much of academia, from 
+students to scholars, dismisses the 
+oppression endured by Palestinians 
+as complex, but in reality it is quite 
+simple to understand — Israel is the 
+oppressor and Palestinians are the 
+oppressed. 
+
+Performative Diversity in Netflix’s 
+
+Shadow and Bone
+Michigan in Color Collective 
+
+Statement on Palestine
+
+The PI in AAPI is silenced
+
+ANDREW NAKAMURA 
+
+MiC Columnist
+
+SAFURA SYED
+
+MiC Columnist
+
+MICHIGAN IN COLOR 
+
+STAFF
+
+Read more at michigandaily.com
+Read more at michigandaily.com
+
+Read more at michigandaily.com
+
+Design by Marina Sun
+
+MICHIGAN IN COLOR
+
+
+7
+
+Thursday, May 20, 2021
+
+The Michigan Daily — michigandaily.com MICHIGAN IN COLOR
+
+Every so often I hear about Hazaras 
+
+in Afghanistan. I just did last week — 
+it was mostly children who died. I 
+remember how Khaled Hosseini so 
+beautifully and eloquently painted a 
+heartbreaking picture of the recent 
+history of Afghanistan. and how 
+To this, students in classes at my 
+predominantly white high school 
+analyzed questions such as “why 
+did Hassan and Ammar get treated 
+so differently?” “What was the basis 
+of discrimination and subjection 
+for Hassan and his family?” Every 
+so often I hear about a blast in 
+Pakistan, and every so often I meet 
+a family friend whose uncle, cousin, 
+or sibling was killed in these blasts. 
+Just yesterday, I found out about the 
+Gilgit massacre of Shias, initiated 
+over a difference in Eid dates. I 
+stared blankly at my laptop screen 
+wide-eyed, shocked at the abhorrent 
+events, and shocked that I just heard 
+of it. I think about what makes me 
+different to freely practice my Shiism 
+here, until I wonder — what is free 
+
+when yes, I openly use a sajdiga for 
+my daily prayer, but still have to hear 
+the the classic ‘why do you pray on a 
+rock’ joke, still have to feign toleration 
+at events with the overall community 
+when I hear “we’re allowed to marry 
+Jews and Muslims, just not Shias.” 
+Every so often when I hear the 
+news, I turn to the only method of 
+denoting solidarity in this day and 
+age — Instagram social activism. 
+This metric is by no means indicative 
+of genuity, but is telling enough in 
+the sense that many Muslims will 
+post about all social justice issues, 
+until it comes to Shias. Ironically, 
+these are the same Muslims who 
+retweet “when it’s Muslims, the 
+world is silent”, as though oppression 
+is a competition in the first place. 
+For me as a Shia and my best friend 
+as an Ahmedi, there’s another layer 
+to that silence- when it is us, even 
+Muslims will be silent. The sense of 
+solidarity that ever so often arises 
+among Muslims is always amazing to 
+see, but a part of me knows that this 
+same unity will never be granted to 
+Muslim minorities. 
+
+It’s 6 a.m.: My mom has just woken 
+
+up. I am sitting at the kitchen counter 
+with a blanket around my shoulders, 
+coffee cup in hand while lectures play 
+on double-speed on my laptop. Finally 
+convinced to go to sleep, I set my 
+alarm in time for my 11 a.m. meeting 
+with 
+my 
+internship 
+supervisor, 
+
+exasperated at the reality that this 
+is what my life has become: zoom 
+calls, sleepless nights, days in sweats, 
+family arguments and isolation. 
+Sighing, I scroll through my social 
+media feeds, a nightly regimen, only 
+to find photos of people on vacation, 
+hanging out with friends, taking road 
+trips… having fun. These photos fill 
+me with anxiety — aren’t we still 
+battling a global pandemic? Shouldn’t 
+we be proceeding with caution? 
+However, I also felt tinges of sadness 
+and frustration because I am jealous 
+— I wish I could have as much fun, but 
+the pandemic wasn’t all to blame.
+
+I am nearing my last semester at the 
+
+University of Michigan and I cannot 
+confidently say I have made many 
+good friends here. I have two to three 
+friends whom I speak to regularly, 
+
+meaning at most once a month since 
+the pandemic. Nevertheless, my 
+struggle to foster friendships and 
+have a “normal” college life did not 
+only start in March 2020 but has 
+been ongoing since the beginning 
+of my freshman year. My time at the 
+University so far can be best described 
+as a tug-of-war: on one end were my 
+parents, and I positioned myself at 
+the opposite end and extended a rope 
+between us. As I was the first member 
+of my family to attend college in the 
+United States, my parents and I found 
+ourselves in territories we’ve never 
+been in before: Who gets to make the 
+decisions about my outings? When is 
+my curfew? Who decides who comes 
+into my room and who doesn’t? When 
+my parents held and tightly pulled 
+on the rope, it meant constraining 
+the freedoms I found essential: 
+studying in friends’ rooms, staying 
+up late and attending events without 
+permission. To them, I was neither 
+an independent adult nor a needy 
+child. I had the responsibilities of a 
+college student but not the freedom 
+of one, an in-between space that’s 
+not one or the other. They tugged the 
+rope according to those expectations 
+and when I felt that pull, I yanked 
+even harder the other way. I often 
+
+lashed out in defiance of my parents, 
+tightening my grasp on the rope 
+and causing tension to build. But no 
+matter how much we pushed and 
+pulled, no matter how sore our hands 
+became and exhausted we grew, we 
+stayed in place and made no progress 
+in either direction.
+
+I 
+started 
+questioning 
+ideas 
+
+supposedly 
+fundamental 
+to 
+my 
+
+identity: Why should I adhere to 
+these rules? What does it mean if I 
+didn’t? How did these rules come 
+to be? Is this something all Syrians 
+followed? What about all Muslims? 
+What does our faith say about this? As 
+I came into my own, I felt the weight 
+of these choices growing like rocks on 
+my shoulder. Often, I shared thoughts 
+or opinions that made my parents 
+worry, especially when I didn’t share 
+their views on some of the issues 
+most important to them. Instead, my 
+actions and ideas were sometimes 
+labeled as wrong and harmful from 
+approaches to social justice to even my 
+ideal career path. Additionally, due to 
+the intersectionality of my identities 
+— Syrian, Ismaili Muslim, immigrant 
+woman — there was no community on 
+campus that I closely identified with. 
+I became a foreigner in both Syrian 
+and American spaces, not enough 
+
+of either to completely fit in. Most of 
+my peers had a very different outlook 
+at things: College was a monumental 
+moment in our lives where we learn 
+to be independent and find ourselves 
+and dream about our futures. While I 
+did identify with their sentiments and 
+the idea of a transition, it was difficult 
+for me to adopt that perspective. I 
+could not be American enough for my 
+peers’ advice and I could not be Syrian 
+enough for my parents’ expectations. 
+Even other Syrian Americans I 
+knew had college experiences on 
+the complete opposite side of the 
+spectrum.
+
+During the winter semester of 
+
+my junior year, I decided to take a 
+semester off because it all became too 
+much to deal with while also being 
+a student. It was unthinkable to my 
+parents that I spend this semester 
+anywhere but home, especially Ann 
+Arbor — a place that to them, was 
+full of bad influences. Staying home 
+presented its own challenges. Two 
+months into that semester, COVID-
+19 hit and arguments erupted almost 
+every day regarding questions of 
+where I would be living for the hybrid 
+academic year. Even as I grew and my 
+empathy for my parents grew, it also 
+had limits: I still could not fathom 
+
+why they would not let me be on 
+campus. Now, instead of being home 
+for four months, I have been home for 
+a year and five months. This period 
+has only advanced my isolation 
+and further distanced me and my 
+friends. My social life was replaced by 
+occasional facetime calls and once-a-
+month day trips I would take to Ann 
+Arbor for visits.
+
+As I reflect on these past months, I 
+
+realize I may have acted out of a lack 
+of empathy — fixating on my own 
+negativity rather than considering 
+how my family was feeling too. I 
+dismissed large compromises and 
+efforts that my family had made for 
+assimilating into “the American life,” 
+like allowing me to go to my first 
+sleepover or inviting my friends over 
+for a surprise birthday party. I focused 
+too much on our disagreement and 
+overlooked the tremendous amount 
+of love we shared that allowed my 
+parents to sacrifice so much for us 
+with big smiles on their faces always. 
+While I positioned myself and my 
+parents on opposite sides of the rope 
+in this game of tug-of-war, I realized 
+tugging was not a way to freedom, but 
+letting go was.
+
+After a dormant three years, English 
+
+singer-songwriter FKA Twigs has 
+given me the first song of my playlist 
+titled, “Banshee Vibes: I wanna rip my 
+heart out and scream, but in a good 
+way.” Her hit single “Cellophane,” an 
+extremely vulnerable piano ballad 
+centers around leading a relationship 
+in the public eye and the toll it takes 
+on one’s self-esteem and image. With 
+a Grammy Award nomination for Best 
+Music Video and named the best song 
+of 2019 by Pitchfork, “Cellophane” 
+unravels the raw human emotions 
+that envelop love, loss, and everything 
+in between. Twigs’ delicate and 
+soothing voice offers a stark contrast 
+to the song’s heart wrenching lyrics; 
+uncomplicated words dripping with 
+complicated feelings, pushing and 
+pulling at all of our hearts.
+
+FKA Twigs opens “Cellophane” 
+
+with a series of emotional questions 
+seemingly directed at her former 
+lover, Twilight star, Robert Pattinson. 
+It seizes our heartbroken souls from 
+the start, ensuring Twigs is getting 
+
+her point across without drawing it 
+out while also engaging the slightly 
+psychotic—like me—who listen to sad 
+songs, especially at the height of their 
+joy. Littered with rhetorical questions, 
+accompanied only by the majestic keys 
+of a piano playing in D Major paints 
+Twigs in an anguished state, begging 
+the question “Why was I not enough 
+to be worthy of your love?” She goes on 
+to repeat the chorus twice more in the 
+middle of the song, pinpointing this 
+message of worthiness in the face of 
+adversity without explicitly stating it. 
+Talk about self-esteem issues, sheesh.
+
+Throughout the remainder of the 
+
+song, Twigs uses very powerful, yet 
+simple diction. Using repetitive verses 
+like, 
+
+“They wanna see us, wanna see us 
+
+alone
+
+They wanna see us, wanna see us 
+
+apart,”
+
+She’s able to highlight the pain and 
+
+vulnerability that accompanies the 
+meddling and scrutiny of the world’s 
+selfish eyes. During her three year 
+relationship with Robert Pattinson, 
+she received constant criticism and 
+hate from Twilight fans who were 
+upset that Pattison was no longer 
+
+dating his white co-star, Kristen 
+Stewart. I don’t know about y’all, but 
+anything is still a better love story 
+than Twilight, especially the beautiful 
+Twattinson couple…actually, Pigs is 
+probably our best bet.The criticism 
+turned into racism, and fans all over 
+the globe began targeting Twigs’ 
+biracial 
+background, 
+comparing 
+
+her to a monkey regardless of what 
+she did. She also spoke on how this 
+constant racist barrage made her 
+feel dysmorphic for close to a year 
+especially when she saw photos of 
+herself.
+
+Her seemingly effortless word 
+
+choice and repetition gives the illusion 
+of simplicity whilst her groaning, 
+cracking voice bears the weight of 
+the world and all its problems. The 
+contrast between the delicate piano 
+playing, while her vulnerable vocals 
+shine through allows us to relate to 
+her relationship problems, even if 
+not at the same level as that of A-list 
+celebrities. Twigs’ word choice, while 
+reveling in the phrase “short, but 
+sweet,” is extremely impactful and 
+never overstays its welcome. 
+
+Living as the Exception
+
+Stuck In The Middle... Alone
+
+Transparency in FKA Twigs’ “Cellophane”
+
+ELIYA IMTIAZ 
+
+MiC Columnist
+
+LEENA SHARBA
+
+MiC Columnist
+
+MARIAM ODEH
+
+MiC Columnist
+
+Read more at michigandaily.com
+Read more at michigandaily.com
+
+Read more at michigandaily.com
+
+
+8
+
+Thursday, May 20, 2021
+The Michigan Daily — michigandaily.com
+ARTS
+
+It feels like the name Squid 
+
+has been circulating around the 
+music blogosphere for half a 
+decade at this point. The band has 
+maintained an almost elusive aura, 
+only sparking further intrigue 
+with every subsequent single and 
+EP released. What’s more, the 
+music they were trickling out to 
+the public evaded any surefire 
+categorization, to a point where 
+critics and enthusiasts alike have 
+piled them with other oddball 
+U.K. groups as something they 
+call “New Weird Britain” — 
+which is just a fancy way of saying 
+“unclassifiable guitar music from 
+across the pond.” Although, if 
+we’re to take this niche seriously, 
+the associated bands are certainly 
+making a statement this year with 
+shame and Black Country, New 
+Road already releasing critically 
+hailed projects. However, if there 
+is any record that people were 
+expecting from this supposed 
+subgenre, it is Squid’s debut. 
+
+Bright Green Field follows 
+
+the pattern of the music Squid 
+has been teasing up until now, 
+
+which is that it doesn’t really 
+follow any pattern at all. Without 
+a doubt, there will be people 
+who simply call it art rock and 
+move on, but that would be a 
+strong generalization of what 
+the band manages to construct. 
+Bright Green Field is an album 
+so dedicated to the concept of 
+“no idea is a bad idea” that it 
+
+fully commits itself to throw 
+everything at the wall. Naturally, 
+this is quite a risky endeavor, and 
+for the less prepared, this surely 
+would have been an unmitigated 
+
+mess. Fortunately, it would seem 
+the last five years have properly 
+conditioned Squid. Bright Green 
+Field 
+successfully 
+avoids 
+the 
+
+pitfalls of such a process and 
+amounts to one of the most 
+unique rock albums this year, and 
+on their first go no less.
+
+Of course, Squid’s inspirations 
+
+come through clearly — Talking 
+
+Heads and Pere Ubu are two 
+that come to mind — but it’s the 
+instability of how these influences 
+are combined and transfigured 
+that demonstrates the group’s 
+
+originality. 
+For 
+example, 
+the 
+
+track “Boy Racers” starts with a 
+groove and adds layers of guitar 
+riffs into something both upbeat 
+and off-kilter. Much like some of 
+the other lengthy tracks on the 
+album, it builds pace and alters 
+itself several times, but then gives 
+out abruptly halfway through 
+into something that can only be 
+described as if Throbbing Gristle 
+decided to take up vaporwave. 
+It’s unbelievably bold, totally 
+irrational and expertly executed. 
+Another track that follows this 
+mold is “2010,” with its complex 
+guitar 
+patterns 
+— 
+sounding 
+
+straight out of In Rainbows-era 
+Radiohead — that switch to all-
+out thrash metal on a dime. It’s 
+one of the best songs on the album, 
+acting as a perfect centerpiece to 
+the chaos.
+
+Lyrically 
+speaking, 
+Squid 
+
+likes to keep things compact and 
+esoteric. It’s a bit of a nebulous 
+effort to try and decipher some 
+larger 
+connected 
+meaning. 
+
+However, an overarching theme 
+of 
+corporate 
+mundanity 
+and 
+
+its stale purposelessness does 
+pop up across the album. The 
+track “Narrator” describes the 
+desire to dictate one’s direction 
+
+in society, with vocalist Oliver 
+Judge chanting out to the world 
+“I’ll play my part” as if expecting 
+some universal reply. The song 
+“G.S.K.” is a direct reference to 
+the 
+pharmaceutical 
+company 
+
+GlaxoSmithKline and goes on to 
+create devastating imagery about 
+a “Concrete Island.” This strange 
+duality between the bombastic 
+fun of the music and the crushing 
+core of the lyrics contributes a 
+certain mood to the album as 
+if someone took a happy face 
+and stapled the smile in place. 
+Perhaps the Bright Green Field 
+they are referring to is actually 
+astroturf.
+
+When 
+it 
+was 
+announced 
+
+that 
+Squid 
+was 
+signing 
+to 
+
+legendary electronic label Warp, 
+it only added to the immense 
+anticipation that the band had 
+already accrued. Warp has built 
+a reputation for signing non-
+electronic groups just as they 
+make their big breakout into the 
+musical landscape; they did it 
+for Grizzly Bear, Danny Brown, 
+Battles, 
+Stereolab, 
+Broadcast, 
+
+Yves Tumor and countless others. 
+With Bright Green Field, Squid is 
+staking their claim as a member 
+of this list.
+
+The anomaly of “17776: What football will look like in the future” 
+
+Our time will come to an end. But 
+
+what if it doesn’t? What would you do? 
+Would you quit your job and travel the 
+world? Take a nap? “17776,” a hypertext 
+speculative fiction narrative by Jon 
+Bois, proposes a different answer on 
+behalf of humanity: play football. As 
+a deeply conditional football “fan,” 
+this piece has to be my favorite thing 
+I’ve ever read (and truly, I believe that 
+“17776” should be experienced with 
+little prior knowledge).
+
+Published online in 2017 at SB 
+
+Nation, a sports-focused media outlet 
+owned by Vox, “17776” is a deeply odd 
+and oddly deep fictional narrative 
+that questions how the scarcity of 
+time affects existence. Set 15,755 
+years in the future, Bois creates a 
+world where birth, death and the 
+suffering in between ended on April 7, 
+2026. People live free of financial and 
+health concerns; instead, in the United 
+States, many focus their energy on an 
+ongoing nationwide football game, 
+
+where participants play or engage 
+in fanfare. The story is narrated by 
+three sentient space probes, who 
+jokingly converse about the state of the 
+universe while observing the game.
+
+It’s unlike anything I’ve ever 
+
+read. First, the format: a mixture 
+of monthly calendars, group chat 
+records, 
+historical 
+documents, 
+
+podcast transcripts and Google Maps 
+of a landscape different from our own. 
+“17776” is a narrative that pushes 
+the boundaries of fiction, especially 
+on the internet: it’s one of the most 
+well-known additions to the internet 
+genre of hyperliterature, in which 
+online fiction uses unconventional, 
+expressive forms to convey its 
+“function.”
+
+While 
+newly-awakened 
+space 
+
+probe Nine’s (Pioneer 9) group chat 
+messages are formal, insistent and 
+laden with question marks (most 
+commonly “What?” followed by 
+questions like “We don’t do anything, 
+right?” and “This is the end, right? The 
+end of this story?”), Ten’s (Pioneer 
+10) and Juice’s (Jupiter Icy Moons 
+Explorer) texts are much more casual, 
+
+with less grammar and more jokes, 
+like this one about Lunchables: “neatly 
+partitioned meats and cheeses appeal 
+to me on an aesthetic level ok mfer.” 
+Ten and Juice are deeply familiar with 
+the state of the universe and have no 
+sense of time or urgency — they don’t 
+ask questions or bother with most 
+things, really. Compared with Nine’s 
+insistent questioning and existential 
+dread, they seem uninterested in 
+“serious” questions of the world 
+around them. Juice would much 
+rather discuss football, like many of 
+the humans on earth.
+
+The lack of “productivity” infuriates 
+
+Nine, from the late 20th century, who 
+begins angrily texting messages such 
+as “I’m appalled… disgusted, I guess,” 
+overcome with the lack of “purpose.” 
+Ten and Juice then slowly and calmly 
+text back, explaining to Nine that 
+“wasting” time is simply impossible — 
+time has ceased to be a finite resource, 
+and life goes on forever. In “17776,” 
+human beings are no longer under the 
+jurisdiction of the natural world. But 
+for creatures who’ve learned to define 
+their existence with constraints such 
+
+as time, money and physical ability, 
+immortality 
+is 
+terrifying. 
+Since, 
+
+instead of uncertainty or stress, 
+“boredom is their only enemy,” so 
+humanity turns to sports to deal with 
+being alive.
+
+The sheer amount of thought put 
+
+into “17776” is impressive. With plenty 
+of newspaper clippings, historical facts 
+and believable vignettes, the intricate 
+worldbuilding makes the piece feel 
+like an irreverent, entertaining study 
+of history. Looking at historical 
+documents such as certificates and 
+newspaper clippings makes me feel 
+like I’m trying to answer a Data-Based 
+Question for my high school American 
+history class again (in a good way, this 
+time). The montages of documents 
+over a course of 15,000 years have 
+a way of making you feel incredibly 
+inconsequential in their magnitude. 
+Most of the “historical” vignettes 
+narrated by the space probes’ group 
+chat gave me genuine goosebumps, 
+as I absorbed the stories in which 
+people grapple with the pain of an 
+endless existence. The tales weave in 
+and out of the football game, making 
+
+the 
+unnatural 
+seem 
+profoundly 
+
+mundane, and the every day seem 
+truly otherworldly — an always-
+burning light bulb is sacred, and New 
+York City has all but disappeared into 
+an underwater ghost town.
+
+Additionally, “17776” remains the 
+
+only true “utopian” piece of literature 
+I’ve ever read; absent of suffering, 
+it’s impressive that the piece so 
+thoroughly captures attention without 
+the traditional ideas of “conflict.” 
+Instead, it draws readers in through 
+thorough worldbuilding, crafting a 
+reality wholly different but strangely 
+similar to our own. Ultimately, within 
+the story, many Americans turn to 
+football to pass the time, like we 
+always have. Many, including Nine, 
+could easily call playing football a 
+waste of time. But, in our world and 
+theirs, humans’ need for sports goes 
+beyond expectations of productivity 
+and profit; Bois shows us that to unite 
+in this fashion and bring uncertainty 
+and excitement to a life filled with 
+mundanity is anything but useless. 
+
+ MEERA KUMAR
+
+Daily Arts Writer
+
+Squid becomes its own narrator on ‘Bright Green Field’
+
+DREW GADBOIS
+
+Daily Arts Writer
+
+Courtesy of Julian Wray
+
+Read more at michigandaily.com
+
+
+9
+
+Thursday, May 20, 2021
+
+The Michigan Daily — michigandaily.com
+
+Hundreds march in Dearborn in support of Palestinians
+
+A few thousand Detroit and 
+
+Dearborn residents gathered to 
+rally against Israeli airstrikes 
+and evictions of Palestinians 
+Saturday afternoon. Organized 
+by 
+the 
+Palestinian 
+Youth 
+
+Movement 
+and 
+endorsed 
+by 
+
+the Party for Socialism and 
+Liberation – Detroit, protesters 
+of all ages marched through the 
+streets of Dearborn with chants 
+of “Free Palestine!” and “From 
+the river to the sea, Palestine will 
+be free!”
+
+Demonstrators 
+waved 
+
+Palestinian flags of all sizes, 
+along with many signs with the 
+hashtag “#SaveSheikJarrah.” The 
+group expressed vocal outrage at 
+what they perceived as support 
+for Israel and inaction on behalf 
+of the Biden administration.
+
+Beginning 
+at 
+the 
+Arab 
+
+American National Museum, the 
+crowd listened to speeches from 
+various organizers and activists 
+calling for the end to American 
+military investment in Israel, 
+through 
+a 
+movement 
+known 
+
+as 
+Boycott, 
+Divestment 
+and 
+
+Sanctions (BDS).
+
+The group marched, biked, and 
+
+drove down Michigan Avenue, 
+with many bystanders showing 
+their support as they passed by, 
+sometimes waving flags of their 
+own. When the protest entered 
+the 
+neighborhood 
+streets 
+of 
+
+Dearborn, some residents stood 
+on 
+their 
+porches 
+expressing 
+
+support, and others even joined 
+the march. 
+
+The 
+protesters 
+blocked 
+
+westbound 
+traffic, 
+marching 
+
+down the M-153 highway, and 
+the group halted under a bridge, 
+where organizers hung flags 
+
+from the overpass.
+
+Ultimately, the group gathered 
+
+outside 
+the 
+Dearborn 
+Police 
+
+Department, where organizers 
+voiced their support for the Black 
+Lives Matter movement, drawing 
+connections 
+between 
+Black 
+
+Americans’ 
+struggle 
+against 
+
+systemic racism and the push for 
+Palestinian liberation.
+
+As the protesters left the 
+
+Dearborn 
+Police 
+Department, 
+
+some planted small Palestinian 
+flags in the grass with the names 
+of Black people killed by police 
+written on them, including those 
+of George Floyd and Breonna 
+Taylor.
+
+Once the group returned to 
+
+the Arab American National 
+Museum, organizers gave a few 
+final speeches and ended with 
+a call to action to come out to 
+protest Joe Biden’s upcoming 
+visit to the Ford Rouge Electric 
+Vehicle Center on Tuesday, May 
+18.
+
+ JARETT ORR
+
+Daily Staff Photographer
+
+MULTIMEDIA
+
+
+The Show Must Go On
+
+The Michigan Theater and State 
+
+Theatre, located in downtown Ann 
+Arbor, have been home to countless 
+movie screenings and performing arts 
+events for the Ann Arbor and U-M 
+communities in their respective 93 and 
+79 years of operation. The pair of historic 
+theaters, operated by the Michigan 
+Theater Foundation, have faced a year 
+rife with challenges brought on by the 
+COVID-19 pandemic.
+
+In early March 2020, as COVID-
+
+19 began to take hold in the state, the 
+Michigan and State theaters closed their 
+
+doors as per an executive order signed by 
+Gov. Gretchen Whitmer. The closure was 
+intended to last for two weeks, but as the 
+pandemic worsened, the theaters stayed 
+closed indefinitely, with the marquees 
+displaying reassuring messages such as 
+“Flatten the Curve, See You Soon,” “Good 
+Health to All,” and “Thank You Frontline 
+Heros.”
+
+Through the pause, the theaters 
+
+offered virtual screenings, custom 
+marquee messages, and concessions 
+to-go. 
+Nevertheless, 
+the 
+theaters 
+
+averaged a weekly loss of $10,000, and as 
+of September, the theaters had suffered a 
+total loss of more than $1.3 million. 
+
+One of the theaters’ primary sources of 
+
+support during the pandemic came from 
+local community members, who rallied 
+together to contribute via memberships, 
+donations and sponsorships. Although 
+the theaters were able to reopen in 
+October 2020, they quickly had to close 
+back down due to a statewide order in 
+November.
+
+In late January 2021, the theaters 
+
+were able to reopen for limited in-person 
+screenings. The Michigan Theater 
+symbolically reopened with the film “A 
+Hero for a Night,” which played at the 
+original opening of the theater in 1928. 
+
+I visited the theaters in April during a 
+
+sparsely attended matinee screening. As 
+masked patrons entered, they were faced 
+
+with temperature checks, hand sanitizer, 
+distancing markers, and plexiglass 
+barriers. 
+
+Inside the theaters, there was room 
+
+for distancing, as the ticketing system 
+guarantees at least six feet of space for 
+each patron and attendance is capped at 
+50 percent. The concession stands were 
+notably empty and the water and soda 
+fountains closed, in part because masks 
+are required in the theaters. 
+
+When the film started, employees 
+
+wiped down surfaces in the lobby, and 
+tended to tasks, such as changing poster 
+displays and the text on the marquee.
+
+Although the movie-going experience 
+
+was significantly different, patrons said 
+
+they were excited to get back out into 
+the community and begin a return to 
+normalcy.
+
+In a January interview with MLive, 
+
+Russ Collins, CEO and executive director 
+of the Michigan Theater Foundation, 
+remained optimistic about the theaters’ 
+futures, while acknowledging it may 
+take time for some to be comfortable 
+attending in-person screenings.
+
+“The reason that television and 
+
+subsequently streaming and DVDs and 
+all of those kind of things didn’t put an 
+end to going out (to) the movies is not 
+because you can watch something at 
+home,” Collins said. “It’s about going out. 
+There definitely is a future.”
+
+10
+
+Thursday, May 13, 2021
+The Michigan Daily — michigandaily.com
+MULTIMEDIA
+
+ DOMINICK SOKOTOFF
+
+Daily Staff Photographer
+
+
+What Macomb County can teach us about American politics
+
+B
+
+ack when blue and red were 
+just Crayola colors to me, I 
+remember sitting around the 
+
+reading carpet at my elementary 
+school in Macomb County, Michigan, 
+as everyone went around and talked 
+about what their parents did for a 
+living. Almost everyone seemed to 
+have at least one parent who worked 
+for a car company. With my dad 
+working at Chrysler for nearly three 
+decades, I was proud to be a part of 
+something.
+
+Although I moved away from 
+
+Macomb County years ago, I lived 
+at the Oakland-Macomb border and 
+had strong ties with friends and 
+family in my former area that gave 
+me reasons to be there frequently. 
+Up until high school, Macomb was 
+not much more than a place I called 
+home — full of memories in places 
+that I knew almost innately, like 
+recognizing my own reflection 
+in the mirror. But as I grew past 
+elementary and middle school, I 
+started to follow political trends. 
+
+Around the same time, I started 
+talking to my dad more about his 
+time working at Chrysler.
+
+I stayed up late last year following 
+
+the 2020 elections, hearing national 
+news networks talk about Macomb 
+as a representation of the country’s 
+blue-collar workers in the 2016 
+election — typical blue voters who 
+turned red for the last election. 
+I heard phrases like “growing 
+disgruntled” and “feeling neglected” 
+by both parties. 
+
+Having grown up in Macomb, I 
+
+was surprised to hear this. I felt 
+that I had grown up in a relatively 
+diverse area, at least from all 
+perspectives that I was aware of as 
+a second-grader. Although I knew 
+my dad had his stresses about work, 
+it didn’t seem to be any more than 
+any other work stresses I had seen 
+in TV shows and movies. Nor did 
+my neighbors seem as if they were 
+disgruntled; but then again, 8-year-
+old me wasn’t talking about politics 
+with my playmates’ parents. I was 
+
+curious how far the generalized 
+disillusionment spread.
+
+But this sentiment dates back to 
+
+before 2020, even before 2016. Stanley 
+Greenberg’s 1995 book “Middle Class 
+Dreams” called Macomb “the site 
+of real drama in our political life” 
+because of its battleground status. 
+Between what the media was telling 
+me and what I knew from my family’s 
+personal experiences, I wanted to 
+dig deeper and see what was really 
+happening in Macomb.
+
+Has the media exaggerated the 
+
+claims of political shifts in Macomb 
+County, or has the dominant ideology 
+really shifted significantly over 
+the years? Has the area become a 
+political microcosm of working-class 
+America?
+
+* * *
+
+My 
+mom 
+recently 
+sent 
+me 
+
+an article: “White angst keeps 
+Trumpism alive in Macomb County”. 
+This echoed the sentiments of the 
+national media headlines I had seen 
+before, but I wondered how recently 
+
+this “angst” started. The way I had 
+perceived Macomb County from 
+general media, I was expecting a 
+large shift for the Republicans in 2016 
+and 2020 compared to a history of 
+Democratic voting before that.
+
+When I looked at election results, 
+
+I was surprised to find smaller 
+margins than I expected.
+
+Trump had won with 53.6% of 
+
+the Macomb vote in 2016, whereas 
+Clinton had 42.1% of the vote. 
+However, there were still more 
+Democratic straight-party voters 
+— voters who chose all candidates 
+of one party on their ballot — than 
+Republican that year. The gap 
+slightly closed in 2020, with 53.4% 
+of the vote going to Trump and 
+45.3% going to Biden, but more 
+Republicans than Democrats voted 
+straight party this time.
+
+I also looked back at voting data 
+
+and was surprised to see Republican 
+nominee Bush holding the majority 
+as recent as 2004, with his father 
+holding it in 1992. From media 
+
+portrayal, I had expected Macomb to 
+elect the Democrat candidate every 
+time except Reagan and Trump. 
+With this in the back of my mind, and 
+knowing the importance of the auto 
+industry to Macomb’s economy, I set 
+out to talk to Macomb auto workers 
+about what politics look like on the 
+plant floor. 
+
+* * *
+
+Kevin McWilliams is a team leader 
+
+at the Chrysler plant in Macomb, 
+where he has worked since 2010. 
+Prior to that, he had worked at 
+Chrysler plants outside of Michigan 
+since 1995.
+
+As a member of the United 
+
+Auto Workers (UAW) — one of the 
+largest unions in North America, 
+representing workers in a variety of 
+economic sectors — McWilliams felt 
+his and his coworkers’ voting was 
+occasionally influenced by who the 
+UAW endorses.
+
+Thursday, May 20, 2021
+
+The Michigan Daily — michigandaily.com STATEMENT
+
+BY IULIA DOBRIN, STATEMENT CORRESPONDENT
+
+Design by Brianna Manzor
+
+Read more at michigandaily.com
+
+11
+
+
+12
+
+Thursday, May 20, 2021
+The Michigan Daily — michigandaily.com
+STATEMENT
+
+The j word: journalism at Michigan
+
+T
+
+he debate of the college 
+major is an endless uphill 
+battle; you can ponder and 
+
+argue and make all the decisions you 
+want without ever truly knowing if 
+you’re making the right choice. It is 
+impossible for a major to guarantee 
+personal success, yet choosing one can 
+feel like closing yourself off to only a 
+select few career paths. The majors 
+that are most valued by academic 
+institutions constantly change as 
+society shifts its priorities and goals.
+
+If I had known what I wanted to 
+
+do before entering college, there is a 
+good chance I would not have ended 
+up at the University of Michigan. I 
+have always been a writer and wanted 
+to pursue that in some form, but my 
+work with The Daily opened up my 
+love for journalism. Since realizing 
+what I wanted to pursue, I have 
+buried myself in deciding what major 
+and classes are the “next best thing.” 
+History, communications, sociology 
+and psychology are only a few of the 
+phases I’ve gone through just in this 
+past semester. The University’s lack 
+of a journalism major has made me 
+wonder whether or not I necessarily 
+need to major in it at all. 
+
+For 
+students 
+interested 
+in 
+
+journalism like myself, the debate of 
+practicality versus academic value 
+for undergraduate majors becomes 
+
+even more concentrated. A major 
+in journalism can offer plenty of 
+benefits: direct writing and reporting 
+training, a specialized curriculum 
+and access to professors who have had 
+work experience in the news sphere. 
+However, a journalism degree could 
+be too specific and prevent students 
+from experiencing a more theoretical, 
+well-rounded education. 
+
+In a report from the Knight 
+
+Foundation, a non-profit committed 
+to keeping journalism alive through 
+investment and grants, Carnegie 
+Corporation 
+President 
+Vartan 
+
+Gregorian puts it bluntly: 
+
+“Journalism schools are teaching 
+
+journalistic techniques rather than 
+subject matter. Journalists should 
+be cultured people who know about 
+history, economics, science. Instead 
+they are learning what is called nuts 
+and bolts. Like schools of education, 
+journalism schools should either be 
+reintegrated intellectually into the 
+university or they should be abolished.”
+
+Here at the University, they have 
+
+chosen the latter. After a complicated, 
+century-long revamping of what is now 
+the Department of Communication 
+and Media, the original journalism 
+program at the University was 
+eradicated. Although it’s unclear why 
+this choice was made, many opponents 
+of the decision saw it as an elitist way 
+
+of weeding out students interested in a 
+vocational education. 
+
+Professor Derek Vaillant, who is 
+
+also associate chair of undergraduate 
+studies within the Communications 
+and Media department, explained 
+the combination of numerous extinct 
+programs 
+(Journalism, 
+Speech, 
+
+Theater, Cultural Studies, etc.) into the 
+department we know today. 
+
+The committee that chose to 
+
+shut down the journalism program, 
+Vaillant says, was charged by many 
+faculty and students for being elitist 
+and condescending. Many argued that 
+the University’s journalism program 
+“lacked national impact.” 
+
+“(Saying ‘lacked national impact’) is 
+
+a sort of a way of saying: it’s not very 
+prestigious, it’s not very good,” Vaillant 
+said. “Was it not very good for training 
+professional journalists? I’m not sure. 
+Was it not very good in the way that 
+it seemed kind of vocational and like 
+something that state schools do to pay 
+the bills? Maybe that’s closer to the 
+truth.”
+
+In an attempt to stay true to 
+
+being the “leaders and best,” the 
+University 
+removed 
+a 
+program 
+
+with consistent student and faculty 
+interest. Prioritizing the liberal arts 
+and academic thought over vocational 
+training is a staple in America’s most 
+selective universities, such as those in 
+
+the Ivy League. Other highly ranked 
+public schools such as the University of 
+California, Los Angeles, University of 
+California, Berkeley and the University 
+of Virginia also utilize this liberal 
+arts approach. By abolishing our 
+journalism program, the University 
+is seemingly leaning into the identity 
+of an elite institution rather than the 
+large public university that it is.
+
+Beyond the fact that few journalism 
+
+courses exist here to begin with, many 
+of them reside under aliases such 
+as “immersion writing,” “creative 
+nonfiction” and “public writing.” 
+The word “journalism” has become 
+somewhat of a four-letter word to 
+academics who prioritize abstract 
+ideas over practical skill training. We 
+hear very little of what Peabody award 
+winner and visiting professor in the 
+Department of Communication and 
+Media, Robert Yoon, refers to as the “J 
+word” within U-M academics. 
+
+Undergraduate journalism degrees, 
+
+with a few possible exceptions 
+from top-tier universities such as 
+Northwestern University and the 
+University of Southern California, 
+seem to be associated with lucrative job 
+training rather than academic thought. 
+By diluting these journalism courses 
+into the English and Communication 
+and 
+Media 
+departments, 
+the 
+
+University strives to associate itself 
+with top-tier academia rather than 
+career preparation. 
+
+“Especially if you look at the English 
+
+department, there are all these kinds 
+of creative writing programs and (the 
+euphemism “long form reporting”) 
+is one of the genres,” Vaillant said. “I 
+think (the English department) has 
+incorporated some of this form of 
+education, but it’s done very carefully 
+because they don’t want a perception 
+of overemphasizing vocation at the 
+expense of this more idealized life 
+of the mind, humanities sort of ideal, 
+which is the ideal of the modern 
+university.”
+
+Although 
+I 
+understand 
+the 
+
+University’s desire to remain a place 
+of higher learning rather than of 
+vocational training, this sentiment 
+represents faculties’ disregard for 
+students’ interests. The decision to 
+eradicate the journalism program 
+was made by faculty even though 
+hundreds of students continue to 
+be involved in student publications. 
+Instead of focusing on teaching what 
+students are most passionate about, 
+this decision seems to have been made 
+in order to ensure that every U-M 
+program was deemed better than the 
+rest. 
+
+BY EMILY BLUMBERG, STATEMENT CORRESPONDENT
+
+Read more at michigandaily.com
+
+Design by Erin Ruark
+
+
+Michigan to travel to 
+
+Seattle for NCAA regional
+
+Beaubien’s perfect game highlights 
+
+doubleheader sweep
+
+The D-1 Softball Committee 
+
+revealed on Sunday that the 
+Michigan softball team will travel 
+to Seattle in the NCAA regional. 
+
+The 
+Seattle 
+regional 
+is 
+a 
+
+double-elimination 
+bracket 
+
+consisting of the home team in 
+No. 16 Washington, Michigan, 
+Western 
+Athletic 
+Conference 
+
+champion Seattle, and Big Sky 
+
+Conference champion Portland 
+State. Michigan will face Seattle 
+to open its regional battle on 
+Friday night. 
+
+Although 
+Washington 
+was 
+
+ranked 16th by the committee, 
+securing 
+the 
+final 
+regional 
+
+host site of the tournament, its 
+resume suggests that they are a 
+far-stronger team than that. The 
+Huskies were ranked No. 5 in the 
+nation entering the final weekend 
+of the season. They went 41-11, 
+and will pose a serious challenge 
+for the Wolverines. 
+
+Due to Seattle being the 16th 
+
+and final regional host in the 
+tournament, 
+Michigan 
+will 
+
+most likely be forced to travel to 
+Norman, Okla. to face the No.1 
+Oklahoma softball team, should 
+it survive the difficult Seattle 
+regional. 
+
+The selection comes after a 
+
+strong season for the Wolverines. 
+They partook in a conference-only 
+schedule in the Big Ten, posting a 
+36-6 record, and winning its 22nd 
+conference title. The Wolverines’ 
+resume is highlighted by key 
+series wins against Northwestern 
+and No. 23 Minnesota, the two 
+other teams representing the Big 
+Ten in the NCAA tournament. 
+
+Michigan enters the NCAA 
+
+tournament hot, winning 15 of its 
+last 16 games. Matching up with 
+Washington on its home field, 
+however, will most likely be the 
+team’s most difficult test of the 
+season. 
+
+In a meeting with reporters 
+
+following the selection, Michigan 
+coach Carol Hutchins voiced her 
+displeasure in the committee’s 
+decision to send the Wolverines 
+to Seattle, in a regional housing 
+a top five team in the nation, as 
+
+opposed to hosting the regional 
+at Alumni field after her team 
+produced a successful season in 
+the Big Ten.
+
+“(The committee) absolutely 
+
+did not do a very good job,” 
+Hutchins said. “They disrespected 
+our entire conference … I’m not 
+very pleased with (them) at all.” 
+
+Last season’s NCAA softball 
+
+tournament was canceled due 
+to 
+the 
+COVID-19 
+pandemic. 
+
+In the last installment of the 
+tournament in 2019, Michigan 
+hosted a regional in Ann Arbor, 
+where they fell to James Madison 
+University. 
+
+Michigan has reached the 
+
+NCAA 
+tournament 
+in 
+every 
+
+season since 1995. In that span, 
+it has advanced to the super 
+regionals 18 times, and continued 
+to the College World Series 
+12 times. It won the national 
+championship in 2005. 
+
+The Wolverines have failed 
+
+to advance to a super regional in 
+their past three attempts, marking 
+the longest such stretch since 
+their NCAA tournament streak 
+began in 1995. They will look to 
+end their dry spell this weekend, 
+with 
+regionals 
+beginning 
+on 
+
+Friday. 
+
+Rutgers pinch hitter Megan Herka 
+
+walked to the plate ready to play 
+spoiler. 
+
+No. 18 Michigan had denied the 
+
+Scarlet Knights a spot on base all 
+game. Now, marking the potential 
+last batter of the day, it was Herka’s 
+job to ruin senior left-hander Meghan 
+Beaubien’s perfect slate.
+
+It looked like Herka was going to 
+
+do just that, as she took three straight 
+balls to start her plate appearance. 
+The game wasn’t on the line, but a 
+career milestone was. Facing a tough 
+count, Beaubien kept her composure.
+
+“If I threw another ball, I was 
+
+gonna walk her anyway,” Beaubien 
+said. “So I’m just staying loose and 
+telling myself that if I stay loose and I 
+throw this pitch, then it’s going to be a 
+good one and trusting that they’re not 
+going to hit it.”
+
+Feeding Herka a strike and forcing 
+
+a foul tip, Beaubien worked Herka 
+back into the corner the Scarlet 
+Knights had been stuck in all game. 
+The final pitch careened toward 
+junior catcher Hannah Carson and 
+nestled itself in the well-worn leather 
+of her glove.
+
+Ball game.
+Perfect game.
+As Beaubien leapt into the air to 
+
+celebrate an achievement that most 
+pitchers can only dream of, Michigan 
+
+celebrated an 11-0 win that could only 
+be described as dominant in every 
+measurable way.
+
+A key part of that was the 
+
+Wolverines’ defense. Out of 15 
+batters, 13 were put out by the field. 
+As much as the perfect game is an 
+accomplishment for Beaubien, it also 
+speaks to Michigan’s ability to back 
+up its pitchers.
+
+“I give a lot of credit to the defense 
+
+today,” Beaubien said. “I didn’t have 
+a lot of strikeouts, but the defense is 
+making some great plays so I think 
+that was a really big team effort and 
+proud of my outfielders and I think 
+everyone did a great job.”
+
+Part of that team effort came from 
+
+freshman catcher Keke Tholl, who 
+made a spectacular catch on a foul ball 
+in the fourth inning. First baseman 
+Gabrielle Callaway tipped the ball in 
+the air toward the first base line. Tholl 
+popped out of her stance and chased 
+it, diving forward to make the play.
+
+The outcome suggests Rutgers’ 
+
+at-bats were lackluster all game, but 
+hitters were able to put the ball in 
+play, sometimes deep. Every time that 
+happened, though, they couldn’t find 
+the gap and the Wolverines made an 
+out.
+
+No matter what the fielders could 
+
+do to help her, the perfect game 
+came down to superb pitching from 
+Beaubien. 
+The 
+Scarlet 
+Knights 
+
+couldn’t get comfortable at the plate, 
+and the edge that she had gained in 
+Friday’s win meant she was attacking 
+
+everyone that stepped in the batter’s 
+box. Rutgers was forced to deal with 
+poor pitches that left them empty 
+handed.
+
+Often, those led to quick, easy outs. 
+
+Beaubien’s two strikeouts over the 
+five innings is an uncharacteristically 
+low count considering she averages 
+around 9.88 strikeouts per seven 
+innings. She didn’t need to get many, 
+though, because the Scarlet Knights 
+did the work for her.
+
+In fact, the biggest challenge for 
+
+Beaubien to overcome may have 
+been keeping focused on the game 
+itself rather than the upcoming 
+milestone. That meant returning to 
+the methodology that has guided the 
+Wolverines all season.
+
+“I was just trying to focus on one 
+
+pitch at a time,” Beaubien said. “I 
+didn’t want to get too excited about 
+that possibility. The second you get 
+too excited and start thinking about 
+that, that’s when you’re most likely 
+gonna give it up.”
+
+Beaubien’s perfect outing was 
+
+a fitting way to end what could be 
+the last home start of her career. As 
+the NCAA Tournament looms and 
+Michigan focuses on winning its 
+upcoming regional, this game proved 
+that Beaubien’s not done yet. 
+
+“I tell you, there’s some things I 
+
+want from Megan Beaubien that are 
+bigger than that,” Michigan coach 
+Carol Hutchins said. “I want her to 
+play on the biggest stage. And I want 
+her to help take us there.”
+
+ PAUL NASR
+
+Daily Sports Writer
+
+ CONNOR EAREGOOD
+
+Daily Sports Writer
+
+JULIA SCHACHINGER/Daily
+
+Meghan Beaubien threw the first perfect game of her career against Rutgers.
+
+JULIA SCHACHINGER/Daily
+
+Michigan will travel to Seattle for the NCAA regionals. 
+
+Thursday, May 20, 2021
+
+The Michigan Daily — michigandaily.com SPORTS 13
+
+
+14
+
+Thursday, May 20, 2021
+The Michigan Daily — michigandaily.com
+SPORTS
+
+Redshirt sophomore left-hander 
+
+Steven Hajjar and sophomore right-
+hander 
+Cameron 
+Weston 
+have 
+
+provided Michigan with a formidable 
+1-2 punch at the top of its rotation. 
+Hajjar sports a 4-0 record with an 
+impressive 3.02 ERA while Weston, 
+the number two starter, has posted a 
+5-3 record and has an excellent 2.85 
+ERA. After those two, however, the 
+Wolverines continue to search for 
+consistency. 
+
+On Sunday, sophomore left-hander 
+
+Jacob Denner showcased himself as a 
+pitching option.
+
+Denner has had a good 2021 
+
+campaign as the team’s third starting 
+pitcher. He has shown flashes of 
+brilliance, but there is still room 
+for improvement. As the schedule 
+winds down, each game increases in 
+importance and in perhaps the biggest 
+game of the year, Denner was lights 
+out.
+
+On Sunday afternoon, Michigan met 
+
+No. 21 Indiana in the rubber match of its 
+three-game series. Considering their 
+proximity atop the Big Ten standings, 
+it had the feeling of a postseason tilt. In 
+one of the most important games of the 
+
+season, Michigan coach Erik Bakich 
+needed a big outing from his third 
+starting pitcher.
+
+“Coach Bakich does a great job of 
+
+shrinking the moment,” Denner said. 
+“Just taking it one game at a time, one 
+inning at a time, one pitch at a time. 
+That’s really the mindset he’s put into 
+us, win every pitch and good things 
+will happen.”
+
+The New Jersey product had 
+
+arguably his best, and most clutch, 
+game of the season versus the 
+Hoosiers. He went six and one-third 
+innings, gave up four hits, one walk, 
+and six strikeouts. From the get-go, he 
+was in control of the strike zone. He 
+overpowered Indiana with his fastball 
+and his changeup had good movement. 
+He dictated the pace of the afternoon 
+and allowed the offense to operate on 
+their own terms.
+
+Denner’s lone mistake came in the 
+
+top of the fifth. Hoosiers’ outfielder 
+Morgan Colopy lined a ball into right 
+field that carried over the wall. Despite 
+the slip up, Denner remained poised. 
+He went through the rest of the inning 
+with ease and propelled the Wolverines 
+into the seventh with a two-run lead. 
+With the win, Denner improves to 4-3 
+on the year and his ERA is nearing the 
+4.00 mark. 
+
+“He attacked with three pitches,” 
+
+Bakich said. “That’s a tough lineup to 
+navigate, they’re very good players. To 
+only give up a solo home run and get us 
+into the seventh inning was huge.”
+
+During game two on Saturday, the 
+
+Wolverines’ bullpen was decimated 
+by Indiana. They allowed nine runs 
+during the seventh and eighth innings. 
+More importantly, however, was that 
+Michigan had an opportunity to pull 
+
+off the comeback before the bullpen 
+collapsed. Sunday afternoon, they 
+redeemed themselves.
+
+Big hits power Michigan over Indiana, 6-1
+
+Sophomore infielder Ted Burton 
+
+stepped into the batters’ box at the 
+bottom of the second with the full 
+intention of hitting the ball. After an 
+embarrassing loss to Indiana the day 
+before, Burton knew giving his team 
+a chance to score could make the 
+difference in the game.
+
+After a 0-1 count, Burton lined the 
+
+ball through left field for a single, 
+giving life to the Wolverines’ offense 
+and setting the tone for the entire 
+game. Burton went on to hit three-of-
+four on the day, boosting Michigan 
+for a win over the Hoosiers 6-1. 
+
+The Michigan baseball team (25-
+
+13 Big Ten) played No. 21 Indiana (24-
+12 Big Ten) on Sunday for the final 
+game of the series. The Wolverines 
+opened the game with a swift relief 
+of Indiana’s offense. Left-hander 
+Jacob Denner and the Michigan 
+defense allowed a single through 
+to left field but quickly grounded 
+out the remaining Hoosier batters 
+to give the Wolverines a scoring 
+
+opportunity.
+
+“Talking to (redshirt sophomore 
+
+left-handerSteven 
+Hajjar) 
+and 
+
+(sophomore right-hander Cameron 
+Weston) really helped me,” Denner 
+said. “Really thinking about a game 
+plan to attack those hitters, who are 
+all extremely talented.”
+
+In the second inning, Michigan 
+
+capitalized. 
+Fifth-year 
+shortstop 
+
+Benjamin Sems and Burton had back-
+to-back singles to put the Wolverines 
+on first and third. After a sacrificial 
+flyout by fifth-year catcher Griffin 
+Mazur, Michigan put the first score 
+on the board. 
+
+Sophomore infielder Tito Flores 
+
+continued the hitting barrage by 
+crushing an RBI double into left field 
+to push the Wolverines up 2-0.
+
+Michigan added another score in 
+
+the fourth after Burton hit a double 
+to center field and finished with a 
+run on a wild pitch. Burton was able 
+to initiate the Wolverines’ offense 
+when it mattered most — which 
+would allow the defense to continue 
+to flourish.
+
+“We say our best defense is our 
+
+offense,” Proctor said. “To show 
+
+that we can put up those types of 
+numbers gives our pitching staff 
+and defense all the confidence in the 
+world.”
+
+Despite allowing a lone home run 
+
+in the fifth, Michigan continued to 
+negate Indiana’s offense and give 
+itself opportunities in the batters’ 
+box.
+
+Senior right-hander Blake Beers 
+
+pitched in relief for Denner in the 
+
+seventh, immediately striking out 
+the first Hoosier batter he faced. 
+After giving up a single, Beers and the 
+Michigan defense cleaned up with a 
+critical ground out to maintain the 
+
+Wolverines’ lead at 3-1. 
+
+“For (Beers) to jump into a role 
+
+as a high-leverage reliever is a huge 
+boost for us,” Michigan coach Erik 
+Bakich said. “He throws 95, 97 with 
+a nasty breaking ball as well. When 
+
+he’s filling up the strike zone with 
+those two pitches like he was today, 
+he’s really good.”
+
+Junior right-hander Willie Weiss 
+
+replaced Beers in the eighth, striking 
+out Indiana utility player Drew 
+Ashley, who had given the Hoosiers 
+quality offensive production the 
+day before. The Wolverines made 
+another pitching change after Weiss 
+gave up two walks, putting junior 
+right-hander Will Proctor on the 
+mound.
+
+“Something that’s been instilled 
+
+in us since the fall is a ‘next man up’ 
+attitude,” Proctor said. “If one guy 
+can’t get it done, it’ll be the next guy. 
+That attitude is the bread and butter 
+on this team.”
+
+Proctor and the Michigan defense 
+
+quickly got themselves out of trouble, 
+grounding out Indiana to maintain 
+the Wolverines’ lead and looked to 
+close out the game. Almost mirroring 
+the second inning, Sems and Burton 
+again hit singles to put runners on 
+base, and Flores had another RBI 
+double to put Michigan up 4-1.
+
+ ABBAS KAGAL
+Daily Sports Writer
+
+Denner deals, pushes Michigan past Indiana in crucial win
+
+SAM BERNARDI
+Daily Sports Writer
+
+BECCA MAHON/Daily
+
+Denner’s pitching was the key to Michigan’s win on Sunday.
+
+BECCA MAHON/Daily
+
+Michigan defeated Indiana on Sunday to win the series.
+
+Read more at michigandaily.com
+
+Read more at michigandaily.com
+
+
+Beniers, Power selected to play in World Championships
+
+Michigan falls to Pepperdine 4-0 in round of 16
+
+Michigan will have the chance to 
+
+see a couple of its young stars compete 
+for their national teams later this 
+month. 
+
+On Thursday, it was announced 
+
+that 
+freshman 
+forward 
+Matty 
+
+Beniers would be suiting up for Team 
+USA at the 2021 International Ice 
+Hockey Federation (IIHF) World 
+Championships — taking place in 
+Riga, Latvia. Beniers will be joined 
+at the tournament by freshman 
+defenseman Owen Power, who was 
+named to Team Canada’s roster. 
+
+The collegiate teammates will now 
+
+face-off as international rivals. 
+
+Beniers 
+has 
+prior 
+experience 
+
+playing for Team USA, as he was 
+part of the World Juniors team that 
+won gold in January. Beniers had a 
+quiet tournament, with just one goal 
+and two assists, but the experience 
+is something that will stick with him 
+forever. 
+
+“I think that’s one of the best 
+
+moments of my life so far, definitely 
+the 
+best 
+hockey 
+moment 
+I’ve 
+
+experienced,” Beniers said in January. 
+
+“It was just an awesome experience 
+to play with such great players on 
+my team and definitely an awesome 
+experience to play with such great 
+players against us.”
+
+After helping Team USA win gold 
+
+at World Juniors for the first time 
+since 2017, Beniers is hoping to help 
+the team end a much longer medal 
+drought at the World Championships. 
+Team USA has not won gold since 
+1960, and most recently won Bronze 
+in 2018. 
+
+At just 18 years old, Beniers will be 
+
+the youngest member of Team USA. 
+Youth was no issue for Beniers during 
+his freshman campaign with the 
+Wolverines, as he racked up 10 goals 
+and 14 assists on the year and earned 
+a spot on the Big Ten all-freshman 
+team. He’ll hope to build on his 
+Juniors performance and collect the 
+second gold medal of his young career. 
+
+Power, meanwhile, will make his 
+
+long-awaited debut for Team Canada. 
+The defenseman was expecting to 
+compete with Beniers while playing 
+for his country at World Juniors but, 
+facing the prospects of missing the 
+first half of the collegiate season due 
+to COVID-19 protocols with the 
+Canadian team, Michigan coach 
+
+Mel Pearson made a controversial 
+decision to hold Power out of the 
+tournament. 
+
+“I think the decision to have me 
+
+stay here and play was fine. I think 
+either way it was a good decision,” 
+Power said after not going to Juniors. 
+“I think just being able to stay here and 
+
+just develop with the team was a good 
+decision.”
+
+Chiara Lommer felt the weight of 
+
+the world on her shoulders. 
+
+After dropping her first set 6-1, the 
+
+fifth-year senior was down 5-3, 40-0 
+— one point away from Michigan’s 
+season and her illustrious career as a 
+Wolverine coming to a close. 
+
+Lommer would not go away, 
+
+playing relentless defense to eek out 
+
+two straight points to chip away at a 
+nearly insurmountable lead. 
+
+In 
+the 
+following 
+point, 
+her 
+
+outstretched backhand sailed just 
+wide, giving No. 5 Pepperdine (22-3) a 
+4-0 victory over the Wolverines(19-3) 
+in the round of 16 at the NCAA Team 
+Championship.
+
+Up against a deep, talented singles 
+
+lineup from Pepperdine, the doubles 
+point offered the Wolverines the 
+opportunity to take an early lead. 
+
+When the No. 3 doubles tandem 
+
+of sophomore Andrea Cerdan and 
+senior Bella Lorenzini jumped out 
+to a 4-1 advantage, it looked like 
+Michigan could do just that.
+
+Yet 
+the 
+Wolverines’ 
+lead 
+
+evaporated, as the Wave’s Jessica 
+Failla and Anastasia Lamachkine 
+rattled off six straight games to 
+steal the doubles point from the 
+Wolverines and take a 1-0 lead.
+
+“I thought Pepperdine played 
+
+really well,” Michigan coach Ronni 
+Bernstein said. “That’s a team I 
+think that could possibly win (the 
+Championship). We needed to play 
+a perfect match and we did not do 
+that.”
+
+At No.1 singles, freshman Kari 
+
+Miller was stacked up against three-
+time All-American Ashley Lahey. 
+While Miller took advantage of errors 
+from Lahey to take an early lead, 
+Miller was unable to close, as Lahey 
+staved off multiple breakpoints to 
+scrap her way to a 6-4 victory in the 
+first set.
+
+Despite a deflating loss in the first 
+
+set, Miller came out with vengeance 
+in the second set and took control.
+
+“Kari is in every match she plays,” 
+
+Bernstein said. “It’s a little bit that 
+
+she’s young because she was up 40-0 
+a couple games in the first set and had 
+a lot of opportunities. But Kari at the 
+top of the lineup has been incredible 
+for us. She’s up in the second set and 
+still fighting and the kid she’s playing 
+is a fifth-year and was number one in 
+the country last year. That just shows 
+you what Kari Miller is going to be for 
+Michigan.”
+
+Fellow freshman Jaedan Brown 
+
+found herself in an early 3-0 deficit at 
+No. 4 singles against Shiori Fukuda. 
+After strong play from the baseline 
+got her back in the match, Brown’s 
+struggles serving lead to a 6-4, 6-1 
+defeat. 
+
+The Waves’ Taisiya Pachkaleva 
+
+moved Cerdan all around the court 
+to take a dominant 6-0 victory in the 
+first at No. 3 singles. 
+
+Cerdan 
+kept 
+her 
+composure, 
+
+jumping out to a 2-0 lead in the 
+second set, but Pachkaleva quickly 
+retook the lead en route to a 6-3 win. 
+
+At No. 5 singles, Senior Alyvia 
+
+Jones found herself in a back-and-
+forth affair against Lisa Zaar. With 
+her team falling behind, Jones 
+delivered 
+a 
+dominant 
+serving 
+
+performance complemented by 5 aces 
+to earn a 6-4 first-set victory, hoping 
+
+to be a catalyst for the rest of the team. 
+
+Jones’ success continued as she 
+
+was leading 5-1 in the second before 
+Pepperdine clinched the victory.
+
+“She was so close to getting us a 
+
+point there,” Bernstein said. “She’s a 
+great kid and she cares so much about 
+our program and fought hard today. 
+She’s one that’s asking the score and 
+wants to know what’s going on (with 
+her teammates).”
+
+As 
+Michigan’s 
+three 
+seniors 
+
+continued to fight to close the Waves’ 
+3-0 lead, the weight of the moment 
+set in. 
+
+“These guys play tennis for I don’t 
+
+know how long,” Bernstein said. “I 
+think they realize it’s the end at some 
+point. They’ve done so much for our 
+program. They’ve brought so much 
+leadership. Bella, Chiara, and Alyvia 
+were great Michigan players and are 
+going to be part of our program for a 
+long time.”
+
+While the seniors will move on, the 
+
+exceptional play from the Wolverines’ 
+freshman players throughout the 
+season put the rest of women’s tennis 
+on notice. This team is young and 
+getting better. 
+
+ JOSH TAUBMAN
+
+Summer Managing Sports Editor
+
+ ALEX WALKON
+Daily Sports Writer
+
+ MILES MACKLIN/Daily
+
+Matty Beniers, along with teammate Owen Power, will compete in the IIHF World Championships later this month.
+
+Thursday, May 20, 2021
+
+The Michigan Daily — michigandaily.com SPORTS 15
+
+Read more at michigandaily.com
+
+Read more at michigandaily.com
+
+GRACE BEAL/Daily
+
+Michigan battled but came up short in its Sweet 16 matchup with 
+Pepperdine.
+
+

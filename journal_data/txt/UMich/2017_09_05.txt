@@ -1,0 +1,8207 @@
+Information and Technology 
+
+Services at the University of 
+Michigan released updates to 
+campus computing sites for fall 
+2017. The updates are part of an 
+initiative to make technology 
+more accessible to students on 
+more devices, according to a 
+University press release.
+
+The updates include Sites 
+
+Windows computer software, 
+which will now be available 
+through 
+AppsAnywhere, 
+a 
+
+portal similar to the app store 
+that can be accessed via web 
+browsers. 
+AppsAnywhere 
+
+uses Cloudpaging, the same 
+on-demand 
+service 
+as 
+the 
+
+College of Engineering’s CAEN 
+Lab Software, which allows 
+students to access computer 
+software from a web browser 
+on different devices, rather 
+than a start menu on just one 
+computer. 
+
+The MPrint mobile app also 
+
+was revamped, now allowing 
+students to use their own mobile 
+devices to wirelessly collaborate 
+with campus technology. The 
+app for iOS and Android devices 
+will work with Follow Me print 
+queue, a new application for 
+campus computers that can save 
+documents for up to 24 hours. 
+Students 
+can 
+release 
+their 
+
+saved documents to the most 
+convenient 
+campus 
+printing 
+
+site.
+
+University 
+of 
+Michigan 
+
+students, 
+faculty 
+and 
+
+community members gathered 
+Monday 
+afternoon 
+at 
+the 
+
+University Rock to paint over 
+anti-Latinx 
+and 
+pro-Trump 
+
+writing that happened over the 
+weekend. 
+
+The rock read “F— Latinos” 
+
+and 
+“MAGA,” 
+short 
+for 
+
+Make America Great Again, 
+or the slogan of President 
+Donald 
+Trump’s 
+campaign, 
+
+covering what was originally 
+welcoming messages painted 
+by the newest student cohort of 
+Assisting Latinos to Maximize 
+Achievement. 
+
+“I thought this would be sort 
+
+of taking action as opposed to 
+writing a letter that students 
+know is important, but this 
+would be a different approach,” 
+said David Schoem, director 
+of the Community Scholars 
+Program, who decided to paint 
+over the writing.. “So the idea 
+is to reclaim the rock and the 
+campus for all the students at U 
+of M and drive out, paint away 
+the hate.”
+
+Students and faculty painted 
+
+the rock completely white, 
+obscuring any other writing 
+and then painted phrases such 
+as “Latinx belongs,” and the 
+names of other LSA programs 
+in a show of solidarity.
+
+“The message I think we’re 
+
+writing is we support Latinx 
+students and (Assisting Latinos 
+
+to Maximize Achievement),” 
+Schoem said. “We want to set 
+things right before classes 
+start: that we’re all here as 
+a community, every student 
+counts, every student owns 
+this University and we’re going 
+to stand together to make sure 
+that’s the case, that everybody 
+feels this is their University.”
+
+LSA 
+sophomore 
+Noelle 
+
+Wade, a member of the Lloyd 
+Hall 
+Scholars 
+Program, 
+
+attended the event in a show 
+of solidarity with the Latino 
+community.
+
+“I decided to come out today 
+
+because social justice is a very 
+big passion of mine and if I can 
+support marginalized students 
+on campus, I will,” Wade said. 
+“(LHSP) 
+decided 
+to 
+come 
+
+out as a group and show our 
+support for Latinx students on 
+campus.”
+
+Wade 
+included 
+that 
+it’s 
+
+important to show that the 
+University 
+doesn’t 
+approve 
+
+of the messages that were 
+previously painted on the rock 
+in order to support students 
+from various backgrounds and 
+
+ethnicities.
+
+“It sets a happy tone (for this 
+
+school year) because it shows 
+that a bunch of different people, 
+from a bunch of different walks 
+of life, different ethnicities, 
+can come together and support 
+someone else,” Wade said. 
+“Maybe you aren’t the person 
+it was directed toward, but 
+maybe you know how it feels 
+and you came out and showed 
+support and that shows that the 
+University of Michigan can be a 
+… welcoming environment and 
+a supporting environment.”
+
+Forty-two clubs and University-
+
+sponsored organizations welcomed 
+incoming LGBT freshmen and 
+allies to the University with the 
+annual Pride Outside event at 
+Palmer Field Monday. 
+
+Formerly known as Gayz Craze, 
+
+Pride Outside is sponsored by 
+Out in STEM, an organization 
+that supports LGBT students in 
+Engineering and STEM fields. 
+The event, which attracted about 
+500 students, was sponsored by 
+Central 
+Student 
+Government 
+
+but was transferred to oSTEM 
+two years ago when Engineering 
+senior Sindhu Sreedhar offered 
+to bring the event under oSTEM’s 
+leadership.
+
+Twelve clubs were specifically 
+
+for LGBT students, though all 
+organizations represented are in 
+support of creating safe spaces for 
+LGBT students, including social 
+justice and volunteer organizations.
+
+“We try to get organizations that 
+
+are really built around community 
+building 
+and 
+community 
+
+organizing so we can cater towards 
+the LGBTQ community in that 
+way,” Sreedhar said.
+
+michigandaily.com
+Ann Arbor, Michigan
+Tuesday, September 5, 2017
+
+ONE HUNDRED AND TWENTY-SIX YEARS OF EDITORIAL FREEDOM
+
+GOT A NEWS TIP?
+Call 734-418-4115 or e-mail 
+news@michigandaily.com and let us know.
+
+INDEX
+Vol. CXXVII, No. 82
+©2017 The Michigan Daily
+
+N E WS . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+O PI N I O N . . . . . . . . . . . . . . . . . . . . . 5
+
+A R T S . . . . . . . . . . . . . . . . . . . . . . 6
+
+S P O R T S . . . . . . . . B -S EC T I O N
+
+ITS updates
+accessibility,
+computing 
+sites for fall
+
+Big data: University researchers navigate ethics, 
+
+unpredictability of data science research
+
+See COMPUTING, Page 4A
+
+AVA WEINER/Daily
+
+CAMPUS LIFE 
+
+Revamps include new MPrint app, cloud-
+based software for improved student-access
+
+MCKENZIE HANIGAN
+
+Daily Staff Reporter
+
+Research encompasses high-performance computing, analytics and management
+
+In recent years, big data emerged 
+
+as a powerful tool, spurring the 
+University of Michigan to dedicate 
+an initiative and institute to its 
+
+study and implementation.
+
+In a statement in 2015, Jack Hu, 
+
+vice president for research at the 
+University, wrote that big data — 
+exorbitantly large data sets that 
+can be parsed to show trends and 
+associations — was “revolutionizing 
+research in extraordinary range of 
+
+disciplines.”
+
+The University’s financial and 
+
+professional investment in data 
+science has since proven beneficial; 
+with $100 million subsidizing 
+the 
+University’s 
+Data 
+Science 
+
+Initiative over five years, faculty 
+members from multidisciplinary 
+
+and intersectional departments 
+have been part of grounding the 
+University’s research in modern 
+data computation, analytics and 
+management.
+
+“With this initiative, our goal 
+
+is to spark innovation in research 
+
+ALEXA ST. JOHN
+Managing News Editor
+
+See PRIDE, Page 4A
+
+Pride fest 
+welcomes 
+incoming 
+students
+
+CAMPUS LIFE
+
+More than 40 clubs 
+and orgs welcome 500 
+LGBT freshmen, allies 
+
+CLAIRE MEINGAST/Daily
+
+The University Rock on Washtenaw Avenue is repainted Monday afternoon.
+
+Campus community members repaint
+rock after racist, pro-Trump messages 
+
+Multiple departments, administrators join in solidarity with Latinx students 
+
+COLIN BERESFORD
+
+Daily Staff Reporter
+
+michigandaily.com
+
+For more stories and coverage, visit
+
+See DATA, Page 3A
+
+This 
+fall, 
+the 
+School 
+of 
+
+Public Health is launching its 
+undergraduate 
+public 
+health 
+
+major program, with its first 
+cohort of 95 students.
+
+Gary Harper, the director 
+
+of the office of undergraduate 
+education at the Public Health 
+School, as well as a professor 
+of health behavior and health 
+education 
+and 
+global 
+public 
+
+health, said he chaired the task 
+force that was created in 2014 
+to develop the undergraduate 
+program. The initial idea for the 
+creation of a program came from 
+the dean’s office at the School 
+of Public Health and Martin 
+Philbert, the former dean, who is 
+now the University’s provost.
+
+“It’s something that has been 
+
+talked about at various times here 
+in the School of Public Health 
+and I think the timing was right,” 
+Harper said. “There just seemed 
+to be the time to actually get 
+serious about creating something 
+and figuring out what we could 
+do in the undergraduate space.”
+
+Students apply to the program 
+
+in the winter term of their 
+
+See HEALTH, Page 4A
+
+First class 
+of students 
+enter new
+curriculum
+
+ACADEMICS
+
+School of Public Health 
+welcomes cohort of 95 to 
+undergraduate program 
+
+MATT HARMON
+Daily Staff Reporter
+
+Starting off strong
+
+The No. 11 Michigan football 
+team put concerns about its 
+inexperience aside, beating 
+No. 17 Florida, 33-17, in the 
+AdvoCare Classic at AT&T 
+
+Stadium in Dallas. 
+
+» Page 1B
+
+JENNIFER MEER
+Daily Staff Reporter
+
+
+2A — Tuesday, September 5, 2017
+The Michigan Daily — michigandaily.com
+
+Tweets
+Follow @michigandaily
+
+Justin Wolfers
+@JustinWolfers
+
+My message to #Dreamers 
+at @umich is simple: Wel-
+come to class. 
+
+Michigan Students
+@UMichStudents
+
+Ugh. Welcome weekend is 
+over and now I gotta go back 
+to being a mediocre student.
+
+edamami
+@jamsjohns
+
+umich is a lotta average 
+looking white boys lemme 
+tell u 
+
+Dr. Mark Schissel 
+@DrMarkSchlissel
+
+New discoveries, good 
+friends, favorite places & 
+amazing knowledge await at 
+@UMich. Welcome to a new 
+academic year!
+
+ 
+
+CAMPUS EVENTS & NOTES
+
+Moth StorySLAM: 
+Schooled
+
+WHAT: The Story Slam will 
+feature five-minute stories 
+centered around the theme of 
+school. Attendees can sign up 
+to share stories, serve on the 
+judges panel or simply watch. 
+
+WHO: Michigan Radio
+
+WHEN: 7:30 p.m. to 9:00 p.m.
+
+WHERE: Greyline, 100 N 
+Ashley St.
+
+Indian Classical Dance
+
+WHAT: A number of classically 
+trained artists will showcase rasas, 
+or art disciplines, including vocals, 
+traditional instruments and dance 
+performances. 
+
+WHO: Kerrytown Concert House
+
+WHEN: 7 p.m. to 9 p.m. $20 
+general, $15 students/seniors
+
+WHERE: 415 North Fourth Ave.
+
+Pre-Health Orientation
+
+WHAT: Incoming students 
+interested in pre-health career 
+tracks will learn about resources 
+at the University. Participants 
+should bring their UM ID. 
+
+WHO: University Career Center 
+WHEN: 6 p.m. to 7 p.m. (A-N last 
+names) and 7:30 p.m. to 8:30 p.m. 
+(M-Z last names) 
+
+WHERE: Modern Languages 
+Building, Auditorium 3
+
+First Step Sessions
+
+WHAT: Students interested in 
+studying abroad through CGIS 
+must attend a session to learn 
+about program options, financial 
+aid and applying to various trips. 
+
+WHO: Center for Global and 
+Intercultual Study
+
+WHEN: 12 p.m. to 12:30 p.m.
+
+WHERE: Weiser Hall, Suite 255
+
+Economic History
+
+WHAT: As a part of the 
+Economic History lecture 
+series; Northwestern University 
+professor Joe Ferrie will teach 
+a seminar on World War II’s 
+Lanham Pre-Schools and Later 
+Life Human Capital. 
+WHO: Department of Economics 
+
+WHEN: 2:30 p.m. to 4 p.m.
+
+WHERE: Lorch Hall Rm. 201
+
+Makeup Party workshop
+
+WHAT: Makeup artist Hannah 
+Butler will provide makeup tips 
+and techniques. Participants 
+can follow along with their own 
+makeup bags. 
+
+WHO: Ann Arbor District 
+Library
+
+WHEN: 7 p.m. to 8:30 p.m.
+
+WHERE: 343 S. Fifth Ave. 
+
+Children of Men 
+screening
+
+WHAT: This critically acclaimed 
+2006 release starring Clive Owen 
+is a dystopian film exploring 
+hope, religion and environmental 
+destruction. 
+
+WHO: Michigan Theater 
+Summer Classics
+WHEN: 7 p.m.
+
+WHERE: Michigan Theater, 603 
+E. Liberty St. 
+
+M Farmers Market at 
+Wolverine Tower
+
+WHAT: Buy locally sourced 
+fruits and vegetables. M Market 
+is a partnership between 
+MHealthy, Michigan Medicine, 
+MDining, CSG and Planet Blue. 
+The market is open on select 
+Tuesdays throughout the Fall. 
+
+WHO: MHealthy 
+
+WHEN: 10 a.m. to 1 p.m.
+
+WHERE: Wolverine Tower 
+Ground Level
+
+420 Maynard St.
+
+Ann Arbor, MI 48109-1327
+
+www.michigandaily.com
+
+ARTS SECTION
+
+arts@michigandaily.com
+
+SPORTS SECTION
+
+sports@michigandaily.com
+
+ADVERTISING
+
+dailydisplay@gmail.com
+
+NEWS TIPS
+
+news@michigandaily.com
+
+LETTERS TO THE EDITOR
+
+tothedaily@michigandaily.com
+
+EDITORIAL PAGE
+
+opinion@michigandaily.com
+
+NATHAN GUPTA
+
+Business Manager
+
+734-418-4115 ext. 1241
+
+nathankg@michigandaily.com
+
+EMMA KINERY
+
+Editor in Chief
+
+734-418-4115 ext. 1251
+
+kineryem@michigandaily.com
+
+PHOTOGRAPHY SECTION
+
+photo@michigandaily.com
+
+NEWSROOM
+
+734-418-4115 opt. 3 
+
+CORRECTIONS
+
+corrections@michigandaily.com
+
+The Michigan Daily (ISSN 0745-967) is published Monday through Friday during the fall and winter terms by students at the 
+University OF Michigan. One copy is available free of charge to all readers. Additional copies may be picked up at the Daily’s office 
+for $2. Subscriptions for September-April are $225 and year long subscriptions are $250. University affiliates are subject to a 
+reduced subscription rate. On-campus subscriptions for fall term are $35. Subscriptions must be prepaid. The Michigan Daily is a 
+member of The Associated Press and The Associated Collegiate Press.
+
+REBECCA LERNER 
+Managing Editor rebler@michigandaily.com
+
+ALEXA ST.JOHN 
+Managing News Editor alexastj@michigandaily.com
+Senior News Editors: Riyah Basha, Tim Cohn, Lydia Murray, 
+Nisa Khan, Sophie Sherry
+Assistant News Editors: Kevin Biglin, Caleb Chadwell, Heather 
+Colley, Erin Doherty, Maya Goldman, Matt Harmon, Andrew 
+Hiyama, Jen Meer, Carly Ryan, Kaela Theut
+
+ANNA 
+POLUMBO-LEVY and 
+REBECCA TARNOPOL 
+
+Editorial Page Editors 
+ opinioneditors@michigandaily.com
+
+Senior Opinion Editors: Caitlin Heenan, Jeremy Kaplan, Max 
+Lubell, Madeline Nowicki, Stephanie Trierweiler
+
+BETELHEM ASHAME and KEVIN SANTO 
+Managing Sports Editors sportseditors@michigandaily.com
+
+ANAY KATYAL and NATALIE ZAK 
+Managing Arts Editors 
+ arts@michigandaily.com
+
+Senior Arts Editors: Dayton Hare, Nabeel Chollanpat, 
+Madeline Gaudin, Carly Snider 
+Arts Beat Editors: Caroline Filips, Danielle Yacobson, Danny 
+Hensel, Erika Shevchek, Matt Gallatin
+
+Senior Design Editors: Alex Leav, Carly Berger, Christine Lee
+
+AMELIA CACCHIONE and EMMA RICHTER 
+Managing Photo Editors photo@michigandaily.com
+
+MICHELLE PHILLIPS and AVA WEINER
+Managing Design Editors 
+design@michigandaily.com
+
+LARA MOEHLMAN 
+Statement Editor statement@michigandaily.com 
+ 
+
+Deputy Statement Editor: Brian Kuang, Yoshiko Iwai
+
+ELIZABETH DOKAS and TAYLOR GRANDINETTI 
+Managing Copy Editors copydesk@michigandaily.com
+
+Senior Copy Editors: Marisa Frey, Ibrahim Rasheed
+
+DYLAN LAWTON and BOB LESSER
+Managing Online Editor lesserrc@michigandaily.com
+Senior Web Developers: Erik Forkin, Jordan Wolff
+
+ABE LOFY
+Managing Video Editor video@michigandaily.com
+Senior Video Editors: Gilly Yerrington, Matt Nolan, Aarthi 
+Janakiraman, Emily Wolfe 
+
+JASON ROWLAND and ASHLEY TJHUNG 
+Michigan in Color Editors michiganincolor@michigandaily.com
+Senior Michigan in Color Editors: Christian Paneda, Tanya 
+Madhani, Neel Swamy, Adam Brodnax, Areeba Haider, Halimat 
+Olaniyan, Sivanthy Visanthan
+
+ELLIE HOMANT
+Managing Social Media Editor
+
+Editorial Staff
+
+Business Staff
+
+EMILY RICHNER
+Sales Manager
+
+JUEUI HONG
+Special Projects Manager
+
+CAROLINE GOLD
+Media Consulting Manager
+
+CAYLIN WATERS
+Brand Manager
+
+CLAIRE BUTZ
+Business Development Manager
+
+JULIA SELSKY
+Local Accounts Manager
+
+SANJANA PANDIT 
+Production Manager
+
+Senior Photo Editors: Zoey Holmstrom, Evan Aaron, Alexis Rankin
+Assistant Photo Editors: Claire Meingast, Emilie Farrugia, Sinduja 
+Kilaru, Sam Mousigian, Marina Ross
+
+Senior Sports Editors: Laney Byler, Mike Persak, Orion Sang, 
+Max Marcovich, Ethan Wolfe, Chris Crowder 
+Assistant Sports Editors: Rob Hefter, Avi Sholkoff, Matthew 
+Kennedy, Paige Voeffray
+
+Senior Social Media Editors: Carolyn Watson, Molly Force
+
+At 4:19 p.m. on Monday, Sept. 4, the 
+
+Diag was packed with freshmen looking for 
+
+Angell Hall. Suddenly, as the clock struck 
+
+4:20, the whoops and hollers of University 
+
+of Michigan shinobi echoed over the trees. 
+
+Heads darted toward the corner of North 
+
+University and State Street. A plethora of 
+
+anime cosplayers was barreling towards the 
+
+Block M.
+
+In a momentous display of solidarity, 
+
+courage and love of meme culture, about 
+
+200 students pulled themselves up by their 
+
+ninja sandals, threw their arms into the 
+
+wind and booked it across the Diag as a part 
+
+of the “Run Across the Diag Naruto Style” 
+
+Facebook event. Naruto, a popular Japanese 
+
+anime, features a young shinobi (dubbed 
+
+as ninja in the U.S. version) named Naruto 
+
+Uzumaki and centers around his quest to be 
+
+a respected ninja.
+
+According to the Facebook description, 
+
+the event spawned from a previous event 
+
+in Pittsburgh titled “Come to the Smash 
+
+Mouth Concert Dressed as Shrek” and 
+
+gained further popularity in the infamous 
+
+“UMich Memes for Wolverteens” page.
+
+For those unfamiliar with the 
+
+particular techniques of running like 
+
+Naruto, wikiHow reports proper form 
+
+mandates a true shinobi should lean 
+
+forward with your back straight, keep your 
+
+head up to look for oncoming enemies and 
+
+hold both arms behind you for maximum 
+
+speed.
+
+Engineering junior Veronika Bayer, 
+
+who created the event, led the pack of meme 
+
+enthusiasts in full Naruto cosplay with the 
+
+orange jacket, pants and headband. She 
+
+cited meme and troll culture as the main 
+
+reasons for the event’s popularity online 
+
+and the large physical attendance. She also 
+
+said many of the attendees watched the 
+
+Naruto anime when they were younger and 
+
+can now unleash their inner child as they 
+
+run across the campus they love so much.
+
+“Michigan is a place where everyone 
+
+can learn how to be free and enjoy 
+
+themselves and really embrace themselves 
+
+in all of their weirdness and quirks,” she 
+
+said.
+
+ON THE DAILY: RUN, NARUTO, RUN! 
+
+SAM MOUSIGIAN/Daily
+
+Students run in “Naruto Style” across the Diag Monday afternoon.
+
+MEME RIES
+
+Just in time for tailgate 
+
+season, a new product has 
+arrived at the University of 
+Michigan’s campus: the Bois. 
+The Bois is a luxury bottle-
+opening wallet — founders Ken 
+Kernen and Philip Ruffini call it 
+the first of its kind.
+
+Business students Kernen, a 
+
+sophomore, and Ruffini, a junior, 
+met through the Delta Upsilon 
+fraternity but have become 
+better friends through their 
+shared interests in e-commerce 
+businesses and enrollment in 
+Ross School of Business.
+
+“Whenever I have a question, 
+
+he is able to provide some 
+feedback,” 
+Kernen 
+said 
+of 
+
+Ruffini. “We will shoot each 
+other 
+messages 
+and 
+they’ll 
+
+either 
+be 
+about 
+minimum 
+
+order quantity or just a fun 
+conversation 
+immediately. 
+
+There is no barrier or hesitation 
+to have any conversation with 
+him.”
+
+In June of 2017, Kernen 
+
+received a phone call from 
+Ruffini 
+in 
+regard 
+to 
+the 
+
+popularity of project-funding 
+site 
+Kickstarter 
+and 
+asked 
+
+Kernen as to what he thought 
+about 
+pursuing 
+something 
+
+within 
+the 
+Kickstarter 
+
+marketplace. Kickstarter is a 
+crowdfunding site that provides 
+a platform for entrepreneurs to 
+gauge interest and demand for 
+their products. Sellers choose a 
+monetary goal and a time frame 
+in which they plan on raising 
+
+those funds — if they do not 
+succeed, they do not make any 
+money.
+
+“He’s a very entrepreneurial 
+
+guy, and is able to recognize 
+opportunity very easily,” Kernen 
+said. The two decided to begin 
+working together to create a 
+product.
+
+“The first week was just ideas, 
+
+ideas, ideas,” Kernen said about 
+the events following the phone 
+call. “We were thinking about 
+doing wallets, some sort of 
+wallet. And then we were like, 
+‘It would be cool if it had a bottle 
+opener on it.’”
+
+In week two, the decision 
+
+about what materials to use 
+began.
+
+Student entrepreneurs reinvent
+wallet with attached bottle opener
+
+Coined the “Bois,” the device was the result of brainstorming various products
+
+Read more at 
+MichiganDaily.com
+
+Read more at 
+MichiganDaily.com
+
+RACHEL LEVY
+Daily Staff Reporter
+
+
+across campus while inspiring 
+further advances in the techniques 
+of data science itself,” Hu also said 
+in 2015.
+
+Big data has been the crux of 
+
+medical initiatives and disease 
+research, 
+the 
+uncovering 
+of 
+
+international corruption scandals 
+such as in the Panama Papers, 
+and worldwide technological and 
+economic development.
+
+For example, access to massive 
+
+deposits of information related to 
+issues such as on-field behavior 
+can help predict athletic-related 
+injuries, teaching and learning 
+analytics can lead researchers 
+to 
+create 
+better 
+educational 
+
+techniques, 
+and 
+patterns 
+in 
+
+accumulated patient data could 
+help doctors discover preventative 
+measures 
+diagnose 
+health 
+
+conditions.
+
+Now celebrating two years at the 
+
+University, the Michigan Institute 
+for Data Science — an institute 
+under the umbrella of the DSI — has 
+expanded as a multidisciplinary 
+and 
+interdepartmental 
+sphere 
+
+for all research in data, much 
+alongside two other sectors of the 
+DSI, including Advanced Research 
+Computing – Technology Services 
+and 
+Consulting 
+for 
+Statistics, 
+
+Computing 
+and 
+Analytics 
+
+Research.
+
+Co-director of MIDAS Brian 
+
+Athey, a professor of computational 
+medicine and bioinformatics, said 
+innovations continue as the quest 
+for finding new ways to use big data 
+grows.
+
+**********
+Even before this influx of data-
+
+driven institutions, researchers at 
+the University had been using these 
+large data sets to tackle issues such 
+as disease prediction and augment 
+the research of computer science.
+
+Eric Michielssen, University 
+
+associate 
+vice 
+president 
+of 
+
+Advanced Research Computing – 
+Technology Services, said there is 
+a “tsunami” of data available for 
+use for these issues and more, but 
+he and Athey cited the importance 
+of a concept called the Four V’s of 
+Big Data.
+
+Aside from simply the volume of 
+
+data Michielssen said researchers 
+consider velocity, or the ability to 
+receive vast amounts of data with 
+unprecedented speeds. They must 
+also note the variety of formats 
+available, not just the receipt of data 
+through structured spreadsheets, 
+and the veracity, or uncertainty 
+and trustworthiness of the data 
+received.
+
+Michielssen, 
+whose 
+office 
+
+is home to MIDAS and the 
+overarching Data Science Institute, 
+said collecting and generating data 
+on a daily basis at unprecedented 
+speeds — particularly through 
+social media, financial transactions 
+and a newly coined “internet of 
+things,” where objects are given 
+the ability to share data through 
+sensors, wireless technology and 
+complex networks — requires 
+researchers to consider how to 
+leverage that data for the good of 
+society and science, making it an 
+innovative phenomenon.
+
+“It’s nothing short of a game 
+
+changer 
+for 
+society, 
+as 
+well 
+
+as for science and education.” 
+Michielssen said. “Research in just 
+about every field is being affected 
+by this new phenomenon, this big 
+
+data phenomenon.”
+
+According to Athey, the overall 
+
+significance of data science at a 
+university level — especially in the 
+context of the University’s top-
+ranking research across the board 
+— is that much of the University’s 
+history 
+in 
+machine 
+learning, 
+
+data 
+analytics, 
+statistics 
+and 
+
+computation has already paved the 
+way to today’s methodologies.
+
+“We had an ideal environment 
+
+to do this at U of M,” Athey said. 
+Noting an increase in the power 
+of computing and a decrease in its 
+cost — also known as Moore’s law 
+— Athey said, “Data science and 
+big data are transformational to 
+society and higher ed.”
+
+The modern data scientist isn’t 
+
+surrounded by rows of outdated 
+computers that flash neon green 
+numbers, 
+MIDAS 
+Managing 
+
+Director Kevin Smith said.
+
+Instead, Smith said, managing 
+
+data today requires the three-
+fold collaboration of MIDAS — 
+the University’s academic hub 
+— a focus on data science services 
+such 
+as 
+consulting 
+through 
+
+CSCAR and a central avenue for 
+high-performance 
+computing 
+
+infrastructure through ARC-TS.
+
+“This 
+is 
+really 
+thinking 
+
+holistically about how you take 
+data and be able to integrate and 
+aggregate it in a meaningful way 
+so that you can explore that data in 
+the context of whatever scientific 
+or business problems you’re trying 
+to solve so that the analysis, the 
+visualization, the exploration that 
+you’re doing is valid,” Smith said.
+
+Transportation and Tech
+In much of its data science 
+
+research, Michielssen said, the 
+University 
+focuses 
+mostly 
+on 
+
+application rather than theory 
+and method to yield more tangible 
+results, 
+especially 
+through 
+
+applications to policy, education 
+and infrastructure.
+
+“In many ways, we’re trying to 
+
+frame this as an opportunity to 
+advance the field of data science 
+from a methodological perspective 
+but in the context of the application 
+of data science,” Smith added.
+
+For example, researchers within 
+
+MIDAS’s Centers for Data-Driven 
+Transportation 
+Research 
+and 
+
+that of Data-Intensive Learning 
+Analytics Research are using data 
+for improving automobile use and 
+transportation, as well as creating 
+new tools to examine the modern 
+learning process.
+
+Carol Flannagan, an associate 
+
+research 
+scientist 
+for 
+the 
+
+University’s 
+Transportation 
+
+Research Institute, noted her 
+team’s application of big data to the 
+analysis and creation of simulations 
+of 
+driver 
+behavior, 
+traffic 
+
+regulations 
+and 
+transportation 
+
+systems, 
+all 
+with 
+traditional, 
+
+automated and connected vehicles.
+
+“Transportation 
+data 
+is 
+
+changing so fast,” Flannagan said. 
+“It’s a really great area for novel 
+applications of existing methods 
+or even extensions of methods and 
+new methods.”
+
+In addition to working to 
+
+expand 
+the 
+amount 
+of 
+data 
+
+available to researchers in the field 
+of transportation data analysis, 
+Flannagan and her team have been 
+successful in surveying motor 
+vehicle crashes and establishing 
+applications of crash-avoidance 
+technologies. These applications 
+can be transferred to vehicle 
+occupant protection against and 
+ideally, total crash prevention.
+
+Through 
+visualization 
+tools 
+
+and a surplus of traffic crash data, 
+vehicle-centric 
+countermeasures 
+
+against 
+vehicle 
+crashes 
+— 
+
+particularly vehicle design — work 
+in conjunction with behavior-
+centric measures, roadway design 
+and enforcement to produce new 
+options for policymakers and 
+infrastructure 
+designers. 
+This 
+
+helps optimize design and laws and 
+eliminate unnecessary crashes.
+
+Taking a comprehensive view 
+
+of safety, making predictions and 
+taking into consideration laws that 
+are working well for some aspects 
+of driving allows researchers, 
+policymakers 
+and 
+others 
+to 
+
+integrate and focus improvements 
+elsewhere.
+
+Flannagan 
+said 
+one 
+thing 
+
+that poses difficulty are quick 
+accessibility and shareability of 
+data.
+
+“We are not freed from the 
+
+requirement to think first before 
+engaging with data analysis,” 
+Flannagan pointed out. “The 
+requirement to think first just 
+got harder.”
+
+Data science research does not 
+
+come without other challenges, 
+however, 
+particularly 
+in 
+a 
+
+changing landscape of big data.
+
+Social Science and Challenges
+In May 2014, former President 
+
+Barack Obama’s Executive Office 
+released an official White House 
+report detailing the significance 
+of upholding privacy values, 
+responsible education in a digital 
+age and using data as a public 
+resource.
+
+“Properly implemented, big 
+
+data will become an historic 
+driver of progress, helping our 
+nation perpetuate the civic and 
+economic dynamism that has 
+long been its hallmark,” the 
+report reads.
+
+Since then, the nationwide 
+
+use of big data has more 
+recently been at the heart of 
+controversy surrounding the 
+2016 presidential election; big 
+data was first seen as generally 
+predictive for the election’s 
+results, though others claim 
+now-President Trump’s initial 
+dismissal of the importance of 
+data was a mask for his use of 
+the information to target rural 
+voters.
+
+The 
+work 
+of 
+research 
+
+professor 
+Michael 
+Traugott, 
+
+for example, could be applied 
+to ultimately help prevent the 
+effects of social media and news 
+content on election outcomes.
+
+Traugott and his team — in 
+
+collaboration with Gallup and 
+Georgetown University — have 
+been collecting data to examine 
+political communication in the 
+2016 
+presidential 
+campaign. 
+
+By using computer software 
+to search for key topics and 
+sentiment 
+in 
+open-ended 
+
+question 
+responses 
+from 
+
+thousands 
+of 
+participants 
+
+throughout 
+the 
+election, 
+
+researchers 
+can 
+check 
+the 
+
+representativeness on people’s 
+opinions related to what they’ve 
+seen on social media in terms of 
+news.
+
+A 
+computerized 
+content 
+
+analysis of nine major U.S. 
+newspapers 
+can 
+also 
+be 
+
+compared 
+with 
+attitudes 
+
+and content in the tweets of 
+journalists, another indicator of 
+how news content is related to 
+citizen sentiment later.
+
+“I have been surprised by the 
+
+emphasis on personality at the very 
+earliest stage of the campaign and 
+the disproportionate amount of 
+coverage that (Trump) received,” 
+Traugott said. “We hope to be able 
+to track the news content sentiment 
+against the favorability measures, 
+as well as the topics mentioned in 
+the open-ended (questions with 
+participants).”
+
+Traugott will use this data 
+
+to establish whether traditional 
+framing and agenda-setting themes 
+are still present in contemporary 
+reporting, but in a social media 
+environment.
+
+Because of the possibilities 
+
+big data can hold in a politically 
+charged and competitive social 
+sphere, The Washington Post 
+has called for further privacy 
+considerations and tech policy 
+amid the endless possibilities big 
+data presents. It also noted that 
+an inherent bias in data’s original 
+collection — no matter how big 
+
+or small — will continue to have 
+consequences, resulting in what 
+some refer to as a dangerous and 
+ominous future.
+
+Concerns 
+for 
+privacy 
+and 
+
+confidentiality 
+are 
+other 
+
+unexpected 
+hurdles 
+University 
+
+researchers grapple with daily 
+— transportation data, medical 
+records 
+and 
+social 
+science 
+
+information are just three avenues 
+through which data can come that 
+need to be secure.
+
+“Someone has to put in place 
+
+measures, software systems that 
+allow one to do research and 
+developments in this space while 
+at the same time, guaranteeing 
+the privacy of the person who gave 
+rights to the data in the first place,” 
+Michielssen said.
+
+Fear of the unknown is another 
+
+complication, Athey said, as the 
+dearth of research in big data’s 
+abilities 
+makes 
+future 
+uses 
+
+frighteningly ambiguous. 
+
+“Data science could be used 
+
+to help society or frankly, could 
+be used to take advantage of 
+different groups within society or 
+manipulate things,” Athey said. 
+“Those that have the methodology 
+and the computing and the access to 
+the data have a distinct advantage 
+on everybody. That could be used 
+for good or for bad.”
+
+Being data-illiterate comes with 
+
+consequences, he explained.
+
+“If you’re uneducated about 
+
+data science and if you don’t know 
+how to practice it, you would be a 
+victim of it,” Athey said. “This is 
+the society that we’re living in — 
+Google and all these things — are 
+not going to go away.”
+
+Likewise, Smith noted an issue 
+
+of ethics clouding global data 
+science.
+
+DATA
+From Page 1A
+
+The Michigan Daily — michigandaily.com
+Tuesday, September 5, 2017 — 3A
+
+Read more at 
+MichiganDaily.com
+
+
+sophomore year. This year, there 
+
+were 131 complete applications.
+
+Harper said there continues to 
+
+be a lot of interest in the program, 
+even inquiries from high school 
+students who have heard about 
+the new major and are wondering 
+what they can do to be accepted as 
+sophomores.
+
+“The group of applicants were 
+
+all, I would say, stellar applicants 
+— people with a lot of great 
+experiences, a lot of really beneficial 
+coursework,” he said. “It was a 
+quite impressive group. In terms 
+of what we’re looking for, we really 
+do take a holistic approach to the 
+review process. We’re not just 
+looking for some particular GPA 
+cutoff. We are really looking at 
+well-rounded students that have a 
+good understanding of what public 
+health is and what public health 
+does, and a real commitment and 
+
+compassion for public health.”
+
+Harper referenced a set of 
+
+guiding principles, which can be 
+found on the program’s website, 
+and said the program looks to see 
+if applicants are in alignment with 
+them. 
+Such 
+principles 
+include 
+
+social justice, cultural humility 
+and interdisciplinary focus, among 
+others.
+
+In terms of acceptance, Harper 
+
+said the program plans to keep its 
+acceptance rate about the same for 
+the next admissions cycle, about 
+95. He said after the first cohort 
+completes the program, it will likely 
+increase the number of students 
+admitted.
+
+Logistically, 
+the 
+program 
+
+offers either a Bachelor’s of Arts 
+in community and global public 
+health or a Bachelor’s of Science in 
+public health sciences. According 
+to Harper, within each major, there 
+are a set of four integrated core 
+courses, which address various 
+aspects of public health, from an 
+interdisciplinary and integrated 
+lens.
+
+“In graduate training in public 
+
+health, you would take a course 
+on epidemiology, a course on 
+biostatistics, a course on health 
+management, things like that,” 
+Harper said. “What we’re doing 
+is combining different aspects of 
+public health and putting them 
+together because at the core of our 
+program, we’re really focusing on 
+what we call liberal education.”
+
+Liberal education, according to 
+
+Harper, is an approach to learning 
+that helps prepare students to deal 
+with complexity, diversity and 
+social change.
+
+“We’re not just teaching public 
+
+health skills,” he said. “Some types 
+of undergraduate public health 
+programs teach skills and they’re 
+more of a skills training degree, then 
+you get some kind of certification. 
+We want students to be able to think 
+in innovative and complex ways 
+about the public health challenges 
+that we currently face but then we 
+want to prepare them for the future 
+public health challenges. ”
+
+Though the program is only in 
+
+its first year, Harper said, based 
+on statistics from other schools’ 
+public health programs, some 
+students are expected to go into 
+medicine or other health-related 
+fields, some go into graduate 
+programs 
+in 
+public 
+health, 
+
+others go into the workforce — 
+departments of public health, 
+the Peace Corps or working in 
+nonprofit organizations with a 
+health focus — and some even go 
+into law, engineering and other 
+fields.
+
+Faculty for the program will 
+
+consist of faculty from the Public 
+Health School, who teach graduate 
+courses 
+and 
+have 
+real-world 
+
+experience in the field of public 
+health.
+
+Harper 
+said 
+the 
+goal 
+of 
+
+the 
+program 
+is 
+to 
+take 
+an 
+
+interdisciplinary approach to think 
+about critical public health issues. 
+He the program will attack issues 
+from multiple perspectives using 
+different lenses. He said he thinks 
+students will feel stimulated in 
+classes to think about things in a 
+
+different way.
+
+Harper said the program will be 
+
+evaluated over the course of the year 
+and it will be seeking feedback from 
+its first cohort about strengths and 
+weaknesses to make improvements 
+and provide the best educational 
+experience possible.
+
+This 
+semester, 
+Harper 
+is 
+
+teaching a new course developed 
+for the program, called Community 
+Culture and Social Justice in Public 
+Health. It is required for the B.A. 
+students; it can be taken as an 
+elective for the B.S. students and 
+is also offered to non-public health 
+students.
+
+“The course will really be an 
+
+opportunity to explore, interrogate, 
+understand, work with different 
+concepts of community, of culture, of 
+social justice, because a lot of people 
+use these terms in public health 
+and elsewhere, but don’t often have 
+an in-depth understanding and 
+meaning of (them),” he said. “I want 
+to demystify and really have people 
+think in a critical manner. I think 
+overall we really want students to 
+
+come out of this class being able to 
+engage in a critical analysis of the 
+field of public health.”
+
+It is important to look at different 
+
+public 
+health 
+challenges 
+and 
+
+the ways in which they’re being 
+addressed by the nation, to find the 
+flaws and strengths, both locally 
+and globally, said Harper.
+
+“There’s ways in which we are 
+
+doing public health work in other 
+countries and is it really done in a 
+manner that is building capacity 
+or is it a way that is making other 
+countries dependent on us?” he 
+said. “So it’s really that critical 
+process of really thinking about all 
+of these different aspects of public 
+health intervention.”
+
+Aya Takai is a junior public 
+
+health major who transferred from 
+Oakland University. She was in a 
+pre-professional health sciences 
+program at Oakland and was a 
+competitive figure skater for 15 
+years. 
+
+4A — Tuesday, September 5, 2017
+The Michigan Daily — michigandaily.com
+
+LSA sophomore Caroline 
+
+Ordway 
+studies 
+computer 
+
+science and said she looks 
+forward to a faster and more 
+efficient printing process.
+
+“I think (these updates) 
+
+have 
+the 
+potential 
+to 
+
+improve the efficiency of the 
+printing process,” she said. 
+“It simplifies the process of 
+needing your computer or 
+having to go onto a University 
+one, especially if you are in 
+an area without access to a 
+campus computer.”
+
+Bob Jones, ITS interim 
+
+executive director of support 
+services, said his main goal is 
+
+accessibility.
+
+“With 
+the 
+availability 
+
+of 
+Follow 
+Me 
+printing, 
+
+application 
+streaming 
+to 
+
+personally managed devices, 
+and cloud storage services 
+like Box and Google Drive, we 
+aim to make many of the Sites 
+capabilities available on most 
+devices, anytime, anywhere,” 
+he said.
+
+According to the release, 
+
+updates for the fall term 
+include 
+Windows 
+10 
+
+operating 
+systems 
+on 
+all 
+
+campus PCs, access to U-M 
+Box and U-M Google Drive 
+as network drives and new 
+hardware 
+and 
+software 
+
+updates on more than 2,000 
+campus computers at almost 
+100 locations.
+
+COMPUTING
+From Page 1A
+
+HEALTH
+From Page 1A
+
+way,” Sreedhar said.
+Designed as a Welcome Week 
+
+event, Sreedhar said, one of its 
+main purposes is to introduce 
+incoming freshmen the resources 
+available on campus for LGBT 
+students. Shreedhar said the tents 
+are placed on Palmer Field because 
+many freshmen live on the Hill 
+and will be easily seen by incoming 
+students walking around their 
+dorms.
+
+LSA senior Victoria Johnson 
+
+attended the event as a freshman 
+and this year represented the 
+Coalition for Queer and Trans 
+People of Color as a co-chair. She 
+said Pride Outside helped her find 
+the coalition and the timing of the 
+
+event couldn’t be better.
+
+“It can be hard and daunting, 
+
+especially 
+as 
+an 
+incoming 
+
+freshman, trying to find your 
+community and find people that 
+you want to socialize with and 
+hang out with,” she said. “Having 
+events like this, especially during 
+Welcome Week, this is the time 
+everyone’s going to come out.”
+
+When President Donald Trump 
+
+proposed the transgender military 
+ban back in July, many transgender 
+students and allies on campus 
+reacted adversely to the news. 
+Johnson said pro-LGBT events like 
+Pride Outside can contribute to a 
+positive community on campus.
+
+“People need community now 
+
+more than ever,” she said. “Having 
+events like these is super important 
+to show that there are people here 
+who are going to support you and be 
+
+there for you and even when it feels 
+like everything is going wrong and 
+the world is crumbling apart, you 
+still have these people you can turn 
+to.”
+
+LSA senior Yong-Joon Kim 
+
+volunteers with the Sexual Assault 
+Prevention and Awareness Center 
+and represented the organization at 
+a booth at Pride Outside. He echoed 
+Johnson’s sentiments and said the 
+event is crucial for newer students 
+trying to find resources.
+
+“Marginalized identities, as we 
+
+know, on this campus have been 
+facing a lot of hate and negative stuff 
+going on right now so just having an 
+event during Welcome Week that 
+allows LGBT students to know 
+they’re welcome on this campus, 
+especially one that’s catered by the 
+student governance organizations, 
+definitely helps show unity and 
+
+acceptance on this campus,” he said.
+
+According to the 2015 Campus 
+
+Climate Survey, lesbian, gay or 
+bisexual students were 2.5 times 
+more at risk for sexual assault than 
+heterosexual students. By working 
+with SAPAC, a University sponsored 
+program, Kim said it shows how the 
+University is dedicated to helping 
+LGBT students feel free to speak 
+about sexual assault.
+
+LSA freshman Cheyanne Killin 
+
+said the large-scale event showed 
+her how many resources she 
+actually has on campus from clubs 
+and students alike.
+
+“I think it’s really nice to have 
+
+this inclusion here,” she said. “It’s 
+such a positive space and coming 
+from a community where I didn’t 
+have that ability to be proud of who 
+I was, this is just massive to know 
+that I’m supported here.”
+
+PRIDE
+From Page 1A
+
+Read more at 
+MichiganDaily.com
+
+
+The Michigan Daily — michigandaily.com
+Tuesday, September 5, 2017 — 5A
+Opinion
+
+W
+
+hen 
+asked 
+about 
+
+the 
+violent 
+white 
+
+supremacist, 
+neo-
+
+Nazi rally that occurred in 
+Charlottesville, Va., a few weeks 
+ago, President Donald Trump 
+not-so-deftly shifted attention 
+to the “alt-Left that came 
+charging at (the neo-Nazis)” 
+asking, “(D)o they have any 
+semblance of guilt?” President 
+Trump’s false equivalency of 
+the 
+predominantly 
+peaceful 
+
+counterprotesters with the neo-
+Nazis (one of whom actually 
+murdered a counterprotester) 
+at Charlottesville is but the 
+latest in a growing tradition 
+of conservatives attempting to 
+delegitimize liberal, and often 
+student, protesters as either silly 
+and inconsequential children or 
+dangerous free speech fascists. 
+These attacks on protesters 
+are both wrongheaded and 
+a 
+potential 
+threat 
+to 
+the 
+
+constitutionally 
+guaranteed 
+
+right to freely assemble.
+
+Fascinatingly, 
+conservative 
+
+commentators 
+employ 
+what 
+
+appear to be two diametrically 
+opposed lines of attack against 
+student 
+protesters 
+whose 
+
+causes they deem illegitimate. 
+First, pundits sneer at self-
+important millennials overly 
+triggered 
+by 
+such 
+“trivial” 
+
+matters as systematic racism 
+or police brutality. Former 
+host for “The Blaze” Tomi 
+Lahren 
+has 
+achieved 
+viral 
+
+star status on social media by 
+insulting “typical snowflake 
+millennials.” 
+After 
+protests 
+
+broke out on college campuses 
+throughout the nation in the 
+days after Trump’s election, 
+Lahren 
+stated: 
+“A 
+protest 
+
+is a peaceful objection to a 
+grievance. A bunch of sore 
+losers occupying a space is 
+called a tantrum. …”
+
+Pundits 
+often 
+paint 
+a 
+
+separate — and sometimes 
+simultaneous — portrait of 
+liberal student protesters as 
+politically 
+correct 
+fascists 
+
+ruthlessly 
+silencing 
+any 
+
+voices they disagree with. 
+These pundits seemingly miss 
+the irony of simultaneously 
+declaring student protesters 
+to be whining babies and some 
+sort 
+of 
+politically 
+correct 
+
+Gestapo.
+
+Conflating 
+peaceful 
+
+protesters 
+with 
+violent, 
+
+speech-suppressing 
+activists 
+
+is a transparent attempt to 
+discredit and silence students 
+with 
+legitimate 
+concerns 
+
+about the threat to vulnerable 
+groups 
+the 
+often 
+racist 
+
+and 
+misogynistic 
+rhetoric 
+
+of speakers, such as Milo 
+
+Yiannopoulos, pose. Students 
+have the same freedom to object 
+to 
+Yiannopoulos’s 
+language 
+
+as Yiannopoulos has to speak 
+in the first place. The right to 
+peacefully protest the racism 
+and 
+misogyny 
+of 
+another 
+
+individual isn’t a tantrum; it’s a 
+constitutionally protected right 
+and an American tradition. In 
+addition, attributing violence to 
+liberal protesters obscures the 
+fact that right-wing extremists 
+committed 
+74 
+percent 
+of 
+
+domestic 
+extremist-related 
+
+murders in the United States in 
+the last decade.
+
+Do not take my defense of 
+
+young liberal protesters as a 
+defense of anarchist violence as 
+a means to silence ideological 
+opponents. 
+As 
+dangerous, 
+
+violent and disgusting neo-
+Nazis and white supremacists 
+are, 
+normalizing 
+violence 
+
+against 
+these 
+groups 
+
+normalizes political violence 
+in a manner which could 
+ultimately harm the vulnerable 
+individuals 
+and 
+minorities 
+
+the left seeks to empower. 
+Legitimizing 
+violence 
+sets 
+
+anti-governmental and anti-
+constitutional precedents neo-
+Nazis and white supremacists 
+could seize upon throughout 
+and beyond the Trump era.
+
+Beyond being a completely 
+
+valid 
+and 
+constitutionally 
+
+protected 
+form 
+of 
+self-
+
+expression, 
+protests 
+simply 
+
+work. Perhaps the most obvious 
+value of protests is their sheer 
+visibility. 
+The 
+larger 
+and 
+
+more 
+raucous 
+the 
+protest, 
+
+the more media attention the 
+protest receives. The attention 
+protests generate act as a sort of 
+protective shield for minority 
+groups 
+without 
+proper 
+
+representation in democratic 
+countries. Think of Gandhi’s 
+Salt March in India, civil rights 
+activists being sprayed with 
+fire hoses in Birmingham, Ala. 
+or, more recently, the police 
+decked out in full military 
+gear 
+to 
+control 
+protesters 
+
+in 
+Ferguson, 
+Mo. 
+Media 
+
+dissemination 
+of 
+protests 
+
+promulgates bad press, which 
+pressures elected leaders to 
+acknowledge, and sometimes 
+acquiesce to, the grievances of 
+marchers. Student protesters 
+demonstrated the power of bad 
+press during the ’60s and ’70s 
+when student activism against 
+the 
+Vietnam 
+War 
+helped 
+
+garner enough public ill will to 
+ultimately halt the conflict. 
+
+Protests 
+also 
+act 
+as 
+a 
+
+gathering ground for like-
+minded individuals to build 
+political 
+community 
+and 
+
+solidarity. 
+Marches 
+and 
+
+gatherings offer a critical space 
+for citizens to collectively 
+grieve, celebrate or diffuse 
+anger. 
+The 
+community 
+
+building aspect of protests 
+becomes especially important 
+when responding to tragedies. 
+Following the death of counter 
+protester Heather Hayes in 
+Charlottesville, thousands of 
+University of Virginia students 
+held a candlelight vigil to 
+mourn and broadcast campus 
+solidarity in the face of hate.
+
+Traditionally, invisible and 
+
+underrepresented groups find 
+these 
+spaces 
+critical. 
+From 
+
+the 
+1960s 
+through 
+today, 
+
+LGBTQ individuals have found 
+validation, 
+security, 
+dignity 
+
+and joy through Pride parades. 
+Whether marching for basic 
+dignity in the 1960s, AIDS relief 
+in the ’80s and ’90s or the right 
+to marry before 2015, otherwise 
+invisible gender and sexuality 
+non-conforming young people 
+have used Pride parades to 
+break out into the open.
+
+Lastly, protests act as an 
+
+entry point to further political 
+activism for many students. 
+Most protests entail much 
+more than simply marching 
+down a street chanting slogans 
+and holding signs. Protests 
+may begin or end with a slew of 
+speakers offering information 
+about 
+the 
+topic 
+being 
+
+protested. Organizers often 
+give marchers a suggestion of 
+relevant nonprofits to donate 
+to in the future. In addition, 
+some 
+protests 
+include 
+
+political 
+workshops 
+where 
+
+attendees sign up for political 
+organizations 
+or 
+nonprofits 
+
+and 
+receive 
+training 
+in 
+
+fundraising and other forms 
+of 
+political 
+activism. 
+The 
+
+nationwide Women’s March 
+in January initiated a wave 
+of female candidates running 
+for office and young people 
+getting involved in politics.
+
+Peaceful 
+public 
+
+demonstrations 
+are 
+the 
+
+backbone 
+of 
+democratic 
+
+free speech traditions and 
+promulgate critical political 
+action. 
+Consequently, 
+petty 
+
+attacks on students peacefully 
+exercising 
+their 
+right 
+to 
+
+protest 
+only 
+undermines 
+
+a 
+fundamental 
+American 
+
+tradition. 
+Young 
+protesters 
+
+have been critical in every 
+social movement in the United 
+States, from civil rights to 
+sexual liberation. 
+
+A
+
+s 
+Ann 
+Arbor 
+
+becomes 
+flooded 
+
+with 
+micromanaging 
+
+parents and awkward-yet-eager 
+freshman, I revel in the sight 
+of familial dynamics. It’s like a 
+reality TV show except I don’t 
+need a Netflix account and only 
+need to peer out my window to 
+get a sense of the action. 
+
+The 
+opportunity 
+that 
+a 
+
+summer break affords is a chance 
+to scrutinize and think critically 
+about many different issues — 
+that is, before the stress comes 
+when thinking about starting 
+anew in September. Over the past 
+few weeks, there has been a lot of 
+misleading news concerning the 
+state of education in Michigan. 
+The nerves brought about by 
+moving 
+to 
+school 
+somehow 
+
+trickles down to journalists who 
+write about this topic. 
+
+Going back to school was 
+
+always a struggle for me. I 
+went to summer camp for eight 
+years growing up, and after not 
+having to care about anything 
+related to academics for two 
+months, it was difficult to 
+acclimate to tests, reading and 
+writing essays. I still struggle 
+with this dilemma. Since our 
+summer break is nearly four 
+months long, it’s easy to forget 
+what being in school is like. 
+
+Would 
+the 
+University 
+of 
+
+Michigan be better suited with 
+a shorter summer break? In a 
+recent article published in The 
+Atlantic titled “Why School 
+Still Starts After Labor Day in 
+Michigan,” the case is made for 
+a shorter summer break. Mind 
+you, this article only addresses 
+our 
+state’s 
+K-12 
+education 
+
+system, but a similar case could 
+be made for our universities. 
+
+Most of my friends at other 
+
+Big 10 colleges have already 
+been in school for a few weeks, 
+and sometimes I wonder if I’m 
+missing out by not starting 
+earlier. 
+However, 
+our 
+long 
+
+summer affords us so many 
+opportunities 
+that 
+are 
+not 
+
+available 
+during 
+the 
+school 
+
+year. With just a short break, 
+
+students would find it much 
+harder to be able to pursue the 
+internships, study abroad trips 
+and 
+research 
+opportunities 
+
+that many take advantage of. 
+
+As students trickle back 
+
+to 
+school, 
+national 
+news 
+
+organizations, such as The 
+New 
+York 
+Times, 
+devote 
+
+substantial portions of their 
+Sunday 
+editions 
+to 
+higher 
+
+education. More locally, the 
+Detroit Free Press’s Mitch 
+Albom wrote a column on 
+going back to school. 
+
+Albom, who says he was on 
+
+a college campus last week, 
+observed 
+the 
+madness 
+of 
+
+moving 
+in. 
+Unfortunately, 
+
+for 
+people 
+from 
+older 
+
+generations, they are ticked 
+off that we college students 
+are 
+too 
+obsessed 
+with 
+
+intersectionality, 
+technology 
+
+and gender pronouns. Great 
+stereotyping, right?
+
+The 
+point 
+of 
+Albom’s 
+
+satirically tinged column was 
+to note both the continuities 
+and breaks between students 
+from his college years and that 
+of his offspring. But his diatribe 
+falls into a trap of lambasting 
+college millennials, and even 
+may hurt the case for diversity 
+at universities. 
+
+Take a look at this bit: 
+
+“After helping our son hang 
+his flat screen and surround-
+sound speakers, we went for 
+a walk around campus. We 
+saw the 24-hour state-of-the-
+art exercise facility and the 
+24-hour Apple computer labs. 
+He showed us the ‘safe spaces’ 
+where no offensive words can 
+be used, and the ‘healing spaces’ 
+where you can go if you were 
+accidentally 
+exposed 
+to 
+an 
+
+offensive sentence.” 
+
+OK, maybe I’m just being 
+
+overly 
+sensitive 
+to 
+that 
+
+paragraph. But that’s fulfilling 
+an incorrect stereotype, no? 
+
+While 
+Albom’s 
+misguided 
+
+rant 
+on 
+politically 
+correct 
+
+culture was not ideal, I must 
+award merit to a recent New 
+York 
+Times 
+infographic 
+
+on 
+college 
+enrollment 
+and 
+
+diversity. The study found that 
+as affirmative action policies 
+have been implemented at many 
+colleges nationwide, Black and 
+Hispanic enrollment still lag 
+behind. 
+
+Lack of diversity is acute 
+
+at our university, but it’s not 
+just limited to this campus. 
+Increasing diversity is a boon 
+to improving an educational 
+experience 
+— 
+students 
+are 
+
+able to better understand a 
+variety of viewpoints and meet 
+individuals from places they 
+otherwise would not encounter. 
+
+The University is a unique 
+
+case given our vast academic 
+opportunities, 
+which 
+our 
+
+long summer break aids in 
+facilitating. We have the chance 
+to go home or wherever else we 
+are spending our summers to 
+help spread this diverse array 
+of viewpoints we experience. 
+And, if anything, we should be 
+expanding these opportunities 
+rather 
+than 
+stifling 
+them. 
+
+We can only hope that our 
+institution’s new initiatives to 
+address this problem will be 
+successful. 
+
+It’s 
+frustrating 
+that 
+
+journalists are not always up to 
+speed with the types of issues 
+college students currently face. 
+This may be attributed to the 
+fact that many have not been 
+enrolled in a university in quite 
+a while. But after not having to 
+worry about school for an entire 
+season, it is imperative that 
+students acknowledge how and 
+why stories take the angle they 
+do when covering the places 
+they learn. My advice to other 
+students, however, is not to 
+panic even though journalists 
+appear to be out of touch with 
+issues that students are facing 
+— the same way you shouldn’t 
+panic over realizing how much 
+work you have to do after only 
+your first day of class. 
+
+REBECCA LERNER
+
+Managing Editor
+
+420 Maynard St. 
+
+Ann Arbor, MI 48109
+
+ tothedaily@michigandaily.com
+
+Edited and managed by students at the University of Michigan since 1890.
+
+EMMA KINERY
+
+Editor in Chief
+
+ANNA POLUMBO-LEVY 
+
+and REBECCA TARNOPOL 
+
+Editorial Page Editors
+
+Unsigned editorials reflect the official position of the Daily’s Editorial Board. 
+
+All other signed articles and illustrations represent solely the views of their authors.
+
+EDITORIAL BOARD MEMBERS
+
+The stigma of the millennial student 
+
+LEVI TEITEL | COLUMN
+
+In defense of protests
+
+TOM AIELLO | COLUMN
+
+Tom Aiello can be reached at 
+
+thomaiel@umich.edu.
+
+Levi Teitel can be reached at 
+
+lateitel@umich.edu.
+
+JOE IOVINO | CONTACT JOE AT JIOVINO@UMICH.EDU
+
+M
+
+y 
+little 
+sister 
+
+absolutely 
+loves 
+
+back-to-school 
+
+shopping. 
+Everything 
+about 
+
+it excites her, from the color 
+coordination of her notebooks 
+and pencils to the smooth glide 
+of Paper Mate InkJoy pens. I 
+make fun of her a lot, calling 
+her things like “nerd.” I differ 
+from my sister in the sense that 
+I couldn’t care less about which 
+brand of notebooks or pens my 
+mother bought. But when I 
+reflect upon it, in my younger 
+years, I, too, shared similar 
+excitement. 
+I 
+enjoyed 
+the 
+
+newness of it all: new textbooks, 
+new teachers, new classmates, 
+new locker assignments. Even 
+the floors were freshly buffed 
+and waxed, the walls sticky 
+with a coat of new paint. 
+
+When 
+I 
+entered 
+college, 
+
+I was promptly and totally 
+overstimulated 
+by 
+my 
+
+excitement 
+with 
+the 
+new 
+
+environment. Yet, it introduced 
+some of the worst nerves I have 
+ever experienced in my life. 
+For a homebody and introvert 
+like myself, having to live on 
+my own away from home for 
+the first time was terrifyingly 
+overwhelming. 
+However, 
+as 
+
+my time at the University 
+of 
+Michigan 
+progressed, 
+I 
+
+adjusted and found solace in my 
+“new” normal routine.
+
+With the impending start of 
+
+what will be my last year as an 
+undergraduate, my nerves have 
+returned, and my short-lived 
+comfort has ceased. Though 
+the University has remained 
+the same since my arrival, 
+everything outside of it has 
+turned completely upside down. 
+Bigotry, hate, racism and utter 
+dissolution have begun to bubble 
+
+and now fester like sores within 
+our 
+communities, 
+seemingly 
+
+stemming from the root of the 
+executive branch of government.
+
+That being said, the essence 
+
+of my fear lies within the 
+chaos of the outside world 
+penetrating the little bubble 
+of our campus, as our campus 
+has been extremely susceptible 
+to 
+racist 
+and 
+oppressive 
+
+messaging, 
+defilement 
+and 
+
+hate speech that has surfaced 
+within recent years. So, as we 
+all pack our bags, whether they 
+contain InkJoy pens or color-
+coordinated notebooks, I ask 
+the questions: How do we learn 
+to cancel out the noise? Do we 
+remain fearless and poised in the 
+face of negativity? How do we 
+challenge ourselves to support 
+each other in times of need? 
+And how do we learn to not 
+only understand each other, but 
+refrain from becoming inept to 
+embracing others’ differences?
+
+This is no small feat, and 
+
+by the looks of the racially 
+charged incidents on campus 
+in recent years, the answers 
+to these questions have yet 
+to reveal themselves. My fear 
+additionally stems from the 
+realization that I have absolutely 
+no idea what the future holds for 
+American society.
+
+Though 
+racism, 
+hatred 
+
+and oppression have found 
+a home in this country for 
+centuries, I think it’s safe to say 
+these societal sores resurged 
+forcefully and publicly after 
+the 2016 presidential election. 
+This may sound outrageous to 
+admit, but I have absolutely no 
+clue why people are so upset 
+with President Donald Trump. 
+As if he did not foreshadow 
+the 
+executive 
+decisions 
+
+he has enacted during his 
+campaign. As if he did not 
+reveal his prejudices prior to 
+his inauguration. As if he did 
+not instill fear within minority 
+groups in the United States and 
+spread hateful rhetoric through 
+his speeches.
+
+No one should be surprised 
+
+by 
+the 
+events 
+that 
+have 
+
+unfolded across the course 
+of these few months of his 
+presidency, 
+simply 
+because 
+
+he told us they would happen 
+beforehand, just as no one 
+should 
+be 
+shocked 
+with 
+
+regards to his motives.
+
+However, what should be 
+
+excessively upsetting is the 
+fact that there were enough 
+like-minded 
+people 
+within 
+
+our country to elect someone 
+with values rooted in racism 
+and bigotry. It is this portion 
+of 
+the 
+population, 
+which 
+
+seeks to invite hate to college 
+campuses, as we witnessed in 
+the devastating events which 
+took place in Charlottesville, 
+Va., a few weeks back. Can 
+these 
+types 
+of 
+hate-filled 
+
+infections reach a campus like 
+the University? Am I valid for 
+experiencing 
+some 
+anxiety 
+
+because I almost expect this?
+
+As my sister readies herself 
+
+for her first day of class and 
+fills her backpack with all 
+of her new fancy pens and 
+notebooks, I prep for my first 
+day by crossing my fingers that 
+this year will not bring the “alt-
+right,” neo-Nazis and white 
+nationalists to our campus.
+
+How are you going to spend 
+
+your first day?
+
+The first day
+
+STEPHANIE MULLINGS | COLUMN
+
+Stephanie Mullings can be reached 
+
+at srmulli@umich.edu.
+
+Carolyn Ayaub
+Megan Burns
+
+Samantha Goldstein
+
+Caitlin Heenan
+Jeremy Kaplan
+
+Sarah Khan
+
+Anurima Kumar
+
+Max Lubell
+
+Lucas Maiman
+
+Alexis Megdanoff
+Madeline Nowicki
+Anna Polumbo-Levy 
+
+Jason Rowland
+
+Anu Roy-Chaudhury
+
+Ali Safawi
+
+Sarah Salman
+Kevin Sweitzer
+
+Rebecca Tarnopol
+
+Stephanie Trierweiler
+
+Ashley Zhang
+
+CONTRIBUTE TO THE CONVERSATION
+
+Readers are encouraged to submit letters to the editor and op-eds. 
+Letters should be fewer than 300 words while op-eds should be 550 
+to 850 words. Send the writer’s full name and University affiliation to 
+
+tothedaily@michigandaily.com.
+
+
+Arts
+
+Local playwright 
+unveils work 
+on Tennessee 
+Williams
+
+THEATRE
+
+It all began when LSA Junior 
+
+Max Vinogradov and his good 
+friend 
+Jackson 
+Abohasira 
+
+decided to make short films 
+together, creating funny scripts 
+to match their ideas. Those 
+short films turned into a series 
+of small projects that combined 
+creativity with a touch of 
+theatre.
+
+Vinogradov 
+recently 
+won 
+
+the Hopwood award in Drama, 
+
+and the Dennis McIntyre Prize 
+for his play, “A Night of Stars 
+with 
+Tennessee 
+Williams.” 
+
+The 
+Slipstream 
+Theatre 
+
+Initiative, located in Ferndale, 
+MI, has taken Vinogradov’s 
+script to the stage. In addition 
+to 
+Vinogradov’s 
+success, 
+
+Abohasira, who plays Andy 
+Warhol and Marlon Brando 
+in the show, recently won the 
+Wilde Award for Rising Star.
+
+“Moving it from writing to 
+
+the stage is an awesome thing 
+and a bad thing,” Vinogradov 
+said. “You look at this precious 
+
+thing that you wrote and you’re 
+like ‘this is what I was thinking 
+about,’ but at the same time, 
+so much of it is letting the 
+actors discover the characters 
+
+themselves.”
+
+The play explores the life 
+
+of 
+Tennessee 
+Williams, 
+an 
+
+American 
+playwright 
+that 
+
+revolutionized 
+20th-century 
+
+drama in America with works 
+such as “The Glass Menagerie,” 
+“A Streetcar Named Desire,” 
+“Cat on a Hot Tin Roof” 
+and “Sweet Bird of Youth.” 
+
+Vinogradov’s play, “A Night 
+of 
+Stars 
+with 
+Tennessee 
+
+Williams,” projects a series 
+of Williams’ memories, which 
+include numerous stars, like 
+Frank Merlo, Truman Capote, 
+Andy Warhol, Marlon Brando 
+and 
+Greta 
+Garbo, 
+among 
+
+others, who come to Williams 
+with hopes of landing a role in 
+
+one of his plays.
+
+The play moves through a 
+
+series of memories, recalling 
+the lives of stars that brought 
+Williams’s 
+scripts 
+to 
+life. 
+
+Though the connects scenes 
+with 
+iconic 
+figures, 
+they 
+
+are somewhat obstructed by 
+Williams’s recollection of the 
+past.
+
+“He (Williams) was an 
+
+alcoholic and a drug abuser, so 
+his memories are destroyed, 
+in many senses,” Vinogradov 
+explained. “He is trying to 
+change 
+the 
+memories 
+he 
+
+recalls, because there are 
+things he really screwed up, 
+and relationships he is trying 
+to save — but he really can’t.”
+
+With 
+extensive 
+
+research 
+into 
+Williams’s 
+
+life, 
+Vinogradov 
+grew 
+to 
+
+understand the playwright’s 
+lasting impact.
+
+“Williams 
+made 
+the 
+
+memory play. I think what a 
+lot of it has to do with is what 
+we choose to remember,” 
+Vinogradov 
+said. 
+“In 
+his 
+
+blackouts 
+due 
+to 
+alcohol, 
+
+he has lost all these good 
+memories, and the things that 
+withstood were traumas that 
+
+were just too great to be deleted. 
+They persisted and the question 
+is: Is that a choice?”
+
+Through the making of this 
+
+piece, Vinogradov grappled with 
+questions of what we choose to 
+remember. Vinogradov found 
+that the more he thought about 
+these questions, the more they 
+emerged 
+through 
+Williams’s 
+
+memoirs.
+
+“Marlon Brando, for example, 
+
+was just recently discovered to 
+have raped a woman on set,” 
+Vinogradov said. “This icon for 
+so many of us just instantly fell 
+to ashes. At first I kind of wrote 
+him as a monster. And then I 
+had to come to terms with that 
+being a little too easy.”
+
+In 
+understanding 
+human 
+
+flaws that can’t be removed 
+from 
+remaking 
+a 
+memory, 
+
+Vinogradov creates the depth 
+that his characters demand.
+
+“How do you make him 
+
+complicated without forgiving 
+him? The way we kind of 
+learned that … the person who 
+hates him more than anyone 
+else is himself. That was a really 
+delicate thing to dance around,” 
+Vinogradov said.
+
+While discussing character 
+
+relationships, and sharing about 
+what each actor has brought 
+to each role, Vinogradov found 
+that 
+the 
+actors 
+discovered 
+
+elements of the script that he 
+wasn’t 
+even 
+aware 
+existed. 
+
+Through these elements, two 
+main themes rest at the heart of 
+Vinogradov’s script.
+
+“The first is the idea that for 
+
+something to really be beautiful, 
+it 
+needs 
+to 
+have 
+ugliness. 
+
+Beauty is a direct perspective of 
+something else we are looking 
+at. In order for you to have 
+lived a beautiful life and a good 
+life, you have to recognize the 
+ugly things that happened,” 
+Vinogradov said. “The other 
+thing that really impacted me 
+is the idea that you are not what 
+you’ve done, but what you do. 
+You can become the person you 
+want to be.”
+
+Despite the rather tragic 
+
+events 
+that 
+unfold 
+in 
+the 
+
+play, the audience is left with 
+an 
+overwhelming 
+sense 
+of 
+
+optimism.
+
+“When you are put in the 
+
+midst of such horrible things 
+— we as human beings are 
+awesome. We are going to find 
+things to grasp onto and love.”
+
+BAILEY KADIAN
+
+Daily Arts Writer
+
+“A Night of Stars 
+with Tennessee 
+
+Williams”
+
+Slipstream 
+
+Theatre Initiative
+
+September 7th - 
+
+10th
+
+September 14th 
+
+- 17th
+
+$12
+
+6A — Tuesday, September 5, 2017
+The Michigan Daily — michigandaily.com
+
+
+The Michigan Daily — michigandaily.com
+Tuesday, September 5, 2017 — 7A
+
+
+Latest PVRIS album is 
+catchy & thrillingly dark 
+
+“You took my heaven away,” 
+
+sings Lynn Gunn on “Heaven,” 
+the first track of PVRIS’s new 
+album All We Know of Heaven, 
+All We Need of Hell. This 
+sentiment — anguished and 
+accusatory, the lyrics backed 
+by a hard swell of rock — sets 
+the tone for the rest of the 
+album, a self-assured musical 
+exploration that is as angry and 
+troubled as it is fierce.
+
+All We Know of Heaven, All We 
+
+Need of Hell is PVRIS’s second 
+album after their well-received 
+debut, White Noise. It includes 
+much of the emotional force 
+and honesty that originally 
+made White Noise popular, and 
+refreshingly, it accomplishes the 
+rare feat of not reaching too far 
+beyond itself. The rock-infused 
+approach to songs like “Heaven” 
+and “No Mercy” is hard and 
+dark, but not oppressive, and the 
+lyrics are dramatic, but don’t 
+come across as presumptuous 
+or overused. This is especially 
+true on “What’s Wrong,” with 
+the repeated line, “You don’t 
+need a metaphor to know I’m 
+miserable.” The result is an 
+album that is sure of itself, 
+well defined and enthrallingly 
+catchy.
+
+It’s also very cohesive; the 
+
+hard-edged 
+guitar 
+chords 
+
+and ripped-raw lyrics carry 
+the listener through anger, 
+desperation, 
+sorrow 
+and 
+
+finally numb resignation in 
+the span of 10 songs, and at no 
+point do the transitions feel 
+jarring or unearned. This is in 
+part because one of PVRIS’s 
+strengths is their ability to 
+balance 
+soft, 
+contemplative 
+
+melodies with active, livid rock, 
+often within the space of a single 
+
+song. For instance, “Separate” 
+starts out with a gentle (albeit 
+dark) electronic ambience that, 
+through 
+steady 
+drums 
+and 
+
+mounting production, escalates 
+smoothly into a chorus that 
+feels at once angry, waking 
+and alive. The most surprising 
+thing 
+is 
+that 
+
+the 
+transition 
+
+is 
+so 
+seamless 
+
+— 
+it’s 
+difficult 
+
+to 
+notice 
+it’s 
+
+even 
+happening 
+
+until it’s already 
+over. The album 
+comes full circle 
+particularly 
+in 
+
+its 
+final 
+track, 
+
+“Nola 1,” which 
+incorporates 
+the tune of the 
+chorus of the earlier track, 
+“What’s Wrong.”
+
+An 
+especially 
+appealing 
+
+aspect of All We Know of Heaven, 
+
+All We Need of Hell is that while 
+it was clearly carefully produced 
+and arranged, it doesn’t lean on 
+its own skillful production to 
+carry the meaning. The lyrics 
+also hold up to scrutiny in their 
+own right. Early on, “Anyone 
+Else” cuts to the bone with 
+lyrics like “’Cause I could touch 
+
+a hundred thousand souls / But 
+none of them would ever feel 
+like home,” and “Nola 1” closes 
+out the album with skewed and 
+scattered images of a house 
+once haunted. Things do get a 
+little cliché and melodramatic 
+in “Walk Alone” (“I was the 
+
+smoke 
+in 
+your 
+
+lungs tearing you 
+apart,” “Darling, I 
+always knew that 
+we were doomed,” 
+etc.). 
+However, 
+
+every song on the 
+album 
+puts 
+in 
+
+at least a strong 
+effort where lyrics 
+are 
+concerned, 
+
+both 
+in 
+terms 
+
+of visibility and 
+description and in 
+
+terms of honesty.
+
+For all its merits, it must 
+
+be said that All We Know of 
+Heaven, All We Need of Hell 
+doesn’t take PVRIS very far 
+away from White Noise in terms 
+of artistic direction. It’s darker 
+and feels more complete and 
+realized, but doesn’t mark any 
+drastic new risks or interesting 
+incorporations of new genres. 
+Every once in a while it feels 
+generic, because when you’re 
+singing 
+about 
+relationship 
+
+turmoil and tension from a 
+frame as broad as heaven and 
+hell, it’s hard not to get a little 
+generic at times. But this is 
+only the band’s second album, 
+and it still stands alone as a 
+dark, snappy and quality piece 
+of work. The lyrics, production 
+and melodies all contribute an 
+equal effort to make the album: 
+A strong representation of the 
+turmoil that comes at the end 
+of a relationship, and what that 
+can mean emotionally for all 
+involved.
+
+LAURA DZUBAY
+
+Daily Arts Writer
+
+All We Know 
+of Heaven, All 
+
+We Need of 
+
+Hell
+
+PVRIS
+
+Rise 
+
+‘Game of Thrones’ season 
+seven finishes strong
+
+Since its premiere in 2011, 
+
+“Game of Thrones” has developed 
+a reputation for bold, sweeping 
+season finales. That’s not to take 
+anything away from the rest of the 
+series’s episodes, which are equally 
+ridiculous 
+and 
+consequential, 
+
+but only to say that 
+“Game of Thrones”’ 
+finales have become 
+almost larger-than-
+life. True to form, the 
+latest season send-
+off, “The Dragon 
+and the Wolf,” more 
+than lives up to this 
+tradition. 
+Capping 
+
+off 
+the 
+show’s 
+
+seventh 
+season 
+
+masterfully, 
+“The 
+
+Dragon and the Wolf” redeems 
+some of the series’s earlier season 
+missteps and reminds audiences 
+of the show’s status as television 
+royalty.
+
+Clocking in at 81 minutes, “The 
+
+Dragon and the Wolf” is a massive 
+cinematic 
+episode 
+that 
+sees 
+
+“Thrones” scheming at its best, 
+with the Starks and the Lannisters 
+leading the way. Having followed 
+Sansa 
+Stark 
+(Sophie 
+Turner, 
+
+“Barely Lethal”) through her 
+brutal 
+upbringing 
+in 
+King’s 
+
+Landing, viewers finally got to 
+witness the culmination of Sansa’s 
+transformation into a merciless 
+and cunning Lady of Winterfell. In 
+one of the most powerful scenes of 
+“The Dragon and the Wolf,” Sansa 
+beautifully conspires with Arya 
+Stark (Maisie Williams, “iBoy”) to 
+finally extract vengeance against 
+Petyr “Littlefinger” Baelish (Aidan 
+Gillen, “The Wire”). Watching 
+Sansa use lessons in ruthlessness 
+learned from Littlefinger himself 
+
+— the architect of much of her 
+suffering — was simply incredible. 
+Elsewhere, in King’s Landing, 
+Cersei Lannister (Lena Headley, 
+“The Brothers Grimm”) concocts a 
+brilliant plan with Euron Greyjoy 
+(Pilou Asbæk, “Lucy”) to stealthily 
+ferry 
+The 
+Golden 
+Company 
+
+mercenaries to Westeros.
+
+While 
+Cersei’s 
+maneuver 
+
+to bolster the Lannister army 
+
+through 
+mercenaries 
+figures to be a 
+central aspect of 
+the next and final 
+season, 
+Season 
+
+Eight 
+seems 
+
+primed 
+to 
+be 
+
+dominated by the 
+war between the 
+White 
+Walkers 
+
+and 
+the 
+Stark-
+
+Targaryen allied 
+
+forces. “The Dragon and the Wolf” 
+did a great job of featuring many 
+of the series’s various overlapping 
+stories, while still making clear 
+that this war between the armies 
+of the living and the dead is the 
+show’s primary focus. For now, 
+audiences will have to wait for 
+any more clashes between the 
+Lannisters and the Targaryens.
+
+“The Dragon and the Wolf” also 
+
+handled Theon Greyjoy’s (Alfie 
+Allen, “John Wick”) meandering 
+storyline well, inspiring viewers to 
+root for the disgraced Greyjoy son 
+again. After yet another season of 
+a timid, spineless Theon, nearly 
+all loyal “Thrones” supporters 
+had given up hope of any sort 
+of 
+redemption 
+from 
+Theon. 
+
+Flipping that narrative on its 
+head, this season finale featured 
+Theon summoning the courage 
+to set out to rescue his sister 
+Yara Greyjoy (Gemma Whelan, 
+“The Wolfman”). In the process, 
+Theon kills a fellow Ironborn in a 
+
+barbaric fistfight that wins back 
+the support of his soldiers and, by 
+extension, “Thrones” fans.
+
+This is one of the biggest 
+
+strengths 
+of 
+“The 
+Dragon 
+
+and the Wolf” — it rewards 
+“Thrones” viewers’ loyalty with 
+outstanding pay-off scenes. For 
+years, “Thrones” has teased that 
+“Winter is coming,” and with it, 
+the army of the dead. The finale 
+portrayed winter’s arrival in grand 
+through a snowy scene in King’s 
+Landing with a breathtaking 
+shot of the Wall collapsing, 
+shredded with fireballs by a 
+White Walker riding an undead 
+dragon. Outside of these shots, 
+“Thrones” gave audiences a Jon 
+Snow (Kit Harington, “Pompeii”) 
+and Daenerys Targaryen (Emilia 
+Clarke, “Terminator Genisys”) 
+sex scene after several episodes of 
+subtle sexual tension.
+
+As a “Thrones” season finale, 
+
+“The Dragon and the Wolf” 
+wouldn’t be complete without 
+some 
+last 
+second 
+plotline 
+
+bombshell, 
+and 
+the 
+episode 
+
+fully delivers in this area. In the 
+penultimate scene of the episode, 
+fan-favorites Samwell Tarly (John 
+Bradley, “Traders”) and Bran 
+Stark (Isaac Hempstead-Wright, 
+“The Boxtrolls”) learn of Jon’s 
+true lineage as the son of Rhaegar 
+Targaryen and Lyanna Stark. 
+While the show has hinted at this 
+revelation since its premiere, the 
+discovery remains monumental 
+by making Jon the true heir to the 
+Iron Throne, though it also makes 
+his relationship with Daenerys 
+clearly incestal — she is his aunt. 
+Having such a stunning reveal as 
+only a minor piece of the stellar 
+season finale is exactly what 
+audiences have come to expect 
+from “Thrones,” and it’s why they 
+will keep returning to watch the 
+series’s eighth and final season.
+
+CONNOR GRADY
+
+Daily Arts Writer
+
+Game of 
+Thrones
+
+Season 7 
+
+Finale 
+
+HBO 
+
+Arts
+
+ALBUM REVIEW
+TV REVIEW
+
+The hard-edged 
+guitar chords and 
+ripped-raw lyrics 
+carry the listener 
+through anger, 
+
+desperation
+
+8A — Tuesday, September 5, 2017
+The Michigan Daily — michigandaily.com
+
+
+Arts
+
+TBS breaks 2000s mold
+
+Remember the last time you 
+
+had a truly cathartic release at a 
+concert — who was there and what 
+songs you screamed. Nostalgia 
+holds an undeniable power over 
+musical experiences, but it can also 
+become toxic when exploited in the 
+present. In a world of never ending 
+anniversary tour announcements, 
+it’s refreshing to find a band stand 
+out among the rest without the 
+crutch of nostalgia. On August 13th, 
+Taking Back Sunday lit the sold out 
+Crofoot in Pontiac ablaze, setting 
+the standard for early 2000s emo 
+bands still fortunate enough to be 
+playing shows.
+
+Calling Taking Back Sunday 
+
+an “emo band” in 2017 is a bit of a 
+stretch. Coming off the release of 
+2016’s incredible record Tidal Wave, 
+the band has proven their ability 
+for constructive change, making a 
+record with an unprecedented rock 
+atmosphere for the band without 
+straying too far from what fans have 
+come to expect of their music. Fully 
+cognizant of their fanbase’s desires, 
+Taking Back Sunday’s setlists 
+actively engage all the eras of their 
+music — frontman Adam Lazzara 
+even took the time to explain the 
+inclusion of “Everything Must 
+Go,” a deep cut from their typically 
+overlooked record New Again.
+
+I’ve now seen Taking Back 
+
+Sunday both pre- and post-Tidal 
+Wave, and it’s safe to say the new 
+material expertly blends with 
+the old. Where contemporaries 
+have begun to falter (see: literally 
+all of Fall Out Boy’s music post-
+reunion), the music on Tidal Wave 
+fits perfectly with the rest of their 
+catalogue included in their sets. 
+Opening with the title track and 
+throwing “Death Wolf” in the 
+middle of the performance did 
+nothing to dampen the energy; 
+if anything changed, a marginal 
+amount of people didn’t know all 
+the words to sing along.
+
+Now you find yourself halfway 
+
+through Taking Back Sunday’s set. 
+You’re out of breath and sweaty, 
+packed like a sardine in the crowd 
+of drunk young adults. None of this 
+should be remotely comfortable, 
+but you just finished dancing your 
+ass off to the rock ‘n’ roll of “Death 
+Wolf” when the band launches into 
+the aching ballad of “You’re So Last 
+Summer.” Without even thinking, 
+you’re screaming, “Boys like you 
+are a dime a dozen!” because that’s 
+the infectious relationship Taking 
+Back Sunday have with their fans.
+
+Adam Lazzara and John Nolan 
+
+are 
+natural 
+performers. 
+They 
+
+easily banter with each other, the 
+rest of the band and even audience 
+members. Anecdotes and jokes 
+pass fluidly between songs, except 
+for a long story on how Lazzara 
+
+used to sing and dance in his 
+kitchen pretending to be Billie Joe 
+Armstrong before performing their 
+toned-down acoustic cover of Green 
+Day’s “She.” By sprinkling nostalgia 
+here and there throughout the 
+night, Taking Back Sunday kept 
+long time fans emotionally engaged 
+without the corniness of living in 
+the past.
+
+It’d be amiss to not mention 
+
+Taking Back Sunday’s support 
+from All Get Out and Every Time 
+I Die. The former opened the show 
+with their gorgeous and earnest alt-
+punk tunes, while the later all but 
+destroyed everybody that dared to 
+enter the pit with their violent, high-
+speed blend of hardcore and metal. 
+With diverse, talented openers (and 
+only two of them thankfully), the 
+show quickly ramped up the energy 
+before Taking Back Sunday even 
+took the stage.
+
+And this is exactly why Taking 
+
+Back Sunday continues to thrive 
+today. They’ve grown from their 
+roots, branching into a band more 
+beautiful, more diverse than their 
+past without ignoring it. They 
+didn’t miss a beat the entire night, 
+bombarding 
+the 
+crowd 
+with 
+
+anthem after anthem, old and new. 
+If Taking Back Sunday predicted 
+anything on their first record, it’s 
+that they will always have the mic 
+and the crowd will always have the 
+mosh pit. 
+
+DOMINIC POLSINELLI
+
+Daily Arts Writer
+
+Food, culture and 
+code-switching
+
+It’s not fun to say the 
+
+words tandoori chicken. The 
+dish itself is fine — a quite 
+tasty preparation that’s been 
+successfully 
+imported 
+and 
+
+popularized in the US—but 
+pronouncing the actual words, 
+as an Indian-American kid, 
+is kind of a chore. Same with 
+vindaloo, or biryani, or Qatar, 
+even. It’s that awkward choice 
+you’re asked to a make in a 
+split-second: do I say this the 
+American, Anglicized way to 
+make sure this conversation 
+continues smoothly, or do I 
+flex a little bit and pronounce 
+this how it’s meant to be, 
+thereby ensuring a slight but 
+notable uptick in discomfort 
+levels around the room?
+
+But comparatively, tandoori 
+
+is a walk in the park. My 
+family is from Kerala, in the 
+southernmost part of India, 
+and our cuisine (and culture, 
+for that matter), is wildly 
+different than chicken tikka 
+and paneer. It’s more seafood-
+based, heavier on the coconut 
+milk and bananas, and our 
+vegetarian options are much 
+more robust (for the sake of 
+simplicity, we won’t dive into 
+the varying branches based on 
+religion). Along with a starkly 
+different 
+food 
+landscape, 
+
+however, is a language that 
+is just as foreign, and so it 
+is that saying the seemingly 
+innocuous word dosa in front 
+of a bunch of white people 
+is 
+a 
+peculiarly 
+stressful 
+
+experience.
+
+Try ordering idli off of 
+
+a menu at your local South 
+Indian vegetarian spot. Or 
+pronouncing the word puttu 
+without sounding like you’re 
+mocking it. Maybe even take 
+a stab at my last name! It’s a 
+
+linguistic hellscape down here 
+on the humid, rain-heavy tip 
+of India, and for people who 
+can’t roll their r’s or lay down a 
+“hard t,” it’s nearly impossible 
+to navigate.
+
+Sure, this is an ostensibly 
+
+stupid 
+thing 
+to 
+complain 
+
+about; the social anxiety of 
+immigrants pronouncing meals 
+on a menu is on par with “the 
+
+people of Bomont not being 
+allowed to dance” on the wide-
+ranging scale of legitimate 
+oppression. But what do you do 
+when faced with the choice?
+
+Let’s all agree that there’s no 
+
+one worse than the dude who, 
+in the middle of an otherwise 
+normal description of food, 
+decide 
+to 
+pronounce 
+salsa 
+
+verde as if he recently took 
+a missionary trip to rebuild 
+schools in Mexico. But for the 
+immigrant —or, in this case, 
+the first-generation child — to 
+whitewash the pronunciation 
+of your homeland’s food is 
+odd, 
+and 
+uncomfortable. 
+
+The history of that dish, and 
+the history of your family, 
+awkwardly brushed aside for 
+convenience. There’s a tinge 
+of guilt whenever you do it; it’s 
+an internal acknowledgement 
+that you have, for the moment, 
+sold out to appease these white 
+devils, even though you know 
+better. It’s a microcosm of 
+that age-old, tiresome cliché 
+
+of a conundrum: to assimilate 
+or to retain one’s heritage, all 
+magnified by the order at a 
+dinner table.
+
+Code-switching is, on the 
+
+whole, a much larger and 
+more fascinating phenomenon 
+to be considered. But in the 
+context of food and its weirdly 
+specific customs, it takes on a 
+more dynamic meaning. For 
+the foreigner, eating a plate 
+of puttu and kadala curry 
+(with your hands, of course) 
+is, if for only a moment, a 
+brief glimpse into a land miles 
+away; for the immigrant, a 
+banana leaf covered in the 
+
+offerings of a traditional sadya 
+— choru, aviyal, thoran, and 
+countless more tiny mounds 
+of 
+exhaustively 
+prepared 
+
+side dishes — is an evocative 
+snapshot of a phantom home, 
+with all the emotional weight 
+and cultural baggage that it 
+portends. That split-second of 
+hesitation, then — the moment 
+before 
+“doe-suh” 
+or 
+“tho-
+
+shuh” — is often the wait of a 
+lifetime.
+
+CONCERT REVIEW
+FOOD COLUMN
+
+COURTESY OF ALEXIS BACKUS
+
+NABEEL 
+
+CHOLLAMPAT
+
+It’s a linguistic 
+hellscape down 
+
+here on the 
+
+humid, rain-heavy 
+
+tip of India
+
+Read more online at 
+
+michigandaily.com
+
+The Michigan Daily — michigandaily.com
+Tuesday, September 5, 2017 — 9A
+
+
+Sports
+
+WOMEN’S SOCCER
+FIELD HOCKEY
+
+Wolverines fall short at 
+Notre Dame Invitational
+
+Dowthwaite falls just short 
+of giving Wolverines victory
+
+After a 1-1 tie against Santa Clara 
+
+(2-3-1) Friday, the No. 23 Michigan 
+women’s soccer team was slated 
+to face No. 11 South Carolina as its 
+last opportunity to come out of the 
+Notre Dame Invitational with a win. 
+And for a brief moment, it looked 
+like a possibility.
+
+Just eight minutes into the game, 
+
+junior forward Reilly Martin sent a 
+free kick towards the Gamecocks’ 
+goalkeeper, 
+who 
+managed 
+to 
+
+punch it away without an issue. But 
+sophomore defender Jada Dayne 
+was there to head the ball to the back 
+of the net, giving the Wolverines an 
+early 1-0 lead.
+
+Michigan was eager to walk 
+
+away with a win, but two second-
+half goals from South Carolina (5-1) 
+meant the Wolverines would leave 
+the Notre Dame Invitational with a 
+tie and a loss.
+
+Trouble arose when Michigan 
+
+(3-1-2) allowed two goals within a 
+matter of minutes. The Wolverines 
+maintained their one-goal lead 
+through the first half, but in the 54th 
+minute South Carolina’s midfielder 
+Bianca 
+Galassini 
+collected 
+a 
+
+deflection in the box and slotted 
+it in. Michigan struggled to keep 
+its composure, and Galassini took 
+advantage of a poor clearance and 
+chipped it into the top right corner 
+for her second goal of the day.
+
+From 
+there 
+on 
+out, 
+the 
+
+Gamecocks controlled the game. 
+South 
+Carolina 
+dominated 
+
+possession in its half of the field 
+until the final whistle blew. The 
+Wolverines didn’t even get their 
+first shot of the second half until the 
+75th minute, when redshirt junior 
+forward Taylor Timko ripped a shot 
+to the far-right post that sailed wide.
+
+A quiet outing from junior 
+
+midfielder Abby Kastroll surely 
+impacted the Wolverines’ chances 
+
+against the Gamecocks. Kastroll 
+registered only one shot Sunday, 
+where Friday she managed six shots 
+and had the game-tying goal. She 
+pressured Santa Clara’s backline, 
+which 
+allowed 
+for 
+freshman 
+
+midfielder Sarah Stratigakis to send 
+a through ball for Kastroll to tap in.
+
+Michigan coach Greg Ryan 
+
+doesn’t 
+consider 
+the 
+weekend 
+
+unsuccessful, though. With only 
+one game left before conference 
+play starts, Ryan knows the strong 
+competition will prepare his team 
+for what’s to come.
+
+“We have a lot of younger players 
+
+and this kind of experience is huge,” 
+Ryan said. “We had the opportunity 
+to play two teams that were in 
+the Elite 8 last year of the NCAA 
+Tournament, so I think this will 
+help us face the top teams in the Big 
+Ten.”
+
+Still relatively early in the season, 
+
+Ryan’s top priority is giving players 
+
+as much playing time as possible. 
+Two goalkeepers saw action this 
+weekend, with senior Sarah Jackson 
+starting 
+Friday 
+and 
+freshman 
+
+Hillary Beall starting Sunday. The 
+two combined for nine saves on the 
+weekend.
+
+While Ryan was pleased with 
+
+his team’s performance, there 
+is still plenty of work to be done 
+before the Big Ten season begins. 
+Michigan started five freshmen in 
+both games over the weekend, and 
+its inexperience was evident. The 
+defense was especially suspect as 
+the Gamecocks’ two goals came off 
+defensive errors.
+
+With the goalkeeper position 
+
+up in the air and new faces in the 
+backline, the Wolverines now 
+look to create a rhythm with their 
+defense and hope the experience 
+from beginning of the season was 
+enough to garner a successful run in 
+conference play.
+
+The No. 11 Michigan field 
+
+hockey team experienced its first 
+snag of the year, losing 2-1 to No. 
+4 Connecticut on Sunday in Ann 
+Arbor after opening the season 
+with three consecutive wins over 
+ranked opponents. 
+
+The contest was locked in an 
+
+offensive stalemate for much of the 
+game, with both teams remaining 
+scoreless well into the second half.
+
+“I think (Connecticut) had a 
+
+really good one-on-one defense. 
+They were very stingy coming 
+into the circle, which gave us some 
+trouble,” said Michigan coach 
+Marcia Pankratz. “I think we 
+tended to not have very good vision 
+and had our heads down instead 
+of transferring the ball around 
+and penetrate another side of the 
+circle. Those two things together 
+probably didn’t make for a great 
+day for us.”
+
+The tie was broken by Huskie 
+
+defender Casey Umstead on a 
+corner shot with 15:08 remaining in 
+the matchup. Umstead would tack 
+on another goal on a penalty stroke 
+less than four minutes later, giving 
+Connecticut a 2-0 advantage.
+
+The barrage of goals by the 
+
+Huskies ultimately became the 
+deciding factor in the game. With 11 
+penalty corners to the Wolverines’ 
+two, Connecticut was able to swing 
+the balance with its ample amount 
+of goal-scoring opportunities. 
+
+“If you give them that many 
+
+corners, they’re going to execute 
+one or two here, eventually. And 
+they did,” Pankratz said. “We need 
+to have more opportunities on our 
+end so we can even up the score, 
+and weren’t able to do that.”
+
+Despite the sudden flurry of 
+
+Huskie goals, Michigan was able 
+to tighten the margin with a corner 
+goal from sophomore forward Meg 
+
+Dowthwaite with 3:26 remaining. 
+The goal was Dowthwaite’s fifth in 
+four games. 
+
+After finally getting on the 
+
+scoreboard, the Wolverines kept 
+high pressure into the waning 
+seconds of the game. In the final 
+minute of the game, the team 
+had 
+one 
+last 
+penalty-corner 
+
+opportunity. But Michigan wasn’t 
+able to convert, and Connecticut 
+was able to run the clock out to 
+preserve the victory. 
+
+“You pick up energy when you 
+
+get a corner; we hadn’t had a corner 
+all game,” Dowthwaite said. “You 
+get a goal and it lifts the mood 
+again and you get more energy and 
+more confidence. So we really tried 
+to go really hard in that last five 
+minutes. (We) got a corner at the 
+end but we just couldn’t finish it, 
+unfortunately.”
+
+Signs of fatigue were apparent 
+
+given a short turnaround from 
+last Friday’s contest against No. 
+25 Liberty. The Huskies had a 
+full week of rest before Sunday’s 
+matchup. 
+
+Even 
+with 
+the 
+loss, 
+the 
+
+Wolverines 
+look 
+to 
+have 
+a 
+
+promising season ahead of them, 
+with 
+a 
+resume 
+that 
+already 
+
+includes a win over then-No. 1 
+North Carolina. The team will look 
+to bounce back this Friday against 
+William & Mary. 
+
+“The last four minutes (against 
+
+Connecticut) was the team that 
+was here on Friday and last 
+weekend,” Pankratz said. “It took 
+us 66 minutes to get there, so that 
+was unfortunate. We’ll just have 
+to try to work on that and fix it for 
+the next weekend. It’s a long season 
+and that’s why we play the games — 
+to get better every game so we’re at 
+our best at the end of the season.”
+
+PAIGE VOEFFRAY
+
+Daily Sports Writer
+
+EFE EDEVBIE
+Daily Sports Writer
+
+AMELIA CACCHIONE/Daily
+
+Sophomore forward Meg Dowthwaite’s goal wasn’t enough for Michigan.
+
+10A — Tuesday, September 5, 2017
+The Michigan Daily — michigandaily.com
+
+ZOEY HOLMSTROM/Daily
+
+Sophomore defender Jada Dayne scored in a loss against South Carolina.
+
+
+Sports
+
+FOOTBALL
+MEN’S SOCCER
+
+Patience paying off for Marshall
+Mukuna proving value for Michigan
+
+The 
+last 
+four 
+years 
+of 
+
+Lawrence 
+Marshall’s 
+life 
+
+have been all about trusting a 
+process he never knew would 
+take so long.
+
+It’s a process that required 
+
+nearly 50 pounds of weight 
+gain, two position switches 
+and three years of patiently 
+waiting.
+
+That 
+process 
+isn’t 
+over 
+
+yet. But, at least for one play, 
+the redshirt junior caught a 
+glimpse at what could lie in 
+his future when he recovered 
+a fumble in the third quarter 
+of Michigan’s 33-17 victory 
+over Florida on Saturday. 
+
+“That’s what we preached 
+
+all spring ball, all fall camp 
+— just running to the ball,” 
+Marshall said. “That’s the 
+Michigan 
+thing. 
+Coaches 
+
+always preach that; you never 
+know what you’re going to 
+find when you’re running to 
+the ball.”
+
+Marshall has yet to break 
+
+into the starting lineup, or 
+develop into the fearsome 
+defensive lineman that many 
+predicted he would. But given 
+how long he’s waited to make 
+an impact on the field, that 
+fumble recovery meant all the 
+more to both him and his mom, 
+who Marshall said texted and 
+called him “five or six times” 
+after the game ended.
+
+Marshall, now a defensive 
+
+tackle, 
+has 
+certainly 
+had 
+
+a 
+humbling 
+experience 
+at 
+
+Michigan despite a recruiting 
+pedigree that would suggest 
+otherwise.
+
+He arrived in Ann Arbor 
+
+as a highly-touted four-star 
+defensive end — one of the 
+best in the nation — who had 
+previously committed to Ohio 
+State. Yet Marshall was not 
+prepared for one of big-time 
+college 
+football’s 
+harshest 
+
+realities: chances are, the 
+roster already has players who 
+
+were just as highly-ranked as 
+you were — and they have an 
+advantage in experience. 
+
+It 
+didn’t 
+matter 
+that 
+
+Marshall 
+was 
+a 
+blue-chip 
+
+recruit, or that Michigan had 
+won a hard-fought recruiting 
+battle for his services. Once he 
+enrolled on campus, he was at 
+the bottom.
+
+“We 
+just 
+had 
+some 
+
+incredible players that were 
+ahead of me, and I just had 
+to wait my time,” Marshall 
+said. “It was difficult, being a 
+highly-recruited guy coming 
+in and you’ve got to start 
+
+from the bottom of the barrel 
+and build your way up, but 
+perseverance is everything 
+and that’s what I stand by.”
+
+It didn’t help that Marshall 
+
+was quickly converted into a 
+strongside end — a position 
+that, 
+compared 
+to 
+the 
+
+weakside, typically requires 
+more weight in an emphasis 
+to hold up better against the 
+run. Then, he was eventually 
+
+moved again, this time to 
+defensive tackle.
+
+For Marshall, that meant 
+
+retooling 
+his 
+entire 
+pass-
+
+rushing technique. And that 
+didn’t come easy.
+
+“A lot of work went into it,” 
+
+Marshall said. “Rushing from 
+the inside versus outside are 
+two different games.” 
+
+He gained an edge during 
+
+the offseason, though, after 
+working with fifth-year senior 
+defensive tackle Mo Hurst. 
+Hurst, commonly regarded 
+as one of the nation’s premier 
+interior pass-rushers, taught 
+Marshall “everything.”
+
+Those 
+sessions, 
+coupled 
+
+with more time spent at the 
+position, saw Marshall enjoy 
+what he thinks is one of — if 
+not the — best fall camps he’s 
+ever had. 
+
+“I’m more aggressive, I 
+
+feel like — more knock ‘em 
+back, playing low, my pad 
+level has gotten way better, 
+my technique has improved 
+a lot,” Marshall said. “I was 
+just watching film of myself 
+my sophomore year where I 
+was stepping inside some or 
+stepping outside, and now it’s 
+straight steps and punching 
+somebody in the mouth first, 
+so that’s what I felt like I 
+improved the most on.”
+
+Saturday, he saw regular 
+
+snaps as part of the interior 
+rotation. While that may not 
+seem like much, Michigan 
+spent much of the game in a 
+three-man front, which meant 
+there were fewer snaps for its 
+interior linemen.
+
+Perhaps 
+that’s 
+the 
+best 
+
+indicator of how far Marshall 
+has come — while he was once 
+the 
+highly-touted 
+recruit 
+
+biding his time, he’s now the 
+veteran seeing the field ahead 
+of younger and even more 
+highly-ranked freshmen.
+
+“You have to be patient to a 
+
+certain extent,” Marshall said. 
+“I was patient all the way up to 
+this point.”
+
+Before Friday night, Daniel 
+
+Mukuna doesn’t think he had 
+ever scored two goals in a 
+soccer match — no matter the 
+playing level. 
+
+The junior defender found 
+
+the back of the net just three 
+times last season at Campbell 
+University, as offensive chances 
+were simply scarce for the 
+England native. 
+
+But in just his third game 
+
+as part of the Michigan men’s 
+soccer team, Mukuna scored 
+twice — including the eventual 
+game-winner — to lead the 
+Wolverines to a 3-1 victory over 
+Cleveland State. 
+
+“It means a lot to get those 
+
+goals,” Mukuna said. “It’s a 
+privilege for me to play here, 
+and whenever there’s a chance 
+
+to get a goal, I definitely want 
+to be who comes up and gets 
+one.
+
+“I believed that these were 
+
+the coaches that would take me 
+to the next level – that’s why 
+I transferred here. It’s great 
+to see things come together 
+tonight.”
+
+Michigan 
+coach 
+Chaka 
+
+Daley pushed Mukuna up the 
+pitch, noting his ability in the 
+air off set pieces. Despite a 
+1-0 Michigan lead that forced 
+the Vikings to increase their 
+tempo in the attacking third, 
+
+Daley returned fire with an 
+aggressive approach that led to 
+Mukuna’s first goal in the 55th 
+minute — a buried header off 
+a cross from senior midfielder 
+Tristan Jacob. 
+
+Just 
+four 
+minutes 
+later, 
+
+Mukuna completed his brace 
+with a powerful finish from the 
+right flank as the Wolverines 
+continued to pressure on the 
+offensive end. 
+
+“Going in, we talked about 
+
+getting goals from the back and 
+how beneficial that would be,” 
+Mukuna said. “There definitely 
+was an emphasis on it, and it’s 
+great to see it come to fruition.”
+
+On 
+the 
+defensive 
+half, 
+
+Mukuna and his fellow starting 
+backs – junior Marcello Borges 
+and sophomore Abduo Samake 
+— held the Vikings to just four 
+shots. Though one of those 
+found the back of the net, the 
+trio 
+consistently 
+frustrated 
+
+Cleveland State’s attackers with 
+solid positioning and speed to 
+cut off potential chances. 
+
+“(Our defenders) have been 
+
+a great partnership so far,” 
+Mukuna 
+said. 
+“Everybody 
+
+has been working thoroughly 
+in practice on keeping our 
+discipline 
+and 
+shape 
+and 
+
+making sure out tactics are 
+right. 
+I’m 
+happy 
+that 
+it’s 
+
+showing up on the field.”
+
+Mukuna even found himself 
+
+saving goals, too
+
+When the Vikings opened 
+
+the 
+field 
+in 
+pursuit 
+of 
+
+equalizing goals in the 75th 
+minute, Cleveland State forced 
+sophomore goalkeeper Andrew 
+Verdi out of position from an 
+initial 
+chance, 
+creating 
+an 
+
+open net opportunity off the 
+rebound. But Mukuna — almost 
+100 meters from where he 
+scored his two goals — blocked 
+the Viking attempt to preserve 
+Michigan’s two-goal lead.
+
+Despite the return of junior 
+
+Peter Brown, Mukuna has now 
+started over the incumbent 
+defender in all three matches. 
+
+“Certainly, he’s a physical 
+
+presence and has kept himself 
+super fit,” Daley said. “He’s very 
+much a team guy, is technically 
+sound and very dangerous on 
+dead ball situations. He’s been 
+solid to this point.”
+
+ORION SANG
+
+Daily Sports Editor
+MARK CALCAGNO
+
+Daily Sports Writer
+
+“That’s what 
+
+we preached all 
+spring ball, all 
+fall camp — just 
+running to the 
+ball. That’s the 
+Michigan thing. 
+Coaches always 
+preach that; you 
+never know what 
+
+you’re going to 
+find when you’re 
+
+running the 
+
+ball.”
+
+“I believed that 
+these were the 
+coaches that 
+would take me 
+to the next level 
+ 
+— that’s why I 
+
+transferred here. ”
+
+FILE PHOTO/Daily
+
+Michigan coach Chaka Daley has been impressed with Daniel Mukuna. 
+
+The Michigan Daily — michigandaily.com
+Tuesday, September 5, 2017 — 11A
+
+
+12A — Tuesday, September 5, 2017
+The Michigan Daily — michigandaily.com
+
+
+B
+The Michigan Daily | michigandaily.com | September 5, 2017
+
+Meet Mr. Riddle 
+
+By now, you’ve probably 
+
+heard of the letter that 
+
+inspired the Wolverines. Get 
+
+to know the Marine who 
+
+wrote it. 
+
+ » Page 6B
+
+Feelin’ special
+Quinn Nordin and the special 
+teams unit helped Michigan 
+win a phase of the game 
+Saturday that they were 
+never supposed to. 
+
+» Page 5B
+
+The 11th-ranked Wolverines defeated No. 17 Florida at AT&T Stadium in the AdvoCare 
+Classic, quieting any concerns there may have been that Michigan is too inexperienced.
+
+ARLINGTON, Tex. — The 
+
+first pick came, then the sec-
+ond.
+
+Suddenly, 
+the 
+Michigan 
+
+football team was trailing by 
+a touchdown with its start-
+ing quarterback taking a seat 
+on the sideline. Then came a 
+blocked punt, and the game 
+was at risk of spiraling out of 
+control.
+
+And yet, the 11th-ranked 
+
+Wolverines (1-0) — a team 
+ample 
+with 
+youth 
+after 
+
+returning, at best, five start-
+ers 
+— 
+threw 
+their 
+inex-
+
+perience out the window, 
+recovering to score 20 sec-
+ond-half points and defeat 
+No. 17 Florida, 33-17, in the 
+AdvoCare Classic at AT&T 
+Stadium.
+
+“I mean, we didn’t hang our 
+
+heads,” said freshman wide 
+receiver Tarik Black. “You 
+know, when we face adversity, 
+
+we just got to get back to it, 
+get back up.
+
+“Really, Coach just empha-
+
+sized coming out and pretty 
+much clearing our heads and 
+just coming out and doing 
+what we do, and that’s play 
+Michigan 
+football. 
+And 
+I 
+
+think 
+that’s 
+
+what we did.”
+
+The 
+second-
+
+half resurgence 
+started 
+with 
+
+redshirt 
+junior 
+
+quarterback 
+Wilton Speight, 
+as he went 5-for-
+7 with 52 yards 
+to set up junior 
+running 
+back 
+
+Karan 
+Higdon 
+
+for a three-yard 
+touchdown rush 
+on the opening 
+drive.
+
+Redshirt freshman kicker 
+
+Quinn Nordin slowly built 
+Michigan’s lead for the rest of 
+the third quarter, nailing a 30 
+
+and 50-yard field goal after 
+two fumble recoveries to put 
+the Wolverines ahead, 26-17, 
+entering the final frame.
+
+Then the defense took over, 
+
+as it had the entire game.
+
+Florida (0-1) failed to score 
+
+a single point in the second 
+
+half, 
+eventu-
+
+ally 
+replacing 
+
+Feleipe 
+Franks 
+
+with 
+Malik 
+
+Zaire at quar-
+terback.
+
+The 
+Wolver-
+
+ines’ 
+defense 
+
+tallied stop after 
+stop — holding 
+the 
+Gators 
+to 
+
+just 192 yards, 
+conceding 
+just 
+
+three points and 
+capping the day 
+off with a sack 
+of 
+Zaire 
+that 
+
+turned into a fumble recovery 
+in Florida’s end zone.
+
+“I seen a bunch of guys play 
+
+like men today,” Bush said. “… 
+
+We just had a bunch of guys 
+rise to the occasion. I can’t 
+express how happy I am and 
+proud of those guys I am.”
+
+And if not for the defensive 
+
+unit, the first half could have 
+easily gotten out of hand.
+
+Though 
+he 
+eventually 
+
+returned, 
+line-
+
+backer 
+and 
+
+defensive 
+cap-
+
+tain 
+Mike 
+
+McCray started 
+the 
+game 
+on 
+
+the sideline for 
+unknown 
+rea-
+
+sons, and sopho-
+more linebacker 
+Devin Bush was 
+nearly 
+ejected 
+
+for targeting on 
+the first play of 
+the game.
+
+Roughly 
+12 
+
+minutes 
+later, 
+
+after finding freshman wide 
+receiver Tarik Black for a 
+46-yard touchdown to give 
+Michigan a 10-3 lead with just 
+
+over three minutes left in the 
+first quarter — going 75 yards 
+on three plays in just 43 sec-
+onds — Speight’s day took a 
+turn for the worse.
+
+The Gators turned his two 
+
+pick-sixes into a 17-13 lead, 
+despite failing to score a 
+
+single offensive 
+touchdown and 
+tallying just 91 
+total yards in 
+the first half.
+
+And with the 
+
+pick-sixes came 
+the quarterback 
+controversy. 
+Michigan coach 
+Jim 
+Harbaugh 
+
+went with Spei-
+ght to start the 
+game, but two 
+consecutive 
+interceptions 
+landed him on 
+
+the bench with just under 11 
+minutes left in the first half.
+
+Fifth-year 
+senior 
+John 
+
+O’Korn took over, only to 
+
+watch sophomore Will Hart 
+have his punt blocked after 
+O’Korn’s first offensive drive 
+ended with a three and out.
+
+O’Korn was given only one 
+
+more offensive drive after 
+the punt block, as Speight 
+reclaimed his duties under 
+center for the remainder 
+of the game and finished 
+11-for-25 with 181 yards, one 
+touchdown and two inter-
+ceptions.
+
+“There’s a lot to learn from 
+
+it,” Harbaugh said. “There’s 
+really good things to learn 
+from it. We already have talk-
+ed about some of them, and 
+there will be more to learn 
+from it. But he’s experiencing 
+it. That’s big.
+
+“And then, you know, it’s 
+
+always astonished me, you 
+know, with quarterbacks. It’s 
+a sign. It really is a sign when 
+a quarterback can have some-
+thing really bad go, some-
+thing really bad happen, and 
+come back from it.”
+
+YOUNG DON’T
+MEAN NOTHIN’
+
+KEVIN SANTO
+
+Managing Sports Editor
+
+“I seen a bunch 
+of guys play like 
+men today. ... We 
+just had a bunch 
+of guys rise to the 
+
+occasion.”
+
+“We didn’t hang 
+our heads. You 
+
+know, when we face 
+
+adversity, we just 
+got to get back to it, 
+
+get back up.”
+
+TUESDAY
+
+- Devin Bush Jr. 
+
+Michigan 33
+
+Florida 17
+
+
+2B — Tuesday, September 5, 2017
+The Michigan Daily — michigandaily.com
+SportsTuesday
+
+A letter and a lesson
+
+A
+
+RLINGTON, Tex. — 
+Dear Coach Harbaugh,
+
+The letter began.
+
+My name is Anthony Riddle; 
+
+I’m a 13-year combat veteran of 
+the U.S. Marine Corps. I now 
+live just thirty minutes west of 
+Ann Arbor in 
+Jackson, MI.
+
+Michigan’s 
+
+football coach 
+kept reading.
+
+The reason 
+
+for this letter 
+is for the last 
+three months 
+I have heard 
+how young 
+this year’s 
+team is, how 
+inexperienced the team is, how 
+many players we have to replace, 
+or lost to the NFL.
+
+Then came the real point.
+Let me be clear that sort of 
+
+criticism is bullshit.
+
+The night before the 
+
+11th-ranked Wolverines’ 33-17 
+victory over No. 17 Florida, 
+Harbaugh shared Riddle’s 
+message with his team — 
+joking that it was “better than 
+anything I could have told 
+(them).”
+
+With the way Michigan 
+
+played, maybe it was.
+
+Ever since the Wolverines 
+
+lost to Florida State in the 
+Orange Bowl on Dec. 30, 
+the question has been how 
+Michigan would fare after 
+losing all but one starter on the 
+defensive side of the ball.
+
+Saturday, the Wolverines 
+
+trotted out a defensive lineup 
+with seven first-time starters 
+and gave a definitive answer.
+
+Florida managed just 181 
+
+yards in the air, and — even 
+more uninspiring — rushed for 
+just 11 yards. The Gators totaled 
+just 11 first downs, not including 
+penalty yardage.
+
+Michigan forced four fumbles 
+
+and recovered three, the final 
+of which was a touchdown that 
+
+proved to be a dagger in the 
+game’s final two minutes.
+
+Sophomore linebacker Devin 
+
+Bush Jr. led the unit with seven 
+tackles, two sacks and three 
+tackles for loss. Junior safety 
+Tyree Kinnel wasn’t far behind, 
+racking up six tackles and 1.5 for 
+loss — each good for second on 
+the team. That’s not bad for two 
+guys making the first starts of 
+their careers.
+
+It’s even more impressive 
+
+considering the hand they 
+were dealt. Michigan’s defense 
+allowed just three points the 
+entire game. And yet, the 
+Gators held a 17-13 advantage at 
+halftime, due to redshirt junior 
+quarterback Wilton Speight’s 
+two pick-sixes in the second 
+
+quarter.
+
+In moments like that, when 
+
+a team is losing a game it has 
+no business losing, youth 
+conventionally 
+crumbles. The 
+Wolverines’ 
+response was 
+anything but.
+
+“After those 
+
+two picks, 
+you know, we 
+didn’t go in the 
+gutter,” Bush 
+said. “We didn’t 
+start pointing 
+fingers. Our 
+job is to get us out of this hole. 
+… As a team, you got to pick the 
+offense up when they need help. 
+So that’s what we all did.”
+
+And when pushed further, 
+
+asked if he was at all worried 
+after the interceptions, Bush 
+spoke without hesitation — 
+
+“Nah.”
+
+Cool. 
+
+Confident. 
+And for an 
+inexperienced 
+team, 
+unconventional.
+
+As for the 
+
+offensive side of 
+the ball, it was the 
+same story.
+
+The Wolverines 
+
+racked up 215 
+
+yards on the ground, and 
+another 218 through the air. 
+They did so with seven players 
+making their first career starts 
+
+at their respective positions.
+
+Freshman wide receiver 
+
+Tarik Black and redshirt 
+freshman tight end Nick 
+Eubanks handled their new 
+receiving responsibilities 
+with the poise of veterans — 
+combining for 144 yards on four 
+receptions.
+
+And though he played plenty 
+
+last year, sophomore running 
+back Chris Evans took his 
+first start in stride, leading 
+Michigan’s backs with 22 
+carries while notching 88 yards.
+
+When it was all said and 
+
+done, the Wolverines left the 
+field with a victory to show for 
+it. Undoubtedly, mistakes were 
+made. Two of them came from 
+a veteran in Speight, while the 
+
+other — a punt block — was a 
+special teams gaffe. Michigan 
+still walked away with a 
+16-point advantage, and youth 
+was far from the problem. 
+
+After the game, Speight and 
+
+Harbaugh shared the story 
+of the letter. Then Harbaugh 
+handed it out for all to see. The 
+Wolverines’ coach didn’t equate 
+football to war, but he thought 
+Riddle’s message resonated 
+nonetheless.
+
+Riddle went on to write 
+
+about his experience serving 
+in Iraq, about being handed 
+the responsibility — at 20 years 
+old — of leading 52 Marines into 
+battle, all of whom were the 
+same age or younger.
+
+He told Harbaugh how every 
+
+member of that unit completed 
+their mission and returned 
+safely. He told Harbaugh that 
+if his unit could do that, at 20, 
+in war, then this Michigan 
+group could win a Big Ten 
+championship, if not a national 
+championship.
+
+It’s way too early to say that 
+
+Saturday was any justification 
+of a championship-caliber 
+team. But it was certainly a 
+justification of Riddle’s first 
+point: Against the Gators, the 
+concerns about youth were, in 
+fact, “bullshit.”
+
+Speight highlighted a simple 
+
+fact in the bowels of AT&T 
+Stadium. Last year, Michigan’s 
+roster was made up of a 
+collection of 22- and 23-year-
+olds. This year, the Wolverines 
+have a bunch of 18- and 19-year 
+olds.
+
+What everyone saw Saturday 
+
+was that it really didn’t matter. 
+There wasn’t a single Wolverine 
+for whom the stage was too 
+bright.
+
+As Bush bluntly put it: “Young 
+
+don’t mean nothin’.”
+
+Santo can be reached at 
+
+kmsanto@umich.edu or on 
+
+Twitter @Kevin_M_Santo. 
+
+SAM MOUSIGIAN/Daily
+
+Sophomore linebacker Devin Bush Jr. and sophomore defensive end Rashan Gary showed that concerns of Michigan’s youth were unfounded after all.
+
+KEVIN 
+SANTO
+
+“Let me be 
+
+clear that sort 
+of criticism is 
+
+bullshit.”
+
+On big stage, Bush showcases star potential
+
+ARLINGTON, Tex. — The final 
+
+scene of a football game, as the fans 
+stream out of the stadium and the 
+teams congregate in the middle of the 
+field, can tell you everything you need 
+to know.
+
+On Saturday, all one needed to 
+
+do was watch Devin Bush Jr. as he 
+waded through masses of Michigan 
+and Florida players following his 
+team’s dominating — yet oddly close 
+
+— 33-17 victory.
+
+Bush, a sophomore linebacker 
+
+making the first start of his career, 
+was treated like a star. He took several 
+interviews with reporters from ESPN 
+and other outlets.
+
+He met and took pictures with 
+
+Florida players, with his teammates, 
+all with a giant smile on his face. 
+And then, quite fittingly, he ran off 
+the field in lockstep with defensive 
+coordinator Don Brown, who raised 
+his hand in the air and brought it 
+down to meet Bush’s, as if he was 
+
+about to signal, ‘This is the champ.’
+
+Yes, Devin Bush Jr. was the champ 
+
+Saturday. His name may not have 
+been known to the larger world of 
+college football before Saturday 
+afternoon — but just like a movie 
+star becomes famous after their first 
+leading role, Bush will be known to 
+many now.
+
+Yet it was a performance that was 
+
+nearly derailed before it even began. 
+Bush, who has already been ejected 
+once in his career before, was flagged 
+for a late hit on the first snap of the 
+
+game. The officials went to review, 
+the players to their huddles, and Bush 
+awaited his fate. It would have been 
+a big blow to the defense, especially 
+considering how definitively Bush 
+won the starting competition at 
+middle linebacker.
+
+But Bush didn’t seem to worry 
+
+about the outcome too much, 
+considering his comments after the 
+game.
+
+“I don’t remember,” Bush said. 
+
+“But if I wanted to say, like, it’s just me. 
+That’s just what I do. If they want to 
+
+eject me, eject me.”
+That mindset — of unbridled 
+
+aggressiveness and ferocity on every 
+snap, regardless of whether it’s 
+on defense or special teams — fits 
+well with Michigan’s defense and 
+with Brown’s scheme. Bush and his 
+coordinator, it seems, were meant for 
+each other.
+
+That’s not to say the player Bush 
+
+replaced in the middle — Ben Gedeon 
+— was shabby. Gedeon played well 
+last year and was drafted in the 
+fourth round of the NFL Draft, in 
+fact. But Bush is the type of prospect 
+Michigan fans have been longing for, 
+a player who has the requisite speed 
+and agility to play sideline to sideline 
+and disrupt plays in a manner that his 
+predecessors couldn’t quite do. 
+
+Bush, to put it simply, looked like a 
+
+heat-seeking missile, if a heat-seeking 
+missile could play middle linebacker. 
+Time after time, he shot into the 
+backfield on well-timed blitzes, or 
+snuffed out the rare Florida ball 
+carrier that got past his defensive line. 
+He led the team in tackles with seven. 
+He led the team with tackles-for-loss 
+with three. He led the team in sacks 
+with two.
+
+It was the type of performance 
+
+that might indicate that Michigan’s 
+defense may not have lost much of a 
+step, despite last year’s departures.
+
+And that’s the larger point that 
+
+Michigan wants to make, the message 
+it’s been trying to tell everyone all 
+offseason: The Wolverines may have 
+lost a lot, but the players stepping in 
+this year can do just as well — if not 
+better. Just ask Devin Bush Jr.
+
+ORION SANG
+
+Daily Sports Editor
+
+
+The Michigan Daily — michigandaily.com
+SportsTuesday
+Tuesday, September 5, 2017 — 3B
+
+Five Things We Learned: Florida
+
+Yes, things didn’t go perfectly. But, 
+
+all things considered, Michigan’s 
+33-17 victory over Florida in the 
+season opener at AT&T Stadium was 
+a win the Wolverines could be proud 
+of. For some reason, Jim Harbaugh 
+just seems to have Jim McElwain’s 
+number. Now, a young Michigan 
+team whose main detriment may 
+be inexperience can finally say it’s a 
+little less inexperienced — especially 
+after a top-25 win at a neutral-site 
+venue.
+
+Here are five things we learned 
+
+from Saturday’s game:
+
+1. There isn’t a quarterback 
+
+controversy
+
+Yes, Wilton Speight did get 
+
+benched following the rarest of 
+occurrences — consecutive pick-
+sixes, of which only the latter was 
+his fault. Harbaugh said after the 
+game that he wanted his starting 
+quarterback to ‘reset’ mentally.
+
+The move seemed to pay off: 
+
+Speight’s first drive of the second 
+half saw him complete 5-of-7 passes 
+for 52 yards and lead Michigan 
+down the field for a touchdown that 
+allowed it to reclaim the lead.
+
+“I thought Wilton did a good job 
+
+of getting calmed down and started 
+off hot and then hit the rough patch,” 
+Harbaugh said, “and then really 
+finished strong and led our offense 
+very well.”
+
+Of 
+course, 
+Harbaugh 
+never 
+
+benched Speight when he struggled 
+last year, and John O’Korn did look 
+better than he has in the past when 
+he ran the offense for two series. But 
+there isn’t any debate: Speight is — 
+and will be — Michigan’s starting 
+quarterback for the foreseeable 
+future, and deserves to be so.
+
+While many might point to the 
+
+interception on which he badly 
+overthrew junior receiver Grant 
+Perry, Speight did just fine — and 
+better than just fine occasionally. 
+There was the 46-yard touchdown 
+pass to freshman receiver Tarik 
+Black, or the numerous completions 
+in the short passing game where he 
+
+took what Florida’s defense gave 
+him, or the late deep ball to redshirt 
+freshman tight end Nick Eubanks. 
+Speight even showed promise on one 
+of his late miscues — an overthrow of 
+what would’ve been a touchdown — 
+by audibling into the play in the first 
+place.
+
+Perhaps the best indicator of 
+
+what type of player Speight is, and 
+can be on a more consistent basis, 
+was his 28-yard pass to junior wide 
+receiver Grant Perry on the opening 
+drive of the third quarter. Perry was 
+between two defenders, but Speight 
+threaded the needle and placed his 
+throw perfectly. It was a tough play, 
+even more so considering Speight 
+had been benched just before. The 
+throw, and Speight’s willingness 
+and capability to bounce back after a 
+couple tough breaks, could certainly 
+portend good things for the future.
+
+2. The defense looks elite once 
+
+again
+
+The game was never more than 
+
+nine points out of distance for Florida 
+until the final few minutes, but those 
+nine might as well have been 50 
+considering how stifling Michigan’s 
+defense was.
+
+This was a unit that lost nine to 
+
+10 starters from last year — and yet, 
+somehow, looks like it hasn’t taken 
+a step back at all. The Wolverines 
+looked eerily similar to last year’s 
+elite unit as they swarmed to the 
+ball, created havoc in the backfield 
+and imposed their will on Florida’s 
+offense.
+
+The stats tell it all: the Gators 
+
+passed for just 133 yards and ran for 
+a measly 11 yards. There were several 
+chunk plays given up by the young 
+secondary, but Florida was unable to 
+capitalize and turn any of them into 
+points besides a 34-yard pass on the 
+first drive that led to a field goal.
+
+But that unit will have time to 
+
+mature over the year, and the Big 
+Ten will never be confused with 
+the Big 12. There aren’t many elite 
+passing attacks that Michigan will 
+see this year.
+
+And even if the secondary does 
+
+experience more growing pains, 
+realistically, that won’t matter if the 
+
+front seven is making life hell for the 
+opposing quarterback and offensive 
+line anyway.
+
+3. Michigan looks deep at 
+
+running back
+
+Sophomore Chris Evans earned 
+
+the majority of carries, rushing 22 
+times for 78 yards. But the two other 
+running backs to find playing time — 
+fifth-year senior Ty Isaac and junior 
+Karan Higdon — certainly played 
+like they were the feature back as 
+well.
+
+Isaac received 11 carries and 
+
+turned those into a productive 114 
+yards. He ripped off several long 
+runs, including a 36-yarder on 
+Michigan’s first drive of the game. 
+Perhaps most impressive was an 
+18-yard scamper on a fourth-and-
+one that showed the ability that 
+made Isaac so coveted as a five-star 
+recruit: He picked up the first down 
+easily, bouncing outside, before 
+displaying agility unnatural for his 
+size by juking a safety and tacking on 
+another 10-plus yards.
+
+Higdon, meanwhile, toted the ball 
+
+just seven times, but made the most of 
+every carry. His speed was apparent 
+on one play when he bounced the ball 
+outside and outran a defensive back to 
+the first-down marker.
+
+Former running backs coach 
+
+Tyrone 
+Wheatley 
+showed 
+a 
+
+predilection 
+towards 
+giving 
+
+other backs carries even with an 
+undisputed starter in De’Veon Smith 
+last year. And from the looks of it, 
+Jay Harbaugh — the position group’s 
+current coach — may do the same 
+with this year’s rotation and with 
+similar success.
+
+4. Young tight ends could be 
+
+special
+
+While 
+redshirt 
+junior 
+Ian 
+
+Bunting and redshirt sophomore 
+Tyrone Wheatley Jr. are the most 
+experienced members at tight end 
+and earned their fair share of snaps 
+Saturday, it was two of their younger 
+running mates in sophomore Sean 
+McKeon and redshirt freshman 
+Nick Eubanks who flashed the most 
+potential.
+
+McKeon caught three passes, 
+
+second-most on the team, for 25 
+
+yards, proving to be a reliable option 
+in the short and play-action passing 
+game for Speight. He runs well 
+for his size and showcased good 
+balance, breaking a tackle to rumble 
+his way for a first down. Perhaps 
+most tantalizing for Michigan’s 
+coaches was his blocking: McKeon 
+consistently executed his assignment 
+in the run game, helping pave holes 
+for his running backs. Blocking can 
+be the hardest aspect of the position 
+to grasp — even former All-American 
+and Mackey Award winner Jake Butt 
+struggled with it at times — which 
+makes 
+McKeon’s 
+performance 
+
+all the more impressive. If he can 
+be effective in both phases of the 
+position, that gives his coaching staff 
+flexibility; they won’t be tipping run 
+or pass whenever they put McKeon 
+in the game.
+
+His counterpart, Eubanks, looks 
+
+more like a receiver. But if you’re 
+going to look like a receiver at tight 
+end, you’re going to have to play like 
+
+one, and Eubanks certainly did so.
+
+In the fourth quarter, he lined up 
+
+as the tight end, ran down the seam 
+past a defensive back after Speight 
+faked a handoff, and then reeled in a 
+difficult over-the-shoulder catch as 
+two Gators tried to break the pass up.
+
+Eubanks had a reputation as a 
+
+recruit for being raw — he played a 
+lot of receiver in high school — but 
+immensely talented. It was thought 
+he would take a couple years to 
+develop mentally and physically. 
+Saturday — when Eubanks finished 
+as 
+Michigan’s 
+second-leading 
+
+receiver — suggested he may be 
+progressing 
+faster 
+than 
+many 
+
+anticipated. 
+Couple 
+that 
+with 
+
+McKeon’s ability and the veterans, 
+and Michigan’s tight end group 
+could do better in replacing Butt 
+better than initially expected.
+
+5. Bold prediction: Tarik Black 
+
+finishes as Michigan’s leading 
+receiver
+
+Former star Mario Manningham’s 
+
+2005 season remains the gold 
+standard for freshman campaigns 
+in Ann Arbor — and he tallied just 
+27 receptions for 433 yards and six 
+touchdowns, a relatively modest 
+season by most standards.
+
+Tarik Black, though, appears 
+
+poised to break that record and 
+more. After earning praise from 
+teammates and coaches all offseason, 
+Black was finally able to prove that 
+his performance on the field could 
+match the considerable amount 
+of hype. He led Michigan with 83 
+receiving yards and one touchdown 
+Saturday, hauling in a pair of deep 
+balls. He displayed a willingness to 
+block, ran crisp routes and was able 
+to win one-on-one matchups.
+
+Given the opportunities Black 
+
+should receive as one of the 
+starting outside receivers, it’s more 
+than safe to say he should break 
+Manningham’s record. And, judging 
+from Saturday, it seems like he’ll be 
+Michigan’s No. 1 option this year. 
+
+SAM MOUSIGIAN/Daily
+
+Redshirt junior quarterback Wilton Speight threw two interceptions, but there’s no quarterback controversy.
+
+ORION SANG
+
+Daily Sports Editor
+
+The good, the bad and the ugly: Florida
+
+ARLINGTON, Tex. — One 
+
+win into the Michigan football 
+season has revealed so, so much. 
+We learned who is starting at 
+almost every position, where the 
+team needs to improve and who 
+has upped their game since the 
+Wolverines (1-0) last played in 
+2016.
+
+After Michigan’s 33-17 win over 
+
+Florida (0-1), coach Jim Harbaugh 
+talked about a season opener filled 
+with both highs and lows. The 
+Daily breaks down the Wolverines’ 
+turnaround victory over the Gators 
+at AT&T Stadium:
+
+The good
+Most 
+importantly, 
+redshirt 
+
+junior quarterback Wilton Speight 
+bounced back after a devastating 
+stretch of drives that resulted in 
+two pick-sixes. Harbaugh took 
+Speight out to calm him down, 
+and after a couple of unconvincing 
+drives 
+from 
+fifth-year 
+senior 
+
+John O’Korn, Speight returned 
+to command the game. The 
+Wolverines scored 20 unanswered 
+points and tallied 230 yards of 
+total offense in the second half. 
+The game could play a major role 
+
+in Speight’s development moving 
+forward.
+
+Looking more specifically at the 
+
+position groups, wherever on the 
+field Michigan graduated players, 
+somebody new stepped up. The 
+defensive linemen and linebackers 
+looked almost as good as last year. 
+The D-line of sophomore Rashan 
+Gary, fifth-year senior Maurice 
+Hurst, senior Chase Winovich 
+and senior Bryan Mone pressured 
+Florida’s offense all game.
+
+At the start of the game, the 
+
+Wolverines’ defense had zero 
+players on the field that started 
+for Michigan last year. Fifth-year 
+senior linebacker Mike McCray 
+watched from the sideline, to the 
+surprise of many. He eventually 
+entered the game, but the young 
+linebacker unit, including Devin 
+Bush (seven total tackles with two 
+sacks) and Devin Gil (one tackle), 
+was playing well anyway.
+
+Michigan’s 
+defense 
+allowed 
+
+just 11 rushing yards and only 
+gave up three points Saturday. It 
+even capped the game off with a 
+touchdown of its own after forcing 
+Florida’s quarterback to fumble in 
+the end zone.
+
+On the other side of the ball, 
+
+Michigan’s 
+offensive 
+position 
+
+players proved they are ample with 
+depth. At running back, sophomore 
+Chris Evans, fifth-year senior Ty 
+Isaac and junior Karan Higdon 
+combined for 231 rushing yards. 
+The trio helped the Wolverines 
+escape a handful of tricky third-
+and-long scenarios, and Higdon 
+also notched his first touchdown of 
+the season.
+
+Sophomore tight ends Nick 
+
+Eubanks 
+and 
+Sean 
+McKeon 
+
+displayed their speed and catching 
+ability in the second half. McKeon 
+made three catches for 25 yards, 
+and Eubanks made two catches 
+for 61 yards, all of which came in 
+the second half. The tight ends 
+combined well to fill the hole left 
+by former All-American Jake Butt.
+
+The receiving core is also solid. 
+
+Starting for Michigan this year 
+are sophomore Kekoa Crawford, 
+freshman Tarik Black and junior 
+Grant Perry. Crawford’s day was 
+uneventful, but Perry made four 
+catches for 46 yards, and Black 
+made two for 83. Freshman 
+Donovan Peoples-Jones got into 
+the mix as well, but for now it 
+seems like he’ll mostly be used to 
+return punts.
+
+Finally, 
+it’s 
+impossible 
+to 
+
+evaluate 
+Michigan’s 
+scoring 
+
+weapons without looking at its 
+newest kicker, sophomore Quinn 
+Nordin. Nordin, who originally 
+committed to Penn State, flipped 
+and committed to Ann Arbor after 
+Harbaugh slept over at his house a 
+few years ago. The efforts clearly 
+paid off. Nordin went 4-6 on field 
+goals against Florida, hitting a 
+50-yarder and a 55-yarder in the 
+process.
+
+The bad
+The offensive line returned 
+
+just two of five starters, senior left 
+tackle Mason Cole and sophomore 
+left 
+guard 
+Ben 
+Bredeson. 
+
+Unsurprisingly, the left side of the 
+line looked just fine in protecting 
+Speight’s blind side. The right side, 
+however, struggled to contain 
+Florida’s imposing defensive ends. 
+The Gators sacked Michigan’s 
+quarterbacks five times Saturday.
+
+Harbaugh complimented the 
+
+new starters on the O-line after the 
+game, including fifth-year senior 
+center Patrick Kugler, sophomore 
+right guard Michael Onwenu and 
+redshirt sophomore right tackle 
+Nolan Ulizio. Redshirt sophomore 
+Jon Runyan also stepped in for a 
+few downs at right tackle.
+
+Harbaugh 
+emphasized 
+the 
+
+importance of improving on the 
+offensive line from week one to 
+week two, and that playing against 
+Michigan’s strong defensive line 
+throughout fall camp has helped 
+them progress.
+
+The ugly
+The obvious choice here is 
+
+Speight’s two interceptions. The 
+first pick, though, may not have 
+been as bad as the ensuing Florida 
+touchdown 
+seemed. 
+Speight 
+
+actually threw a pretty decent 
+pass, but receiver Kekoa Crawford 
+couldn’t corral the ball, and ending 
+up batting it straight up for the 
+Gators’ secondary to pick off. 
+Speight’s second pick-six, though, 
+was worse. He sailed a pass well 
+over Perry’s head right to a Florida 
+cornerback who easily strolled into 
+the end zone.
+
+Speight has thrown some big 
+
+interceptions before — two against 
+Ohio State and one on his first pass 
+in the season opener in 2016. The 
+Wolverines can’t afford those kinds 
+of mistakes if they want to get over 
+the hump this year and compete 
+for a Big Ten championship.
+
+SAM MOUSIGIAN/Daily
+
+Michigan’s defense looked like it hasn’t lost a step since last year in the season-opener against the Gators. 
+
+FOOTBALL
+Black, Isaac boost
+Michigan’s offense
+
+ARLINGTON, Tex. — Tarik 
+
+Black’s name had been tossed 
+around plenty throughout the 
+offseason.
+
+Talk of an “electric, young” 
+
+wide receiver buzzed about, 
+but questions remained as to 
+if he — or any of the receivers 
+— could step up and replace 
+Michigan’s leading wideouts 
+from 2016.
+
+Saturday 
+afternoon 
+
+at 
+AT&T 
+Stadium, 
+Black 
+
+answered the call in his first 
+career game, as the No. 11 
+Michigan football team (1-0) 
+beat No. 17 Florida, 33-17.
+
+Early on, with the game 
+
+tied 
+at 
+three 
+and 
+the 
+
+Wolverines’ offense deep in 
+Gator territory, Black lined 
+up to the left. His matchup 
+was another true freshman, 
+Florida 
+cornerback 
+Marco 
+
+Wilson.
+
+Michigan snapped the ball, 
+
+and Black ran 10 yards down 
+and in, 10 yards down and 
+out and then cut in one last 
+time. He’d completely shaken 
+off 
+Wilson 
+and 
+streaked 
+
+unguarded to the end zone.
+
+Redshirt junior quarterback 
+
+Wilton 
+Speight 
+threw 
+a 
+
+lofty pass, landing it right in 
+Black’s arms. It was Black’s 
+first career reception, and a 
+46-yard touchdown at that.
+
+“I was a little nervous,” 
+
+Black said of the play. “I used 
+to play in front of a hundred 
+people, now I play in front of 
+100,000. It was pretty nerve-
+wracking, but as long as you 
+just focus and look at the ball 
+all the way in, you should be 
+fine.”
+
+The play call also signaled 
+
+that Michigan’s new passing 
+game 
+coordinator, 
+Pep 
+
+Hamilton, can adjust well on 
+the fly.
+
+On the prior play, Florida’s 
+
+senior safety Nick Washington 
+
+left the game with an injury. 
+Replacing him on Black’s side 
+of the field was another true 
+freshman, 
+defensive 
+back 
+
+Shawn Davis.
+
+Michigan’s 
+coaching 
+
+staff recognized the Gators’ 
+inexperienced secondary, and 
+attacked it to perfection.
+
+Black ended the day with 
+
+83 receiving yards, looking 
+very 
+sure-handed 
+for 
+the 
+
+Wolverines.
+
+Michigan’s other offensive 
+
+standout 
+was 
+fifth-year 
+
+senior 
+running 
+back 
+Ty 
+
+Isaac. 
+Sophomore 
+Chris 
+
+Evans earned the start, but 
+when Evans struggled, Isaac 
+stepped in to settle the nerves 
+and 
+ultimately 
+made 
+the 
+
+biggest impact.
+
+Isaac ran for 114 yards on 11 
+
+carries Saturday, highlighted 
+by a 36-yard gain to help 
+Michigan 
+escape 
+a 
+third-
+
+and-13 situation in the first 
+quarter.
+
+“We 
+called 
+some 
+off-
+
+schedule third-down runs… 
+and we were able to pick 
+those up through the running 
+game,” Harbaugh said. “Ty 
+Isaac did a great job, so really 
+happy for him. That really 
+gave us a boost.”
+
+Isaac’s performance marked 
+
+his first 100-yard rushing 
+game since 2015. Consistency 
+has been an issue for him 
+ever 
+since 
+he 
+transferred 
+
+to Michigan from Southern 
+California after his freshman 
+year. But a running back 
+rotation with Isaac, Evans and 
+junior Karan Higdon provides 
+quality depth for Michigan 
+in case one of them struggles 
+to perform. Saturday was 
+evidence of such.
+
+Isaac 
+and 
+Black 
+were 
+
+instrumental 
+in 
+sparking 
+
+Michigan’s 
+433 
+yards 
+of 
+
+total offense, quieting any 
+questions about ‘filling gaps 
+from 2016’ at the running 
+back or receiver slots.
+
+TED JANES
+
+Daily Sports Writer
+
+TED JANES
+
+Daily Sports Writer
+
+
+4B — September 5, 2017
+SportsTuesday
+The Michigan Daily — michigandaily.com
+
+Notebook: Harbaugh praises offensive line
+
+Long third downs can be 
+
+an offense’s worst nightmare. 
+The defense often sells out 
+against the pass, making it all 
+the more difficult to convert 
+long completions. In Michigan’s 
+33-17 victory over Florida, the 
+Wolverines faced one of those 
+situations during their opening 
+drive when a sack forced a third-
+and-13 from Michigan’s 48-yard 
+line.
+
+The Wolverines, though, went 
+
+against convention, calling a 
+draw play that sprung loose fifth-
+year senior running back Ty 
+Isaac for 36 yards.
+
+The 
+draw 
+play 
+worked 
+
+perfectly as what Jim Harbaugh 
+calls an ‘off-schedule’ run — 
+where Michigan runs the ball 
+in a passing scenario to try to 
+catch the opponent off guard. 
+And Isaac, who rushed 11 times 
+for 114 yards, was the beneficiary 
+twice, converting another long 
+third down on a similar play in 
+the third quarter.
+
+“It’s in the scheme,” Isaac 
+
+said Monday. “We look at a lot 
+of film, obviously the coaches 
+know what they’re doing when 
+they’re drawing up plays. There 
+were a couple situations where 
+we got the looks that we were 
+expecting to get, which made it a 
+little easier.
+
+“They know what they’re 
+
+doing. I’ll never doubt my own 
+abilities, so it could be third-
+and-30 and if they call my 
+number, I feel like I’m going to go 
+get it. We practice certain things, 
+we do a lot of situational work 
+in practice, so it goes back to 
+knowing the type of looks we’re 
+going to get for the most part.”
+
+While Isaac led the team 
+
+in rushing yards, sophomore 
+Chris Evans — the starter — still 
+received double the amount of 
+carries with 22. But Isaac is okay 
+with however many touches he 
+gets. He said he simply wants 
+to have an impact on the game, 
+
+whether that’s with three or 11 
+or 20 carries. And his continued 
+improvement 
+with 
+limited 
+
+carries certainly caught his head 
+coach’s eye.
+
+“Ty has been a very elusive 
+
+runner,” Harbaugh said. “He’s 
+been outstanding. I think his pass 
+protection has improved greatly, 
+he’s always been a great catcher 
+of the ball and his instincts are 
+good and improving.”
+
+Harbaugh 
+pleased 
+with 
+
+offensive line
+
+While an outside glance at the 
+
+stats — five sacks and 11 tackles-
+for-loss given up — might indicate 
+Michigan’s young offensive line 
+had a rough afternoon against 
+Florida’s front seven, Harbaugh 
+was pleased with what he saw 
+from his starters. 
+
+He’s mentioned before that he 
+
+thinks the line is more athletic 
+than previous units. On Monday, 
+he compared the new group to 
+last year’s line, which featured 
+three senior starters.
+
+“There were times consistently 
+
+during the season last year 
+where we were getting beat and 
+there were free runners on the 
+quarterback, and there was a 
+lot less of that in this ball game 
+
+against a very good defensive 
+line and linebacker corps where 
+they’re fast,” Harbaugh said. “We 
+were getting them blocked. We 
+were moving our feet. It wasn’t 
+perfect, but it’s a good place to 
+be, and glad we’re at that level. 
+You don’t know where you’re 
+going to be exactly until you play 
+your first game, and we’re at a 
+good level. We can improve from 
+here.”
+
+All three of the new starters — 
+
+fifth-year senior center Patrick 
+Kugler, sophomore right guard 
+Mike 
+Onwenu 
+and 
+redshirt 
+
+sophomore right tackle Nolan 
+Ulizio — earned praise from 
+Harbaugh for their efforts. He 
+was especially pleased with 
+Onwenu, who won the starting 
+job this offseason after losing 
+weight at the request of the 
+coaching staff.
+
+“Very 
+happy 
+with 
+Mike 
+
+Onwenu,” Harbaugh said. “You 
+go into it and you think, ‘Okay, 
+Mason Cole is our best offensive 
+lineman, and then Ben Bredeson 
+right there close. Mike Onwenu 
+or Ben Bredeson, who’s better?’ 
+They’re both ascending, and 
+Mike’s ascending real fast.”
+
+Nordin earns award after 
+
+first start
+
+Redshirt 
+freshman 
+kicker 
+
+Quinn Nordin arrived on the 
+college football scene in a big 
+way Saturday. He hit his first four 
+field goals, setting a program 
+record by converting two field 
+goals of 50 yards or more in one 
+game, and even went viral for his 
+haircut imitating Ricky “Wild 
+Thing” Vaughn from the popular 
+1989 film Major League.
+
+His breakout performance saw 
+
+him named co-Big Ten Special 
+Teams Player of the Week on 
+Monday, sharing the award with 
+Maryland’s Antoine Brooks. 
+
+“He’s 
+got 
+a 
+great 
+leg,” 
+
+Harbaugh 
+said. 
+“There’s 
+no 
+
+question about it. We worked 
+very hard. You’ve got to give 
+Cameron Cheeseman a lot of 
+credit, you’ve got to give Garrett 
+Moores a lot of credit, I mean, 
+that whole battery. It’s a battery. 
+Two out of the three gotta go 
+really well to make a kick. One 
+of the three go wrong, you’re not 
+going to make the kick. So that 
+team effort was good. 
+
+“I think (Nordin) responds to 
+
+the moment and the pressure. 
+I think he’s got that wonderful 
+quality about him.”
+
+Michigan cruises by 
+Cleveland State, 3-1
+
+Last season, the term “routine 
+
+win” didn’t seem to exist in the 
+vocabulary of the Michigan men’s 
+soccer team.
+
+But perhaps, as a new team 
+
+starts to find its form, it may just 
+shed that reputation as well.
+
+Though the Wolverines were 
+
+missing two key playmakers due 
+to injury — junior forward Francis 
+Atuahene and freshman forward 
+Mohammad Zakyi — they made 
+a routine game look, well, routine, 
+taking care of non-conference foe 
+Cleveland State, 3-1, to improve to 
+2-0-1 on the season.
+
+Neither injury is considered 
+
+to be long term, according to 
+Michigan coach Chaka Daley, 
+who was hopeful both Atuahene 
+and Zakyi would be ready to 
+return 
+for 
+Monday’s 
+match 
+
+against Dartmouth.
+
+In their absence, however, the 
+
+Wolverines found offense from 
+other sources.
+
+In the 50th minute, junior 
+
+forward Jack Hallahan ended 
+the stalemate with a goal worthy 
+of SportsCenter highlight reels. 
+With the ball at his feet just 
+in front of the midfield line, 
+Hallahan looked up to see the 
+goalkeeper off his line. With 
+several defenders surrounding 
+him, Hallahan calmly chipped 
+the ball over the backtracking 
+keeper’s outstretched arm.
+
+“I saw (the goalkeeper) off his 
+
+line, I looked around and didn’t 
+see a pass,” Hallahan said. “And I 
+go for it. See what happens.”
+
+Hallahan admitted that such an 
+
+audacious attempt isn’t something 
+the forward would ever practice, 
+but compared the shot to a long 
+pass towards the net.
+
+From there, the floodgates 
+
+opened, as the Vikings’ defense 
+started to open up.
+
+In the span of the next 10 
+
+minutes, junior defender Daniel 
+
+Makuna — a typically unlikely 
+source for goals — netted two in 
+quick succession, all but sealing 
+the result. 
+
+The first came in the 55th 
+
+minute, when senior midfielder 
+Tristan Jacob found the ball at his 
+feet on the left wing and swung a 
+quick ball into the box. Mukuna 
+lunged forward, heading the ball 
+past the diving goalkeeper.
+
+Mukuna scored his second 
+
+just four minutes later, when 
+Hallahan’s cross found Mukuna 
+once again, who made no 
+mistake in powering the ball 
+into the net. 
+
+Cleveland State pulled a goal 
+
+back in the 70th minute, but the 
+effort was too little too late for the 
+Vikings, as the Wolverines calmly 
+saw the game out from there.
+
+Though Michigan dominated 
+
+possession early, it struggled 
+to find that elusive first goal. 
+Heading into halftime, though, 
+Daley never doubted his offense 
+would ultimately break through.
+
+“I wouldn’t say we struggled 
+
+to generate chances (in the first 
+half), we just struggled to hit the 
+target,” Daley said. “At halftime 
+we just told the guys to keep doing 
+what we’re doing, don’t lose focus 
+defensively. Continue to keep 
+things locked down, and give the 
+team a chance.”
+
+Last season, dominant shot 
+
+totals and controlling possession 
+was hardly out of the norm. 
+What this team showed a glimpse 
+of 
+Friday, 
+was 
+a 
+newfound 
+
+propensity to convert those into 
+goals.
+
+“I thought it was a good team 
+
+performance, from start to finish,” 
+Daley said. “I thought defensively 
+we were sound, and attacking 
+wise it took us a little while, but 
+certainly we broke it open when 
+we broke it open.
+
+“Certainly pleased for tonight, 
+
+and back to work tomorrow.”
+
+It was a different tone from 
+
+Daley, almost routine.
+
+MEN’S SOCCER
+
+Atuahene’s late goal pushes 
+Wolverines past Dartmouth
+
+For a while, it looked like last 
+
+season all over again for the 
+Michigan men’s soccer team.
+
+Huge advantages in shots and 
+
+possession weren’t enough to 
+carry the Wolverines in 2016, and 
+for 80 minutes Monday it was the 
+same case against Dartmouth.
+
+But then, Michigan did what 
+
+it was unable to do on so many 
+occasions a year ago. With 
+eight 
+minutes 
+
+to play, junior 
+forward Francis 
+Atuahene 
+took 
+
+a 
+pass 
+from 
+
+sophomore 
+forward 
+Jack 
+
+Hallahan, 
+created 
+space 
+
+in the box and 
+slotted the ball 
+into the bottom-
+right corner of 
+the net, giving the Wolverines 
+(3-0-1) a 1-0 victory over the Big 
+Green (0-2).
+
+Monday’s contest at U-M 
+
+Soccer 
+Stadium 
+showcased 
+
+a number of trends — both 
+positive and negative — that 
+have followed Michigan, some of 
+them dating back to last season.
+
+For a third straight contest, 
+
+the 
+Wolverines 
+were 
+held 
+
+scoreless in the first half, and 
+were less aggressive in attack 
+before 
+intermission 
+than 
+
+after. In Michigan’s last three 
+games, it has taken 17 first-half 
+shots compared to 35 second-
+half attempts, including five 
+and 13, respectively, against 
+Dartmouth.
+
+The lack of first-half success 
+
+included 
+the 
+Wolverines 
+
+squandering a golden opportunity 
+just after kickoff. In the eighth 
+minute, freshman forward Umar 
+Farouk Osman drew a penalty 
+after a run into the box, but junior 
+midfielder Ivo Cerda’s attempt 
+was blocked by Big Green keeper 
+Christopher Palacios.
+
+Fortunately, 
+Michigan’s 
+
+defense, 
+while 
+not 
+perfect, 
+
+was effective in denying a 
+
+Dartmouth 
+squad 
+replete 
+
+with size, especially up front. 
+Redshirt freshman goalkeeper 
+Andrew Verdi made a number 
+of 
+acrobatic 
+saves, 
+junior 
+
+centerback Daniel Mukuna was 
+a physical presence in the air 
+and junior left back Marcello 
+Borges won several tackles at 
+key moments.
+
+Wolverines’ 
+coach 
+Chaka 
+
+Daley attributed the slow start 
+and 
+subsequent 
+near-misses 
+
+in the second half to fatigue 
+
+from 
+Friday’s 
+
+3-1 win against 
+Cleveland 
+State, 
+injuries 
+
+— Atuahene did 
+not start because 
+of 
+an 
+injury, 
+
+and 
+freshman 
+
+forward 
+Mohammed 
+Zakyi sat out for 
+a second straight 
+game — and plain 
+
+bad luck, of the same variety 
+from last season.
+
+“We just worry about the 
+
+process, doing our job,” Daley 
+said. “As we continue to get 
+healthy that stat could turn on 
+its head, but at the moment we 
+are what we are and we just try 
+to find a way.”
+
+The Wolverines found a way 
+
+just in time. Hallahan fired 
+
+off five shots in a span of 10 
+minutes midway through the 
+second half, sparking a run of 
+aggression 
+that 
+culminated 
+
+when he assisted on Atuahene’s 
+game-winner.
+
+“The opposition is worn out,” 
+
+Hallahan said. “They’re coming 
+out with their game plan to slow 
+us down in the first half and 
+when that’s worn out we’re just 
+picking them apart.”
+
+Added 
+Atuahene: 
+“It’s 
+
+soccer, 
+sometimes 
+you 
+get 
+
+lucky and score a lot of goals, 
+and sometimes it’s the 90th 
+minute. For us this year it’s more 
+composure, keeping our shape. 
+We keep doing the same thing 
+over and over and eventually it 
+breaks teams down.”
+
+On Monday, Michigan did 
+
+plenty of the same things it did 
+last season. But it did one thing 
+differently: It came out on top.
+
+As the Wolverines prepare to 
+
+take on Wisconsin in their Big 
+Ten opener Friday, they have a 
+chance to equal their win total 
+from 2016, just two weeks into 
+the season.
+
+And for them, after last year, 
+
+that’s all that matters.
+
+“Everyone 
+is 
+just 
+really 
+
+excited to erase everything 
+that happened last season,” 
+Atuahene said. “Just start fresh 
+and keep playing.”
+
+‘M’ remains hungry during 
+successful opening stretch
+
+There 
+were 
+just 
+eight 
+
+minutes left on the game clock 
+at U-M Soccer Stadium. The 
+Wolverines and the Big Green 
+were locked in a scoreless 
+draw, and time was winding 
+down for both teams.
+
+Channeling 
+his 
+inner 
+
+Johan 
+Cruyff, 
+Michigan 
+
+men’s soccer junior Francis 
+Atuahene slipped the ball 
+behind his left leg to push 
+past Dartmouth’s final line 
+of defense. Exploiting the 
+gap, Atuahene finished the 
+ball with his right laces, low 
+and hard to the bottom right 
+corner of the net.
+
+The Big Green (0-2) didn’t 
+
+have much of a chance to 
+respond, and the Wolverines 
+(3-0-1) emerged with a 1-0 
+victory.
+
+Last 
+season, 
+it 
+took 
+
+Michigan 10 outings to earn 
+its first win. Four games into 
+this year, the Wolverines have 
+already earned three.
+
+Michigan 
+coach 
+Chaka 
+
+Daley, though, doesn’t like to 
+compare.
+
+“We don’t talk about last 
+
+season. That’s number one,” 
+Daley said. “Two, we have a 
+great character group. They’ve 
+
+gone through some adversity, 
+but the new guys only know 
+what we’ve been building on 
+since the spring. We take one 
+game at a time and keep going 
+from there.”
+
+Daley specifies that he puts 
+
+an emphasis on said character, 
+and this team — more than 
+most — has just that. The 
+Wolverines 
+appeared 
+both 
+
+prepared and composed on the 
+pitch against Dartmouth.
+
+“Everyone 
+
+is trying to be 
+responsible 
+on 
+
+the 
+field 
+and 
+
+everyone 
+is 
+
+trying to look out 
+for each other 
+on 
+the 
+field,” 
+
+Atuahene 
+said. 
+
+“It’s not about 
+me, it’s not about 
+any 
+individual, 
+
+it’s 
+about 
+the 
+
+team.”
+
+And 
+though 
+
+Atuahene 
+and 
+his 
+fellow 
+
+upperclassmen lead Michigan 
+on and off the field, Daley 
+doesn’t shy away from playing 
+the younger players in the 
+slightest. When he recruits, 
+he looks for character, and 
+expects them to be ready and 
+eager from day one.
+
+Six newcomers have seen 
+
+significant playing time all 
+over the field so far this season. 
+Redshirt freshman goalkeeper 
+Andrew Verdi has yet to miss 
+a minute, conceding just two 
+nearly unpreventable goals in 
+his first four games. He tallied 
+three impressive saves on the 
+day.
+
+Freshman 
+Umar 
+Farouk 
+
+Osman comes to Ann Arbor 
+as the 2017 Gatorade National 
+Player of the Year and has 
+
+already begun 
+to stand out in 
+the 
+midfield. 
+
+His 
+nifty 
+
+foot 
+skills 
+
+garnered 
+the 
+
+fans’ 
+cheers 
+
+throughout 
+the 
+entirety 
+
+of the match 
+as he weaved 
+in and around 
+the Big Green. 
+
+Along 
+
+with 
+the 
+
+fresh faces, opening up the 
+season with five consecutive 
+home games is new for the 
+Wolverines. 
+It 
+has 
+never 
+
+occurred in Michigan men’s 
+soccer 
+history, 
+and 
+Daley 
+
+thinks it may have played a 
+role in the Wolverines’ early 
+success.
+
+“The second game of a 
+
+double header on a weekend 
+is very difficult for energy,” 
+Daley said. “We were a little 
+lackluster in the first half, but 
+certainly the crowd and the 
+Michigan Ultras pushed us 
+through to the end there.”
+
+And while the hype from the 
+
+fans and the talent from the 
+team’s new faces certainly add 
+elements of both excitement 
+and depth, Daley believes the 
+core of the team’s success has 
+come down to their attitude.
+
+“In the end, it’s really comes 
+
+down to character. (The team 
+is) really grinding through and 
+listening. They’re disciplined 
+and they’re working hard at 
+it. And they’re hungry,” Daley 
+said with a smile. “I make sure 
+they are.”
+
+SAM MOUSIGIAN/Daily
+
+Sophomore right guard Michael Onwenu impressed Michigan coach Jim Harbaugh with his level of play against Florida.
+
+ORION SANG
+
+Daily Sports Editor
+
+MAX MARCOVITCH
+
+Daily Sports Editor
+
+JACOB SHAMES
+Daily Sports Writer
+
+ZOEY HOLMSTROM/Daily
+
+Michigan coach Chaka Daley’s team is off to a much better start this season.
+
+FILE PHOTO/Daily
+
+Junior forward Francis Atuahene scored a late game-winner to beat Dartmouth.
+
+KATIE CONKLIN
+Daily Sports Writer
+
+“We just worry 
+
+about the 
+
+process, doing 
+
+our job.”
+
+“We don’t 
+
+talk about last 
+season. That’s 
+number one.”
+
+
+The Michigan Daily — michigandaily.com
+Tuesday, September 5, 2017 — 5B
+
+The battle they won
+
+A
+
+RLINGTON, Tex. — 
+Special teams was the 
+battle Michigan was 
+
+supposed to lose.
+
+Florida 
+
+had kicker 
+Eddy Pineiro 
+and punter 
+Johnny 
+Townsend 
+— both of 
+whom were 
+named to the 
+preseason 
+All-SEC 
+second team. 
+Pineiro made 
+21 of 25 field-goal attempts last 
+year — 11 of 13 from 40 yards 
+or farther — while Townsend 
+averaged 47.9 yards per punt with 
+27 downed inside the 20-yard 
+line.
+
+The Wolverines, meanwhile, 
+
+had lost Kenny Allen, who 
+doubled as their kicker and 
+punter. Before Saturday’s kickoff 
+at AT&T Stadium, they weren’t 
+sure who would replace him.
+
+While that might not seem out 
+
+of the ordinary for a Michigan 
+team tasked with replacing all 
+but five starters from last season, 
+the backups-turned-starters 
+on offense and defense had the 
+benefit of playing important 
+roles as rotational players. The 
+potential options on the special 
+teams unit, on the other hand, had 
+never even seen the field.
+
+It would have been 
+
+understandable if redshirt 
+freshman kicker Quinn Nordin 
+and sophomore punter Will Hart 
+couldn’t compete with the Gators 
+in that phase of the game. The 
+Wolverines would have banked on 
+their offense and defense carrying 
+the load. But Saturday, the special 
+teams unit picked Michigan up 
+when it faltered and defeated 
+its Florida counterpart in the 
+process, winning the battle and, 
+ultimately, the game.
+
+It all happened in the blink 
+
+of an eye. Around the 12-minute 
+
+mark of the second quarter, 
+the Wolverines had a 10-3 lead 
+and looked poised to add to it. 
+Redshirt junior quarterback 
+Wilton Speight 
+had just thrown 
+a 46-yard 
+touchdown pass 
+to freshman wide 
+receiver Tarik 
+Black, and was 
+only building 
+more momentum. 
+But on the 
+ensuing drive, one 
+of Speight’spasses 
+bounced off 
+sophomore wide receiver Kekoa 
+Crawford’s hands and into those 
+of Gator defensive back Duke 
+Dawson, who then took it 48 
+yards to the end zone for a pick-
+six to tie the game.
+
+One and a half minutes passed 
+
+on the game clock, and Speight 
+had tossed another. Florida 
+cornerback CJ Henderson 
+
+corralled an 
+errant throw and 
+ran it back 41 
+yards. Suddenly, 
+the Gators had 
+their first lead 
+of the game and 
+the momentum 
+swinging 
+dramatically in 
+their favor.
+
+Michigan 
+
+coach Jim 
+
+Harbaugh replaced Speight with 
+fifth-year senior John O’Korn, but 
+O’Korn couldn’t change the tide. 
+On two consecutive drives, the 
+Wolverines went three and out.
+
+After the initial series, Hart 
+
+lined up for his first career punt, 
+but an energized Florida pulled 
+off a block. The Gators gained 
+possession at the Michigan 
+37-yard line, and 
+looked primed 
+to add to their 
+lead. But while 
+the Wolverines’ 
+defense managed 
+to force a three 
+and out, Pineiro 
+was set up for 
+a 47-yard field 
+goal. Considering 
+he had already 
+nailed a 
+46-yarder, it would have been 
+expected for him to make it a 
+10-point game.
+
+It would have been Florida’s 
+
+special teams unit that carried 
+the plaudits, turning the game for 
+
+the Gators. Instead, though it took 
+them a little longer, that’s exactly 
+what Michigan’s third phase did.
+
+Pineiro missed the field goal, 
+
+and on the 
+Wolverines’ 
+second three-
+and-out 
+possession, 
+Nordin was set 
+up for a 55-yard 
+field goal. He had 
+already converted 
+from 25 yards 
+out, but a 50-plus-
+yard attempt is an 
+entirely different 
+
+monster that most kickers in the 
+nation would miss.
+
+But he didn’t. With all the poise 
+
+of a kicker much older than he is, 
+Nordin stared down his target 
+and put the force of his body into 
+
+the kick. Then he simply watched 
+as it sailed 55 yards and dipped 
+straight through the uprights.
+
+“I was just doing whatever 
+
+my team needed me to do, and 
+if they needed me to put points 
+on the board, then that’s what 
+I was going to do for my team,” 
+Nordin said. “That’s when they 
+put me out there, and I just did 
+my job.”
+
+It may have just been three 
+
+points, but it was worth much 
+more to Michigan. In nailing 
+a field goal from 55 yards out, 
+Nordin did what no other college 
+kicker had ever done at AT&T 
+Stadium.
+
+After that, Florida didn’t score 
+
+another point. Nordin, on the 
+other hand, scored six more, 
+hitting a 30 and a 50-yard field 
+goal on consecutive drives as part 
+of the Wolverines’ 13-point third 
+quarter outburst.
+
+The former came after 
+
+freshman defensive back Ambry 
+Thomas forced and recovered 
+a fumble at the Florida 16-yard 
+line. The latter made him the 
+first Wolverine ever to hit two 
+field goals from 50-plus yards in a 
+single game.
+
+For a Michigan team whose 
+
+ability has continually been called 
+into question on the basis of their 
+inexperience, maybe Nordin’s 
+fellow young teammates just 
+needed to see that their age and 
+their ability are two completely 
+different concepts.
+
+“We’re a young team, 100 
+
+percent, but youth isn’t always a 
+bad thing,” Nordin said. “Youth 
+brings energy, and I think moving 
+on we’re going to continue to 
+grow as a team.”
+
+On Saturday, the Wolverines’ 
+
+special teams unit took the first 
+step in that growth. They weren’t 
+supposed to win their phase of 
+the game on paper. Then they did 
+anyway.
+
+Ashame can be reached at 
+
+ashabete@umich.edu or on 
+
+Twitter @betelhem_ashame.
+
+KATELYN MULCAHY/Daily
+
+Redshirt freshman Quinn Nordin hit four of his six field goals Saturday, helping the Wolverines win a phase of the game they were never expected to.
+
+BETELHEM 
+ASHAME
+
+“Youth isn’t 
+always a bad 
+thing. Youth 
+
+brings energy.”
+
+“That’s when 
+they put me out 
+there, and I just 
+
+did my job.”
+
+SportsTuesday
+
+
+6B — Tuesday, September 5, 2017
+The Michigan Daily — michigandaily.com
+
+The Marine whose inspiration Harbaugh found letter-perfect
+
+On Monday, Anthony Riddle 
+
+still couldn’t believe what Jim 
+Harbaugh did with his letter.
+
+After all, a 15-minute press 
+
+conference 
+after 
+Michigan 
+
+beat Florida — during which 
+Harbaugh 
+explained 
+that 
+
+Riddle’s 
+letter 
+became 
+his 
+
+pregame speech — turned him 
+into a celebrity.
+
+His Facebook blew up with 
+
+requests from journalists and 
+everyday 
+individuals 
+alike, 
+
+all looking to talk to the man 
+that 
+inspired 
+Harbaugh’s 
+
+Wolverines. But before that, it 
+started with his sister, Shelle.
+
+“My sister ended up giving 
+
+me a call,” Riddle said in a 
+phone 
+interview 
+with 
+the 
+
+Daily. “And she’s like, ‘Hey, 
+my boyfriend just got an ESPN 
+alert that Jim Harbaugh just 
+read some Marine’s letter. Was 
+that you?’ ”
+
+Yes, it was.
+
+***
+
+Before the letter, there was a 
+
+speech.
+
+Riddle 
+was 
+tasked 
+with 
+
+writing about his friend, who 
+is set to receive an award in the 
+coming month.
+
+And for the entire offseason, 
+
+Riddle had heard a collection 
+of analysts say that Michigan 
+was too inexperienced to have 
+success in 2017. Finally, while 
+writing the speech for his 
+friend with ESPN and Big Ten 
+Network on in the background, 
+he decided he needed a break.
+
+So nine days ago, on the 
+
+Sunday 
+before 
+Michigan’s 
+
+season 
+opener, 
+instead 
+of 
+
+finishing his speech, he started 
+writing the letter.
+
+He proofread it.
+He Googled Jim Harbaugh’s 
+
+email address, picking the only 
+one he could find.
+
+He clicked send.
+Riddle 
+never 
+expected 
+
+Harbaugh would read it, let 
+alone reply. He sent the email 
+
+thinking to himself, “What’s 
+the worst that could happen?”
+
+A half day later, a response 
+
+from Michigan’s coach arrived 
+in his inbox.
+
+“I’m sitting at work, and it 
+
+says Jim Harbaugh,” Riddle 
+said. “My hands started shaking 
+and I’m like, ‘No way.’ ”
+
+Harbaugh told Riddle that 
+
+he had put the irrelevance of 
+youth in better perspective 
+than he could have himself, and 
+he admitted as much during 
+his press conference Saturday 
+night.
+
+And he said that he would 
+
+be sharing the letter with the 
+team. But Riddle expected it 
+to surface in practice and fade 
+away quietly.
+
+But now you know what 
+
+really happened.
+
+The thing is, it doesn’t stop 
+
+there.
+
+In 
+his 
+original 
+reply, 
+
+Harbaugh invited Riddle to 
+Ann Arbor, asking to meet the 
+Jackson, Mich. native and draw 
+on his experiences. On Monday, 
+Harbaugh took 
+it a step further 
+— 
+telling 
+
+Riddle that he 
+is welcome to 
+be on the field 
+for a game of 
+his choosing.
+
+“It’s 
+hard 
+
+because 
+I 
+
+want to be as 
+respectful 
+to 
+
+him 
+and 
+not 
+
+take up any unneeded time,” 
+Riddle said. “I think overall 
+it just speaks volumes for 
+what type of a person he is. 
+He could’ve just looked at that 
+
+letter and said, ‘Oh, I get 50,000 
+of these a day.’”
+
+***
+
+Riddle’s path to the Marines 
+
+began with a dream that would 
+be familiar to most, but real 
+
+to 
+him 
+— 
+he 
+
+wanted to be an 
+astronaut.
+
+In sixth grade, 
+
+his 
+father 
+told 
+
+him that if he 
+worked hard, he 
+would 
+be 
+able 
+
+to get there, but 
+added a word of 
+caution: The men 
+who go to space 
+are some of the 
+
+smartest people in the world.
+
+Three years later, Riddle 
+
+entered 
+high 
+school 
+and 
+
+realized 
+his 
+dream 
+needed 
+
+some tinkering.
+
+“Going into high school, 
+
+I didn’t have the greatest 
+grades,” Riddle said. “I didn’t 
+have the worst, I wasn’t dumb 
+by any means. But I obviously 
+didn’t have the grades to be 
+like, ‘All right, I’m going to be 
+an astronaut one day.’ ”
+
+So he set out on a new path. 
+
+He knew that most astronauts 
+were former pilots and figured 
+that, if he became a good 
+enough pilot, his dream might 
+be attainable after all.
+
+But after evaluating his options 
+
+for service school, he found 
+himself visiting his brother’s best 
+friend at boot camp in 1996. Then 
+came the revelation.
+
+“From that day on,” Riddle 
+
+explained, “I said, ‘That’s what 
+I’m doing.’ ”
+
+Just after his high school 
+
+graduation, 
+he 
+joined 
+the 
+
+Marines. 
+But 
+two 
+weeks 
+
+into boot camp, he broke his 
+collarbone.
+
+Riddle 
+was 
+forced 
+into 
+
+medical rehab, all the while 
+watching everyone else around 
+him move on and graduate. 
+Eventually, he’d had enough.
+
+“It (was) very depressing 
+
+being in this medical rehab 
+platoon,” Riddle said. “So I was 
+there for about a week and I 
+went back down to the doctor’s 
+office and said, ‘Look, I’m 
+not gonna sit here and watch 
+everyone else move on and 
+train, and I’m not gonna sit here 
+for the next six weeks.’
+
+“And she told me, ‘Well in 
+
+order for you to get back into a 
+platoon, you have to get down 
+and do push-ups … and then 
+you have to do a physical fitness 
+test.’ ”
+
+He did the push-ups. Then he 
+
+beat everyone in the physical 
+fitness test. He ran three miles 
+in 17:10, and did 28 pull-ups and 
+175 sit-ups in two minutes. He 
+still had a broken collarbone.
+
+He graduated boot camp in 
+
+October of 2000, and became a 
+platoon sergeant as a corporal 
+— a position typically reserved 
+for military members in their 
+early 30s — roughly two years 
+later.
+
+He then led 52 Marines, all 
+
+under the age of 20, into Iraq. 
+The video of Sadam Hussein’s 
+statue being torn down was 
+filmed from his vehicle.
+
+He did that all before his 
+
+22nd birthday. And that’s what 
+he told Jim Harbaugh in his 
+letter.
+
+Now he has a blank check to 
+
+cash. And he’s spending it the 
+way he wants to.
+
+“(My sister) is a Spartans 
+
+fan,” 
+Riddle 
+said. 
+“She 
+
+graduated 
+from 
+(Michigan 
+
+State), so she’s like, ‘If he offers 
+you to come to a game, that’s 
+the one I want to go to.’
+
+“I said, ‘No, if he offers me 
+
+to come to a game it’s gonna be 
+against Ohio.’ ”
+
+SAM MOUSIGIAN/Daily
+
+Michigan coach Jim Harbaugh read the Michigan football team a letter from Anthony Riddle the night before the Wolverines opened the year by beating Florida.
+
+KEVIN SANTO
+
+Managing Sports Editor
+
+“I’m sitting 
+at work, and 
+it says Jim 
+Harbaugh.”
+
+

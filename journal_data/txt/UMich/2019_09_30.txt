@@ -1,0 +1,5026 @@
+Housing 
+is 
+an 
+ongoing 
+issue that continues to affect 
+stakeholders in the Ann Arbor 
+community. For students, it 
+means pressure to sign leases 
+in early fall, perhaps without 
+a full understanding of their 
+responsibilities 
+as 
+a 
+tenant. 
+The steady growth of student 
+enrollment, an average 2.21 
+percent in the past two years, 
+exacerbates the issue.
+Individuals such as Peter Allen, 
+professor at the Ross School of 
+Business and Taubman College 
+of 
+Architecture 
+and 
+Urban 
+Planning, believe that students 
+are an integral part to building a 
+solution. In Allen’s business class, 
+Real Estate Essentials, students 
+are given the opportunity to 
+do so. And together with the 
+students from his class, in August 
+Allen proposed the creation 
+of a student-led development 
+accelerator 
+to 
+address 
+the 
+housing crisis. 
+Real Estate Essentials has 
+always included a hands-on 
+component. But recently, he 
+has built a proposal to include 
+the 
+University, 
+local 
+non-
+profits and public agencies in a 
+development accelerator group. 
+In a presentation to the Business 
+School Dean Scott DeRue and 
+
+Taubman Dean Jonathan Massey 
+in late August, Allen presented 
+the development accelerator as 
+a joint effort and highlighted 
+the role of his accomplished 
+students as potential advisory 
+team members. He identified 
+four critical issues in Ann 
+Arbor housing: sustainability, 
+affordability, mobility and better 
+neighborhoods. 
+Allen believes that these issues 
+can be addressed by transitioning 
+publicly owned surface parking 
+lots in the downtown area 
+to 
+become 
+minimal 
+public 
+underground parking, introduce 
+mixed-use developments with 
+integrated affordable housing and 
+encouraging public landowners 
+not to sell but to become long-
+term partners in development. 
+Allen and other stakeholders 
+are expecting a response from 
+the deans in the coming weeks. 
+Housing pressures aren’t only 
+affecting students or Ann Arbor 
+residents. Last November, about 
+4,300 residents in the broader 
+Washtenaw County area applied 
+for 600 spots on the Ann Arbor 
+Housing Commission’s housing 
+choice voucher waitlist, which 
+opened for five days for the first 
+time since 2012. 
+
+The Michigan Daily sat down 
+with E. Royster Harper, vice 
+president for Student Life at The 
+University of Michigan, Friday 
+afternoon to discuss the Sexually 
+transmitted 
+infection 
+testing 
+policy controversy, the recent 
+climate 
+strike, 
+fraternity 
+and 
+sorority life housing complications 
+with the transition to winter 
+recruitment 
+and 
+Harper’s 
+announced retirement from the 
+University.
+The Michigan Daily: After 
+backlash from the University 
+community, 
+University 
+Health 
+Services reversed its policy so STI 
+exams are once again covered by 
+
+tuition through the health service 
+fee. From your perspective, why 
+did the University change the 
+policy?
+E. Royster Harper: I know it’s 
+hard for students to believe, but 
+when students give us feedback, 
+and we hear it, that causes us 
+to reconsider what it is we’ve 
+done, and we’re quick to do that. 
+So here’s our concern: We have 
+two legitimate competing needs, 
+keep costs of attendance down 
+and make sure the students are 
+getting the health care that they 
+need. Part of the decision to keep 
+the cost down was that insurance 
+that most students have, were 
+already paying for it. So the folks 
+that were benefiting the most from 
+the health service fee were the 
+insurance companies because we 
+were paying for stuff they would 
+pay for. But students said, “Look, if 
+
+there’s any chance that my parents 
+are going to know (about STI 
+examinations), then I’m going to 
+be less likely to get the services.” 
+We didn’t want anything to get 
+in the way of students getting the 
+healthcare they need. What wasn’t 
+comforting 
+enough, 
+students 
+didn’t believe it, whatever the 
+rationale was, it was clear to us 
+that some students would choose 
+not to get tested. Our commitment 
+is to make sure that our students 
+are getting good health care. So 
+once that was clear to us, we just 
+said, “Okay, this is not the right 
+decision for us”. So what students 
+did is they helped us understand 
+the impact in a way that we had 
+not understood it before. That’s 
+why we changed our minds.
+TMD: 
+Why 
+did 
+student 
+activism work in this case?
+Harper: I think usually when 
+
+the University makes a decision, 
+there are multiple things that they 
+are trying to get accomplished. In 
+this case, money and making sure 
+the students get good health care, 
+that it didn’t have a chilling impact. 
+Students are seldom protesting 
+about things that don’t matter. But 
+lots of things matter. So what the 
+University is weighing is when we 
+consider everything, where do we 
+need to be? Sometimes what we 
+decide is, we can’t change. This is 
+not one of those, because when we 
+put everything together, it makes 
+sense to change. I do think that 
+sometimes all of us think if I just 
+raised my voice, or I just protest, 
+what I want, will occur. But when 
+you are in a leadership role, you’re 
+always weighing a lot of points of 
+views and a lot of different facts. 
+
+michigandaily.com
+Ann Arbor, Michigan
+Monday, September 30, 2019
+
+ONE HUNDRED AND TWENTY-NINE YEARS OF EDITORIAL FREEDOM
+
+Two professors involved in 
+the intersection of artificial 
+intelligence and mental health 
+shared 
+their 
+work 
+Friday 
+evening at the Ann Arbor 
+District Library in partnership 
+with 
+the 
+University 
+of 
+Michigan’s AI Laboratory. 
+Emily 
+Mower 
+Provost, 
+associate 
+professor 
+of 
+computer science and electrical 
+engineering, 
+and 
+Melvin 
+McInnis, professor of bipolar 
+disorder and depression, are 
+working together to develop 
+computational 
+methods 
+for 
+measuring 
+mood 
+symptom 
+severity in bipolar disorder. 
+McInnis is the director of the 
+Heinz 
+C. 
+Prechter 
+Bipolar 
+Research Program, and Provost 
+is a member. 
+The panelists first discussed 
+why they were involved in 
+the project. Provost, who was 
+always interested in human 
+behavior and improving people’s 
+lives 
+through 
+engineering, 
+said she was excited to work 
+at the intersection of human-
+robot interaction and effective 
+
+computing. 
+“It gives me an opportunity 
+not only to try to create new and 
+really innovative algorithms, 
+but when you put a human-
+centered swing into AI, then 
+you also have the opportunity 
+to really join engineering and 
+
+science,” Provost said. “To me, it 
+seemed like a really interesting 
+opportunity to do something 
+meaningful to do engineering 
+that had an impact on people’s 
+lives. … We specialized and 
+started working in emotion 
+recognition, where the goal 
+
+was to take in speech and try 
+to quantify ambiguity that’s 
+associated with how people 
+express emotions, which was 
+exciting.” 
+
+BUSINESS
+AI Laboratory presents panel on 
+tech use in mental health research
+
+Heinz. C. Prechter Bipolar Reserach Program explains intersection of human-robot interactions
+
+SONIA LEE
+Daily Staff Reporter
+
+About 200 people gathered 
+at the Campus Farm for the 8th 
+Annual Harvest Festival, with 
+live musician performances, farm 
+tours, free food, pumpkin painting 
+and 
+many 
+other 
+sustainable 
+activities. 
+MDining was a sponsor of the 
+Harvest Festival. Concord and 
+empire apples were on the table 
+as well as a concoction of barley 
+with vegetables and many other 
+ingredients from the campus farm. 
+Pumpkin painting was the 
+main activity that attracted many 
+students and Ann Arbor residents. 
+The pumpkins were donated to 
+Harvest Festival by Slow Farms, 
+an organic farm in Ann Arbor that 
+handpicks all of its harvest. 
+
+‘U’ Campus 
+Farm holds 
+8th annual
+fall festival 
+
+CAMPUS LIFE
+
+MDining, UMBees spread 
+environmental awareness 
+at outdoor Harvest event
+
+JASMIN LEE 
+For the Daily
+
+ALEC COHEN/Daily
+Emily Mower Provost, associate prof. of computer science, shares her experience with emotion recognition at an event 
+on artificial intelligence, personalized technology and mental health at the Ann Arbor District Library Friday evening. 
+
+Rutgers run out
+A week after a season-
+altering loss, Michigan 
+bounced back with a 52-0 
+win over the Scarlet Knights.
+
+ » Page 1B
+
+The Ross School of Business 
+hosted 
+the 
+Michigan 
+Sport 
+Business Conference last Friday. 
+Established in 2012 when two 
+Michigan students realized the 
+potential for the sports business 
+market in Ann Arbor, MSBC has 
+become the largest undergraduate-
+run sports business conference in 
+the nation.
+With 800 students, industry 
+professionals, 
+professors 
+and 
+faculty 
+in 
+attendance, 
+the 
+conference was composed of 
+panels, such as “The Business of 
+eSports” and “Managing Your 
+Career in Sports,” as well as 
+networking breaks and individual 
+speeches. 
+
+Largest student-run 
+convention in industry 
+hosts leading experts
+
+NIKKI KIM
+Daily Staff Reporter
+
+Professor aims 
+for student-led 
+program to fix 
+housing crisis 
+
+Faculty member proposes joint 
+effort for development in Ann Arbor
+
+VP Harper discusses recent climate 
+strike, STI testing and retirement
+
+Administrator says ‘It has been such an honor...the gift for 20 years has been to me’
+
+KATHERINA SOURINE
+Daily Staff Reporter
+RUCHITA IYER/Daily
+E. Royster Harper, vice president of Student Life, speaks on student activism and University healthcare at the Fleming Administration Building Friday afternoon. 
+
+GOT A NEWS TIP?
+Call 734-418-4115 or e-mail 
+news@michigandaily.com and let us know.
+
+INDEX
+Vol. CXXIX, No. 1
+©2019 The Michigan Daily
+
+N E WS . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+O PI N I O N . . . . . . . . . . . . . . . . . . . . . 4
+
+CROSSWORD................6
+
+M I C . . . . . . . . . . . . . . . . . . . . . 3
+
+A R T S . . . . . . . . . . . . . . . . . . . 5
+
+S P O R T S . . . . . . . . . . . . . . . . . 1 B
+michigandaily.com
+
+For more stories and coverage, visit
+Follow The Daily 
+on Instagram, 
+@michigandaily
+
+Read more at 
+MichiganDaily.com
+Read more at 
+MichiganDaily.com
+
+Conference 
+showcases 
+sports career 
+opportunities
+
+Read more at 
+MichiganDaily.com
+
+Read more at 
+MichiganDaily.com
+
+RACHEL CUNNINGHAM, 
+CLAIRE HAO & PARNIA 
+MAZHAR
+Daily News Editor & Daily Staff 
+Reporters
+
+See ROYSTER, Page 2A
+
+
+Then you make a decision 
+about which one needs to prevail, 
+and we do the same thing. We’re 
+trying to balance the best interest 
+of students, faculty, staff, and as a 
+public institution, you’re weighing 
+all those things. The points of view 
+are valid, and the job is to weigh 
+them and figure out in the long run, 
+what’s best. What I love about the 
+University is that we do respond 
+when issues are raised.
+TMD: International students 
+began paying an additional $500 
+fee this semester on top of tuition, 
+and some have voiced displeasure 
+surrounding the transparency of 
+why this fee was instituted and 
+what it will be used for. Can you 
+provide some clarity on the issue?
+Harper: The challenge with 
+the international fee is that not all 
+the needs and what the calls will 
+be for those have been worked 
+out. So we are in the process of 
+trying to figure out, given these 
+resources, how do they need to 
+be deployed in a way that benefits 
+international students? And so 
+
+students, if I hear you right, some 
+of them are asking, ‘What are you 
+going to do?’ And the answer is, 
+that’s part of the work we have to 
+do. So some students might say, 
+‘Well, then why are you requiring 
+the fee if you don’t know?’, but 
+what we do know is that there are 
+needs for international students 
+that are not being met, and we 
+want to be able to meet those 
+needs… The services that they 
+need that might be unique to 
+international students, that’s how 
+the fee is going to be used. And we 
+are in the process, then, of deciding 
+what’s the best use, whether it is 
+to help with internships, whether 
+it’s a deeper, stronger orientation 
+program, whether it is we need 
+to do more send-outs where we 
+actually go to the community and 
+prepare students better for the 
+transition, whether or not there 
+are things that the International 
+Center provides that they also 
+will need. So there is an array of 
+services that we want to make sure 
+we have the resources to provide, 
+so students have a fabulous 
+educational experience here. But 
+this is one situation where you’re 
+
+trying to do both. You’re trying to 
+make sure that the students’ needs 
+are met, and we don’t want the cost 
+to be so prohibitive that students 
+can’t come. I think the challenge is 
+for us, the administration, is if we 
+stay open and allow international 
+students to participate in the 
+process of what would make the 
+most difference to strengthen 
+your experience here, then I can’t 
+have the answer to exactly where 
+it is the money’s going to go right 
+now… So it’s much more of a give-
+and-take process that we’re using. 
+So, I’m glad we have the resources 
+to make sure that international 
+students have a really exciting and 
+robust education experience.
+TMD: Last week, students once 
+again participated in a Climate 
+Strike, joining strikers across the 
+world to demand bolder action 
+on climate change. Last year, 10 
+demonstrators were arrested at 
+the Climate Strike, and six of them 
+just recently appeared at pre-trial 
+for trespassing. How important 
+is student activism to the spirit of 
+the University, and what advice do 
+you have for students who want to 
+make their voices heard?
+Harper: 
+I 
+think 
+students 
+protesting — and for me, protest 
+means having a voice, whether 
+you decide to have that voice 
+with the sign or by sitting in — I 
+think that’s critically important 
+that the students think about 
+what’s important to them, think 
+about the kind of University they 
+want to have because this is your 
+University, and then give voice to 
+it. I believe the climate work and 
+the work we need to do around 
+climate is going to change, but 
+it’s going to change because 
+students are talking about and 
+advocating for right now. Here’s 
+where I would pivot. It’s critically 
+important that you have an orderly 
+structure and organization. And 
+if the time and if you choose to 
+speak is in a building that closes 
+at five, say, ‘Okay, I’ll be back in 
+the morning to speak again’. This 
+idea that I can speak my mind 
+anytime, all the time, anywhere in 
+any way, that’s where I think the 
+fault lies. It’s not in the speaking 
+of the voice, but doing it in a way 
+that honors other voices, too. And 
+to be quite frank, if you want me 
+to hear you and you want me to 
+
+think about what you’re saying, 
+then you have to think about how 
+am I doing that, in such a way 
+that what’s so important can be 
+heard. Some people speak for 
+the theater of it, and sometimes 
+students and community members 
+speak because they’re really trying 
+to have another point-of-view 
+heard… So I think the strikes are 
+important and I think the different 
+points of views are important. 
+The major changes I know about 
+have come because somebody had 
+the courage to open their mouth. 
+There was a time when I would 
+have had to sit in the back of the 
+bus… So the issue is not in speaking 
+the voice. The issue is not in the 
+protesting. I think sometimes the 
+tension comes when those who are 
+speaking or want to have a voice 
+don’t think about what the impact 
+of that voice is on others. None of 
+us listen, when we’re being yelled 
+at. Very few of us listen if we are 
+being called names.
+TMD: 
+With 
+Winter 
+Recruitment 
+for 
+fraternities 
+and 
+sororities 
+beginning 
+this 
+year, some students have raised 
+concerns regarding how this could 
+create complications with finding 
+housing. How does the University 
+plan to help students if they find 
+themselves without housing for 
+the following school year due to 
+rushing?
+Harper: This is an issue that 
+comes up for students all the 
+time, this issue of, “Will I be able 
+to find housing?” And so last year, 
+before we put this in place, as part 
+of the reason we started so early, 
+we actually had staff in the office 
+of Fraternity and Sorority Life 
+do some work around housing. 
+So housing is available, it will be 
+available up until school starts.
+ This place is never without 
+adequate housing. So one of the 
+things, we have changed the 
+signup period in the residence halls 
+with this in mind, so we have done 
+that. And, we also last year, we, 
+meaning the Office of Fraternity 
+and Sorority Life, did some surveys 
+to make sure that vacancies and 
+housing is available for students 
+further on into the term. 
+
+2A — Monday, September 30, 2019
+The Michigan Daily — michigandaily.com
+News
+
+TUESDAY:
+By Design
+THURSDAY:
+Twitter Talk
+FRIDAY:
+Behind the Story
+WEDNESDAY:
+This Week in History
+
+MONDAY:
+Looking at the Numbers
+
+Sudoku Syndication
+http://sudokusyndication.com/sudoku/generator/print/
+
+1 of 1
+5/26/09 3:34 PM
+
+4
+5
+
+1
+
+8
+
+9
+1
+3
+
+1
+
+3
+
+2
+4
+
+5
+6
+
+8
+7
+
+1
+6
+
+4
+
+5
+
+8
+1
+
+3
+1
+
+6
+5
+
+8
+
+4
+
+5
+
+8
+
+1
+
+© sudokusolver.com. For personal use only.
+
+Generate and solve Sudoku, Super Sudoku and Godoku puzzles at sudokusyndication.com!
+
+BYE SEPTEMBER!
+puzzle by sudokusyndication.com
+
+TR ANS ITION TE AM
+
+MICHAEL BAGAZINSKI/Daily
+Rich Baird, transition leader and senior advisor to former Governor Rick Snyder, discusses the challenges faced when transitioning between 
+administrations after the election of a new governor.
+
+DESIGN BY TAYLOR SCHOTT
+
+HARPER
+From Page 1A
+
+Read more at 
+MichiganDaily.com
+
+The Michigan Daily (ISSN 0745-967) is published Monday through Friday during 
+the fall and winter terms by students at the University OF Michigan. One copy is 
+available free of charge to all readers. Additional copies may be picked up at the 
+Daily’s office for $2. Subscriptions for September-April are $250 and year long 
+subscriptions are $275. University affiliates are subject to a reduced subscription 
+rate. On-campus subscriptions for fall term are $35. Subscriptions must be prepaid. 
+
+FINNTAN STORER
+Managing Editor 
+ frstorer@michigandaily.com
+
+GRACE KAY and ELIZABETH LAWRENCE 
+Managing News Editors news@michigandaily.com
+
+Senior News Editors: Sayali Amin, Rachel Cunningham, Remy Farkas, Leah 
+Graham, Amara Shaikh 
+Assistant News Editors: Barbara Collins, Julia Fanzeres, Claire Hao, Alex 
+Harring, Angelina Little, Madeline McLaughlin, Ben Rosenfeld, Emma Stein, 
+Zayna Syed, Liat Weinstein
+
+JOEL DANILEWITZ and MAGDALENA MIHAYLOVA
+Editorial Page Editors tothedaily@michigandaily.com
+
+Senior Opinion Editors: Emily Considine, Krystal Hur, Ethan Kessler, Miles 
+Stephenson, Erin White
+
+ARYA NAIDU and VERITY STURM
+Managing Arts Editors 
+ arts@michigandaily.com
+
+ALEXIS RANKIN and ALEC COHEN
+Managing Photo Editors photo@michigandaily.com
+
+ANDREA PÉREZ BALDERRAMA
+Statement Editor statement@michigandaily.com 
+
+Deputy Editors: Matthew Harmon, Shannon Ors
+
+SILAS LEE and EMILY STILLMAN
+Managing Copy Editors copydesk@michigandaily.com
+
+Senior Copy Editors: Dominick Sokotoff, Olivia Sedlacek, Reece Meyhoefer 
+
+CASEY TIN and HASSAAN ALI WATTOO
+Managing Online Editors 
+ webteam@michigandaily.com
+
+Senior Web Developers: Jonathon Liu, Abha Panda, Ryan Siu, David Talbot, 
+Samantha Cohen
+
+ELI SIDER
+Managing Video Editor video@michigandaily.com
+
+Senior Michigan in Color Editors: Lorna Brown, Samuel So, Ana Maria 
+Sanchez-Castillo, Efe Osagie, Danyel Tharakan
+Assistant Michigan in Color Editors: Harnoor Singh, Nada Eldawy, Maya 
+Mokh 
+
+ZELJKO KOSPIC
+Special Projects Manager
+
+ANITA MICHAUD
+Brand Manager
+
+Senior Sports Editors: Anna Marcus, Aria Gerson, Ben Katz, Mark Calcagno, 
+Theo Mackie, Tien Le
+Assistant Sports Editors: Bailey Johnson, Bennett Bramson, Connor Brennan, 
+Jacob Kopnick, Jorge Cazares, Rian Ratnavale 
+
+Senior Video Editors: Ryan O’Connor, Joseph Sim
+
+Senior Social Media Editor: Allie Phillips 
+
+Stanford Lipsey Student Publications Building
+420 Maynard St.
+Ann Arbor, MI 48109-1327
+www.michigandaily.com
+
+ARTS SECTION
+arts@michigandaily.com
+
+SPORTS SECTION
+sports@michigandaily.com
+
+ADVERTISING
+dailydisplay@gmail.com
+
+NEWS TIPS
+news@michigandaily.com
+
+LETTERS TO THE EDITOR
+tothedaily@michigandaily.com
+
+EDITORIAL PAGE
+opinion@michigandaily.com
+
+TOMMY DYE
+Business Manager
+734-418-4115 ext. 1241
+tomedye@michigandaily.com
+
+MAYA GOLDMAN
+Editor in Chief
+734-418-4115 ext. 1251
+mayagold@michigandaily.com
+
+PHOTOGRAPHY SECTION
+photo@michigandaily.com
+
+NEWSROOM
+734-418-4115 opt. 3 
+
+CORRECTIONS
+corrections@michigandaily.com
+
+MAX MARCOVITCH and ETHAN SEARS 
+Managing Sports Editors sportseditors@michigandaily.com
+
+Senior Arts Editors: Clara Scott, Emma Chang, Cassandra Mansuetti, Sam 
+Della Fera, Trina Pal
+Arts Beat Editors: John Decker, Sayan Ghosh, Mike Watkins, Ally Owens, 
+Stephen Satarino, Izzy Hasslund, Margaret Sheridan 
+
+ROSEANNE CHAO and JACK SILBERMAN
+Managing Design Editors 
+design@michigandaily.com
+Senior Design Editor: Sherry Chen 
+
+NA’KIA CHANNEY and CARLY RYAN
+Michigan in Color Editors michiganincolor@michigandaily.com
+
+MADALASA CHAUDHARI and HANNAH MESKIN 
+Managing Social Media Editors
+
+Editorial Staff
+
+Business Staff
+
+RYAN KELLY
+Sales Manager
+
+ROBERT WAGMAN
+Marketing Consulting Manager
+
+Senior Photo Editors: Alexandria Pompei, Natalie Stephens, Alice Liu, Allison 
+Engkvist, Danyel Tharakan
+Assistant Photo Editors: Miles Macklin, Keemya Esmael, Madeline Hinkley, 
+Ryan McLoughlin
+
+MOLLY WU
+Creative Director
+
+CATHERINE NOUHAN
+Managing Podcast Editor
+
+
+The Michigan Daily — michigandaily.com
+Michigan in Color
+Monday, September 30, 2019 — 3A
+
+ILLUSTRATION COURTESY OF THE AUTHOR
+
+ILLUSTRATION COURTESY OF THE AUTHOR
+
+I 
+used 
+this 
+print 
+for 
+a 
+collaboration with a local apparel 
+brand. I was excited when a 
+friend reached out to me asking 
+if he could print the design onto 
+hoodies to sell, especially because 
+it had a message behind it that 
+was important to me. He later 
+
+got back to me, saying his boss 
+was hesitant about the print, that 
+the Arabic was controversial and 
+would exclude many customers, 
+which I honestly found laughable 
+and 
+ironic. 
+The 
+text 
+reads 
+‘assalam ‘alaykum’ which literally 
+means ‘peace be with you’ and 
+is used as a formal greeting. 
+Still, someone found the fact of 
+the Arabic language inherently 
+uncomfortable and controversial. 
+
+I’m really grateful that I’m able 
+to elevate my voice through art 
+but can’t help being disappointed 
+and even shocked that this kind of 
+mentality persists. 
+This design was initially a 
+screenprint, created at the height 
+of the ongoing Syrian Refugee 
+Crisis of 2016. As a Palestinian 
+living in the diaspora, and with 
+close family ties to Syria, I felt 
+compelled to create work that 
+
+speaks to this humanitarian issue.
+The text reads, in Arabic, 
+‘peace be with you,’ a phrase 
+often used when entering a room, 
+before beginning a speech, or as a 
+formal greeting. In other words, 
+welcome.
+Coupled with the symbol of 
+intertwined arms centered on a 
+full circle, this artwork symbolizes 
+peace and acceptance of others 
+despite perceived differences.
+
+I’m a wolf of the streets, I 
+smell your fear.
+A bright sun looms over 
+me, dressed up in some 
+new clothes I had bought 
+for the semester, I walk 
+to class. Right on time, I 
+make my way into Mason 
+and lower the volume on 
+my headphones. The halls 
+are buzzing per usual and 
+I sense an ordinary day in 
+the making. My lecture hall 
+is lively and there are busy, 
+moving students all around 
+me as the professor prepares 
+his notes for the class. The 
+projector 
+luminates 
+the 
+wall in front of the room 
+with the introductory slide 
+to 
+his 
+PowerPoint. 
+What 
+seems to be the last group 
+of students enter through 
+the doors dispersing as they 
+please. Almost all the seats 
+in the lecture hall were filled 
+with different people from 
+different places. I may have 
+been on campus for years but 
+the sight of so many faces 
+will always be overwhelming 
+to me.
+After putting away my 
+phone, I began taking out my 
+notebook, journal, and pens. 
+There’s a growing sense of 
+gratefulness within me as 
+the class begins. My water 
+bottle rolls to the end of my 
+row while I lie my backpack 
+down. It’s not within arm’s 
+reach but there’s nobody who 
+offers a hand. I chuckle—
+there’s nobody around me 
+to chuckle back. My row is 
+empty. I forgot— I should’ve 
+expected it if it was any 
+other day. I wonder, what’s 
+so wrong with me? To not be 
+worthy enough for a single 
+person in this school to 
+willfully want to sit next to 
+me. I sigh, and as expected, 
+a couple of my fellow white 
+classmates turn and look 
+
+In the last several years — 
+for a multitude of different 
+reasons — many prestigious 
+education 
+institutions 
+and 
+organizations 
+have 
+made 
+diversity 
+a 
+higher 
+priority 
+on their to-do list. This isn’t 
+something these institutions 
+should receive too much praise 
+for, considering their role in 
+the lack of diversity in the 
+first place. However, the effort 
+is 
+still 
+respectable. 
+These 
+universities — which have 
+historically been a medium 
+of separation between white 
+people and people of color — 
+are now trying to reverse that 
+reputation and the societal 
+inequities that have resulted 
+from it. It almost gives the 
+impression that a new era of 
+equality is amongst us.
+Though 
+the 
+future 
+for 
+the treatment of racial and 
+ethnic minorities in higher 
+education 
+seems 
+bright, 
+elements of the past still rear 
+their heads. There have been 
+times in which I have walked 
+into environments that were 
+relatively diverse, yet I still 
+saw the same segregation that 
+I was told disintegrated with 
+the Civil Rights Movement. 
+I have been in spaces that 
+have claimed to value the 
+experiences 
+of 
+different 
+types of people and have still 
+encountered people who were 
+not willing to consider ideas 
+that strayed from their own 
+accepted 
+narrative. 
+Even 
+in classes that spend time 
+
+focusing on aspects of the Black 
+experience, my perspective as 
+a Black woman has still been 
+devalued by people who have 
+never walked a day in my skin. 
+Me being able to walk through 
+the door did not guarantee my 
+ability to get through to the 
+people sitting on the other side 
+of them.
+This is where the problem 
+lies. 
+We’ve 
+always 
+seen 
+diversity in terms of numbers 
+— specifically, the percentage 
+of each racial group in the 
+student 
+body. 
+What 
+we’ve 
+failed to realize though, is that 
+numbers say nothing about 
+the experience. One can be 
+in a place that is diverse and 
+still not receives the benefits 
+of being around people with 
+different 
+backgrounds 
+and 
+perspectives. This is, quite 
+frankly, why diversity will 
+never be enough. Another key 
+process must be incorporated 
+— integration. 
+Integration is more than 
+just allowing people of color to 
+occupy white spaces. It is also 
+inviting our cultures and our 
+opinions to have a seat at the 
+table. Integration is a mixture 
+— of what you know and what 
+you don’t. It is supposed to 
+combine — or integrate — what 
+people who look like you have 
+to offer, as well as the offerings 
+of everyone else who doesn’t. 
+Having a healthy ratio of every 
+race and ethnicity doesn’t cut 
+it.
+So 
+far, 
+in 
+this 
+current 
+progression 
+towards 
+equal 
+access, we’ve turned equality 
+into a numbers game. But 
+sometimes, that game tends to 
+play us.
+
+I spend a lot of time on campus 
+wishing that I was anywhere else. 
+Too much of this time ends up being 
+spent on Instagram, where the world 
+on my feed looks pinker, cutesier, 
+and dreamier than how most people 
+would see it. Instead of being an 
+attempt to distort the truth about my 
+life for likes, my Instagram feed has 
+become a creative outlet for my own 
+form of queer worldmaking.
+Social media is an artificial view 
+of reality, in which individuals post 
+only the best of themselves (save for 
+
+the less than flattering and nudes 
+on “finstas” that I might show you 
+later, if we get that close). Instagram 
+is especially centered around sheer 
+aesthetic value. Many of its users, 
+including yeah, myself, care a great 
+deal about their online appearances. 
+When I initially began cultivating 
+a “theme” for my Instagram feed, 
+I sought to pink-wash Michigan 
+via an obviously saturated, highly 
+edited haze of filters. While it 
+brought me slight satisfaction to see 
+the collection of pictures that I had 
+assembled together, I quickly grew 
+bored of both the artificiality and 
+superficiality involved within my 
+process of picking my posts.
+
+Lone 
+Wolf
+
+Diversity isn’t 
+enough
+
+ROBERTO SANCHEZ
+MiC Columnist
+
+KAYLA THOMAS
+MiC Blogger
+
+SEAN TRAN
+MiC Blogger
+
+ELIZABETH HO
+MiC Blogger
+
+Last year, the singular 
+Asian movie in the U.S. 
+was Crazy Rich Asians, a 
+fact agreed upon by public 
+consensus. 
+This 
+year, 
+the choice hasn’t been so 
+easy. Always Be My Maybe 
+(starring Ali Wong and 
+Randall Park) made waves 
+in 
+the 
+Asian 
+American 
+community as one of the 
+first American rom-coms 
+to star Asians. Bold and 
+with 
+appearances 
+from 
+familiar faces like Keanu 
+Reeves, it’s an obvious 
+frontrunner. But the film 
+that I feel best represents 
+my 
+Asian 
+American 
+experience is The Farewell. 
+A small film with a budget 
+of only $3 million, it may 
+not look like much, but it 
+has real feeling and soul.
+Directed 
+by 
+Chinese 
+director Lulu Wang, The 
+Farewell is a sobering story 
+about how a grandmother’s 
+terminal diagnosis leads 
+the entire family to visit 
+her from abroad and, out 
+of love, hide the terrible 
+truth. 
+Perhaps 
+what 
+makes the premise and the 
+ensuing drama so magnetic 
+is the unpretentious reality 
+infused it is infused with. 
+The Farewell takes place 
+
+mostly in the industrial 
+city of Changchun, China. 
+Like many places in China, 
+in Changchun, you’ll want 
+to boil your water before 
+drinking it – something 
+we’re reminded of as soon 
+as the family arrives at the 
+hotel. The hotel rooms are 
+decorated 
+in 
+something 
+not 
+quite 
+as 
+cold 
+and 
+impersonal as an American 
+hotel, but there’s still a 
+faded grandeur. All told, we 
+arrive at an unmistakably 
+Chinese setting, with most 
+of the movie’s dialogue 
+being in Mandarin (with 
+English subtitles for a non-
+native speaking audience).
+And yet we view all of 
+this through a distinctly 
+Chinese 
+American 
+perspective. 
+Billi, 
+the 
+granddaughter 
+and 
+protagonist 
+(played 
+by 
+Awkwafina), occasionally 
+fumbles 
+with 
+her 
+Mandarin in a way that I 
+can relate to. Like Billi, 
+I can scrape by in light 
+conversation, but anything 
+deeper than that can pose 
+some 
+major 
+translation 
+issues. More than simply 
+the language barrier, the 
+cultural barrier is one that 
+proves challenging. When 
+her family decides to not 
+tell the grandmother about 
+her diagnosis, Billi feels 
+
+like the family’s deceit is 
+inherently wrong and that 
+it won’t bring about true 
+closure. However, her more 
+Chinese parents and uncle 
+and aunt make it clear that 
+not saying anything is a 
+blessing: the grandmother 
+will be able to live out her 
+final days peacefully, not 
+fearing death.
+The 
+differences 
+and 
+similarities 
+between 
+Chinese 
+and 
+Chinese 
+Americans 
+are 
+at 
+the 
+heart of the movie. The 
+Farewell 
+demonstrates 
+how Chinese Americans 
+dance that line between 
+Chinese 
+and 
+American, 
+landing them in a no-man’s 
+land. Moreover, the movie 
+answers the hard question 
+of which to choose: You 
+can 
+choose 
+both, 
+and 
+though it can sometimes be 
+alienating, being American 
+and being Chinese aren’t 
+incompatible 
+with 
+each 
+other.
+By talking about death, 
+The Farewell succeeds in 
+being a celebration of life. 
+Its authentic presentation 
+of the lives of average Asian 
+Americans makes it shine 
+brightly as one of the best 
+Asian American movies of 
+2019 and perhaps, as one of 
+the best movies in 2019 in 
+general.
+
+Vulnerable, authentic 
+representation in 
+The Farewell
+
+ZOYA ZALATIMO
+MiC Featured Artist
+
+ILLUSTRATION COURTESY OF THE AUTHOR
+
+at me from top to bottom. 
+They’re 
+disgusted, 
+who 
+allowed me to exhale in 
+such a manor.
+You’re staring… I see the 
+side-eye, and the scared 
+glances but they bounce 
+off me. My rebuttal glares, 
+they pierce you however, in 
+an instant you look away in 
+disbelief. How dare I have 
+done the same thing. Keep 
+
+turning if you must, if your 
+angst continues, then you’ll 
+only notice my attempts to 
+look as repulsed as you do.
+A diverse school and one 
+with tens of thousands of 
+students, yet again, I feel 
+so alone. Every day. Every 
+class. Every bus ride. The 
+only progress being made is 
+in the velocity I can make 
+them shy away from me. 
+
+Finally, mentioning it to my 
+brothers, I realize I’m far 
+from alone in the abyss of 
+solitude. I won’t change the 
+way I dress, how I talk, how 
+I walk, we don’t care about 
+fitting an imposed mold. 
+Our brown skin has been 
+shunned on what seems to 
+be a consensus and we’ve 
+unknowingly 
+been 
+alone 
+— together, this whole time.
+
+
+Opinion
+The Michigan Daily — michigandaily.com
+4A — Monday, September 30, 2019
+
+Zack Blumberg
+Emily Considine
+Emma Chang
+Joel Danilewitz
+Emily Huhman
+
+Krystal Hur
+Ethan Kessler
+Magdalena Mihaylova
+Max Mittleman
+Timothy Spurlin
+
+Miles Stephenson
+Finn Storer
+Nicholas Tomaino
+Joel Weiner
+Erin White 
+
+FINNTAN STORER
+Managing Editor
+
+Stanford Lipsey Student Publications Building
+420 Maynard St. 
+Ann Arbor, MI 48109
+ tothedaily@michigandaily.com
+
+Edited and managed by students at the University of Michigan since 1890.
+
+MAYA GOLDMAN
+Editor in Chief
+MAGDALENA MIHAYLOVA 
+AND JOEL DANILEWITZ
+Editorial Page Editors
+
+Unsigned editorials reflect the official position of The Daily’s Editorial Board. 
+All other signed articles and illustrations represent solely the views of their authors.
+
+EDITORIAL BOARD MEMBERS
+
+SONEIDA RODRIGUEZ | COLUMN
+
+U.S. health care — without a care for the environment
+C
+
+limate 
+change 
+is 
+a 
+chronic disease. Thanks 
+to our lifestyle habits, 
+Earth has developed the airways 
+of a smoker, tumors of trash 
+and bodies of water poisoned 
+by pollution. It’s no secret that 
+our current treatment of the 
+Earth is killing the planet and 
+inadvertently killing ourselves. 
+As our campus saw last Friday 
+during 
+the 
+Global 
+Climate 
+Strike, the youth of today, are 
+not ignorant of this fact nor 
+willing to tolerate it any longer. 
+The question still remains as 
+to whether this spark of action 
+can be fanned into a flaming 
+movement. If the climate strike 
+movement is in need of tinder to 
+fuel its next initiative, then U.S. 
+hospitals should be the next 
+place it fans the flames. 
+As is the case for many 
+industries, health care has an 
+insatiable appetite for fossil fuel 
+energy, which inevitably leads 
+to greenhouse gas emissions. 
+Greenhouse gases are silent and 
+stealthy killers. One American 
+Journal of Public Health article 
+found 
+that 
+such 
+emissions 
+“will negatively affect public 
+health because of an increased 
+prevalence of extreme weather, 
+flooding, vector-borne disease 
+… and malnutrition.” While the 
+deadly effect of greenhouse gas 
+emissions is nothing new, the 
+fact that the U.S. health care 
+system is one of the world’s 
+largest contributors of lethal 
+greenhouse gases is an irony 
+that has been largely ignored 
+by most hospitals. Investigators 
+projected 
+greenhouse 
+gas 
+emissions 
+“associated 
+with 
+health care in the United States 
+would cause 123,000 to 381,000 
+disability-adjusted 
+life-years 
+in 
+future 
+health 
+damages.” 
+Ironically, the hospitals that 
+are entrusted with keeping 
+American communities healthy 
+are a major contributor to one 
+of humanity’s greatest threats. 
+In the words of a Popular 
+Science article, one 2013 study 
+found that between generating 
+energy, using medical supplies 
+and pharmaceuticals “the U.S. 
+healthcare system is responsible 
+for around 10 percent of the 
+total emissions in the United 
+States.” If all U.S. health care 
+facilities in the United States 
+were a country on their own, 
+
+that country would be the 
+seventh-largest 
+contributor 
+to carbon dioxide emissions 
+in the world, according to a 
+HealthLeads Article.
+Unfortunately, 
+the 
+irony 
+of the U.S. health care does 
+not end with pollution. U.S 
+hospitals play a significant role 
+in growing America’s cancerous 
+piles of landfill trash. The 
+Healthcare Plastics Recycling 
+Council found that American 
+health care centers “generate 
+approximately 14,000 tons of 
+waste per day and that up to 25 
+percent of that waste is plastic 
+packaging and products.”
+A collaborative report by 
+the Center of International 
+Environmental 
+Law 
+found 
+that the breakdown of plastics 
+in 
+landfills 
+or 
+through 
+incineration can lead to the 
+release of microplastics that 
+end up in the food we eat or the 
+air we breathe. Pollutants such 
+as phthalates and BPA can be 
+reabsorbed by surrounding soil 
+and water supplies. 
+In 
+response 
+to 
+these 
+environmental atrocities, some 
+would argue the U.S. health 
+care system should invest in 
+alternative energy sources like 
+solar power or wind turbines. 
+However, suggesting such a fix 
+is ignorant of hospitals’ limited 
+budgets and does nothing to 
+reduce plastic landfill waste. 
+Others 
+are 
+confident 
+that 
+incinerating 
+medical 
+waste 
+to 
+power 
+hospitals 
+is 
+the 
+answer. However, incineration 
+is 
+a 
+double-edged 
+sword. 
+Incineration 
+may 
+reduce 
+the 
+volume 
+of 
+waste, 
+but 
+according to the same Center 
+of International Environmental 
+Law report, the toxic chemicals 
+released from incineration are 
+just as problematic to our health 
+as the plastic left in landfills. 
+Instead, the solution lies 
+in rethinking plastic medical 
+supplies. I envision altering 
+plastic medical supplies, one 
+of the most common forms of 
+medical waste that ends up in 
+landfills, to be plant or biomass-
+based. Researchers at Michigan 
+State University have already 
+found success in this venture, 
+according to Michigan Radio. 
+While 
+plant-based 
+medical 
+plastics is not a novel idea, I 
+propose this innovation could 
+
+go a step further by tailoring 
+these plant-based plastics to be 
+converted into energy without 
+the need for incineration. 
+Anaerobic digestion is the 
+process 
+by 
+which 
+energy 
+is 
+generated 
+through 
+the 
+breakdown 
+of 
+plant-based 
+material under intense heat 
+by bacteria. With the help of 
+this 
+technology, 
+municipal 
+plastic waste from health care 
+could power hospitals without 
+releasing greenhouse gasses. 
+Overnight, 
+plastic 
+medical 
+waste could transform from 
+being cancerous to cured. 
+Not only does climate change 
+demand we rethink medical 
+supplies, it also demands we 
+rethink health care recycling. 
+By 
+no 
+means 
+should 
+the 
+responsibility 
+of 
+reducing 
+health care’s environmental 
+impact fall only on hospitals. 
+As future patients or health 
+care 
+professionals, 
+we 
+are 
+also responsible. Therefore, 
+health care recycling should 
+be a grassroots movement. 
+Imagine if even a fraction of 
+the 3,500 tons of plastic that 
+U.S. health care facilities send 
+daily to landfills were properly 
+sanitized 
+and 
+recycled 
+to 
+make new medical supplies. 
+The same plastic waste that 
+could have ended up in a 
+landfill poisoning America’s 
+heartland could instead be 
+promoting heart health as a 
+new stethoscope.
+Environmental 
+health 
+is 
+personal health. Unfortunately, 
+U.S. health care has yet to 
+recognize this truth. We simply 
+do not have time to wait for 
+health care leaders to realize 
+this. Every day, the chronic 
+disease 
+of 
+climate 
+change 
+only grows worse. While I 
+do not want to diminish the 
+importance of taking steps as 
+individuals to reduce, reuse 
+and recycle, I stand with the 
+Climate 
+Strike 
+and 
+know 
+demands for individual efforts 
+are not enough. There is no 
+neutral territory when you are 
+combating a chronic pandemic. 
+Either you are combating the 
+disease, or you are the disease. 
+It is time to diagnose which side 
+you are on.
+
+Soneida Rodriguez can be reached 
+
+at soneida@umich.edu.
+
+KAAVYA RAMACHANDHRAN | CONTACT CARTOONIST AT KAAVYAR@UMICH.EDU
+
+YASMEEN DOHAN | COLUMN
+
+The vices and virtues of the Electoral College
+P
+
+ost-2016 election, discord 
+regarding the relevance 
+of the Electoral College 
+has become as audible as ever. 
+Politicians 
+and 
+constituents 
+alike 
+have 
+called 
+for 
+its 
+abolition, condemning it as 
+an 
+archaic 
+tradition 
+long 
+past its expiration date. As 
+a result, many have been 
+quick to propose a seemingly 
+more sensible popular vote. 
+Instilling 
+just 
+a 
+popular 
+vote, however, gives rise to a 
+multitude of new problems. 
+After 
+careful 
+thought, 
+it 
+becomes evident that replacing 
+the Electoral College with a 
+direct popular vote would not 
+suffice. We should instead 
+seek other means of reform. 
+To 
+understand 
+why 
+implementing a popular vote 
+would be problematic, it is 
+imperative to look back on 
+our nation’s founding. Our 
+country’s 
+forefathers 
+were 
+particularly wary of direct 
+democracy, despite its enticing 
+simplicity. 
+The 
+original 
+architects of the American 
+republic sought to forestall the 
+potential dangers it presented. 
+One potential danger was the 
+“tyranny of the majority” – 
+the concept that, in a pure 
+democracy, a majority can 
+overrule a minority in all 
+instances with no balance 
+of powers. A popular vote 
+was never considered in our 
+nation, as we were founded 
+with the intent of being a 
+representative republic, not a 
+direct democracy. 
+But before delving into the 
+problems 
+associated 
+with 
+abolishing 
+the 
+Electoral 
+College, 
+it 
+is 
+important 
+to mention that the cause 
+for 
+concern 
+is 
+far 
+from 
+unsubstantiated — the current 
+system has proven itself to be 
+far from perfect. Disapproval 
+of the Electoral College often 
+stems 
+from 
+its 
+favoritism 
+toward 
+battleground 
+swing 
+states, 
+with 
+one 
+reporter 
+even naming it a national 
+gerrymander: “Had two state 
+borders been drawn just a 
+little bit differently, shifting 
+a total of four counties from 
+one state to another, Hillary 
+Clinton would have won the 
+election.”
+Additionally, 
+others 
+find 
+
+issue with the fact that there 
+have been five occurrences 
+in U.S. history in which the 
+winner of the presidential 
+election and the winner of 
+the 
+popular 
+vote 
+differed. 
+This 
+inconsistency 
+causes 
+worry that the desires of the 
+people are being tainted by the 
+flaws of our current electoral 
+process. 
+Yet possibly the biggest 
+concern 
+people 
+have 
+with 
+the Electoral College is its 
+distortion of the one-person, 
+one-vote democratic principle. 
+With 
+our 
+current 
+system, 
+a grand majority of states 
+are largely neglected during 
+campaign season. The few 
+battleground states in which 
+neither the Republican nor 
+Democratic parties maintain 
+a 
+stronghold 
+often 
+garner 
+more 
+campaign 
+attention 
+than the rest of the nation 
+combined. In fact, two-thirds 
+
+of campaign events during the 
+2016 presidential election only 
+took place in six states. To 
+the ill-informed citizen, this 
+statistic may be staggering and 
+legitimate enough to support 
+the 
+implementation 
+of 
+a 
+popular vote. However, things 
+aren’t quite this simple. 
+Our Constitution endows 
+the right to elect a president 
+to states through electors, 
+not individual citizens. This 
+practice is fundamental to 
+some of the main tenets our 
+nation 
+was 
+founded 
+upon: 
+checks and balances. Divisions 
+of 
+power 
+are 
+common 
+throughout our governmental 
+framework, and the existence 
+of the Electoral College only 
+further drives in this concept. 
+Meanwhile, a direct popular 
+vote itself is riddled with flaws, 
+despite its appearance as the 
+perfect 
+solution. 
+Minority 
+
+interests may be completely 
+disregarded in rural areas, 
+and the chance of a regionally-
+popular 
+candidate 
+winning 
+the election would certainly 
+be possible. Additionally, any 
+close election with suspicion 
+of a miscount would prompt a 
+recount, a national nightmare. 
+Along with administrative 
+challenges, the chances of 
+realistically 
+transitioning 
+to a direct popular vote are 
+close to none. Supreme Court 
+Justice Ruth Bader Ginsberg 
+said herself that, though she 
+would 
+support 
+eliminating 
+the 
+Electoral 
+College, 
+the 
+process 
+of 
+amending 
+the 
+Constitution 
+is 
+notoriously 
+difficult. 
+Furthermore, 
+convincing representatives of 
+less populous states to support 
+an 
+amendment 
+effectively 
+lessening their impact would 
+be especially challenging. As 
+a result, any discussion for a 
+popular vote appears moot.
+Rather 
+than 
+scrap 
+the 
+Electoral College in pursuit 
+of a popular vote, we should 
+seek other ways to reform 
+it. Currently, 48 states and 
+Washington 
+D.C. 
+have 
+a 
+winner-takes-all process of 
+allocating electors. Nebraska 
+and 
+Maine, 
+however, 
+use 
+a 
+congressional 
+district 
+method, which can allow for 
+a split electoral vote. If more 
+state 
+legislatures 
+reformed 
+their 
+allocation 
+methods, 
+mismatches 
+between 
+the 
+results of the electoral and 
+popular vote would be less 
+drastic. 
+Mob 
+rule 
+has 
+revealed 
+itself catastrophic throughout 
+history, 
+and 
+the 
+Electoral 
+College was wisely created to 
+combat any destruction a fickle 
+crowd might bring. Though the 
+Electoral College is imperfect, 
+the proposition to implement 
+a popular vote is just as 
+problematic. 
+Rather 
+than 
+continue to cry for an abolition 
+rendered nearly impossible by 
+our Constitution, we should 
+seek meaningful reform to 
+our current methodology. If 
+achieved, our republic can 
+make a substantial step toward 
+a truer democracy.
+
+Yasmeen Dohan can be reached at 
+
+yasmeend@umich.edu.
+
+We were founded 
+
+with the intent of 
+
+being a representative 
+
+republic, not a direct 
+
+democracy
+
+SAM FOGEL | COLUMN
+
+Oil moguls shouldn’t get off scot-free
+B
+
+efore I begin this piece, 
+let me just say: Climate 
+change is real and it is 
+caused by humans. I’m not here 
+to convince you otherwise if 
+you’re in denial. All I have to 
+say is that you’re better off 
+not defending people who are 
+complicit with your drowning 
+in 20 years. Oil CEOs need 
+to be held accountable for 
+the 
+damage 
+they’ve 
+done 
+to the environment. Time 
+and time again, we see the 
+responsibility 
+of 
+climate 
+change and the destruction of 
+the environment placed on the 
+individual, which is incredibly 
+disingenuous 
+considering 
+the statistics of the matter. 
+The Carbon Majors Report 
+compiled 
+by 
+the 
+Climate 
+Accountability 
+Institute, 
+a 
+non-profit organization that 
+monitors 
+climate 
+change 
+and the impact humans have 
+on the environment, states 
+that just 100 companies are 
+responsible 
+for 
+almost 
+71 
+percent of carbon emissions. 
+Just 100 companies. China 
+can also take the blame for the 
+abhorrent amounts of carbon 
+dioxide produced per year, 
+with Shenhua Group being 
+the top producer. But when 
+considering carbon emissions 
+per capita, the U.S. is still 
+the leader by a large margin. 
+Banning plastic straws in a 
+single city may help waste 
+for that region, but carbon 
+emissions are global. 
+Now, I’m not saying that 
+reducing your plastic waste 
+isn’t a noble goal. Please 
+continue to monitor your 
+own 
+contributions 
+to 
+the 
+global carbon footprint. What 
+I am saying, however, is that 
+it mostly isn’t your fault. The 
+blame should fall on people 
+like oil executive Bob Dudley, 
+who oversaw BP’s disaster 
+in the Gulf Coast in 2008. 
+It should fall upon people 
+like 
+oil-executiver-turned-
+
+diplomat Rex Tillerson, who 
+gave millions of dollars to bad 
+faith actors in favor of climate 
+deregulation. It should be 
+put upon the moguls who 
+hold billions upon billions 
+of dollars milked from the 
+substances that are fueling the 
+most destructive phenomenon 
+in our planet’s history since 
+the Fifth Extinction.
+On the topic of oil moguls, 
+the late David Koch can be a 
+good example of what these 
+people are usually up to. 
+Institutions 
+like 
+the 
+Cato 
+Institute, the Institute for 
+Energy 
+Research 
+and 
+the 
+Heritage 
+Foundation 
+have 
+all been funded by Koch and 
+his 
+affiliated 
+businesses. 
+The Cato Institute has been 
+noted 
+to 
+oppose 
+climate 
+change reform, with their 
+main page on the topic stating 
+that “there is ample time to 
+develop such technologies,” 
+to which I respond: There 
+is not ample time. I’m sure 
+you’ve heard the ultimatum 
+from 
+the 
+United 
+Nations 
+that we only have 12 years 
+to act. But it’s only in these 
+companies’ 
+best 
+interests 
+to 
+spread 
+misinformation. 
+Companies like Exxon Mobil 
+also participate in donating 
+to bad faith actors, no doubt, 
+whether they be institutes or 
+political candidates.
+The ultra-rich may claim 
+innocence 
+or 
+ignorance, 
+stating “it’s just business” to 
+keep the blood off their hands, 
+but just like it was for Pontius 
+Pilate, the evil deeds are their 
+responsibility. They’re having 
+planet Earth executed, and 
+washing its blood over the 
+masses that don’t have the 
+funds to ship themselves to 
+Mars. They knew for years 
+that 
+climate 
+change 
+was 
+happening, revealed in 330 
+pages 
+of 
+internal 
+memos 
+from companies like Exxon 
+Mobil and Koch Industries. 
+
+In 1968, a document given 
+by 
+the 
+Stanford 
+Research 
+Institute to the American 
+Petroleum Institute, a trade 
+organization which included 
+and 
+still 
+includes 
+Exxon 
+Mobil and Chevron, states 
+that, though they were unsure 
+of 
+the 
+true 
+ramifications, 
+“there seems to be no doubt 
+that the potential damage 
+could be severe,’’ referring to 
+the release of carbon dioxide 
+and other pollutants. I find 
+it completely ridiculous that 
+there is a deliberate avoidance 
+of responsibility and foresight 
+by policy makers. If it were 
+me personally, I would throw 
+them in prison and forcibly 
+seize 
+all 
+of 
+their 
+wealth 
+and put it into research and 
+development of clean energy. 
+But that’s a little too radical, 
+so let’s just stick with heavier 
+taxes.
+Climate change has been 
+a focal point in the 2020 
+election, 
+with 
+multiple 
+candidates pontificating on 
+their own approach to solving 
+the 
+crisis. 
+We’ve 
+recently 
+had a global climate strike. 
+Awareness is increasing. You 
+may be asking yourself why 
+it would matter that these 
+individuals walk free, saying 
+things like, “Who cares?” and, 
+“We should be focusing on 
+the actual issue.” But without 
+accountability 
+for 
+actions, 
+these same kinds of industries 
+will get away with exploiting 
+the planet for profit and make 
+our efforts to solve climate 
+change futile. The mere fact 
+that these corporations would 
+have consequences for their 
+actions would send a message 
+to those who threaten the 
+environment. We care about 
+our planet, and those who 
+irrevocably send it to its death 
+will not be tolerated.
+
+Sam Fogel can be reached at 
+
+samfogel@umich.edu.
+
+
+The Michigan Daily — michigandaily.com
+Arts
+Monday, September 30, 2019 — 5A
+
+Though most of us would have to agree 
+that every quality game day ends in food, 
+I’m not sure most of us recognize that some 
+of the most important culinary triumphs of 
+the day lie in the most unassuming of places: 
+the stadium. Perhaps because making it to 
+the game is such a feat among students who 
+prefer the tailgate to the the actual kick-
+off, we don’t often realize that by making 
+it into the stadium not only are we there to 
+watch football, we’re also there to feast. 
+The stadium’s culinary facilities are run by 
+Sodexo, a food service business that manages 
+University athletics, and they are completely 
+rebranding what it means to order any kind of 
+food at a sporting event.
+Growing up, I remember being taken to 
+Metlife Stadium in New Jersey, enticed by 
+the idea of a hot dog slathered in mustard and 
+salty french fries. Beer scented concrete and 
+sticky aluminum countertops were the staples 
+of the stadiums of my childhood nightmares. 
+If I was lucky and behaved (instead of 
+complaining about my distaste for sports) my 
+mom would let me have a Carvel ice cream 
+cone. Other than that, the food options were 
+fairly limited. Being diagnosed with Celiac 
+disease when I was 17 basically rid me of the 
+ability to eat in sporting stadiums around the 
+country.
+Sodexo, on the other hand, is changing 
+the Big House’s culinary game completely. 
+Sodexo’s job through the University is to 
+coordinate both non-profit, local eateries to 
+set up shop on Ann Arbor autumn Saturday’s 
+around the circumference of the Big House 
+and additionally to run the Big House’s 
+private concessions as well. Last year alone, 
+as a collective the stadium made around 
+$245,000 in profit on food. This year, they 
+have their sights set higher. 
+On my culinary food tour around the 
+stadium, I started at the Greek Eats stand. 
+With options like chicken shawarma and 
+loaded gyros, this stand alone revamps drunk 
+munchies entirely. The chicken shawarma I 
+tasted was loaded with thick garlic sauce that 
+complimented the chicken well. Next to the 
+Greek Eats stand you can find Ann Arbor’s 
+own Bearclaw Coffee — a coffee cart stocked 
+with a menu of seasonal lattes and homemade 
+pastries. Just down from there the “Street 
+Eats” stand specializes in a variety of tacos. 
+Most popular on the menu is the “walking 
+taco,” a taco bowl with layers of salty fritos 
+topped with beans, cheese, salsa and beef. 
+This dish is best accompanied by a fork and 
+an Oberon to wash it all down. The variety 
+of choices does not end there. Between each 
+and every local stand are concession booths 
+which now sell Impossible Burgers and have 
+gluten free and vegan offerings as well. Ray’s 
+
+Red Hots also makes an appearance on the 
+perimeter of the stadium, providing your 
+favorite East University bites during halftime 
+or in between quarters. 
+But my favorite stand has to be the “Tot 
+Spot,” a concession booth that specializes 
+in loaded tater tots. I would recommend the 
+“Tot-chos” or the “Classic Tots,” though 
+all 
+the 
+possible 
+topping 
+combinations 
+compliment the golden brown, crispy tater 
+tots perfectly. Other standouts include the 
+minority female run “Detroit Dough” edible 
+cookie dough carts that line the stadium. 
+Co-founder and CEO Autumn Kyles is a 
+University alum who proudly serves their 
+edible cookie dough to fans every game day. 
+For other sweet tooth options, RJ’s is a loaded 
+milkshake stand and a family-run business. 
+The matriarch of the family, Yvette Wilkie, 
+started making desserts after her son passed 
+away to help combat her depression, and 
+now you can find their ice cream sandwich 
+and donut embellished cookies & cream 
+milkshakes at every game day. 
+The efforts by Sodexo to make the Michigan 
+football experience more than a game should 
+not go unnoticed. Football is a story. You 
+have your protagonists and antagonists, your 
+climax and your narrative line — and you 
+never know if the ending is going to be happy 
+or sad. Both good games and bad games, home 
+team and away team, everyone attending the 
+Big House has one thing in common: We’re all 
+hungry. The eats at the Big House can make 
+any game, regardless of the score, a good one.
+
+Go to the stadium for the
+football, but also the food
+
+ELI RALLO
+Daily Food Columnist
+
+FOOD COLUMN
+FILM REVIEW
+
+Stories about serial killers tend to involve 
+obsession, not only in their examination of 
+startlingly meticulous murderers, but of the people 
+who investigate their crimes. One needs to look no 
+further than the films “Zodiac,” “Se7en” and even 
+the Netflix show “Mindhunter,” to experience the 
+gradual psychological erosion that comes from 
+obsession with the macabre. Of course, all three 
+of these are products of David Fincher, who is 
+arguably the master of this archetype. He makes 
+his characters and his viewers wonder why they 
+are so drawn into the grisliest human behavior 
+and, in doing so, paints this obsession as a dark and 
+poisonous curiosity. 
+A movie that misunderstands the trope of 
+the in-too-deep murder investigator is “In the 
+Shadow of the Moon,” directed by Jim Mickle 
+(“Cold in July”). When Philadelphia policeman 
+Thomas “Locke” Lockhart (Boyd Holbrook, who 
+coincidentally played an investigator in Fincher’s 
+“Gone Girl,”) notices a temporal pattern of unsolved 
+murders, his obsession wears away at his own 
+mental stability and the relationships around him. 
+“Moon” struggles to establish enough sympathy 
+between the audience and Locke. An important 
+aspect of understanding an investigator’s descent 
+into darkness is eagerly following along with them. 
+Instead of a continuous timeline, the film stitches 
+
+together moments from every nine years of his life 
+to depict the various stages of his investigation. As 
+a result, the transition is blunt and dry, replacing 
+character nuance with increasingly mangier facial 
+hair and crazier theories.
+A reason that Locke doesn’t connect with the 
+audience is that the film makes foolhardy, tactless 
+dives into political commentary. Locke’s work 
+central to this misstep — early in the film, he marks 
+himself as part of a corrupt police system, one that 
+operates on racial profiling and a general dismissal 
+of due process. As an audience, grappling with 
+Locke’s morality for the rest of the film is certainly 
+tough, and when the film coerces us to root for him 
+by placing tragedy after tragedy along his journey, 
+it’s hard not to be incensed at the writing.
+The 
+movie’s 
+admission 
+of, 
+and 
+eventual 
+complicity with, the systematic violence of police 
+isn’t its only serious misstep. In future vignettes, 
+it perplexingly criticizes protests against that 
+violence. “Why are they so angry?” Locke’s 
+daughter asks him as she gazes out a window at a 
+march outside. “Some people aren’t happy unless 
+they’re mad. You’ll see what I mean when you 
+get older,” he replies smugly. One might think 
+that Locke is a villain to the story’s anxieties, 
+but “Moon” is simply not that aware. It aches to 
+humanize him without understanding the costs of 
+doing so. 
+“Moon” is truly infuriating because Mickle 
+incorporates eye-catching cinematography and 
+meaningful camerawork into a story that never 
+deserves it. For all its visual flair, the movie is a 
+sour pill to swallow. The performances are also 
+lacking, making me wonder if a halfway decent cast 
+could have at least made the journey worthwhile. 
+Perhaps the more fascinating story of obsession 
+in “Moon” is that of the filmmakers and their 
+curmudgeonly desperation to say something, 
+anything about current politics. This trap is one 
+that many films of the last few years have fallen 
+into, some notably more successful than others. 
+These distractions took away from a legitimately 
+interesting science fiction subplot that gave the 
+story a twist that most detective stories don’t have. 
+In many ways, “Moon” is just another Netflix 
+movie — a compelling idea executed poorly, and a 
+story that can surely be avoided. 
+
+‘Moon’ doesn’t hit potential
+
+ANISH TAMHANEY
+Daily Arts Writer
+
+In the Shadow of 
+the Moon
+
+Netflix
+
+Streaming Now
+
+NETFLIX
+
+The opening track of The Highwomen’s self-
+titled debut album proclaims that they’ll “be back 
+again and again and again and again and again.” 
+This hook, like much of the song’s instrumentation 
+and storytelling, mirrors The Highwaymen’s 
+1985 theme song “Highwayman.” But in 2019, 
+sung by women, these lyrics sound different. 
+Simultaneously a rally cry for women in country 
+music and a warning to the male-dominated 
+industry, Maren Morris, Brandi Carlile, Natalie 
+Hemby and Amanda Shires’s insistence that they 
+aren’t going anywhere, and have been important 
+all along, is refreshing. 
+The Highwomen’s roster doesn’t quite read 
+like the country-music-Mount Rushmore that is 
+The Highwaymen, and that’s the problem. Any 
+four female artists popular in country music 
+today have never been given the opportunity to 
+reach their stature. By staking their own claim to 
+greatness, and delivering an album to back it up, 
+The Highwomen pave the way for more visibility, 
+
+more inclusion, and more women-focused themes 
+in the genre, something the “bro-country” era of 
+the 2010s was overshadowing.
+Answering how Morris’s country pop would 
+mesh with Carlile’s Americana, the group’s 
+first single, “Redesigning Women,” settles The 
+Highwomen into a traditional-leaning, acoustic 
+country sound that persists throughout the 
+album. As all four members sing in unison about 
+being women who do it all: “Making bank, shaking 
+hands, driving 80 / Tryna get home just to feed the 
+baby,” this track is the album’s heartbeat, giving 
+life to the more specific tales of empowerment 
+that follow. 
+“Loose Change” is one of those songs. Simple 
+but catchy, Morris sings about knowing her worth. 
+“Love is not supposed to be played like Monopoly” 
+she cautions. The song plays with the extremes of 
+a penny’s (and a person’s) value in another’s eyes, 
+from being worthless when it’s “loose change” to 
+being priceless when it’s “lucky.” And just like a 
+penny, Morris suggests that a woman should “roll 
+away” when she isn’t being treated nicely.
+“If She Ever Leaves Me” finds Carlile in a bar, 
+staring down a cowboy who’s been keeping an eye 
+on her wife, and letting him know that even if 
+they weren’t together anymore, her wife would 
+never be with him. Queer country songs are 
+possible, everyone! Carlile sounds as gorgeous 
+as always, and it’s exciting to think that in 
+a stereotypically homophobic genre, more 
+explicitly LGBTQ-friendly songs are coming to 
+light.
+If you’re still pissed with someone you’ve 
+given a few too many chances to (and also 
+want to feel like you’re in an old Western film) 
+“Don’t Call Me” will take you there. This song 
+is the kind of funny you find pacing back and 
+forth with your fists clenched. The verses and 
+outro string together suggestions for how the 
+person who said they “outgrew” Carlile and 
+Shires should fix their mess without them. 
+“Call your doctor … your lawyer … if you can 
+afford one” Shires smirks. “Call your spiritual 
+guide or mood enlightener, your tattoo artist.” 
+She could go on.
+But the absolute stand out of the album 
+is “Cocktail and a Song.” Written and sung 
+by Shires alone, she captures a conversation 
+with her dad about his impending passing. 
+
+It’s heartbreaking. “Don’t you let me see you cry, 
+don’t you go grieving / Not before I’m gone” he 
+tells her. But it’s also light-hearted. When Shires 
+requests his “silver belt buckle and maybe (his) 
+black Stetson hat” they both laugh, which makes 
+the song sting even more.
+Women of any country music era aren’t “around 
+and around and around and around and around” 
+like Willie Nelson and Johnny Cash are today, 
+but The Highwomen demonstrate why they 
+
+should be. It’s a shame that four individually strong 
+artists had to come together to bring attention to 
+women’s contributions to country music, because 
+the excellence this supergroup demonstrates is 
+nothing new. Still, one can’t help but feel lucky 
+that they did decide to take a stand and release 
+an album that stands up to their namesake. Now 
+all we can do is look forward to when they “come 
+back again” and keep rooting for them — and other 
+women — in the meantime.
+
+The Highwomen have arrived, and they’re here to stay
+
+KATIE BEEKMAN
+For the Daily
+
+The Highwomen
+
+The Highwomen
+
+Elektra Records
+
+ALBUM REVIEW
+
+ELEKTRA RECORDS
+
+Women of any country music era aren’t “around and 
+around and around and around and around” like 
+Willie Nelson and Johnny Cash are today, but The 
+Highwomen demonstrate why they should be
+
+Between each and 
+every local stand are 
+concession booths 
+which now sell 
+Impossible Burgers 
+and have gluten free 
+and vegan offerings 
+as well
+
+
+By Roland Huget
+©2019 Tribune Content Agency, LLC
+09/30/19
+
+Los Angeles Times Daily Crossword Puzzle
+
+Edited by Rich Norris and Joyce Nichols Lewis
+
+09/30/19
+
+ANSWER TO PREVIOUS PUZZLE:
+
+Release Date: Monday, September 30, 2019
+
+ACROSS
+1 Gull relatives
+6 Spots to fast-
+forward through
+11 Cleopatra’s killer
+14 Sharply inclined
+15 Trip odometer 
+function
+16 Chinese steamed 
+bun
+17 *Realtor’s client
+19 Category
+20 Rural stopover
+21 __ d’Alene, 
+Idaho
+22 “Well, gosh!”
+24 Social reformer 
+Jacob
+26 *Surface for 
+slicing rye, say
+28 Body ink
+30 Eye part that 
+may become 
+detached
+31 Golf’s Slammin’ 
+Sammy
+32 Karma
+35 Vegas’ “one-
+armed bandit”
+36 *Vehicle’s rear 
+warning lamp
+39 Head or tooth 
+pain
+42 Pick out with 
+care
+43 Aficionados
+47 “Ye Olde” 
+retailer
+49 Lose its fizz, as 
+soda
+50 *Feline metaphor 
+for an empty 
+threat
+54 Pâté de __ gras
+55 Goodnight 
+woman of song
+56 “The __ Wears 
+Prada”: 2006 
+film
+58 “__ you 
+awake?”
+59 Vied for office
+60 Certain brain 
+tissue, or what 
+each half of the 
+answers to the 
+starred clues 
+can be
+63 Pre-marital (just 
+barely) promise
+64 Parisian love
+65 Reagan attorney 
+general Ed
+66 After taxes
+67 Easy victories
+68 Medicare Rx 
+section
+
+DOWN
+1 Tops with 
+slogans
+2 Ian Fleming or 
+George Orwell, 
+schoolwise
+3 Get the old gang 
+together
+4 Old Nintendo 
+game console: 
+Abbr.
+5 Job detail, 
+briefly
+6 More accurate
+7 Change of __: 
+trial request
+8 Stars, in Latin
+9 Lousy grade
+10 Flasher at a 
+disco
+11 1797-1801 first 
+lady Adams
+12 City near Naples
+13 Prodded
+18 Stereotypical 
+boxcar hopper
+23 1979 Donna 
+Summer hit
+25 Local govt. 
+prison
+27 Bit of wine 
+sediment
+29 “Ghost” psychic 
+__ Mae Brown
+32 Winter malady
+33 “__ My Children”
+
+34 Shop __ you 
+drop
+37 Rapper/actor 
+whose name 
+sounds like a 
+summer drink
+38 “Westworld” 
+network
+39 Pill for pain
+40 Pantomimed act 
+in a parlor game
+41 “Sure wish that 
+doesn’t happen”
+44 Pool noodle, e.g.
+
+45 “... who is the __ 
+one of all?”: Evil 
+Queen
+46 Manned the helm
+48 Like the Great 
+Depression, 
+timewise
+49 Like the Reaper
+51 Figure of speech
+52 Hop out of bed
+53 Activist Medgar
+57 Tanning device
+61 Medical ins. plan
+62 Scone go-with
+
+6A — Monday, September 30, 2019
+Arts
+The Michigan Daily — michigandaily.com
+
+The School of Music, Theatre & Dance presented the String Showcase 
+at Stamps Auditorium this Wednesday evening. Students were chosen 
+by their faculty to perform in the String Showcase; the performers 
+ranged from first year undergraduate music students to graduate 
+students to musicians who have already received their doctorates. That 
+said, I could not tell any difference in talent levels — I was pleasantly 
+surprised by how exceptional the entire show was. The performance 
+showcased a wide range of music. They chose a satisfying balance of 
+classical and contemporary compositions.
+Although the music was seemingly flawless, the performers struggled 
+to maintain their emotional connection to the music. Sometimes, 
+especially during the first piece, performers would comment on 
+their work with their facial expressions, either smirking or stealing 
+suspicious glances at their fellow performers. It was disappointing to 
+see that their spirit was not fully committed to the music. 
+Exceptions to this critique include the Anthony Green piece and 
+Julius Conus’s Violin Concerto, as both of those pieces contained 
+passion that was missing in the others. In the Julius Conus piece, 
+the intensity given so generously by the violinist Kevin Sung was 
+refreshing. The Anthony Green piece performed by Jonah Lyon and 
+May Tang on violin, Maxwell Moore on viola and Gabrielle Hooper 
+on cello was reminiscent of a classic horror film score, except far more 
+dynamic and exciting. I most enjoyed the percussive and grounded 
+nature of the piece. 
+The finale performed by violist Stuart Carlson and pianist Mi-Eun 
+Kim was especially rewarding because it was to the tune of “Smile” by 
+Charlie Chaplin. The audience hummed along and chuckled to the tune. 
+Ending the show with “Smile” after experiencing all the complexity 
+of the pieces before seemed like a reward for attending. This is not 
+to say that Carlson’s or Kim’s performance was any less nuanced or 
+
+exceptional as the others. The performance of this song was just so 
+inspiring that my inner ballerina wanted to jump up on the stage and 
+dance.
+The impulse to twitch along to the music happened a couple other 
+times during the show when the musicians were especially committed. 
+The audience couldn’t help but to be affected physically when the music 
+was especially compelling. Those were my favorite moments.
+The String Showcase happens monthly, so if you missed this one, 
+there will be another next month. Plus, the event is free. It’s a great way 
+to support artists and learn more about the exceptional work they do 
+on North Campus.
+
+SMTD’s String Showcase brought a
+compelling dynamism for audience
+
+NATALIE KASTNER
+Daily Arts Writer
+
+COMMUNITY CULTURE 
+
+ALBUM REVIEW
+
+The answer is no. This isn’t a porn thing. 
+Granted, it could be said the good vibes and 
+jam-worthy beats of The New Pornographers 
+are their own hearty brand of music “porn.” The 
+band’s new album, In the Morse Code of Brake 
+Lights, is quirky, playful and fun. More than 
+that, the album is a breath of fresh air. Here, 
+The New Pornographers manage to find a way to 
+revitalize old themes, injecting their songs with a 
+refreshing sense of wonder and excitement. 
+“You’ll Need A New Backseat Driver” opens 
+the album with a song of roadtrips and journeys 
+— an ode to the forgotten, scoffed-at backseat 
+driver. Singing “If you’re gonna travel and never 
+arrive there / You’ll need a backseat driver,” the 
+backseat driver, while a nuisance, is an essential 
+part of any adventure. “Falling Down The Stairs 
+Of Your Smile” follows this quirky spirit, joking 
+about how love is messy and unexpected — like 
+falling down the stairs. “Too many soapboxes, 
+not enough violins / Too many shipwrecks, not 
+enough sirens,” this playful spirit extends to 
+embracing the unconventional and original, 
+discarding the boring to take the gamble. 
+Autumn, for indie bands, is the golden season 
+for heavy, introspective songs and soul-searching 
+compositions. There often seems to be an implicit 
+agreement that summertime is for “fun” music, 
+leaving fall with all the subdued ballads and 
+slow tunes. The New Pornographers retaliate 
+against this norm. Whether intentional or not, 
+In the Morse Code of Brake Lights holds on tightly 
+to their trademark high-spirited, merry music-
+
+making. 
+Don’t 
+confuse 
+this 
+light-heartedness 
+with a lack of substance, however. The New 
+Pornographers don’t sacrifice any symbolism and 
+thematic interpretation in order to keep their 
+light edge. “Higher Beams” in particular touches 
+upon the realm of struggle: “Deep in the culture 
+of fear, we all hate living here / But you know 
+when you can’t afford to leave?” Commentary 
+on the current social climate, perhaps, where 
+16-year-old girls must scold a disunited congress 
+and a modern day “Red Scare” in the chilling 
+form of anti-immigration sentiment became the 
+monsters under the bed. 
+“You Won’t Need Those Where You’re Going” 
+is the most notable exception — but not the rule 
+— of the album. Singing with a touch of somber 
+lament, “We’re raw footage, still unedited / It’s 
+awkward, rough and repetitive / But it could win 
+awards when and if it’s shown,” love is messy, and 
+difficult, and painful. In this brief, two-minute 
+interlude, The New Pornographers embrace loss, 
+honest and open in their performance and writing 
+— but rather than bringing the mood of the album 
+down, the track makes the rest of the album’s 
+boisterous spirit more tangible in comparison.
+But music doesn’t have to be sad to be serious. 
+Then again, it might be even more amusing if The 
+New Pornographers were a mopey ballad type 
+of band — their name alone would reach a new 
+level of irony. In the Morse Code of Brake Lights 
+is perfect to combat oncoming winter blues 
+— they bring the sunshine to fall’s crisp, cool 
+weather. For those who like Scandinavian pop 
+and indie bands, like Of Monsters and Men, and 
+off-beat indie bands, like Passion Pit, The New 
+Pornographers are a good addition to any fall 
+playlist.
+
+The New Pornographers
+find sunshine this season
+
+MADELEINE VIRGINIA GANNON
+Daily Arts Writer
+
+In The Morse Code of Brake Lights
+
+The New Pornographers
+
+Concord Records
+
+CONCORD RECORDS
+
+At times, it can feel as though there are as 
+many courtroom dramas as there are courts. 
+Each series goes to trial, making its case for what 
+sets it apart from the hundreds of other legal 
+dramas. “All Rise,” CBS’s newest effort, attempts 
+to establish itself amongst the likes of shows 
+from Shonda Rhimes or Aaron Sorkin. However, 
+its endeavor in imitation misses Rhimes’ knack 
+for storytelling and Sorkin’s wit and character.
+“All Rise” follows new judge Lola Carmichael 
+(Simone Missick, “Luke Cage”), and the various 
+prosecutors, 
+public 
+defenders 
+and 
+court 
+employees that surround her as their lives weave 
+in and out of the injustices of a Los Angeles 
+courthouse. Much of the episode follows the case 
+of public defender Emily Lopez (Jessica Camacho, 
+“The Flash”), which involves a young woman who 
+may be wrongly arrested for burglary. However, 
+when she first arrives to the courtroom, she’s 
+pants-less due to the incompetence of the county 
+jail. After a mildly racist breakdown by a bailiff, 
+who then attempts to shoot the judge, the case 
+comes before Carmichael, who intends to right 
+the wrongs of a fatigued justice system.
+ To the show’s credit, its premise is established 
+swiftly and effectively. Within the first five 
+minutes, the basic themes are introduced. We 
+find out that Los Angeles is riddled with crime, 
+but Carmichael pities most criminals for their 
+environment. There’s also the snappy, wise-
+cracking prosecutor, Mark Callan (Wilson 
+Bethel, “Heart of Dixie”), whom Carmichael has 
+history with as a lawyer and friend. Then, within 
+the course of the thirty seconds it takes to walk 
+through the metal detector and to the elevator, 
+Callan rapidly details all of Carmichael’s likes 
+and dislikes.
+ While the plot may move with equal 
+parts speed and deftness, it fails to connect. 
+Each character on “All Rise” is thoroughly 
+conventional. We have the relaxed, wise judge, 
+the quippy prosecutor, a sensitive public defender 
+and even a charming bailiff trying to rise above 
+his station. The show does deserve credit for its 
+relatively diverse cast, attempting to accurately 
+reflect Los Angeles’ colorful makeup. However, 
+having a diverse cast is not a sufficient substitute 
+for a lacking engaging characters.
+It feels as though the show also neglects to 
+actively engage its characters. For example, Luke 
+(J. Alex Brinson, “Travelers”) the court officer 
+shoots the insane, racist bailiff who shot at the 
+
+judge from the above scene. This might make for 
+a rich study in the toll the unfortunate aspects of 
+law enforcement might have on a person. Instead, 
+it’s used as a way to connect characters and move 
+the plot, before being quickly forgotten. It’s as if 
+the show attempts to efficiently cram plot points 
+into the pilot, while the characters just become 
+scenery, flatly rotating around the narrative.
+While “All Rise” promises a focus on social 
+justice — trying to fix the problems of an unjust 
+court from within — it’s hard to say that it has 
+made good on that promise. The focus of the 
+pilot seemed to be the personal lives of these 
+people, which so far is not very interesting. The 
+moments in which justice is shown to be skewed 
+are few, and they seem to be more dramatic than 
+anything.
+The pilot for “All Rise” is unimpressive, but 
+that doesn’t mean the show is bad — at least 
+not yet. There are roots here for a very smart 
+and provoking show that tackles the delicate 
+and frightening balance of our justice system. 
+What’s more, it has the opportunity to explore 
+and question the position of minorities on either 
+side of the Judge’s bench. Yet, I’m scared the 
+show will err too much to the side of melodrama, 
+neglecting character study for an overstuffed 
+plot. If “All Rise” can pull off being the show it 
+seems to want to be, it’ll be amazing. But for now, 
+it has a long way to go.
+
+‘All Rise’ falls back down
+
+MAXWELL SCHWARZ
+Daily Arts Writer
+
+CBS
+
+TV REVIEW
+
+All Rise
+
+CBS
+
+Sundays @ 9 p.m.
+
+Series Premiere
+
+I could not tell any difference 
+in talent levels — I was 
+pleasantly surprised by how 
+exceptional the entire show 
+was
+
+
+The Michigan Daily | michigandaily.com | September 30, 2019
+
+Michigan destroys Rutgers, Knights fire coach in aftermath
+
+In the fourth quarter, up 38 
+
+points, Michigan went for it on 
+
+fourth down.
+
+The Wolverines’ latest scoring 
+
+drive had been courtesy of third-
+
+string quarterback Joe Milton 
+
+and 
+fourth-string 
+running 
+
+back Hassan Haskins. Facing 
+
+fourth-and-goal at the one-yard 
+
+line with the game all but over, 
+
+Michigan could’ve been forgiven 
+
+for mailing it in and kicking the 
+
+field goal. Instead, Milton ran a 
+
+bootleg, scored a touchdown and 
+
+mocked ripping open his shirt, a 
+
+la Superman.
+
+Last week, in a blowout loss 
+
+to Wisconsin, the 20th-ranked 
+
+Wolverines (3-1 overall, 1-1 Big 
+
+Ten) seemed to lack confidence 
+
+and, more than that, killer 
+
+instinct. While it’s hard to prove 
+
+much against Rutgers (1-3, 0-2), 
+
+likely the worst team in the Big 
+
+Ten, Saturday proved about 
+
+as good a redemption game 
+
+as Michigan could’ve hoped 
+
+for. It played like a team with 
+
+something to prove, running up 
+
+the score in a 52-0 win. It was 
+
+the team’s first shutout since 
+
+2016.
+
+“Definitely helps us a lot as a 
+
+team get that confidence back,” 
+
+said sophomore linebacker Cam 
+
+McGrone. “Because last week 
+
+was a little down but this game 
+
+with this goose egg, it definitely 
+
+lifted our spirits.”
+
+The 
+calls 
+for 
+senior 
+
+quarterback Shea Patterson’s job 
+
+reached a fever pitch after last 
+
+week’s setback, but Michigan 
+
+coach Jim Harbaugh kept the 
+
+faith in his signal-caller, and a 
+
+week after not even completing 
+
+half 
+his 
+passes, 
+Patterson 
+
+completed 17-of-23 passes for 276 
+
+yards, throwing a touchdown 
+
+and running for three more. 
+
+Offensive coordinator Josh 
+
+Gattis spent the game calling 
+
+plays on the sideline instead 
+
+of from the box, wanting to be 
+
+a little more hands-on. And 
+
+though Rutgers hardly offered 
+
+a test, the move seemed to 
+
+help. Patterson seemed more 
+
+comfortable in the pocket, ably 
+
+scrambling and making plays 
+
+with his feet. Michigan trusted 
+
+its receivers to make plays — 
+
+the combination of juniors Nico 
+
+Collins, Donovan Peoples-Jones 
+
+and Tarik Black. That trio, along 
+
+with sophomore Ronnie Bell, 
+
+combined for 14 catches for 
+
+248 yards in what could be the 
+
+beginning of a more involved 
+
+passing game. That was evident 
+
+from the first two drives.
+
+In each of the past three 
+
+games, Michigan fumbled its 
+
+opening drive away. But this 
+
+week, on the fifth play of the 
+
+drive, Patterson found an open 
+
+Nico Collins along the sideline. 
+
+Collins then turned upfield and 
+
+ran for a 48-yard touchdown. 
+
+After forcing a three-and-out, 
+
+the Wolverines got the ball 
+
+back and — after the Scarlet 
+
+Knights extended the drive 
+
+with two defensive penalties — 
+
+Patterson perfectly placed a ball 
+
+to Peoples-Jones just short of 
+
+the end zone. Two plays later, on 
+
+third-and-goal, Patterson took it 
+
+in himself on a bootleg.
+
+“Everybody 
+was 
+hungry,” 
+
+Peoples-Jones said. “Everybody 
+
+wanted to make a play.”
+
+And even when things didn’t 
+
+quite go right, the Wolverines 
+
+fought through it in a way they 
+
+couldn’t last week. When the 
+
+defense struggled in a late-
+
+first quarter drive, sophomore 
+
+defensive end Aidan Hutchinson 
+
+hit Scarlet Knights quarterback 
+
+Artur Sitkowski and stopped 
+
+him short on fourth down from 
+
+the 5-yard line. After Patterson 
+
+threw a red-zone interception 
+
+in the third quarter, the defense 
+
+stopped Rutgers on fourth-and-1 
+
+at its own 41-yard line, then the 
+
+offense marched down the field. 
+
+Bell fought for every extra yard 
+
+after a catch in the third quarter 
+
+and pushed his defenders all the 
+
+way to the 1-yard line, setting up 
+
+a Patterson quarterback sneak 
+
+for Michigan’s fifth touchdown 
+
+of the day.
+
+“There was a lot of trust 
+
+there,” Harbaugh said. “Players 
+
+trusting the coaches, coaches 
+
+trusting the players, and a lot of 
+
+work. It was good to see it pay 
+
+off in a victory that was much 
+
+needed.”
+
+After the debacle in Madison, 
+
+it was just the kind of win the 
+
+Wolverines needed, and even 
+
+with all caveats attached, they 
+
+played with the kind of spark 
+
+that was missing the first three 
+
+weeks. They wore the Scarlet 
+
+Knights down to a pulp and 
+
+maintained 
+their 
+intensity 
+
+throughout.
+
+At least for a day, all the 
+
+questions 
+surrounding 
+
+Michigan quieted to a hush.
+
+ARIA GERSON
+Daily Sports Editor
+
+RUCHITA IYER / DAILY DESIGN BY JACK SILBERMAN
+
+September 30, 2019 | michigandaily.com
+
+ASH KICKING
+
+
+SportsMonday
+
+Brown’s 
+blueprint 
+comes into 
+focus
+
+In year four of Don Brown running 
+Michigan’s 
+defense, 
+there’s 
+little 
+question as to what he wants his unit 
+to be.
+He’s going to play man-to-man. 
+He’s going to blitz. He’s going to tell 
+his team to swarm the ball carrier 
+with abandon. They’re going to do 
+all that, and dare the offense to beat 
+them.
+When Brown coached at UMass, 
+UConn and Boston College, the 
+first pages of his playbook carried a 
+parable about the African plains. He’s 
+relayed the story at Michigan, too. 
+Every gazelle knows it must outrun 
+the fastest lion or be killed. Every 
+lion knows it must outrun the slowest 
+gazelle or it will starve.
+And then, in all caps: “WHEN THE 
+SUN COMES UP, YOU BETTER BE 
+RUNNING!”
+All this is to say that, as words like 
+“identity” have gotten thrown around 
+the Michigan football team this week, 
+Brown has never had any question as 
+to what he wants his team to be. It’s 
+just a matter of whether they can do 
+it.
+On Saturday, without question, 
+they did.
+A week after Wisconsin throttled 
+them in Madison, gaining 359 yards 
+on the ground in one of the most 
+resounding losses of Brown’s tenure, 
+his unit held Rutgers to 46 rushing 
+yards, 152 total yards and zero points. 
+It’s Michigan’s first shutout since 
+2016. 
+You’d be justified to take that with 
+a grain of salt — a 52-0 win against 
+Rutgers is, ultimately, a win against 
+the Power Five’s perpetual bottom-
+feeder. It means little in terms of 
+whether the Wolverines can improve 
+when they play a team like Wisconsin 
+again.
+But, if nothing else, it provided a 
+pretty good reminder of what Brown’s 
+defenses can be at their best.
+“We got back to playing how we 
+play,” said sophomore linebacker 
+Cam McGrone. “How we played 
+last season, the two games before 
+Wisconsin. We just got back to who 
+we were.”
+McGrone is one of the bolts on 
+which Michigan’s defense hinges, 
+a reality that was exacerbated on 
+Saturday with Josh Ross sitting due 
+to injury. A four-star prospect, he sat 
+and watched last year. When he got in 
+during the first three games this year, 
+he did little to stand out. 
+Against Rutgers, he felt like he was 
+in high school again, flying all over 
+the field, hitting the quarterback, 
+viscerally impacting the game. “If 
+he keeps playing like this, he’s gonna 
+be a star,” said Michigan coach Jim 
+Harbaugh.
+For a defense that had played well 
+on paper but had yet to really click, 
+McGrone was one of several puzzle 
+pieces that seemed to fall into place. 
+A defensive line group that the 
+Badgers 
+manhandled 
+dominated 
+the line of scrimmage behind Kwity 
+Paye and a healthy Mike Dwumfour. 
+Michigan notched two sacks, four 
+quarterback hits and six tackles for 
+loss. It felt like more.
+“I felt like our whole D-Line was 
+playing well this week,” Paye said. 
+“We really took it upon us in practice 
+to really dive for the quarterback and 
+make sure we do everything that we 
+can (to get) back there.”
+McGrone 
+played 
+sideline-to-
+sideline and the linebackers played 
+with the energy they sorely lacked 
+in Madison. The secondary shut off 
+whatever options Rutgers quarterback 
+Artur Sitkowski had downfield and 
+freshman safety Daxton Hill, a five-
+star who was pegged to contribute 
+immediately from the moment he 
+committed, made a tangible impact.
+All of this comes with the obvious 
+caveat that it’s what any competent 
+team should do to Rutgers. Call it 
+a result of that, or call it a result of 
+extra motivation stemming from last 
+week. Certainly both explanations 
+have 
+some 
+truth 
+to 
+them, 
+and 
+replicating the performance against 
+Iowa next week is the first real test. 
+But Michigan at least has a blueprint 
+now.
+“I feel like our linebackers played 
+well this week,” Paye said. “I feel like 
+our safeties played well and I feel like 
+our D-Line played well. I feel like we 
+were just hungry to just come out 
+here and play. Our main objective was 
+just to shut them out.”
+Mission accomplished.
+
+“
+
+A-to-Z.”
+That’s how Jim Harbaugh 
+framed the Michigan football 
+team’s problems last Monday. Full-
+scale. Thorough.
+In that context, Saturday was as 
+close to a no-win 
+proposition as a 
+football game can 
+be.
+Had Michigan 
+lost — or even 
+played to a close 
+win — we’d be 
+gathered here 
+to eulogize this 
+football season 
+and discuss the 
+dying pulse of the 
+program writ large. Instead, the Wol-
+verines beat Rutgers, 52-0. The Scarlet 
+Knights turned around and fired their 
+head coach Sunday morning, casting 
+their net for a savior from seemingly-
+interminable irrelevance.
+Which is to say: Beating the worst 
+Power Five program in modern histo-
+ry (using SP+ and common logic) does 
+not nullify last week’s loss at Wiscon-
+sin, nor is anyone pretending it does.
+But that doesn’t mean Saturday’s 
+game was devoid of meaning. There 
+are real things worth carrying for-
+ward. Here are a few.
+The kids are alright
+It’s not just that sophomore Cam 
+McGrone and freshman Daxton Hill 
+showed promise of a bright future 
+Saturday, though both did. It’s that 
+they’re ready to play — right now — for 
+a defense that could really use talent 
+of that ilk.
+McGrone filled in at middle line-
+backer admirably for junior Josh Ross 
+as the latter sat with an injury. He 
+showed signs of the promised speed 
+and physicality that those who fol-
+lowed his recruitment expected.
+“If he keeps playing like this, he’s 
+going to be a star,” Harbaugh said of 
+McGrone.
+Hill is one of those five-star talents 
+who does things that make it plainly 
+clear why he was so highly-coveted. 
+Saturday, there were multiple instanc-
+es in which he identified a target, beat 
+his man to the spot and finished the 
+tackle with authority. The tackle on 
+a punt return stands out, of course, 
+but so did his ability to set the edge on 
+
+runs to the sideline. 
+His performance Saturday was 
+remiscent of Jabrill Peppers early in 
+his career. It’s hard to say whether 
+Hill, akin to Peppers, is ready to play 
+starter-level snaps in big games, but 
+boy does that talent make it worth 
+finding out.
+“(Hill is) growing as a football 
+player very quickly,” Harbaugh said. 
+“He’s just so fast; that speed shows 
+up. It shows up when it shows up. You 
+see it with Dax Hill. You see it with 
+Cam McGrone. You see it with guys 
+like that.”
+Then the key.
+“I think you can probably predict 
+he’ll be getting more and more time.”
+Surely, that’s music to Michigan 
+fans’ ears. It’s time to throw Hill and 
+McGrone into the fire and see if they 
+can hang. If they can, the potential of 
+this defense grows noticeably.
+Gattis is growing
+Put the scoreline aside for a 
+moment. Notching 52 points and over 
+450 yards against any semi-functional 
+team is a good sign for this group, but 
+that’s almost secondary to the bigger 
+point.
+It can be easy to forget Josh Gattis 
+is no more than a month into a major 
+coaching adjustment. Think about 
+where you were the last time you were 
+mere months into such a formative life 
+transition. Everything at this juncture 
+is still experimental. And so, even 
+against defenses that stand no chance, 
+there are realizations to be gleaned as 
+Gattis and his personnel work toward 
+a coherent marriage. 
+Saturday, Gattis had senior quar-
+terback Shea Patterson on the move 
+more frequently. For the first time all 
+season, he found a balance of run and 
+pass, with a near even split until gar-
+bage time featured largely runs.
+And while body language can fre-
+quently mislead, Gattis looked like 
+a coach back in his element on the 
+sideline, conversing with the receiver 
+group during breaks, yelling at the ref-
+erees, high-fiving players after scores. 
+Everyone is quick to judge this 
+offense, and thus far, there’s been little 
+to feel good about. But Gattis talked a 
+lot about trust this week. Trust with 
+his players. Trust in his system. Trust 
+in himself. Trust that all of this will 
+work.
+
+“All week, (Gattis) emphasized 
+believing in his players, and we just 
+have to believe in him,” said junior 
+running back Christian Turner. “I 
+think him being on the sideline just 
+emphasized that even more.”
+Success breeds belief. Belief breeds 
+success.
+Both clearly take time, and if you 
+asked those around the program right 
+now, they’ll say it takes adversity like 
+the kind they’ve faced.
+Moving to the sideline is not the 
+magic elixir to ensuring that bond, nor 
+is bludgeoning a lowly foe. But it’s rea-
+sonable to have some patience as that 
+trust — and hope — builds.
+Shea Patterson is not, and has 
+never been, the problem
+What you thought Shea Patterson 
+would be is not his fault, nor has it 
+ever been. He’s not good enough to 
+overcome offensive line struggles. 
+He’s not good enough to work through 
+schematic confusion. He, himself, 
+cannot overcome the pervasive issues 
+present in this offense early in the 
+season.
+If you thought otherwise, that’s on 
+you, not him.
+He’s the best quarterback on this 
+roster. Saturday, he showed what 
+he can do when he has time and a 
+coherent flow. From his throw to 
+sophomore Donovan Peoples-Jones 
+on the second drive of the game to his 
+three rushing touchdowns, Patterson 
+showed, above all, that he remains 
+capable of being a well above-average 
+quarterback and doing things no other 
+quarterback on this roster can. His 
+lone interception came on a go-route 
+to junior Nico Collins, a throw that 
+required a bit more air, but was far 
+from a fatal error. 
+Shea Patterson is who he is — no 
+more, no less. What he’s not is the root 
+of any problem with this team.
+Those “A-to-Z” problems did not 
+suddenly vanquish simply because 
+Rutgers was next on the schedule. 
+Much of it still lingers. But to dismiss 
+60 minutes of gameplay, no matter the 
+opponent, would be a mistake, par-
+ticularly heading toward a legitimate 
+test against Iowa next weekend.
+
+Marcovitch can be reached 
+
+at maxmarco@umich.edu or on 
+
+Twitter @Max_Marcovitch.
+
+ETHAN SEARS
+Managing Sports Editor
+
+KEEMYA ESMAEL/Daily
+The Michigan football team bounced back from its loss at Wisconsin with a 52-0 over Rutgers on Saturday afternoon at the Big House.
+
+Behind 
+Patterson, 
+‘M’ offense 
+rebounds
+
+It took all of two minutes and eight 
+seconds Saturday afternoon.
+Two minutes and eight seconds for 
+Shea Patterson to find Nico Collins on a 
+48-yard touchdown down the sideline.
+Two minutes and eight seconds for 
+Collins to sprint toward his teammates, 
+shoulder bumping Mike Sainristil and 
+Tarik Black in celebration.
+Two minutes and eight seconds 
+for Michigan to discover its offensive 
+groove after four vexing weeks of 
+trying.
+The natural caveat, of course, is the 
+Wolverines’ opponent. Rutgers ranks 
+118th of 130 FBS teams in ESPN’s 
+adjusted 
+efficiency 
+metric. 
+Even 
+Michigan’s backups had no trouble 
+shredding the Scarlet Knights en route 
+to a 52-0 win.
+But four weeks ago, the same could 
+have been said of Middle Tennessee 
+State, which ranks 122nd in the same 
+metric. That night, the Wolverines left 
+Michigan Stadium with a 40-21 win that 
+prompted more questions than answers. 
+Saturday, they did the opposite.
+“Josh Gattis, all the offense coaches 
+and offensive players, the precision they 
+had, they improved and it showed,” said 
+Michigan coach Jim Harbaugh. “Put 
+together a really good gameplan and 
+the players knew it. … And it’s good to 
+see it paid off in a victory that was much 
+needed.”
+Through three games, the questions 
+swirling over Michigan’s offensive 
+identity were unavoidable. In week 
+two’s overtime win over Army, the 
+Wolverines ran 14 more times than they 
+passed, including an inexplicable run 
+of 13 straight rushing plays at the end 
+of regulation. Last week, en route to a 
+21-point loss at Wisconsin, Michigan 
+gained just 40 yards on the ground, 
+opting for an air game that proved 
+equally ineffective.
+At the center of it all was Patterson. 
+It’s a natural place for a quarterback 
+to sit when his team struggles, but 
+Patterson’s start to the season only 
+added fuel to the fire.
+His completion percentage was down 
+nine points from a year ago. His yards 
+per attempt had dropped from 8.0 to 7.0. 
+On the ground, he had dropped from 21 
+yards per game to three.
+Saturday afternoon, he was back to 
+his old self. The final line — 17-for-23 for 
+276 yards, four total touchdowns and an 
+interception — says it all.
+“Any time after a loss like that, it 
+can go two ways,” Patterson said. “And 
+we worked hard every single day in 
+practice, trusted the game plan. I just 
+really like the way we responded as a 
+team.”
+Patterson’s natural reaction when 
+he’s asked about himself is to deflect. 
+When the questions inevitably came 
+Saturday, he credited the coaches’ 
+gameplan, the offensive line’s pass 
+protection, the receivers for getting 
+open and the defense for advantageous 
+field position. Not once did he mention 
+himself.
+But ask anyone else and you’ll find out 
+what Patterson means to this team.
+“Shea’s one of the best guys I know 
+about handling his mentality,” said 
+sophomore running back Christian 
+Turner. “Media likes to bash him and 
+stuff like that, but Shea’s a baller and we 
+all believe in Shea and Shea believes in 
+us.”
+If you don’t believe him, you could 
+just watch the game.
+All afternoon, Patterson was clicking. 
+Two plays in, he found Ronnie Bell for 
+a 14-yard gain that would have been 
+his second-biggest of the first three 
+quarters against Wisconsin. A minute 
+later came the touchdown to Collins. 
+On the next drive, it only took him two 
+completions to get Michigan inside the 
+Rutgers’ five-yard line, because the 
+second of those was a perfectly thrown 
+deep ball to Donovan Peoples-Jones on 
+the left sideline.
+Three plays later, he strolled into the 
+end zone untouched for his first rushing 
+touchdown of the year.
+“He did really good,” Peoples-Jones 
+said. “Sat back there and made some 
+really good throws. His reads. Every 
+assignment that he did, he did well 
+today.”
+As for the questions about Michigan’s 
+offensive identity? Those came with 
+a notably different twist — is this your 
+identity, not what is your identity?
+“It 
+definitely 
+helps,” 
+Peoples-
+Jones said of the connection between 
+Patterson’s 
+performance 
+and 
+the 
+Wolverines’ identity.
+“… 
+Whenever 
+he 
+plays 
+good, 
+everybody plays good.”
+
+THEO MACKIE
+Daily Sports Editor
+
+Sportsmonday Column
+
+Not a lot mattered on Saturday. Here’s what did:
+
+2B — September 30, 2019
+The Michigan Daily — michigandaily.com
+
+MAX
+
+MARCOVITCH
+
+KEEMYA ESMAEL/Daily
+The Michigan defense held Rutgers scoreless on Saturday behind a stalwart performance from sophomore Cam McGrone (left).
+
+
+The Michigan Daily — michigandaily.com
+SportsMonday
+September 30, 2019 — 3B
+
+Forward depth creates line challenges for Pearson
+
+Filling in the lineup each night 
+will be quite the task for Mel 
+Pearson this season.
+The Michigan coach will be 
+forced to narrow down the 17 
+forwards on the roster to just 
+12 for each game, possibly 13 
+if he chooses to dress an extra 
+forward as opposed to an extra 
+defenseman. And when you look 
+down the list, there are few — if 
+any — players that are easy to 
+leave out.
+Since practice began three 
+weeks ago, Pearson has focused 
+on 
+getting 
+the 
+Wolverines’ 
+five new forwards up to speed 
+on Michigan’s systems on the 
+forecheck and in the defensive 
+zone. But while doing that, 
+he’s put together different line 
+combinations every few days 
+to try to get a sense for which 
+players fit where in the lineup.
+“You’re just trying to see what 
+type of plays they can make 
+offensively and if they can read 
+off each other,” Pearson said 
+Thursday. “You’re just looking 
+for chemistry on the line, and 
+you can see it. You can tell guys 
+come down the ice and there’s 
+just nothing there. No creativity, 
+no passes, just (nothing).”
+Chemistry can be a fickle thing 
+to pinpoint. Sometimes it’s visible 
+right away, as Pearson says, 
+and sometimes it takes time to 
+develop. If there isn’t chemistry 
+right away, it’s hard to know if it 
+will never come or if it’s just going 
+to take more time to develop.
+“It could take a week or two 
+before you start clicking with 
+someone, so the biggest thing 
+is to have that open mindset of 
+just trying to figure out and get 
+rolling with who you’re playing 
+with,” said senior forward Nick 
+Pastujov. “If right from the bat 
+you’re like, ‘Me and this guy don’t 
+mesh,’ every single time you mess 
+up, you’re just gonna be looking at 
+that (as proof).
+“If you look at it in a more 
+positive light like, ‘OK, we 
+
+messed up this rep but why was 
+that?’ and try to get to the root of 
+the problem, you can progress a 
+lot faster.”
+By moving the forwards to 
+different lines in practice, Pearson 
+has the opportunity to see how 
+a wide range of combinations 
+work. It also affords players 
+who only played on one specific 
+line last year a chance to test out 
+other groupings.
+Sophomore 
+forwards Garrett 
+van Wyhe and 
+Nolan 
+Moyle 
+spent the vast 
+majority of last 
+season on a line 
+with 
+junior 
+forward Dakota 
+Raabe, and the 
+trio 
+finished 
+the 
+season 
+as 
+one of Pearson’s 
+favorite lines. But it’s a new year, 
+and Pearson doesn’t want any of 
+them to feel like they can only 
+play together.
+“The thing about that line 
+is you could put them together 
+tomorrow and they’d be great,” 
+Pearson said. “You know you 
+have that. You know you have 
+that in your pocket so to speak, 
+
+where the other guys, if you put 
+them together, you don’t know 
+what you’re going to get. So, we’ll 
+always have that.
+“I don’t know if they’ll be 
+together or not. I don’t want to 
+pigeonhole anyone to think they 
+only can play on that line or they 
+only can play in a certain role.”
+With 
+just 
+under 
+a 
+week 
+until the Wolverines face the 
+University 
+of 
+Windsor 
+in 
+an 
+exhibition 
+matchup, 
+Pearson 
+has 
+time 
+to 
+figure 
+out 
+his 
+line 
+combinations. 
+Adding intrigue 
+to the puzzle of 
+which 
+players 
+go 
+where 
+is 
+freshman 
+forward Johnny 
+Beecher.
+Beecher was selected No. 30 
+overall by the Boston Bruins 
+in this year’s NHL Draft and is 
+known for his size and speed, as 
+well as his ability to shoot the 
+puck. But Beecher is only in his 
+first season of college hockey, so 
+the players Pearson surrounds 
+him with will need to have the 
+
+ability to both keep up with him 
+and show him the ropes of college 
+gameplay.
+“You’d like to play with him an 
+upperclassman or two that can 
+talk to him,” Pearson said. “It 
+doesn’t need to be, and shouldn’t 
+be, always the coach that is 
+coaching the player. That’s when 
+you have a really good team, 
+you’ve got the seniors and juniors 
+who can take a player like Johnny 
+and work with him and coach 
+him on the bench.
+“...I 
+think 
+that’s 
+really 
+important that you find the right 
+guy that he will listen to and 
+someone who can communicate 
+with him, almost like a player-
+coach.”
+Pearson pointed to senior 
+forwards Jake Slaker and Will 
+Lockwood 
+as 
+players 
+who 
+have communicated well with 
+Beecher thus far. It isn’t hard 
+to imagine a situation in which 
+Slaker, Beecher and Lockwood 
+fill out Michigan’s top line.
+The question then becomes 
+which of the other 14 forwards 
+get the nine remaining spots up 
+front for the Wolverines. It’s a 
+good problem to have, but it’s one 
+Pearson will need some time to 
+solve.
+
+‘M’ holds off Purdue
+
+The 
+Michigan 
+women’s 
+soccer team formed a circle and 
+started dancing, jumping and 
+screaming prior to their game 
+against 
+Purdue. 
+Moments 
+later, they were screaming 
+again — this time to celebrate 
+sophomore midfielder Raleigh 
+Loughman’s 
+goal 
+just 
+49 
+seconds into the game. 
+The early goal helped the 
+Wolverines 
+(8-2-0 
+overall, 
+3-0-0 Big Ten) to a 2-1 victory 
+in rainy conditions over the 
+Boilermakers (6-3-1, 2-1-0). 
+Michigan used the energy 
+of this goal to keep the 
+pressure on Purdue, forcing 
+its goaltender, Marisa Bova, 
+to make several 
+saves 
+under 
+duress. 
+“We 
+came 
+out 
+on 
+fire,” 
+said 
+Michigan 
+coach Jennifer 
+Klein. “Scoring 
+a goal in the 
+first 
+minute 
+really set the 
+tone.”
+Junior 
+midfielder Sarah Stratigakis 
+played a large part in this fast 
+start. She relentlessly attacked 
+Purdue’s defense early, coming 
+away with three shots in 
+the first 20 minutes. But the 
+Wolverines could not find a 
+goal to add to their lead. 
+After halftime, Michigan 
+finally broke through on a 
+set piece. Freshman forward 
+Danielle Wolfe made a run up 
+the left-hand side of the field 
+and won a free kick just outside 
+the box. Instead of shooting the 
+free kick, Loughman played 
+a through ball to Stratigakis. 
+This caught the Boilermaker’s 
+defense off guard and allowed 
+Stratigakis to place the ball 
+into the bottom right corner of 
+the goal, just beyond the reach 
+of a diving Bova. 
+
+“That’s definitely something 
+we’ve worked on in training,” 
+Loughman said. “We have a 
+few different set pieces we like 
+to play and that’s one of them.”
+The idea of practice concepts 
+translating to the game was 
+key throughout the night. 
+“I was really happy with 
+them 
+just 
+executing 
+our 
+gameplan,” Klein said. “(They 
+did) the things that we worked 
+on throughout the week.”
+Michigan played well in 
+wide areas and constantly 
+switched the point of attack — 
+both ideas worked on during 
+the week — but its main 
+emphasis was on possession of 
+the ball.
+“Purdue (had) the ability 
+to catch us just with their 
+attacking 
+personalities,” 
+said Klein. “We 
+knew that our 
+best 
+defense 
+was 
+going 
+to 
+be keeping the 
+ball.”
+Throughout 
+the game, this 
+emphasis 
+was 
+evident, as the 
+Wolverines 
+had 68 percent possession, 
+quickly winning the ball back 
+whenever they lost it and 
+rarely letting Purdue out of its 
+half. 
+Klein’s plan to control the 
+Boilermakers’ attack worked, 
+as junior goaltender Hillary 
+Beall only had to make one 
+save. 
+Purdue’s 
+lone 
+goal 
+came off a deflection from 
+a Michigan player with 10 
+minutes left. 
+The 
+Wolverines 
+did 
+not 
+allow the Boilermakers an 
+opportunity to equalize, as 
+they followed the gameplan 
+and kept the ball in Purdue’s 
+half to finish the game.
+As the final whistle blew, 
+Michigan celebrated in the 
+same way it started — singing 
+and dancing in one big group.
+
+Michigan sweeps Ohio State in 
+dramatic fashion at Crisler Center
+
+Queen’s 
+“Don’t 
+Stop 
+Me 
+Now” rattled through Crisler 
+Center, jolting Michigan fans 
+and players to dance as the 
+Michigan 
+volleyball 
+team 
+headed 
+into 
+the 
+third 
+set 
+leading, 2-0. The Wolverines 
+(9-3 overall, 2-0 Big Ten) 
+dominated the first two sets 
+and 
+were 
+met 
+with 
+little 
+resistance from their rival Ohio 
+State (8-6, 1-1). It was all good 
+vibes at Crisler in the volleyball 
+version of ‘The Game.’
+Michigan, in the words of 
+Queen, was having itself a good 
+time. The Wolverines finished 
+off the Buckeyes in three sets to 
+sweep their rival — 25-14, 25-17, 
+25-19. 
+“Matches 
+like 
+this 
+give 
+you a ton of confidence,” said 
+Michigan coach Mark Rosen 
+after the match. “It’s earned. 
+You 
+can’t 
+give 
+somebody 
+confidence, it’s earned, and so I 
+thought tonight we did a great 
+job.”
+The Michigan offense tore 
+
+apart Ohio State’s defense for 
+three sets. Sophomore outside 
+hitter Paige Jones and senior 
+setter MacKenzi Welsh led the 
+Wolverines offensively. Jones 
+dominated the attacking game 
+with 14 kills and a .483 hitting 
+percentage. Welsh added to 
+the 
+offensive 
+performance 
+with 36 assists. Senior outside 
+hitter 
+Sydney 
+Wetterstrom 
+didn’t make a positive impact 
+on the stat sheet. Wetterstrom 
+struggled with six attacking 
+errors 
+and 
+a 
+.167 
+hitting 
+percentage. 
+“She’s struggled a little bit 
+offensively lately,” Rosen said. 
+“She’ll get better. She’ll figure 
+it out. She’s a good offensive 
+player, but the fact that she’s 
+finding other ways to make an 
+impact and really impact us in a 
+positive way.” 
+But her energy and positive 
+attitude kept the team going 
+throughout the match. 
+“I think it’s a great example 
+for other players,” Rosen said. 
+“That’s a senior who kind of gets 
+it. I don’t know if she would’ve 
+done that as a freshman, so it’s 
+
+great for other players to see 
+that’s the way you respond.”
+Michigan was also boosted 
+by self-inflicted wounds from 
+Ohio State, with a surplus of 
+mistakes including 16 errors 
+between serving, attacking and 
+ball handling. The Buckeyes’ 
+errors allowed Michigan to go 
+on substantial runs in every 
+set — most notably a 14-5 
+run to close out the first set. 
+These Michigan runs forced 
+Ohio State to use all of its 
+timeouts in each set, proving 
+the Wolverines’ dominance in 
+this game. In a rivalry game, 
+it counts for more than just 
+a number in the win column, 
+especially in the fashion that 
+Michigan won.
+“Knowing that there’s such 
+an actual rivalry versus just 
+two schools, it’s really cool 
+and 
+it’s 
+super 
+emotional,” 
+Welsh said. “Knowing that this 
+rivalry game means a lot to our 
+program, and not just Michigan 
+as a whole, is super cool to go 
+out and play in these games and 
+fight for everything that our 
+program means.”
+
+Wolverines dispatch Indiana, 5-0
+
+Dominate.
+That’s what the Michigan 
+field hockey team (6-2 overall, 
+1-1 Big Ten) did Friday afternoon 
+in their Big Ten opener against 
+Indiana (4-4, 0-1).
+For some teams, playing on the 
+road for the conference opener 
+would pose a problem, but for the 
+Wolverines it resulted in a 5-0 
+shutout of the Hoosiers.
+After eight saves by Indiana 
+goalkeeper Sachi Ananias in 
+the first 10 minutes, Michigan 
+didn’t lose hope of scoring first. 
+Ten minutes into the game, 
+sophomore midfielder Kathryn 
+Peterson lined up for a corner. 
+Redshirt sophomore midfielder 
+Emma Tamer received it and took 
+a shot up the middle. Another 
+save by Ananias forced the 
+ball back into play when senior 
+midfielder Fay Keijer connected, 
+catching Ananias off gaurd to 
+give the Wolverines their first 
+goal of the night. 
+
+“We 
+were 
+really 
+putting 
+emphasis 
+on 
+getting 
+to 
+rebounds,” 
+Keijer 
+said. 
+“My 
+teammates really set me up by 
+getting those good shots on goal.”
+The concentrated emphasis 
+on small details mattered just 
+seconds after the first goal as 
+the Wolverines took advantage 
+
+of poor passes and forced three 
+Indiana turnovers over the next 
+minute. Eventually the turnovers 
+led to another Michigan corner, 
+this time by Keijer. She inserted 
+the ball to Tamer, who found the 
+back of the net for the Wolverines’ 
+second goal of the night. 
+Michigan’s 
+early 
+offensive 
+
+domination set the tone for the 
+rest of the game as it scored 
+three more goals, one in each 
+remaining quarter. The third 
+came late in the second quarter 
+as Indiana gave up yet another 
+corner. Again, Peterson inserted 
+the ball, this time to senior 
+midfielder Guadalupe Fernandez 
+Lacor, who sent a shot up the 
+middle. Another save by Ananias 
+launched the ball into the air 
+where Keijer connected, and hit 
+it back into the net.
+“When it came high up in the 
+air, I was just looking at the ball,” 
+Keijer said. “(Michigan coach) 
+
+Marcia (Pankratz) always tells us 
+to bunt it.” 
+Keijer’s focus gave her two 
+goals on the night, already tying 
+her mark from last season.
+The fourth goal came from 
+junior midfielder Kayla Reed, 
+with a cross-field pass from 
+freshman 
+midfielder 
+Nina 
+Apoola. 
+With 
+a 
+flick 
+over 
+Ananias’s head, the Wolverines’ 
+were up 4-0.
+Sophomore 
+forward 
+Tina 
+D’Anjollel contributed the fifth 
+goal off another penalty corner. 
+Indiana 
+allowed 
+Michigan 
+ten 
+penalty 
+corners, 
+which 
+the Wolverines used to their 
+advantage, scoring three of the 
+five goals off them.
+While Michigan dominated 
+on 
+the 
+offensive 
+side, 
+the 
+Wolverines’ defense also only 
+allowed the Hoosiers one shot 
+on goal, and it came late in the 
+fourth quarter. 
+After a preseason full of tough 
+opponents, Michigan was ready 
+to prove itself in the Big Ten, and 
+prove themselves the Wolverines 
+did. They dominated on both 
+sides of the field and started their 
+conference season on a high note.
+“It was a really big game for us 
+because it was our first Big Ten 
+game,” Keijer said. “You always 
+want to set the tone. We’re ready 
+to take on the Big Ten and make a 
+good run.”
+
+MATTHEW CHANG
+For The Daily
+
+BAILEY JOHNSON
+Daily Sports Writer
+
+ALEXIS RANKIN/Daily
+Michigan senior forward Nick Pastujov sees positives in working with a variety of line combinations in practice.
+
+You’re just 
+trying to see 
+what ... plays 
+they can make.
+
+ABBIE TELGENHOF
+For The Daily
+
+FILE PHOTO/Daily
+Senior midfielder Fay Keijer scored twice against Indiana as Michigan beat the Hoosiers, 5-0, in its Big Ten opener.
+
+We’re ready to 
+take on the Big 
+Ten and make a 
+good run.
+
+BRANDON TRACHTENBURG
+For The Daily
+
+ALLISON ENGKVIST/Daily
+Sydney Wetterstrom struggled with six attacking errors in Michigan’s win over Ohio State on Sunday.
+
+WOMEN’S SOCCER
+
+Scoring a goal 
+in the first 
+minute just set 
+the tone.
+
+
+4B — September 30, 2019
+The Michigan Daily — michigandaily.com
+SportsMonday
+
+For offensive coordinator Josh Gattis, a necessary step forward
+
+Josh Gattis paced near the 
+30-yard 
+line 
+shortly 
+before 
+kickoff, 
+embracing 
+players 
+scattered about. He walked up 
+to midfield, then back again. 
+Safeties coach Chris Partridge 
+approached 
+and 
+offered 
+an 
+emphatic hug.
+As Gattis walked toward the 
+middle of the offensive huddle, 
+ready to address his beleaguered 
+unit before taking the field 
+against Rutgers, one could only 
+imagine the thoughts going 
+through his head.
+Since the moment he got 
+the job, the spotlight of this 
+Michigan football season has 
+concentrated on him, and on 
+his promise of change. Through 
+three weeks, that promised 
+growth has been noticeably 
+absent. 
+For Saturday’s bout, Gattis 
+decided 
+to 
+change 
+course. 
+Instead of sitting in the press 
+box directing the offense, he 
+decided to run the offense from 
+the sideline. Spearheading a unit 
+in search of an identity, Gattis 
+felt his presence on the field 
+could centralize that quest.
+“I think this group really 
+leans on leadership and they 
+need it,” Gattis said on the 
+pregame radio show. “To be on 
+the field, to be able to provide 
+that leadership, in good and bad 
+times, it’s something I think that 
+I want to encourage out of our 
+guys. … Slept on it all week long, 
+going through my mind, and 
+it’s about what these kids need 
+most. It’s not about what I need, 
+it’s not about anything else. 
+“It’s about what the kids need. 
+And they need it.”
+It’s difficult to say what 
+tangible impact his move had 
+on Michigan’s 52-0 demolition 
+over Rutgers — though it’s hard 
+to imagine anything altering the 
+outcome. But the importance of 
+such a move was not lost on his 
+players.
+“All week, he emphasized 
+
+believing in his players, and we 
+just have to believe in him,” said 
+junior running back Christian 
+Turner. “I think him being on 
+the sideline just emphasized that 
+even more.”
+For Michigan 
+coach 
+Jim 
+Harbaugh, 
+Gattis’ presence 
+on the sideline 
+also 
+clarified 
+some 
+of 
+the 
+intricacies 
+underlying many 
+of the questions 
+about 
+this 
+offense.
+“For Josh to 
+be there as the plays are being 
+formulated, he can react to the 
+kind of subs he wants in the 
+game, who he wants running a 
+
+particular route or play. It flowed 
+much better today,” Harbaugh 
+said. “It could still be better, the 
+operation and mechanics of it. 
+But I thought it took a big leap 
+today.”
+Between 
+plays, he’d hold 
+up a hand signal, 
+frequently 
+a 
+number, 
+which 
+would then be 
+mimicked by two 
+offensive staffers 
+by 
+his 
+side. 
+Staffers 
+would 
+hold 
+up 
+two 
+signs behind him 
+with an image — 
+anything from a military tank 
+to bug spray, pairs of leggings 
+to a Detroit Red Wings logo. 
+From there, Gattis would often 
+
+bark marching orders to certain 
+players, specifically receivers 
+who looked back at him for last-
+second instructions.
+All 
+the 
+while 
+Harbaugh 
+stood nearby, though distant 
+enough. When 
+the 
+offense 
+necessitated 
+a 
+huddle, 
+it 
+was Gattis in 
+the 
+center, 
+Harbaugh 
+standing 
+on 
+the 
+periphery. 
+When confusion 
+arose, 
+it 
+was 
+up to Gattis to 
+signal timeout. 
+The two coaches sometimes 
+conversed between plays, and 
+regularly did so between drives. 
+Sometimes, they’d turn to a 
+
+whiteboard to demonstrate their 
+ideas conceptually.
+But there were no ambiguities. 
+This was Gattis’ show, as it has 
+been since the day he arrived.
+“I thought (communication) 
+was 
+better,” 
+Harbaugh 
+said. 
+“Everything 
+was better face-
+to-face 
+— 
+me 
+communicating 
+with 
+him, 
+him 
+communicating 
+with 
+players, 
+players hearing it 
+from him and not 
+going through the 
+box. It was good. 
+It was a good move. Glad we did 
+it.”
+At times, Gattis’ demeanor — 
+branded as fiery and emotional 
+
+— neared a boiling point. After 
+an illegal motion penalty on 
+freshman receiver Giles Jackson 
+in the first quarter, Gattis 
+furiously marched onto the edge 
+of the field to substitute him off. 
+At the next intermission, the 
+two calmly talked it out. Not a 
+voice through a radio. Person-
+to-person.
+At others, though, he opted 
+for 
+measured 
+conversation. 
+After Patterson’s interception on 
+an under-thrown ball to junior 
+Nico 
+Collins, 
+Gattis 
+hardly 
+appeared frustrated. He brought 
+Patterson over, calmly pointed 
+to the video screen, then made a 
+hand gesture to suggest a tweak.
+“I think coach Gattis is 
+without a doubt kind of the 
+leader of our offense,” Patterson 
+said. “I think we all trust in him. 
+Like I said, we see it every day in 
+practice, so it was just a little bit 
+more personal.”
+Whether 
+his 
+presence 
+on the field had any direct 
+impact on play-calling or game 
+management is only part and 
+parcel 
+to 
+its 
+intention. 
+As 
+Michigan’s new coach tries to 
+forge a connection with his 
+team, and with it something 
+resemblant of an identity, his 
+presence alone offers value. 
+Maybe it was little more than 
+a symbolic gesture, but when 
+building trust, symbols matter.
+“It’s a familiar face on the 
+sideline with us,” Turner said. 
+“Seeing his emotion after plays, 
+whether good or bad, I think 
+that definitely helped.”
+As the score continued to 
+widen and the starting unit took 
+a breather, Gattis’ demeanor 
+grew more relaxed. It was just 
+a win, and one against a team 
+destined for Big Ten bottom-
+dwelling, but the sense of relief 
+was palpable.
+Slowly, time ticked away, and 
+the loss at Wisconsin continued 
+to fade from memory. The clock 
+finally hit zero. Gattis unfolded 
+his arms, embraced his team 
+and, for the first time all year, 
+took a confident stride forward.
+
+MAX MARCOVITCH
+Managing Sports Editor
+
+RUCHITA IYER/Daily
+Michigan offensive coordinator Josh Gattis called plays from the sideline on Saturday, a marked shift from the first three games of the season when he was in the booth.
+
+All week, he 
+emphasized 
+believing in his 
+players.
+
+Everything was 
+better face-to-
+face. ... Glad we 
+did it.
+
+Against Scarlet Knights, Wolverines get contributions from new faces 
+
+Let’s cut right to the chase. On 
+Saturday, the Michigan football 
+team beat Rutgers, 52-0. It was 
+such a bad performance for the 
+Scarlet Knights that they fired their 
+coach the next day.
+So, for the Wolverines, that 
+meant that most of the regular 
+starters were out of the game by 
+the third quarter and others had a 
+chance to shine.
+There were a lot of contributors 
+you might not be familiar with, 
+younger players who suddenly 
+showed up and made an impact. 
+The Daily introduces you to some 
+of those players, what they did and 
+what it could mean for the future:
+Sophomore linebacker Cam 
+McGrone
+McGrone got the start at middle 
+linebacker in place of Josh Ross, 
+who was out with an injury. He 
+made several eye-popping plays and 
+was all over Rutgers quarterback 
+
+Artur Sitkowski in blitz packages. 
+Though he was credited with just 
+one tackle and one quarterback 
+hurry, it was clear that McGrone’s 
+speed could be a difference-maker.
+“If he keeps playing like this, 
+he’s gonna be a star,” Michigan 
+coach Jim Harbaugh said after the 
+game. “The way he runs, again, he 
+played really well last week, but 
+his physicality is just really, every 
+week, going higher and higher.”
+McGrone has also proved to 
+be a larger-than-life presence off 
+the field, making the kinds of bold 
+press conference proclamations 
+that players like Chase Winovich 
+used to have.
+Most notably, McGrone offered 
+up a prediction that Michigan 
+would rebound from its early 
+struggles.
+“We know we’re gonna see 
+(Wisconsin) again in Indy, my 
+hometown, 
+for 
+the 
+Big 
+Ten 
+Championship,” McGrone said. “ 
+… I know when we see them again, 
+we’re gonna smack them in the 
+
+mouth.”
+Though 
+he 
+drew 
+some 
+comparisons to Devin Bush with 
+his 
+sideline-to-sideline 
+speed, 
+McGrone isn’t going to be that 
+guy right away. He’s still raw, 
+and he showed that in the loss to 
+Wisconsin, where he struggled as 
+Ross’ replacement. But if McGrone 
+adds a little more polish, the 
+Wolverines might have another 
+great linebacker on their hands.
+Freshman safety Dax Hill
+Early in the second quarter, 
+Michigan stalled on an offensive 
+drive for the first time all game. 
+Will Hart’s punt wasn’t great — it 
+traveled just 41 yards — but just 
+as the Scarlet Knights’ returner 
+caught the ball, Hill flew in his 
+face, leveling him and preventing a 
+return. As Hill walked off the field, 
+he wagged his fingers, a warning to 
+future kick returners everywhere.
+“The punt coverage was such a 
+big thing from last week to this. Last 
+week he was a gunner and pretty 
+much in that same similar position 
+
+and was hesitant,” Harbaugh said. 
+“And all you really had to do was 
+just coach him on it and that’s what 
+he did and no hesitation today, you 
+saw him make one of those big-
+time plays as a gunner.”
+Hill — a five-star recruit — was 
+expected to contribute right away, 
+but he’s been largely absent in the 
+first few games. Saturday, then, 
+was somewhat of Hill’s coming-
+out party. In addition to his 
+contribution on special teams, Hill 
+saw time at safety in the second 
+half, finishing with four total 
+tackles and 0.5 tackles for loss.
+He, too, is a player who could 
+make a difference on defense with 
+his speed, and the coaching staff 
+already seems to have seen enough 
+to give him more of a look.
+“He just keeps coming, keeps 
+coming along and he’s growing as 
+a football player very quickly and 
+he’s so fast and that speed shows 
+up,” Harbaugh said. “It shows up 
+when it shows up and you see it, 
+you see it with Dax Hill, you see it 
+with Cam McGrone, you see the 
+guys like that, so he’s come along. 
+… I probably predict he’ll be getting 
+more and more time.”
+Redshirt 
+freshman 
+quarterback Joe Milton
+In Madison, the Wolverines’ 
+normal 
+backup 
+quarterback, 
+redshirt 
+sophomore 
+Dylan 
+McCaffrey, took a big hit and went 
+down with a concussion. With that, 
+Milton, usually the third-string, 
+slotted into the backup role.
+
+Though Milton has a cannon 
+for an arm, he has struggled with 
+accuracy in the past and is seen as 
+turnover prone. But on Saturday, 
+he came in during the third quarter 
+with the game long over and 
+provided about as good an audition 
+as he could hope for against the 
+hapless Scarlet Knights.
+“He’s a leader,” said sophomore 
+running back Christian Turner. 
+“He doesn’t have the starting 
+job right now, he knows that, but 
+he doesn’t go out there and be 
+lackadaisical or not being fully 
+there. He knows what he’s doing. 
+He’s just a good guy to have out 
+there.”
+The offense kept humming with 
+Milton in the shotgun. He ran a 
+bootleg for a touchdown early in 
+the fourth quarter and later threw 
+for another.
+Milton won’t see the field 
+much this year with two more 
+experienced signal-callers in front 
+of him, but he’s popular among his 
+teammates and if he plays well in 
+limited time, he could carve out a 
+bigger role next year.
+“I’ve been waiting for him to get 
+his chance,” McGrone said. “Seeing 
+him in the end zone, it warmed my 
+heart a little bit, man. I’m pulling 
+for that guy, man.”
+Other skill-position players
+Sophomore 
+running 
+back 
+Hassan 
+Haskins 
+spent 
+2018 
+confined to special teams. He 
+appeared at running back against 
+Middle Tennessee and Wisconsin, 
+
+but had just three combined 
+attempts for negative-three yards.
+On Saturday, Haskins got an 
+extended look with the score out of 
+hand and two of the Wolverines’ top 
+three backs coming off of injuries. 
+He was Michigan’s second-leading 
+rusher on the day, gaining 45 yards 
+on nine attempts, and had a game-
+high 15-yard rush.
+Haskins 
+is 
+blocked 
+from 
+extended playing time by Turner, 
+senior Tru Wilson and freshman 
+Zach Charbonnet, but Haskins 
+seems to have secured himself 
+as the No. 4 option and a capable 
+replacement 
+if 
+Wilson 
+and 
+Charbonnet continue to struggle 
+with injuries.
+Freshman wide receiver Giles 
+Jackson flashed some stuff with a 
+23-yard touchdown from Milton 
+in the fourth quarter. Though 
+he is even more blocked than 
+Haskins, with four older, mega-
+talented receivers in front of 
+him, Jackson has been given the 
+chance to showcase his speed as 
+Michigan’s primary kick returner 
+— he returned one kick for 13 yards 
+Saturday — and has stood out from 
+the pack a little more than any of 
+the Wolverines’ other freshman 
+receivers.
+“It’s the freshmen out there 
+now and we’ll see what they can 
+do,” Harbaugh said. “And they got 
+valuable reps and they played well, 
+they’ve been getting a lot of work. ... 
+Good to see them execute the plays 
+that were called.”
+
+RUCHITA IYER/Daily
+Sophomore linebacker Cam McGrone showed out in place of the injured Josh Ross in Saturday’s win over Rutgers.
+
+ARIA GERSON
+Daily Sports Editor
+
+

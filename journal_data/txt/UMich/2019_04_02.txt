@@ -1,0 +1,5401 @@
+On 
+Monday 
+afternoon, 
+students and professors from 
+the University of Michigan Data 
+Science for Music Challenge 
+Initiative 
+conducted 
+live 
+research 
+in 
+Hill 
+Auditorium 
+during a musical performance 
+and informational presentation 
+before nearly 200 community 
+members. James Kibbie, chair 
+of the School of Music, Theatre 
+& Dance Organ Department, 
+and Daniel Forger, professor of 
+mathematics, received a grant 
+from the Michigan Institute for 
+Data Science to collaborate on 
+the analysis of organ playing by 
+those with varying levels of music 
+education.
+“(Forger) and I have a big 
+grant from MIDAS to study the 
+big data science applications 
+to specifically the Bach Trio 
+Sonatas,” Kibbie said. “And we 
+
+are looking at a number of things, 
+but especially how data can 
+reveal issues of performance and, 
+as Danny (Forger) says, ‘What 
+makes one sublime and another 
+ordinary.’”
+Kibbie said they chose to 
+analyze the organ because it may 
+be easily analyzed given only one 
+note is played in each of the three 
+keyboards at a time.
+“The right hand is controlling 
+one melody line, the left hand 
+another and the pedal a third,” 
+Kibbie said. “They are totally 
+independent, but every detail 
+matters so there’s no room for 
+faking.”
+Music, 
+Theatre 
+& 
+Dance 
+graduate student Sarah Simko, 
+research assistant on the project, 
+told the crowd about the rich 
+history of the Frieze Memorial 
+Organ housed in Hill Auditorium, 
+which was used for the event’s 
+performances. Dating back to 
+1894, parts of the organ are older 
+
+than Hill Auditorium and were 
+moved there upon the building’s 
+construction.
+“I always say that the organ is 
+part history, part engineering and 
+part actually being able to pick up 
+your fingers and put them back 
+down,” Simko said.
+As it exists now, there are 
+7,599 pipes hidden behind the 
+walls of Hill, which produce the 
+music when someone plays the 
+keyboards electronically attached 
+to them. Simko said it is this 
+capacity of the Frieze Memorial 
+Organ that makes it an optimal 
+instrument for their research.
+“Professor Forger is the first 
+person who figured out you can 
+take 
+this 
+mechanism 
+which 
+already exists and actually use it 
+for analytical purposes,” Simko 
+said.
+In addition to finding an 
+optimal instrument, Kibbie and 
+Forger also had to determine a 
+good piece of music to analyze. 
+
+Kibbie explained to the audience 
+how they decided on Bach’s 
+sonatas 
+because 
+they 
+were 
+originally used as a teaching tool 
+for Bach’s eldest son and have 
+continued to be used in music 
+education programs for centuries 
+since. Until Bach, trio sonatas 
+were often written for three 
+distinct instruments played by 
+three individual musicians.
+“Johann Sebastian Bach was 
+the first composer to realize how 
+beautifully this texture adapts to 
+being played by one person on the 
+organ,” Kibbie said.
+Forger 
+cited 
+Bach 
+as 
+a 
+fundamental 
+baseline 
+for 
+an emerging study into the 
+“grammar” of music. There are 
+thousands of chord progressions 
+possible on the organ of which 
+Bach only uses about 11 percent, 
+Forger’s research suggests. 
+
+michigandaily.com
+Ann Arbor, Michigan
+Tuesday, April 2, 2019
+
+ONE HUNDRED AND TWENTY-EIGHT YEARS OF EDITORIAL FREEDOM
+
+GOT A NEWS TIP?
+Call 734-418-4115 or e-mail 
+news@michigandaily.com and let us know.
+
+INDEX
+Vol. CXXVIII, No. 97
+©2019 The Michigan Daily
+
+N E WS . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+O PI N I O N . . . . . . . . . . . . . . . . . . . . . 4
+
+CL A SSIFIEDS . . . . . . . . . . . . . . . .6
+
+S U D O K U . . . . . . . . . . . . . . . . . . . . . 2
+
+A R T S . . . . . . . . . . . . . . . . . . . 5
+
+S P O R T S . . . . . . . . . . . . . . . . . 7
+michigandaily.com
+
+For more stories and coverage, visit
+Follow The Daily 
+on Instagram: 
+@michigandaily
+
+See MSA, Page 3
+
+On Monday evening, about 
+75 students attended Muslim 
+Creatives Collect hosted by the 
+University of Michigan’s Muslim 
+Students’ Association at the 
+Kerrytown Concert House. The 
+program marked the beginning 
+of 
+the 
+Islamic 
+Engagement 
+Week, which is a week-long 
+
+initiative aimed at highlighting 
+the 
+narratives, 
+history 
+and 
+culture of Muslims. About 75 
+students and other members of 
+the Ann Arbor community were 
+at the event.
+The 
+event 
+consisted 
+of 
+performances involving music, 
+poetry and dance as well as a 
+panel discussing the current and 
+future status of Muslim creatives 
+in the country.
+
+Along 
+with 
+the 
+Muslims 
+Creatives Collect event, the 
+Islamic 
+Engagement 
+Week 
+will also include a Muslims 
+in Astronomy event Tuesday 
+night, a Meet a Muslim event on 
+Wednesday and a Muslims in the 
+Arts event Friday afternoon.
+Rackham student Bedar Noor 
+participated as part of a step 
+performance during the event. 
+He spoke about his appreciation 
+
+for step and the way in which 
+it has allowed him to express 
+himself.
+“Step is a great way to show 
+that you can join an organization 
+that 
+is 
+rooted 
+in 
+different 
+cultures and histories and I 
+wanted to show to everyone that 
+there is a different medium to 
+express yourself,” Noor said.
+
+On 
+Monday 
+evening, 
+South 
+African 
+activists 
+and 
+educators Klaas Mokgomole and 
+Mmamalema Molepo spoke to a 
+group of more than 30 students in 
+the Ross School of Business about 
+the ongoing Israeli-Palestinian 
+conflict and its relation to the 
+apartheid government in South 
+Africa. The event was co-hosted 
+by 
+Africans 
+for 
+Peace, 
+an 
+organization that writes about 
+global affairs from an African 
+perspective, in addition to Hillel, 
+Chabad and Stand With Us, a pro-
+Israel student organization.
+The 
+discussion, 
+which 
+attracted a predominantly white 
+and Jewish audience, focused 
+on Mokgomole and Molepo’s 
+experiences 
+visiting 
+Israel 
+after becoming involved with 
+the Boycott, Divestment and 
+Sanctions movement as university 
+students in South Africa.
+
+City Council 
+focuses on 
+A2 housing 
+affordability 
+
+Student organizations like College Democrats, 
+Climate Action movement attend meeting 
+
+The Michigan Daily recently 
+sat down with E. Royster Harper, 
+vice president for student life at 
+the University of Michigan, to 
+discuss the aftermath of the false 
+shooter incident, the newly elected 
+president and vice president of 
+Central Student Government, the 
+recent college admissions scandal 
+and more.
+The Michigan Daily: After the 
+false alarm of the active shooter 
+incident, many students have 
+cited their confusion and worries 
+about the University’s ability to 
+communicate during emergency 
+situations in a timely manner. What 
+is your advice for students and how 
+do you respond to these concerns?
+Harper: First, get off of the 
+police scanner. Listening to the 
+police scanner and thinking that 
+everything that goes across the 
+scanner is correct will only make 
+it worse. 
+
+VP Harper 
+speaks on 
+admissions, 
+CSG results
+
+CAMPUS LIFE
+
+Discussions also touch
+on sexual misconduct, 
+false shooter incident 
+
+MSA hosts night of performances to 
+kick off Islamic Engagement week 
+
+Coffee shop-style event included dance, music, poetry by Muslim creatives 
+
+Advocates 
+talk Israeli-
+Palestinian 
+controversy
+
+CAMPUS LIFE
+
+At Monday’s session of the 
+Ann Arbor City Council, several 
+student organizations, including 
+the University of Michigan’s 
+chapter of College Democrats, the 
+Climate Action Movement and 
+Roosevelt Institute, as well Ann 
+Arbor residents, spoke to urge 
+city councilmembers to support 
+a resolution to direct funds to 
+address 
+affordable 
+housing, 
+climate action and pedestrian 
+safety. 
+The county levied a new tax that 
+started in December to provide for 
+county mental health and county 
+sheriff’s services. However, a 
+quarter of the proceeds have been 
+returned to several cities that fund 
+their own police departments to be 
+used at their discretion. Ann Arbor 
+is set to receive $2.2 million from 
+the partial rebate. This resolution 
+would direct the returns from the 
+countywide millage to address 
+affordable housing, climate action 
+and pedestrian safety. 
+The resolution was sponsored 
+by Mayor Chris Taylor and 
+Councilmember Kathy Griswold, 
+D-Ward 2, and passed 6-4, with 
+Councilmembers Jane Lumm, 
+I-Ward 2, Jack Eaton, D-Ward 
+4, Ali Ramlawi, D-Ward 5, and 
+Jeff Hayner, D-Ward 1, voting no. 
+The resolution mirrors Taylor’s 
+40-40-20 policy, a plan that 
+pledged 40 percent of funds for 
+
+affordable housing, 40 percent for 
+climate action and 20 percent for 
+pedestrian safety. 
+At the beginning of the meeting, 
+the Student Advisory Council 
+presented their annual report, 
+which made recommendations 
+regarding several issues impacting 
+the student community. 
+SAC advises local government 
+and 
+institutions 
+on 
+issues 
+impacting all students of Ann 
+Arbor. The SAC was formed in 2017 
+and consists of two undergraduate 
+students appointed by the Central 
+Student 
+Government, 
+two 
+graduate students, two students 
+from local high schools and a city 
+councilmember liaison.
+Though their report did not 
+specifically address the millage 
+allocation 
+resolution, 
+they 
+touched on many similar themes. 
+SAC 
+Chair 
+and 
+Engineering 
+junior Kenji Yeoh said the group 
+focused on two key issues: campus 
+safety and housing affordability. 
+SAC urged councilmembers to 
+continue to allocate funds for 
+affordable housing and to create 
+more affordable housing units.
+“The 
+student 
+population 
+continues to grow, putting a 
+strain on the housing system in 
+Ann Arbor,” Yeoh said. “There 
+has not been enough progress 
+on creating more affordable 
+housing units.”
+
+See CITY , Page 3
+
+See HARPER, Page 3
+CLAIRE MEINGAST/Daily
+LSA sophomore Fareah Fysudeen performs a poem at the Muslim Creatives Collect at the Kerrytown Concert House Monday evening. 
+
+University researchers examine how 
+data science can interpret music 
+
+James Kibbie, Daniel Forger study organ playing by those with varying melodic skillsets 
+
+RACHEL LEUNG
+Daily Staff Reporter
+
+South African activists 
+critique BDS movement in 
+conversation about apartheid
+
+Music, Theatre & Dance junior Joseph Mutone performs a Bach Trio Sonata at the Understanding How the Brain Processes Music Presentation in Hill Auditorium Monday. 
+
+See SMTD, Page 3
+
+LIAT WEINSTEIN
+Daily Staff Reporter 
+
+SARAH KUNKEL/Daily
+
+MELANIE TAYLOR
+Daily Staff Reporter
+
+MICHAEL ZHANG
+Daily Staff Reporter
+
+RACHEL CUNNINGHAM,
+MADELINE MCLAUGHLIN & 
+CALLIE TEITELBAUM 
+Daily News Editor & 
+Daily Staff Reporters 
+
+See CONTROVERSY, Page 3
+
+
+SOUTHE RN AFRICAN ACTIVISTS
+
+EMMA STEIN
+Daily Staff Reporter
+
+Design by KATHRYN HALVERSON
+
+SACUA discusses institutional culture, new 
+policy regarding faculty-student relationships
+
+Stanford Lipsey Student Publications Building
+420 Maynard St.
+Ann Arbor, MI 48109-1327
+www.michigandaily.com
+
+ARTS SECTION
+arts@michigandaily.com
+
+SPORTS SECTION
+sports@michigandaily.com
+
+ADVERTISING
+dailydisplay@gmail.com
+
+NEWS TIPS
+news@michigandaily.com
+
+LETTERS TO THE EDITOR
+tothedaily@michigandaily.com
+
+EDITORIAL PAGE
+opinion@michigandaily.com
+
+TOMMY DYE
+Business Manager
+734-418-4115 ext. 1241
+tomedye@michigandaily.com
+
+MAYA GOLDMAN
+Editor in Chief
+734-418-4115 ext. 1251
+mayagold@michigandaily.com
+
+PHOTOGRAPHY SECTION
+photo@michigandaily.com
+
+NEWSROOM
+734-418-4115 opt. 3 
+
+CORRECTIONS
+corrections@michigandaily.com
+
+The Michigan Daily (ISSN 0745-967) is published Monday through Friday during the 
+fall and winter terms by students at the University OF Michigan. One copy is available 
+free of charge to all readers. Additional copies may be picked up at the Daily’s office for 
+$2. Subscriptions for September-April are $250 and year long subscriptions are $275. 
+University affiliates are subject to a reduced subscription rate. On-campus subscriptions 
+for fall term are $35. Subscriptions must be prepaid. 
+
+FINNTAN STORER
+Managing Editor 
+ frstorer@michigandaily.com
+
+GRACE KAY and ELIZABETH LAWRENCE 
+Managing News Editors news@michigandaily.com
+
+Senior News Editors: Sayali Amin, Rachel Cunningham, Remy Farkas, Leah 
+Graham, Amara Shaikh 
+Assistant News Editors: Barbara Collins, Alex Harring, Danielle Pasekoff, 
+Atticus Raasch, Ben Rosenfeld, Samantha Small, Emma Stein, Zayna Syed, Callie 
+Teitelbaum, Liat Weinstein
+
+JOEL DANILEWITZ and MAGDALENA MIHAYLOVA
+Editorial Page Editors 
+ tothedaily@michigandaily.com
+
+Senior Opinion Editors: Emily Huhman, Alexander Satola, Elias Khoury, 
+Nicholas Tomaino, Erin White
+
+MAX MARCOVITCH and ETHAN SEARS 
+Managing Sports Editors sportseditors@michigandaily.com
+
+JACK BRANDON and ARYA NAIDU
+Managing Arts Editors 
+ arts@michigandaily.com
+
+Senior Arts Editors: Clara Scott, Emma Chang, Cassandra Mansuetti, Sam 
+antha Della Fera, Trina Pal
+Arts Beat Editors: Verity Sturm, Sayan Ghosh, Mike Watkins, Ally Owens, 
+Stephen Satarino, Izzy Hasslund, Margaret Sheridan 
+
+ALEXIS RANKIN and ALEC COHEN
+Managing Photo Editors photo@michigandaily.com
+
+ROSEANNE CHAO and JACK SILBERMAN
+Managing Design Editors 
+design@michigandaily.com
+Senior Design Editor: Willa Hua 
+
+ANDREA PÉREZ BALDERRAMA
+Statement Editor statement@michigandaily.com 
+
+Deputy Editors: Matthew Harmon, Shannon Ors
+
+MADELINE TURNER and MIRIAM FRANCISCO
+Managing Copy Editors copydesk@michigandaily.com
+
+Senior Copy Editors: Dominick Sokotoff, Olivia Sedlacek, Reece Meyhoefer 
+
+CASEY TIN and HASSAAN ALI WATTOO
+Managing Online Editors 
+ webteam@michigandaily.com
+Senior Web Developers: Jonathon Liu, Abha Panda, Ryan Siu, David Talbot, 
+Samantha Cohen
+
+NOAH TAPPEN
+Managing Video Editor video@michigandaily.com
+
+Senior Video Editors: Jillian Drzinski, Aarthi Janakiraman
+
+CARLY RYAN and NA’KIA CHANNEY
+Michigan in Color Editors michiganincolor@michigandaily.com
+
+Senior Michigan in Color Editors: Lorna Brown, Samuel So, Ana Maria 
+Sanchez-Castillo, Efe Osagie, Danyel Tharakan
+Assistant Michigan in Color Editors: Grace Cho, Harnoor Singh, Nada Eldawy, 
+Maya Mokh 
+
+CARRINGTON TUBMAN and MADALASA CHAUDHARI 
+Managing Social Media Editors
+
+Editorial Staff
+
+Business Staff
+
+CAMERON COANE
+Sales Manager
+
+ROBERT WAGMAN
+Marketing Consulting Manager
+
+ZELJKO KOSPIC
+Special Projects Manager
+
+ANITA MICHAUD
+Brand Manager
+
+Senior Photo Editors: Alexandria Pompei, Natalie Stephens, Alice Liu, Annie Klusendorf
+Assistant Photo Editors: Katelyn Mulcahy, Miles Macklin, Emma Richter, Hannah 
+Siegel, Allison Engkvist
+
+Senior Sports Editors: Mark Calcagno, Jake Shames, Matthew Kennedy, Anna 
+Marcus, Paige Voeffray, Avi Sholkoff
+Assistant Sports Editors: Aria Gerson, Tien Le, Rian Ratnavale, Bennett 
+Bramson, Theo Mackie, Akul Vijayvargiya
+
+ADRIANNA KUSMIERCZYK
+Creative Director
+
+CATHERINE NOUHAN and JOHN FABIAN
+Managing Podcast Editors
+
+Provost Phlilbert notes Fall 2019 budget is uncertain until state approprations and tutition increases are known 
+
+SUDOKU
+
+EASY
+
+8
+1
+
+6
+
+5
+7
+
+4
+
+5
+
+2
+1
+9
+
+6
+
+9
+5
+
+7
+8
+
+9
+4
+
+2
+
+9
+7
+1
+
+3
+
+2
+
+3
+5
+
+2
+
+1
+4
+
+© sudokusolver.com. For personal use only.
+
+Generate and solve Sudoku, Super Sudoku and Godoku puzzles at sudokusyndication.com!
+
+Sudoku Syndication
+http://sudokusyndication.com/sudoku/generator/print/
+
+1 of 1
+3/16/09 9:28 AM
+
+THE END 
+puzzle by sudokusyndication.com
+
+SARAH KUNKEL/Daily
+Law student at the University of Witwatersrand discusses the similarities and differences between the struggles of Apartheid South Africa and the Israeli Palestinian 
+Conflict.
+
+2 — Tuesday, April 2, 2019
+The Michigan Daily — michigandaily.com
+News
+
+TUESDAY:
+By Design 
+
+THURSDAY:
+Twitter Talk
+FRIDAY:
+Behind the Story
+WEDNESDAY:
+This Week in History 
+
+MONDAY:
+Looking at the Numbers
+
+The 
+Senate 
+Advisory 
+Committee 
+on 
+University 
+Affairs met on Monday with 
+Provost Martin Philbert and 
+discussed the importance 
+of 
+institutional 
+diversity, 
+tuition and the new policy 
+regarding 
+faculty-student 
+relationships.
+Incoming SACUA members 
+Elena 
+Gallo, 
+associate 
+professor of astronomy, and 
+Sara Ahbel-Rappe, professor 
+of Greek and Latin, attended 
+the meeting but are unable 
+to vote until they officially 
+become members on May 1.
+SACUA chair Neil Marsh, 
+professor of chemistry, said 
+elections for chair and vice 
+chair of SACUA will take 
+place at next week’s meeting.
+
+Philbert 
+began 
+his 
+meeting with SACUA by 
+thanking them for their work 
+throughout the semester.
+SACUA 
+member 
+Sami 
+Malek, professor of internal 
+medicine, said SACUA and 
+the administration should 
+try to improve institutional 
+culture among faculty and 
+not just focus on policy 
+changes.
+“You know, a lot of what 
+we’ve done here at SACUA 
+really centers on not the 
+common daily routine, but 
+rather 
+the 
+accesses 
+and 
+the 
+discretions 
+and 
+the 
+punishment and whatnot,” 
+Malek said. “But the issue 
+of sort of culture, this place 
+and how we can all make it 
+more collegial and better.”
+SACUA 
+member 
+Sarah 
+Lippert, associate professor 
+
+of art history at U-M Flint, 
+agreed 
+with 
+Malek 
+and 
+said she would like to see 
+a culture shift in terms of 
+prioritizing and promoting 
+ethics as a primary goal. 
+“I think one thing that 
+to me strikes me regarding 
+culture is I would like to 
+see the University — and 
+this requires participation 
+from 
+administrators, 
+the 
+regents, faculty, students, 
+staff — really become more 
+focused on the integrity and 
+ethics of how we treat each 
+other. And I don’t really, I’ve 
+worked with the University 
+of Michigan for a while, I 
+do see us trying to work 
+towards those goals, but I 
+don’t really see it as a stated 
+focus.”
+In response to a question 
+about the budget for the fall 
+2019 
+semester, 
+Philbert 
+said 
+the 
+administration 
+is not sure about state 
+appropriations or tuition 
+increases 
+yet. 
+He 
+said 
+tuition is the largest and 
+most stable component of 
+the budget, but the market 
+is not very elastic, and 
+they have to balance the 
+needs of the school with 
+the needs of students and 
+families. 
+He 
+said 
+if 
+programs 
+such 
+as 
+the 
+Go 
+Blue 
+Guarantee began covering 
+fees outside of tuition, the 
+payment for that would 
+come from other families’ 
+tuition.
+“So, one of the one of the 
+underlying principles to 
+our budget making is long-
+term sustainability, and 
+long-term 
+sustainability 
+not just for us internally, 
+but in terms of adding a 
+degree of predictability for 
+families who will pay their 
+tuition,” 
+Philbert 
+said. 
+“We also operate under 
+
+the general understanding, 
+though I haven’t been able 
+to find it written anywhere, 
+that if we add 1 percent in 
+fees, that comes off tuition, 
+so it is a zero-sum game.”
+After Philbert left, SACUA 
+discussed the new Standard 
+Practice 
+Guide 
+policy 
+regarding 
+faculty-student 
+relationships. Lippert said 
+SACUA 
+agrees 
+with 
+the 
+intention of the policy, to 
+increase the ease of the 
+reporting process, but the 
+language of the policy itself 
+is vague and has potentially 
+harmful loopholes.
+“The issue is that this 
+policy has ambiguities that 
+can actually lead to harm 
+to students and faculty in 
+the ways in which it could 
+be applied,” Lippert said. 
+“... In order for the policy to 
+work perfectly and not harm 
+people through misuse, we 
+have to have perfect HR 
+systems, we have to have 
+perfect 
+general 
+counsel, 
+we have to have perfect 
+administrators. And what 
+we’ve seen is we don’t have 
+perfect systems.”
+Ahbel-Rappe said SACUA 
+is dedicated to the safety and 
+security of all community 
+members, and that should 
+be made clear throughout 
+any statements they release 
+regarding the policy.
+“We should be very clear 
+that SACUA is concerned 
+to 
+do 
+whatever 
+we 
+can 
+to 
+protect 
+our 
+students 
+and 
+people 
+in 
+positions 
+of less power from sexual 
+predation,” 
+Ahbel-Rappe 
+said. “I don’t think that we 
+should just say you have 
+problems with this policy 
+and not emphasize that we 
+are committed to the well-
+being of the people on all 
+accounts.”
+
+
+He said this indicates there 
+are presumably rules as to which 
+progressions 
+are 
+aesthetically 
+pleasing to listeners and which our 
+intuition tells us should be avoided 
+in composition.
+“There is some sort of an 
+interesting structure to this,” 
+Forger said. “Right now, we’re 
+trying to figure out what is that 
+structure.”
+Forger explained the primary 
+goal of their project is to determine 
+the psychological or neurological 
+basis for patterns in the practice and 
+performance of the sonatas that are 
+not prescribed by the composer. 
+Kibbie said it is these nuances that 
+make music interesting.
+“The Trio Sonatas are notorious 
+for 
+this 
+unpredictability 
+of 
+performance,” Kibbie said. “What 
+Bach wrote on the music score 
+is not everything that’s needed 
+for a complete, successful artistic 
+performance.”
+Kibbie, Forger and their student 
+assistants represent one of the four 
+teams participating in MIDAS-
+funded Data Science of Music 
+
+Challenge 
+Initiative 
+research 
+this school year. Kibbie said it is 
+wonderful to have received an 
+opportunity from the University to 
+engage in unique, interdisciplinary 
+research between the fields of math 
+and music.
+“Musicians 
+are 
+sometimes 
+skeptical of math analysis and 
+data analysis because so much of 
+what we do is intuitive, and I hope 
+particularly the musicians will 
+come away with an understanding 
+that data science can support our 
+creativity and our intuition and 
+challenge it,” Kibbie said.
+University 
+alum 
+Kevin 
+Flannagan studied data analysis 
+and music in conjunction as an 
+undergraduate. He returned to 
+campus to see the presentation. 
+Flannagan told The Daily after the 
+event that he sees many similarities 
+between the studies of math and 
+music.
+“They’re both things that kind 
+of reward focused effort and people 
+who are sort of willing to spend a 
+lot of time sitting alone working on 
+something, so I think the skills that 
+you need are the same for both,” 
+Flannagan said.
+Kibbie 
+said 
+the 
+University 
+provides 
+the 
+unique 
+context 
+
+most conducive to this type of 
+interdisciplinary research.
+“We have the best of both 
+worlds,” Kibbie said. “We operate 
+as a small, elite conservatory 
+but embedded in this first-class 
+research 
+institution, 
+so 
+our 
+students have the resources of the 
+full University while we also have 
+the focus study of music or theater 
+and dance.”
+Kibbie said the team intends 
+to continue with and expand 
+their research. The University is 
+in the process of developing new 
+technology to get more pure and 
+detailed data.
+“This is just the first phase,” 
+Kibbie said. “The really exciting 
+thing is that the School of Music, 
+Theatre & Dance is raising funds 
+now to commission a major new 
+studio organ that is going to have 
+groundbreaking data interface … It 
+will be the first organ in the world 
+that will allow data collection in 
+a much more nuanced way that is 
+possible here.”
+Kibbie said he is extremely 
+proud of the work this research is 
+accomplishing at the forefront of 
+its field.
+
+The Michigan Daily — michigandaily.com
+News
+Tuesday, April 2, 2019 — 3
+
+SMTD
+From Page 1
+
+I would offer students one 
+source when we’re in a situation 
+like that and that’s the Division of 
+Public Safety and Security. I think 
+what President Schlissel outlined 
+beautifully in his email letter is 
+get the (Michigan) app … My other 
+advice would be to pay attention. 
+This idea of earphones on, walking 
+around, being oblivious is probably 
+not wise. I think the good news 
+is we got a real practice run. We 
+learned a lot of things about our 
+system. Some people learned about 
+what dead zones are like for their 
+phones, that they didn’t sign up (for 
+emergency alerts), that they didn’t 
+have the app. Some people were 
+listening to the (police) scanner 
+and thought everything it reported 
+was real. You can see how all of that 
+adds to the confusion. I think what 
+I’ve heard Director Washington 
+(Executive Director of DPSS) 
+say the source is the Department 
+of Public Safety and Security ... 
+We learned a lot of things we are 
+going to get better at. For that, I’m 
+appreciative. I think now we just 
+have to benefit from the things 
+we’ve learned.
+TMD: A new Central Student 
+Government president and vice 
+president, LSA sophomore Ben 
+Gerstein and LSA junior Isabelle 
+Blanchard, were recently elected. 
+
+What do you hope to come from 
+their administration and how do 
+you plan to work with them to 
+achieve their goals?
+Harper: Typically, what I do is I 
+meet with the new administration 
+and usually the old administration, 
+so Daniel (Greene) and Izzy (Baer), 
+will come. They will talk a bit about 
+what it is they want to accomplish 
+and during the course of that 
+conversation I will be thinking 
+about, given what they want to 
+accomplish, who is it that they need 
+to be connected to. We go through 
+a kind of orientation so they know 
+which areas of the University are 
+responsible for the items they’re 
+concerned for or an agenda item 
+they might want to have … I try 
+not to come into a new student 
+body presidency with something 
+in mind I need them to do. My goal 
+is to help them understand what 
+it is or how it is I can help them 
+achieve their goals because they 
+have a sense of what they want to 
+accomplish. They have to represent 
+all students, not some, but all. I 
+try to remind them this is not an 
+elevation of you. All of us sit in the 
+seats we sit in to help advance the 
+mission of the University. If you’ve 
+been elected, you’ve been elected 
+by the student body, and so your 
+work becomes to represent them, 
+not to advance a personal agenda. 
+… I want to honor what they believe 
+needs to happen, and then my job is 
+to help them accomplish it.
+
+TMD: 
+The 
+recent 
+college 
+admissions 
+scandal 
+regarding 
+celebrities 
+and 
+top 
+business 
+executives bribing colleges into 
+admitting 
+their 
+children 
+has 
+raised 
+many 
+concerns 
+about 
+the transparency of admissions 
+processes and from students and 
+parents. What would you say to 
+students of lower socioeconomic 
+backgrounds who feel they might 
+be disadvantaged in terms of 
+opportunities when compared to 
+wealthier students?
+Harper: I don’t think the issue 
+on the table is wealth, to be quite 
+frank. I think the issue on the table 
+is character and integrity. And if a 
+person lacks character or integrity, 
+that can be the case whether 
+you’re poor or rich. So, I want to 
+be careful that we don’t paint this 
+as a wealth—the money created an 
+opportunity for people who didn’t 
+have any integrity or character to 
+do something that was wrong. We 
+have plenty of wealthy people, and 
+poor people, with lots of integrity, 
+and would not use their resources 
+that way no matter what. … This 
+isn’t about wealth. Wealth and 
+money were the tools, this was 
+really about character and the 
+degree to which you have integrity 
+and you are honest. … This is a 
+place that honors hard work, this 
+is a place that looks holistically, so 
+getting into Michigan just on your 
+GPA and just on your test scores is 
+not enough. And so, I think focusing 
+
+on who you are and doing your very 
+best and making the case, is what 
+I would say. Getting distracted by 
+people who are dishonest, you and 
+I can’t fix that in someone. What 
+we can do is not be dishonest with 
+ourselves, to not cheat.
+TMD: Emilio Gutiérrez Soto, 
+a Knight-Wallace Fellow at the 
+University, is scheduled to be 
+deported after he was denied 
+asylum. Also, an event occurred 
+Monday, March 25 detailing efforts 
+the University has taken on to help 
+undocumented. How do you try 
+to help undocumented or asylum-
+seeking students get the resources 
+they need while also following 
+state and federal law?
+Harper: So, we do have Robert 
+Sellers, our chief diversity officer, 
+designated a staff member, Hector 
+Galvan, to work with documented 
+and undocumented students. We 
+have a website that has resources 
+there for the students. Our student 
+legal services have lawyers — they 
+are available to help students. 
+And so, I think those kinds of 
+resources that the law allows us to 
+provide, we provide. … Sometimes 
+students are afraid; they aren’t 
+afraid necessarily because they 
+may be able to be on campus but 
+their parents are undocumented 
+and so they worry about what 
+the implications will be for their 
+parents. Some students actually 
+came to speak at the Board of 
+Regents meeting to ask us to take a 
+
+look at our policies and procedures 
+around in-state and out-of-state 
+and make sure that we aren’t 
+disadvantaging 
+students 
+who 
+actually have to work a little bit 
+and go to school a little bit, work 
+a little bit and go to school a little 
+bit. … Some of our wealthy parents 
+have given us money to be able to 
+provide support for undocumented 
+students. So I think having the 
+resources 
+available, 
+having 
+someone you can talk with, making 
+sure that we honor students’ 
+privacy rights, which we would 
+always do, making sure there is a 
+way for students to find out what 
+the resources are and to take 
+advantage of them, meeting with 
+students if they have this concern. I 
+think those are the kinds of things 
+we try to do as an institution to 
+make this place work.
+TMD: After a Dec. 10 article in 
+The Daily revealed 40 years’ worth 
+of sexual misconduct allegations 
+against SMTD professor Stephen 
+Shipps, Shipps retired Feb. 28. 
+How do you hope the University 
+can better help students with the 
+reporting process when there 
+are allegations against faculty 
+members?
+Harper: I think you’ve seen 
+the 
+University 
+take 
+actions 
+strengthening 
+this 
+romantic 
+relationship policy. I hope or think 
+you’ve seen that the University 
+is very clear that it’s not going 
+to be tolerated … So, I think we 
+
+need three things. One, students 
+(need) to have the courage to keep 
+reporting … I think those of us that 
+are responsible for hearing and 
+believing need to hear and believe. 
+And I think all of us have to get 
+much more mindful of our behavior 
+and our language and the power 
+differential that exists between 
+students and staff, and students 
+and faculty members. So, I think 
+every part of our community has 
+a role to play in terms of shutting 
+this down. Students have to believe 
+they are going to be believed and 
+tell it and say something … We 
+have to look at our policies and 
+procedures and make sure they 
+are as strong as they can be. Then, 
+we have to continue to strengthen 
+our training 
+ — but everybody has 
+to use their voice. We have to be 
+good bystanders for each other. We 
+have to say something … because 
+what hurts is the silence … It’s 
+a culture change that’s going to 
+have to occur. While policies and 
+procedures and training is really 
+important, us owning that we are 
+not going to be in a community that 
+accepts this that is the only thing 
+that will change it. … People who 
+want to harm count on not telling 
+… it’s almost like we are in a battle 
+with fear or doubt … because that’s 
+what someone who’s trying to 
+harm you will always use … so we 
+have to be afraid and say something 
+anyways.
+
+HARPER
+From Page 1
+
+Noor also spoke about his 
+admiration for the panel, 
+saying 
+it 
+touched 
+on 
+a 
+number of important topics.
+“I love the panel,” Noor 
+said. 
+“Really 
+being 
+able 
+to show not just that (the 
+panelists) are artists but 
+why they became artists 
+is really a great thing and 
+really is eye-opening. A lot 
+of the times, you think that 
+it’s just STEM, but there’s 
+other things that you can do 
+too, especially if you have 
+that creativity.”
+During 
+the 
+panel 
+discussion, LSA sophomore 
+Basil Alsubee spoke about 
+his 
+views 
+on 
+the 
+state 
+of Muslim artists in the 
+U.S. 
+Alsubee 
+expressed 
+appreciation 
+for 
+the 
+opportunity to speak on the 
+panel in an interview with 
+The Daily following the 
+event.
+“I’ve 
+just 
+been 
+really 
+looking 
+for 
+a 
+platform 
+to speak to the Muslim 
+
+community, which is my 
+own community, about the 
+work that I do and art and 
+culture and media of Islam 
+as it pertains to the Muslim 
+community,” Alsubee said.
+Alsubee told The Daily 
+the panel members’ ideas 
+complemented each other.
+“We think about a lot 
+of similar things, but I 
+think we fill each other’s 
+gaps,” 
+Alsubee 
+said. 
+“I 
+was really struck by the 
+insightful processing of art 
+and media that they’ve had 
+— their own experiences, 
+both the similarities and 
+differences.”
+Alsubee also expressed 
+his 
+personal 
+interest 
+in 
+Islamic history and desire 
+to go to other events in the 
+Islamic Engagement Week.
+“I really want to go to 
+the 
+under-represented 
+perspectives 
+(event),” 
+he 
+said. 
+“I’ve 
+become 
+interested 
+in 
+the 
+topic 
+as someone who studies 
+history. 
+I’m 
+really 
+interested 
+in 
+historical 
+silences and things that are 
+just generally difficult to 
+
+come by, both the historical 
+record and contemporary 
+culture.”
+After the event, Art & 
+Design freshman Gabriel 
+Consiglio told The Daily he 
+appreciated the program.
+“I heard it through word-
+of-mouth,” Consiglio said. 
+“In terms of organization 
+for the event, I think this 
+is a perfect venue for what 
+it is. I’ve never been to 
+something like this before, 
+so the format of this is 
+pretty interesting. I like 
+the blend of discussion and 
+art.”
+Consiglio also appreciated 
+the association’s decision to 
+pause the event at 8 p.m. to 
+allow everyone time to pray.
+“I think it’s very cool that 
+they’re taking out the time 
+to pray,” Consiglio said. 
+“Being someone who is not 
+entirely in this religion, 
+I 
+think 
+this 
+is 
+really 
+important, especially since 
+not all of the events are 
+about Islam.”
+
+MSA
+From Page 1
+
+Mokgomole was an active 
+member of the BDS student 
+group at the University of 
+Witwatersrand. Molepo never 
+officially joined the movement 
+as a student at the University 
+of Cape Town, but still believed 
+Israel was an apartheid state. 
+Both activists are no longer 
+affiliated with the movement 
+and said they now think BDS 
+lied to them about the state of 
+discrimination in Israel.
+“Israel 
+is 
+still 
+where 
+Palestinians 
+live,” 
+Molepo 
+said. “Israel is still where a lot 
+of Palestinians go to school. 
+Israel is still where a lot of 
+Palestinians 
+get 
+their 
+food 
+from. Israel is still where a lot 
+of Palestinians get their water 
+from. Gaza gets their electricity 
+from Israel and the one thing 
+you never hear is that whenever 
+the ‘right to return’ marches 
+happen, people actually burn 
+down the power stations in 
+Gaza. So it becomes a thing 
+where people lose power and 
+the Israeli Defense Forces has 
+to go and fix that.”
+Mokgomole 
+also 
+said 
+he 
+was struck by the differences 
+between Israel and apartheid 
+South Africa, since he was 
+often told that Israel was an 
+apartheid state. After getting 
+expelled from his university for 
+antagonizing Jewish students, 
+Mokgomole began to educate 
+himself about Israeli society. 
+He said when he visited Israel 
+for the first time and asked an 
+
+Israeli airport employee for 
+the “Blacks-only bathroom,” 
+he was surprised to receive a 
+silent stare in response.
+“I told him, ‘Look, I’m from 
+South Africa and I was told that 
+Israel is an apartheid state,’” 
+Mokgomole said. “During the 
+South African apartheid, Blacks 
+and whites were not allowed to 
+use the same bathrooms. Blacks 
+and whites were not allowed to 
+use the same buses, the same 
+schools, a number of things. 
+So I’m in Israel, and I was told 
+Israel is an apartheid state, and 
+in an apartheid state I don’t 
+want to be arrested for using 
+the wrong bathrooms. He said 
+‘No, no, no, we don’t have that 
+here. You can use any bathroom 
+if you identify your gender and 
+use the right bathroom for your 
+gender.”
+Echoing 
+Mokgomole’s 
+argument, 
+Molepo 
+noted 
+how the four racially-based 
+social 
+classes 
+that 
+existed 
+during 
+the 
+South 
+African 
+apartheid created a society 
+built on discrimination that 
+explicitly denied Black people 
+their rights to education and 
+employment. Molepo said even 
+though he doesn’t agree with 
+all of the Israeli government’s 
+policies, he can’t classify it as 
+an apartheid country because 
+he doesn’t see the same kind of 
+overt racism.
+“Within the whites and the 
+Blacks, you find that people 
+weren’t allowed in the same 
+bathrooms, the same buses, the 
+same benches,” Molepo said. 
+“Let’s say if my mother had 
+to raise (a white boy), when 
+they get to a park, she would 
+
+have to sit on the floor and he 
+would have to sit on the bench, 
+because she’s not allowed to 
+sit on the same bench as me no 
+matter how close they are, no 
+matter what. I find none of that 
+in Israel.”
+LSA 
+senior 
+Robert 
+Weinbaum, a member of the 
+University’s chapter of Stand 
+With 
+Us, 
+invited 
+the 
+two 
+activists to campus. He said 
+he hoped the discussion would 
+allow students to reach their 
+own conclusions about whether 
+Israel should be called an 
+apartheid state or not.
+“Being at an event on campus 
+and especially in an academic 
+setting, Israel being described 
+as an apartheid state is an 
+adjective, it is very matter-of-
+fact,” Weinbaum said. “I never 
+really found a place where that 
+was discussion — what does 
+that really mean? In what ways 
+is it an apartheid state? I felt 
+like it was important to create 
+an environment where that 
+kind of conversation could be 
+held and really critically look 
+at Israel and compare it to 
+apartheid South Africa.”
+LSA senior Emily Olin, who 
+attended 
+the 
+conversation, 
+studied at the University of 
+Cape Town last semester and 
+noted how prevalent anti-Israel 
+sentiment was at the university. 
+After seeing the BDS movement 
+on the Cape Town campus, Olin 
+said it was interesting to hear 
+from South Africans with an 
+alternate perspective.
+“When 
+we 
+were 
+at 
+the 
+University of Cape Town, we 
+were there for Israeli boycott 
+week, and I have pictures 
+
+on my phone of the defaced 
+Israeli flag,” Olin said. “My 
+parents were visiting and I 
+brought them up to campus 
+and I was like, ‘Look, this is 
+kind of crazy.’ I thought (this 
+talk) was really interesting 
+from the perspective of a non-
+outsider who has experienced 
+apartheid, 
+real 
+apartheid, 
+not studied about it, not read 
+about it — their families have 
+experienced it. I think it was a 
+very valuable perspective.”
+Even though Molepo and 
+Mokgomole 
+stressed 
+the 
+differences 
+between 
+South 
+African 
+apartheid 
+and 
+the 
+Israeli-Palestinian 
+conflict, 
+they said peace should be 
+reached through negotiation 
+just as apartheid was ended 
+through 
+election. 
+Molepo 
+said a two-state solution that 
+preserves Israeli independence 
+should be the goal of these 
+discussions.
+“We need to understand that 
+Israel has a right to exist,” 
+Molepo said. “BDS sometimes 
+comes with a narrative that 
+says, ‘From the river to the sea, 
+Palestine will be free.’ So what 
+does that say then for the Israeli 
+child? What does that say for 
+the people that were born in 
+that period? Does that mean 
+they’re nonexistent people? It’s 
+something that we always need 
+to be conscious of — the fact 
+that these are people’s lives 
+we’re speaking about at the end 
+of the day.”
+
+CONTROVERSY
+From Page 1
+
+College Democrats Chair 
+Ruby Schneider, LSA junior, 
+later voiced her support 
+during public comments for 
+the resolution. Schneider 
+said currently Ann Arbor 
+is not addressing climate 
+change and needs to make 
+changes to do so.
+“To date, the city has 
+never devoted more than 
+0.2 percent of its budget 
+to climate action — this 
+must change,” Schneider 
+said. “The 40-40-20 plan 
+addresses issues that are 
+critical to the future of Ann 
+Arbor.”
+LSA sophomore Devan 
+O’Toole, 
+a 
+member 
+of 
+the 
+Roosevelt 
+Institute 
+and the Climate Action 
+Movement, 
+spoke 
+in 
+support of the resolution. 
+He emphasized the urgency 
+for 
+intergenerational 
+partnerships 
+to 
+respond 
+to 
+climate 
+change 
+and 
+affordable housing.
+“We from the student 
+community 
+urge 
+City 
+Council 
+to 
+uphold 
+the 
+40-40-20 tax revenue plan 
+because we’re in this fight 
+together to preserve an 
+equitable and sustainable 
+future 
+for 
+Ann 
+Arbor,” 
+O’Toole said.
+Ramlawi 
+then 
+said 
+though he supports actions 
+to 
+address 
+affordable 
+housing and climate action, 
+he does not support the 
+
+resolution. Ramlawi said 
+the city recently received 
+results 
+from 
+a 
+resident 
+survey that did not list 
+affordable housing, climate 
+action or pedestrian safety 
+as top issues. Ramlawi said 
+he was concerned the entire 
+$2.2 million of the returns 
+from 
+the 
+countywide 
+millage would go toward 
+issues that residents did 
+not indicate as their top 
+priorities.
+“It 
+doesn’t 
+give 
+us 
+any money for any other 
+issues,” Ramlawi said. “It 
+spends all 2.2 million (from 
+the county millage) without 
+addressing any of our other 
+priorities.”
+Ramlawi 
+also 
+shared 
+concerns 
+the 
+resolution 
+would 
+spend 
+a 
+huge 
+portion of the funds. While 
+Ramlawi 
+commented 
+on 
+how he felt there’s no 
+room in the budget for this 
+resolution 
+now, 
+citizens 
+in the audience objected, 
+arguing climate change was 
+happening now.
+“I don’t see any money for 
+this right now,” Ramlawi 
+said. “We’re at a high 
+watermark right now in 
+our city’s budget. We’re in 
+fortunate times, but I don’t 
+think we’ll always be in this 
+position, and we are setting 
+some very high floors at a 
+time when we’re at a high 
+watermark in our budget.”
+
+CITY
+From Page 1
+
+Read more at 
+MichiganDaily.com
+
+Read more at 
+MichiganDaily.com
+
+
+Opinion
+The Michigan Daily — michigandaily.com
+4 — Tuesday, April 2, 2019
+
+FINNTAN STORER
+Managing Editor
+
+Stanford Lipsey Student Publications Building
+420 Maynard St. 
+Ann Arbor, MI 48109
+ tothedaily@michigandaily.com
+
+Edited and managed by students at the University of Michigan since 1890.
+
+MAYA GOLDMAN
+Editor in Chief
+MAGDALENA MIHAYLOVA 
+AND JOEL DANILEWITZ
+Editorial Page Editors
+
+Unsigned editorials reflect the official position of The Daily’s Editorial Board. 
+All other signed articles and illustrations represent solely the views of their authors.
+
+EDITORIAL BOARD MEMBERS
+
+S
+
+ocial media has evolved 
+ 
+drastically 
+during 
+my 
+lifetime. Since 
+originating with the 
+social 
+networking 
+platform Six Degrees 
+in 1997, a primitive 
+Myspace, it has grown 
+in both influence and 
+dynamism. 
+After 
+solidifying its roots 
+with the recognizable 
+Facebook in 2004, the 
+following 
+iterations 
+of Twitter, Instagram 
+and Snapchat pushed boundaries 
+in social media’s format and style. 
+In middle school, I experienced 
+the popularization of influencers: 
+teams of disciplined curators 
+whose 
+accounts 
+wield 
+the 
+attention of millions and inform 
+their concepts of language, dress, 
+memes, social behaviors, politics 
+and more. These influencers 
+brought about an age of editing 
+and analyzing on the photo-
+sharing service Instagram, and 
+further linked the platform to 
+commercial 
+agendas 
+through 
+advertising. In 2016, we witnessed 
+social media play an influential 
+role in presidential elections 
+with Twitter, the microblogging 
+service practically monopolizing 
+the global political discourse 
+between pundits, commenters, 
+candidates 
+and 
+everyday 
+Americans.
+Social 
+media 
+is 
+often 
+criticized for its edited and 
+filtered representations of people’s 
+lives. These “highlight reels” 
+are designed to technologically 
+monetize users’ egos with a 
+currency 
+of 
+validation. 
+The 
+Guardian’s article “Logged off: 
+meet the teens who refuse to use 
+social media” explores a Gen-Z 
+backlash to the social pressures 
+of 
+Instagram 
+and 
+Facebook, 
+while Psychology Today’s article 
+“Does Using Social Media Make 
+You Lonely?” and The New 
+York Times’ piece “In Search of 
+Lost Screen Time” examine the 
+symptomatic issues.
+What social media platforms 
+are criticized for less frequently 
+is the control they exercise over 
+our interactions in worldwide 
+discourse and their misuse of 
+our personal information. These 
+platforms have a responsibility 
+to try to connect people from all 
+around the world. The owners 
+and moderators of these platforms 
+must be held accountable for 
+censorship and the control and 
+backdoor trading of our personal 
+data – if social media is to remain 
+a force for good .
+It is estimated that today 
+nearly one-third of the planet 
+uses social media platforms to 
+connect beyond languages to 
+dissimilar parts of the world. 
+Social media, in this sense, serves 
+as a spyglass that illuminates 
+different ways of doing things. 
+This technology is impacting lives 
+more than previously imagined 
+possible, and some have begun 
+to investigate what these social 
+media platforms are doing with 
+this new responsibility.
+Twitter has recently come 
+under fire for the process with 
+which it arbitrates the banning 
+of tweets. Some say it is an issue 
+of political bias. Others find fault 
+with the fact that these decisions 
+to censor the free expressions of 
+others in a global arena are made 
+not by elected officials in our 
+government, but by a corporation, 
+and more specifically, by an 
+unelected, 
+often 
+politically 
+biased individual employee. In 
+an interview with CNN’s Brian 
+Stelter, Twitter CEO Jack Dorsey 
+stated, “I think we need to 
+
+constantly show that we are not 
+adding our own bias, which I fully 
+admit is left, is more 
+left-leaning.” That said, 
+Dorsey also admitted 
+Twitter is so liberal 
+that 
+conservative 
+employees “don’t feel 
+safe to express their 
+opinions.” Recently, on 
+the podcast “The Joe 
+Rogan 
+Experience,” 
+independent journalist 
+Tim Pool squared off 
+against Dorsey and 
+Vijaya Gadde, Twitter’s global lead 
+for legal, policy and trust and safety, 
+on issues of alleged censorship 
+and lack of transparency. One of 
+Pool’s recurring questions was 
+why the platform was treating 
+users differently for their political 
+leanings. 
+When 
+Dorsey 
+and 
+Gadde assured they only manage 
+behaviors on their platform and not 
+opinions, Pool gave evidence of the 
+contrary.
+Pool offered as evidence the 
+overwhelming number of Twitter 
+suspensions 
+for 
+right-leaning 
+users combined with the lack 
+of punishments for users on the 
+political left. Pool listed numerous 
+renowned commenters on the right 
+spectrum like Milo Yiannopoulos, 
+Gavin McInnes and Alex Jones 
+
+who have been banned completely 
+from the platform for their tweet 
+content that was either deemed 
+“hate speech” or “didn’t conform 
+to Twitter standards.” Pool then 
+contrasted 
+this 
+with 
+several 
+shocking posts by left-leaning 
+participants that went unpunished. 
+Antifa, a militant opposition to 
+fascism and other forms of extreme 
+right-wing 
+ideology, 
+published 
+tweets with a “list of 1,600 ICE 
+employees 
+alongside 
+photos, 
+locations, and job titles,” some of 
+which have still yet to be deleted 
+at the time of this podcast despite 
+their qualification as doxxing.
+Comedian and actress Kathy 
+Griffin first posed in a photograph 
+holding a mockup of President 
+Donald Trump’s severed head 
+and more recently called for the 
+doxxing of the Covington High 
+School students, saying, “Name 
+these kids. I want NAMES. 
+Shame them.” Griffin suffered 
+no punishment or suspension 
+because of her actions. Pool 
+also cited a Twitter user that 
+tweeted three times calling for 
+the killing of the Covington High 
+School students and again faced 
+no suspension or ban. Users 
+proposing the beheading of the 
+president or the burning alive of 
+children suffered no sanctions, 
+while those who promoted certain 
+right-leaning positions, such as 
+refusing to refer to transgender 
+users by their correct pronouns, 
+were routinely suspended. Pool 
+asked Dorsey, “Why does it always 
+feel like your policies are going one 
+direction politically? Twitter is 
+slowly gaining… too much control 
+from your personal ideology based 
+on what you’ve researched, what 
+you think is right, over American 
+discourse.”
+Pool argues that Twitter’s 
+rule controlling how users refer 
+to transgender people with risk of 
+suspension is evidence of Twitter 
+
+using ideologically driven policies. 
+Even if you agree with the rule, 
+you might be able to see that it 
+necessarily takes a stance on the 
+issue of free speech, a stance 
+that many conservative users 
+of the platform disagree with. 
+But where are the roots of this 
+control? Pool argues that, because 
+Twitter doesn’t follow the United 
+States’ legal behaviors toward 
+free speech and instead opts for 
+a Constitutionally unrecognized 
+hate speech regulation to curb 
+harassment, it often comes down 
+to an individual Twitter employee 
+sitting at a screen and deciding 
+if a post is allowed or not. This 
+seems arbitrary, considering the 
+conscious and unconscious bias 
+from Twitter staff and other 
+Silicon Valley personnel that might 
+unfairly tilt the dialogue in one 
+direction. U.S. Rep. Devin Nunes, 
+R-Calif., recently sued Twitter 
+for $250 million for their alleged 
+“shadow banning” of conservative 
+users, as well as an alleged personal 
+smear campaign. Again, politics 
+aside, it’s important to note the 
+control these platforms have over 
+the expressions of free-thinking 
+users.
+Similar to Twitter’s issue of 
+political 
+censorship, 
+Facebook 
+has recently faced criticism for 
+the inappropriate handling of its 
+users’ personal information, with 
+Zuckerberg 
+testifying 
+before 
+Congress on the subject of data 
+privacy. In December of last year, 
+The New York Times reported 
+that Facebook has been giving 
+users’ personal data to tech giants 
+like Amazon, Netflix, Spotify and 
+Microsoft. Netflix and Spotify, 
+video-on-demand 
+and 
+music 
+giants respectively, were given 
+access to read Facebook users’ 
+private messages, while tech 
+giants Microsoft and Amazon 
+were given lists of Facebook users’ 
+friends and contact information. 
+While Zuckerberg was quick 
+to 
+argue 
+that 
+all 
+Facebook 
+users agree to a “Terms of Use” 
+allowing such sale of personal 
+and private information, these 
+agreements imply compensation 
+and verge on the Orwellian.
+Netflix and Spotify now 
+have the ability to strip-mine all 
+kinds of personal information 
+from Facebook users’ private 
+conversations, such as your plans 
+to move to a new neighborhood, 
+your salary, the status of your 
+relationship with your spouse 
+and even your best-kept secrets. 
+It’s then up to the individual to 
+trust a global corporation with 
+the proper application of his or 
+her highly sensitive information. 
+The Wall Street Journal’s article 
+“Can a Facebook Post Make 
+Your Insurance Cost More?” 
+examines a potential future 
+where posting pictures of a 
+rock-climbing jaunt or alcoholic 
+indulgence could impact your 
+life-insurance premiums. These 
+stories 
+perfectly 
+articulate 
+the risk and burden that these 
+platforms place on its users 
+by collecting their personal 
+information.
+Privacy and free expression 
+on the internet are on the 
+line because of the actions of 
+Facebook and Twitter. They 
+don’t need to go much further 
+to blur the freedoms of everyday 
+Americans. Next time you log 
+on to Twitter or Facebook, ask 
+yourself, 
+“What 
+information 
+about myself am I giving up by 
+participating here and what will 
+they allow me to say?”
+
+Miles Stephenson can be reached at 
+
+mvsteph@umich.edu.
+
+O
+
+n Friday, March 15 
+some 3,000 students 
+from 
+the 
+University 
+of 
+Michigan and high 
+schools in the Ann 
+Arbor area gathered 
+on the Diag as a 
+part of the Global 
+Climate Strike. The 
+strike was inspired 
+by Swedish teenager 
+Greta 
+Thunberg, 
+now nominated for 
+a Nobel Peace Prize, 
+and was a coordinated effort 
+by students internationally to 
+walk out of classes and demand 
+action on climate change. 
+In Ann Arbor, the rally was 
+followed by a march around 
+campus, with its final stop at 
+the Fleming Administration 
+Building 
+where 
+protesters 
+sat 
+for 
+a 
+peaceful 
+sit-in. 
+Organizers of the strike had a 
+list of demands for University 
+President 
+Mark 
+Schlissel, 
+but 
+understood 
+he 
+would 
+be 
+unable 
+to 
+immediately 
+commit to a blanket list of 
+demands. 
+The 
+protesters’ 
+primary goal was to create 
+a dialogue with Schlissel, 
+where he would agree to a 
+public meeting in order to 
+discuss the University’s role 
+in combating climate change 
+openly. The sit-in lasted seven 
+and a half hours. However, it 
+did not go according to plan.
+Instead of talking with 
+the students or agreeing to 
+a public meeting at a later 
+date, 
+administrators, 
+and 
+eventually 
+police, 
+asked 
+students 
+to 
+leave. 
+When 
+they refused to move and 
+demanded their voices be 
+heard, administrators called 
+the police and 10 students 
+were arrested for trespassing, 
+including two minors from 
+local high schools.
+The 
+handling 
+of 
+these 
+peaceful 
+protesters 
+highlights 
+the 
+consistent 
+lack 
+of 
+transparency 
+and 
+accountability 
+from 
+the 
+administration 
+on 
+its 
+commitment 
+to 
+acting 
+on 
+climate change.
+The turnout of the strike 
+shows how important this 
+issue is to the local community 
+
+and 
+students 
+and 
+the 
+subsequent sit-in emphasizes 
+the 
+commitment 
+students 
+at 
+our 
+university 
+have 
+to climate justice. 
+Back in November, 
+many students and 
+faculty 
+applauded 
+Schlissel 
+as 
+he 
+announced 
+he 
+would put together 
+a 
+commission 
+on 
+carbon 
+neutrality. 
+Today, 
+we 
+are 
+simply 
+asking 
+he 
+make 
+the 
+process 
+transparent 
+and commit to serious and 
+effective deadlines.
+I reached out to participants 
+in the strike and peaceful 
+protests for comments on how 
+they view the situation. LSA 
+senior Olivia Perfetti, one of the 
+10 students arrested following 
+the sit-in, is the policy chair 
+for 2018-19 for Students for 
+Clean Energy, a cosponsor of 
+the Washtenaw Climate Strike. 
+In an email interview with 
+The Daily, Perfetti commented 
+what went through her mind 
+when she heard the University 
+call the police.
+“I want to emphasize how 
+reasonable our request was: a 
+one-hour public meeting with 
+President Schlissel moderated 
+by a student. This meeting was 
+necessary 
+because 
+previous 
+meetings have all taken place 
+behind closed doors, been off 
+the record, had moderators 
+who 
+filtered 
+questions 
+or 
+excluded discussion about the 
+Central Power Plant (CPP) 
+expansion 
+and 
+divestment 
+from fossil fuels. We agreed to 
+leave on this condition and felt 
+sure that our request would 
+be granted because it was so 
+straightforward.”
+She 
+continued: 
+“What 
+possible reason could President 
+Schlissel have for refusing? I 
+personally was certain that he 
+would agree rather than have 
+so many young people arrested. 
+Clearly, I was wrong. I probably 
+should 
+have 
+been 
+nervous 
+when the arrests started.” 
+Perfetti continued, outlining 
+how she ended up feeling 
+calm: “First, being with other 
+organizers gave me a strong 
+
+sense of solidarity: This is the 
+power of collective action. And 
+second, the unreasonableness 
+of President Schlissel’s refusal 
+strengthened my conviction 
+to stay. I had no doubt that we 
+were in the right, so I had no 
+trouble standing my ground.”
+Naina 
+Agrawal-Hardin, 
+a 
+16-year-old 
+student 
+at 
+Washtenaw 
+International 
+High 
+School, 
+was 
+a 
+lead 
+organizer for the Washtenaw 
+County Climate Strike and 
+speaker at the event. She said 
+in an interview that due to 
+travel plans, she was unable 
+to attend the sit-in, but kept 
+in 
+constant 
+communication 
+with the participants. “When 
+we found out that police were 
+being called, I was amazed 
+at how calm everyone stayed. 
+It portrayed how much they 
+were willing to sacrifice for 
+this cause. I know people were 
+scared, but to me, from the 
+outside, it almost seemed like 
+their 
+resolve 
+strengthened, 
+and it was clear that they 
+weren’t going to give up.”
+The events of March 15 
+should be a wake-up call 
+to everyone sitting on the 
+sidelines 
+about 
+climate 
+action. Students like Perfetti 
+and Agrawal-Hardin are an 
+inspiration to the rest of us to 
+stand up for what we believe 
+and not to compromise on what 
+is right.
+
+The 
+University’s 
+
+decision to avoid and deflect 
+accountability is a travesty 
+and it needs to do a better 
+job 
+communicating 
+with 
+students. It is unacceptable 
+that Schlissel continues on 
+without any direct interaction 
+with 
+stakeholders 
+in 
+the 
+community. 
+The 
+University 
+claims it is committed to 
+fighting climate change and 
+going 
+carbon 
+neutral, 
+yet 
+refuses to set clearly defined 
+and easily measurable goals for 
+this endeavor. But this cannot 
+be the case forever. The people 
+have spoken, and the time 
+to act decisively on climate 
+change is now.
+
+Social media’s oversized issues
+
+MILES STEPHENSON | COLUMN
+
+‘U’ severely lacks transparency and accoutability on climate action
+
+TIMOTHY SPURLIN | COLUMN
+
+DANA PIERANGELI | COLUMN
+
+New Zealand could teach us a thing or two
+N
+
+ew Zealand’s largest 
+mass 
+shooting 
+took 
+place at two mosques, 
+the Al Noor Mosque and the 
+Linwood Islamic Center, in 
+Christchurch, killing 50 people 
+and injuring another 50 on the 
+Muslim holy day, Friday, March 
+15. Before the shooting took 
+place, the suspect released a 
+document detailing far-right, 
+nationalistic views targeting 
+Muslims and immigrants.
+After this gruesome event, 
+Jacinda 
+Ardern, 
+the 
+prime 
+minister 
+of 
+New 
+Zealand, 
+immediately sprang into action. 
+She banned all military-style 
+semi-automatic 
+guns 
+and 
+assault rifles and has created 
+a government buyback system 
+to get rid of those already in 
+circulation, which will cost 
+the 
+government 
+between 
+$100 and $200 million in New 
+Zealand dollars. Though the 
+total number of banned guns 
+is unknown, of the 1.5 million 
+guns in circulation, more than 
+13,500 are now banned. Owners 
+are expected to turn those guns 
+in and will be reimbursed. If 
+they do not comply, they could 
+receive up to three years in 
+prison. And this is just the first 
+step.
+Most citizens are in complete 
+agreement about the necessity 
+for this action, including gun 
+owners. John Overand told 
+NPR the new gun laws are a 
+“good idea.” He went on: “I’m 
+a farmer and I’ve got guns, but 
+just for pests and things like 
+that. But semi-automatics aren’t 
+what you use for shooting pests, 
+they’re for killing people.”
+Even 
+those 
+in 
+the 
+gun 
+industry are taking action. Some 
+gun sellers took all weapons off 
+the shelf the day of attack and 
+stopped selling high capacity 
+magazines. A manager of a rifle 
+range shut down his gun club to 
+show respect for the victims.
+People all around the world 
+are praising New Zealand’s quick 
+and effective action. Rebecca 
+
+Peters, an activist who lead 
+gun law reforms in Australia 
+in the 1990s, said: “It’s been 
+the fastest response ever by a 
+government after a tragedy.” 
+U.S. Rep. Alexandria Ocasio-
+Cortez, D-N.Y., tweeted: “This 
+is what leadership looks like,” 
+reminding others that Sandy 
+Hook took place six years ago 
+and the United States still does 
+not have universal background 
+checks. 
+U.S. 
+Sen. 
+Bernie 
+Sanders, I-Vt., challenged the 
+U.S. to follow in New Zealand’s 
+footsteps, saying, “This is what 
+real action to stop gun violence 
+looks like.”
+
+And yet, little change has 
+been enacted here in the United 
+States, where gun violence has 
+been a much more widespread 
+issue. The U.S. has experienced 
+162 mass shootings since 1966, 
+according to The Washington 
+Post. 
+They’ve 
+taken 
+place 
+everywhere from schools to 
+movie theaters, killing everyone 
+from children to the elderly. 
+Afterward, 
+the 
+nation 
+is 
+outraged for a couple months, 
+sometimes a little longer. We 
+cry for change but are ignored. 
+Soon the cries begin to die out 
+due to inaction. Then the cycle 
+is repeated over and over again.
+Thankfully, we’ve recently 
+been granted a ban on bump 
+stocks, and the Supreme Court 
+seems set on keeping that ban 
+in place, rejecting the second 
+bid to end the ban in three 
+days. This action is a step in 
+the right direction, but it’s not 
+
+enough. We don’t have national 
+bans on assault weapons, only 
+restrictions in a few states. We 
+don’t have universal background 
+checks. We don’t have enough 
+forms of protection against 
+what is supposed to protect us.
+New Zealand is not burdened 
+by 
+the 
+Second 
+Amendment 
+like the United States. In New 
+Zealand, 
+owning 
+a 
+gun 
+is 
+considered “a privilege and not 
+a right,” as Stuart Nash, New 
+Zealand police minister, said. 
+They also don’t have to deal 
+with a powerful National Rifle 
+Association pushing back on any 
+safety initiatives. Dana Loesch, 
+a spokeswoman for the NRA, 
+wrote on Twitter, “The US isn’t 
+NZ. While they do not have an 
+inalienable right to bear arms 
+and to self-defense, we do.” 
+While this is a true statement, 
+it does not give us the excuse to 
+be irresponsible with our rights. 
+Maybe it’s not possible to take as 
+dramatic forms of action as New 
+Zealand did, or to pass it as fast, 
+but that doesn’t give the U.S. an 
+excuse to do nothing.
+When a national tragedy 
+occurs, 
+a 
+government 
+is 
+supposed to take action. A 
+government is supposed to take 
+care of its citizens, not allow 
+its citizens to be slaughtered 
+time and time again while it 
+stands idly by. A government is 
+supposed to act. That is exactly 
+what New Zealand did and why 
+they are being praised for their 
+actions by others who recognize 
+its 
+importance. 
+They 
+have 
+responded to tragedy with quick 
+and effective action – and we 
+should do the same.
+How many more? How many 
+more shootings will it take for 
+the U.S. to wake up and take 
+action? One hundred and sixty-
+three? Two hundred? Because 
+we know what New Zealand’s 
+answer is. Zero.
+
+Dana Pierangeli can be reached at 
+
+dmpier@umich.edu.
+
+Zack Blumberg
+Emma Chang
+Joel Danilewitz
+Emily Huhman
+Tara Jayaram
+
+Jeremy Kaplan
+Magdalena Mihaylova
+Ellery Rosenzweig
+Jason Rowland
+Anu Roy-Chaudhury
+
+Alex Satola
+Timothy Spurlin
+Nicholas Tomaino
+Erin White 
+Ashley Zhang
+
+Timothy Spurlin can be reached at 
+
+timrspur@umich.edu.
+
+When a national 
+tragedy occurs, 
+a government is 
+supposed to take 
+action 
+
+MILES
+
+STEPHENSON
+
+These platforms 
+have a responsibility 
+to try to connect 
+people from all 
+around the world
+
+TIMOTHY
+SPURLIN
+
+
+The Michigan Daily — michigandaily.com
+Arts
+Tuesday, April 2, 2019 — 5
+
+Given my relatively vanilla 
+cinematic taste to begin with, 
+both the short film “Landscape 
+of Absence” and feature film 
+“<3” 
+pushed 
+my 
+personal 
+definition of art and proved a bit 
+challenging to digest. Though 
+I can’t say that either film left 
+me wanting more, both exposed 
+me to an unfamiliar genre and 
+made for an interesting (to say 
+the least) hour and a half.
+“Landscape of Absence” can 
+best be described as a thought-
+provoking immersion into a 
+compilation 
+of 
+dialogue-less 
+moments of iconic women in 
+cinema. 
+The 
+film 
+expertly 
+utilizes a split screen to parallel 
+the 
+facial 
+expressions 
+and 
+movements of a woman in 
+one screen to the similar 
+expressions or movements 
+of 
+the 
+woman 
+in 
+the 
+other. 
+For 
+instance, 
+we 
+watch 
+Sigourney 
+Weaver 
+looking surprised in one 
+of the “Alien” films, while 
+simultaneously 
+observing 
+Frances McDormand’s face 
+plastered with an almost 
+identical 
+expression 
+in 
+“Fargo.” 
+Despite 
+these 
+parallels, for the majority 
+of the film, most of the clips 
+are seemingly unrelated and 
+we find ourselves unsure of 
+the connections between the 
+women shown.
+The visual component is the 
+most captivating part of the 
+film, but sound is emphasized 
+more 
+subtly. 
+Interspersed 
+snippets 
+of 
+simple, 
+yet 
+un-contextualized phrases like 
+“where are we” are thrown in, 
+but there is no actual dialogue. 
+In the final moments of the 
+film, a black title screen finally 
+reveals the common thread we 
+have been searching for over 
+the past 10 minutes, projecting 
+the 
+message 
+that 
+none 
+of 
+the scenes selected “feature 
+protagonists 
+communicating 
+
+with each other.” This minimal 
+use of speaking, both in the 
+overhead audio and in the clips 
+from within the various movies 
+shown, leads to the overall, 
+cleverly 
+demonstrated 
+point 
+that females on screen are not 
+given enough of a voice.
+Though a relevant criticism 
+of on-screen gender biases, I 
+couldn’t help but feel bothered 
+by the lack of actresses of color 
+depicted. Of the approximate 
+15 to 20 scenes with a white 
+actress, there were no more 
+than 
+three 
+with 
+a 
+Black 
+actress. This illuminates the 
+troubling 
+reality 
+that 
+even 
+within the noble cause of 
+female representation, there is 
+
+underrepresentation.
+A complete change of pace 
+from “Landscape of Absence,” 
+if you couldn’t already infer 
+from 
+the 
+title 
+structure, 
+“<3,” refuses to adhere to any 
+form 
+of 
+convention. 
+Boldly 
+and explicitly exploring the 
+intersection between the self, 
+the digital world and drugs, 
+this is a film that will make your 
+eyes pop and your ears ring like 
+you’re listening to a late 2000s 
+Kesha hit.
+Pill-popper, 
+rapper 
+and 
+unfiltered millennial LNZ is 
+like no other protagonist, if you 
+can even call her a protagonist 
+at all. She exists as more of a 
+persona in a music video than 
+anything else, swearing left 
+
+and right in her electric, anger-
+fueled raps and accompanied 
+by a trio of three practically 
+incapacitated 
+and 
+prop-like 
+men, who are later revealed to 
+be her intended assassins (if 
+this sounds weird and doesn’t 
+really 
+make 
+sense, 
+that’s 
+because it was and it really 
+doesn’t). You could say that 
+the plot of the film is for LNZ 
+to confront who is trying to 
+kill her, but that would give 
+the misleading impression that 
+this film follows any sort of 
+direction at all.
+LNZ’s purpose as a character 
+is not for audiences to connect 
+to 
+or 
+understand. 
+She 
+is 
+messy, debilitated by pills and 
+completely 
+unreliable. 
+But 
+perhaps that is the point of the 
+film, to show the psychological 
+power of hard drugs through 
+LNZ’s unhinged nature and 
+inhuman behaviors.
+She basically lives in two 
+different 
+worlds 
+(literally, 
+there are scenes with her 
+flying around in a recliner in 
+outer space). Though difficult 
+to definitely conclude from the 
+chaotic and drug-infused aura 
+that hangs over the entirety of 
+the movie, there are seemingly 
+two types of scenes in the film. 
+On the one, there are moments 
+from LNZ’s perspective, shot 
+through a first-person, shaky 
+camera. Then there are scenes 
+where the audience is watching 
+LNZ as they would a character 
+in a video game, noticing the 
+three <3s in the corner of 
+the screen that represent her 
+“lives.” Both portrayals of LNZ 
+shape her into more of a thing 
+than a human being and feed 
+into the overall digitized vibe 
+that surrounds the film. 
+It’s a mindbender in itself 
+to try to distinguish how to 
+feel after seeing this film. In 
+the strangest way possible, 
+the wide range of camera 
+
+movements and perspectives, 
+moody lighting and colors and 
+interspersed animated elements 
+somehow come together to 
+create a final product that is 
+undeniably artistic. That said, 
+this film is a lot to take in 
+one sitting. Ultimately, it’s an 
+uncomfortable and borderline 
+psychologically 
+violating 
+sensory overload that dumps 
+a lot of drugs, heavy rap and 
+obscenity into our laps and 
+unfairly expects us to have a 
+clue of what to do with it.
+
+— Samantha Nelson, Daily 
+Arts Writer
+
+“Phantom 
+Ride 
+Phantom,” 
+an 
+experimental 
+Austrian short film 
+that 
+preceded 
+my 
+feature presentation 
+at 
+the 
+Ann 
+Arbor 
+Film Festival, was a 
+flashing, 
+pulsating 
+collage 
+of 
+nature. 
+Completely devoid of 
+dialogue, characters 
+or narrative, the short 
+flipped 
+endlessly 
+between an initial image of 
+railroad tracks and random 
+woodlands 
+with 
+assaulting 
+editing, a creepy synth score, 
+and the obscure sound of a train 
+trundling along its path. The 
+experience was far more jarring 
+than enjoyable, but there was 
+something to be gained from 
+the visceral interrogation into 
+how humans control and are 
+controlled by our environment. 
+If “Phantom Ride Phantom” 
+offers any clear takeaway, it’s 
+that our manipulation of the 
+natural world is inherently 
+destructive to the environment, 
+and ultimately, to ourselves.
+After the pointed imagery 
+of the short film faded, the 
+documentary 
+“Caballerango” 
+
+began. 
+The 
+film, 
+directed 
+by 
+Juan 
+Pablo 
+González 
+(“Las Nubes”) examines the 
+emotional state and daily life 
+of a small rural Mexican town 
+after a beloved horse wrangler, 
+Nando, tragically takes his 
+own life. While “Caballerango” 
+moves slowly, surveying the 
+man’s parents, siblings and 
+coworkers, the film’s truth 
+emerges profoundly toward its 
+conclusion.
+The 
+simplicity 
+of 
+the 
+camerawork, whether it be a 
+long take of a farmer driving 
+his pickup, a shot of two men 
+eating that perfectly captures 
+the shadows across their faces, 
+or an entire scene from the 
+
+windowsill of a kitchen, is 
+an intimate exploration the 
+nuances of daily life in this 
+town with striking intimacy. 
+The director often chooses 
+to juxtapose people in their 
+natural state against landscapes 
+of remarkably golden fields and 
+hills. Despite not keeping the 
+camera directly on his subjects, 
+González expertly telegraphs 
+their energy, adoration and 
+grief.
+Some of the family members’ 
+testimony 
+was 
+genuinely 
+heartbreaking. The way that 
+the Nando’s brother described 
+his mother’s reaction to seeing 
+her son’s suicide was not only a 
+painfully detailed account, but 
+one that made me feel as though 
+
+I knew this family. For an 
+instant, all of that grief seemed 
+to swell in my mind with the 
+same intensity as it appeared on 
+the brother’s visage.
+The discussion of the horse 
+wrangler’s passing broadened 
+to 
+an 
+understanding 
+that 
+death is simply a part of life 
+for 
+many 
+members 
+of 
+the 
+town. Death hangs over the 
+film like a shadow, in images 
+of chickens being slaughtered 
+and prepared to eat, and in 
+bleary, heatwaves that cross 
+freshly harvested cornfields. 
+The longer I watched, the more 
+this insistence of mortality 
+subsumed the film’s message.
+And yet, González turned 
+this 
+dark 
+quality 
+into 
+something 
+beautiful. 
+Beyond 
+the tragedy at the 
+film’s 
+heart, 
+the 
+director ultimately 
+depicts death not 
+as an obstacle that 
+must 
+swallowed 
+away, but instead 
+a 
+hallowed 
+event 
+through 
+which 
+one finds a sense 
+of 
+peace. 
+This 
+particular wisdom is etched 
+upon 
+nearly 
+every 
+face 
+in the film, as a common 
+understanding 
+of 
+the 
+townspeople.
+The themes of “Phantom” 
+and 
+“Caballerango” 
+started 
+to converge. They both speak 
+powerful 
+truths 
+about 
+the 
+freedom and limits of human 
+control, in a physical, survivalist 
+sense, but in the context of 
+personal relationships. While 
+the choice to pair the two 
+films together was initially 
+unclear, their thematic and 
+visual overlap is fascinating to 
+consider.
+
+— Anish Tamhaney, Daily 
+Arts Writer
+
+Ann Arbor Film Festival: Some shorts and features
+
+VERENA LOOSER AND MELINA WEISSENBORN
+
+FESTIVAL COVERAGE
+
+Landscape of 
+Absence & <3
+
+The Michigan Theater
+
+SIX PACK FILMS
+
+Phantom Ride 
+Phantom & 
+Caballerango
+
+The Michigan Theater
+
+Let’s get it on: ‘You’re The 
+Man’ reintroduces Gaye
+
+MOTOWN
+
+In preparation to write this 
+review and at a loss for how 
+to tackle the insurmountable 
+legacy 
+of 
+Marvin 
+Gaye, 
+I 
+did what anyone would do: I 
+called my father. I called my 
+father and I asked him, “What 
+do you think about Marvin 
+Gaye?” In response, he 
+immediately sent me 
+a Spotify link to the 
+classic “Got To Give It 
+Up (Part 1),” and told 
+me: “This is the stuff. 
+Be 
+careful. 
+It’s 
+like 
+mainlining heroin.”
+Well, as much as 
+it pains any child to 
+admit it, my father’s 
+not wrong. In fact, this 
+may be the one and only 
+exception where I have 
+the guts to say, he’s 
+really, really right.
+Marvin Gaye’s music 
+is a lot of things. He was 
+(and still is) “The Prince 
+of Motown,” a master of soul, 
+R&B, with touches of jazz and 
+the sing-song of the crooners, 
+like Gaye’s idol Sam Cooke. His 
+legacy has been formed by his 
+battle with his inner demons, 
+
+his revolutionary and socially 
+conscious 
+music 
+and 
+his 
+confidence to break barriers, to 
+break rules.
+But to try and describe the 
+depth of Gaye’s music-making 
+through a list of things, of facts, 
+would be a dishonor to his 
+legacy. Words can’t (and won’t) 
+ever properly capture the magic 
+that is Marvin Gaye. To listen 
+to Marvin Gaye’s music is to 
+
+have what I can only describe 
+as a spiritual awakening. 
+However, 
+even 
+though 
+words may be insufficient to 
+capture the essence of Marvin 
+Gaye’s music, this writer feels 
+
+obligated to try. If only to 
+entertain the possibility that 
+the reader will see, hear and 
+feel these words somewhere 
+deep, go home and go listen to 
+Marvin Gaye.
+First and foremost, to listen 
+to Marvin Gaye sing is the 
+closest thing to true and pure 
+happiness one can find on 
+this Earth. Sure, there are a 
+lot of good things in life: Cake 
+is good. Love is good, 
+too. Yeah, financial or 
+social success is okay, 
+I guess. But Marvin 
+Gaye? Marvin Gaye is 
+life itself. To listen to 
+Marvin Gaye’s music 
+is to be torn between 
+sinking 
+into 
+bone-
+deep 
+relaxation 
+or 
+jumping up and dancing 
+until your feet fall off 
+and keep on dancing 
+without you. To listen to 
+Marvin Gaye is to face 
+the agony of thinking, 
+“Wait, there are people 
+who walk this Earth 
+who have never listened 
+to Marvin Gaye?” and know the 
+answer is yes.
+Marvin Gaye’s posthumous 
+album 
+You’re 
+The 
+Man 
+is 
+all this and much more. In 
+honor of what would’ve been 
+
+Marvin Gaye’s 80th birthday, 
+MOTOWN 
+has 
+released 
+a 
+compilation 
+of 
+what 
+were 
+considered to be “lost” songs. 
+The album, at its inception, 
+was meant to be a follow up to 
+Gaye’s beloved album, What’s 
+Going On, but was ultimately 
+never released due to clashes 
+with the label and lackluster 
+reception 
+of 
+a 
+preliminary 
+release of the title song. Gaye 
+was 
+never 
+afraid 
+to 
+push 
+boundaries or showcase his 
+vulnerabilities — the release of 
+this album after all this time 
+is a testament to Gaye’s legacy 
+of deep, honest and emotional 
+music-making.
+The album features a few 
+remixes by producer Salaam 
+Remi — songs that are good, but 
+with little to offer in alternative 
+to the original versions. Then 
+again, when it comes to Marvin 
+Gaye, it’s nearly impossible to 
+improve upon what is already a 
+
+masterwork of musical genius. 
+And overall, the album itself 
+isn’t daring or shocking. There 
+are no pretentious attempts 
+by the label to pretend that 
+You’re The Man is anything 
+but what is it: Marvin Gaye. 
+One should not sit down to 
+this album expecting radical 
+experimentation. Rather, the 
+album is like warmly greeting 
+an old friend who’s been gone 
+far too long. For the long-time 
+fan, it’s like feeling warm 
+sunshine after a long, hard 
+winter. For the newcomers, 
+it’s a treasure-chest discovery 
+of 
+small 
+proportions, 
+with 
+lasting impact. Once one has 
+been 
+introduced 
+to 
+Gaye’s 
+brand of chill vibes and soulful 
+optimism, it’s impossible to go 
+back.
+What is most striking about 
+the album, however, is not 
+the discovery of these hidden 
+songs, nor the enjoyment of 
+
+hearing dearly-missed friend, 
+idol and artist sing once more. 
+No, what is most striking about 
+You’re The Man is how different 
+it is from the music of today. 
+When sitting outside on the 
+streets of Ann Arbor, lavishing 
+in the brief glimpse of spring 
+and listening to Marvin Gaye, 
+one word came to mind: happy. 
+Because no matter how serious, 
+insightful or vulnerable Gaye’s 
+music can be, there is always 
+a light, comforting touch in 
+accompaniment. It is refreshing 
+to listen to this timeless music 
+made by a man who saw the 
+world for what it was — good 
+and bad — and sought to capture 
+the vital truths of life within 
+his music. In the monotony of 
+modern music, and the crush 
+of endless expectation and 
+obligation, one impression still 
+lingers: how wonderful it is to 
+welcome Marvin Gaye home, if 
+for the last time.
+
+MADELEINE GANNON
+Daily Arts Writer
+
+You’re the Man
+
+ Marvin Gaye
+
+MOTOWN
+
+ALBUM REVIEW
+
+
+Classifieds
+
+Call: #734-418-4115
+Email: dailydisplay@gmail.com
+
+EFFICIENCY ‑ 1 & 2 Bdrm Apts 
+Fall 2019/20
+Rents range $875 ‑ $1850 most 
+include heat and water. Showings 
+scheduled M‑F 10‑3
+734‑996‑1991
+
+By Craig Stowe
+©2019 Tribune Content Agency, LLC
+04/02/19
+
+Los Angeles Times Daily Crossword Puzzle
+
+Edited by Rich Norris and Joyce Nichols Lewis
+
+04/02/19
+
+ANSWER TO PREVIOUS PUZZLE:
+
+Release Date: Tuesday, April 2, 2019
+
+ACROSS
+1 “I’m clever” 
+chuckle
+4 Take a broom to
+9 Rapscallion
+14 Pretty __ picture
+15 Main artery
+16 __ roll: student’s 
+achievement
+17 Hawk, in the 
+military sense
+19 Get the best of
+20 In the buff
+21 Local residents, 
+to local college 
+students
+23 Draw sap from, 
+as a maple
+25 “I haven’t the 
+foggiest”
+27 Grooming 
+process
+30 Formula __: auto 
+racing class
+31 Casino 
+convenience
+32 Cacophonous
+34 Prescription items
+38 Canapé garnish
+39 Competition
+41 Snap or split 
+veggie
+42 “Casino” co-star 
+Joe
+44 Ease up
+45 Toy with, cat-style
+46 Microbrewery 
+product
+48 Studios for artists
+50 Materials for 
+babies’ rugs
+54 Paper size: Abbr.
+55 Consumed 
+amounts
+56 Reverb in a 
+chamber
+59 Centipede game 
+company
+60 Drambuie and 
+Scotch cocktail
+65 Closer to being 
+harvested
+66 Month before 
+febrero
+67 Get it
+68 “Alien” director 
+Ridley __
+69 Eggs purchase
+70 Juan’s “that”
+
+DOWN
+1 Goldie with a 
+Golden Globe
+
+2 Founder of 
+Edom
+3 *Tough period 
+in life
+4 Brazilian map 
+word
+5 Hit the jackpot
+6 Bit of energy
+7 Strasbourg 
+summer
+8 Second section
+9 *Grade school 
+presentation
+10 Come back (with)
+11 Naysayers
+12 Web surfing tool
+13 Narrative writing
+18 Event with 
+courses
+22 War on Poverty 
+org.
+24 *Slim-fitting Dior 
+creation
+25 Singer Turner’s 
+memoir
+26 *Nuclear treaty 
+subject
+27 Camper’s cover
+28 Plains native
+29 Excessively
+33 Irish poet who 
+wrote “Easter, 
+1916”
+
+35 Caps, and a hint 
+to the answers to 
+starred clues
+36 Drive or reverse
+37 Toothed tools
+40 Fr. holy woman
+43 Moulin Rouge, 
+notably
+47 Squeeze (out)
+49 Cross-country 
+southern hwy.
+50 Some are 
+compulsive
+
+51 Shenanigan
+52 Philippines peak: 
+Abbr.
+53 Looks flushed
+57 Hurries, 
+old-style
+58 Bread spread
+61 2018 National 
+Toy Hall of Fame 
+inductee
+62 “__ who?”
+63 Antonio’s three
+64 That, old-style
+
+FOR RENT
+
+Ty Segall’s new album begins 
+with four words, so soft and 
+so 
+quickly 
+interrupted 
+that 
+they’re easy to miss: “Ladies and 
+gentlemen, the—”
+That’s it. Then, there are the 
+guitars.
+It’s quite the hook, and “Warm 
+Hands” is an almost impossible 
+song to turn off, once you’re 
+sucked into it. The lyrics tell an 
+enthralling story — “He said he 
+wanted to talk to me / ‘Come here, 
+let me take you home’ / My hands, 
+they feel warm / My car 
+can run” — and the guitars 
+are so pressing, they evoke 
+the feeling of, yes, getting 
+into a car with somebody 
+else driving, and then 
+realizing too late what 
+you’ve signed on for once 
+you’re hurtling down the 
+freeway at 100 miles an hour.
+It’s hard to know what to expect 
+from an artist like Segall. In a little 
+over a decade of music-making, the 
+California multi-instrumentalist 
+has flexed his muscles in several 
+entirely different directions, from 
+the early lo-fi garage rock of early 
+albums like the first Ty Segall and 
+Goodbye Bread to the intentionally 
+freeform explorations of his most 
+recent record-length effort, last 
+year’s Freedom’s Goblin. He’s 
+proven himself to be among the 
+most prolific artists currently 
+making 
+music, 
+putting 
+out 
+practically an album a year, and 
+occasionally even more.
+
+His newest record, Deforming 
+Lobes, is a live album recorded last 
+year at the Teragram Ballroom 
+in Los Angeles. It features songs 
+plucked from all corners of 
+Segall’s musical repertoire, from 
+2010’s Melted to his second self-
+titled album, released in 2017. 
+Segall’s approach to the live album 
+seems to focus on one aspect while 
+discarding any elements he deems 
+unnecessary, including the fuzzy 
+applause and cheering that artists 
+usually leave in at the end of each 
+track (to the effect of feeling like 
+you’re at the concert), as well 
+as any songs that wouldn’t have 
+benefited the record.
+
+Namely, Segall — already no 
+stranger to long or unusual track 
+lengths — capitalizes on the 
+ways in which live tracks can 
+expand and grow beyond their 
+original span. The closing track, 
+“Love Fuzz,” features perhaps 
+one of the best examples of this, 
+a prolonged section of chiming 
+that evokes alien abduction and 
+grows sharper and sharper as it 
+dwindles, coaxing the listener 
+into near-hypnosis before finally 
+exploding back into the static 
+and intense instrumentation that 
+kicked off the meat of the track 
+initially.
+The crowning element of the 
+
+album’s character has to be the 
+Freedom Band, made up of Mikal 
+Cronin (bass), Charles Moothart 
+(drums), Emmett Kelly (guitar) 
+and Ben Boye (piano). Guitars 
+don’t sing like this everywhere. 
+The album is only eight tracks 
+long, making for a very tightly 
+packed 35 minutes, so it’s hard to 
+pick standouts knowing that we’re 
+already experiencing the cream 
+of the crop. But “Warm Hands,” 
+the opening track and the longest 
+one on the album at almost 10 
+minutes, 
+practically 
+demands 
+that the listener give the other 
+seven songs a listen, too. “Cherry 
+Red” features an instrumental 
+section that threatens 
+to blow its own top off. 
+One almost wonders 
+whether the applause 
+and shouts of the 
+audience 
+members 
+were done away with 
+because they simply 
+would have added too 
+much extreme dimension to an 
+album already bursting with it.
+The album is all about reining 
+in chaos into something distilled 
+and singularly creative. Each 
+track is a live performance at a 
+show, and yet the recordings are 
+largely honed back to the music 
+itself, to the point that at times the 
+album sounds like a more frenetic 
+version of a studio effort (in a good 
+way). The music itself sounds 
+purposeful, yet totally unbridled, 
+infused with a sense of prehistoric 
+rock that comes back and back to 
+us throughout the ages, surfacing 
+over and over again in new ways.
+
+Segall pours heart into 
+album ‘Deforming Lobes’
+
+LAURA DZUBAY
+Daily Arts Writer
+
+DRAG CITY
+
+ALBUM REVIEW
+
+Deforming Lobes
+
+Ty Segall
+
+Drag City
+
+“On My Block,” Netflix’s most 
+binge-watched show of 2018, is 
+back with its second season, a 
+return that can only be described 
+as a charming portrayal of 
+young-minded teens facing real-
+life problems. The show self-
+actualizes into the framework 
+of the show it was supposed to 
+be in the first season — a show 
+about 
+soul-searching 
+high 
+school freshmen that struggle 
+with childhood trauma, external 
+pressures to act a certain way 
+and now, how to handle 
+all 
+that 
+Rollerworld 
+loot that Jamal (Brett 
+Gray, 
+“Chicago 
+P.D.”) 
+discovered in the first 
+season.
+The 
+new 
+season 
+picks up a few months 
+after the aggravatingly nerve-
+wracking cliffhanger of the 
+first season, and viewers were 
+finally given the chance to find 
+out the fate of our beloved Ruby 
+(Jason Genao, “Logan”) and 
+Olivia (Ronni Hawk, “S.W.A.T.”). 
+Despite the first season finale’s 
+downer ending, the show never 
+neglects its lighthearted nature 
+and its refreshingly comedic 
+view on topics that are not 
+always supposed to be funny. It’s 
+hilariously relevant, especially 
+in the scene where Ruby comes 
+back to school and all of his 
+peers want to take selfies with 
+his 
+scarred 
+bullet 
+wound. 
+The show switches smoothly 
+
+between serious political issues 
+that come with being stuck in a 
+bad neighborhood and ridiculous 
+drama that all high schoolers 
+inevitably experience at some 
+point in their life.
+The biggest improvement is 
+that the characters find deeper 
+realms of dimensionality than 
+they had in their first season, 
+especially as they go through 
+the stages of grief from losing 
+their new friend Olivia from 
+gang violence. Monse (Sierra 
+Capri, debut) interacts with the 
+woman who she suspects is her 
+biological mother, Cesar (Diego 
+Tinoco, “Teen Wolf”) struggles 
+
+through 
+rejection 
+from 
+his 
+brother and the constant threat 
+of homelessness and Jamal deals 
+with the repercussions of having 
+a cursed fortune on his hands. 
+Although every character sees 
+some semblance of development 
+in the new season, it is Ruby 
+and Jazmine (Jessica Marie 
+Garcia, “How to Get Away with 
+Murder”) who are able to show 
+the most depth. Ruby suffers 
+through 
+anxiety 
+and 
+PTSD 
+episodes from facing a near-
+death experience, and we are 
+finally able to see Jazmine’s 
+full three-dimensionality when 
+Ruby visits her home and sees 
+what makes her the way she is. 
+
+We also get to see new 
+character dynamics that we 
+didn’t get in the first season. 
+The most amusing of them all 
+was Jamal and Cesar, who are 
+forced to stay together when 
+Cesar has nowhere else to go. 
+Jamal’s energetic nervousness 
+contrasted 
+against 
+Cesar’s 
+cool kid attitude makes for an 
+entertaining few episodes and 
+brings 
+the 
+ride-or-die 
+crew 
+closer together than ever before.
+While nobody can resist the 
+addictive charm of the crew’s 
+energy, at times the high school 
+drama feels a bit too timely and 
+predictable. If the showrunners 
+could 
+focus 
+on 
+diversifying 
+the 
+complexity 
+of 
+the 
+teen drama to match 
+the creativity of the 
+primary 
+storylines, 
+then the show has 
+a good chance of 
+running for at least another 
+few seasons. Despite this, it 
+is appreciated that this show 
+experiments with new kinds 
+of twists and turns that don’t 
+consist of the typical “small 
+quiet town faces big mysterious 
+murder” narrative. The second 
+season fills in the gaps between 
+the 
+characters 
+and 
+their 
+struggles 
+that 
+were 
+present 
+throughout the first season, 
+and viewers can only hope 
+that Netflix sees that obvious 
+potential that the show offers 
+and hits the “renewal” button 
+until their hands go numb. After 
+the chilling way season one 
+ended, we desperately need it.
+
+‘On My Block’ charms all 
+throughout season two
+
+NETFLIX
+
+TV REVIEW
+
+On My Block
+
+Season 2
+
+Netflix
+
+SOPHIA YOON
+For The Daily
+
+Throughout my time at college, 
+my perception of what “good” 
+writing is has changed immensely. 
+Before college, writing was a hobby. 
+I enjoyed the simple act of writing; it 
+was natural to me. I wasn’t holding 
+myself to any standard or abiding 
+by any rules. My writing was a full 
+expression of myself, uninfluenced 
+by “great” literature or renowned 
+writers or publication guidelines. 
+I was sometimes praised for my 
+writing and encouraged to formally 
+pursue writing in my education.
+I eventually did decide to formally 
+pursue writing, and have been 
+doing so for the past three years. I’ve 
+taken many workshop classes at the 
+University of Michigan as well as 
+New York University. I’ve attended 
+countless 
+writing 
+conferences, 
+readings and events. I’ve written a 
+number of essay collections that I 
+still can’t believe I finished. I’ve won 
+some awards and have come close 
+to winning others.
+Somehow, though, I feel like less 
+of a writer than I was at 17.
+My experience with writing 
+sometimes 
+feels 
+surreal, 
+even 
+though I haven’t, by any terms, 
+“made it” as a writer. I began as a 
+girl with a journal in her nightstand 
+drawer, and now, somehow, I’m 
+here. I’ve heard accomplished 
+writers speak and I have worked 
+closely with many of them. I’ve 
+learned what to write and when, 
+how to get published and where. 
+I’ve 
+written 
+and 
+edited 
+and 
+re-written and re-edited pieces. 
+I’ve completed this cycle so many 
+times that some of my work doesn’t 
+even feel like mine. I’ve learned so 
+much about writing that sometimes 
+
+I forget how to write; I’m paralyzed 
+by the thought of flow and tone and 
+recognition, which I’ve internalized 
+as the singular pillar of artistic 
+accomplishment.
+I’ve lost touch with myself 
+as an artist in the pressure to be 
+a “good” writer by the implicit 
+standards of literary achievement 
+— standards that, after many 
+nights of frustration, agony and 
+subsequent 
+soul-searching, 
+I’ve 
+decided are illusory on the premise 
+of their elitism. Literary knowledge, 
+allusions and inclusion in high-
+brow social groups — Fitzgerald, 
+Capote, Didion – have played a 
+role in shaping these standards, 
+while living in complete isolation 
+and selling your soul to the craft of 
+writing (in conjunction with illicit 
+substances) has, too — Hemingway, 
+Salinger, Thoreau.
+In other words, the road to 
+literary success has been defined, 
+and, to most, is unavailable.
+***
+On Thursdays, I go to Cotton 
+Correctional Facility in Jackson. 
+I facilitate a creative writing 
+workshop 
+with 
+three 
+other 
+members of the Prison Creative 
+Arts Project for incarcerated men. 
+We push the tables in the classroom 
+together and sit in a circle. We play 
+games, do writing exercises and 
+share our pieces with each other. 
+For every piece shared comes a 
+round of poetry snapping and warm 
+smiles, compassionate head shakes 
+or intelligent feedback, regardless 
+of whether it’s positive or negative.
+Before I’d gone to Cotton, when 
+I’d told my friends and family about 
+the workshop I’d be facilitating, 
+they’d assured me that I’d teach the 
+men a lot. They knew that I knew 
+how to write — I’d been doing it 
+forever, and I’d studied the craft 
+
+extensively. But I was never under 
+the impression that I had anything 
+to teach these men. In fact, I knew 
+I’d be the one learning.
+I was right in knowing that I 
+didn’t have anything to offer the 
+men, aside from giving them the 
+space to express themselves. What 
+I didn’t anticipate, though, was the 
+amount of wisdom and passion and 
+knowledge that they have shown 
+me. It’s one thing to learn from 
+something, but it’s another to have 
+it change you — which is what the 
+men at Cotton did.
+In 
+that 
+classroom, 
+I’ve 
+encountered the most powerful 
+writing I’ve read. These men have 
+faced 
+nearly 
+insurmountable 
+adversity. 
+They’ve 
+experienced 
+enough pain for 10 lifetimes. 
+They’ve been robbed of resources 
+that I, and many of my peers, have 
+had access to our whole lives. And 
+they’re the best artists I’ve ever met.
+The men at Cotton have stripped 
+the art of writing down to its 
+essence. Its essence is not elite — it’s 
+not knowledge or culture or even 
+recognition. It’s genuineness. Their 
+writing is magnetic, organic.
+Through their authenticity, these 
+men have inspired me to become 
+who I am, both as a writer and as a 
+person. Because of them, what I’ve 
+been taught about what writing is 
+supposed to be is unraveling. The 
+best writers are the ones who are 
+fully themselves.
+Because of them, I’ve decided 
+to forget what I know and become 
+the writer I was at 17. Because of 
+them, I’ve realized that the best art 
+is often not celebrated, because it’s 
+raw, messy and imperfect. The best 
+writing doesn’t adhere to a standard 
+or yearn for recognition — it only 
+exists in its purest form, despite 
+whether or not it’s loved.
+
+Deconstructing writing
+
+JENNA BARLAGE
+Daily Arts Writer
+
+COMMUNITY CULTURE NOTEBOOK
+
+6 —Tuesday, April 2, 2019
+Arts
+The Michigan Daily — michigandaily.com
+
+
+The Michigan Daily — michigandaily.com
+Sports
+Tuesday, April 2, 2019 — 7
+
+Through adversity, Michigan fights back
+
+Before the last day of the 
+meet 
+began, 
+the 
+Michigan 
+men’s swimming team gathered 
+together as it always has. Team 
+meetings weren’t uncommon, 
+but after three days of adversity 
+and 
+underwhelming 
+results, 
+there was more weight to this 
+one.
+Instead of sulking in the 
+negativity 
+that 
+came 
+easily 
+following a 17th-place result 
+after 
+the 
+third 
+day, 
+the 
+Wolverines chose to focus on 
+something else — better days. 
+The players took turns going 
+around and talking about their 
+two best moments from the 
+year.
+“I think everyone realized 
+how tough we had practiced,” 
+said junior Felix Auböck. “And 
+how fast we had gone all year, 
+and we can’t be really confident 
+in our performance, and we just 
+have to let our expectations go 
+and focus on the present.”
+With clearer minds and down-
+to-earth expectations, Michigan 
+turned around its performance 
+on 
+the 
+final 
+day, 
+jumping 
+four spots to end the NCAA 
+Championships 
+in 13th place.
+“It 
+was 
+definitely 
+a 
+difficult 
+race 
+since the results 
+of the previous 
+days didn’t go 
+down 
+as 
+we 
+expected,” 
+Auböck 
+said. 
+“So in the last 
+day, I think the 
+team brought it around really 
+well.”
+Auböck 
+was 
+a 
+large 
+contributor to the Wolverines’ 
+change in fortune. Previously, 
+the junior missed winning the 
+1,650-yard freestyle by seconds. 
+He spent the last two years 
+finishing as the runner-up each 
+time. This year, he looked to 
+change that.
+
+His path to first had more 
+obstacles than just in the water, 
+however. One of the restaurants 
+the team had gone to left a bad 
+taste in the players’ mouths — 
+and stomach. Auböck was one of 
+the multiple swimmers affected 
+by food poisoning. Despite not 
+being in peak condition, he took 
+to the water.
+“What a great swim by Felix,” 
+said 
+Michigan 
+coach 
+Mike 
+Bottom. “Again, he overcame 
+at the beginning 
+of the meet, that 
+we seemed to run 
+into at one of the 
+local restaurants, 
+but 
+he 
+came 
+through it and 
+he won in flying 
+colors which is 
+pretty amazing.”
+Auböck 
+finished with a 
+time of 14:23.09, 
+a second from breaking the 
+NCAA record for the 1,650-yard 
+freestyle. He did so by playing it 
+smart. A lot of the competitors 
+in the lanes across from him 
+shared similar personal records, 
+and so he gameplanned around 
+that.
+For roughly the first 500 
+yards, he wanted to be within 
+striking distance relative to 
+
+the other swimmers. After he 
+judged his position there, he 
+took off, getting inspiration 
+from his preliminary runs.
+“I knew I had to stay with the 
+pack the first third of the race,” 
+Auböck said. “And then after, I 
+do my own thing.”
+Another swimmer to add 
+to Michigan’s short list of 
+achievements from the weekend 
+was Miles Smachlo.
+Smachlo 
+sat 
+out 
+for 
+six 
+months of the season due to 
+surgery on his legs. He couldn’t 
+even practice until just before 
+the Big Ten Championships at 
+the beginning of March. With 
+less than a month to return to 
+form, Smachlo made the most of 
+his opportunities.
+“Just amazing to see Miles 
+getting third (place),” Auböck 
+said. “He then gets thrown 
+into NCAA, and that was just 
+amazing, I think that was a big 
+turnaround for us during the 
+meet.”
+On a day that little went 
+right — day three — one of the 
+highlights was Smachlo’s 100-
+yard butterfly. Finishing third 
+with a time of 44.84, he tried to 
+rally the Wolverines to not give 
+in after a disappointing day.
+“Again, he battled, he battled 
+back from surgery, he got the 
+
+coolest scars on deck on his 
+legs, but he looks mean anyways 
+when he stands up,” Bottom said. 
+“And that’s an exciting place 
+to be and to do it for the team 
+when we needed a turnaround 
+last night, and if you look at the 
+video on the race, how he tried 
+to put all the swim back onto 
+the team and really encouraged 
+them to keep moving forward.”
+Juniors 
+Charlie 
+Swanson 
+and 
+Tommy 
+Cope 
+added 
+to 
+Michigan’s 
+stronger 
+performance Saturday, placing 
+10th and 11th, respectively, in 
+the 200-yard breaststroke. Cope 
+narrowly missed the cutoff for 
+the finals with a time of 1:52.91, a 
+mere .01 seconds off qualifying. 
+Sophomore 
+Richard 
+Vargas 
+added to the three All-American 
+finishes the Wolverines had, 
+finishing fourth in the 500-yard 
+freestyle with a time of 4:12.21.
+“We started not that well at 
+all,” Auböck said. “We definitely 
+wanted to be somewhere else 
+after the first two days, but 
+then like this meet is a four-day 
+meet so we need to go there and 
+give us enough opportunity to 
+score. And I think everybody 
+took those opportunities those 
+last two days and we turned it 
+around, and I think we ended 
+up with a pretty decent result.”
+
+Johns Hopkins hands Michigan fifth-straight loss
+
+Overcoming 
+a 
+two-quarter 
+scoring drought is hard enough in 
+any circumstance. Against one of 
+the premier lacrosse programs in 
+the NCAA, it’s nearly impossible.
+The Michigan men’s lacrosse 
+team (3-6 overall, 0-1 Big Ten) 
+learned this lesson the hard 
+way over the weekend when 
+it faced No. 18 Johns Hopkins 
+(4-4, 1-0). A 10-0 run by the 
+Blue Jays spanning the second 
+and third quarters proved too 
+much to come back from for the 
+Wolverines, who lost by a final 
+score of 14-8.
+Playing 
+against 
+his 
+alma 
+mater and former coach Dave 
+Pietramala, 
+Michigan 
+coach 
+Kevin Conry got the Wolverines 
+off 
+to 
+a 
+promising 
+start. 
+Following the Blue Jays’ opening 
+faceoff win, it took Michigan 
+only a minute and 20 seconds to 
+regain possession and find junior 
+midfielder 
+Avery 
+Meyers 
+an 
+open look. Thirty seconds after 
+Meyers rang his shot off the post, 
+Decker Curran, who began the 
+game only nine points short of 
+the 100 mark for his career, put 
+the Wolverines in the lead.
+Johns Hopkins erased the 
+deficit less than a minute later, 
+before 
+Michigan’s 
+fifth-year 
+senior defenseman Peter Hollen 
+committed his first of two 
+penalties on the day. The Blue 
+Jays scored almost immediately 
+to take the lead. Undisciplined 
+play without the ball was a theme 
+of the game for the Wolverines, 
+as they committed nine penalties 
+on the day, four of which led to 
+Johns Hopkins goals while on the 
+man advantage.
+“We’re scrapping, because of 
+our deficiencies at the faceoff and 
+our injury situation, (because) 
+we need possessions,” Conry 
+said. “When you give them back 
+all of those extra bonuses, you’re 
+already at a disadvantage and 
+then you’re giving a good, slick 
+offense time.”
+Coming 
+into 
+the 
+game, 
+Michigan 
+was 
+one 
+of 
+the 
+best teams in the country at 
+preventing goals while down a 
+player, ranking eighth nationally 
+and 
+allowing 
+opponents 
+to 
+
+convert only 21 percent of the 
+time.
+“You don’t expect to have that 
+much laundry thrown,” Conry 
+said. “This is the Big Ten, where 
+physical lacrosse is supposed to 
+be played. I’m surprised by the 
+amount of penalties we’ve had 
+… But, in Big Ten lacrosse, you 
+cannot have that 
+many 
+mental 
+lapses or lapses in 
+discipline.”
+Despite 
+their 
+faults, 
+the 
+Wolverines 
+found themselves 
+up two goals at 
+the end of the 
+first 
+quarter. 
+Curran 
+scored 
+his second of the 
+game with four 
+and a half minutes remaining 
+and 
+sophomore 
+attackman 
+Kevin Mack dodged left from 
+behind the net and scored with 
+a defender in his face to build 
+the advantage. On the other 
+end, strong, physical plays from 
+junior defenseman Finn Goonan 
+and senior defenseman Nick 
+DeCaprio 
+ensured 
+Michigan 
+finished the quarter in the lead.
+The 
+Wolverines 
+clung 
+to 
+the lead for most of the second 
+quarter 
+despite 
+not 
+scoring, 
+but Johns Hopkins scored four 
+unanswered goals late to take a 
+
+7-5 advantage into the half. The 
+Blue Jays were well within reach, 
+but six unanswered goals in the 
+third quarter, two of which came 
+as a result of penalties, ensured 
+Michigan 
+couldn’t 
+mount 
+a 
+comeback.
+One 
+of 
+the 
+defensive 
+adjustments 
+the 
+Wolverines 
+made for Johns 
+Hopkins 
+was 
+switching to a 
+zone 
+defense 
+that would force 
+more 
+outside 
+shots. 
+The 
+coaching 
+staff 
+believed 
+this 
+scheme 
+played 
+better to their 
+goaltender’s skill 
+set, 
+according 
+to 
+senior 
+goaltender Gunner Garn. Garn 
+made 15 saves against the Blue 
+Jays in his first career start, 
+but the plan backfired at times 
+when not executed properly by 
+Michigan’s defenders.
+“It (the zone defense) was a 
+silly mistake by us,” Conry said. 
+“It was a silly mistake by us. You 
+give a good team silly mistakes, 
+they take advantage.”
+One of the game’s few bright 
+spots was the return of senior 
+midfielder 
+Brent 
+Noseworthy 
+from injury. Wearing a brace 
+on his right knee, Noseworthy 
+
+participated in a limited capacity, 
+taking two shots and scoring 
+the game’s final goal to keep his 
+33-game point streak alive. His 
+health status remains day-to-day, 
+according to Conry.
+Despite displaying admirable 
+effort in a role entrusted to 
+him only as a result of injuries, 
+Goonan finished 6-for-22 on the 
+day, taking all but one draw for 
+the Wolverines. As Michigan’s 
+faceoff woes continue, it will 
+be difficult to hinge any hope 
+on injured faceoff-men junior 
+Matt Dellacroce and sophomore 
+Connor Cronin, who have been 
+out for the majority of the past 
+four games.
+“We’ve got what we’ve got,” 
+Conry said. “You can’t argue with 
+how hard Finn Goonan is playing 
+and what he’s given us. The 
+numbers don’t reflect, I think, 
+the possessions, in terms of the 
+amount of times we were able 
+to ride the ball back. Between 
+Finn, our wings, and our attack 
+we’re 
+actually 
+getting 
+extra 
+possessions.”
+No matter how many extra 
+possessions the Wolverines were 
+able to generate, though, it wasn’t 
+enough. A rash of mental lapses 
+on defense and undisciplined 
+penalties ultimately made it 
+too difficult for Michigan to 
+overcome not scoring for the 
+game’s middle 30 minutes.
+
+ALLISON ENGKVIST/Daily
+Decker Curran was one of the few bright spots for the Michigan men’s lacrosse team in its loss to Johns Hopkins.
+
+OWEN SWANSON
+Daily Sports Writer
+
+Physical 
+lacrosse is 
+supposed to be 
+played.
+
+‘M’ takes rivalry match
+
+From the stands, a strong cry 
+came out: 
+“GO!!!!”
+Unanimously, 
+Michigan 
+faithful responded,
+“BLUE!!!!”
+Again, the chant rang. 
+The packed arena, reduced to 
+standing-room-only during the 
+doubles matches, erupted into 
+applause as the final serve came 
+from Ohio State. All eyes were 
+on the No. 2 doubles pair Giulia 
+Pairone and Anca Craciun as 
+they delivered the emphatic 
+slam that secured the doubles 
+point for Michigan. 
+A fight to the finish, the 
+duo embraced as they were 
+approached by the rest of their 
+team.
+The 
+Michigan 
+Varsity 
+Tennis Center was raucous, 
+resilient and absolutely electric, 
+perfectly 
+mirroring 
+the 
+performance of the Wolverines.
+Senior Brienne Minor had 
+only one word to describe the 
+atmosphere:
+“Unbelievable.”
+The 
+Wolverines 
+(11-4 overall, 7-0 
+Big Ten) defeated 
+the 
+19th-ranked 
+Buckeyes (15-2, 4-1), 
+4-1 to extend their 
+win streak to six 
+matches. 
+Along 
+with 
+the 
+exhilarating 
+performance 
+from 
+the 
+No. 
+2 
+pairing, 
+Pairone 
+and Craciun, the Wolverines 
+secured their first point with 
+a dominant 6-3 victory from 
+senior duo Minor and Kate 
+Fahey. 
+Nothing 
+came 
+easy 
+for 
+Michigan on Sunday. Taking the 
+momentum from the doubles 
+win and using the cheers from 
+the 
+crowd, 
+the 
+Wolverines 
+rallied through their singles 
+matches to come out victorious. 
+“(Ohio 
+State 
+is) 
+fighting, 
+too, and competing, and it’s, 
+you know, who’s going to be 
+toughest and want it a little bit 
+
+more,” said Michigan coach 
+Ronni Bernstein. “And in the 
+pressured moments, I think we 
+did a good job today. That’s the 
+difference.”
+Junior Chiara Lommer put 
+Michigan on the brink of a 
+match victory behind a 6-4, 7-5 
+win. With both sets constantly 
+in ties, Lommer eventually 
+overpowered 
+Ohio 
+State’s 
+Shiori Fukuda for a statement 
+Wolverine point. 
+Both Pairone and Minor took 
+their first sets by considerable 
+margins 
+— 
+6-4 
+and 
+6-2, 
+respectively — and then came 
+back from a 5-2 deficit in their 
+second sets to carry them to 
+victory. 
+As Pairone sent the ball back 
+over the net and the Buckeye 
+return went straight into it, she 
+screamed and celebrated. With 
+her win, she gave Michigan the 
+final point to seal its victory.
+“In tennis, there are always 
+ups and downs,” Pairone said. 
+“So during the downs, you need 
+to stay always positive. I was 
+5-2 down in the second set and 
+(Michigan assistant head coach) 
+Teryn 
+(Ashley-
+Fitch) 
+is 
+always 
+telling 
+me 
+‘Stay 
+positive and 
+keep 
+doing 
+what you’re 
+doing.’ 
+I 
+was 
+doing 
+the 
+right 
+things 
+but 
+I 
+couldn’t 
+finish the points, so I kept 
+believing in myself and kept 
+doing the same things, and in 
+the end, it turned out very well.”
+Aside from pure skill and 
+energetic coaches, who do the 
+Wolverines have to credit for 
+their victories?
+The crowd. 
+“I think with a big crowd like 
+this, I even told Kate during our 
+doubles match, ‘the crowd was 
+so electric right now,’ ” Minor 
+said. “It’s pumping me up and 
+getting me so hyped and that 
+gives us positive energy.”
+
+WOMEN’S TENNIS
+
+SHIRA ZISHOLTZ
+Daily Sports Writer
+
+(The crowd is) 
+pumping me up 
+and getting me 
+so hyped.
+
+Wolverines finish 10th
+
+The 
+Michigan 
+women’s 
+golf team entered the Bryan 
+National 
+Collegiate 
+this 
+weekend determined to change 
+the course of its season. With 
+just one victory to their name 
+this season, the Wolverines 
+looked to flip the script at 
+the Bryan Park Golf Course 
+in Greensboro, N.C. and gain 
+momentum in preparation for 
+postseason play starting in late 
+April.
+“We 
+were 
+feeling 
+good 
+coming into the event,” said 
+Michigan coach Jan Dowling. 
+“Our expectations were to 
+shoot the lowest scores we can 
+every day and seeing where 
+that puts us.”
+The 
+Bryan 
+National 
+Collegiate has been notorious 
+over its 22-year history for its 
+poor weather. This weekend, 
+however, 
+the 
+climate 
+and 
+course 
+conditions 
+were 
+unusually pleasant, perhaps 
+a fateful sign that Michigan 
+would rise to the top of the 
+leaderboard with the regular 
+season winding down.
+That was not the case.
+On Friday, the Wolverines 
+began 
+the 
+tournament 
+by 
+shooting 11 shots over par to 
+score an overall score of 299, 
+placing the team in ninth place 
+out of 17 teams after round one. 
+Freshman Sophia Trombetta 
+led Michigan by posting a 73, 
+tying for 16th on the individual 
+leaderboard.
+The 
+Wolverines 
+also 
+received reinforcement from 
+freshman 
+Ashley 
+Lau 
+and 
+junior Hannah Ghelfi, who 
+both shot at 74.
+“(Lau) was consistent all 
+week and she gave herself a lot 
+of chances to make birdie and 
+hit a lot of good putts,” Dowling 
+said. “As a freshman, she’s just 
+one of most even-keeled and 
+mature players I’ve coached.”
+During the second round of 
+
+the tournament, Michigan fell 
+further down the leaderboard, 
+shooting five shots worse than 
+it had on Friday. Lau scored 
+another 74, yet the Wolverines 
+now stood in 11th place after 36 
+holes.
+Although the team had fallen 
+47 strokes behind the leading 
+No. 13 Wake Forest entering 
+the 
+final 
+round, 
+Michigan 
+maintained 
+its 
+confidence, 
+intensity, and will to win.
+“Our 
+spirits 
+were 
+good 
+because there was a lot of 
+confidence that was being 
+built,” Dowling said. “And 
+there were a lot of good 
+stretches from our players and 
+we were excited to come into 
+today.”
+The Wolverines internalized 
+that mentality and rebounded 
+to score a 298, their best overall 
+score of the weekend. Lau 
+ended the tournament with 
+Michigan’s lowest individual 
+score, tying for 21st place. After 
+staying in the middle of the 
+pack throughout the weekend, 
+the 
+Wolverines 
+ultimately 
+settled for 10th place in the 
+tournament.
+“It’s a big picture goal 
+for us to be going into every 
+tournament that we play in 
+competing to win,” Dowling 
+said. “At the same time, we can 
+also make strong statements 
+whether we’re in 12th place or 
+seventh place or sixth place. 
+You can always move up the 
+leaderboard. There’s always 
+an opportunity to move up and 
+that matters a lot in golf.”
+After 
+coming 
+away 
+emptyhanded 
+from 
+the 
+weekend, 
+the 
+team 
+now 
+turns its attention to the 
+Lady Buckeye Invitational in 
+Columbus and looks to build 
+confidence heading into the 
+Big Ten Championships.
+“We’ve got a lot of good 
+ammunition to use, particularly 
+from this week,” Dowling said. 
+“Continuing 
+to 
+get 
+better, 
+that’s our expectation.”
+
+CHRIS SULLIVAN
+For The Daily
+
+WOMEN’S GOLF
+
+TIEN LE
+Daily Sports Writer
+
+CAMERON HUNT/Daily
+Junior Felix Auböck was a second from an NCAA record for the 1,650-yard freestyle with a time of 14:23.09 seconds.
+
+(Auböck) came 
+through it and 
+he won in flying 
+colors.
+
+
+8 — Tuesday, April 2, 2019
+Sports
+The Michigan Daily — michigandaily.com
+
+From backup to cleanup hitter, 
+Sobczak finds her stride at first
+
+When the Michigan softball 
+team opened its season in Tampa, 
+Fla., Alex Sobczak’s name wasn’t 
+on the starting lineup card.
+Instead, 
+the 
+senior 
+utility 
+player lost a competition for 
+the Wolverines’ everyday first 
+baseman 
+role 
+to 
+sophomore 
+infielder Taylor Bump back in 
+February.
+Sobczak saw limited action 
+as a pinch hitter throughout the 
+opening weekend, but Michigan 
+coach Carol Hutchins ultimately 
+kept her out of the starting lineup 
+until the team’s fourth game.
+For the first two weeks of the 
+season, the first baseman job was 
+a race between two players who 
+didn’t have much experience on 
+the right side of the infield. In 
+Sobczak’s case, her 63 previous 
+starts had primarily come at 
+catcher and third base.
+When Hutchins first proposed 
+the idea of shifting her to first base 
+in the preseason, 
+Sobczak 
+embraced 
+the 
+challenge.
+“When 
+I 
+first 
+got 
+an 
+opportunity 
+to play at first 
+(base), I just felt 
+like I wanted to 
+give more to the 
+team,” 
+Sobczak 
+said. “At times, I 
+haven’t had that same outlook of 
+being a badass, so to speak, and 
+really owning it.
+“It’s really fun to get to play 
+different positions in college. I’ve 
+really enjoyed it, but (first base) 
+is definitely very different. It’s a 
+different role. As a third baseman, 
+I remember having to be super 
+aggressive with everything, but 
+first base is more about being there 
+for your teammates and making 
+sure you pick them up and you’re 
+ready for them.”
+
+It wasn’t until the third week of 
+the season when Sobczak began 
+to establish the upper hand over 
+Bump. During the week of Feb. 22, 
+Sobczak won the job for good with 
+a pair of singles against then-No. 9 
+Louisiana State and Memphis.
+When 
+Sobczak 
+took 
+over 
+permanently, her batting average 
+sat at a lackluster .125. Today, her 
+.385 clip is the 11th-best in the 
+Big Ten. She’s been locked in at 
+the plate during 
+the 
+Wolverines’ 
+current 
+11-game 
+win 
+streak, 
+racking 
+up 
+15 
+hits in 29 at-bats 
+during 
+this 
+stretch — good for 
+a batting average 
+of .517. And that’s 
+no small sample 
+size, considering 
+she has a total of 
+65 at-bats on the season.
+In Michigan’s series sweep of 
+Rutgers last weekend, Sobczak 
+racked up six hits in nine at-bats, 
+including three home runs, nine 
+RBI and five runs scored. On 
+Monday, she was named Big Ten 
+Player of the Week for her efforts. 
+She is the second Wolverine to 
+earn the honor this season, joining 
+freshman left fielder Lexie Blair.
+As Michigan enters the heart of 
+its conference schedule, Sobczak’s 
+.708 slugging percentage and .535 
+
+on-base percentage are both team-
+highs. Her 1.243 OPS is the highest 
+the program has seen since Sierra 
+Romero notched a 1.460 OPS en 
+route to National Player of the 
+Year honors in 2016.
+To Sobczak, it’s just her way of 
+contributing.
+“I definitely don’t have the 
+speed that Lexie (Blair) does, so 
+I have to find a different role,” 
+Sobczak joked. “Being cleanup 
+hitter, it’s awesome being able to 
+score your teammates, and I think 
+that’s one of the best feelings.”
+Hutchins knew Sobczak would 
+produce at the plate, but she didn’t 
+expect her defense to emerge as 
+a strong suit. For the Wolverines, 
+Sobczak’s stellar .992 fielding 
+percentage is the cherry on top of 
+the sundae.
+“She’s gotten it done for us (on 
+defense),” Hutchins said. “She’s 
+out there because of her bat, but 
+she gets it done. She’s certainly 
+helped her infield out when they 
+haven’t made good throws. … She’s 
+playing hard for her team and she’s 
+having fun.”
+After spending most of the 
+opening weekend in the dugout, 
+Sobczak is now a staple in the 
+heart of Michigan’s batting order 
+and one of its most reliable fielders.
+At this point, the possibility 
+of a starting lineup card without 
+her name penciled in seems 
+preposterous.
+
+DANIEL DASH
+Daily Sports Writer
+
+Pitching, defense key to ‘M’ success
+
+Consistency is key. But in its 
+absence, balance can prove just as 
+important.
+Despite its ability to dominate, 
+the Michigan baseball team’s 
+offense 
+has 
+struggled 
+with 
+consistency — evident in last 
+season’s 
+early 
+end 
+after 
+a 
+promising 20-game win streak, as 
+well as its sporadic performances 
+against mid-major opponents this 
+year. In light of this, Michigan’s 
+pitching and defense have been 
+essential in holding opponents 
+to few runs and securing wins 
+even when the offense can’t pull 
+through. 
+With 
+big-name 
+matchups 
+coming up against offensively-
+strong 
+Minnesota 
+and 
+Ohio 
+State over the next two weeks, 
+this dynamic could prove quite 
+helpful.
+The defense’s utility was on 
+display in last Wednesday’s low-
+scoring doubleheader wins (1-0 
+and 2-0) against San Jose State. 
+While the offense couldn’t always 
+produce, solid performances such 
+as sophomore left-hander Angelo 
+Smith’s pitching during the second 
+game and the quick fielding 
+that forced several 1-2-3 innings 
+
+during the first game ensured that 
+the Spartans never capitalized on 
+Michigan’s difficulty at the plate.
+Over the weekend against 
+Michigan 
+State, 
+the 
+defense 
+even balanced itself out as the 
+Wolverines’ 
+fielding 
+strengths 
+bailed out some difficulties in 
+pitching. When junior right-
+hander 
+Karl 
+Kauffman 
+and 
+freshman 
+left-hand 
+reliever 
+Walker 
+Cleveland, 
+frustrated 
+by the persistent rain, allowed 
+several runs and walks, clutch 
+fielding — such as Jordan Brewer’s 
+double play in the second inning 
+that stifled the Spartans’ scoring 
+opportunity 
+— 
+ensured 
+the 
+margin never narrowed beyond 
+comfort.
+Indeed, even with efforts to 
+create a more balanced squad, 
+Michigan fundamentally remains 
+a defensive team. 
+“We’re built on pitching and 
+defense,” said Michigan coach 
+Erik Bakich. “We’ve had good 
+defense when we needed to and 
+when we didn’t have much going 
+on offensively.” 
+With so much reliance on 
+defense, it can get ugly when 
+things don’t go the Wolverines’ 
+way — especially against strong 
+opponents. A disappointing sweep 
+at the hands of No. 17 Texas 
+
+Tech two weekends ago saw 
+the Wolverines stuck in the low 
+singles in terms of runs while the 
+Red Raiders scored many more 
+and capitalized on numerous 
+errors. 
+“We couldn’t hold (Texas Tech) 
+down with our bullpen,” Bakich 
+said after the difficult series last 
+month. “They hit against us like 
+they knew every pitch that was 
+coming.
+“… What stood out is that we 
+were right there with them for 
+about half of each game. But they 
+were able to separate thanks to 
+some costly mistakes of ours.”
+When the team’s offensive and 
+defensive 
+strengths 
+combine, 
+the Wolverines can be dominant: 
+They scored 23 runs against 
+Manhattan, 12 over Western 
+Michigan and 16 runs against 
+Michigan State over the weekend. 
+Of course, a strong offense is 
+equally as, if not more, important 
+on the diamond than defense. But 
+they do complement one another, 
+and Michigan stands to benefit 
+from continued investment in a 
+clutch defense that can step in 
+and save the day against tough 
+opponents.
+Minnesota and Ohio State will 
+be far more formidable if they 
+don’t.
+
+ALEC COHEN/Daily
+Senior Alex Sobczak won the starting first baseman job from Taylor Bump.
+
+(Sobczak has) 
+gotten it done 
+for us (on 
+defense).
+
+Michigan ventures into new waters
+
+BELLEVILLE — Faster. Faster.
+It was the last 500 meters of the 
+1V8 race, and the No. 9 Michigan 
+rowing team found its first varsity 
+eight boat trailing behind No. 5 
+Yale’s. But what was once a four-
+seat gap had narrowed to just 
+inches.
+Faster. Faster.
+Sophomore 
+Charlotte 
+Powers urged freshman Jessica 
+Schoonbee to increase the pace. 
+As the rhythm setter, it was up to 
+Schoonbee to execute the orders 
+of her coxswain and lead the 
+pace for the Wolverines. Before, 
+Michigan’s attempts to close the 
+distance had been unsuccessful, 
+as the Bulldogs simply fended off 
+the pushes each time.
+But in the last stretch of the 
+race, the gap drew smaller and 
+smaller as the Wolverines’ stroke 
+rate grew faster and faster.
+Faster. Stop.
+The sprint to the finish created 
+a photo finish. Taking a chance, 
+the Wolverines ventured into new 
+waters, and the gamble paid off. 
+They finished the race in 6:35.32, a 
+mere .77 seconds faster than Yale.
+The game plan for Michigan 
+was to stay composed and stay 
+true to itself, the first 1,500. Don’t 
+let the other team’s boat affect 
+you, and don’t let up. And if that 
+holds up, see where the other 
+
+boat is and respond accordingly. 
+Only, when the Wolverines looked 
+over to Yale’s line at the last 500 
+meters, they knew they needed 
+more than just composure to win.
+Sprinting is not something 
+they practice often — Saturday 
+was the first day they did so all 
+year. So before the race, the 1V8 
+got the approval from Michigan 
+coach Mark Rothstein to use one 
+solid, decisive move — sprinting. 
+And after rowing from behind 
+since the start, the boat decided 
+to implement the newly acquired 
+move. The Wolverines closed out 
+the race, rowing at 42 strokes per 
+minute.
+“I mean, we were down the 
+whole race,” Powers said. “And 
+we as a boat, at the 500, decided 
+we were just going to stop them 
+from moving up any more and 
+hold then we kind of just inched 
+into them.”
+All aspects of the boat executed 
+in the clutch. The pressure came 
+from the Bulldogs, but Michigan 
+didn’t bite, instead, heeding the 
+advice from Powers and following 
+through.
+“We did a great job executing 
+today,” 
+said 
+senior 
+Kathryn 
+Grotto. “But I think continuing to 
+stay internal and not focusing on 
+what other boats are doing and 
+just rowing our own race to make 
+sure that we’re putting ourselves 
+in the best position to finish the 
+piece.
+
+“And our stroke (Schoonbee) 
+is a freshman. It was her first 
+weekend. Absolutely killed it. 
+Every time a coxswain would say 
+something, she just executed. And 
+she did it, and she took the rate 
+up.”
+Schoonbee, in her weekend 
+debut, highlighted a unified effort 
+to set an aggressive pace for the 
+Wolverines. Following suit, the 
+rest of the varsity boats succeeded 
+to win their respective races.
+The 2V8, contrary to the 
+first varsity eight, took an early 
+lead from the start. Starts were 
+something the team had been 
+practicing in the past week. 
+It paid dividends when Yale 
+proceeded to bite into the four-
+seat 
+lead. 
+However, 
+toward 
+the last stretch of the race, the 
+Bulldogs relinquished pressure 
+and Michigan won with an open-
+water lead, tallying 6:57.22.
+The 1V4 and 2V4 boats finished 
+equally as dominant, recording a 
+7:50.29 and 8:01.86, respectively. 
+Both created open-water leads 
+that they didn’t give up, similarly 
+to the second varsity eight boat.
+The 
+weekend 
+sweep 
+was 
+denied, however, by the novice 
+boats who failed to close the race, 
+finishing 7:28.93 to Yale’s 7:25.50.
+Despite the failures of the 
+novice boats, Michigan will chalk 
+up the weekend as a success, 
+nearly sweeping both days of the 
+regatta.
+
+KATELYN MULCAHY/Daily
+The Michigan rowing team’s 1V8 boat sprinted towards the end for a photo finish win on Saturday morning.
+
+TIEN LE
+Daily Sports Writer
+
+EVAN AARON/Daily
+The Michigan baseball team’s defense will be key in upcoming matchups against Minnesota and Ohio State.
+
+AIDAN WOUTAS
+Daily Sports Writer
+
+

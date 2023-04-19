@@ -3,4 +3,5 @@ __all__ = ['graphers',
             'pdf_to_text',
             'processors',
             'queries',
-            'txt_to_text']
+            'txt_to_text',
+            'zip_to_text']

@@ -16,6 +16,13 @@
 - Purpose:
     - Read through all years of UF *Independent Florida Gator* publications, get all months with publications, and then for each month get all days with publications and the associated links to publications. Then, iterate through these links, use the Django API attached to the downloads tab to get a list of pdf links, found in `uf_article_pages.json`. Then, iterate through these links, use PyPDF2 to get the PDF's text object to generate `journal_data/txt/UF`. This data can then be processed and queried for information generating figures such as what's in `figures/UF`.
 
+### UMich Newspaper Scraper
+
+- Files:
+  - `UMich.ipynb`
+- Purpose:
+    - Read through all subpages of UMich *The Michigan Daily* publications from 2009 onward by using Selenium's Chrome Web Driver. Then get all days with publications and the associated links to zipped text files of the publications, found in `umich_article_pages.json`. Then, iterate through these links, and for each one download the ZIP file and extract the contents to a temporary location, and read all text files to generate `journal_data/txt/UMich`. This data can then be processed and queried for information generating figures such as what's in `figures/UMich`.
+
 ## Past Work
 
 Twitter Scraping:

@@ -1,0 +1,5375 @@
+University 
+of 
+Michigan 
+
+researchers have released an 
+
+app that helps Flint residents 
+
+assess 
+lead 
+contamination 
+
+levels by utilizing functions 
+
+related to water testing and 
+
+providing 
+infrastructure-
+
+related information. The team 
+
+also worked with Flint Mayor 
+
+Karen Weaver on data analytics 
+
+for lead pipe removal.
+
+The app, released in early 
+
+December, 
+gives 
+residents 
+
+information about distribution 
+
+centers for water and water 
+
+filters, locations where lead has 
+
+been found in drinking water, 
+
+areas where infrastructure is 
+
+being replaced within Flint, 
+
+the likelihood that water in a 
+
+home or particular location is 
+
+contaminated and instructions 
+
+for water testing.
+
+Jacob Abernethy, professor 
+
+of electrical engineering and 
+
+computer science, was one of the 
+
+faculty members approached 
+
+by Google to create an app that 
+
+would assist those affected by 
+
+the Flint water crisis, which 
+
+led to the creation of MyWater-
+
+Flint app.
+
+“What came about was an 
+
+idea for an app that would be 
+
+useful for (Flint’s) citizens to 
+
+Last 
+month, 
+a 
+100-page 
+
+report detailing measures that 
+
+needed to be taken to ensure 
+
+the safety of public drinking 
+
+water in Flint was delivered 
+
+to President Barack Obama. 
+
+The report, written by the 
+
+President’s Council of Advisors 
+
+on Science and Technology, 
+
+included the collaboration of 
+
+Rosina Bierbaum, a University 
+
+of 
+Michigan 
+professor 
+of 
+
+Natural 
+Resources 
+and 
+
+Environment.
+
+President Obama mandated 
+
+the creation of the report in the 
+
+wake of the Flint water crisis 
+
+and wavering public trust in safe 
+
+drinking water. The aim was to 
+
+help eradicate all remaining 
+
+water quality issues and it 
+
+called for short- and long-term 
+
+measures to be taken in order to 
+
+guarantee safe drinking water 
+
+for all Americans.
+
+As a member of PCAST, 
+
+Bierbaum 
+co-chaired 
+the 
+
+group of PCAST members and 
+
+experts addressing drinking 
+
+water safety. This working 
+
+group spearheaded the report, 
+
+which concluded that, although 
+
+largely safe, American drinking 
+
+water quality could be further 
+
+improved by a few measures, 
+
+such 
+as 
+more 
+succinct 
+
+communication across agencies 
+
+and real-time water quality 
+
+monitoring.
+
+At the last PCAST meeting in 
+
+Washington, D.C. on November 
+
+18, 
+Bierbaum 
+presentedthe 
+
+goals of the report.
+
+“Our 
+real 
+focus 
+is 
+on 
+
+advancing 
+science 
+and 
+
+technology,” she said. “Not to 
+
+micromanage how it gets done.”
+
+In addition to presenting 
+
+the 
+research 
+findings 
+
+Bierbaum included her policy 
+
+recommendations.
+
+“The 
+federal 
+government 
+
+must lead but must clearly 
+
+involve 
+state, 
+cities 
+and 
+
+drinking 
+water 
+experts 
+to 
+
+improve 
+methodologies 
+
+that can do comparative risk 
+
+assessments of contaminant 
+
+mixtures 
+and 
+across 
+the 
+
+complete water system,” she 
+
+said last November.
+
+Bierbaum added that the 
+
+recommendations 
+should 
+
+supplement 
+the 
+ongoing 
+
+measures 
+under 
+the 
+Safe 
+
+Over 
+1,000 
+law 
+school 
+
+professors 
+from 
+institutions 
+
+in 49 states — including seven 
+
+professors and five assistant 
+
+professors at the University 
+
+of Michigan Law School — 
+
+signed a letter in opposition 
+
+to 
+President-elect 
+Donald 
+
+Trump’s nomination of Sen. 
+
+Jeff 
+Sessions 
+(R–Ala.) 
+as 
+
+U.S. Attorney General. The 
+
+letter, addressed to the U.S. 
+
+Senate Judiciary Committee, 
+
+presented 
+arguments 
+about 
+
+why the Committee should 
+
+reject the nomination at the 
+
+confirmation 
+hearings 
+next 
+
+week on Jan. 10 and 11.
+
+The letter listed areas of 
+
+concern in regards to Sessions’ 
+
+politics, which include support 
+
+for a wall along the country’s 
+
+southern 
+border, 
+regressive 
+
+drug and incarceration policies 
+
+and 
+a 
+questioning 
+of 
+the 
+
+relationship 
+between 
+fossil 
+
+fuels and climate change.
+
+michigandaily.com
+Ann Arbor, Michigan
+Friday, January 6, 2017
+
+ONE HUNDRED AND TWENTY-SIX YEARS OF EDITORIAL FREEDOM
+
+GOT A NEWS TIP?
+Call 734-418-4115 or e-mail 
+news@michigandaily.com and let us know.
+
+INDEX
+Vol. CXXVII, No. 3
+©2016 The Michigan Daily
+
+N E WS . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+O PI N I O N . . . . . . . . . . . . . . . . . . . . . 4
+
+A R T S . . . . . . . . . . . . . . . . . . . . . . 6
+
+S U D O K U . . . . . . . . . . . . . . . . . . . . . 2
+
+CL A S S I F I E DS . . . . . . . . . . . . . . . 6
+
+S P O R T S . . . . . . . . . . . . . . . . . . . . 7
+
+Google, ‘U’
+launch app
+to measure 
+water safety 
+
+Military health insurance pilot 
+program devised at UM Center
+
+See WATER, Page 3
+
+DESIGN BY: MICHELLE PHILLIPS
+
+FLINT
+
+Aiming to assist Flint residents, the risk 
+assessment tool also evaluates lead levels
+
+RHEA CHEETI
+Daily Staff Reporter
+
+Cost-cutting health care included in the 2017 National Defense Authorization Act
+
+President 
+Barack 
+Obama 
+
+approved a insurance design 
+
+developed 
+by 
+University 
+of 
+
+Michigan 
+researchers 
+as 
+a 
+
+provision of the 2017 National 
+
+Defense Authorization Act on 
+
+Dec. 23. The defense bill, which 
+
+authorized a $619 billion defense 
+
+budget, also approved the testing 
+
+of 
+Value-Based 
+Insurance 
+
+Design — a health care reform 
+
+plan that reduces the financial 
+
+barriers to essential, high-value 
+
+clinical services — for a pilot 
+
+in TRICARE, a health care 
+
+program for active and retired 
+
+military members and their 
+
+dependents.
+
+Originally created by faculty 
+
+at the UM Center for V-BID 
+
+in 2005, V-BID prioritizes the 
+
+medications and services that 
+
+are of highest priority to the 
+
+consumer. V-BID represents an 
+
+effort to shift the health care 
+
+system from a fee-for-service 
+
+system with high co-pays and 
+
+deductibles to one with clinical 
+
+nuance 
+that 
+considers 
+the 
+
+needs and health conditions of 
+
+individuals.
+
+The 
+University’s 
+V-BID 
+
+MADELEINE GERSON
+
+Daily Staff Reporter
+
+‘U’ faculty 
+sign letter 
+opposing 
+Sessions
+
+GOVERNMENT
+
+Law professors join in 
+against Trump’s pick 
+for attorney general
+
+HEATHER COLLEY
+
+Daily Staff Reporter
+
+University professor pens water safety 
+report to Obama following Flint crisis
+
+The report details necessary public safety measures for drinking water quality
+
+AARON DALAL
+
+For the Daily
+
+A lasting bond
+
+The Michigan hockey team 
+is hosting an alumni game 
+Saturday at 7:30 to support 
+former player Scott Matzka, 
+who is in the middle of a fight 
+
+against ALS. » Page 7
+
+michigandaily.com
+
+For more stories and coverage, visit
+
+See HEALTH CARE, Page 3
+
+In the wake of President-elect 
+
+Donald Trump’s election, Ann 
+
+Arbor entrepreneurs Kate Lind 
+
+and Nate Stevens started a new 
+
+project, Pincause, that designs 
+
+and sells pins intended to raise 
+
+awareness of social justice issues.
+
+Pincause recently released its 
+
+first pin — a multicolored hand 
+
+design — in support of women’s 
+
+rights and the women’s rights 
+
+marches that will take place 
+
+across the United States on and 
+
+before January 21, the days 
+
+surrounding Donald Trump’s 
+
+inauguration.
+
+“At first we had it as a closed 
+
+fist that was many different 
+
+bright colors, and then we 
+
+decided to open it up and make it 
+
+into the American Sign Language 
+
+for love, which I think is perfect 
+
+because our message is about love 
+
+and inclusion,” said Penelope 
+
+Dullaghan, the artist behind the 
+
+multicolored hand design.
+
+Stevens, 
+a 
+University 
+of 
+
+A2 residents 
+design pins 
+for social 
+awareness 
+
+BUSINESS 
+
+Michigan alums seek 
+to raise funds prior to 
+Trump’s inauguration
+
+DAVID DORSKY
+
+For the Daily
+
+Battle of unbeatens
+The Michigan women’s 
+basketball team is hosting 
+Ohio State at Crisler Center 
+on Saturday, as both teams 
+look to remain undefeated in 
+
+Big Ten play. » Page 7
+
+KEVIN ZHENG/Daily
+
+Civil rights activms group BAMN draws support for their group at Angell Hall on Thursday.
+
+BAMN
+
+See PINS, Page 3
+
+See FLINT, Page 2
+
+See SESSIONS, Page 3
+
+
+Tweets
+Follow @michigandaily
+
+ 
+ 
+
+CAMPUS EVENTS & NOTES
+
+The Michigan Daily (ISSN 0745-967) is published Monday through Friday during the fall and winter terms by students at the 
+University OF Michigan. One copy is available free of charge to all readers. Additional copies may be picked up at the Daily’s office 
+for $2. Subscriptions for September-April are $225 and year long subscriptions are $250. University affiliates are subject to a 
+reduced subscription rate. On-campus subscriptions for fall term are $35. Subscriptions must be prepaid. The Michigan Daily is a 
+member of The Associated Press and The Associated Collegiate Press.
+
+420 Maynard St.
+
+Ann Arbor, MI 48109-1327
+
+www.michigandaily.com
+
+ARTS SECTION
+
+arts@michigandaily.com
+
+SPORTS SECTION
+
+sports@michigandaily.com
+
+ADVERTISING
+
+dailydisplay@gmail.com
+
+NEWS TIPS
+
+news@michigandaily.com
+
+LETTERS TO THE EDITOR
+
+tothedaily@michigandaily.com
+
+EDITORIAL PAGE
+
+opinion@michigandaily.com
+
+HUSSEIN HAKIM
+
+Business Manager
+
+734-418-4115 ext. 1241
+
+hjhakim@michigandaily.com
+
+EMMA KINERY
+
+Editor in Chief
+
+734-418-4115 ext. 1251
+
+kineryem@michigandaily.com
+
+REBECCA LERNER 
+Managing Editor rebler@michigandaily.com
+
+ALEXA ST.JOHN 
+Managing News Editor alexastj@michigandaily.com
+Senior News Editors: Riyah Basha, Tim Cohn, Lydia Murray, 
+Nisa Khan, Sophie Sherry
+
+ANNA POLUMBO-LEVY and REBECCA TARNOPOL 
+Editorial Page Editors 
+ opinioneditors@michigandaily.com
+
+Senior Opinion Editors: Caitlin Heenan, Jeremy Kaplan, Max 
+Lubell, Stephanie Trierweiler
+
+BETELHEM ASHAME and KEVIN SANTO 
+Managing Sports Editors sportseditors@michigandaily.com
+
+ANAY KATYAL and NATALIE ZAK 
+Managing Arts Editors 
+ arts@michigandaily.com
+
+Senior Arts Editors: Tess Garcia, Dayton Hare, Nabeel 
+Chollanpat, Madeline Gaudin, Carly Snider 
+Arts Beat Editors: Caroline Filips, Danielle Yacobson, Danny 
+Hensel, Erika Shevchek, Matt Gallatin
+
+AMELIA CACCHIONE and EMMA RICHTER 
+Managing Photo Editors photo@michigandaily.com
+
+MICHELLE PHILLIPS and AVA WEINER
+Managing Design Editors 
+design@michigandaily.com
+
+LARA MOEHLMAN 
+Statement Editor statement@michigandaily.com 
+ 
+
+Deputy Statement Editor: Matt Gallatin
+ 
+ 
+ Yoshiko Iwa
+
+Statement Lead Designer: Katie Spak
+
+DANIELLE JACKSON and TAYLOR GRANDINETTI 
+Managing Copy Editors copydesk@michigandaily.com
+
+Senior Copy Editors: Marisa Frey, Ibrahim Rasheed
+
+DYLAN LAWTON and BOB LESSER
+Managing Online Editor lesserrc@michigandaily.com
+
+Senior Web Developers: Erik Forkin, Jordan Wolff
+
+ABE LOFY
+Managing Video Editor video@michigandaily.com
+
+Senior Video Editors: Gilly Yerrington, Matt Nolan, Aarthi 
+Janakiraman, Emily Wolfe 
+
+JASON ROWLAND and ASHLEY TJHUNG 
+Michigan in Color Editors michiganincolor@michigandaily.com
+
+Senior Michigan in Color Editors: Christian Paneda, Tanya 
+Madhani, Neel Swamy, Adam Brodnax, Areeba Haider, Halimat 
+Olaniyan, Sivanthy Visanthan
+
+ELLIE HOMANT
+Managing Social Media Editor
+
+PHOTOGRAPHY SECTION
+
+photo@michigandaily.com
+
+NEWSROOM
+
+734-418-4115 opt. 3 
+
+CORRECTIONS
+
+corrections@michigandaily.com
+
+Editorial Staff
+
+Business Staff
+
+EMILY RICHNER
+Sales Manager
+
+ANNA HE 
+Special Publications and Events Manager
+
+SONIA SHEKAR 
+Digital Marketing Manager
+
+JESSICA STEWART 
+National Accounts Manager
+
+JULIA SELSKY
+Local Accounts Manager
+
+CLAIRE BUTZ 
+Production and Layout Manager
+
+Senior Photo Editors: Zoey Holmstrom, Evan Aaron, Claire Abdo
+Assistant Photo Editors: Claire Meingast, Emilie Farrugia, Sinduja 
+Kilaru, Sam Mousigian, Marina Ross
+
+Senior Sports Editors: Laney Byler, Mike Persak, Orion Sang, 
+Minh Doan, Chloe Aubuchon, Sylvanna Gross, Chris Crowder 
+Assistant Sports Editors: Rob Hefter, Max Marcovitch, Avi 
+Sholkoff, Ethan Wolfe, Matthew Kennedy, Paige Voeffray
+
+Senior Social Media Editors: Carolyn Watson, Molly Force
+
+Sexual Harassment in 
+Academia Lecture
+
+WHAT: Julie Libarkin from 
+Michigan State University will 
+discuss the long-standing issue of 
+gender-based discrimination in 
+the workplace.
+
+WHO: Earth and Environmental 
+Sciences
+
+WHEN: 11 a.m. to 12 p.m.
+
+WHERE: West Hall, Room 340
+
+Mammoth Interactive 
+Evidence Demostration
+
+WHAT: The presentation will 
+provide an interactive look at the 
+evidence of interactions between 
+mammoths and early humans.
+
+WHO: Museum of Natural 
+History
+
+WHEN: Saturday, 11 a.m. to 3 
+p.m.
+
+WHERE: Ruthven Museums 
+
+Senior Flute Recital 
+
+WHAT: Senior Rachel Johanna 
+Berkowitz will be performing 
+works by Bach, Debussy, Brown 
+and Dello Joio
+
+WHO: School of Music, Theatre 
+& Dance
+
+WHEN: Sunday, 7 p.m.
+
+WHERE: Earl V. Moore Building, 
+Britton Recital Hall
+
+#UMich 200 Kick Off
+
+WHAT: The University’s 
+Bicentennial celebration 
+will begin with free bagels, 
+t-shirts and other themed gear 
+for students to promote the 
+University’s 200-year aniversary.
+
+WHO: Bicentennial Office
+
+WHEN: 8 a.m. to 12 p.m.
+
+WHERE: Haven Hall
+
+The Sky Tonight: Live 
+Star Talk
+
+WHAT: Audience members will 
+discuss the current night sky and 
+view planets and other objects in 
+this talk.
+
+WHO: Planetarium
+
+WHEN: Saturday, 11:30 a.m. to 
+3:30 p.m.
+
+WHERE: Ruthven Museums 
+Building
+
+Friday Flicks: “The 
+Breakfast Club”
+
+WHAT: As part of a winter movie 
+series, the classic flim focused on 
+a group of high schoolers will be 
+screened.
+WHO: Center for Campus 
+Involvement
+WHEN: 9 p.m. to 11 p.m. 
+
+WHERE: Michigan Union, 
+Anderson Room
+
+Larry Cat in Space Cartoon
+
+WHAT: Audiences will learn 
+about the night sky from a 
+playful cartoon featuring a 
+space exploring cat that uses his 
+space ship to visit the Moon and 
+a short discussion.
+
+WHO: Planetarium
+
+WHEN: Saturday, 12:30 p.m. to 
+1:15 p.m.
+
+WHERE: Ruthven Museums 
+Building
+
+Increasing Diversity in 
+Earth Sciences Lecture
+
+WHAT: Julie Libarkin from 
+Michigan State University will 
+discuss ways to achieve increased 
+diversity in the discipline 
+through sharing social capital.
+
+WHO: Earth and Environmental 
+Sciences
+
+WHEN: 3:30 p.m. to 4:30 p.m.
+
+WHERE: Clarence Cook Little 
+Building, Room 1528
+
+Michigan Students
+@UMichStudents
+
+When your first class is a 9 
+am discussion 
+
+Rob Dickinson
+@BeRobNow
+
+It’s too cold for slow walkers 
+@UMich
+
+pasta
+@baeliepasta
+
+Ok but on the real how do 
+people even try to compare 
+schools like MSU to umich lol
+
+tom
+@abushofghosts
+
+loving my new student 
+employment gig thank u for 
+everything @UMich
+
+JEREMY MITNICK/Daily
+
+A view of University’s Central Campus coated in snow on Thursday.
+
+SNOW CE NTR AL
+
+ON THE DAILY: FORMER NFL PLAYER RETURNS TO ‘U’ FOR DEGREE
+
+SHOPPING ON A BUDGET. 
+puzzle by sudokusyndication.com
+
+News
+2 — Friday, January 6, 2017
+The Michigan Daily — michigandaily.com
+
+Braylon Edwards, a former NFL wide receiver and University of 
+
+Michigan student, announced via Twitter he would be returning to the 
+
+University to finish his degree. In his tweet, he joked that he picked up a 
+
+rigorous schedule for this semester.
+
+Edwards, who attended the University from 2001 to 2004, pursued a 
+
+bachelor’s degree in general studies prior to his departure for the NFL in 
+
+the 2005 draft. 
+
+During his time at the University, Edwards played under Coach Lloyd 
+
+Carr and set both Michigan career and Big Ten records for most games 
+
+with 100 or more receiving yards. He was recognized as the Big Ten 
+
+Conference’s Most Valuable Player and awarded the Chicago Tribune 
+
+Silver Football in 2004.
+
+Edwards was also a member of the University’s track and field team. 
+
+He ran in the 60, 100 and 200 yard dashes, in addition to participating in 
+
+the high jump. 
+
+Following his career as a Michigan football player, Edwards was 
+
+drafted by the Cleveland Browns as a first-round pick in 2005. He then 
+
+moved between several different teams but spent the majority of his 
+
+career with the Browns.
+
+LSA sophomore and avid football fan Daniel DeLuca said he 
+
+appreciates how Edwards has chosen to return to complete his education, 
+
+unlike many other football players who enter the professional leagues.
+
+“I have no problem with someone coming back to finish their degree,” 
+
+DeLuca said. “I think it’s cool for him to come back. I know a lot of players 
+
+try to finish but have to leave early for the draft, which makes financial 
+
+sense. I think it’s good for him.”
+
+Public response has been mostly positive, with many fans praising his 
+
+decision to return to the University and obtain his degree.
+
+FLINT
+From Page 1
+
+Drinking Water Act. She said she encourages 
+
+collaboration in order to aid the collection and 
+
+coordination of data, specifically pointing to water 
+
+systems not currently under regulatory oversight. 
+
+When she presented in November Bierbaum 
+
+stated that America’s water system is generally 
+
+in good shape but still is not totally sound. She 
+
+detailed measures that can be taken to totally 
+
+ensure good water quality, like the engagement of 
+
+the citizen science coordinator and more detailed 
+
+water quality analysis.
+
+“Every agency has a citizen science coordinator, 
+
+and we think engaging citizen science is really 
+
+important for two reasons,” Bierbaum said. “One 
+
+to educate the public about their water systems 
+
+and indeed most water systems in the country are 
+
+safe, and second to collect information from taps 
+
+and well water we might not otherwise procure.”
+
+Mary Heinen, a Flint native and University 
+
+alum and staffer, spoke in support of Bierbaum’s 
+
+work.
+
+“I applaud folks that are working on this report 
+
+and that are working to try and correct some of the 
+
+horrible human rights abuses that have happened 
+
+in Flint and I respect anybody that is thinking 
+
+forward and trying to figure out what to do from 
+
+here on out,” Heinen said.
+
+Heinen also said that Flint’s ties to the 
+
+University may be at play in getting the attention 
+
+it needs.
+
+“I think the communities of Flint and Dearborn 
+
+and Ann Arbor — Southeast Michigan — that have 
+
+the University of Michigan in their neighborhoods 
+
+are definitely at an advantage,” Heinen said. 
+
+“Because those are folks from the neighborhood 
+
+that really care about what happens and I think 
+
+it’s imperative that local communities and 
+
+local schools and colleges and universities and 
+
+churches and community groups and activists join 
+
+together with a long-range plan and really look at 
+
+this and try to figure out what to do and how they 
+
+can help.”
+
+She also said — while this report helps the 
+
+situation in Flint — the water crisis was still poorly 
+
+handled and crises of this magnitude always have 
+
+a tedious recovery process.
+
+“I’m skeptical about anybody that thinks what 
+
+has happened can be cleaned up easily,” Heinen 
+
+said. “I think it’s a human rights disaster … I think 
+
+the similarities between Hurricane Katrina and 
+
+Flint are glaring to me.”
+
+While Bierbaum’s work on the PCAST report 
+
+is an encouraging step in the ongoing Flint water 
+
+crisis, political gridlock still plagues progress in 
+
+resolving the Flint water crisis.
+
+Gov. Rick Snyder delayed the passage of a 
+
+bill that aligns with the PCAST report in taking 
+
+specific measures to ensure 
+
+adequate water quality. By 
+
+failing to sign it, Michigan 
+
+Rep. 
+Dan 
+Kildee 
+(D–5) 
+
+released 
+a 
+statement 
+on 
+
+Thursday echoing Heinen’s 
+
+concerns.
+
+“The Governor should sign 
+
+this bill immediately,” Kildee 
+
+wrote in a press release on 
+
+Thursday. “Michiganders are 
+
+sick and tired of waiting for 
+
+the governor to step up to the 
+
+plate and help fix this man-
+
+made crisis he created in the 
+
+first place.”
+
+The statement also shared 
+
+Bierbaum’s 
+intentions 
+of 
+
+guaranteeing the best water 
+
+quality possible.
+
+“Right now, a common 
+
+sense bill that would help 
+
+prevent another water crisis 
+
+is with the Governor awaiting 
+
+his action,” Kildee wrote. 
+
+“The Legislature passed the 
+
+bill unanimously — and all 
+
+the Governor needs to do 
+
+is sign it into law.”
+
+
+News
+The Michigan Daily — michigandaily.com
+ 
+ 
+ 
+ 
+ 
+ Friday, January 6, 2017 — 3
+
+access a central hub of information about the water 
+
+crisis.” Abernethy said. “(Google) had people who did 
+
+software development, but they didn’t have people 
+
+who did sort of data science, machine learning 
+
+analytics stuff. With the help of a grad student a year 
+
+and a half ago, I helped initiate this thing through 
+
+Michigan called the Michigan Data Science Team.”
+
+Abernethy worked with a group of students who 
+
+organized and analyzed the data on Flint’s water 
+
+crisis. They also worked with other professors and 
+
+had support from Google throughout the process.
+
+“We’ve made a collaboration with professors at 
+
+UM-Flint, and we basically focus on all these data 
+
+and analytics stuff and they focus on the software 
+
+development side of things,” he said. “We’ve had 
+
+weekly meetings with folks at Google who’ve helped 
+
+with (user interface) and other issues and give advice 
+
+on development.”
+
+Cyrus Anderson, Michigan Data Science Team 
+
+member and University alum, said they worked on 
+
+identifying where the highest lead levels were while 
+
+developing the app and identifying lead risk levels.
+
+“It wasn’t clear what was causing the lead 
+
+problems in Flint, so what the team first did was 
+
+presenting where the high levels (of lead) were likely 
+
+to be,” Anderson said. “From there, we built models 
+
+predicting these high levels in order to find the 
+
+risk factors associated with different aspects of the 
+
+housing. Part of our project has also been figuring 
+
+out where exactly the lead pipes are likely to be and 
+
+predicting whether or not a house will have lead 
+
+pipes or not.”
+
+Abernethy pointed out that lead poisoning is 
+
+not an issue that affects just Flint; many states do 
+
+not recognize universal blood testing regulations, 
+
+resulting in states like Pennsylvania having 
+
+childhood lead-poisoning rates nearly double Flint’s.
+
+“They found that Flint’s water problems are not 
+
+actually unique to Flint — there are a large number 
+
+of census tracts in the U.S. that have blood lead 
+
+levels above the monitoring level,” Abernethy said. 
+
+“Flint may only be the tip of the iceberg. The belief 
+
+is that the idea of this information can be applied to 
+
+different municipalities around the country — we 
+
+definitely think this is very possible.”
+
+The lack of information about the location of lead 
+
+service lines and discord surrounding the need for 
+
+partial or full pipelines has hindered the FAST Start 
+
+program, Mayor Weaver’s pipe removal initiative. 
+
+Abernethy and his team worked on this initiative 
+
+as well, using their data science experience to help 
+
+overcome these issues.
+
+“The government of Michigan put forward 
+
+approximately $25 million to do lead pipe removal in 
+
+Flint, and one of the big recovery efforts was to get 
+
+rid of all these service lines,” he said. “It’s quite an 
+
+expensive process, trying to determine where lead is, 
+
+and certain parts of the city had a lot more lead than 
+
+other parts of the city.”
+
+Abernethy’s team used the data provided by FAST 
+
+Start in order to provide useful information to those 
+
+in the program. The group analyzed a variety of 
+
+factors and have provided access to the data through 
+
+the app.
+
+“And, of course, there are a lot of working variables 
+
+here, like whether or not the property was occupied 
+
+or the likelihood of the homeowner replacing the 
+
+service lines on their own and not informing the 
+
+government,” he said. “Some of the data that’s been 
+
+collected from this FAST Start program, we are 
+
+actually making available in the app.”
+
+This implementation can be viewed on the 
+
+MyWater-Flint homepage. Users can view what 
+
+infrastructure is being replaced and what is 
+
+currently being worked on. This can help Flint 
+
+residents identify which areas have high lead risk 
+
+levels.
+
+LSA sophomore Aliah Richter said she believed 
+
+it was important to utilize the prevalence of social 
+
+media and developing technology in situations like 
+
+the Flint water crisis.
+
+“I think the entire concept is really innovative,” 
+
+Richter said. “We’re so connected by technology 
+
+today that pretty much the one thing that could 
+
+connect all of us is phones and computers. So having 
+
+an app like that and being able to interact with other 
+
+people in your area that are also being affected by the 
+
+situation — I think it’s really important for residents 
+
+to be able to identify areas that are more likely to 
+
+have high levels of lead, so I really like the idea of this 
+
+app.”
+
+Michigan alum, said the design originally started as a 
+
+quest for a identifiable and unique symbol, much like 
+
+other marches and protests have been affiliated with.
+
+“It all started with the idea that the design has 
+
+to be something really good and that it’s not just 
+
+enough to have a message,” Stevens said. “The 
+
+goal for this was to create a symbol. The hippie 
+
+movement had a peace sign, and we wanted to 
+
+create something similar for the women’s march 
+
+and women’s movement.”
+
+Stevens explained that he and Lind hope to 
+
+draw nationwide attention to the project and raise 
+
+money for women’s and civil rights groups.
+
+“The goal for this is to gain national media 
+
+coverage and to make a symbol that reaches tens of 
+
+thousands of people marching and to raise $100,000 
+
+for each the ACLU and Planned Parenthood,” said 
+
+Stevens.
+
+Lind discussed her dreams for the future of 
+
+Pincause, expressing a desire to expand to other 
+
+social justice issues.
+
+“We hope that Pincause, in the future, will have 
+
+other causes, so maybe in the second quarter of the 
+
+year, we were thinking of making pins that support 
+
+Flint and Syrian refugees,” Lind said.
+
+According to MLive, the pins have already 
+
+been shipped to 43 states and internationally to 
+
+countries such as England and Australia.
+
+PINS
+From Page 1
+
+SESSIONS
+From Page 1
+
+WATER
+From Page 1
+
+“Some of us have concerns about 
+
+his misguided prosecution of three 
+
+civil rights activists for voter fraud in 
+
+Alabama in 1985, and his consistent 
+
+promotion of the myth of voter-
+
+impersonation fraud,” the letter reads. 
+
+“Some of us have concerns about his 
+
+repeated 
+opposition 
+to 
+legislative 
+
+efforts to promote the rights of 
+
+women and members of the LGBTQ 
+
+community.”
+
+The University professors which 
+
+signed the letter, including Law 
+
+Professor 
+Margo 
+Schlanger, 
+who 
+
+researches civil rights, prison reform, 
+
+torts and surveillance and heads the 
+
+University’s Civil Rights Litigation 
+
+Clearinghouse. 
+Schlanger 
+opposes 
+
+Sessions’ 
+nomination 
+because 
+of 
+
+what she described as an unfavorable 
+
+history on civil rights legislation and 
+
+allegations of racism towards former 
+
+staffers in the past.
+
+“Senator Sessions has a long history 
+
+not just of racial insensitivity but of 
+
+hostility to the vigorous enforcement 
+
+of the nation’s civil rights laws,” 
+
+Schlanger said. “That makes him 
+
+an unacceptable choice to head the 
+
+Department of Justice, which is the 
+
+federal government’s lead civil rights 
+
+enforcement agency.”
+
+LSA junior Collin Kelly, chair of 
+
+the University’s chapter of College 
+
+Democrats, said he agrees with the 
+
+letter and believes that the nomination 
+
+is questionable, especially because of 
+
+how Sessions’ attitude toward civil 
+
+rights deviates from the platform put 
+
+forth by Loretta Lynch, the current 
+
+United States Attorney General.
+
+“Someone being appointed who has 
+
+been accused of being racist is offensive 
+
+to the American people,” Kelly said. 
+
+“There are laws all over the country, 
+
+like voter ID laws, that specifically 
+
+target minority communities and poor 
+
+communities, and the Department 
+
+of Justice is expected to investigate 
+
+that these laws aren’t having negative 
+
+effects 
+on 
+already 
+marginalized 
+
+communities. A lot of people are 
+
+worried that if Sessions is Attorney 
+
+General, that’s just not going to 
+
+happen. If anything, civil rights 
+
+protections will pretty much cease 
+
+to exist.”
+
+College 
+Republicans 
+did 
+not 
+
+respond to requests for comment.
+
+According 
+to 
+the 
+American 
+
+Civil Liberties Union, Sessions 
+
+is against workplace protections 
+
+for LGBTQ people, Black Lives 
+
+Matter movement and voted for 
+
+a constitutional ban on same-sex 
+
+marriage and denounces the Voting 
+
+Right Act. This history, along 
+
+with Sessions’ racist remarks that 
+
+caused his failure to be nominated 
+
+as a federal judge in 1986, are a 
+
+few reasons why David Uhlmann, 
+
+director 
+of 
+the 
+University’s 
+
+Environmental Law and Policy 
+
+Program, also signed the letter 
+
+addressed to the chairman and the 
+
+ranking of the Senate Committee on 
+
+the Judiciary.
+
+“I served for 17 years at the 
+
+Justice Department, during both 
+
+Democratic 
+and 
+Republican 
+
+administrations, and care deeply 
+
+about the Department and its 
+
+work upholding the rule of law 
+
+and protecting civil rights and 
+
+the environment,” said Uhlmann. 
+
+“During his career, Senator Sessions 
+
+has opposed most of the essential 
+
+work of the Justice Department, 
+
+from 
+fighting 
+discriminating 
+
+based on race, gender and sexual 
+
+orientation to curbing pollution 
+
+and anti-competitive behavior in 
+
+business.”
+
+While Uhlmann believes this 
+
+massive opposition on the part of 
+
+law professors across the country is 
+
+extraordinary, he understands that 
+
+a Republican majority will likely 
+
+lead to Sessions’ confirmation.
+
+Kelly also applauded the penned 
+
+statement and said it serves to 
+
+continue 
+an 
+important 
+dialogue, 
+
+especially in a time when political 
+
+correctness is losing priority among 
+
+both citizens and government.
+
+“It 
+makes 
+me 
+proud 
+of 
+my 
+
+institution,” Kelly said. “These are 
+
+professors, not activists, trying to 
+
+make a political statement. They’re 
+
+experts in their field, and if they’re 
+
+saying this, I think it shows how real 
+
+the problem is.” 
+
+Schlanger 
+stated 
+that 
+Sessions, 
+
+despite an overwhelming Republican 
+
+majority in Congress currently, may 
+
+be so controversial that he could have 
+
+a difficult time during the upcoming 
+
+hearing.
+
+“The Senate rarely declines to 
+
+confirm a current or former Senator to 
+
+executive office, but Senator Sessions 
+
+is combining a problematic record 
+
+with a stunning lack of candor to his 
+
+colleagues that may actually move a 
+
+few Republicans to the right side of 
+
+this contest,” she said.
+
+Looking at the future of American 
+
+politics and civil rights discourse, 
+
+Uhlmann and Schlanger agree that 
+
+Sessions could impair very vital civil 
+
+rights in the United States and would 
+
+fail to uphold justice if he held a 
+
+position of such wide discretion.
+
+Uhlmann 
+sees 
+dangerous 
+
+similarities 
+between 
+Sessions’ 
+
+platform and the extreme viewpoints 
+
+vocalized and made prominent by the 
+
+Trump campaign.
+
+“The 
+confirmation 
+of 
+Senator 
+
+Sessions 
+as 
+Attorney 
+General 
+
+would 
+undermine 
+immigration 
+
+reform, 
+criminal 
+justice 
+reform, 
+
+environmental protection and civil 
+
+liberties,” Uhlmann said. “That is 
+
+no accident. Senator Sessions will 
+
+provide a prominent voice to the most 
+
+extreme views in the United States and 
+
+undermine the diversity, inclusion and 
+
+commitment to equality under the law 
+
+that makes our country great.”
+
+Someone being 
+appointed who 
+has been accused 
+of being racist is 
+offensive to the 
+American people
+
+HEALTH CARE
+From Page 1
+
+Center Director A. Mark Fendrick said 
+
+V-BID aims to change the national 
+
+conversation on health care, from how 
+
+much money is spent to how well it is 
+
+spent.
+
+“The fact that you pay the same 
+
+amount out of pocket for every drug 
+
+— whether it be a life-saving drug or 
+
+a drug that makes your toenail fungus 
+
+go away — makes no sense to me,” 
+
+Fendrick said.
+
+In a study conducted by V-BID Health 
+
+and the American Health Policy Health 
+
+Institutewhich reviewed the spending 
+
+of 35 health insurance companies, the 
+
+results showed that $2 billion of the 
+
+$10 billion in net funds were allocated 
+
+for wasteful and unnecessary health 
+
+care spending. The United States 
+
+spends more per capita than any other 
+
+developed nation in the Organization 
+
+for 
+Economic 
+Co-operation 
+and 
+
+Development 
+Countries, 
+yet 
+there 
+
+are inefficiencies and disparities that 
+
+V-BID aims to address.
+
+Fendrick has been on the forefront 
+
+of this effort, working to bring reform 
+
+to the U.S. health care system. In 
+
+February, Fendrick testified before 
+
+the U.S. Senate Committee on Armed 
+
+Services Subcommittee on Personnel, 
+
+explaining the principles and benefits 
+
+of implementing V-BID.
+
+Fendrick said it is rare for legislation, 
+
+especially health care legislation, to 
+
+receive bipartisan support.
+
+“I brought an idea to the Senate 
+
+Armed 
+Services 
+Committee 
+that 
+
+ultimately, 
+with 
+no 
+lobbying 
+or 
+
+arguing, became law, which hardly 
+
+ever happens,” Fendrick said. “We feel 
+
+incredibly fortunate that we are one of 
+
+the very few health care reform ideas 
+
+with bipartisan political support.”
+
+The pilot of V-BID will involve 
+
+military individuals and families who 
+
+are enrolled in the TRICARE program. 
+
+The 
+NDAA 
+states 
+the 
+TRICARE 
+
+program will provide high-quality 
+
+medications and providers to covered 
+
+beneficiaries while reducing the price 
+
+of care.
+
+Since the creation of the V-BID 
+
+Center, a number of initiatives that are 
+
+not limited to health care reform for 
+
+military members and their families 
+
+have been developed. The center also 
+
+works to increase V-BID outreach to 
+
+state Medicaid or Medicare plans, state 
+
+employee health plans and specialty 
+
+pharmaceuticals.
+
+The future of V-BID is unknown, as 
+
+the success of value-based insurance 
+
+will be seen in the results of V-BID in 
+
+the TRICARE and Medicare Advantage 
+
+plans. V-BID has received bipartisan 
+
+support in the United States Senate and 
+
+House of Representatives, as insurance 
+
+companies shift from delivering and 
+
+financing fee-for-service care to value-
+
+based care.
+
+Already, 
+value-based 
+insurance 
+
+design has been tested in a number of 
+
+health care plans and is included in 
+
+section 2713 of the Affordable Care Act. 
+
+The Centers for Medicare and Medicaid 
+
+Services report there are 11 Medicare 
+
+Advantage plans participating in the 
+
+Medicare Advantage V-BID Model.
+
+Individuals who are enrolled in 
+
+Medicare 
+Advantage 
+plans 
+with 
+
+specific 
+chronic 
+diseases 
+receive 
+
+reduced cost-sharing and may be able 
+
+to receive additional supplemental 
+
+services.
+
+Fendrick said both the TRICARE 
+
+pilot and Medicare pilot will provide 
+
+information about the potential of 
+
+value-based insurance design.
+
+“The goods news about both the 
+
+TRICARE pilot and Medicare pilot is 
+
+that if both evaluations are shown to 
+
+improve quality of care, improve the 
+
+patient experience and temper health 
+
+care cost growth,” Fendrick said. “The 
+
+V-BID principles can be expanded to all 
+
+50 states for Medicare and throughout 
+
+the TRICARE program without any 
+
+further regulatory intervention”.
+
+LSA senior Madeleine Peters works 
+
+at the University’s Center for V-BID 
+
+and hopes to pursue a career in health 
+
+care policy. Peters said her time at 
+
+the center has been invaluable to 
+
+her and provided her with a greater 
+
+understanding of the U.S. health care 
+
+system.
+
+“My time at the V-BID Center has 
+
+opened my eyes to the world of health 
+
+care policy and how there is so much 
+
+that can be changed,” Peters said.
+
+Peters 
+traveled 
+to 
+Washington, 
+
+D.C. to sit in on briefings at the U.S. 
+
+House of Representatives and Senate 
+
+that discussed the importance of 
+
+value-based insurance and proposed 
+
+legislation. 
+Peters 
+said 
+that 
+her 
+
+experience with V-BID has fostered 
+
+her interest and passion in working to 
+
+reform health care.
+
+“During my time working at V-BID, 
+
+I 
+have 
+expanded 
+my 
+knowledge 
+
+of the health care system and the 
+
+opportunities for improvement,” Peters 
+
+said. “Working at the V-BID Center 
+
+has also taught me the importance 
+
+of educating others, advocating for a 
+
+change, upholding connections and 
+
+meeting deadlines.”
+
+The participants of TRICARE make 
+
+up just one population V-BID can reach 
+
+as the center strives to increase access 
+
+to millions of Americans. Almost 10 
+
+million active and retired military 
+
+personnel and their dependents on 
+
+TRICARE will now be able to opt for 
+
+value-based insurance.
+
+Fendrick said it is the Center for 
+
+V-BID’s mission to give people the 
+
+option to enroll in a health plan with 
+
+V-BID principles and that expansion to 
+
+TRICARE is a major achievement for 
+
+the center.
+
+“I am honored to have any role in 
+
+making the health care for the folks 
+
+who serve our country better and more 
+
+efficient from a financial standpoint,” 
+
+Fendrick said.
+
+The fact that you pay 
+the same amount out 
+of pocket for every 
+drug — whether it 
+be a life-saving drug 
+or a drug that makes 
+your toenail fungus go 
+
+away — makes no 
+
+sense to me 
+
+
+I
+
+t has been posited that were 
+it not for the Democratic 
+National 
+Committee’s 
+
+tactics and deep-rooted support 
+for 
+Hillary 
+Clinton, 
+Bernie 
+
+Sanders would have been the 
+blue candidate and would have 
+been victorious over President-
+elect Donald Trump. Though 
+he, like Trump, would have been 
+a viable “change candidate” in 
+his party and shared similarly 
+nationalistic views, it can be 
+shown that a Sanders presidential 
+campaign would have failed to 
+gain the necessary support to 
+defeat Trump. Sanders ultimately 
+would have faltered, because 
+of the both characteristics that 
+distinguished him from Clinton 
+and their shared similarities. 
+
+Sanders was unlike Clinton 
+
+in 
+terms 
+of 
+his 
+pervasive 
+
+economic view. Sanders is a 
+Democratic socialist and would 
+have been far too liberal to win a 
+national election. He believes in 
+universal healthcare, free public 
+college tuition and a massive 
+redistribution of wealth. Aside 
+from 
+college-educated 
+voters 
+
+— whose votes didn’t swing the 
+election in Clinton’s favor — my 
+sense from the election results is 
+that a sizable number of voters, 
+independent of party, rejected a 
+Democratic socialist paradigm 
+for the country. 
+
+While 
+many 
+millennials 
+
+supported Sanders, it must be 
+known that their turnout is 
+historically low. As National 
+Public Radio wrote about the 
+2012 
+election, 
+“millennials 
+
+continue to have the lowest 
+voter turnout of any age group. 
+Only about 46 percent voted in 
+the last presidential election; 
+compared to 72 percent of the 
+Silent Generation, who habitually 
+punch above their weight.” Thus, 
+despite their support, there was 
+no guarantee that they would 
+have made it to the polls. 
+
+Moreover, voters in the primary 
+
+elections are far more radical 
+than those in the general election. 
+Thus, there is no guarantee that 
+Sanders’s radical platform would 
+have been compatible with the 
+electorate in the bigger picture. 
+Since the primary vote would 
+be 
+unreliable 
+in 
+calculating 
+
+Sanders’s chances of winning 
+the general election, we must 
+turn to polls as the last resource. 
+However, it must be known that 
+polling can be a flawed tool — as 
+evidenced by this election. While 
+the Gravis Marketing poll shows 
+that Sanders would have won 
+56 percent of the vote against 
+Trump, it cannot be taken as 
+truth. The so-called “shy Trump” 
+voter effect might still manifest 
+itself in this poll, thus proving 
+
+it to be inaccurate. While a “shy 
+Bernie” effect might be in play, 
+it would prove to be in far fewer 
+numbers because of Trump’s even 
+more radical and taboo nature.
+
+Sanders was similar to Clinton 
+
+in that he would have been the 
+Democratic 
+Party’s 
+candidate 
+
+— a fact that would similarly 
+work to his demise. Though an 
+Independent candidate himself, 
+he would have relied on the DNC 
+for support during a presidential 
+campaign 
+and 
+would 
+have 
+
+advanced a Democratic platform 
+and narrative. Comparisons show 
+that Clinton and Sanders shared 
+more views regarding policy than 
+Trump, but Sanders was even 
+more liberal than Clinton. Since 
+the country elected Trump, it 
+follows then that Sanders’s leftist 
+views would not have made him 
+more competitive than Clinton. 
+
+An 
+electoral 
+victory 
+for 
+
+Sanders might have required 
+victories 
+in 
+Pennsylvania, 
+
+Michigan, Florida and Wisconsin, 
+which Clinton was unable to 
+achieve. As the Cook report 
+revealed, Clinton would have 
+prevailed in the Electoral College 
+vote had she won 109,000 more 
+votes in Michigan, Wisconsin 
+and Pennsylvania, and therefore 
+she would have been elected 
+president. 
+More 
+importantly, 
+
+if she’d swung Florida and 
+Michigan by about 128,000 votes, 
+Clinton might have emerged 
+victorious save for a relatively 
+small number of ballots. Out of a 
+pool of 128 million votes, 128,000 
+is one-tenth of one percent — a 
+rounding error.
+
+It is a tremendous leap to 
+
+suggest that this slim margin 
+would 
+have 
+been 
+further 
+
+narrowed if Sanders had run. As 
+evidenced by a chart provided 
+by Mother Jones, Sanders is 
+the most “liberal” candidate to 
+ever run for the office. Much 
+like Clinton, he too would have 
+failed to get the demographics of 
+moderate Republicans or women. 
+
+Additionally, 
+Sanders 
+
+might 
+have 
+made 
+similar 
+
+miscalculations regarding the 
+morals of Trump supporters 
+and Trump’s appeal outside 
+metropolitan areas, as Clinton 
+did. In essence, his comments 
+that Trump and some of his 
+supporters 
+are 
+misogynistic, 
+
+racist, etc. would not have fared 
+well. In an interview with The 
+Washington Post, Kathy Cramer 
+examined the mindset of many 
+Wisconsinites. 
+She 
+stated, 
+
+“people felt that they weren’t 
+getting respect. They would say: 
+The real kicker is that people 
+in the city don’t understand 
+us. 
+They 
+don’t 
+understand 
+
+what rural life is like, what’s 
+important to us and what 
+challenges that we’re facing. 
+They think we’re a bunch of 
+redneck racists.” 
+
+While Trump and Sanders 
+
+ran similar campaigns in Rust 
+Belt states, it can be speculated 
+that this rural demographic 
+would not have liked being 
+labeled as racists by Sanders. 
+This is ultimately echoed in his 
+tweets stating, “I do not believe 
+that most of the people who 
+are thinking about voting for 
+Mr. Trump are racist or sexist 
+… But some are.” While this 
+fundamentally 
+comments 
+on 
+
+a minority of people, it is still 
+a generalization nonetheless. 
+After all, Clinton’s comment 
+that “you could put half of 
+Trump’s supporters into what 
+I call the basket of deplorables” 
+did not fare particularly well 
+for her. 
+
+It also may be speculated that 
+
+Sanders’s religion could have 
+proved to be a liability in the 
+general election. Sandy Maisel, 
+a professor at Colby College who 
+tracks the status of Jews in the 
+United States, has stated that 
+“in some ways, it’s a non-story.” 
+According to the Pew Research 
+Center, studies show that 8 in 10 
+people say their votes wouldn’t 
+be affected upon finding out a 
+candidate is Jewish. However, 
+while Sanders identifies as a 
+secular 
+Jew 
+without 
+strong 
+
+organizational ties, this year 
+saw a particularly heightened 
+political 
+climate 
+marked 
+by 
+
+ethnocentrism. 
+As 
+mentioned 
+
+above, Trump, along with a 
+great deal of his support base, 
+was 
+labeled 
+as 
+xenophobic, 
+
+racist and anti-Semitic, among 
+other things. Instances of these 
+biases manifested themselves on 
+numerous occasions at rallies. For 
+example, at an Oct. 29 campaign 
+event in Phoenix, a Trump 
+supporter 
+was 
+condemned 
+
+after 
+chanting 
+“Jew-S-A!” 
+
+Similarly, according to recent 
+FBI numbers, more than 57 
+percent of the 1,140 documented 
+anti-religious hate crimes in 
+2014 were spurred on by anti-
+Semitism. Though some might 
+state that anti-Jewish bias is 
+not a value the majority of the 
+electorate holds, it might also 
+be said that it would have been 
+brought to life because of some of 
+Trump’s supporters. 
+
+Thus, 
+while 
+it 
+is 
+merely 
+
+speculative, 
+evidence 
+seems 
+
+to suggest that Bernie Sanders 
+would not have beaten Donald 
+Trump had he been on the 
+Democratic ticket this November. 
+In short, while the electorate 
+was 
+looking 
+for 
+change, 
+
+Bernie’s 
+platform 
+would 
+
+have 
+been 
+too 
+liberal. 
+In 
+
+contemporary terms, Sanders 
+would have felt the “burn” if he 
+had run against Trump. 
+
+T
+
+here’s 
+often 
+a 
+sense 
+
+among educated, liberal 
+elites that there just aren’t 
+
+enough of us. If only everyone went 
+to college, then we could really get 
+at solving the world’s 
+problems. 
+If 
+only 
+
+those 
+people 
+read 
+
+“The New Jim Crow,” 
+then 
+they 
+would 
+
+understand 
+racial 
+
+segregation and be 
+on our side. This elite 
+mindset imagines a 
+world where societal 
+dysfunctions 
+like 
+
+bigotry and apathy 
+can be cured by some 
+good books and four years of 
+instruction. 
+
+This is true to a certain extent. 
+
+Many studies have found that 
+going to college diminishes racial 
+prejudice. While no one thinks 
+that college is a cure-all, popular 
+imagination 
+contends 
+that 
+
+education and a populace having 
+more knowledge get everyone on 
+the same page.
+
+Think about something as 
+
+“mundane” as people’s attitudes 
+toward global warming. Belief 
+in 
+global 
+warming 
+should 
+
+theoretically 
+be 
+universally 
+
+improved 
+upon 
+by 
+a 
+good 
+
+science education. The typical 
+understanding of that dynamic is 
+that global warming is happening 
+and those who don’t believe in it 
+just don’t know enough (or are 
+corporate shills). Unfortunately, 
+this isn’t the case.
+
+In a recent study, Yale professor 
+
+Dan Kahan recorded respondents’ 
+political beliefs, measured their 
+“science intelligence” (a metric 
+recording 
+of 
+their 
+scientific 
+
+knowledge 
+and 
+quantitative 
+
+reasoning abilities) and whether or 
+not they believed that “there is solid 
+evidence of recent global warming 
+due mostly to human activity such 
+as burning fossil fuels.” He found 
+that the more political knowledge 
+someone had, the more likely they 
+
+were to align with the party line 
+regarding global warming. That 
+is, conservatives with a strong 
+understanding of science are more 
+likely to believe global warming 
+
+isn’t happening, while 
+scientifically 
+literate 
+
+liberals believe global 
+warming 
+at 
+much 
+
+higher 
+rates 
+than 
+
+their 
+less-educated 
+
+counterparts. 
+
+Almost a year ago, I 
+
+wrote about a similar 
+phenomenon 
+that 
+
+caused 
+partisans 
+to 
+
+seek out information 
+that confirmed their 
+
+existing opinions. But this goes 
+beyond that. People with strong 
+identities 
+will 
+actively 
+reject 
+
+information that doesn’t confirm 
+their biases. Additionally, people 
+with strong partisan identities form 
+partisan opinions more quickly 
+and more often when presented 
+with 
+unfamiliar 
+scientific 
+
+information. For instance, giving a 
+set of Republicans and Democrats 
+with little agricultural knowledge 
+facts about the health risks of 
+genetically modified organisms 
+and telling them that Democrats 
+are more likely to believe that 
+GMOs are harmful will cause both 
+groups to join the party line. 
+
+This is particularly troubling 
+
+given the increasingly polarized 
+state of American politics. A lot has 
+been made of Americans living in 
+a “post-fact” reality where facts no 
+longer carry persuasive currency. 
+This can be true, but it seems as 
+though even having those facts 
+doesn’t bring our society closer 
+together. While Kahan’s study 
+focused on climate change, we 
+can expect this dynamic exist 
+in all sorts of domains. Welfare 
+reform, social justice and news 
+coverage are all subject to this bias. 
+Suddenly, it seems as though more 
+education and more facts won’t 
+help bridge the gaps in our society.
+
+But there is hope. In another 
+
+study, Kahan found that people 
+with high levels of intellectual 
+curiosity are willing to buck 
+their 
+party’s 
+consensus 
+and 
+
+accept science’s consensus. So, 
+it is possible to fix this rampant 
+bias toward contorting facts; our 
+society needs to reinvigorate a 
+desire to learn and a belief that 
+learning starts, not stops, at the 
+classroom’s door. We can look 
+within our community for ways to 
+do this. The University of Michigan 
+wants to inspire leadership, but 
+there needs to be more. Teaching 
+students to be lifelong learners 
+is imperative. I think there are a 
+lot of ways to inspire this sort of 
+intellectual curiosity. 
+
+As a University, we can move 
+
+away from tests and research 
+papers as the primary ways of 
+measuring a student’s mastery. I 
+appreciate that with large weeder 
+courses like Econ 101, there are few 
+opportunities to assess students’ 
+understanding outside tests, but 
+there are many seminar-style 
+courses where the final project 
+could draw directly from other 
+disciplines. Shakespeare classes 
+could combine literary analysis 
+with interviews with scholars; 
+math courses could challenge 
+students to find ways to take the 
+techniques they’ve learned in 
+class and apply them in their own 
+lives. Let students do independent 
+projects to round out courses 
+rather than following a narrow set 
+of guidelines.
+
+This paradigmatic change is a 
+
+large undertaking, but the rewards 
+are well worth it. Universities have 
+an obligation to our civic society 
+and creating students whose love 
+of learning continues long after 
+graduation only serves to better 
+the lives of everyone around them. 
+Let’s try to be a model for the rest 
+of society by being the learners and 
+the best.
+
+Opinion
+The Michigan Daily — michigandaily.com
+4 — Friday, January 6, 2017
+
+More unity, less division
+
+IBRAHIM IJAZ | COLUMN
+
+I
+
+n Mark Zuckerberg’s annual 
+“year in review” video, one 
+quote stood out to me: “Even 
+
+when we seemed at our most 
+divided, we were still connected.” 
+There’s a dynamic presented 
+here between connectivity and 
+divisiveness. 
+As 
+our 
+society 
+
+is 
+quickly 
+adopting 
+ultra-
+
+connectivity, are we losing our 
+ability to be unified? As we continue 
+down this path of increasing 
+technological proximity, we have 
+a responsibility to work toward 
+more unity. The advent of the new 
+year is a lot like going to the barber 
+for a long overdue haircut. We 
+need to reflect on what made 2016 
+a year of widespread disunity in 
+order to get a fresh 2017 cut.
+
+Perhaps 
+our 
+issues 
+with 
+
+unity lie in our obsession with 
+labels. Last month, Tomi Lahren 
+embodied my issues with labeling 
+during an interview with Trevor 
+Noah. Noah asked Lahren if she 
+was a conservative, to which she 
+responded: “I do … I mean I’m a 
+millennial so I really don’t like 
+labels.” The sheer irony involved 
+in Lahren dropping one label for 
+another aside, the picking of one’s 
+own labels hints at a greater issue: 
+group attribution. For example, 
+I’m a Muslim, but that doesn’t 
+mean that all of my opinions are 
+the opinions of Islam or that my 
+actions represent the whole faith. 
+While I would like to think my 
+actions reflect Islam, they don’t. 
+They simply reflect the perception 
+I have of Islam.
+
+However, the very nature of 
+
+labels convinces us that the label 
+holder is a representative, an 
+ambassador of sorts. Why does 
+this matter? Critiques lodged at 
+groups, whether racial, religious 
+or political, often stem from the 
+actions of a few of the group’s 
+members. As recent graduate 
+Areeba Jibril was quoted in a flyer 
+
+for the University of Michigan’s 
+Diversity, Equity & Inclusion 
+program, “Diversity is speaking for 
+myself without being seen as the 
+spokesperson for all individuals 
+who share my identities.” 
+
+It’s 
+not 
+that 
+labels 
+aren’t 
+
+necessary in society. In many 
+cases, they benefit individuals, 
+especially those who are a part 
+of 
+marginalized 
+groups, 
+like 
+
+with increased efforts to admit 
+non-white students into higher 
+education programs. But most of 
+the time, labeling’s negative side 
+effects, like group attribution 
+and blame redirection, are just 
+plainly counterproductive. Take 
+ISIS as a prime example. Instead 
+of focusing on the political roots 
+of the terrorist group or on the 
+poverty many of its supporters 
+face in Iraq and Syria, many falsely 
+believe the group represents Islam. 
+Even by continuing to be labeled as 
+the “Islamic State,” their status as 
+representatives of the religion is 
+further validated. 
+
+The same goes for the debate 
+
+about calling radical extremism 
+Islamic extremism. As President 
+Barack Obama said, “We must 
+never accept the premise that 
+they put forward because it is a 
+lie. Nor should we grant these 
+terrorists the religious legitimacy 
+that they seek.” As a result, we 
+have not yet learned about their 
+origins in a way that will affect 
+future foreign policy. Labeling, in 
+a sense, is a cop out. It allows us 
+to say, “Well, they’re a part of that 
+group, and that group has some 
+intrinsic problems which we can’t 
+do anything about.”
+
+We saw this right after the 2016 
+
+election as well. Many supporters 
+of Hillary Clinton described the 
+entire red portion of the electoral 
+map as racist, sexist or bigoted. 
+Labeling all Donald Trump voters 
+as illogical and narrow-minded 
+does nothing but ignore the 
+real issues at hand. A common 
+sentiment 
+among 
+those 
+who 
+
+voted for the president-elect was 
+a feeling of exclusion from the 
+political climate for the eight years 
+since President Obama took office. 
+The problems they see with the 
+United States, like job-access and 
+untrustworthiness of government, 
+should concern all Americans, but 
+when Democrats stop listening 
+before Republicans open their 
+mouths, then the country stands 
+to suffer.
+
+When 
+we 
+label, 
+we’re 
+
+automatically categorizing based on 
+these surface level characteristics. 
+But when we dig deeper, we see 
+that people share a lot of the same 
+fundamental morals, goals and 
+struggles. If we stay on this path 
+of letting labels be the end of the 
+conversation, then we won’t be able 
+to solve our problems. Labeling is 
+counterproductive, keeping the two 
+sides of the aisle far from each other 
+and strengthening the disunified 
+forces at large.
+
+Martin Luther King Jr. dreamed 
+
+of a nation devoid of this disuniting 
+labeling, where we are judged by 
+the content of our character rather 
+than the color of our skin. And we, 
+as a society, need to unify now more 
+than ever. A recent Washington 
+Post article explains this Congress 
+is more polarized than it has been 
+in over 100 years. When we’re 
+polarized, we find fewer reasons 
+to listen to each other and fail to 
+progress as a result. 
+
+So as we walk in with our messy 
+
+haircuts to the barber shop this 
+new year, let’s consider our options. 
+We can vaguely hope for a good 
+outcome and squirm in our chair 
+as the barber botches the hairdo, 
+or we can confidently set limits and 
+guidelines for our hairstylist and 
+leave looking fresh for 2017. Let’s 
+come together in 2017 and limit 
+our divisive labeling while opening 
+our ears to further discourse and 
+conversation.
+
+REBECCA LERNER
+
+Managing Editor
+
+420 Maynard St. 
+
+Ann Arbor, MI 48109
+
+ tothedaily@michigandaily.com
+
+Edited and managed by students at the University of Michigan since 1890.
+
+EMMA KINERY
+
+Editor in Chief
+
+ANNA POLUMBO-LEVY 
+
+and REBECCA TARNOPOL 
+
+Editorial Page Editors
+
+Unsigned editorials reflect the official position of the Daily’s Editorial Board. 
+
+All other signed articles and illustrations represent solely the views of their authors.
+
+Carolyn Ayaub
+Caitlin Heenan
+Jeremy Kaplan
+
+Max Lubell
+
+Alexis Megdanoff
+
+Madeline Nowicki
+Anna Polumbo-Levy 
+
+Jason Rowland
+
+Ali Safawi
+
+Kevin Sweitzer
+
+Rebecca Tarnopol
+
+Ashley Tjhung
+
+Stephanie Trierweiler
+
+EDITORIAL BOARD MEMBERS
+
+Ibrahim Ijaz can be reached at 
+
+iijaz@umich.edu.
+
+Learning between the lines
+
+ROLAND DAVIDSON | COLUMN
+
+ROLAND
+
+DAVIDSON
+
+Bernie would have also felt the burn
+
+NICHOLAS TOMAINO | COLUMN
+
+Nicholas Tomaino can be reached at 
+
+ntomaino@umich.edu.
+
+MICHELLE SHENG | CONTACT CARTOONIST AT SHENGMI@UMICH.EDU
+
+Roland Davidson can be reached at 
+
+mhenryda@umich.edu.
+
+NICHOLAS TOMAINO
+
+IBRAHIM IJAZ
+
+CONTRIBUTE TO THE CONVERSATION
+
+Readers are encouraged to submit letters to the editor and op-eds. 
+Letters should be fewer than 300 words while op-eds should be 550 
+to 850 words. Send the writer’s full name and University affiliation to 
+
+tothedaily@michigandaily.com.
+
+
+TV REVIEW
+
+It’s one of the few absolutes in film: 
+
+there has never been a good video 
+game movie. In the 23 years since 
+“Super Mario Bros.” was released to 
+resounding vitriol, not one film in 
+the genre has crossed the line into 
+even mediocre. But as “Assassin’s 
+Creed” approached, 
+it 
+seemed 
+like 
+it 
+
+would be the one 
+to break the mold. 
+Justin Kurzel, who 
+helmed 
+last 
+year’s 
+
+visually 
+astounding 
+
+adaptation 
+of 
+
+“Macbeth,” 
+signed 
+
+on 
+to 
+direct. 
+He 
+
+brought 
+with 
+him 
+
+Michael 
+Fassbender 
+(“Inglourious 
+
+Basterds”) 
+and 
+Marion 
+Cotillard 
+
+(“Inception”), two actors who not 
+only add credibility to their chosen 
+projects, but who have done great 
+work in genre films in the past. All 
+the pieces were in place for a great 
+video game movie to finally happen, 
+but somehow everything still went 
+wrong.
+
+“Assassin’s 
+Creed” 
+opens 
+by 
+
+introducing 
+the 
+audience 
+to 
+its 
+
+sympathetic, likeable main character, 
+Fassbender’s 
+convicted 
+murderer 
+
+Callum Lynch. However, in the rush 
+to get to more scenes of Cotillard and 
+a sadly underused Jeremy Irons (“The 
+Lion 
+King”) 
+vomiting 
+exposition 
+
+everywhere, the script forgets to 
+give Lynch any humanity or depth 
+whatsoever. The audience is stuck 
+with an unappealing, uninteresting 
+character.
+
+After 
+what 
+feels 
+like 
+an 
+
+interminable amount of time, Lynch is 
+
+finally put into the Animus, 
+a virtual reality machine, 
+to live out the memories of 
+his ancestors. This is what 
+fans of the series have been 
+waiting years to see. The 
+idea of seeing it on screen 
+is likely what brought the 
+vast majority of viewers 
+to the theater, and yet it 
+is possibly the worst part 
+
+of the whole ordeal. To be sure, the 
+scenes in the present are boring and 
+far too long, but at least they were 
+competently made. The scenes in 
+15th century Barcelona, a city which 
+was apparently constantly cloaked in 
+a CGI sandstorm, are so poorly put 
+together that it’s mind-boggling.
+
+Most of these scenes are made 
+
+up of a series of action sequences in 
+order to give the plot some illusion of 
+momentum. To be fair, there is some 
+fantastic stunt work on display here, 
+but it’s ruined by some of the most 
+
+atrocious editing of the year. As it 
+turns out, “Assassin’s Creed” works 
+best when looked at as a cautionary 
+tale about the importance of editing. 
+The constant cutting back and forth 
+between something that might be 
+considered 
+exciting 
+in 
+the 
+past 
+
+and Callum miming his ancestor’s 
+actions in the present results in 
+some seriously laughable imagery. 
+Even when the film stays in one time 
+period for more than three seconds, it 
+still cuts between shots and locations 
+so often that there’s no tension, no 
+intensity, no excitement. There’s just 
+incomprehensible “action shot” after 
+incomprehensible “action shot” and 
+an Academy Award-nominated actor 
+miming said action shots. It would be 
+utterly hilarious if it wasn’t so damn 
+infuriating.
+
+Finally, after another hour of 
+
+overwrought exposition scenes and 
+mystifyingly subpar action scenes, 
+“Assassin’s Creed” ends with a rushed 
+climax and resolution that bait a 
+sequel that, God willing, will never 
+see the light of day. It’s awful, but by 
+that point, it’s to be expected. This 
+was supposed to be the film to finally 
+change the tide of junky video game 
+movies. Instead, it became a part of 
+the epidemic itself, perhaps the final 
+nail in the coffin for video game fans 
+who dare to hope.
+
+The Michigan Daily — michigandaily.com
+Arts
+Friday, January 6, 2017 — 5
+
+JEREMIAH VANDERHELM
+
+Daily Arts Writer
+
+“Assassin’s Creed” an unmitigated mess
+
+Video game adaptation fails to meet even the slightest standards of success
+
+Jacqueline Kennedy’s pink Chanel 
+
+suit and pillbox hat may be the most 
+famous outfit in recent history. It’s 
+almost like the Coke logo or Marilyn 
+Monroe’s face — a quintessentially 
+American image burned into collective 
+memory. 
+Like 
+
+most 
+symbols 
+of 
+
+classic 
+Americana, 
+
+it 
+was 
+gruesomely 
+
+distorted. When her 
+husband was shot, 
+Jackie 
+refused 
+to 
+
+clean the blood off 
+her 
+perfect 
+pink 
+
+suit, and reportedly 
+regretted 
+washing 
+
+it off her face and 
+hands. “I want them 
+to see what they’ve done to Jack,” she 
+said.
+
+This is where “Jackie” begins. 
+
+Directed by Pablo Larraín (“Neruda”) 
+and starring Natalie Portman (“A 
+Tale of Love and Darkness”), the film 
+is an exploration of the First Lady’s 
+reaction and response to her husband’s 
+assassination. “Jackie” is the latest 
+in the recent trend of biopics such as 
+“The Social Network,” “Lincoln” or 
+“The Wolf of Wall Street” that turn 
+historical 
+figures 
+into 
+traditional 
+
+fictional characters instead of merely 
+pointing to the significant moments of 
+their lives.
+
+There are two Jacqueline Kennedys 
+
+in “Jackie.” There’s the poised and regal 
+woman who painstakingly redecorated 
+
+the White House and was a style icon 
+to millions. And then there’s the Jackie 
+behind the camera, who speaks in a 
+register about an octave lower than 
+the first: tough, determined and made 
+of absolute steel. It’s the second Jackie 
+the audience sees for a majority of the 
+film. We follow her as she arranges 
+the funeral and moves out of the 
+White House, all while confronting 
+
+the hungry press, the all-
+too-eager Lyndon Johnson 
+and the task of determining 
+how her husband will be 
+remembered.
+
+The film is a deeply 
+
+personal one. Tight close-
+up shots and shaky camera 
+work 
+dominate 
+as 
+the 
+
+audience is given entry into 
+some of the most intimate 
+moments 
+of 
+Jackie’s 
+
+life. This allows Natalie 
+
+Portman’s performance to shine as it 
+takes center stage, but unfortunately 
+relegates all the other characters 
+and conflicts to the background. The 
+movie is hyper-focused on Jackie, both 
+figuratively in terms of its story, and 
+literally. She is in every scene, and the 
+camera follows her closely. The effect 
+is unsettling, but maybe not in the way 
+the filmmakers intended.
+
+“Jackie” was clearly meant to be 
+
+an intensely affecting film. We’re 
+thrown into the psychology of this 
+very interesting person in order to 
+see the world the way she saw it 
+during that awful week following the 
+assassination. All of the elements are 
+technically in place for the audience 
+to be fully absorbed and ready to 
+
+empathize with Jackie. The score 
+by Mica Levi (“Under the Skin”) is 
+hypnotic, Portman’s performance is 
+subtle but powerful, and the camera 
+work is intimate, to say the least. And 
+yet, none of this comes together.
+
+The story just isn’t quite functional, 
+
+meaning that none of the rules of 
+drama that would make it actually 
+resonate are put into place. None 
+of the choices the character makes 
+are contingent on each other. Plot 
+elements just sort of happen, with no 
+build or release of tension. Instead of 
+being a story built on cause and effect, 
+it’s a story based off of the principle 
+of “and now this is happening.” And 
+that’s just no way to invest viewers in a 
+narrative. It doesn’t matter how pretty 
+the score or how perfect Portman’s 
+accent. It also doesn’t matter that most 
+of the plot points of the film happened 
+in real life. We need actual character 
+motivation 
+and 
+good 
+dramatic 
+
+storytelling to register emotionally 
+what is happening.
+
+“Jackie” looks great. Its period 
+
+setting is visually perfect, the score is 
+unnerving, it’s filmed in a seemingly 
+artful way and the acting is high 
+quality. But underneath the glossy 
+surface, it’s a hollow shell of a story. 
+The real Jacqueline Kennedy, both the 
+public and private versions, deserved 
+far better than this. She too had a 
+pretty surface that looked nice on 
+camera. Unlike her biopic, however, 
+the real Kennedy had depth, intention 
+and 
+layers. 
+For 
+this, 
+Jacqueline 
+
+Kennedy’s legacy will endure. “Jackie” 
+will be lucky if it makes it past the next 
+Oscar season. 
+
+TV REVIEW
+
+“Sherlock” mostly works
+
+After a hiatus that lasted long 
+
+enough for some “Sherlock” 
+fans to graduate high school 
+and forget about the show, the 
+modern mystery solver is back. 
+The 
+premiere 
+of 
+
+the long awaited 
+Season 4, “The Six 
+Thatchers,” began 
+with 
+the 
+funny 
+
+self-proclaimed 
+“sociopath” tweet-
+ing on his phone 
+despite 
+being 
+in 
+
+the middle of a 
+Really 
+Important 
+
+Secret 
+Meeting, 
+
+lulling viewers into 
+a relaxed amuse-
+ment, tinged with anticipation. 
+This didn’t last long: the plot 
+twist of the final 20 minutes 
+left me — and most of Tum-
+blr fandom, where many of the 
+show’s fans reside — alternating 
+between a confused daze and 
+suspicions that there might be 
+genius somewhere in it. I happen 
+to lean towards the former.
+
+The arc of the mystery in “The 
+
+Six 
+Thatchers” 
+falls 
+slightly 
+
+short, deriving more of its ener-
+gy from the action than from a 
+clever framework of the case and 
+the clue-by-clue sleuthing, one of 
+the main draws of the first two 
+seasons of the show. Sherlock 
+(Benedict Cumberbatch, “The 
+Imitation Game”) first solves a 
+mysterious death that Watson 
+(Martin Freeman, “The Hob-
+bit: The Desolation of Smaug”) 
+later blogs about, of course, but 
+one of the clues from that case 
+provides the link to the next — 
+which has something to do with 
+Mary (Amanda Abbington, “Mr. 
+Selfridge”), Watson’s wife. Once 
+again, we are plunged into con-
+fusion about whether to trust 
+Mary, who runs away across the 
+world, purportedly to protect her 
+husband and daughter from her 
+previous identity and the dangers 
+that come with it.
+
+Of course, Sherlock (and Wat-
+
+son) find her — but so does Mary’s 
+would-be assassin, a previous co-
+worker in her line of secret agent 
+work. While he is unsuccessful 
+in his mission there, in the end 
+of the episode there is a shock-
+ing death; but it feels, somehow, 
+
+ungenuine. Either 
+a 
+major 
+charac-
+
+ter has just been 
+killed off in a very 
+hasty way, or in the 
+next two episodes 
+there’s going to be 
+some 
+miraculous 
+
+return from death 
+— again. One would 
+hope that the plot 
+maneuver 
+would 
+
+only be employed 
+once, though there 
+
+are also allusions to another vil-
+lain who was killed in Season 
+3 maybe making a return. The 
+hints read neither as red herrings 
+nor feasible plot points, making 
+for a disjointed episode.
+
+Throughout “The Six Thatch-
+
+ers,” there are moments of humor: 
+Sherlock trying to explain things 
+to a baby, Sherlock outsmart-
+ing people and being rude about 
+it without meaning to, Sherlock 
+choosing Mary and a dog over 
+Watson as a sleuthing partner 
+for an expedition, and of course 
+the bitter banter between Sher-
+lock and his brother. But though 
+those feel familiar and comfort-
+ing, they’re not enough to carry 
+the episode. The show itself is a 
+complex modern mystery, with 
+weaving and dodging parts; the 
+pacing — and the protagonist — 
+can make you feel foolish if you 
+can’t keep up. But despite that, 
+even if the confusing elements 
+were 
+confusing 
+intentionally, 
+
+the overall episode doesn’t quite 
+live up to the hype that a three-
+year hiatus inevitably creates.
+
+Hopefully the next episode 
+
+reconciles Sherlock and Watson, 
+because while conflict makes for 
+good TV, shots of Benedict Cum-
+berbatch being sad and alone 
+don’t.
+
+B
+
+“Sherlock”
+
+Season 4
+
+“The Six Thatchers”
+
+BBC
+
+SOPHIA KAUFMAN
+
+Book Review Editor
+ASIF BECHER
+Daily Arts Writer
+
+B-
+
+“Jackie”
+
+Fox Searchlight 
+
+Pictures
+
+Michigan Theater
+
+“Jackie” baits in its beauty and mediocrity
+
+Pablo Larraín’s visually arresting drama is a sleek but safe offering
+
+COURTESY OF 20TH CENTURY FOX
+
+Shame. Shame. Shame.
+
+COURTESY OF FOX SEARCHLIGHT PICTURES
+
+So this is how liberty dies... with thunderous applause.
+COURTESY OF BBC
+
+Ay gyal you a bad ting.
+
+D-
+
+“Assassin’s Creed”
+
+20th Century Fox
+
+Rave, Quality
+
+PEOPLE IN SCHOOL TELL ME, ALWAYS 
+
+IN THE BARBERSHOP, CHIEF KINERY 
+
+AIN’T ABOUT THIS, CHIEF KINERY 
+
+AIN’T ABOUT THAT, MY BOY AN 
+
+EDITOR ON MAYNARD AND THEM, 
+
+HE — HE SAY THAT GIRL DON’T BE 
+
+PUTTING IN NO WORK. SHUT UP. 
+
+Y’ALL DON’T KNOW NOTHING. ALL 
+
+Y’ALL TALK ABOUT CHIEF KINERY 
+
+NO HITTA CHIEF KINERY AIN’T THIS 
+
+CHIEF KINERY A FAKE. SHUT UP. Y’ALL 
+
+DON’T LIVE WITH THAT GIRL, Y’ALL 
+
+KNOW THAT GIRL GOT CAUGHT 
+
+SUCCEEDING AT NBC AND THAT GIRL 
+
+BEEN SOARING SINCE I DUNNO WHEN! 
+
+WRITERS STOP PLAYIN’ HER LIKE THAT. 
+
+THEM WRITERS SAVAGES OUT THERE 
+
+IF I CATCH ANOTHER ONE TALKING 
+
+SWEET ABOUT CHIEF KINERY I’M 
+
+HIRING LAWYERS! I’M NOT PLAYING 
+
+NO MORE.
+
+Interested in applying to Daily Arts? E-mail 
+us at npzak@umich.edu or anay@umich.edu 
+for an application and a copy of Chief Keef’s 
+
+discography.
+
+
+Have you ever pressed ‘A’ on 
+
+a TV in a Pokémon game to see 
+what was playing?
+
+“There’s a movie on TV,” the 
+
+text box reads. “Four boys are 
+walking down railroad tracks. 
+…I’d better go, 
+too.”
+
+This 
+is, 
+
+of 
+course, 
+a 
+
+reference 
+to 
+
+“Stand By Me,” 
+the 
+1986 
+Rob 
+
+Reiner 
+film 
+
+adapted 
+from 
+
+Stephen King’s 
+“The Body.” The 
+film 
+and 
+the 
+
+book it’s based on are seminal 
+texts that explore working 
+class 
+heteromasculinity; 
+
+they’re favorites among those 
+who grew up in the ‘80s — 
+those who have a fondness 
+for an era with less parental 
+guidance and a larger, more 
+mysterious earth to explore.
+
+While it’s difficult to say 
+
+whether the original Japanese 
+text made such a reference 
+or 
+whether 
+the 
+English 
+
+localization staff embellished 
+the nod, it’s equally difficult 
+not to wonder whether “Stand 
+By 
+Me” 
+had 
+a 
+profound 
+
+influence on Japanese Role-
+Playing 
+Games 
+— 
+youth 
+
+abandoning their hometowns 
+to go on a parent-less adventure 
+is quite nearly a cliché in the 
+genre. 
+“Chrono 
+Trigger,” 
+
+“Kingdom 
+Hearts,” 
+“Secret 
+
+of Mana,” “Earthbound” and 
+most certainly “Pokémon” all 
+introduce their narratives in 
+this way. And even if they’re 
+framed around a different 
+concept (“Final Fantasy VII” 
+following a group of radical 
+ecoterrorists is an example) 
+many more of these games are 
+structured like road trips. A 
+group of friends travel across 
+
+great distances and make stops 
+in fascinating little towns. It’s 
+a formula for success.
+
+So “Final Fantasy XV” is 
+
+most certainly not the first 
+road trip video game, but 
+it’s the first video game to 
+literalize the concept into 
+gameplay. We open on a dusty, 
+western highway, on which 
+
+four 
+gorgeous, 
+
+primped 
+anime 
+
+boys are pushing 
+a 
+broken-down 
+
+luxury 
+car 
+
+towards 
+a 
+gas 
+
+station. As they 
+banter 
+among 
+
+themselves 
+and 
+
+the player takes 
+control of the car-
+pushing effort, a 
+
+Florence + The Machine cover 
+of Ben E. King’s “Stand By Me” 
+song swells in the background 
+(it 
+incorporates 
+a 
+bit 
+of 
+
+the classic “Final Fantasy” 
+title screen music into its 
+orchestration, a nice touch). 
+Could it be clearer what 
+we’re supposed to be thinking 
+about? This genre. That movie. 
+Angst. Coming-of-age. That 
+childhood desire to pack up an 
+old-timey knapsack and head 
+out to the Yukon, “Calvin and 
+Hobbes”-style.
+
+The anime boys in question 
+
+are Noctis, a prince, and 
+his three confidants Ignis, 
+Prompto, 
+and 
+Gladiolis. 
+
+Those familiar with “Final 
+Fantasy” shouldn’t balk at 
+the Latinesque nonsense that 
+comprises their names, but for 
+everyone else, hearing names 
+like this spoken very seriously 
+out loud will take some getting 
+used to.
+
+But there’s not much else 
+
+about “FFXV” ’s introductory 
+sequence that “Final Fantasy” 
+die-hards will expect. There’s 
+no daring bombing mission. No 
+epic swordfight. No futuristic 
+water polo game. Rather than 
+being shoved headlong into a 
+
+desperate scenario, the game 
+quietly picks up with four kids 
+driving around, listening to an 
+indie singer and talking about 
+things. It’s jarring, to say the 
+very least.
+
+“Final Fantasy” has blended 
+
+modern and future technology 
+
+with classical high fantasy 
+aesthetics in the past, but 
+never like this. “FFXV” drops 
+our Anime heroes into a 
+world of Western Americana, 
+complete with diners, gas 
+stations and a whole lot of 
+desert. It feels new.
+
+And there’s more Western 
+
+influence than merely the 
+
+Classifieds
+
+Call: #734-418-4115
+Email: dailydisplay@gmail.com
+
+ACROSS
+1 Carnival Cruise
+Line
+headquarters
+6 Net gain?
+10 One often taking
+a bow
+14 How many
+crosswords are
+solved
+15 Plot to plow
+16 Creepy look
+17 Bridge
+20 Young
+Skywalker’s
+nickname
+21 “At Wit’s End”
+columnist
+Bombeck
+22 Like Cheerios
+23 Bridge
+27 Liked a lot, with
+“up”
+28 Taqueria order
+31 A3 or Q7
+34 Leave
+37 Whistle-blower
+38 Way around the
+block?
+40 Luau band
+41 Meatball medium
+43 Roll in the yard
+44 Inn crowd option
+47 Cause of some
+closings
+48 HBO drama set
+in Baltimore
+50 __ Friday’s
+52 Bridge
+58 Sultan Qaboos
+Grand Mosque
+prayer
+60 Sci-fi navigator
+61 Gen __
+62 Bridge
+66 Number of times
+a horse can enter
+the Kentucky
+Derby
+67 “Dies __”
+68 Copy, in a way
+69 Essen’s region
+70 Celebrate an
+anniversary, say,
+with “out”
+71 Secretly watch
+
+DOWN
+1 Hebrew prophet
+2 Absurd
+3 __ fool
+4 Club __
+5 Take in
+
+6 Harmful ray type
+7 More than 70%
+of Earth’s surface
+8 Lab greeting
+9 “Ars gratia artis”
+is written in an
+arc around his
+head
+10 Zoom along
+11 “Time for me to
+split”
+12 Smoke passage
+13 Gull relative
+18 Carrying, so to
+speak
+19 Hen holders
+24 Common street
+name
+25 Strait-laced
+26 __ ejemplo
+29 Geometric art
+style
+30 Several
+31 Start of a
+subordinate title:
+Abbr.
+32 “You meant 8
+p.m. not a.m.?”
+33 Vacation spot
+with horseback
+riding
+35 Toon often seen
+in a hunting hat
+36 Shelled veggie
+
+39 “Jeopardy!”
+staple
+42 Flaws and all
+45 Is for everyone?
+46 Bikini in the
+Pacific, e.g.
+49 It starts a bit
+before Christmas
+51 Astronauts’ gear
+53 Channel with a
+“Congressional
+Chronicle” online
+archive
+
+54 Kolkata cash
+55 Slangy refusal
+56 Wafer brand
+57 Place to find a
+flag
+58 Le Pew’s
+defense
+59 Dish list
+63 Limit
+64 Jackie O’s
+second
+65 “Shirt Front and
+Fork” artist
+
+By Gary Schlapfe and C.C. Burnikel
+©2017 Tribune Content Agency, LLC
+01/06/17
+
+01/06/17
+
+ANSWER TO PREVIOUS PUZZLE:
+
+RELEASE DATE– Friday, January 6, 2017
+
+Los Angeles Times Daily Crossword Puzzle
+
+Edited by Rich Norris and Joyce Nichols Lewis
+
+xwordeditor@aol.com
+
+4 BEDROOM HOUSE Fall 2017
+3 Parking Spaces Washer/Dryer
+827 Brookwood ‑ $2900 + Utilities
+Deinco Properties 734‑996‑1991
+
+2 BEDROOM + Study Fall 2017
+2 Parking Spaces Washer/Dryer
+Max occupancy is 4
+935 S. Division ‑ $2250 + Utilities
+Cappo Mgmt 734‑996‑1991
+
+2017‑2018 LEASING
+Apartments Going Fast!
+Prime Student Housing
+761‑8000. www.primesh.com
+Efficiencies:
+344 S. Division $855
+610 S. Forest $870 ‑ 1 Left
+1 Bedrooms:
+511 Hoover $1045/$1065
+508 Division $945
+*Varies by location: Full Furnished, 
+Parking Included, Free Ethernet
+
+1 BEDROOM APTS Near N. Campus
+Fall 2017‑18 ‑ $900/m + $25/m Utilities
+Each unit has one parking space.
+909 & 915 Wall St.
+Deinco Properties 734‑996‑1991
+
+5 BEDROOM APT Fall 2017
+Washer Dryer, 3 Parking Spaces
+1014 Vaughn #1 ‑ $2900 + Utilities
+Deinco Properties 734‑996‑1991
+
+EFF, 1 & 2 Bdrm Apts Fall 2017‑18
+Many locations near campus
+
+Rents from $850 (eff) ‑ $1415 (2 bdrm)
+
+Most include Heat and Water
+www.cappomanagement.com
+734‑996‑1991
+
+FALL 2017‑18 Apts @ 1015 Packard
+2 Bedroom ‑ $1370 ‑ 2nd floor
+3 Bedroom ‑ $1380 ‑ basement
+1 parking space avail for $50/m per unit
+Deinco 734‑996‑1991
+
+FOR RENT
+
+“Fantasy XV” is a fresh 
+primer for the road-
+trip video game genre
+
+A-
+
+Final Fantasy XV
+
+Square Enix
+
+PS4 (Reviewed), 
+
+Xbox One
+
+Most recent iteration of long-running game 
+series breathes new life into the franchise
+
+COURTESY OF SQUARE ENIX
+
+When ya fridge be empty.
+
+JACOB RICH
+Daily Arts Writer
+
+visual. Like last year’s “Metal Gear Solid V,” 
+“FFXV” represents a massive left turn for a 
+franchise that’s been around for decades — 
+abandoning the precedent of narrative linearity 
+that was held very closely to in the last single-
+player “Final Fantasy game in favor of a quest-
+based open-world structure.
+
+It’s a lot like “The Witcher 3.” The player 
+
+can progress through a singular “main quest” 
+storyline, complete standalone side quests for 
+experience or take on lucrative bounty hunts 
+involving 
+tough 
+fights 
+against 
+“daemons,” 
+
+mindless wild beasts emboldened by mysterious 
+antagonists. While I wish the side quests were 
+more complex (most of them are simple MMO-
+style fetch quests), they provide a meaningful 
+alternative to traditional grinding since each 
+of them provides experience points and reward 
+items. 
+
+Those comparisons aside, the game “FFXV” 
+
+shares the most DNA with is “Kingdom Hearts.” 
+Before a massive team transition in 2014 in 
+which Hajime Tabata took over development as 
+director, “FFXV” was to be the first main series 
+“Final Fantasy” game to be directed by Tetsuya 
+Nomura, the guy who directed the first two 
+Kingdom Hearts games. His influence shows 
+itself blatantly in the game’s combat. Fighting in 
+“FFXV” is essentially an expansion of the action-
+based combat in “Kingdom Hearts,” the primary 
+differences being the ability to hold the attack 
+button rather than mashing it, and an emphasis 
+on maneuvering to the backs of enemies to do 
+extra damage.
+
+Magic and summoning are also overhauled. 
+
+Magic 
+involves 
+charging 
+spells 
+by 
+using 
+
+resources picked up in the environment, and 
+deploying them as massive area-of-effect attacks 
+that one would use much like a grenade in a first-
+person shooter. It never really clicked for me as 
+useful, but I’ve seen other gamers on YouTube 
+harness it quite effectively. Really, it’s a matter 
+of preference.
+
+Summoning is strange. Essentially, the player 
+
+can call gods down from the heavens to do 
+massive damage to everything in the area, 
+but only when the gods feel like helping? The 
+criteria for when a summon appears feels 
+inconsistent. It’s not at all reliable, but its 
+rarity makes it admittedly very cool whenever 
+it happens.
+
+But what really keeps the combat in “FFXV” 
+
+entertaining over the course of its runtime 
+(about a 15-hour campaign with about three 
+times as much side content) is its extraordinary 
+enemy variety. I constantly marveled at the 
+creativity expressed in the often gigantic 
+creatures Noctis and company were tasked 
+with hunting them down. Some of the later-
+game fights against screen-filling monsters 
+are breathtaking — highlights of an all-
+around excellent single player story that shifts 
+drastically as it progresses.
+
+“FFXV” 
+goes 
+from 
+road 
+trip 
+to 
+
+intercontinental boat trip, to train trip, even 
+to a secret mode of transportation that only 
+unlocks after you beat the game. The constant 
+shifting of tone and structure in the game’s 
+campaign might feel incoherent to some, but to 
+me it provided much-needed variety to a genre 
+that’s often held back by homogeneity. There’s 
+really only one part of the game’s campaign that 
+isn’t a blast — a lone chapter that drastically 
+shifts tone to emulate survival horror gameplay. 
+It’s a nice idea, but it’s not executed in a way 
+that’s fun to play.
+
+Besides hunting monsters and traveling, the 
+
+player can also engage in one of my favorite 
+
+fishing minigames I’ve ever played in a video 
+game — rivaling even that of “Twilight Princess.” 
+It’s a blast to take a break from the action and 
+level up Noctis’ fishing skill. The other party 
+members have special skills too, but they’re 
+more passive — Prompto will take pictures over 
+the course of the adventure that you can save 
+to your hard drive, and Ignis will cook meals at 
+campfires that grant helpful stat buffs. They’re 
+fun little touches. This game has a lot of those.
+
+I’m somewhat conflicted about how “FFXV” 
+
+represents gender and race. Both the male and 
+female characters are sexualized relatively 
+equally (breasts, biceps and abs hang out 
+EVERYWHERE in this game), which I’m 
+more than fine with, but it seems like a missed 
+opportunity to make every character in the 
+party a light-skinned straight dude. What kind of 
+dynamic would it bring if one of these beautiful 
+anime boys liked other guys? How much would 
+it have changed if one or more of the party was a 
+girl? Why are there only two or three people of 
+color in the entire world? But at the same time, 
+I’m proud of the way that “FFXV” portrayed a 
+nontraditional sort of heteromasculinity with 
+its main characters. It allows them to show love 
+for each other, dress in risqué black leather and 
+talk to each other about their feelings without 
+writing off any of those things as something not 
+okay for straight guys to do.
+
+Over the course of the campaign we’re 
+
+allowed some real insight into the interpersonal 
+relationships of the four boys, even beyond the 
+(well-written) banter that’s frequently spouted 
+
+in the car and on quests. There are social quests 
+that very occasionally pop up that provide much-
+needed breaks in tone — they kind of feel like 
+the filler episodes of an anime where everyone 
+goes to the beach for no reason, except they’re 
+actually good. A scene that pops up randomly 
+when you’re staying at a certain hotel between 
+two of the boys is an emotional one that I’ll not 
+forget for some time. There are times when the 
+characters fight, make up, split off from one 
+another and come back together again. It felt like 
+there were tangible emotional highs and lows 
+among the characters — I can’t think of another 
+game where that’s been felt in recent years. I 
+can’t say enough how much I enjoyed spending 
+time with Noct, Gladio, Ignis, and Prompto. I 
+would be remiss not to note how meme-worthy 
+their dialogue can be at times, with Ignis in 
+particular lending his voice to one of my favorite 
+twitter memes I’ve seen in a long time.
+
+It’s strange. On paper, “FFXV” is a number of 
+
+combat encounters strung together with only a 
+few interruptions from fishing minigames and 
+sequences of travel. It doesn’t sound all that 
+compelling. But because the game’s story is so 
+excellently creative, its visuals so gorgeous, its 
+style so unique, it becomes something much 
+greater than the sum of its parts. It goes to show 
+how far a dedication to world-building can go in 
+making a superb video game. 
+
+ It felt like there 
+were tangible 
+
+emotional highs 
+and lows among 
+the characters.
+
+We open on a 
+dusty, western 
+
+highway, on 
+which four 
+gorgeous, 
+
+primped anime 
+boys are pushing 
+a broken-down 
+
+luxury car. 
+
+MUSIC!
+FILM!
+
+THEATRE!
+
+AN IMPENDING SENSE OF DOOM!
+
+TV!
+
+STYLE!
+
+E-mail us at npzak@umich.edu or anay@umich.edu to join the 
+
+Daily Angst Section.
+
+6 — Friday, January 6, 2017
+Arts
+The Michigan Daily — michigandaily.com
+
+
+The Michigan Daily — michigandaily.com
+Sports
+Friday, January 6, 2017 — 7
+
+Hayden earns ninth at 
+National Championship
+
+For many competitors, the 
+USA Diving Winter National 
+Championships is a reprieve 
+from the stressful academic 
+and athletic workload that 
+student athletes across the 
+country 
+face. 
+With 
+final 
+exams in the rearview mirror, 
+competing divers can put blue 
+book essays behind them and 
+focus solely on gold medals.
+That 
+is, 
+unless 
+you’re 
+Michigan freshman Kristen 
+Hayden.
+Hayden 
+traveled 
+to 
+Columbus on Monday, Dec. 19 
+as the only Wolverine diver 
+competing at the meet. Hayden 
+had qualified for three events 
+at the Championships, but 
+because she had finals over the 
+previous two weeks, she could 
+only compete in the three-
+meter springboard event. 
+“Going into Monday, my 
+expectation was basically to 
+dive the best I could, the way 
+I’ve been practicing,” Hayden 
+said. “Then hopefully that was 
+good enough to allow me to 
+make it to finals on Wednesday.”
+While she scored just a 
+218.85 in the preliminaries, 
+
+Hayden successfully improved 
+her score to a 243.10 in the 
+semifinals — good for ninth 
+place overall, and enough to 
+earn a spot in the final round 
+of the event the following 
+Wednesday. Many divers were 
+able to use the time off to focus 
+on the competition.
+But 
+Michigan’s 
+finals 
+schedule forced Hayden to 
+quickly change her mindset 
+after she got out of the pool.
+“I had papers due after my 
+semifinal, so that was a little 
+bit different,” Hayden said. “I 
+couldn’t just relax and focus 
+on the meet, I also had to do 
+my papers. The day before the 
+competition, I was sitting at 
+the pool typing a paper.”
+Wednesday, Hayden stayed 
+the course of her previous 
+routines, 
+scoring 
+a 
+678.00 
+in the final round of dives. 
+Overall, the performance put 
+the freshman diver in 10th 
+place for the event.
+“We’re 
+definitely 
+using 
+this meet to get ready for Big 
+Tens and NCAAs,” Hayden 
+said. “We’ve already talked 
+about what I need to work on, 
+and this is going to shoot me 
+forward and get me ready for 
+the rest of the season.”
+
+MATTHEW KENNEDY
+Daily Spors Writer
+
+AMELIA CACCHIONE/Daily
+Michigan coach Mike Bottom prepares his athletes to compete nationally. 
+
+Wolverines travel to Columbus for a 
+contentious encounter with Ohio State
+
+The 
+Michigan 
+women’s 
+basketball team is heading to 
+Columbus this weekend to face 
+one of its fiercest competitors 
+yet — Ohio State.
+The Buckeyes (3-0 Big Ten, 
+13-4 overall) are ranked 11th 
+in the Associated Press poll 
+and 13th in the Coaches Poll, 
+while the Wolverines (2-0 Big 
+Ten, 13-3 overall) have failed 
+to crack the top 25 in either. 
+Yet, the two teams have nearly 
+identical records and Michigan 
+sits six spots ahead of Ohio State 
+in the NCAA RPI rankings. The 
+Buckeyes are favored, but the 
+Wolverines have an opportunity 
+to prove their superiority.
+“Ohio State is led by a young 
+lady named Kelsey Mitchell,” 
+said coach Kim Barnes Arico 
+on WTKA radio. “She’s an All-
+American. She’s arguably the 
+best player in the country. She’s 
+a guard averaging about 26 
+points a game.”
+While the Wolverines don’t 
+quite have a scoring equivalent 
+of Mitchell, they do boast one 
+
+of the deepest teams in the 
+country. Seasoned junior guard 
+and leading scorer Katelynn 
+Flaherty averages 17.9 points 
+per game, but it’s freshman 
+guard Kysre Gondrezick who 
+bolsters the depth.
+Gondrezick broke into the 
+Wolverines’ 
+starting 
+lineup 
+against Rutgers on Dec. 28 
+— a decision made based on 
+her ability to score from the 
+outside. Her uncanny ability to 
+hit 3-pointers — she is shooting 
+46.1% on the year — makes her 
+tough to defend against.
+“Earlier in the season, or 
+especially last year, we felt 
+if Katelynn had an off night 
+we weren’t able to be really 
+successful,” Barnes Arico said. 
+“Now, Katelynn has drawn 
+so much attention to herself. 
+She’s usually guarded by the 
+other team’s best player, and 
+sometimes 
+two 
+people 
+are 
+running at her, and she faces 
+double teams at times and 
+faceguarding at times.
+“It’s great to have other 
+options and people that can take 
+that pressure off of her, and Kysre 
+has definitely provided that.”
+
+Gondrezick put up big points 
+in Michigan’s first two games of 
+conference play, and shows no 
+sign of slowing down. She had 
+18 points and seven rebounds 
+against Rutgers and another 
+16 
+points, 
+including 
+three 
+3-pointers, in the Wolverines’ 
+latest 
+matchup 
+against 
+Wisconsin.
+Sophomore 
+forward 
+Hallie 
+Thome 
+is 
+the 
+third 
+offensive 
+threat 
+the 
+Buckeyes 
+will 
+need to watch 
+out for. Coming 
+off her record-
+breaking 
+37-point 
+performance 
+against 
+the 
+Badgers, in which she tied for 
+second highest points per game 
+in Michigan history, Thome 
+has shown that she can be 
+extremely dangerous down low.
+“I watched the film with 
+my own children because they 
+wanted to see,” Barnes Arico 
+said. “And they were like, 
+‘Mommy it’s almost like a layup 
+
+drill for Hallie.’ Every time 
+down the floor, it felt like she 
+was scoring the basketball.”
+If 
+Thome, 
+Flaherty 
+and 
+Gondrezick all perform at their 
+peak, Ohio State will have to 
+decide which Wolverine it needs 
+to defend the most: the dangerous 
+outside duo of Gondrezick and 
+Flaherty or Thome’s long reach 
+in the paint.
+But, 
+the 
+Wolverines will 
+need to return 
+to their high-
+scoring 
+ways 
+from the start 
+of 
+the 
+season 
+if they want to 
+keep 
+up 
+with 
+the 
+Buckeyes. 
+Not 
+only 
+has 
+Ohio 
+State 
+matched 
+Michigan’s 
+record 
+of three games in triple digits 
+this season, but the Buckeyes 
+have scored fewer than 80 
+points in a game just twice. The 
+Wolverines have played nine 
+games in which they haven’t 
+cracked that magic number.
+With a serious defensive 
+effort, Michigan is certainly 
+capable of winning its third 
+Big Ten game in a row. The 
+Wolverines have lost to both 
+No. 10 Florida State and No. 9 
+UCLA, but both games were 
+close. Michigan played each 
+team after long flights to the 
+Virgin Islands and California, 
+putting the Wolverines way out 
+of their comfort zones. A three-
+hour bus ride to Columbus, 
+could make conditions more 
+favorable for Michigan.
+The Wolverines have a solid 
+chance at beating Ohio State, 
+and their excitement shows.
+“Our games with them the 
+past few years have really been 
+high-energy, high offense, fun 
+to watch,” Barnes Arico said. “I 
+think the rivalries between (us 
+and) Ohio State and Michigan 
+State are incredible. I don’t 
+think 
+anywhere 
+in 
+college 
+athletics 
+you 
+have 
+those 
+rivalries like we do here at 
+Michigan.”
+
+MAGGIE KOLCON
+Daily Sports Writer
+
+CLAIRE MEINGAST/Daily
+Freshman guard Kysre Gondrezick is shooting 46.1 percent from three to give the Wolverines depth on the perimeter.
+
+“She’s a guard 
+averaging about 
+26 points a 
+game.”
+
+Michigan hockey hosts alumni game with Red 
+Wings to support former Wolverine Scott Matzka
+
+When Scott Matzka committed 
+to play hockey at Michigan before 
+the 1997-98 season, he didn’t know 
+what kind of culture he was joining. 
+All he knew was the Wolverines 
+had won the NCAA Championship 
+in 1996, and it was widely known 
+that they were a premier hockey 
+program.
+In 
+Matzka’s 
+first 
+season, 
+Michigan 
+further 
+cemented 
+its place at the top of college 
+hockey, winning another NCAA 
+Championship 
+over 
+Boston 
+College. It was the Wolverines’ 
+ninth national title, which still 
+stands as the most all-time.
+But 
+while 
+Matzka 
+had 
+experienced much success in his 
+collegiate career, he wouldn’t 
+come to fully understand how 
+impactful the Wolverines’ hockey 
+community would be until more 
+than a decade after he was done 
+playing — namely, this Saturday 
+night.
+***
+In 2014, Matzka spent a lot of 
+time in the car. He was working 
+in automotive plants and had been 
+making drives to and from those 
+plants since he had retired from 
+playing hockey the year before.
+But over time, Matzka started 
+to realize that something wasn’t 
+quite right with his body. When he 
+reached to grab a pack of gum, his 
+forearm would sometimes cramp 
+up. When he would make a fist, it 
+would sometimes be difficult to 
+uncurl his fingers.
+“I felt like — especially as an 
+athlete — I understood my body 
+pretty well,” Matzka said. “I was 
+very active at that point. I was still 
+working out at the time. I just knew 
+something was off, but it was very, 
+very early on at that point.”
+So 
+Matzka 
+began 
+doing 
+research on his symptoms, and 
+a single result kept coming up: 
+amyotrophic 
+lateral 
+sclerosis. 
+
+When his cramping and stiffness 
+worsened, Matzka decided that 
+it was time to see a doctor. But 
+preliminary 
+results 
+from 
+his 
+general practitioner came back 
+normal, and Matzka was referred 
+to a neurologist to further examine 
+his health.
+Throughout 
+August 
+and 
+September 
+of 
+2014, 
+Matzka 
+travelled 
+around 
+Michigan 
+seeing different doctors. He 
+eventually ended up at the 
+University of Michigan, where a 
+neurologist confirmed Matzka’s 
+fears, and he was officially 
+diagnosed with ALS. From there, 
+Matzka began to realize the road 
+ahead of him.
+“It was probably 16 months 
+before we sat down and started 
+thinking about what we could do 
+to be advocates for the disease,” 
+Matzka said. “By that point, we 
+started understanding some of 
+the things we were going to face 
+physically and financially. So we 
+were really at the crossroads of 
+
+‘OK, we want to do all these things.’ 
+And by that point, we knew that my 
+symptoms were severe enough that 
+we had to, basically, shit or get off 
+the pot.”
+One 
+of 
+Matzka’s 
+former 
+employers created a website to 
+help the Matzka family, where 
+people could donate money to help 
+with the costs of caring for an ALS 
+patient. To date, Matzka estimates 
+that the website has raised about 
+33-50% of his family’s goal of 
+$500,000 in the last six months.
+For his own part, Matzka has 
+taken it upon himself to spread 
+awareness about ALS.
+“We decided that my biggest 
+impact was going to be in helping 
+to spread awareness,” Matzka said. 
+“So what we’ve done is, for the most 
+part, we’ve spent time trying to tell 
+my story everywhere that we can, 
+and use that as a tool to empower 
+everybody around us and other 
+people, and then spread awareness 
+about ALS, but then raise money 
+towards the family.”
+
+Matzka’s journey to spread 
+awareness has taken him all 
+around the world. Last October, 
+he took part in an honorary puck 
+drop prior to Michigan’s hockey 
+game against Union, which was 
+deemed an ALS Awareness game. 
+Soon after, Matzka travelled to 
+the United Kingdom to attend 
+a fundraising game put on by 
+another one of his former teams, 
+the Cardiff Devils.
+“It’s really an honor for us to be 
+a part of things like that,” Matzka 
+said. “There are 20,000 people 
+facing this in the US right now, and 
+every 90 seconds someone is newly 
+diagnosed. So we’re not the only 
+ones that are facing this, but we’re 
+obviously in the unique position 
+that we’ve been and done things 
+that most people haven’t been able 
+to do.
+“I’m honored to be the one. 
+Unfortunately, I hate to be the one. 
+But until this disease is figured out, 
+somebody’s got to do it, so I feel like 
+I’m a good person to do that right 
+
+now.”
+***
+Saturday, Matzka will witness 
+another hockey game in his 
+honor. But this time, he will be 
+watching some of his former 
+Michigan teammates — along 
+with other Wolverine alumni — 
+take on former Detroit Red Wings 
+players.
+It was an idea brought to Matzka 
+by former teammate LJ Scarpace, 
+who, along with the Michigan 
+hockey team, went to work inviting 
+retired players to return for the 
+game.
+“Really, we just sent out an 
+e-mail asking for the guys that 
+would like to play, to (former 
+Michigan players),” said Michigan 
+coach Red Berenson. “Clearly we 
+got a great response.”
+And while there are many 
+occasions when Wolverine alumni 
+come back to Yost, this one will be 
+a bit more somber. But that doesn’t 
+mean that Michigan alumni won’t 
+be attending in force.
+
+“It seems like we’re always 
+having a reunion of a championship 
+team 
+or 
+an 
+anniversary 
+of 
+something 
+special,” 
+Berenson 
+said. “But it’s not very often that 
+we have a needy, or a sad or a real 
+challenging situation like this one. 
+And when you do, it’s amazing how 
+the Michigan hockey family comes 
+together. I mean, we have a lineup. 
+We’ve got probably too many 
+players. We have more players than 
+we need, but good for them.”
+And no matter the result, both 
+Berenson and Matzka realize that 
+the final score doesn’t matter. For 
+them, the heavy response from 
+former Wolverines has already 
+made Saturday’s event a successful 
+one.
+“What it means to me is it just 
+makes me proud to be a part of 
+the Michigan hockey family, and 
+the Michigan family, period,” 
+Berenson said. “I know our fans 
+are going to support this event, 
+and I know our team, I think, 
+will support it, and obviously the 
+community. So it’s not a happy 
+thing, but it’s an important thing.”
+Added Matzka: “We’re going to 
+have a ton of people that are going 
+to get a chance to learn more about 
+ALS, and are going to Google it and 
+hopefully have an opportunity to 
+take part in some of the events to 
+raise money for the cause.”
+In addition to simply raising 
+awareness 
+about 
+the 
+disease, 
+Saturday will also serve as an 
+opportunity for people to support 
+Matzka himself, as all proceeds 
+from the event will be donated to 
+his personal fund. Matzka knows 
+how much of a difference those 
+donations can make.
+“It’s going to help provide us 
+with the opportunity to make 
+quality of life choices versus 
+making financial choices,” Matzka 
+said. “We have to say, ‘Do I want to 
+live with this disease and see my 
+kids grow up a little bit more, or not 
+have that ability?’ So that’s really 
+what we’re looking for.”
+
+MIKE PERSAK
+Daily Sports Editor
+
+SAM MOUSIGIAN/Daily
+Michigan coach Red Berenson and the Wolverine hockey community has shown up in a major way for former player Scott Matzka in his battle with ALS. 
+
+
+8 — Friday, January 6, 2017
+Sports
+The Michigan Daily — michigandaily.com
+
+Behind Enemy Lines: Talk with 
+Maryland coach Mark Turgeon
+
+The 
+Maryland 
+men’s 
+basketball team will visit Crisler 
+Center on Saturday for just 
+the 
+second 
+time 
+as 
+a 
+member 
+of 
+the Big Ten 
+Conference.
+Coach 
+Mark 
+Turgeon, 
+in his third 
+season in the 
+conference, 
+has 
+overseen the 
+Terrapins’ 
+transition 
+from 
+the 
+Atlantic 
+Coast Conference to the Big 
+Ten. Maryland has one of 
+the youngest rosters in the 
+conference this season, as 10 of 
+its 16 players are underclassmen.
+Turgeon gained experience 
+coaching younger players last 
+summer. He was an assistant 
+coach 
+on 
+USA 
+Basketball’s 
+under-18 national team that won 
+gold at the 2016 FIBA Americas 
+U18 Championship.
+The Daily sat down with 
+Turgeon at Big Ten Media Day 
+in October to discuss the Big 
+Ten 
+Tournament’s 
+move 
+to 
+Washington D.C., his experience 
+coaching with USA Basketball 
+and the challenges Maryland 
+faced switching from the ACC to 
+the Big Ten.
+The Michigan Daily: Coach, 
+you talked previously about how 
+excited you are about having 
+the Big Ten Tournament in 
+Washington D.C. What does it 
+mean to have the tournament 
+here next March?
+Mark Turgeon: As far as I 
+can remember, Maryland fans 
+
+have always had to travel for 
+their tournament. So it’s good 
+to have it here. It was part of 
+the promise when we went into 
+the league that we would have 
+a tournament here in DC and 
+in New York. It’s good it has 
+happened so quickly. I’m really 
+happy for our fans not having to 
+travel as far, to save a little bit of 
+money and getting to see quality 
+basketball in their backyard.
+TMD: When you coached 
+the USA under-18 team over 
+the summer, what, as a coach, 
+do you gain coaching at the 
+international level and outside 
+Maryland?
+MT: I think it was just great 
+to be a part of USA Basketball. 
+That was fun. I got to hang 
+around other coaches in (Texas 
+coach) 
+Shaka 
+Smart 
+and 
+(Connecticut coach) Kevin Ollie 
+
+and be around great players, and 
+then travel the world a little bit. 
+It was a good experience, as far 
+as we won the gold, so it was a 
+good time.
+TMD: What experiences can 
+you particularly bring back from 
+the under-18 tournament and 
+instill at Maryland?
+MT: You steal a little bit from 
+Shaka Smart, you steal a little bit 
+from Kevin Ollie, and I’m sure 
+I helped them a little bit too. 
+
+Then you’re dealing with the 
+best players who are under 18 
+and you realize you have pretty 
+good players too (at Maryland). 
+Just the experience (of) being 
+with the coaches and being in 
+tournament play and preparing 
+guys in a short time, it all helps 
+you as a coach move forward.
+TMD: Has there been a 
+difference for you between how 
+basketball was played in the 
+ACC and the Big Ten?
+MT: I think basketball is 
+basketball. 
+Every 
+league 
+is 
+different, yet every league is 
+the same. What I mean by that 
+is, there’s 14 teams, so you’re 
+going to have a lot of different 
+teams. You’re going to have 
+coaches that play fast, coaches 
+that play slow, teams that are 
+really physical and teams that 
+are finesse. And you have that 
+in every league. I think the 
+biggest difference in the leagues 
+is just the venues and the crowd 
+support. It’s just amazing in the 
+Big Ten, and it’s hard to win on 
+the road.
+TMD: Was there any learning 
+curve for you in your first couple 
+years in the Big Ten?
+MT: I’ve been in a lot of 
+leagues as a coach. I’ve been 
+able to adjust everywhere I 
+went. I think I had an advantage 
+the first year because none of 
+the teams knew my system and 
+we had a great year (finishing) 
+14-4. In terms of the learning 
+curve, are we much better 
+guarding Michigan’s stuff than 
+we were when we first entered 
+the league? Yes, it’s a complex 
+offense. There is a learning 
+curve in everything you do. 
+They also had a learning curve 
+with us to learn our system. 
+We feel pretty locked in, pretty 
+comfortable with where we are 
+and our understanding of the 
+teams.
+
+MEN’S BASKETBALL
+
+Surprising outcomes throughout the start of the Big Ten 
+season could give Michigan better shot in the conference 
+
+The Michigan men’s basketball 
+team may have a fighting chance 
+in the Big Ten after all.
+The Wolverines started their 
+conference slate with an 86-83 
+overtime loss to Iowa, before 
+notching 
+a 
+come-from-behind 
+victory against Penn State at 
+Crisler Center on Wednesday 
+night.
+If not for a handful of wasted 
+possessions in Iowa City, Michigan 
+(1-1 Big Ten, 11-4 overall) could 
+be sitting in a three-team tie for 
+second place in the conference 
+standings.
+But the Wolverines don’t have 
+the luxury of wondering what 
+could have been, as they will 
+play their third Big Ten game of 
+this week against Maryland on 
+Saturday.
+Though the Terrapins boast a 
+13-2 overall record, the majority 
+of those wins have come against 
+inferior 
+competition. 
+And 
+Maryland’s losses to Nebraska and 
+Pittsburgh — the latter of which 
+was a 73-59 blowout — have shown 
+that it is vulnerable. 
+Still, 
+led 
+by 
+guard 
+Melo 
+Trimble, who is fourth in the Big 
+Ten with 17.8 points per game, 
+the Terrapins should prove to be a 
+significant test for Michigan.
+Maryland’s 
+loss 
+to 
+the 
+Cornhuskers is one example of 
+an early and chaotic conference 
+landscape, but it’s worth noting 
+that Big Ten play only began Dec. 
+27.
+Either way, those surprises 
+have given Michigan a confidence 
+boost that it can play with any of 
+its opponents.
+“We make sure we know that, 
+we look at that,” said Michigan 
+coach John Beilein on Tuesday. 
+“…So I think the thing is that, you 
+know, this is a long season and 
+anybody can beat anybody, and 
+that you better be ready for every 
+game.
+
+“And that there’s a lot of teams 
+will start slow. Sometimes (it’s) 
+just scheduling, sometimes it is 
+just a matter of just not being 
+ready or injury or something like 
+that.”
+Added 
+redshirt 
+sophomore 
+forward DJ Wilson: “I think it 
+just shows how good the Big Ten 
+is, and there’s not really a big drop 
+off from the first and last. It’s all 
+kind of just even, and I think that’s 
+something we just need to take 
+our chances and kind of just attack 
+it, get as many wins as we can and 
+take advantage of it.”
+While the Big Ten season 
+is still young, the quest for the 
+conference title is shaping up to be 
+an unpredictable battle, and with 
+that, the Daily breaks down what 
+has happened across conference 
+play so far.
+Michigan State (3-0, 11-5)
+Tom Izzo’s Spartans fell prey to 
+tough scheduling in the early part 
+
+of the season, as they dropped 
+games against No. 2 Baylor, No. 6 
+Kentucky, No. 8 Duke and No. 17 
+Arizona before swallowing a bad 
+loss to Northeastern.
+The start of Big Ten play, though, 
+seems to have helped Michigan 
+State return to its expected form. 
+The Spartans have rattled off 
+three wins against Minnesota, 
+Northwestern 
+and 
+Rutgers, 
+a 
+stretch during which they are 
+averaging 76.3 points per game.
+Through 
+that 
+three-game 
+stretch, 
+Michigan 
+State 
+has 
+showcased an ability to score from 
+anywhere on the floor. Forward 
+Nick Ward posted 22 points 
+against 
+the 
+Golden 
+Gophers, 
+guard Alvin Ellis III notched 16 
+against the Wildcats and guard 
+Eron Harris recorded 24 against 
+the Scarlet Knights.
+Even more impressive is that 
+the Spartans managed to start 
+conference play 2-0 without their 
+
+freshman phenom Miles Bridges, 
+who sustained an ankle injury in 
+the matchup against Duke that 
+sidelined him for over a month. 
+Despite the injury, the young 
+forward is averaging 15.4 points 
+and 8.4 rebounds per game.
+With Bridges healthy again, and 
+a versatile offense coming into its 
+own, Michigan State looks poised 
+to maintain its status among the 
+Big Ten’s best.
+No. 13 Wisconsin (2-0, 13-2)
+This season has gone as expected 
+for the Badgers so far, as they have 
+just two losses on the year.
+The first was against then-No. 
+22 Creighton, but that loss looks 
+a lot better now that the Blue Jays 
+have jumped to 10th in the AP Top 
+25. The second, a 71-56 blowout, 
+came against then-No. 4 North 
+Carolina.
+But the Badgers dismantled 
+Rutgers 
+in 
+their 
+conference 
+opener before beating Indiana in 
+
+Bloomington.
+Wisconsin returned all five 
+starters this year, and through 
+15 games, each has continued to 
+produce at a high level. Forward 
+Ethan Happ is nearly averaging 
+a double-double with 13.1 points 
+and 9.4 rebounds per game, 
+while guard Bronson Koenig and 
+forward Nigel Hayes are averaging 
+14.3 and 13.7 points, respectively.
+While it’s still early, it appears 
+everything is going according to 
+plan in Madison.
+Nebraska (2-0, 8-6)
+At 
+the 
+beginning 
+of 
+the 
+season, the Cornhuskers were an 
+afterthought in the Big Ten. As 
+their non-conference schedule 
+rolled on, that sentiment seemed 
+to gain more validity.
+Granted, Nebraska’s schedule 
+was difficult — it faced No. 3 
+Kansas, No. 4 UCLA, No. 10 
+Creighton, No. 21 Virginia Tech 
+and Clemson. But after losing 
+
+each of those games, in addition 
+to another against Gardner-Webb, 
+the Cornhuskers certainly weren’t 
+turning any heads.
+Their start to Big Ten play, 
+though, has made some noise.
+Nebraska opened with a win 
+at then-No. 16 Indiana, before 
+toppling Maryland in College 
+Park. While the Cornhuskers won 
+both games by a combined margin 
+of just nine points, those wins 
+have been both impressive and 
+unexpected.
+Over the two contests, guards 
+Glynn Watson Jr. and Tai Webster 
+averaged 21.5 and 19.5 points, 
+respectively.
+There’s no way of telling if that 
+kind of production is sustainable, 
+but if it is, Nebraska may turn the 
+Big Ten on its head.
+No. 25 Indiana (0-2, 10-5)
+The Hoosiers couldn’t have 
+asked for a much better start to 
+the season.
+After winning two exhibitions, 
+Indiana toppled No. 3 Kansas 
+at the State Farm Armed Forces 
+Classic in Honolulu and notched 
+a win against then-No. 3 North 
+Carolina on Nov. 30. But since 
+those 
+marquee 
+victories, 
+the 
+Hoosiers have struggled.
+They 
+faltered 
+against 
+No. 
+18 Butler and are currently on 
+a three-game losing streak — 
+dropping two Big Ten matchups 
+against Nebraska and No. 13 
+Wisconsin, and another against 
+No. 9 Louisville.
+Still, it doesn’t appear to be time 
+for Indiana to hit the panic button.
+Nebraska and Wisconsin are 
+undefeated in the Big Ten, and 
+guard James Blackmon Jr. is still 
+sixth in the Big Ten in scoring 
+with 16.8 points per game.
+While their start has come 
+as a shock, with guard Robert 
+Johnson, center Thomas Bryant 
+and 
+forward 
+OG 
+Anunoby 
+each 
+averaging 
+double 
+digits 
+surrounding 
+Blackmon, 
+the 
+Hoosiers appear to have the pieces 
+in place to right the ship.
+
+SAM MOUSIGIAN/Daily
+Michigan coach John Beilein will lead his Wolverines against Maryland after they split their first two Big Ten games amid a chaotic start to the conference season.
+
+KEVIN SANTO
+Managing Sports Editor
+
+BRANDON CARNEY
+Daily Sports Writer
+
+Maryland at 
+Michigan
+
+Matchup: 
+Maryland 
+13-2; 
+Michigan 
+11-4
+
+When: 
+Saturday 
+3:15 P.M.
+
+Where: 
+Crisler 
+Center
+
+The Daily sat down with the head coach of the Terrapins at 
+Big Ten Media Day in October to preview their new season. 
+
+“There is a 
+learning curve 
+in everything 
+you do.” 
+
+

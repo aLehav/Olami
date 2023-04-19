@@ -3,7 +3,7 @@ def monthly_grapher(directory, pipeline, query, y_label, title, save_path=None):
     import matplotlib.pyplot as plt
     from datetime import datetime
     import pandas as pd
-    from queries import mention_tracker
+    from helpers.queries import mention_tracker
 
     data = []
     dates = []

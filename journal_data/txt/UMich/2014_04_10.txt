@@ -1,0 +1,5002 @@
+~~1ie l~~frldia Iij
+
+Ann Arbor, Michigan
+
+Thursday, April 10, 2014
+
+michigandaily.com
+
+TECHNOLOGY
+Internet security
+flaw affects 'U'
+
+Virginia Lozaofl/DAILY
+Public Policy sophomore Nina Peluso performs with the A capella group Amazin' Blue during the Diversity Monologues
+at Literati Bookstore Wednesday.
+Performances look
+at campus climate
+
+ITS staff scrambles
+to protect Wolverine
+Access, CTools after
+high-stakes breach
+By SAM GRINGLAS
+Daily News Editor
+The University's Information
+and Technology Services staff
+are working to combat a securi-
+ty flaw that left sensitive infor-
+mation on some of the Internet's
+most visited sites - as well as
+key University portals - vulner-
+able to prying eyes.
+The flaw was first discovered
+last week by Finnish research-
+ers and engineers at Google and
+made public Monday. But unlike
+the December Target security
+breach in which thousands of
+credit card numbers were sto-
+len from the retailer's servers,
+this particular finding - now
+nicknamed "Heartbleed" -
+stemmed from a coding error
+in a standard Internet security
+platform.
+Though it's uncertain wheth-
+er any passwords or data were
+compromised by the flaw, major
+websites such as Facebook,
+
+Google, Yahoo and Amazon
+quickly patched the defective
+code, The New York Times
+reported. Many others are
+scramblingto prevent data theft
+and secure their affected serv-
+ers.
+In an interview Wednesday
+evening, Paul Howell, the Uni-
+versity's chief security officer,
+said Information and Technolo-
+gy Services staff had fixed most
+of the affected University's sites
+Monday, including Wolverine
+Access and CTools.
+"The severity of the issue was
+apparent and teams here and
+at many universities have been
+working around the clock to get
+servers patched and to get fixes
+in place," Howell said.
+OpenSSL, the affected soft-
+ware, is a toolkit included in
+many webserver programs,
+such as Apache, that is designed
+to encrypt communication
+between web browsers and
+servers.
+Michael Bailey, an associate
+research professor of electrical
+engineering and computer sci-
+ence, said OpenSSL is a tool that
+is supposed to keep Internet
+users secure.
+For example, OpenSSL
+prevents others from eaves-
+
+dropping on communication
+between a professor entering
+grades in CTools from his or
+her browser and the Universi-
+ty's server that runs CTools.It
+ensures no one else can modify
+the grades between the profes-
+sor's input and their registry in
+CTools and lets the professor
+know it's really CTools, and not
+an imposter site, into which the
+sensitive information is being
+entered.
+The same principles apply to a
+student using Facebook. OpenS-
+SL ensures information dissem-
+inated between one's Internet
+browser and Facebook server is
+done so securely.
+But websites using the March
+2012 version of OpenSSL have
+not been protected due to the
+coding error that - unknown
+until last week - has existed
+since the version's release and
+has left scores of websites vul-
+nerable for more than two years.
+While there are different
+security programs and versions
+available, The New York Times
+estimated the flaw in OpenSSL
+2012 versions affects two-thirds
+of Internet sites.
+According toa study conduct-
+ed Tuesday by Bailey and Alex
+See INTERNET, Page 3A
+
+Event series ends range of identities on campus
+that are perceived as being
+with exploration ignored or misrepresented.
+The title of Wednesday's
+of misrepresented Diversity Monologues, which
+was the concluding event in the
+identities program's series, was "Words
+from 'Victors.'"
+By AMIA DAVIS LSA junior Harleen Kaur,
+Daily StaffReporter LSA senior Alexa Wright and
+LSA senior Brianna Kovan
+On Wednesday, the LSA organized the event, which
+Honors Program hosted an was held at the Literati Book-
+event aimed to explore a broad store at 124 E. Washington St.
+
+Wright said the event helped
+improve relationships between
+students and staff by provid-
+ing a safe space for students
+to speak and learn more about
+different identities at the Uni-
+versity.
+"We thought this would be a
+great, creative way for students
+to express their thoughts, and
+we really wanted to tie it in to
+what it means to be here at the
+University," Wright said.
+See DIVERSITY, Page 3A
+
+
+BUSINESS
+Students build
+app to keep
+track of friends
+
+Student-launched
+app 'Merge' shows
+others' free time
+By ARIANA ASSAFF
+Daily StaffReporter
+Early on in their freshman
+year, Business sophomores Dan-
+iel Steinmetz and Brandon Alster
+discovered how hard it could
+be to connect with friends on
+short notice. Oftentimes, they'd
+find themselves spending time
+between classes reaching out to
+friends who were already busy,
+and they needed something that
+could instantly tell them which
+friends were available.
+In January 2013, Steinmetz
+and Alster began brainstorming
+ideas for a project they would
+come to call Merge - a social
+networking app that allows col-
+lege students to instantly com-
+pare schedules - designed to
+make meeting up with friends
+quick and easy.
+Steinmetz and Alster enlisted
+University alum Josh Sklar and
+LSA junior Nathan Pilcowitz,
+an iOS designer, in April 2013 to
+bring the app to life. Now, stu-
+dents can use Merge to meet
+friends for coffee, plan group
+projects and find out what
+friends are up to.
+
+The current version of Merge
+includes a buddy list that shows
+users which of their friends are
+available at any given time. Stu-
+dents can message available
+friends through the app, and cre-
+ate "events" to designate a time
+and place to meet.
+The app also has a comprehen-
+sive list of courses that students
+can add to their unique profiles.
+Steinmetz and Alster used pub-
+lic databases to load most course
+information into their app, while
+classes in the Business school
+and the School of Information
+had to be manually loaded.
+"Merge is for the busy, driven
+college student who wants to stay
+social, but wants to save a lot of
+time doing sotoo," Alster said.
+As of the Fall 2014 semester,
+Merge had accumulated 1,500
+users. They released a video on
+Monday to explain and promote
+the app.
+For now, Merge is a nonprofit
+endeavor. Steinmetz and Alster
+said their priority is creating
+a good product and increasing
+their user base. Until recently,
+they were paying out-of-pocket
+to get their idea off the ground.
+"We believed in the idea, but
+didn't have all this money to
+spend on an app," Alster said.
+"We figured if we could get an
+investor, it'd be worth it."
+See APP, Page 3A
+
+RESEARCH
+'U tolead
+new nuclear
+monitoring
+coalition
+Grant program
+aims to modernize
+Non-Proliferation
+Treaty enforcement
+By TOM MCBRIEN
+Daily StaffReporter
+Few scenarios are more ter-
+rifying than the possibility of
+a nuclear war or terror attack.
+But thanks to a federal grant,
+the University is leading a
+consortium that will develop
+cutting-edge technology and
+methods for nonproliferation
+efforts in the U.S. and world-
+wide.
+The University received
+a $25 million grant from the
+Department of Energy to lead
+the 13-university consortium
+in improving technologies for
+monitoring nuclear materi-
+als, developing new methods
+to detect secret nuclear tests,
+analyzing current nonprolif-
+eration efforts and training
+the next generation of experts
+in the field.
+Engineering Associate Prof.
+Sara Pozzi has been selected
+as the director of the program,
+which is called the Center for
+Verification Technologies.
+"There are threats from
+See NUCLEAR, Page 3A
+
+Terra Molengraff/DAILY
+Johan Mackenbach, professor and chair for the Department of Public Health at the Erasmus University Medical
+Center, speaks about health policy in European countries at the School of Public Health Wednesday.
+International professors
+discuss healthcare concerns
+
+Et
+
+)eakers outline School of Public Health, drawing
+around 40 graduate students and
+challenges of faculty.
+Johan Mackenbach, professor
+aropean health of public health at Erasmus Uni-
+versity Medical Center in Rot-
+disparitves terdam, the Netherlands, spoke
+of the recent divergence of life
+By JULIA LISS expectancy in Europe and possi-
+Daily StaffReporter ble explanations for such a trend.
+Mackenbach said the trends,
+o speakers gave a joint lec- which show health disparity
+ednesday on international based on national income gaps,
+policies at the University's are the result of a variety of
+
+cultural factors. Using charts,
+graphs and other data to help
+illustrate his point, Mackenbach
+showed that periods of democ-
+racy had historically higher life
+expectancies, while periods of
+more chaotic political climates
+showed dips in the life expectan-
+cies.
+Mackenbach outlined 11 spe-
+cific areas of focus for health
+policies, including tobacco con-
+trol, alcohol control, child health
+See HEALTHCARE, Page 3A
+
+Tw
+ture M
+health
+
+6-s *6 :
+ndph oka
+th 0.Iituetrn
+
+WEATHER HI 59
+TOMORROW L0:34
+
+GOT A NEWS TIP? NEW ON MICHIGANDAILY.COM
+Call 734-418-4115 or e-mail Game of Thrones' RECAP: 'Two Swords'
+news@michigandaily.com and let us know. MICHIGANDAILY.COM/BLOGS
+
+INDEX
+Vol. CXXIV, No. 99
+02014 The MichiganDaily
+michigondoilycom
+
+NEWS.........................2A SPORTS .. . ..........7A
+SUDOKU.. . .2 A CLASSIFIEDS...............6A
+OPIN IO N .....................4A B-SID E....................1B
+
+t
+
+
+2A - Thursday, April 10, 2014
+
+The Michigan Daily - michigandaily.com
+
+C, 4 Adcigan DAMh
+420 Maynard St.
+Ann Arbor, MI 48109-1327
+www.michigandaily.com
+PETER SHAHIN KIRBY VOIGTMAN
+Editor in Chief Business Manager
+734-418-4115 ext. 1251 734-418-4115 ext. 1241
+pjshahin@michigandaily.com kvoigtman@michigandaily.com
+
+S SONGS OF LOVE -i
+
+Alum studied AIDS in 80s
+
+H. Clifford Lane is the deputy
+director for Clinical Research and
+Special Projects at the National.
+Institute of Allergy and Infectious
+Diseases in Bethesda, MD. He
+received his B.A. in 1972 and M.D.
+in 1976, both at the University. He
+served in the U.S. Public Health
+Service Commissioned Corps from
+1979 to 2008.
+Do you have any interesting or
+funny stories from your time
+here?
+From the years I was there, it's
+clear that I was there during the
+Vietnam War protests and the
+marches on Washington, which
+I participated in. Those aren't
+really extracurricular activities
+
+but we drove all night one niE
+March on Washington to pr
+the war. That was pretty exc
+- there were so many peol
+Washington. We stayed o
+legal trouble but there was
+going on.
+What was your career
+trajectory after graduati
+I basically did four;
+there (at the University) a
+undergrad and then I did
+years there in Medical S
+and then I did three yearsI
+as a resident in internal med
+So when I left there I went t
+National Institute of Heal
+Bethesda, Maryland. My goa
+to be a medical doctor involv
+
+ght to research. I arrived at NIH in 1979
+otest and was studying immunology
+citing and infectious diseases and that
+ple in was exactly the time that the AIDS
+ut of epidemics started to emerge.
+a lot
+What was your involvement
+inthat?
+r
+ing? We saw some of the first cases
+of AIDS here at the National
+years Institutes of Health. And I began
+is an (by. being) invery involved in
+four studying patients with AIDS and
+chool working to develop better treat-
+there ments, understanding disease
+icine. mechanisms, traveling to places
+o the where there was a particular Sc
+th in problem with the disease to also ill,
+1 was get abetter understanding of it. re
+ed in -MAX RADWIN
+CAMPUS EVENTS & NOTES
+
+Newsroom
+734-418-411s opt.3
+Corrections
+corrections@michigandaily.com
+Arts Section
+arts@michigandaily.com
+Sports Setin
+sports@mihiandaily.com
+Display Sales
+dailydisplay@gmaitcom
+Online Sales
+onlineads@michigandaily.com
+
+News Tips
+news@michigandaily.com
+LetterstotheEditor
+tothedaily@michigandaily.com
+Editorial Page
+opinion@michigandaily.com
+Photography Setin
+photo michigandaily.com
+Classified Sales
+classified@michigandaily.com
+Finance
+finance@michigandaily.com
+
+RYAN REISS/paily
+att Armstrong is held by his mother during the
+ongs of Love concert for children with chronic
+nesses. The Dicks and Janes a capella group
+corded a song for him in Angell Hall Wednesday.
+
+CR ON THE WEB... rnichil'l c
+
+w
+r _rn n
+
+a ca ry,.ti:;
+
+2 Chainz
+
+'Thrones' Costa Rica
+BY CHLOE GILKE AND ALEX BY TOMMCBRIEN
+INTNER
+
+I
+
+Arts columnists Chloe
+Gilke and Alex Intner recap
+the most recent season of
+HBO's fantasy series, "Game
+of Thrones." They're hoping
+for more of Daenerys, find
+Tyrion quick-witted and are
+interested in Oberyn, a new
+character.
+
+The president-elect of
+Costa Rica studied at the
+University from 1983 to 1985
+on a Fulbright Scholarship.
+This election shocked voters
+as Luis Guillermo Solis hails
+from neither main political
+party. Instead, Solis' party
+aims to curb corruption and
+income inequality.
+
+WHAT: Highlightingthe
+conclusion of SpringFest
+2014, students have the
+opportunity to purchase
+discounted tickets to see the
+rapper 2 Chainz perform.
+Tickets canbe purchased at
+the Michigan Union Ticket
+Office or online.
+WHO: MUSIC Matters
+WHEN: Tonight at 8 p.m.
+WHERE: Hill Auditorium
+Film screening
+WHAT: There will be a
+screening of the feature
+"Wilaya", a film by Pedro
+Perez Rosado that examines
+the struggles of one girl as
+she returns to her family
+in an Algerian refuge camp
+after living in Spain for 16
+years.
+WHO: Department of
+Romance Languages &
+Literature
+WHEN: Today at 7p.m.
+WHERE: North Quad,
+space 2435
+
+Australian authorities
+student night detected new electronic
+signals thought to have
+WHAT: Students are originated from the wreckage
+invited for this fun-filled of Flight 370, CNN reported
+event featuring a variety Wednesday. They said the
+of hands-on activities and new evidence suggests the
+other entertainment. plane will be located "in the
+WHEN: Tonight from 8 to not too distant future."
+11 p.m.
+WHERE: UMMA, Apse Michael Schramm
+room discusses his experi-
+
+EDITORIAL STAFF
+Katie Burke ManagingEditor kgburke@michigandaily.com
+lenniferCalfasMnsagingNes Exditoe jcalfai@michgndaily.com
+SENIORNEWSEDIORSIeDiithamSamGringlas,WillGreenbergRachelPrack
+and Stephanie Shenouda
+A SSISN NmS oEInOn SAlanas Akh, a ainAmCn,H Cily a5yrawor OnAm
+Davis, Shohaevae,AmaeKareou, Thromaseucnrien,Emiliieeet, Max dinad
+MichaelSugerman
+Megan McDonald and
+Daniel Wang Editorial Page Editors opinioneditors@michigandaily.com
+SENIOR EDITORIAL PAGE EDITORS: Aarica Marsh and Victoria Noble
+ASSISTANT EDITORIAL PAGE EDITORS: Michael Schramm and Nivedita Karki
+Greg Garno and
+AlejandroZliga ManagingSportsEditors sportseditors@michigandaily.com
+SEEIO rOSEDTOR:MaxCohen ,Aea De teldbach,jtKareJerSummitt
+SSISTNT SPRToSoEDITOS:Lv Facher, DanielFedmn, Simxontaumn,Erin
+Lennon, Jake Lourim and Jason Rubinstein
+lohn Lynch and jplynch@michigandaily.com
+Akshay Seth Managing Arts Editors akse@michigandaily.com
+SENIORARTSEDITORS:GiancarloBuonomo,NatalieGadbois,ErikaHarwoodand
+ASISTA,*NT ARTS EDITORS: Jamie Bircoll, Jackson Howard, Gillian Jakab and Maddie
+Thomas
+Teresa Mathewand
+Paul Sherman Managing Photo Editors photo@michigandaily.com
+SENIORPHOTO EDITORS: PatrickBarronand RubyWallau
+ASSISTANTPHOTOEDITORS:AllisonFarrand,TracyKo,TerraMolengraffandNicholas
+Wilams
+Carolyn Gearig and
+Gabriela VasqUeZ ManagingDesignEditors design@michigandaity.com
+SENIORDESIGN EDITORS: Amy Mackensand AliciaKovalcheck
+Carlina Duan MagazineEditor statement@michisandaily.com
+DEPTE MAGAHITEEDDITORRRM aawn and Amrutha Sivakumar
+STATETO PHLOOOTODTOn ubyella
+STATEMENT LEAD DESIGNER: Amy Mackens
+MarklOssolinski and Meaghan
+ThompsnnMagnagingCo ky hDditri s copydesk@michigandaily.com
+SENIsORCOPYEITORS:uMaiam Sheikhean aid Nyer
+Austen Hufford Online Editor ahufford@michigandaily.com
+BUSINESS STAFF
+Amal Muzaffar Digital Accounts Manager
+DougtSolomon University Accounts Manager
+Leah Louis-Prescott classified Manager
+Lexi DerasMO Local Accounts Manager
+Hillary Wang National Accounts Manager
+Ellen Wolbert and Sophie Greenbaum Production Managers
+Nolan Loh Special Projects Coordinator
+Nana Kikuchi Finance Manager
+OliviaJones Layout Manager
+The Michigan Daily ISSN 045-96) is published Monday through Friday during the fal and winter terms by
+students at the University of MichiganOne copy is available free of charge to ail readers. Additional copies may
+bepickedupattheOailysofficefor$2SubscriptionsforfaltermstartinginSeptember i aU.S.malarese1.
+be prepaid. The Michigan Daily is a member of The Associated Press and"The Associated Collegiate Press.
+
+SpringFest Lacrosse loss
+BY ALICIA ADAMCZYK BY BRANDON HANDELSMAN
+
+Live music, TED talks,
+giveaways, Solar Car demos,
+food trucks and more will
+be showcased at SpringFest
+today. The sponsoring
+group, MUSIC Matters,
+advocate more than just a 2
+Chainz performance; it will
+raise thousands for charity.
+>> FOR MORE, SEE PAGE SA
+
+Michigan women's
+lacrosse lost Wednesday to
+Brown 19-10, in Providence,
+R.I. The players said
+they were proud of their
+teamwork, but the young
+squad - comprised
+entirely of freshmen - is
+experiencing loss after
+loss.
+
+CORRECTIONS
+. "Professor inducted to
+the 2014 Internet Hall of
+Fame" stated Douglas Van
+Houweling, associate dean
+of the School of Information
+still serves as the CEO of
+Internet2. He left the position
+in 2010 and now works full-
+time at the University. It also
+incorrectly stated that he
+authored the book "Higher
+Education in the Digital Age,"
+which is authoredby William
+Bowenthe former president
+of Princeton University.
+
+ence as a Christian and
+homosexual man. Schramm
+analyzes the Bible's language
+to gauge why religion views
+homosexuality as a sin.
+>> FOR MORE, SEE OPINION, PAGE 4A
+Toyota announced a
+worldwide recall of
+more than six million
+vehicles Wednesday in light of
+potential airbag conerns, The
+New York Times reported.
+This brings the company's
+U.S. recall total for 2014 to
+almost three million.
+
+
+County Circuit Judge to
+direct Dearborn program
+
+Student duo places second
+in national debate contest
+
+Shelton leaves bench
+for role in criminal
+justice program
+By SHOHAM GEVA
+Daily StaffReporter
+After 24 years of service,
+Washtenaw County Circuit
+Court Judge Donald Shelton
+announced Tuesday that he will
+step down in four months early to
+take a position at the University
+of Michigan-Dearborn campus.
+Shelton will be the new
+director of Dearborn's criminal
+justice program and an associate
+professor starting in the Fall 2014
+term. Shelton's term as judge was
+set to expire Jan. 1, 2015 but will
+now end Sep. 1, 2014.
+In an interview Wednesday,
+Shelton said stepping down
+wasn't an easy decision, with or
+without the last four months of
+his term.
+H-S
+
+"Leaving the bench is always
+a difficult decision, like leaving
+anything else you've done for
+almost a quarter of a century,"
+Shelton said. "But frankly, four
+months difference doesn't
+change any of those feelings. I've
+enjoyed being a judge, but I've
+been preparing for and looking
+forward to being a teacher for a
+long time."
+Shelton has previously held
+positions as an adjunct professor
+in several fields, including
+criminology and politicalscience,
+at Eastern Michigan University
+and Cooley Law School. He also
+served on Eastern Michigan's
+Board of Regents from 1987 to
+1990 and was the mayor of Saline
+from 1978 to 1986.
+As the director of the criminal
+justice program, Shelton said his
+plan for his first semester is to
+learn as much as he can.
+"One of the things I learned
+a long time ago is that when
+you come into a new program
+5-M
+
+the first thing you should do is
+be a sponge and keep quiet and
+listen," Shelton said. "That's
+my first objective for the first
+semester I'm there."
+After that, he said he'd like
+to increase focus on forensic
+science, which is his area of
+research specialty.
+Barry Pyle, a political science
+professor at Eastern Michigan
+University, said Shelton has pro-
+vided valuable contributions to
+the department at EMU as an
+adjunct professor and is quali-
+fied for a full time academic
+position.
+"Judge Shelton has opened up
+his chambers to a number of our
+students to work closely with
+him while he was a judge to give
+them hands on experience," Pyle
+said. "He was able to take a lot of
+his real life experience into the
+classroom here on campus and
+give students a realistic view of
+what it's like to be in a circuit
+court dealing with drugs, and
+crime, and family law issues."
+This term would have been
+Shelton's last as a judge even if
+he hadn't chosen to accept the
+Dearborn position. Michigan
+law prevents individuals at or
+over the age of 70 from being
+elected or appointed to a judicial
+position.
+Local lawyers Veronique Liem
+and Mike Woodyard announced
+plans earlier this year to run for
+his seat.
+Judge Darlene A. O'Brien, who
+serves alongside Shelton on the
+court, said that Shelton has been
+a strong leader and an asset to the
+citizens of Washtenaw County
+during his time on the court.
+"Judge Shelton will be missed,
+but I'm equally certain that he'll
+add great value to the University
+of Michigan-Dearborn's
+Criminal Justice program,"
+O'Brien said.
+Republican Gov. Rick Snyder
+will be responsible for appoint-
+ing someone to fill the seat for
+the four months left in Shelton's
+term after he steps down in Sep-
+tember.
+
+Team records best
+season finish for
+University since 1991
+By MAYA KALMAN
+Daily StaffReporter
+Business junior Ellis Allen
+and LSA junior Alex Pappas
+took home the second place
+title at the 2014 National Debate
+Tournament on March 31 at
+Indiana University.
+Allen and Pappas defeated
+Harvard University in the
+semifinals and narrowly lost
+to Georgetown University in
+the final round, earning the
+University second place for the
+first time since 1991.
+Aaron Kall, who has served as
+director of the debate team since
+2010, said Pappas and Allen's
+time commitment and efficiency
+are what allowed them to come
+this far.
+"Work ethic is something
+that's very important and our
+debaters spend a lot of time
+researching- the topic and
+spending time practicing so
+I think that's something that
+really sets us apart," Kall said.
+Kall said the most dedicated
+debaters spend 20 to 40 hours
+
+each week preparing for debate,
+while also maintaining high
+grades as full-time students. The
+average GPA of the debate team
+was about 3.75 last semester.
+Pappas said the team's
+willingness to work hard and
+the vast resources the University
+has to offer were also important
+in the team's success.
+"I really think the resources
+of Michigan are sort of what
+allows us to excel," he said. "I
+think my partner and I have just
+invested so much time and that
+we're pretty darn good at it."
+Allen added that the team's
+success could also be attributed
+to the initiative of the students
+on the team.
+"I think it's one of the more
+student-driven ones," he said.
+"There are a lot of teams out
+there who have phenomenal
+coaching staffs but everything,
+all the work we put out is
+student-motivated here and that
+also gives us a lot of creative
+control over what we do."
+Both Allen and Pappas agreed
+that success at debate is based
+on the amount of work you put
+in, beginning early in the year
+and continuing throughout.
+"I think its just preparation,
+preparation, preparation,"
+Pappas said. "It can be a single
+
+piece of' evidence that's the
+difference between winning and
+losing."
+The University has
+participated in the National
+Debate Tournament since 1971,
+winning second place three
+times, but has never taken home
+the championship. Nevertheless,
+Kall is optimistic about next
+year, given that Pappas and
+Allen will have the opportunity
+to build off their success going
+into their senior season.
+"They've got a great chance,
+probably as good a chance as
+anyone next year to win the
+national title, to win that final
+debate, and so we're really
+looking forward to next year as
+well," Kall said.
+Pappas and Allen both said
+they hope to win the National
+Debate Championship next year
+and win the Copeland Award,
+an award for the top-ranked
+national team of the year.
+"Wekindofhopeforthisgreat
+end of the season," Kall said.
+"But close defeat just motivates
+our students to work harder,
+to spend more time practicing,
+more time on research, and to
+kind of get them motivated to
+just take it to that very next and
+final level next year to win the
+national championship."
+
+Park declines additional wolves
+
+With population
+dwindling, officials
+promise new plan
+TRAVERSE CITY, Mich. (AP)
+- No additional gray wolves will
+be transplanted to Isle Royale
+National Park for now, the park's
+top manager said Wednesday,
+despite concerns that the Lake
+Superior island chain's dwin-
+dling and inbred population
+might not survive much longer.
+After consulting with experts
+and reviewing comments from
+
+the public, Isle Royale Superin-
+tendent Phyllis Green said staff-
+ers will develop a management
+plan that considers the wolves'
+long-term survival prospects
+and their interactions with
+moose. The two species' preda-
+tor-prey relationship is the sub-
+ject of one of the world's longest
+scientific studies of its type, now
+in its S6th year.
+It will take about three years
+to craft the plan, which also will
+focus on park vegetation and the
+effects of climate change, Green
+said. Officials could reconsider
+augmenting the wolf population
+k
+
+if gender imbalance prevents
+them from reproducing or if
+moose begin overbrowsing trees
+and bushes, stripping them of
+leaves and needles.
+"As long as there'sa breeding
+population, we're going to let
+these animals have a chance
+to live their lives without us
+intervening," Green said.
+Scientists, park officials and
+wildlife advocates are divided
+over whether to attempt a
+rescue of the wolves, a popular
+attraction for visitors even
+though most never glimpse the
+wily creatures.
+
+04
+
+
+The Michigan Daily michigandaily.com
+
+Thursday, April 10, 2014 - 3A
+
+The ichian aily- mchigndaiyco Thusda, Apil10.204 _
+
+
+APP
+From Page 1A
+Merge secured its first inves-
+tor in the beginning of March,
+and plansto start hiringstudents
+to help expand Merge to other
+schools.
+During the process of develop-
+ing Merge, Steinmetz and Alster
+realized they weren't the only
+ones with an idea for another
+social networking app.
+However, Steinmetz said, "it's
+not always who does it first, it's
+who does it right first."
+They plan to add more new
+features to Merge over the sum-
+
+mer while expanding to more
+schools like Cornell University
+and the University of Pennsyl-
+vania.
+One major addition involves a
+Snapchat-like function that will
+allow users to select multiple
+buddies to Merge with, creat-
+ing an event for everyone that's
+available.
+And, similar to the Venmo
+app, atriple newsfeed will allow
+users to easily keep track of pri-
+vate interactions, interactions
+among just their Merge buddy
+list or public interactions that
+any Merge user can see.
+"The biggest part of the fea-
+ture is that you can make it pub-
+
+lic, private, or for your friends,"
+Steinmetz said. "We think it's
+really fun to look through this
+and see what our friends are
+paying each other for. You get to
+see what people are up to."
+Updates to the app will also
+allow users to classify their
+events, enabling others to join
+public events.
+Because Merge is designed
+as a daily scheduler more than
+a long-term calendar, the devel-
+opers decided against synching
+users' Merge schedules with
+other calendars, as some other
+social networking apps have
+done.
+
+Research makes smell a new
+technique for marketing
+an imaaaas.. ne a
+
+dis
+con
+
+
+NUCLEAR
+From Page 1A
+nuclear weapons that are real,"
+Pozzi said. "There are nations
+that are trying to develop overt,
+or even covert, nuclear weap-
+ons programs. There's also the
+possibility that terrorists might
+acquire and use nuclear weap-
+ons. And these are interrelated
+problems, so the consortium will
+address these big issues."
+The Nuclear Non-Prolifer-
+ation Treaty, which came into
+force in 1970, has three major
+tenets: disarmament by current
+nuclear countries, nonprolifera-
+tion for non-nuclear countries
+and the right of all countries to
+pursue peaceful nuclear energy.
+Of the world's 195 countries, 190
+have signed the treaty. Notable
+exceptions are India, Israel, Pak-
+istan, South Sudan and North
+Korea, which withdrew in 2003.
+The Center will monitor these
+countries, as well as nations that
+have signed the treaty, and look
+at geophysical models of the
+effects of nuclear explosions.
+Secret underground nuclear
+tests cause shaking in the ground
+that has a different signature
+than earthquakes. New research
+HEALTHCARE
+From Page 1A
+and road traffic injury. He said
+countries that have more preven-
+tative health policies - contrary
+to most U.S. delivery models -
+showed fewer instances of health
+problems related to each area of
+concern.
+For example, he said countries
+with stricter tobacco control regu-
+lations and preventative measures
+to discourage smoking had fewer
+smokers, lower cigarette sales
+and fewer smoking-related health
+issues in the population.
+Mackenbach discussed possible
+reasons for the existing dispari-
+ties. He found that many coun-
+tries which could benefit from
+improved healthcare models often
+
+could help agencies, such as the
+International Atomic Energy
+Agency, detect these specific
+geophysical signatures, alerting
+them that a country is conduct-
+ing illegal tests.
+Another important arm of
+the Nuclear Non-Proliferation
+Treaty will allow nations to
+pursue nuclear energy without
+developing nuclear weapons.
+But monitoring nuclear material
+to ensure that it is not enriched
+into weapons-grade forms such
+as plutonium, uranium-233 and
+uranium-235 is currently a time-
+intensive and costly enterprise
+that relies on quickly disappear-
+ing materials.
+Current detection systems rely
+on a material called helium-3,
+which is growing increasingly
+rare because it was manufac-
+tured largely as a byproduct of
+nuclear weapons manufactur-
+ing. Researchers from the Cen-
+ter hope to create new detection
+devices that rely on specific
+emissions of neutrons - small
+particles that make up atoms -
+to detect enriched radioactive
+material.
+Researchers also said they
+hope the new technology would
+enable inspectors to monitor
+nuclear material without open-
+possess the means to do so, but are
+stymied by the political, social and
+cultural climate of the country.
+John Frank, director of the
+Scottish Collaboration for Pub-
+lic Health Research & Policy and
+chair of Public Health Research.
+& Policy at the University of Edin-
+burgh, Scotland, delivered the
+second address, titled "Influenc-
+ing Child Health Policies with Sci-
+entific Evidence: Lessons from 5
+Years in Scotland."
+His lecture aimed to demon-
+strate the importance of early
+access to education on an indi-
+vidual's health and future suc-
+cess. Frank said early education
+implementation is the single most
+important indicator for a child's
+future.
+"You can make people's chances
+in life muchmore equal inonly one
+
+ing containers - a much safer,
+faster, easier and less expensive
+alternative.
+Seismological testing and veri-
+fication systems are only a part of
+what the Center will focus on. As
+the chief scientist of the project,
+Engineering Prof. David Wehe is
+in charge of defining the "Grand
+Challenges" and fostering inter-
+disciplinary collaboration.
+"This is a daunting task
+because the CVT engages seis-
+mology, radiation detection,
+infrasound, optics, satellite sens-
+ing and imagery, intelligence
+gathering, big data mining, and
+policy," Wehe wrote in an e-mail
+interview. "CVT seeks to direct
+research in these diverse fields to
+meet a single mission area: nucle-
+ar verification."
+Pozzi said the University is a
+great choice to lead the consor-
+tium due to its history of excel-
+lence in nuclear and radiological
+studies.
+"Michigan had the first nucle-
+ar engineering program in the
+nation," Pozzi said. "We had
+some of the founding fathers of
+nuclear radiation detection. One
+of them is Prof. Glenn Knoll, who
+is now an emeritus professor, and
+he will be sitting on my advisory
+board."
+really cost effective way, and that
+is giving universal preschool high
+quality education, half day a week
+from age two, age one in high risk
+families," Frank said.
+Frank proposed a plan to com-
+bat societal challenges through
+education, while addressing some
+of the concerns of implementing
+potential reforms.
+Public Health Prof. George
+Kaplan acted as the moderator
+and he introduced both Macken-
+bach and Frank's speeches and
+led a question and answer session
+after each speaker. The Institute
+for Healthcare Policy and Inno-
+vation, the University's Robert
+Johnson Foundation Scholar's in
+Health Policy Program and the
+Center for Social Epidemiology of
+Population Health sponsored the
+event.
+
+AU
+covere
+sense
+tiseme
+Bus
+na ha
+resear
+stratej
+as "m,
+sumer
+ples' b
+trigge
+Kri
+Sensor
+Schoo
+
+L 111c~g11CU )C~e the lab aims to show that olfactory
+;covered to sway imagery can be used to improve
+the efficacy of certain advertise-
+Isumers' opinion ments when paired with strong
+visual images.
+of a product Temple University Professor
+Maureen Morrin, who worked on
+By JULIA LISS Krishna's team, said the research
+Daily StaffReporter could increase the effectiveness
+of ads. However, the research is
+niversity professor has dis- currently in such early phases that
+d a way to use an imagined companies are not yet incorporat-
+of smell to enhance adver- ing the findings to attract custom-
+nts for food. ers.
+iness Prof. Aradhna Krish- "We would love it if advertisers
+is made progress in her took notice and started incorporat-
+ch on sensory marketing ing a call to the consumer to imag-
+gies, a field that she defined ine the odor of their products,"
+arketing that engages con- Morrin said.
+s' senses and affects peo- Olfactory imagery, or "smelliz-
+ehavior using subconscious ing" as Krishna and her team call
+rs." it, allows consumers to imagine
+shna is the director of the a smell that they are not actually
+ry Marketing Lab at the Ross experiencing, much like visualiz-
+I of Business. Research at ing something you are not looking
+
+at. Krishna said the existence of
+olfactory imagery has been a mat-
+ter of controversy within the aca-
+demic community for a long time,
+but now there is more certainty of
+its existence.
+Researchers ran fMRI stud-
+ies to see which parts of the brain
+are active when smelling an actual
+scent compared with smellizing.
+Results show that the brain activ-
+ity is identical in both scenarios,
+which researchers claim is olfac-
+tory imagery at work.
+To further their understanding
+of the phenomenon, Krishna's lab
+tested whether people found hand
+warmers and coolers more effec-
+tive if they had a congruent warm
+or cold smell injected into them.
+They found that hand warmers
+with warm smells like pumpkin
+spice were more effective than
+ones impregnated with a smell like
+sea-island cotton.
+
+Detroit reaches bankruptcy
+deal with $388M in bonds
+
+Decision is only a
+small fraction of
+overall case
+DETROIT (AP) - The city of
+Detroit reached a deal in bank-
+ruptcy over $388 million in bonds,
+mediators announced Wednes-
+day, a significant agreement that
+could influence other creditors to
+try to geta settlement.
+Detroit will pay 74 cents for
+each dollar. Roughly $50 million
+in tax revenue that won't be need-
+ed to pay the balance instead will
+go to a fund to help low-income
+retirees who are expected to see
+smaller checks when the bank-
+ruptcy case ends.
+The deal still needs the bless-
+ing of Judge Steven Rhodes and is
+only a small part of the $18 billion
+case, the largest bankruptcy by a
+local government in U.S. history.
+Detroit emergency manager
+Kevyn Orr, appointed by the state
+to run the city, said he hopes to
+announce more deals soon.
+"It's important that people get
+on the bandwagon," Orr told The
+Associated Press, referring to
+other creditors, especially unions,
+who have been privately meeting
+with the city and mediators.
+
+Earlier, on CNBC, Orr said he
+doesn't want to turn to a "cram-
+down," a bankruptcy term that
+gives a judge sweeping power to
+settle disputes.
+The aid for low-income retirees
+was welcomed by a spokesman for
+the police and fire pension fund.
+"However, whether the settle-
+ment as a whole is advantageous
+to the city and to the retirement
+systems - we just do not know,"
+Bruce Babiarz said.
+Detroit hopes to exit bankrupt-
+cy by October, but the city's plan
+first faces a series of court hear-
+ings in summer. The most divisive
+issue: cuts to pensions.
+The city is proposing a 6 per-
+cent cut for retired police officers
+and firefighters, and a 26 percent
+cut for other retirees. The differ-
+ence is tied to the health of the
+two pension funds.
+The size of those cuts assumes
+that foundations, the state of
+Michigan and other philanthro-
+pists contribute $816 million to
+help pensioners and prevent the
+sale of city-owned art. If retir-
+ees and city employees reject the
+cuts, the outside money vanishes
+and pensions would be slashed
+even more.
+Anthony Sabino, a bankruptcy
+expert and St. John's University
+
+law professor, said the bond deal
+is a "good sign of progress" in the
+case.
+"We call that taking a hair-
+cut," he said. "That's fairly typi-
+cal for bondholders in a corporate
+bankruptcy. There usually is a
+restatement of terms, and the
+bondholders take some kind of
+reduction."
+Bondholders earlier had been
+offered 15 cents on the dollar, but
+Orr said there was a risk that the
+city would lose access to a prop-
+erty tax earmarked for debt if it
+didn't make a better deal.
+Separately,-a group of creditors
+with eyes on Detroit's art said it
+has found buyers willing to pay
+more than $1 billion for parts or
+all of the collection. Creditors are
+asking the judge to order Orr to
+cooperate with interested parties.
+New York-based Art Capital
+Group said it would arrange $2
+billion in loans to Detroit with
+art at the Detroit Institute of Arts
+used as collateral. Orr, however,
+told AP he's not interested and
+will stick with a plan to raise
+money from foundations and the
+state.
+"We've committed ourselves to
+that bargain. No one can compel
+the city to sell assets," Orr said.
+
+
+INTERNET
+From Page 1A
+Halderman, associate professor
+of electrical engineering and
+computer science, 3.7 percent
+of the top one million Internet
+sites have been vulnerable to
+attack.
+"The Internet is not falling
+down or coming to an end,"
+Bailey said. "The vulnerability
+exists because someone made a
+coding error."
+Howell said the problem was
+not well known, but now that
+the code for the security hole
+is public - made available in
+part for IT staff to test the effi-
+cacy of patching efforts - there
+is increased likelihood of oth-
+ers gaining access to sensitive
+information.
+"This week there is definitely
+DIVERSITY
+From Page 1A
+The event featured perfor-
+mances by students who wrote
+creative pieces addressing the
+issue of certain identities being
+ignored or misrepresented at
+the University. The event also
+featured guest performances
+by The Harmonettes, the Uni-
+versity's first female a cappella
+group and Amazin' Blue, the
+University's oldest co-ed a cap-
+pella group.
+The creative works tackled
+topics like weight and appear-
+ance, mental health, financial
+and academic discrimination,
+misogyny, sexuality and race.
+
+added risk," he said.
+However, Bailey said it's
+impossible to know whether or
+not data, such as passwords or
+pin numbers, was stolen during
+the two years prior to patching
+the flaw.
+Since the flaw's discovery,
+University ITS staff worked to
+individually patch the codes for
+the University's large portfolio of
+webservers and sites. Howell said
+it's difficult to estimate how many
+sites were affected and how many
+are yet to be repaired, since infor-
+mation technology at the Univer-
+sity is largely decentralized.
+ITS officials in individual aca-
+demic units have been notified
+on how tofix the issues and most
+main siteswere fixed Monday, but
+it's possible there are still sites
+affected by the problem that have
+yet to be identified.
+While the University recom-
+The event also discussed the
+issues of some students who do
+not feel they are "Victors" at the
+University.
+Rohit Sreedharan, a research-
+er at the University's Pediatrics
+and Endocrinology department,
+said the part of the event that
+stood out to him the most was
+the criticism some performers
+used against the University.
+"You see all of the signs
+around that portray how the
+University ignores a lot of stuff
+going on under the table that
+you don't really know about
+until you go to these events,"
+Sreedharan said.
+Sreedharan added that the
+event opened his eyes to the
+issue of diversity on campus.
+
+mends people change their pass-
+words at least biannually, Howell
+said ITS officials have not yet
+decided whether they will send
+out an e-mail to notify faculty,
+students and staff to change their
+uniqname passwords in light of
+the flaw.
+He added that users might see
+an influx of phishing e-mails,
+which are scam messages posing
+as University official that prompt
+recipients to provide passwords
+and other personal information,
+and warned students to beware of
+any suspicious correspondence.
+"I think it's probably a good
+idea for folks to change their
+password," Bailey said. "Whether
+or not I actually believe the Uni-
+versity of Michigan lost informa-
+tion, I wouldn't bet money on it.
+But good password hygiene has
+you changing your high-value
+passwords all the time."
+LSA sophomore Grace Fisher
+said the range of backgrounds
+impressed her the most.
+"There definitely needs to be
+more dialogue about diversity
+at the University," Fisher said.
+"This is an important step ... and
+I hope that in the future, events
+like this will have wider audi-
+ences."
+Even though this was the last
+Diversity Monologues event
+of the semester, Kaur said she
+hopes to continue the series in
+the future.
+"This is definitely something
+that we want to keep going and
+have it as the staple of the Hon-
+ors program," Kaur said.
+
+FOLLOW THE MICHIGAN DAILY
+ON TWITTER
+@michigandaity
+
+a
+
+
+4A - Thursday, April 10, 2014
+
+The Michigan Daily - michigandaily.com
+
+4A - Thursday, April 10, 2014 The Michigan Daily - michigandailycom
+
+41Cmitigan Ba1k)
+Edited and managed by students at
+the University of Michigan since 1890.
+420 Maynard St.
+Ann Arbor, MI 48109
+tothedaily@michigandaily.com
+MEGAN MCDONALD
+PETER SHAHIN and DANIEL WANG KATIE BURKE
+EDITOR IN CHIEF EDITORIAL PAGE EDITORS MANAGING EDITOR
+Unsigned editorials reflect the official position of the Daily's editorial board.
+All other signed articles and illustrations represent solely the views of their authors.
+A-matter of morals
+Michigan shouldn't need an economic basis to ban discrimination
+The Business Leaders for Michigan have recently thrown their
+support behind the banning of employment discrimination based
+on sexual orientation. These leaders have rationalized their support
+on the basis of an economic argument, claiming that states who limit this
+kind of discrimination in the workplace would increase the number of
+qualified individuals, a principle which could be applied to Michigan. While
+this rationalization is sound, an economic argument shouldn't be the only
+reason for the banning of discrimination on the basis of sexual orientation.
+
+Christianity's g(r)ay area
+
+n getting to know me, many
+people are surprised that
+I'm Christian. In an already
+religiously
+unaffiliated
+society, LGBTQ
+members,
+are twice as
+likely to have
+no affiliation.
+This trend
+makes sense MICHAEL
+considering SCHRAMM
+73 percent of
+Christians
+believe homosexuality is a sin.
+The argument - one that's been
+passed down for generations - is
+prettyeasy to understand. The Bible is
+God'sword, and therefore the entirety
+of its content is rules for us to follow.
+Since a number of Bible verses (argu-
+ably between six and 12) condemn
+homosexual relations, Christianity
+condemns homosexuality.
+But do these verses condemn homo-
+sexuality? Many hear the argument
+in my last paragraph, skim through
+the verses and immediately write
+homosexuality off. To an extent, I can
+understand why they'd reach this con-
+clusion. First, they've probably always
+heard that homosexuality is sinful, so
+they have no reason to think other-
+wise. Second, with verses like "You
+shall not lie with a male as one lies
+with a female; it is an abomination,"
+it's easy to make quick assumptions.
+Contrary to popular belief, these
+verses don't concretely condemn
+homosexuality. Regardless of which
+verse you're reading, it's important
+to note they discuss only male homo-
+sexual sex. I won't bore you with each
+versebutasimple Googlingof"homo-
+sexuality verses" proves this point.
+There is a logical explanation for only
+addressing sex. During biblical times,
+homosexual relations consisted pre-
+dominantly of older men with boys
+and men with their male slaves. These
+sexual acts were often forms of rape
+to show dominance, so it makes sense
+why the Bible would condemn "prac-
+ticed homosexuality." This explana-
+tion also illuminates why these verses
+address homosexual men. Only one
+verse arguably addresses women's
+homosexuality, yet even this verse
+contains ambiguity in its reference to
+
+lesbian acts. These acts were cultur-
+ally irrelevant to women, so the Bible
+didn't need to address them.
+If these verses are addressing
+homosexual acts of domination, this
+means that the Bible never addresses
+homosexual relationships. There's a
+reason for this - these relationships
+rarely, if ever, existed. Marriages were
+dictatedby parents, and parentsbased
+marriages on familial connections,
+financial gain and land. Love was
+frequently subordinate to benefitting
+the family. Therefore, homosexual
+relationships were outside cultural
+norms. For example, the man's parents
+were expected to provide the woman
+and her parents a dowry of money
+and gifts. If two men tried to marry,
+this essential marriage tradition
+would become muddled. Customs
+like these created an expectation that
+men marry women, so relationships
+complicating the traditions weren't
+given serious thought.
+Nowadays, relationships are
+different. We typically choose
+long-term relationships based on
+a romantic connection, and since
+my previous argument assumes the
+Bible doesn't condemn homosexual
+relationships, the Christian
+religion should have no problem
+with homosexual relationships.
+I wish that I could dedicate more
+words to this argument because
+there's so much more to discuss.
+Unfortunately, I need to spend
+my remaining 400 words saying
+other things.
+Likehowit'snotfairthatChristians
+judge me for my lifestyle. I know for a
+fact that part of my community looks
+down on my pursuit of another young
+gentleman. It stings because some of
+these people are my friends, yet they
+seldom make the effort to hear my
+position - let alone take it seriously.
+Though they won't challenge my
+belief to my face, I know from enough
+sources that it's a topic they've
+discussed with each other. They see
+megoingagainstthe church's opinion,
+so they assume I'm wrong.
+But the truth of the matter is, I don't
+think I'm wrong, and I shouldn't feel
+shame for believing I'm right. My
+reasoning stems from more than my
+opinion benefitting my personal life.
+I've done my biblical research, and
+
+I hold my belief because it takes the
+Bible - Christianity's ultimate frame
+- into consideration. Since many hold
+the opposite stance because "that's
+what we've always believed," I would
+even argue that my opinion is more
+God-rooted than theirs.
+However,this doesn'tmeanthatI'm
+judging your opinion if it's different
+than mine. It saddens me that many
+have opposite beliefs on a subject so
+important to my life, but if your stance
+stems from a clear and argumentative
+interpretation, I'll respect your belief.
+I'll even hear out what you have to say.
+Likewise,though,it's only fair that you
+hear my argument, and when I settle
+into a relationship, it's not your place
+to assume my decisions are swinful.
+Like any other Christian, I'm merely
+following what I believe is right.
+Because - besides the biblical
+arguments - I feel God directing me
+on this path, andI've felt this for along
+time. For too many evenings than he
+can remember, mid-teenager Michael
+laidhisheadonhispillow,clutchedhis
+comforter in his developing palm and
+prayed an assortment of prayers. The
+"God, take these (gay) feelings away
+from me" prayer; the "God, help me
+through this" prayer; the "God, I want
+a love of my life so badly, but if I'm gay,
+I'm not allowed" prayer; the "God,
+everyone will treat me differently
+if I really am gay" prayer; the "God,
+let your will be done, but please just
+give me some comfort" prayer. After
+reciting these prayers more times
+than he can remember, mid-teenager
+Michael woke up every morning to
+realize that absolutely nothing had
+changed. Though God doesn't give us
+everything we ask for, he wasn't even
+providing his fundamental promise
+to ease stress in trying times. After
+enough prayer sessions ending in
+nothing but restless anguish, mid-
+teenager Michael came to the conclu-
+sion that there must be an explanation
+for his God's actions. That despite an
+overwhelming consensus onthe topic,
+something was missing. That some-
+thing was wrong. That lying under-
+neath a seemingly one-sided debate
+existed agray areamore complexthan
+the consensus made it appear.
+- Michael Schramm can be
+reached at mschramm@umich.edu.
+
+Michigan's Elliott-Larsen Civil Rights Act
+was passed in 1976, prohibiting employment,
+housing or public accommodation
+discrimination on the basis of religion, race,
+color, national origin, age, sex, height, weight,
+familial status or marital status. The bill
+doesn't, however, cover discrimination on
+the basis of sexual orientation or expression.
+Business Leaders for Michigan recently
+voiced their support for the expansion of
+this bill to include such sexual orientation
+discrimination under the purview of the law.
+Their reasoning is an economic one: with
+the goal of making the state one of the top
+business competitors in the country, banning
+discrimination will aid in attracting qualified
+job candidates and work to make all applicants
+feel welcome in the Michigan workplace. A
+recent Michigan Department of Civil Rights
+survey discovered that a discriminatory
+climate in the Michigan workplace is driving
+professionals and college graduates out
+of the state as well as making Michigan a
+less welcoming place for non-natives, thus
+
+hurting the Michigan economy asa whole.
+While an economic argument can and
+is being made for the expansion of anti-
+discrimination legislation, discrimination
+of any kind should not be tolerated for any
+reason. The CEOs are creating a catalyst
+for social change, which will greatly benefit
+the state and its population, but Michigan's
+citizens should take it upon themselves
+to initiate this change as a matter or
+moral imperative.
+The state needs to step up and end
+discrimination. This change needs to be
+brought about by more thanjust the corporate
+world aiming to increase their profits and
+better their reputation in the business world.
+A social component needs to be included in
+this move for social change. The Business
+Leaders of Michigan are supporting societal
+change that must be accepted by the state
+of Michigan writ large for the betterment of
+our society and the acceptance of any and all
+current and potential residents of the state
+of Michigan.
+
+EDITORIAL BOARD MEMBERS
+Barry Belmont, Edvinas Berzanskis, David Harris, Rachel John, Nivedita
+Karki, Jacob Karafa, Jordyn Kay, Aarica Marsh, Megan McDonald, Victoria
+Noble, Melissa Scholke, Michael Schramm, Matthew Seligman, Paul
+Sherman, Allison Raeck, Linh Vu, Meher Walia, Daniel Wang, Derek Wolfe
+No such thing as a healthy selFe
+
+
+ast November, Oxford Dictionaries
+announced "selfie" as its international
+Word of theYear2013, an awardgivento
+either a word or expression
+that has attracted a great
+deal of interest during the
+year. Its research reveals
+that the frequency of the
+word "selfie" in the English
+language has increased
+by 17,000 percent since -A-L
+late 2012. LAUREN
+Searching #selfie MCCARTHY
+on Instagram renders
+97,032,845 posts, and is
+followed closely by related
+hashtags such as #selfiesunday, #selfienation,
+#selfiesfordays and #selfiecentral.
+For $1.29, fans of the songwriting duo The
+Chainsmokers can download their #14 song on
+iTunes, "#SELFIE." The song tops the charts
+with profound lyrical insights such as "But first,
+let me take a selfie," "Can you guys help me pick
+a filter? I don't know if I should go with XX Pro
+or Valencia, I wanna look tan," "Whatshould my
+captionbe?"and"Ionlygot10likesinthelast five
+minutes, do you think I should take it down?"
+I wish I were making these things up.
+The HuffingtonPostrecently reported onBrit-
+ain's first victim of a selfie addiction with a head-
+line that reads, "Selfie Addiction Is No Laughing
+Matter, Psychiatrists Say." Nineteen-year-old
+Danny Bowman allegedly dropped out of school
+and did not leave his house for six months in pur-
+suit of capturing the perfect selfie. He apparently
+dedicated about 10 hours a day taking up to 200
+pictures of himself on his iPhone. Unsatisfied
+with his efforts, Bowman attempted to take his
+ownlife.
+The article quotes psychiatrist Dr. David
+Veale, whose clinic treated Bowman's addic-
+tion, remarking, "Danny's case is particularly
+extreme, but this is a serious problem. It's not a
+vanity issue. It's a mental health one which has
+an extremely high suicide rate."
+It is apparent that "selfies"' sovereignty will
+outlive its allotted year-long reign, as it has
+warranted a chart-topping ballad and has been
+allocated an entire day on Instagram in its dedi-
+cation. The downside is that though amusing and
+often celebrated, "selfies" are yet another soci-
+etal trend that while seemingly entertaining and
+inconsequential, can be taken to toxic extremes.
+
+With the popularity of selfies and Instagram
+came the subsequent invention of apps like
+Skinnee Pix, which can trim anywhere from five
+to 15 pounds of virtual fat off your selfies -simply
+exacerbating the issue at hand. In an article
+for Psychology Today, Dr. Pamela Rutledge
+explains that taking selfies can be detrimental
+to a person's mental health and that indulging in
+them is indicative of narcissism, low self-esteem,
+attention-seeking behavior and self-indulgence.
+The idea that taking selfies may possibly be
+responsible for a variety of troubling mental
+health issues will likely not be met with
+acceptance by a society enthralled by technology
+and personal gadgets. Rutledge mentions that
+some experts and physicians even feel that
+society is collectively engaged in deep denial
+about how dangerous it is to interact with screens
+without settinglimits on how much time is spent
+doingson- and I would not disagree.
+Her concession to "put aside your anxieties
+over rampant narcissism and the moral
+decline of the digital generation and exhale
+... like every trend, the behavior will recede
+when the excitement and newness wears off,"
+however, I take issue with.
+Selfies are just the most recent installment
+of technological trends, and when its "excite-
+ment and newness wears off" another social
+media craze or application is bound to take its
+place. Though media fads are nothing new to
+American society, the intense vulnerability
+and insecurity that social networking and
+personal technologies induce is both alarm-
+ing and troubling. Are we setting the stage
+for coming generations to be hypersensitive
+to and misunderstanding of communica-
+tion, self-representation, self-indulgence and
+their appearance?
+Our generation inherited these
+technologies in our teens, but how will it
+affect the 5 and 6-year-old children who
+already know how to take selfies on their
+parents' Macbooks, iPads and iPhones? Will
+we raise children who are permanently
+fixated on themselves, seeking self-validation
+through 'likes' rather than intellect or wit,
+capturing "the moment" by recording simply
+their own appearance and perpetually living
+out of touch with their surroundings?
+- Lauren McCarthy can be
+reached at laurmc@umich.edu.
+
+RIMA FADLALLAH f
+T
+In conversations surrounding
+liberation or "social justice," we talk
+a lot about feelings of guilt on the
+part of those with privilege. I would
+argue that we talk far too much about
+these feelings, so much that we (and
+I say we because I, too, am guilty of
+being expressively guilty) silence
+others in the process. What's worse is
+that we silence those whose (already
+marginalized) voices we should have
+been listeningto all along.
+Guilt is an extremely passive
+emotion - perhaps the most passive of
+them all. I would know - when I feel
+guilty, I'm usually in this lazy limbo
+phase where I'm very emotionally
+invested in my role as an activist,
+but I'm not quite righteous enough
+to feel resentment and I'm not quite
+courageous enough to truly own up to
+my silencing behavior. So I feel guilt.
+Which is cool, because guilt is an
+emotion and I believe that honoring
+our raw emotions before we are able
+to unpack them is necessary and
+beneficial to our well being and our
+personal growth.
+It's how we express our guilt that is
+important.
+Not all emotions need to be
+unpacked - sometimes I just don't
+have, need or even want the language
+to describe what is going on in the
+depths of my soul. Similar to the way
+blood only turns red when exposed
+to oxygen, trying to put a name on
+my emotions can strip them of their
+true colors. So I keep them inside
+and let them do what I believe they
+will naturally do for me - so long as I
+remain cognizant of the connection
+between my mind, body and soul in
+the process.
+I am currently in the process of
+learning what to do with my guilt, and
+I figured I would share my insights
+with all of my fellow guilty people
+who also want to be more socially
+responsible:
+1. Recognize that guilt in itself is
+a privilege. The fact that I feel guilty
+rightsnow means that Iam complacent
+in a dynamic whereby I am (directly
+or indirectly) the oppressor. I'll say it
+again so it sinks in: in certain circles,
+my very existence (as a straight, upper
+class, American, able-bodied, cis-
+gendered, college educated person) is
+oppressive. Guilt is aprivilege.
+2. Sometimes, expressing things
+is overrated - some things I should
+just keep to myself. Let me tell you, I
+never thought I would ever say that,
+and those closest to me are probably
+
+he guilt toolt
+still rubbingtheir eyes.Ibelieve inthe
+power of language as transformative,
+revolutionary, cathartic, Ido.But that's
+just it; in truly coming to understand
+the jarring effects of language, I've
+learned that some things are just
+better left unsaid, especially when my
+motivationsforexpressionarebecause
+I'd feel more credible or welcomed in
+certain spaces. Expression of guilt is
+self-serving.
+Here are a few examples for us
+both to follow: If I feel guilty that
+my parents are rich, that's not really
+something I need to bring up in a
+circle of friends who come from a
+low socio-economic background. If
+you feel guilty that your conservative
+Christian parents would hate me
+because Iam Muslim, that's not really
+something I need to hear. What are
+these statements accomplishing?
+Nothing productive. Some things we
+should just keep to ourselves, let our
+feelings fester inside until we come
+up with our own answers instead of
+seeking answers from people whom
+we will hurt and silence with our
+inquiry and confession - expression of
+guilt is insensitive.
+3. My guilt should be a sign that I
+am not an expert in the space where
+I feel guilty. Building from my last
+point, I am learning that the spaces
+where I feel most guilty should also
+be the spaces where I speak the least
+and listen the most. My guilt in itself is
+an indicator that my narrative may be
+one that dominates and marginalizes
+voices that cannot be heard until I
+shut up. While my guilt may urge me
+to speak up to "compensate" for being
+privileged, I should actually just keep
+quiet and stop trying to center myself
+because this conversation isn't about
+me, not everything is about me. Guilt
+is selfish,guilt is self-centered.
+4. If I am still guilty, that's fine.
+ButIneed to seriously reflect on howI
+envision my role as an activist. This one
+is a tough one, mostly because I am
+still thinking and working through
+it. I believe that my guilt means
+that I am still trying to reconcile
+my role in a given movement. I am
+uncomfortable with the role I am
+currently playing, so I rely on guilt
+to make me feel better. As a self-
+proclaimed "activist," I am learning
+that guilt has the power to stymie
+growth and nurture complacency by
+making me feel that my feelings of
+guilt alone are productive. Guilt alone
+is not productive.
+Icouplethislessonwithtoolkititem
+
+#2: I'm learning that if my activism is
+in the form of a Facebook status, a
+Michigan in Color article or any other
+form of public expression, it should be
+reflective, respectful and responsible
+for it to be productive. Guilt without
+self-reflection, honesty and respect
+cannot be productive. "Guilt as
+productive" and "guilt as passive"
+are mutually exclusive statements,
+therefore guilt is fallacious, guilt is
+deceiving.
+5. My guilt does not make me an
+exception. I've learned that constantly
+criticizing those who are racist,
+homophobic, classist, ageist, etc. does
+not magically dismiss me from being
+those very same things. Guilt is a cop-
+out. IfIam notdirectlyoppressedbya
+system - whether it be anti-Blackness,
+heteronormativity, even American
+exceptionalism - I am complacent
+in those very systems of oppression.
+This does not mean that I cannot play
+a role in helping deconstruct them; it
+just means that my role needs to start
+within myself before I should even
+think about how to criticize others,
+about how to operate in that space.
+Guilt is lazy, guilt is passive.
+All that said, I can speak from
+personal experience when I say that
+consciously reflecting on all of these
+things is no easy task. In fact, it is
+exhausting, emotionally draining
+and extremely confusing. Still, it is
+absolutely necessary - especially on
+a campus so hostile to minorities, the
+LGBTQ community, those who come
+fromlow-SESbackgrounds and people
+with other targeted identities. I truly
+believe our world would be a better,
+less hurtful place if people stopped
+focusing on the discomfort that
+often comes along with recognizing
+their privilege, because feeling
+uncomfortable is a hell of a lot better
+than having to bear oppressive blows
+dayafterdaylike manyofmypeersdo.
+When I contextualize my discomfort
+that way, I realize how petty and
+self-centered my complaints are. We
+would all be more responsible if we let
+those feelings of discomfort and guilt
+marinate for a bit, if we truly reflected
+on why we feel uncomfortable to
+begin with.
+As Wolverines, before we can
+"expect respect," we must hold
+ourselves to the same standards of
+respect (for self and others) to which
+we feel so entitled.
+Rima Fadlallah is an LSA senior and
+managing editor of Michigan in Color.
+
+FOLLOW THE DAILY ON TWITTER
+Keep up with columnists, read Daily editorials, view cartoons and join in the debate.
+Check out @michigandaily to get updates on Daily content throughout the day.
+
+am
+
+fA
+
+
+The Michigan Daily - michigandaily.com
+
+Thursday, April 10, 2014 - 5A
+
+event spotlight: music matters presentscz,
+bAlicia Adamczyk, Weekend Roundup Editor
+
+at do a Shark Tank-
+style business com-
+petition, live music
+performances from internation-
+ally-acclaimed artists and TED
+Talks all have in common? Uni-
+versity students will get to expe-
+rience all of them and much more
+during Thursday's third annual
+SpringFest, #IGNITE.UM.
+The capstone event of MUSIC
+Matters, a student organization
+built to combine the power of
+music and student activism to
+make the world a better place,
+SpringFest is a SXSW-style fes-
+tival across Central Campus
+designed to promote creativity
+and bring students from all cor-
+ners of campus together.
+At the end of the day, rap art-
+ist 2 Chainz will perform at the
+annual benefit concert in Hill
+Auditorium. Proceeds from this
+year's ticket sales will be used to
+create a summer camp at the Uni-
+versity for underprivileged chil-
+dren in grades 6-8.
+This year, a "completely
+revamped" SpringFest has
+expanded to incorporate more
+schools, colleges and student
+organizations than ever before.
+Business junior Nick Moeller,
+SpringFest chair, said 40 student
+organizations have signed on to
+participate throughout the day.
+In addition to the business
+competition, sponsored by
+MPowered, and live music per-
+formances, there will also be a
+photo exhibit presented by the
+Black Student Union, a Start-Up
+Village, demonstrations from the
+Solar Car team and food trucks
+and other vendors.
+"Everybody sort of sticks to
+their own thing during the year,"
+Moeller said. "Come end of the
+
+year, there's not really anything
+that brings people together. So
+we wanted to create something
+that brings people from all back-
+grounds together in a collabora-
+tive event."
+Spanning from the steps of the
+Hatcher Graduate Library across
+to Ingalls Mall, all of the student
+organizations are designated
+one of five sections: Innovation,
+Art, Sustainability, Identity
+and Social Justice. Moeller and
+the rest of the MUSIC Matters
+executive committee said they
+believe these subject areas best
+encapsulate the spirit of Univer-
+sity students.
+While in past years the event
+has garnered attention as a sort
+of replica of Festifall, the group's
+goal this year is to drive enough
+traffic and excitement around
+the event that in future years
+SpringFest will be able to facili-
+tate collaborations between orga-
+nizations that otherwise wouldn't
+happen and not just entice stu-
+dents to join another organization
+or two, LSA senior Phil Schermer,
+founder and president of MUSIC
+Matters, said.
+"Here is an opportunity to
+bridge gaps between the colleg-
+es," Schermer said. "The purpose
+is broader than just a fun concert;
+there's a much bigger idea here."
+North University Avenue will
+house the live music stages, cor-
+porate sponsors and various food
+trucks. Folk-rock band Grizfolk,
+which recently finished a tour
+opening for Bastille, will headline
+the live performances. other per-
+formers include Ann Arbor native
+Dan Henig, best known for his
+YouTube-famous acoustic cover
+of Lil Jon's "Get Low," and LSA
+sophomore Sylvia Yacoub, a top-
+
+10 finalist on NBC's "The Voice."
+Given the breadth of organiza-
+tions, sponsors and events, stu-
+dents will be hard-pressed to fit
+in all of SpringFest's activities.
+Information sophomore Made-
+leine Chone, a member of MUSIC
+Matters' talent and concert team,
+said it is this diversity of groups
+and ventures that makes Spring-
+Fest such a unique and can't-miss
+campus experience.
+"It's difficult to explain to
+someone in a sentence," Chone
+said. "It's exactly that that makes
+it so great. You can't sit down and
+explain it in a sentence, it takes
+five minutes."
+And while connecting stu-
+dents, creating a legendary
+campus event and encouraging
+creativity in thought and social
+activism are of the utmost impor-
+tance for the organizers, theyalso
+admitted there are a few other
+exciting aspects about the day,
+particularly the headlining musi-
+cal guest.
+"My selfie with 2 Chainz at the
+end of the night, I'm pretty excit-
+ed about that," LSA sophomore
+Claire Ulak, communications
+senior producer for the organiza-
+tion, joked.
+Business sophomore Jibran
+Ahmed, the fundraising senior
+producer, added, "If 2 Chainz
+spits a new bar, I'm going to be
+pretty happy."
+Last year, MUSIC Matters
+gave a $50,000 gift to endow
+the MUSIC Matters Big Think-
+ers Scholarship - the completely
+student-funded scholarship is the
+first of its kind at the University
+- and in 2012 the organization
+donated $10,000 to C.S. Mott
+Children's Hospital.
+
+Michigan League
+
+North U
+
+MORE 8 FREE TED
+8- FOOD F STUFF TALKS
+North U
+1 ZONES
+1. Art
+2. Start Up Village
+_ 2 3. Innovation
+4. Sustainability
+5. Social Justice
+6. Identity
+7. Ask big questions!
+
+4
+
+I
+
+5 6
+DIAG
+7
+
+
+
+CAMPUS
+EVENTS
+Thuday 4/10
+Love Art More: Student
+Late Night at the UMMA
+8-11 p.m.
+UMMA
+Friday,411
+North Campus
+Cultural Ball
+6:30-9:30 p.m.
+UMMA
+58 Greene Performance
+Rackham Auditorium
+Men's Gymnastics
+NCAA Team Finals
+7 pm.
+Crisler Center
+The Dicks and Janes
+Spring Concert
+7:30 p.m.
+MLB Auditorium 3
+Shei-Fest
+8 p.m.
+Anderson Room,
+Michigan Union
+Merit Madness 2014
+(1-on-1 Bball Tourney)
+11 p.m.
+IMSB Basketball Courts
+Men's Gymnastics
+NCAA Team Finals
+7 p.m.
+Crisler Center
+The Ann Arbor Poetry
+Slam City Finals
+7 p.m.
+Neutral Zone
+154th Annual Spring
+Concert
+8 p.m.
+Hill Auditorium
+UM Music Con 2014
+11:30 a.m. to 5 p.m.
+The Michigan League
+
+Who, What, Where: The week in review
+By Tanaz Ahmed, Daily Weekend Contributor
+
+Rea
+United
+In
+versit
+noun
+drid w
+United
+This g
+nation
+Ac
+Athlet
+labora
+sors of
+so tha
+have p
+
+Around Campus marijuana at the 43rd annual Ann
+Arbor Hash Bash. The number of
+l Madrid and Manchester attendees to this event has been
+dgame in Michigan Stadium steadily growing over the last
+is announced few years. In 2011, approximately
+6,000people attended HashBash.
+a press conference, the Uni- The event has been held on
+y Athletic Department an- the Diag since April 1, 1972. The
+ed this week that Real Ma- original event in 1972 was cre-
+'ill play against Manchester ated to celebrate of the release of
+d this summer on Aug. 2. John Sinclair, a marijuana activ-
+,ame is a part of the Inter- ist, from prison. Hash Bash was
+al Champions Cup (ICC). also held in protest of restric-
+cording to the University tive cannabis laws that were be-
+ic Department, they col- ing implemented in Michigan.
+ted with one of the spon- The city of Ann Arbor
+& the ICC, Relevant Sports, is famous for being a sup-
+t University students could porter of the decriminaliza-
+resale access starting Mon- tion of marijuana since 1972.
+
+anefot to rise money foelay rf Lifet Fery fied SaturdyApril20,2013.
+P r
+
+morning. Although some of the
+wounded are in critical condi-
+tion, all are expected to survive.
+Someone at the school pulled
+the fire alarm when the stab-
+bings began and subsequently
+the police arrived at the scene
+of the crime. Investigations are
+ongoing and in the meantime the
+high school as well as the other
+elementary and middle schools
+in the town have been closed.
+Obama signs executive orders to
+combatgender wage gap
+President Barack Obama
+signed two executive orders
+on Tuesday in response to the
+gender wage gap. The first
+order stops federal contrac-
+tors from preventing their em-
+ployees from discussing their
+salaries. The second requires
+federal contractors to give the
+Department of Labor race and
+gender compensation data.
+These orders come in the
+wake of much public debate be-
+tween Republicans and Demo-
+crats over the issue of equal pay
+legislation in the past few weeks.
+
+By EMILIE PLESSET
+Daily Weekend Contributor
+This weekend students will
+gather on Palmer Field from
+10 a.m. Saturday to 10 a.m. on
+Sunday to participate in MRe-
+lay's 12th Relay for Life walk,
+the American Cancer Society's
+largest international fundrais-
+er to fight against cancer. This
+year's MRelay theme is Disney.
+Kinesiology senior Sara
+Knysh, executive director of
+the University's chapter of
+Relay for Life, said in prior
+years, MRelay's fundraiser has
+had between 3,000 to 5,000
+students watching and partici-
+pating and draws in the second
+largest student crowd behind
+football games. Many stu-
+dents form fundraising teams
+through Greek Life or other
+organizations.
+The University's Relay for
+Life event has been ranked the
+second largest collegiate relay
+in the nation for the past two
+years. Last year the event raised
+about $312,000 and hopes to
+raise over $315,000 this year.
+The 24-hour event will
+begin with a survivor lap where
+cancer survivors and their fam-
+ilies and friends will take the
+first lap around the track.
+Throughout the day, stu-
+dents will participate in field
+games and a basketball tourna-
+ment.
+The event will also feature
+a Fight Back ceremony, which
+promotes the American Cancer
+Society's "Celebrate. Remem-
+ber. Fight back." initiative.
+
+During the ceremony, MRelay
+will attempt to break the world
+record for the most candles
+blown out at once.
+"The Fight Back ceremony
+is mostly to get everyone excit-
+ed and thank everyone for all
+their hard work and keep push-
+ing forward with the fight,"
+Knysh said. "We thought it
+would be an extremely mov-
+ing moment. This is Michigan,
+so why not set another world
+record?"
+Later in the evening, the
+event will hold the Luminaria
+ceremony to honor survivors
+and remember those who
+lost their fight with cancer.
+Throughout the event people
+will share stories about their
+experiences with cancer and
+their reasons for participating
+in the relay.
+"It's an extremely moving
+event," Knysh said. "I'm look-
+ing forward to honoring my
+family and remembering those
+that we've all lost and inspire
+everyone to keep fighting."
+There will also be a glow-
+concert with student group per-
+formances including Groove.
+In addition to the Relay for
+Life walk, MRelay holds fund-
+raisers throughout the year to
+lead up to the event in April. In
+addition to restaurant and bar
+nights, MRelay has held a year-
+ly benefit concert and a Rent the
+Runway fashion show to raise
+money.
+"We want to provide an
+atmosphere that people will
+want to come to and excited to
+stay at," Knysh said.
+
+day, April 7 at 8:30 a.m. Ticket
+prices started at $45. University
+Athletic Director Dave Brandon
+expects the match to bring in
+more than $14 million in rev-
+enue for the city of Ann Arbor.
+Thousands attend annual
+Hash Bash
+Last weekend, nearly 8,000
+people gathered at the Diag and
+Monroe Street to show their sup-
+port for the total legalization of
+
+Around the World
+20 people are injured in
+Pennsylvania high school
+stabbing
+Alex Hribal, a 16-year-old
+student at the Franklin Re-
+gional High School in Murrys-
+ville, Pennsylvania, stabbed 19
+students and one adult inside
+his high school Wednesday
+
+CFcampus realty
+MAKE YOUR PICK!
+--a
+TRADITIONAL...OR...CONTEMPORARY ?
+421 CHURCH...OR...1348 WILMOT ?
+RENT BEDROOMS WITH FREE PARKING AND ON- SITE LAUNDRY!
+STARTING AT $800!
+CALL 734 665.8825 rST IN: CAIPUl EALY.CO
+
+
+6A - Thursday, April 10, 2014
+
+The Michigan Daily - michigandaily.com
+
+Administration investi
+'Cuban Twitter' progr
+
+Hearings focus on
+whether USAID can
+launch intelligence
+operations
+WASHINGTON (AP) - The
+Obama administration is look-
+ing into whether a "Cuban Twit-
+ter" program secretly backed by
+the U.S. government contained
+messages that were political
+in nature, despite assertions
+from the administration that
+the effort was intended only to
+increase the flow of informa-
+tion in a country that heavily
+restricts Internet access.
+State Department spokes-
+woman Jen Psaki said Wednes-
+day it would be "troubling" if
+political messages were sent
+under the program. She said
+the program's sponsor, the U.S.
+Agency for International Devel-
+opment, was tryingto determine
+whether any ofthe messages that
+were sent were in fact political,
+as well as the timing of the mes-
+sages, and whether they were
+drafts or were actually sent.
+An Associated Press inves-
+tigation has revealed that the
+U.S. government built the
+now-defunct communications
+network to undermine the com-
+munist government and that
+draft messages were produced
+that were overtly political.
+Documents obtained by the
+AP show that the early messages
+poked fun at the Castro gov-
+ernment and were created by a
+political satirist working for the
+social media project. Those mes-
+sages conflict with the U.S. gov-
+ernment's earlier assertions that
+its program didn't promulgate
+political content.
+Cuba's state-run telecommu-
+nications firm said Wednesday
+it had launched an investigation
+into how hundreds of thousands
+of customer cellphone numbers
+ended up in the USAID pro-
+gram. The AP's investigation
+found that those phone numbers
+were used to start a subscriber
+base for the project, ultimately
+known as ZunZuneo, for the
+sound made by a Cuban hum-
+mingbird.
+Congressional hearings into
+
+the creation of the program this
+week focused on whether it was
+appropriate for USAID to launch
+such an intelligence-like opera-
+tion - and not the CIA or other
+spy agencies.
+The AP investigation showed
+program evaded Cuba's digital
+restrictions by creating a text-
+messaging service that could
+be used to organize political
+demonstrations. It drew tens of
+thousands of subscribers who
+were unaware it was backed
+by Washington, which went
+to great lengths to conceal its
+involvement.
+Cuban-born Rep. Ileana Ros-
+Lehtinen, R-Fla., on Wednes-
+day sharply defended U.S.-run
+democracy programs in Cuba,
+saying it was "so important to
+offer the other side of the story,
+the side that promotes American
+values: God-given values like
+freedom, justice or liberty."
+She added: "This issue we're
+debating ... is whether or not
+USAID should be taking steps
+to promote human rights, the
+rule of law and democratic gov-
+ernance throughout the world. I
+say yes."
+Other lawmakers were
+uncomfortable with the notion
+that an agency best known for
+its humanitarian mission was
+undertaking operations best left
+to the professionals.
+The chairman of the Sen-
+ate panel that approves spend-
+ing on such foreign programs,
+Sen. Patrick Leahy, D-Vt., said
+a day earlier he was never told
+about the Twitter-like opera-
+tion, disputing assertions by
+USAID Administrator Rajiv
+Shah that Congress was proper-
+ly informed. The Obama admin-
+istration has said the program
+operated "discreetly" but wasn't
+covert.
+Leahy, head of the Senate
+appropriations subcommit-
+tee for foreign operations, said
+USAID employees working
+openly on aid programs have
+complained that the agency's
+secretive programs were put-
+ting their lives at risk.
+In defending the program,
+the Obama administration and
+critics of the Castro government
+have pointed to federal audits
+and budgetary checks-and-
+
+balances ov
+million US
+on Cuban de
+The contra
+ZunZuneo1
+keep the U.
+hidden from
+through co
+in other na
+through a fo
+Sen. Mik
+said at Tue
+USAID was
+home for suc
+tile countrie
+"Not tos
+important
+would we
+USAID?" J
+wouldn't yos
+part of the
+to place tha
+seems crazy
+that you wot
+of that."
+Former i
+experienced
+told the AP t
+the involve:
+any previous
+activities. F
+East opera
+called the,
+operation "f
+Baer que
+cy's relianc
+to promote
+that brief fl
+activism in I
+quickly snul
+tarian regim
+"You can'
+Twitter," he
+Draft me:
+the nascent
+work were
+documentsc
+reveal. The
+tion has sa
+that it didr
+cal message.
+which it sai
+to let Cuban:
+themselves.
+Some mes
+cellphones 1
+commentary
+documents
+One early m
+7, 2009, tool
+Cuban teleco
+ister, Ramir(
+had warned
+was a "wild
+be tamed."
+
+igates
+.am
+er the roughly $20
+AID spends overall
+mocracy initiatives.
+ctors who created
+took great care to
+S. government's role
+subscribers in Cuba
+upanies and servers
+tions and financing
+reign bank.
+e Johanns, R-Neb.
+sday's hearing that
+n't the appropriate
+h operations in hos-
+,s.
+say that that is an
+mission, but why
+put that mission in Alex Hribal, the suspect in the multipl
+channs said. "Why police toea district magistrate to be arr
+u look at some other
+federal government Penn
+t mission? To me, it
+. It just seems crazy
+uld be in the middle
+ntelligence officers 22 at sci
+in covert operations
+they could not recall 'Students who stayed
+ment of USAID in
+similar intelligence with their friends'
+ormer CIA Middle
+tive Robert Baer heroes according to
+aid agency's secret
+rankly, nuts." Pa. governor
+stioned the agen-
+e on social media MURRYSVILLE, Pa. (AP) -
+democracy, noting Flailing away with two kitchen
+ourishes of Internet knives, a 16-year-old boy with
+.ran and Egypt were a "blank expression" stabbed
+ffed out by authori- and slashed 21 students and a
+es. security guard in the crowded
+t run a revolution by halls of his suburban Pittsburgh
+said. high school Wednesday before
+ssages produced for an assistant principal tackled
+social media net- him.
+overtly political, At least five students were
+obtained by the AP critically wounded, including
+Obama administra- a boy whose liver was pierced
+id since last week by a knife thrust that narrowly
+not send out politi- missed his heart and aorta,
+s under the project, doctors said. Others also
+d was instead built suffered deep abdominal
+s speak freely among puncture wounds.
+The rampage - which came
+sages sent to Cuban after decades in which U.S.
+had sharp political schools geared much of their
+, according to the emergency planning toward
+the AP obtained. mass shootings, not stabbings
+essage sent on Aug. -setoff a screaming stampede,
+k aim at the former left blood on the floor and walls,
+mmunications min- and brought teachers rushing to
+o Valdes, who once help the victims.
+I that the Internet Police shed little light on the
+colt" that "should motive.
+The suspect, Alex Hribal,
+Call:#734-418-4115
+Email: dailydisplay@gmai.com
+
+KEITH SRAKOCIC/AP
+e stabbings at the Franklin Regional High School in Murrysville, Pa., is escorted by
+aigned on Wednesday in Export, Pa.
+rTpnja students stabs
+iool, no deaths
+
+i
+i
+i
+i
+i
+i
+r
+r
+1
+r
+
+was taken into custody and
+treated for a minor hand wound,
+then was brought into court in
+shackles and a hospital gown
+and charged with four counts
+of attempted homicide and 21
+counts of aggravated assault.
+He was jailed without bail, and
+authorities said he would be
+prosecuted as an adult.
+His attorney did not
+immediately respond to a
+message for comment.
+The attack unfolded in the
+morning just minutes before the
+start of classes at 1,200-student
+Franklin Regional High School,
+in an upper-middle-class area
+15 miles east of Pittsburgh. It
+was over in about five minutes,
+during which the boy ran wildly
+down about 200 feet of hallway,
+slashing away with knives about
+8 to 10 inches long, police said.
+Nate Moore, 15, said he
+saw the boy tackle and stab a
+freshman. He said he going to
+try to break it up when the boy
+got up and slashed his face,
+opening a wound that required
+11 stitches.
+"It was really fast. It felt
+like he hit me with a wet rag
+because I felt the blood splash
+on my face. It spurted up on my
+forehead," he said.
+The attacker "had the same
+expression on his face that he
+
+has every day, which was the
+freakiest part," Moore said.
+"He wasn't saying anything.
+He didn't have any anger on
+his face. It was just a blank
+expression."
+Assistant Principal Sam
+King finally tackled the boy
+and disarmed him, and a
+Murrysville police officer who
+is regularly assigned to the
+school handcuffed him, police
+said.
+King's son told The
+Associated Press that his father
+was treated at a hospital, though
+authorities have said he did not
+suffer any knife wounds.
+"He says he's OK. He's a
+tough cookie and sometimes
+hides things, but I believe he's
+OK," Zack King said. He added:
+"I'm proud of him."
+In addition to the 22 who
+were stabbed or slashed, two
+people suffered other injuries
+during the melee, authorities
+said. The security guard, who
+was wounded after intervening
+early in the melee, was treated
+and released.
+"There are a number of
+heroes in this day. Many of them
+are students," Gov. Tom Corbett
+said in a visit to the stricken
+town. "Students who stayed
+with their friends and didn't
+leave their friends."
+
+Family returns to
+shore after rescue
+
+RELEASE DATE- Thursday, April 10, 2014
+Los Angeles 'Times Daily Crossword Puzzle
+Edited by Rich Norris and Joyce Nichols Lewis
+ACROSS 4Ones showing 30 Show contempt 48 Mlle., in
+1 "Find your own varying amounts 31 Son of Isaac Monterrey
+road" automaker oftinterest? 32 Fundamental of 49 Recipe verb
+5 Bitter 5 Facility about 350 science 50 Cruise destination
+disagreement miles NW of LAX 39 Harvest output 51 Related
+11 26-Across 6 Beau Brummel, 40 Spider-Man 53 You've got it
+download for one nemesis Doc _ coming
+14 Minuscule lake 7 Brusque 41 Select 54 "No argument
+plant 8 Steamed 42 Occasionally here"
+15 Wee hr. 9Word with cry or 44 From around 55 Ignore
+16 Dude out here 57 Pack quantity
+17 RASPBERRY 10 Future citizen, 45 Podiatrists 58 Senator Sanders
+20 Vampire's bane perhaps concern ofSVt., on ballots
+21 Tman, e.g. 11 Not paticularly ANSWER TO PREVIOUS PUZZLE:
+22 Courageous challenging
+23HermeyofTV's 12"Law&Order" J A Y U P SE T B A H T
+"Rudolphthe figure I K E E A T M E E N E R O
+Red-Nosed 13 Countyfair F A N N Y P A C K A G A I N
+Reindeer," e~g. mount A S A FE E T ER NE
+25 Take out 18 Mark of rejection
+26 BLACKBERRY 19Like JamesBond A P P T F E N N E L T E A
+32 Newtonian 24Ubiquitous Q U I C H E S O R N E
+elements? insurance A N T H E M U N O S H I M
+33 Isreadytfor spokeswoman B I t F I N K O U T I D I
+business 25To whom A C H T G E T A P P A N
+34 Big runners reorters report: A G R A S E R A P H S
+35 Bustle Abbr. FONDUEPOT ROOK
+36 Natural resource 26 Dracula feature
+37 Educational org. 27 Brainstorming cry ADEPT S V A U L T
+38hloefragrance 28Historical I D E P O T F U N N Y B O N E
+maker segment OT AL E E LZ I1E W AS
+40 Good-sized 29 Simmons S L E D Y E A T S E G O
+chamber competitor xwordeditor@aot.com 04/10/14
+ensemble 1 2 3 4 5 6 7 8 9 10 11 12 13
+42 Baseballtfamily r i i a 5 0 n a u i
+name 14 15 18
+43 HUCKLEBERRY
+Goal line play 17 1a 19
+47 Kitchen tool
+48 Like wasted milk w 21 22
+in Westminster 2
+49 Its HQ is named
+forc terge Bush 26 27 28 29 30 31
+52 Schisms and
+chasms 32 33 34
+56 STRAWBERRY
+59_ kwon do 3 63
+60 Sherlock u4838 ax a1 a2
+Holmes'
+instrument 43 44 45
+6t Small case
+62 Wanted-puster 4617
+letters 4
+63 Use
+64 Percolate s6 57 58
+DOWN s 6 61
+1 Fresh answers,
+say
+2 Oodles
+3 Lagocontents By Jeffrey Wechsler 0414,
+(c)2014 Tribune Content Agency, LLC
+
+HELP WANTED
+THE MICHIGAN DAILY Business
+staff is looking for students interested
+in working 20 hours/week base pay +
+commission from May 5th-Aug. 1st.
+Great opportunity for students taking
+classes in Spring/Summerterms. Please
+contact jobs.tmd@gmail.com for more
+information.
+WORK ON MACKINAC Island This
+Summer Make lifelong friends. The
+Island House Hotel and Ryba's Fudge
+Shops are looking for help in all areas:
+Front Desk, Belt Staff, Wait Staff,
+Sales Clerks, Kitchen, Baristas. Hous-
+ing, bonus, & discounted meals. (906)-
+847-7196. www.theislandhouse.com
+! NORTH CAMPUS 1-2 Bdrm.!
+. Riverfront/Heat/Water/Parking. .
+. www.HRPAA.com '
+** AVAILABLE FALL 2014**
+4 Bedroom House. Near B-School.
+$2000/month. Call: (734)223-7777
+4 BDRM HSE South Central Campus
+1037 Packard - $2450/m + utils. 2 bath,
+3 packing. Wsher/dryer Avail. Fall
+2014. Contact 734-996-1991.
+4 BDRM HSE, Fuller by North Cam-
+pus, 1010 Cedar Bend Dr. $2300/rn+
+stls. 2 hath, 3 parking. Wsher/dryer.
+Avail. Fall 2014 contact 734-996-1991.
+ARBOR PROPERTIES
+Award-Winning Rentals in Kerrytown,
+Central Campus, Old West Side,
+Burns Park. Now Renting for 2014.
+734-994-3157. www.arborprops.com
+NOW AVAIL. FOR FALL 2014!
+Fully furnished 2 bdrm apt - heat, wa-
+ter, and parking included. A/C and laun-
+dry avail. Contact 734-904-6735.
+STUDIO'S ONLY $1,195.00!
+*0ONLYa Few Left*
+www.universitytowers-mi.com
+536S. ForestAve.
+734-761-2680
+
+EFF. & 1 Bdrm apts. for Fall 2014.
+$770-$1030, showings avail. M-F
+lOam-3:30pm w/ 24 hr notice.
+Cappo/Deiococappomanagement.com.
+Contact 734-996-1991 M-F 9am-4pmr
+HALF OFF SALE
+HALF OFF SECURITY DEPOSIT
+HALF OFF PROCESSING FEE
+HALF OFF 1ST MONTHS RENT
+*Limited Apartments Left*
+University Towers & The 2nd Floor
+www.universitytowers-mi.com
+536 S. Forest Ave.
+734-761-2680
+OPEN HOUSE
+This Thursday, 4-10-14
+from 3-5 PM
+Food, Fun & Tours
+Take a tour to see our new Remod-
+eled apartments and enjoy free food
+and drinks.
+*LimitedApartmenar Left*
+University Towers & The 2nd Floor
+www.universitytowers-mi.com
+536 S. Forest Ave.
+734-761-2680
+WANTED: 2013 MICHIGANEN-
+SIAN Yearbook. Will pay up to $120 -
+depending on condition. Call Mark at
+734-418-4115 ext. 1246.
+
+Operation involved
+skydiving, three
+federal agencies, a
+plane and a frigate
+SAN DIEGO (AP) - Six days
+after a family of four found
+themselves helpless and adrift
+in a sailboat far into the Pacific
+with a vomiting, feverish 1-year-
+old, a Navy warship delivered
+them safely Wednesday to San
+Diego, where they began their
+attempted around-the world
+voyage before the child was born.
+The Rebel Heart, the 36-foot
+sailboat that had been their,
+home for seven years, is at the
+bottom of the ocean 900 miles
+off Mexico, sunk by rescuers
+because it was taking on water
+after losing its steering and most
+of its communications.
+A satellite phone ping from
+the boat Thursday set off a
+huge rescue effort that involved
+skydiving National Guardsmen,
+three federal agencies, a plane, a
+frigate and scores of personnel.
+It also sparked a serious debate
+over parenting, and the propriety
+of hitting the high seas with two
+young children.
+The Navy warship, the USS
+Vandegrift, docked at Naval Air
+Station North Island with the
+Kaufman family safely aboard
+and the child recovering from her
+illness, Navy spokeswoman Lt.
+Lenaya Rotklein said.
+In a photo released by the
+Navy, the family looked like
+typical vacationers, with father
+Eric dressed in shorts and a
+baseball cap while lugging bags,
+and his wife Charlotte walking
+behind him, holding the toddler
+in a strap-on carrier and grasping
+the hand of her 3-year-old
+
+daughter.
+The ship was scheduled to
+move from the island to the San
+Diego mainland later in the day
+without the Kaufmans, who first
+want to tend to their 1-year-old
+daughter, Lyra, and get some rest
+before talking publicly, Charlotte
+Kaufman's sister, Sariah English,
+said.
+The Kaufmans' decision to sail
+around the world with Lyra and
+her sister Cora drew accusations
+of reckless foolishness from some
+observers and praise from others
+for their courageous spirit.
+"They'll probably go on the
+'Today' show to talk about this,
+and write a book about it, do a
+miniseries and get 15 minutes
+of fame because that's how our
+country tends to reward people
+who choose recklessly to put
+themselves and their children in
+danger," said Margaret Dilloway,
+a San Diego novelist who has
+three children.
+English doesn't question the
+decision of her sister's family. She
+said sailing is their passion. It's
+what defines them.
+"Charlotte and Eric raise
+their children how they see fit,"
+English said. "They are very
+concerned about child safety.
+That's their No. 1 concern, and
+they did not do this blindly. They
+are responsible, good parents."
+Eric Kaufman, a Coast Guard-
+licensed captain, and his wife
+sent a statement from the ship
+defending their actions, saying
+"when we departed on this
+journey more than a year ago,
+we were then and remain today
+confident that we prepared as
+well as any sailingcrew could."
+Others said children benefit
+in many intangible ways from
+parents who show them the
+world, even when they're too
+young to remember it.
+
+
+The Michigan Daily - michigandaily.com
+
+Thursday, April 10, 2014 - 7A
+
+The Michigan Daily - michigandailycom Thursday, April 10, 2014 - 7A
+
+Hot or cold,'M' gets the 'W'
+Despite individual
+struggles, Michigan
+rides coaching,
+culture to success
+By JUSTIN MEYER 7
+Daily Sports Writers
+
+Wolverines mold
+i'dentity in spring
+
+Senior first baseman Caitlin
+Blanchard remembers the
+shock of transitioning from
+high school softball to her first
+Michigan practice the fall of her
+freshman year. The tradition,
+the culture and the intensity
+all helped her make what she
+described as an exponential
+leap from the fall to the spring
+of that year.
+This year, the turf renovation
+of Alumni Field forced the fifth-
+ranked Wolverines to miss some u
+of that fall practice regimen,"
+and Michigan's freshmen have
+struggled at times so far this
+season.
+"We couldn't do a lot with
+kids coming in early because Senior firs
+we were at Huron High School, program
+and they could barely get there," with.
+said coach Carol Hutchins. Firsti
+"We didn't have a locker room. strugglin
+The culture is in this building. Player o
+We had a lapse with that, and entered1
+now we're
+reestablishing
+it."
+Freshman "We haveC
+right-hander
+Megan Betsa culture of
+was the
+story of the success ...co
+early season,
+dealing with working har
+confidence
+issues despite
+a repertoire of
+weapons in the circle. - and sh
+The other freshmen,' as I woul
+including second baseman Abby she's goir
+Ramirez and third baseman ever day.
+Lindsay Montemarano, have Betsa
+battled all year to step up, at lion's de
+the plate. But as good as the relieving
+Wolverines are, the freshmen Drieseng
+are hardly the only ones dealing slipping
+with slumps this season. powerho
+Everyone has an opinion one batte
+about how to be consistent: It's before ex
+a mental game, it's all about registeri
+technique, the key is to be loose Driese
+at the plate - or maybe it's to be favorite,
+on edge in the field. spot intl
+To pick out a universal secret own stru
+for success from the noise is Betsa's c
+nearly impossible. All the advice sag enter
+does is confirm that softball is The d
+most certainly a game of streaks a first-in
+- hot and cold. Indiana
+The natural ups and downs debut an
+of the season make Michigan's day pitc
+consistency this year all the coaches,
+more remarkable. The 16-game no distr
+winning streak and the 11 desperat
+mercy-rule wins in the last her swag
+14 games have come amid the The ni
+
+Michigan goes 5-1
+in spring schedule,
+freshmen impress
+By BRAD WHIPPLE
+Daily Sports Writer
+It was the 68th minute in
+the Elite Eight when Virginia
+delivered the winning strike
+against the Michigan women's
+soccer team.
+It was the goal that ended
+the Wolverines' run in the
+2013 NCAA Tournament, and
+it was also the goal that ended
+the collegiate career of seven
+seniors, all of whom gave their
+team a force to rally behind.
+Though the questions
+remained as to how Michigan
+would contend next season
+without players like forward
+Nkem Ezurike, the Wolverines'
+recent spring season success
+showed glimpses of a new
+identity that is forming without
+their seniors.
+
+which could be dedicated to
+skill training. Now, the team
+meets four to five times a week
+for full practices.
+Ryan has even tried to bring
+the senior class back to help the
+younger athletes, but he ran
+into an issue in January. When
+the seven seniors declared for
+the National Women's Soccer
+League Draft, they were labeled
+as professional players, even if
+they didn't get selected.
+Per NCAA guidelines,
+'professional players' are
+restricted to stopping by a
+team's practices once per
+month.
+But even if the seniors can't
+be there as much as they'd
+like, the Wolverines still found
+spring success in their absence.
+And Michigan isn't even at full
+capacity, with nine freshmen
+who have yet to arrive on
+campus.
+"I'm just excited that we have
+the kids that are coming in who
+do have a lot of talent joining
+what has turned out to be a very,
+
+JAMES COLLER/Daily
+t baseman Caitlin Blanchard has struggled lately, but her Michigan teammates have picked up the slack easily.
+
+in the country deals
+it was Betsa who was
+g. The Gatorade
+f the Year in Georgia
+the season with high
+expectations,
+none higher
+than her
+a coach's.
+"Betsa has
+improved
+the most at
+f this point in
+the season,"
+Hutchins
+said."Shewas
+just really
+inconsistent
+e's not as consistent yet
+ld like. But I like where
+rg, and I like her better
+was tossed into the
+en in her first game,
+junior righty Sara
+a .with the game
+away against national
+use Florida. Betsa hit
+er and walked another
+:iting the game without
+ng an out.
+nga, the preseason
+to take over the first
+he rotation, has had her
+iggles this season, and
+onfidence continued to
+ing Big Ten play.
+rought culminated in
+ining yanking against
+in Betsa's home
+id, ultimately, an off-
+hing session with no
+no teammates and
+actions. It seemed a
+e attempt to finally find
+ger.
+ext day, Betsa threw a
+
+Coincidentally, Betsa's
+return to form came at the same
+time Michigan added another
+permanent staple to its already
+deep batting order.
+Senior designated hitter
+Taylor
+Hasselbach,
+a player who
+spent three "The
+years in a
+limited role 'slump'
+and rarely
+cracked the to aff
+starting lineup,
+was on fire. At you
+first it seemed
+like just a -
+hot streak,
+especially
+when Hasselbach cooled off
+against a very good Ohio State
+pitcher last Saturday.
+But the next day, Hasselbach
+put those doubts to rest when
+she jacked three home runs for
+eight RBI. Since entering the
+starting lineup March 15, her
+batting average is .484.
+"I can tell you one thing
+that we have in this program
+... is culture," Hutchins said.
+"We have a culture of success,
+we have a culture of working
+hard, we have a culture of kids
+coming in early to hit. That's
+championship culture, and it
+means you work harder than
+everyone else and you work
+through the hard times."
+That culture, Hutchins said,
+starts with the upperclassmen
+who work tirelessly to be at
+their best every day. The perfect
+example is Hasselbach, who
+struggled for three years before
+finding a spot in the starting
+lineup her senior season.
+
+has been Blanchard's turn
+to struggle. The starting
+first baseman holds down
+the most important position
+in the Wolverines' lineup -
+hitting behind star sophomore
+shortstop
+Sierra Romero,
+who opposing
+word teams often
+try to pitch
+... starts around - and
+is unfamiliar
+ect how with
+prolonged
+i do." slumps in her
+career.
+"She seems
+like she's got
+a lot on her
+mind," Hutchins said. "She
+doesn't look comfortable, kids
+go through that, she'll get it
+back. Sometimes you just kind
+of have to let it run its course -
+it's like the flu."
+The former walk-on has
+batted at least .350 since her
+sophomore year and is known as
+a clutch hitter by her coaches.
+"That's something that
+happens," Blanchard said. "If
+you, as a baseball or softball
+player, know that you are in a
+slump, and you use the word
+'slump,' it starts to affect how
+you do long term."
+But Michigan has dealt with
+cold hitters plenty of times this
+season already and it hasn't
+slowed the team down a bit.
+Blanchard will do everything
+she can to get her plate presence
+and her swing back even though
+recent history suggests the
+Wolverines will keep winning
+regardless.
+To be a championship-
+caliber squad in a streaky
+sport like softball, the team
+has to transcend the player.
+Michigan has met that goal
+with a combination of talent and
+winning culture established
+by hardworking veterans like
+Blanchard and Hasselbach.
+Even the elder statesmen on
+the team can't avoid the slumps,
+though. They'll say things about
+being prepared mentally, echo
+their coach's 'one-pitch' softball
+mantra and talk about doing
+their part for the team, but what
+they really mean is that slumps
+don't last forever.
+So freshman or senior, they'll
+keep swinging, pitching and
+attacking the opponent.
+Detroit, Western Michigan,
+Ohio State, UCLA - it
+doesn't matter. Alumni Field
+renovations interrupting
+fall practice, key freshmen
+struggling early - that doesn't
+matter either.
+Sometimes all the Wolverines
+can do individually is believe
+that turning the corner to being
+a better player and an even
+better team is just one pitch
+away.
+
+"These kids very cohesive
+are reallygood, and talented
+but they were ,w e have kids group of
+playing behind players,"
+some very
+good seniors," coming in who RyTheaid.
+said Michigan do have a lot Wolverines
+coach Greg have made
+Ryan. "(In the of talent." deep runsinto
+spring season), the NCAA
+there was a lot Tournament
+of teaching of in two
+how we were straight years
+going to play together, and the - the Sweet 16 in 2012 and the
+low-stress environment' gave Elite Eight in 2013 - and Ryan
+them time to gain confidence in is optimistic that his team can
+themselves, both individually do great things this year.
+and as a team. But, especially this early in
+"That was a critical element the year, he said there are no
+for these guys." guarantees.
+Michigan scored 17 goals, a According to Ryan, the talent
+spring best, and allowed only is there and a run is possible, but
+one en route to a 5-1 record. one thing needs to be present:
+Its only loss came at the hands determination and grit, the
+of Notre Dame, a team the merits of last year's senior class.
+Wolverines previously defeated "I think that those intangible
+in the Sweet 16. qualities go beyond talent,"
+The spring season has he said. "They take you to the
+allowed Ryan to give reserves next round, whereas if you
+the opportunity to compete. don't have that, you may have
+The player who has stood out the talent but you're probably
+the most is freshman forward not going to last as long in the
+Nicky Waldeck, who took over NCAA Tournament."
+the lone forward spot that
+Ezurike occupied last and is
+making the most of it. BY THE NUMBERS
+"Nicky is scoring hat tricks Michigan coach Greg Ryan
+and two goals per game on a
+regular basis," Ryan said. "It's
+not accidental - she's really,
+really talented." Wins with the Michigan women s soccer
+Typically, freshman forward team, including18 in 2013.
+Madisson Lewis would play up
+front in the center, but she has
+missed the entire spring season
+due to broken bones in her foot. 45
+But the injury gave Waldeck the Wins with the US Women's National
+opportunity to play and build Teamfrom 2005-2007.
+the confidence that she may not
+have gained otherwise.
+In addition to the spring
+games, Michigan has continued
+its training regimen that began Career goalsfor forward Nkem Ezurike,
+after Winter Break - Ryan who excelled under Ryan.
+thinks this team is in the best
+shape of any he's seen in the
+spring. After initial fitness 21
+testing, the first month was Years as a collegiate coachwith anall
+limited to eight hours of non- time record of 248-111-38.
+competitive practice, two of
+
+LUNA ANNA ARCHEYDaily
+Taylor Hasselbach spent three years riding the bench, but her hot bat has been welcomed during her senior season.
+
+OUR THOUGHTS ARE WITH LACEY HOLSWORTH, HER FAMILY AND THE
+MICHIGAN STATE COMMUNITY THAT SUPPORTED HER.
+CONTRIBUTE TO CANCER RESEARCH AT
+DONATE.CANCER.ORG
+
+ERINKIRKLAND/Daily
+Michigan coach Greg Ryan guided the Wolverines to the Elite Eight last fall.
+
+
+8A - Thursday, April 10, 2014
+
+The Michigan Daily - michigandaily.com
+
+Irish win rematch over'M'
+
+PAUL SHERMAN/Daily
+Michigan coach John Beilein has advised his players to carefully consider whether they're ready for the lump to the NBA.
+Beilein mentors prospects
+
+By BEN FIDELMAN
+Daily Sports Writer
+The Michigan baseball
+team concluded a nine-game
+homestand Wednesday night
+with one of its worst losses of
+the season,
+falling, 9-1, MICHIGAN 1
+to Notre NOTRE DAME 9
+Dame.
+The cause of the Irish
+beatdown wasn't exactly an
+extreme offensive outpouring
+- the Wolverines committed
+a season-high six errors, and
+constantly failed to field simple
+things like sacrifice bunts.
+The Wolverines (4-5 Big
+Ten, 14-18-1 overall) sent fifth-
+year senior right-hander Ben
+Ballantine to the mound, though
+he has been their mainstay in the
+Friday night starter slot for much
+of the year. But he has struggled
+recently, and Wednesday gave
+him an opportunity to right the
+ship on his final collegiate season
+- something he failed to do.
+Thetoneofthegamewas clear
+early. Notre Dame (1-12 ACC,
+11-20) got through to Ballantine
+with hits in each of the first
+three innings. The Fighting Irish
+blooped back-to-back singles to
+right field to begin the top of the
+second. ABallantine erroronthe
+ensuing sacrifice bunt loaded
+the bases, but Notre Dame could
+only manage to get one run in,
+as it hit into a double play and
+grounded out to second base to
+end the inning.
+The Fighting Irish got back to
+it again in the third. The inning
+took some time to start rolling,
+but a double followed by two
+walks loaded the bases with
+two outs with Notre Dame left-
+fielder Zak Kutsulis coming up.
+The sophomore doubled to right
+field, putting the Fighting Irish
+up 4-0 and knocking Ballantine
+out of the game after just 2.2
+innings.
+"There aren't a whole lot of
+positives to take out of tonight,"
+said senior catcher Cole Martin.
+"There is still a heck of a lot of
+
+baseball left for us."
+Michigan was able to bring a
+run across inthe fourth inningon
+a groundout, but any momentum
+was quickly squashed in the top
+of the fifth inning.
+AftertwoFightingIrishhitters
+reached base, the Wolverines
+had trouble again executing on
+a Notre Dame sacrifice bunt.
+This time, a throwing error from
+sophomore third baseman Jacob
+Cronenworth bounced into first
+base, and Michigan conceded a
+run after not taking advantage of
+the free out.
+When the ball dribbled
+away at first base, the Fighting
+Irish base runner didn't break
+stride, powering around third
+base and heading for the plate.
+Michigan junior first baseman
+Kyle Jusick's throw beat the
+runner to the plate, but the ball
+was dislodged from the catcher's
+glove in the process of tagging
+the runner.
+By the fifth inning, the
+Wolverines were down 6-1 and
+had committed five errors.
+Junior right-hander Donnie
+Eaton came in for relief in
+the third inning and went 3.1
+
+innings, allowing two runs -
+both unearned.
+Michigan showed some signs
+of life in the sixth and seventh,
+but failed to plate one of the five
+combined runners who reached.
+In the end, the Wolverines
+were limited to just four hits.
+"Wehit alotofrockets and had
+a lot of quality at-bats," Martin
+said. "We couldn't put together
+three or four or five of them in a
+row to get the runs across."
+A leadoff single followed by
+a double scored a run for the
+Notre Dame to make it 7-1 in the
+seventh, and then things got ugly
+for Michigan.
+Freshman left fielder Carmen
+Benedetti was on the move
+tracking down a would-be
+inning-ending fly ball in the
+corner, and he flat-out dropped
+it. It was the Wolverines' sixth
+error of the game, and one that
+stretched the lead to 8-1.
+As if that weren't enough, the
+following ball came right back
+to left field, where Benedetti
+attempted a diving catch and
+missed.
+That brought in the game's
+final run, makingit 9-1.
+
+McGary, Stauskas,
+Robinson III all
+requested NBA
+evaluations
+By DANIEL FELDMAN
+Daily Sports Writer
+Now the waiting game
+begins.
+Wednesday - the last day
+for non-seniors to request a
+draft stock evaluation by the
+NBA Undergraduate Advisory
+Committee
+- Michigan NOTEBOOK
+men's
+basketball coach John Beilein
+confirmed that sophomores
+Mitch McGary, Nik Stauskas
+and Glenn Robinson III applied
+to see where they could go in.
+the NBA Draft.
+"We have notgotten anything
+back yet," Beilein said, "but we
+have talked to them all."
+Though asking for an
+evaluation can assistin a player's
+decision
+
+"You hope during the course
+of their education that they're
+looking at things from a much
+broader perspective than
+some guy that's in his cellar
+projecting the NBA Draft and
+still living with his mother," he
+said. "There's nothing wrong
+with still living with your
+mother."
+Beilein said other players
+also applied for an evaluation
+but refused to answer whom.
+Specifically, he declined
+comment on whether
+sophomore guard Caris LeVert
+would.
+"'I've always dreamt of
+going to the NBA,' " Beilein
+said, regarding the mindset of
+enteringthe draft. "That is not
+a reason to go to the NBA. The
+reason to go to the NBA is, 'I am
+ready to go to the NBA.'
+"That's an important thing.
+We have to continue to cultivate
+an atmosphere where kids are
+ready to play in the NBA."
+EUROTRIP: After last
+traveling to Europe in 2010, the
+Wolverines
+
+Austin Hatch, DJ Wilson and
+Kameron Chatman - all from
+the West Coast - will deal
+with potentially being away
+from home from June until
+December.
+APRIL SADNESS: For
+Beilein, this time of the year is
+the toughest.
+"When you work as hard as
+we all work all year long and
+all of sudden the going-home-
+at-seven-o'clock-without-
+anything-to-do is very difficult
+for me," he said. "Thank God
+there's St. Louis Cardinals
+baseball and the Major League
+(Baseball) channel."
+So what is Beilein doing with
+the summer approaching? For
+one, he's fixing lightbulbs in his
+house.
+"I (changed two) this
+morning," he said. "They had
+been out for a while."
+Though it's likely some more
+exciting things will come his
+way, Beilein is ready for the
+dead period of May which he'll
+spend with his family.
+"We'll try to stay at home, cut
+the lawn and hang around," he
+said.
+NOTES: Beilein confirmed
+Wednesday that McGary
+had a 20-minute workout on
+Tuesday and that the forward is
+progressing toward individual
+workouts, potentially for NBA
+teams if he ultimately declares.
+After seeing Stauskas
+and LeVert show so much
+improvement in their strength
+and physique this season due
+to their decisions to stay in
+Ann Arbor last summer with
+strength and conditioning coach
+Jon Sanderson, Beilein said
+there has been a "major push"
+for athletes to stay in town.
+"I expect many of our guys to
+be here, but I don't have all the
+numbers," he said.
+Are the sophomores
+staying or leaving?
+Check MichiganDaily.com for
+any breaking news
+
+LUNA ANNA ARCHEY/Daily
+Senior catcher Cole Martin and Michigan were hlown oat hy Notre Dame.
+
+Michigan eyes title repeat
+
+to enter
+the draft,
+it doesn't
+guarantee that
+the player is
+declaring for
+the draft.
+For Beilein,
+this step is
+just part of
+the process
+for players
+to see if it's tim
+leave Michigan
+addition to th
+Beilein said M
+continue to give
+much informati,
+through "other p
+in professional b
+As much as
+company can tr
+players, there a
+to be influences
+the program th
+into their decisic
+there's only so mi
+do, he advises his
+at the bigger pict
+
+will again
+venture
+"There's nothing abroad this
+summer in
+wrong with still late August.
+- - - 1The NCAA
+living with TeNA
+allows teams
+mohe. to take an
+your mother." offseasona
+overseas
+tour every
+four years.
+ae for them to Michigan will spend 10 days
+and go pro. In and "play four to five games" in
+is committee, a yet-to-be announced part of
+ichigan would Europe.
+the players as In 2010, the Wolverines
+on as possible visited Belgium, Amsterdam
+reople involved and Paris.
+asketball." Because the trip will take
+Beilein and place in August, Beilein believes
+'y to help his the experience will be great for
+are still going both returning players and the
+from outside incoming freshman class who
+at can factor will join the team earlier in the
+Ons. And while summer.
+uch Beilein can If there is one issue for
+players to look Beilein, though, it's how
+ure. three of his incoming players,
+
+By ALEX TAYLOR
+Daily Sports Writer
+The Michigan men's
+gymnastics team seeks to
+accomplish what no Michigan
+team has done since 1959 -
+win back-to-back national
+championships.
+The Wolverines (17-0 Big
+Ten, 25-0 overall) will look to
+cap their perfect season with
+a storybook ending in front of
+their home fans at the Crisler
+Center this weekend. The
+National Championship will
+consist of 12 teams competing
+over three days. Qualifying
+rounds start Thursday, with
+six teams moving on to Friday's
+team finals. The individual finals
+will take place on Saturday.
+"We're just excited to be able
+to hopefully defend our national
+title at home," said graduate
+student captain Syque Caesar.
+"We set our goals right from the
+very beginning of the season
+to defend our national title and
+winning it at home."
+Though it sports an
+unblemished record, Michigan
+has had many challenges
+thrown its way on the march
+to perfection and a possible
+national chamnionship.
+
+Before the season even began,
+junior Michael Strathern was
+redshirted because of a foot
+injury, and sophomore Konner
+Ackerman suffered an elbow
+injury that sidelined him for a
+good portion of the year.
+Additionally, two of the
+Wolverines' top gymnasts
+suffered major injuries during
+the season. Junior Adrian de
+los Angeles, one of the top all-
+around gymnasts in the country,
+tore his anterior cruciate
+ligament during the Winter Cup
+in February, and junior Stacey
+Ervin tore his bicep during the
+Big Ten Championship last week
+"It's not been easy," Caesar
+said. "It hasn't been just handed
+to us. But that just shows how
+deep of a team we are. Even
+with all these injuries and set-
+backs and adversity, we are still
+able to push ourselves and be
+the top contenders for Nationals
+and Big Tens."
+Despite their injuries, Ervin
+and de los Angeles will still
+look to contribute to the team.
+Ervin plans to compete on floor
+exercise and possiblyon highbar
+and parallel bars. Depending on
+his health and performance, De
+los Angeles could compete on
+narallel bars and pommel horse
+
+What's Your Style?
+Punk, Posh, Chill, Chic, or just plain unique.
+Refashion your wardrobe at Style Trader®!
+TRA^DER Resale fashions from brands you love! Lucky
+Brand, Pink, Hollister, Michael Kors, and more.
+At prices any student can afford!
+a
+We pray CA ]H for 1 you r gentry used Juniors
+r Men v ! 3's clothin and accessois!1Trade
+893 W. Eisenhower Pkwy., Ann Arbor, MI 48103
+lIn the Colonnade Plaza near Panera)
+734-994-3400
+www.styleTrader.biZ
+4 c
+
+this weekend - events that
+won't require extensive use of
+his torn knee.
+Regardless of who will be
+competing, Michigan will
+face its stiffest competition
+of the year. The Wolverines'
+main challengers will be No. 1
+Oklahoma, No. 3 Ohio State and
+No. 4 Stanford. The Wolverines
+beat Ohio State and Stanford
+during the regular season.
+"Oklahoma and Ohio State
+are about equal and hopefully
+we're a little notch above that,"
+said Michigan coach Kurt
+Golder. "But that little notch
+can go away so quickly with
+this format, five guys up at
+each event and five guys scores
+count. If you make a mistake,
+you can plummet very quickly."
+The Wolverines are familiar
+with the "five up, five count"
+format and subsequent
+pressure after employing it in
+almost every meet this season.
+Additionally, Golder has an
+veteran roster that has big-event
+experience - both collegiately
+and internationally. One of
+the most experienced, senior
+Sam Mikulak, will also have
+the chance to become the most
+decorated collegiate gymnast in
+history this weekend.
+After earning 13 All-
+American honors and five NCAA
+individual championships in
+his first three years of college,
+Mikulak needs only three more
+individual championships and
+four All-American distinctions
+to become the all-time record
+holder in both categories.
+"Friday is the number one day
+that we have been training for,
+for this entire year," Mikulak
+said. "It comes down to this
+moment of how prepared are
+we to come out as champions.
+... Individually, I definitely
+have aspirations there, but the
+big focus is all on the team and
+making history by repeating
+national titles."
+Through all the adversity
+and obstacles that Michigan
+has faced this year, one constant
+always remained the same - the
+goal of repeating as National
+Champions. That is something
+within its grasp this weekend.
+
+ALLISON FARRAND/Daily
+Syque Caesar and the gymnastics team will try to repeat as NCAA champions.
+
+
+t The Michigan Daily I michigandaily.com I Thursday, April 10, 2014
+
+DOWN
+
+I
+
+BY ADAM DEPOLLQ,
+ONLINE ARTS EDIT
+.. "Pf
+
+The Fashion b-side annually publishes work by Michigan Daily photographers
+exploring fashion photography through a given theme. It is a chance for staff to shoot
+in a different than our normaljournalistic approach to photography. This year's theme
+is "emotion," and was left to be interpreted widely by staff photographers. SEE SHE, PAGE 3
+CLOCKWISE FROM TOP: Arielle Wisbaum, photographed by b-side photo editor Nicholas Williams, exploring the emotion "content." I Sola Nuno,
+photographed by assistant photo editor Allison Farrand, exploring the emotion "jaded.' I Ellice Sollner, photographed by staff photographer Vicki
+Liu, exploring the emotion, "wistful."( Chris Withers, photographed by staff photographer Ryan Reiss, exploring the emotion, "overwhelmed."
+DESIGN BY JAKE WELLINS AND CAROLYN GEARIG
+
+
+2B - Thursday, April 10, 2014
+
+The Michigan Daily - michigandaily.com
+
+Detroit composer
+talks beginnings
+
+About that Kimye
+Vogue cover
+
+'U' alum Alton
+James founded
+JIV Media
+By JACKSON HOWARD
+Daily Music Editor
+It's no secret that Detroit gets
+a bad rap, and it's probably one of
+the last places you'd expect any
+musician to set up shop. But for
+University alum Alton James,
+Detroit is not only his hometown,
+but also the place that he hopes to
+contribute most to.
+"All these Michigan companies
+are going to New York and Los
+Angeles and outsourcing their
+work to other locations," said
+James, a composer and sound
+designer. "But it's like, you've
+got this group, this really, really
+diverse group around Metro
+Detroit that can provide all types
+of music because youhave all types
+of cultures around here."
+This was James's thinking
+when he founded JIV Media, a
+Detroit-based company providing
+music for advertising, television
+and film. James believes that
+Detroit has as much artistic
+potential as any other major city
+and is just as focused on working
+with Michigan filmmakers,
+musicians and artists as he is with
+productions in Hollywood.
+Though he's found his calling in
+
+composing, his musical path has
+been far from straight. His parents
+were both singers in choirs, and
+at age 12, James started playing
+organ in churches across Detroit.
+But it was the experience working
+with choirsthat really made James
+realize his love for composing.
+"(Workingwithchoirs), Igotmy
+first taste of writing and hearing
+what I wrote performed back
+was really profound for me as a
+composer," James said.
+Like most kids growing
+up, James watched plenty of
+blockbuster movies and discovered
+John Williams and James Horner,
+two of the foremost composers in
+filmtoday. Betweenhisexperience
+in church and the influence of
+composers like Williams and
+Horner, James's passion for
+composingwas firmly planted.
+While at the University, James
+minored in music, with a major
+in English and another minor in
+African-American Studies. Still,
+he says, music is a language itself;
+his English education gave him
+insight in working with scripts
+and writers and also influenced
+the way he composes music.
+Clearly, however, music was his
+main priority. Having saved all of
+his music requirements for senior
+year, he was able to dedicate his
+total attention to it for two full
+semesters. Music students can
+probably relate to many of James's
+memories of hiding in the music
+
+school past the midnight closing
+time until the early hours of the
+morning, or playingvarious shows
+on campus for student groups and
+Greek life events.
+Launching JIV Media and
+jump into composing after
+graduation wasn't the immediate
+plan, though. After leaving the
+UniversityJamesmet anexecutive
+from Noble Music, a company
+focused on providing music for
+advertisements that counts Coca-
+Cola, Gatorade, HBO and Verizon
+among clients. The executive liked
+his work and asked if James would
+compose for ads, to which James
+replied with a quick, "sure, I put
+musictoeverything."Thoughhehad
+never composed for advertisements
+before, the opportunity gave James
+his first commercial work, and he
+hasn'tlookedbacksince.
+It's the combination of all these
+experiences - writing ad jingles,
+sleeping in music school practice
+rooms, composing for feature films,
+playing organ in Detroit churches
+- that really gives James his true
+identity as an innovative, curious
+and ever-growing artist. More
+than anything, as James continues
+to grow, Detroit will grow with
+him, a testament to his admirable
+decisiontobuck the trend and stick
+by the wounded city that raised
+him, working from the ground up
+to remind the countrythat Detroit
+is still humming, grooving and
+open for business.
+
+remember exactly where
+I was. Laying on the
+olive (puke?) green love
+seat in my living room with my
+legs propped up and over the
+armrest. My
+laptop was
+in its usual
+spot on my
+stomach
+as my head
+stiffly and
+blankly
+stared at ERIKA
+the screen. HARWOOD
+I scrolled
+aimlessly,
+probably doing the classic
+log-out-of-Facebook-just-to-
+log-back-in move on repeat.
+I bounced from tab to tab
+until finally a tweet - saying
+something along the lines of
+"Kim Kardashian's Vogue
+cover is here!" - caught my eye.
+Pardon me for forgetting the
+exact verbiage, but I was losing
+my goddamn mind.
+I'mnot onetobe shy aboutmy
+fervent fascination/obsession/
+love for the Kardashians. I
+once wrote over 700 words on
+it and probably could have kept
+on going, which is essentially
+what I'm about to do here.
+Due to both my keeping
+up with the Kardashians
+as well as fashion industry
+happenings (as much as one
+can do from Ann Arbor), I'd
+been keenly aware of the
+whispers and speculations over
+Kim Kardashian's unfavorable
+relationship with Vogue. The
+rumors were all over the place,
+saying Kanye West begged
+Anna Wintour to put Kim on
+the cover or that Anna only
+allowed Kim to attend the Met
+
+Gala
+gown (
+florall
+In
+likely
+would
+form t
+the co
+But
+Her na
+in her
+debun
+Kim,
+her gr
+has cr
+in th
+spotlip
+to do t
+Wh
+have 1
+do not
+issuef
+over
+know:
+the ct
+a gor
+gown.
+The
+Ar
+car
+thems
+page
+rangin
+("Ther
+that c
+her,"
+
+if she could chose the looks like the the first moves
+(a polarizing, head-to-toe toward the conception of South
+Riccardo Tisci gown). West).
+short: it seemed more Sometimes, the couple
+that Bruce Jenner's face seems, well, removed from
+revert back to human reality, but I still find it hard
+han for Kim to ever grace judge when Kim's everyday life
+ver of Vogue. consists of 30+ people following
+alas, there is a God and her ever move. I guess there are
+me is AnnaWintour, who some things that only she and I
+editor's letter seemed to can truly understand.
+k any distaste toward Despite the lavishness,
+saying that "through supposed drama and confusing
+'ace of character, (Kim) bits - such as "Kanye later
+eated a place for herself cast Kim as a scantily clad
+e glare of the world's Princess Leia in the pilot for
+ght, and it takes real guts 'Alligator Boots,' a raunchy
+hat." hip-hop 'Muppets Show' "
+ether those sentiments - that raise more questions
+been Anna's all along, I than provide answers, the pop
+care, because the Kimye culture prowess of Kimye is
+ucking delivered. I'll gloss officially undeniable. (Real
+the details we already talk though, if someone has
+Kim and Kanye are on more information on "Alligator
+over, with Kim donning Boots," shoot me an e-mail.)
+geous Lanvin wedding With Anna Wintour's official
+OK, moving on. stamp of approval by way of
+article and photos hiding what is bound to be the most
+popular magazine cover of the
+year, Kimye - as a unit - have
+mna W intour now breached the concrete
+walls of the fashion world,
+i basically do making their presence nothing
+short of ubiquitous.
+any If anyone were to propel
+Kanye West and Kim
+Kardashian further into their
+cultural domination, it would
+be Anna Wintour. And for
+elves within the 286- those who roll their eyes at the
+issue are worth noting, thought of a reality show star
+tg from heartwarming and her rapper fiance on the
+re was no girl in the world cover, keep in mind who gave
+ould pull me away from the green light. As always, what
+Kanye said - I want to Anna says goes.
+
+_ VISIT WWW.MICHIGANDAILY.COM/ARTS/THE+FILTER
+
+believe!) to insanely over-the-
+top (see: glossy photo of Kanye
+leaning against Kim on a matte
+black Lamborghini in what
+
+Harwood is stalking pugs,
+if you want to join, e-mail
+erikacat@umich.edu.
+
+
+ABC
+Security clearance.
+Dissecting the sartorial choices
+in ABC's sensational 'Scandal'
+
+By CHLOE GILKE wears
+Daily Arts Writer a quee
+B613 r
+
+Spoiler Alert: This article con-
+tains a major spoiler from the cur-
+rentseason of"Scandal."
+I came forthe love story, Istayed
+for the trench coats.
+ABC's "Scandal" has defied rat-
+ings gravity and climbed to the top
+of the pop culture ladder, hook-
+ing viewers with the prospect of a
+soap-opera-style torrid love affair
+between the President of the Unit-
+ed States and the White House's
+resident fixer. But despite the ups
+and downs of political conspiracy,
+election rigging and the occasional
+licking to intimidate someone, the
+real draw of "Scandal" is its flaw-
+less eye for fashion.
+Olivia Pope, played by the gor-
+geous and talented Kerry Wash-
+ington, somehow manages to hold
+her own in the beautiful array
+of elegant designer outfits she
+parades around the White House.
+Her classic style is anything but
+simple - her tops are structured
+and feature unique draping and
+interesting shapes to offset the
+understated whites and greys of
+her wardrobe. And though KW
+is pregnant, Olivia is still rocking
+those emblematic white trench
+coats and heels (shot only fromthe
+neck up, of course).
+Even more minor characters
+have their characteristic style.
+Abby Whelan is edgy but stream-
+lined - and the blacks and char-
+coals of her wardrobe compliment
+her stunning red hair. Mellie Grant
+
+has fa
+now ta
+childr
+faces,c
+and ca
+
+-A
+
+The
+dresse
+trated
+back o
+regal s
+(RIP)
+plaids
+Cyrus'
+And d
+rison,N
+color
+smile a
+Eve
+dal" b
+verge
+dare
+Mellie
+looks
+Hospit
+anoth;
+ture r
+eyes f
+since
+this e
+to ke
+cringe
+find m
+
+pearls and jewel tones fit for of "Scandal" more often than I'd
+n (or a First Lady). And poor like to admit, probably due in part
+ecruit Quinn Perkins, who to the painstaking perfection of
+lien off the deep end and the costuming. If the outfits are
+kes to kidnapping innocent this flawless, then everything
+en and licking her rivals' else has to catch up eventually
+can still rock a smoky eye (unfortunately not true for "Gos-
+rgo jackets. sip Girl"). The sheer visuals of the
+fashion on this show are so well
+put together that I even translate
+PopeCoats this to hope for the plotlines to
+wrap up as nicely as Abby's wrap
+analyzed. dresses.
+.Their emotional and profes-
+sional lives may be in turmoil,
+but Olivia Pope and Associates
+men are also flawlessly and their colleagues at the White
+d. Even as I grow more frus- House really know how to put an
+with Fitz Grant, he wins me outfit together. Besides just being
+ver with those classic and eye candy, this actually says quite
+uits. Press Secretary James a bitabout their characters. Olivia
+had a quirky checks and & Co. must put on a brave face and
+style to offset his husband "handle" everything with a smile
+s rather boring wardrobe. on their faces and a Prada bag in
+on't get me started on Har- tow. They can't afford <em>not</
+who always knows the exact em> to look their best. It's their
+to highlight his gorgeous job to dress upa scandal and hide
+and steal every scene. the darkness beneath a layer of
+n as the plotlines of "Scan- crepe peplum and hounds-tooth.
+ecome more tangled and Every episode of "Scandal" is a
+on ridiculous, I wouldn't reliable tour through the best of
+stop watching. Even as the runway. Prada, Armani, Alex-
+slaps Fitz in a move that ander McQueen, Gucci - Olivia
+straight out of "General spares no expense to have the
+tal" or I have to sit through most enviable closet in D.C. Even
+er icky Huck/Quinn tor- while this season has teetered
+omance scene, I keep my dangerously close to completely
+ixed to the screen. Not going off the rails, the wardrobe
+"Gossip Girl" have I been continues to stun. (White) Hat's
+nthralled with an outfit Off to costume designer Lyn
+ep me watching through Paolo for her consistently fabu-
+-worthy story arcs. And I lous work being the real fixer of
+iyself defending the merits "Scandal."
+
+
+The Michigan Daily - michigandaily.com
+
+Thursday, April 10, 2014 - 3B
+
+The Michigan Daily - michigandailycom Thursday, April 10, 2014 - 3B
+
+SHEI
+From Page 1B
+Invariably, once every
+semester or so, a series of high-
+quality pictures of my more well
+dressed acquaintances lands on
+the front page of my Facebook
+feed. They're at one of those
+parties I hear about but never
+get invited to, the kind with
+a professional photographer
+taking pictures at the front door.
+The backdrop of these pictures is
+always the same - the ubiquitous
+white, logo-emblazoned curtain,
+present at every award show and
+film premiere - but, unlike all
+the others, this curtain only has
+one name: SHEI Magazine.
+These pictures are, as it turns
+out, from SHEI's semiannual
+launch parties, celebrating
+the publication of its print
+magazine at the end of each
+semester. I am also not the first
+person to be impressed by the
+professionalism of the events
+and the magazine behind them,
+as one of SHEI's two fashion
+editors, Art& Design senior Tara
+Ellis, pointed out.
+"The second I tell people that
+it's all student-run, they're like
+'What?,'"she said.
+Their incredulity is
+understandable.
+SHEI Magazine is, for
+all intents and purposes, a
+professional fashion magazine -
+85 pages of high-quality, glossy
+pages featuring seven different
+photo shoots and upwards of
+15 articles tied around a single
+theme unique to each issue. It's
+the product of three-and-a-half
+months of work, done by a staff
+of around 150 writers, designers,
+photographers, models and
+managers.
+Unlike a professional fashion
+magazine, however, SHEI's
+employees aren't working a nine
+to five job. They're putting in
+those hoursafter going to classes,
+clubs, sports and meetings.
+"It's all students," said LSA
+junior Anna Fuller, SHEI's
+brandingdirector."Theonething
+that I usually say about SHEI is
+that it's run completely by the
+students. The photographers,
+the models, the writers, the
+directors, everything is students.
+Everyone but the printers.'
+That's something that we really
+pride ourselves on - that it's all
+student-run."
+The Inner Workings
+of SHEI
+
+four teams working under the
+creative director.
+"The creative director
+oversees the photo teams,
+the fashion team, the literary
+features team and the design
+team," Corrigan said. "Each of
+those teams then has one or two
+editors who organize the work
+they do, and the teams range
+anywhere from 10 members to, I
+think we have around 60 on the
+fashion team."
+Needless to say, this is
+a complex operation. A
+complicated organization made
+all the more convoluted by the
+fact that SHEI doesn't have a
+central office.
+"We currently have a room
+upstairs in the Union, but it's
+more of a storage space than
+a place that we meet to do
+things," Corrigan said "We have
+that room and then we have
+a standing reservation in the
+undergraduate library for our
+board meetings."
+As SHEI's editors are quick
+to point out, the lack of a
+central meeting space requires
+a great deal of flexibility and
+communication to keep things
+running smoothly and to builda
+sense of community among the
+staff.
+"We're pretty good at
+(working around that problem),"
+said LSA senior Tanika
+Raychaudhuri, one of SHEI's
+literary feature editors. "I guess
+one thing is that we have a lot of
+small communities within SHEI.
+For example, the lit team, we
+have our meetings in a certain
+location and we've always had
+them there and everyone goes.
+We do bonding activities as a
+team and bonding activities as a
+board."
+But, unsurprisingly, the
+amount of work necessary to
+keep the magazine's production
+on schedule while putting
+together runway shows and
+maintaining relationships with
+retailers in the community is
+daunting.
+"We spend 20 to 30 hours a
+week working on SHEI-related
+activities by the time you
+coordinate models, coordinate
+our 55 team members and run the
+meetings," said Lexie Miedema,
+LSA junior and co-fashion editor.
+"When we do photo shoots,
+that's our entire Saturday - pick
+up the models, bring themto hair
+and makeup, communicating
+with stores, organizing clothing,
+going to fittings, organizing
+photographers to make sure that
+they're on the same page as us,
+
+
+sHEI
+
+SHEI sponsors an annual student-run fashion show.
+
+As SHEI's editor in chief, LSA talking to the design editors to'
+senior Shae Corrigan, explained, make sure they're on the same
+the magazine's current success is page as us, communicating with
+the cumulative product of years each other to make sure we're
+of work by its student staff, and on the same page. It's seven
+during that time the magazine different photo shoots each
+has undergone significant semester and there's always an
+rebranding. event comingup."
+"We were founded in 1999 as
+an Asian culture magazine - A Global Fashion Magazine
+which is where the name comes inAnn Arbor
+from - it means 'whom' in one of
+the Chinese dialects," Corrigan SHEI is built on its student
+said. "So somewhere along the staff, but, like any other fashion
+way it kind of evolved, in that magazine, it runs on clothing.
+the staff and the interest in it as Ensuring the clothes keep
+exclusively Asian culture kind of coming takes up the majority of
+fell by the wayside." Brand Director Anna Fuller's
+After shifting its focus, SHEI work.
+expanded into a general pop Fuller serves as the liaison
+culture magazine with a focus between SHEI and the Ann
+on fashion. SHEI's website went Arbor fashion community,
+live in 2001, and in the years setting up partnerships with
+since then the publication has local retailers, designers and
+increased its presence both salons. Some of the most
+online and on the ground in Ann successful collaborations have
+Arbor through its fashion shows, been with the stores closest to
+retailer profiles and, of course, campus.
+magazine launch parties. "One of the things we have
+"InthepastfouryearsthatI've done in the last three years is
+been with SHEI and particularly we've partnered with the State
+in the last year we've picked up Street Organization and done
+more emphasis on developing a State Street fashion show
+SHEI as a resource for students towards the beginning of the
+who are interested in fashion year in the fall," Fuller said. "So
+and for people in the Ann Arbor that involves all of the stores
+community," Corrigan said. in the State Street Association,
+"We've put more emphasis on from M Den to Renaissance to
+community involvement, setting Van Boven, Pitaya, basically all
+up shows and fostering that of the stores on that strip."
+kind of relationship between the These arrangements are
+stores here and the students on mutually beneficial and have
+campus." helped to cement SHEI as a
+The 150 students that make leading voice in the Ann Arbor
+up SHEI's staff are led by an fashion scene.
+executive board made up of "We've been lucky enough
+the editor in chief, branding over the years to establish
+director, business director and contacts with (retailers in Ann
+creative director. The board is Arbor)," said Art and Design
+responsible for the magazine's senior, Fashion Editor Tara Ellis,
+administrative functions - "so they've come to know SHEI
+lining up funding, managing as a presence on campus and a
+SHEI's relationships with the lot of the stores are really great
+University, local businesses, and really eager and willing to
+charities and corporate work with us, which has been
+sponsors, and making the final wonderful. They send us their
+decisions on each issue's theme. clothes, whether for a photo
+But the majority of the staff shoot or a fashion show, and then
+and the work of assembling the we return them and, yeah, it's a
+magazine's content fall into the nice little deal. They get some
+
+
+advertisement and we get to
+display their clothing."
+SHEI's charity fashion shows
+have also helped to expand its
+presence in Ann Arbor. The
+magazine has worked with
+several charities, and last year
+the staff partnered with Merit
+on South University, which
+donates 20 percent of its profits
+to fund scholarships for Detroit
+students.
+"We did a success issue as
+our theme a couple of years ago,
+and David Meiritt was one of
+the people that we profiled,"
+Corrigan said. "He told us about
+his line, it was in its nascent form
+them. We went in and talked to
+them, he was a University alum,
+he has a history with SHEI,
+so it just seemed like a perfect
+fit. He has a charity that goes
+along with it, so it was just the
+clothes, the organization, just
+doing something fashionable and
+passing the money along."
+Though the Ann Arbor
+community is essential to
+SHEI's work on the ground and
+its runway shows, its executive
+board doesn't view it as an Ann
+Arbor fashion magazine.
+"Even in brainstorming what
+we wanted our tagline to be, we
+kind of debated whether to tailor
+it directly to the University of
+Michigan or keep it separate,"
+Fuller said. "I look at us as a
+global fashion magazine. We're
+very proud of Ann Arbor and the
+University of Michigan, but it's
+not our defining factor, I would
+say."
+"The slogan we came up
+with this past fall is 'Flipping
+pages, turning heads,"' Corrigan
+said. "It starts with the actual
+product, the magazine. And
+then with 'turning heads,' we
+want to get people's attention
+for new fashion trends, articles
+and concepts - our content, we
+really want to draw people's
+attention to that."
+Pride in the Product
+For an individual member of
+a large organization, it's easy to
+feel like just another spoke in
+the wheel - you get caught up
+in your day-to-day routine, focus
+on the task at hand and lose sight
+of where it's all headed.
+At SHEI, however, that feeling
+of malaise is countered by the
+magazine's ability to provide
+an inclusive community for its
+members.
+"We really want to be a
+resource for students on campus
+who are interested in fashion
+and the publication world,"
+Corrigan said. "It's for people
+who are interested in fashion
+and culture and self-expression
+as an industry and as a creative
+outlet, and just helping them
+develop the skills and interests
+that brought them to us in the
+first place."
+"I really like to say and let
+people know that there's a place
+for everyone at SHEI, and no
+matter what your interest is you
+can contribute to the magazine
+in some way," Fuller added.
+But, ultimately, SHEI's staff
+is driven by their pride in the
+product and the organization as
+a whole embodied in the physical
+magazine.
+"I think it's really wonderful
+to have everybody working so
+hard, almost individually, but
+
+then to have the team meetings
+and really see that everyone's on
+the same page," Ellis said. "But
+just everyone's combined efforts
+over a semester-long period ...
+it doesn't seem like it's going
+to ever actually happen, that
+we're going to actually have a
+
+SHE[
+
+SHEI runs on clothing donations from Ann Arbor's fashion community.
+magazine, but then it just comes
+together and it's really beautiful S HUSSFTHEATRE
+to see all of the teams' efforts UNIVFRSITYFMICHIGAN
+and energy come together into
+this final product."
+The magazine is a trophy to " and
+show potential employers - a
+former editor in chief reportedly
+brought it to an interview for
+GQ and was offered a position
+on the spot.
+The magazine is a testament
+both to the months of work
+needed to produce it and to the
+personal growth of each person
+on the staff.
+"I've still got the first
+magazine that I had an article" .,
+in. I can look through it and see
+my writing, the layout and look
+all of the shoots that we had, and
+then I can look at our current
+issue and see a real progression
+in terms of the magazine itself
+and certainly my own growth,"
+Corrigan said.
+But, above all, the magazine
+is a monument: the physical
+embodiment of a moment in
+time and a rallying point for the
+community that built it.
+"What I love about SHEI
+is working with a really good An edyp yb
+team of people and making a Dept. Theatre
+lot of lifelong friendships," said Directed Linda
+Raychaudhuri. "Just knowing
+that everybody is putting their r 1 1 2
+full energy into a product G A $
+because they really love to do it
+and not for any other reason." Le uTke ff
+No wonder they throw so F R MATURE A 1
+many parties.
+
+
+B Thursday, April 10, 2014
+
+The Michigan Daily - michigandaily.com
+
+.WhoWhat
+Wear
+
+Four 'U' students
+profiled on their
+clothing interests
+By JACKSON JOWARD
+Daily Music Editor
+A college campus - especially
+Jane the size of Michigan - is
+pJobably the only place on earth
+wjhere a vast and diverse group
+of young adults can express
+;hemselves however they'd
+ike. Without a doubt, fashion
+it an integral part of this self
+expression. Away from the
+scrutinizing glares of parents,
+'gollege students can dye their
+ilair obscene colors, sleepwalk
+f5 class in sweatpants and show
+a little too much skin without
+4syone blinking. But college,
+;a addition to simply freeing
+sludents from any type of
+"ules" (except the legal ones,
+;u know), fosters a culture of
+eperimentation, excitement and
+'riosity, especially in terms of
+clothing. Like anything creative,
+style can't function properly
+'when it is inhibited. Instead,
+epllege provides a breeding
+'ground for expression and, more
+t4an anything, encourages kids to
+take pride in how they represent
+themselves to the rest of the
+world.
+SIn my two years here, I've
+sEen some incredible clothes. But
+even more, I've seen people with
+great style - from professors
+0 custodians to students
+jhroughout campus - who,
+ttrough some creative process,
+stmehow put it all together in a
+way that makes you take a second
+look, raise your eyebrows or, at
+least, makes you smile to yourself
+or nod in approval. This campus is
+chock-full of stylish students and
+it's impossible to say who truly
+bas the bet sepse of fashion.
+That being said, I talked with four
+students who I think have a style
+completely unique to them and
+stand out as undeniably different
+jnd, well, simply awesome in
+the mayhem that is Michigan.
+They're from different states,
+study different things and have
+very different personalities, yet
+theyare united in one thing: killer
+clothes.
+Name: Arielle Wisbaum
+n Hometown: Buffalo, New
+York
+-;Major: Political Science
+and International Studies
+Year: Sophomore
+Where do you shop?
+"I try thrift shopping, but to be
+honest I'm kind of impatient, you
+have to have a lot of patience for
+that. I'm not going to lie, Buffalo
+doesn't have a lot of options, but
+i still shop at Free People and
+Anthropologie. I also really like
+little markets when I'm traveling
+with linens, scarves and jewelry
+especially turquoise stones and
+big rocks."
+."What's your favorite
+weather to dressafor?
+
+the spring) you start to remember
+that people have style actually."
+Who are some of your
+fashion icons? Where do you
+get inspiration?
+"Hippie styles ... Joni Mitchell,
+Joan Baez; if you look back at
+Woodstock fashions, I get aslot of
+inspiration from there."
+How would you judge the
+fashion sense of this campus?
+"I think it's pretty hip and
+diverse. There are definitely
+trends for different groups of
+people ... as a whole it's pretty
+good. I'm impressed by stuff I
+see here. I'm impressed by other
+students."
+Name: Jay Moskowitz
+Hometown: Bloomfield
+Hills, Mich.
+Major: Art and Design
+Year: Sophomore
+What's the best story you
+have behind a piece of clothing?
+"I have several oversize coats
+all from my crazy grandfather
+who spent a bunch of money on
+useless stuff because he didn't
+want any ofthe money to go to the
+family. And then he died and Ijust
+took all his coats so it did kind of
+go to the family."
+What's your process for
+gettingdressedinthemorning?
+"It's kind of whatever I feel like
+that day, but it's really important
+that it's a specific feeling that I
+have to interpret and construct
+with the clothes I choose. I
+actually start thinking about it
+the night before because I just
+want to do it right and feel good
+all day."
+What's your favorite
+weather to dress for?
+"I think actually colder. Like in
+the 20s Fahrenheit. Because then
+I can put on a bunch of layers and
+abig ridiculous coat and that's fun
+if I don'thave towearabackpack."
+What's your most treasured
+item of clothing?
+"I have these cyberpunk goth
+pants with a bunch of stringy
+stuff hanging off, those are pretty
+cool. Otherwise I have these
+black, shiny, tight bellbottom
+pants that have matte flower
+design on them."
+Name: Cameron Fattahi
+Hometown: Brighton,
+Mich.
+Major: Biopsychology,
+Cognition and Neuroscience
+(BCN)
+Year: Sophomore
+Who are some of your
+fashion icons? Where do you
+get inspiration?
+"I read Esquire UK, that's
+where Iget all mystufffrom. (The
+UK version) has better articles, I
+guess. Nicer interface. Also a lot
+of British photographers."
+What's your most treasured
+itemofclothing?
+"Definitely my Red Wingboots."
+
+Jay Moskowitz is a sophomore in Art and Design wearing interesting pants. Nina Brewster is a freshman in Art and Design auditioning for
+
+
+"Fall. Because you can wear
+& lot of different layers, you can Where do you shop? Are you
+tike things off and put things off. a thrifter or more of a retail
+In winter, everyone's wearing person?
+big coats and you can't tell what "Club Monaco and J. Crew.
+anyone is wearing but now (in Those are my two."
+
+NICHOLAS WILLIAMS/Daily NICHoLAS WILLIAMS/Daily
+Cameron Fattahi is a BCN sophomore. He loves his pockets. Arielle Wisbaum is an LSA sophomore and a bracelet afficianado.
+What's the best story you safety pins but it's stillmy go-to." How would you judge the clean ... and since almost all of
+have behind a piece ofclothing? fashion sense of this campus? my clothes are neutral colors I
+"I have this red Stanford hoodie Name: Nina Brewster "I have seriously mixed never worry about it matching."
+that I got one time in Californiaand Hometown: Wyckoff, New feelings about the style on
+I wore it in high school every time Jersey campus. There are a lot of days What's your most treasured
+I took a test as motivation to do Major: Art and Design that I notice a lot of people item of clothing?
+well. It's held together by like three Year: Freshman looking cool in their own styles "Maybe this super old and
+but often it's just a pretty worn out vintage light blue
+generic look and nothing all that sweater that I've had for like
+exciting. But I think it's maybe five years now. It's my most
+like that anywhere else you go, I treasured piece because it's
+UEdon't know." something I could never throw
+away."
+What's your process
+,a for getting dressed in the How do you define style?
+morning? "I think style is, as corny as it
+"I'm always rushing in the sounds, just a way of expressing
++:rmorning so I typically throw yourself and showing what
+whatever I can find on that's you're about."
+/ e;./° C.}DO IT,
+DAMNIT. 1 f Y
+
+@MICHIGANDAILY
+
+
