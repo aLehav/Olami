@@ -1,0 +1,1507 @@
+A UC San Diego research 
+project called WIFIRE is helping 
+fire departments across the country 
+predict fires up to six hours in advance due to its powerful real-time visualization fire modeling capability. During the recent 
+Northern Californian wildfires in 
+Mendocino, Napa, and Sonoma, WIFIRE has had over 3 million hits and over 300,000 people visiting the project’s website at the same time.
+Ilkay Altintas, a research director 
+at the San Diego Supercomputer Center, is the principal investigator of this project which collects data on fires and places it on a map. 
+“It’s an integrated resource 
+for fire information. It federates data related to fires from national resources and other partners that we have. It visualizes that on the map. It’s a research project, so it has other components to it like using the visualizations in 3-D cave 
+environments at the Qualcomm 
+Institute here and we have some fire modelling research, ” Altintas said.
+Back in 2003, the San Diego 
+Supercomputer Center received a grant from the National Sciences VOLUME 51, ISSUE 4  MONDA Y , OCTOBER 23, 2017  WWW.UCSDGUARDIAN.ORG
+ 
+ATHLETE 
+SPOTLIGHT
+SENIOR OUTSIDE HITTER 
+AMANDA COLLA DISCUSSES 
+HER TIME HERE AT UC SAN 
+DIEGO. EDITOR MARCUS 
+THUILLIER CATCHES UP 
+WITH HER AND DISCUSSES 
+HER REMARKABLE CAREER 
+WITH TRITON VOLLEYBALL.
+NON-BINARY
+SHORT TALESNew   St a tewide   identifica tion
+SHORT  FICTION  CHALLENGEOPINION,  Page   4
+A&E,  Page  8
+FORECAST
+VERBATIM
+INSIDE”THE PRESS AND 
+JOURNALISTS’ RIGHTS 
+HINGE ON THE 
+RESPECT OF THE FIRST 
+AMENDMENT. MY ABILITY 
+TO WRITE THIS COLUMN 
+ABOUT THE U.S.’s FAULTS 
+AND MISHAPS DEPENDS 
+ON THAT PIECE OF PAPER 
+WRITTEN IN 1787.”
+- MARCUS THULLIER
+ACROSS THE GLOBE: 
+OPINION, PAGE 4
+IN BRIEF ........................... .2
+SEX TRAFFICKING...........4
+ATYPICAL ACADEMIC .. 6
+CROSSWORD ................14
+CROSS COUNTRY ........15SPORTS, PAGE 16
+MONDAY
+H 85 L 65TUESDAY
+H 83 L 63
+WEDNESDAY    
+H 80 L 63THURSDAY
+ H 76 L 64
+UCSD Hosts 
+Third Annual SD Hacks Students and WorkersCAMPUS
+The coding event began on 
+Friday and ended on Sunday, with students from different 
+schools winning various prizes 
+for their designs.
+UC San Diego’s third annual 
+hackathon, SD Hacks, took place this 
+weekend, from Oct. 20 to Oct. 22. 
+Over 700 students from universities 
+all over the country participated in the 36-hour competition sponsored by some of the technology industry’s 
+biggest names, such as ViaSat, 
+Qualcomm, SPAWAR, and Amazon. 
+Students can choose to compete 
+in one of the challenges presented by a sponsoring company or by 
+the organizers at UCSD, or they 
+can simply design a project without submitting it for the competitions. The grand prize this year, sponsored 
+by the SD Hacks organizing 
+committee included a PS4 Pro, Oculus Rift + Touch, and an Apple Watch 3. 
+This year, SD Hacks also 
+partnered with UCSD’s Virtual Reality Club and HTC to provide participants with HTC Vibes to use for their projects. Elise Wong, 
+a junior from Muir college who 
+served as this year’s organizer, explained that UCSD works with many on-campus engineering organizations as well as University 
+Events office, to provide hackers 
+with hardware and resources to experiment with. 
+“We have workshops run by 
+other UCSD student orgs, ” she said. “CSES held a workshop, App Developers at UCSD held a workshop, and VR Club at UCSD help a workshop. I think [it’s] pretty 
+cool that we work closely with those 
+groups. As a hackathon organizer, we’re lucky that University Events office supports this event too. ”
+Akanksha Kevalramani, a senior 
+from Muir college, held a workshop on behalf of Design at UCSD as well. A former participant, she believes SD Hacks has improved its user 
+experience since the first iteration 
+of the event two years ago, which makes the event more enjoyable for new participants. 
+“This year they’re doing a 
+mentor queue thing, where people can put themselves on a queue and mentors can go around and help people, which is really impressive, ” 
+she explained. “I think little 
+additions like that — that make the On Wednesday evening, A.S. Council passed 
+its 2017–18 Executive Budget after a series of errors which required the council to 
+make substantial changes to the budget. 
+The budget was initially prepared on Oct. 13, but 
+the Student Life Business Office gave the financial committee incorrect numbers of the fixed amount 
+of money it was allowed to spend, putting the 
+council in a $110,000 deficit. A.S. Council was only informed of the mishap hours before the meeting. The miscalculation set the council back significantly, 
+necessitating intensive examination and discussion 
+of various allocations throughout the approval process.
+Financial Controller Andrew Thai introduced 
+a series of amendments made by the financial committee just prior to the meeting, including a removal of the $5,000 Basic Needs Initiative, a $5,000 cut to the Programming and Outreach section of 
+the Office of Spirit and Athletics, and a $30,000 cut 
+to the Office of Student Organization’s unallocated funds. These amendments passed without debate, and the council began the budget review with a deficit of $4,831.70.
+The Office of Concerts and Events received a 
+$37,000 increase from last year. The A.S. Safe Ride Reserve took a $2,000 cut, and after a low turnout rate for the 2017 A.S. Council elections, the A.S. 
+Elections fund doubled to $5,000 from last year’s 
+$2,500 budget.
+A major point of contention was the budget for the Office of Spirit and Athletics, which stood at $18,000 after its initial $5,000 cut, totalling a $10,000 cut from last year’s budget. Meri Y edigaryan, 
+associate vice president of Spirit and Athletics, 
+pointed out that increasing sports game attendance is crucial since UC San Diego is still attempting to gain Division I status. When asked to explain the 
+operations of the office, Associate Vice President 
+Y edigaryan was only able to offer vague answers concerning collaboration. This was directly followed by a motion to remove $2,000 from the office’s 
+$11,000 Programming and Outreach initiative. The 
+motion was objected, opening up a lengthy and increasingly personal debate spanning a series of impassioned responses. 
+Senator Tapia argued that the office should 
+collaborate with the six college councils to garner school-wide spirit funds. Senator Siegel Singh, a Sixth College senator, warned against assuming 
+that college councils have the necessary funds for 
+various initiatives. Senator Feeney argued that a cut totalling $12,000 is too much for any one office and that UCSD already lacks school spirit. He claimed, “I will vehemently oppose [the motion] 
+to the end of this vote. ” Associate Vice President of 
+Local Affairs Denasia Gaines questioned the ethics of the office’s budget and whether it was really for the good of the students. She additionally claimed 
+that she couldn’t see how $2,000 was correlated 
+to increasing student attendance. Vice President of Internal Affairs Matthew Arrollado came to By Maya KLEIMAN  A.S. Columnist
+The project began when the Supercomputer Center received a grant to build a wireless network.SCIENCE & TECHNOLOGY
+BY Amalia Huerta Cornejo
+Contributing Writer
+BY Promita Nandy
+SENIOR STAFF WRITER
+Researchers’ Tool Helps Predict California Wildfires
+Students and faculty listen to a speaker at UCSD Library’s third “Short Tales from the Mothership” event.
+Photo by Jerry Zhou // UCSD Guardian  UCSD
+CAMPUS
+See SD HACKS,  page 3See WILDFIRE , page 3See BUDGET , page 3A.S. Forced to Cut Budget After Calculation Error
+PHOTO COURTESY OF UCSD ATHLETICSUC campuses will now be 
+prohibited from giving preference to 
+nonresident applicants over resident 
+applicants in admissions as the result 
+of a bill signed into law by Gov. Jerry Brown last week. The bill, AB 1674, is a response to the 2016 state audit 
+which concluded that the UC system 
+had lowered admissions standards for out-of-state and international students in order to receive their higher tuition.  
+Under the new law, the UC system 
+must ensure that campuses’ admissions policies are implemented such that “the academic qualifications for admitted nonresident undergraduate 
+students generally exceeds, on average, 
+the academic qualifications of resident undergraduate students admitted at each campus. ” The bill additionally requires that the university report 
+annually to the California legislature 
+on the application of this policy, providing data such as mean and median test scores and grade point averages.
+According to the state audit which 
+prompted Assemblymembers Kevin McCarthy, Catherine Baker, and Timothy Grayson to introduce the 
+bill, approximately 16,000 nonresident 
+applicants across the UC system were accepted to campuses at which their GPAs and test scores were lower than the top half of resident admits from 
+2012 to 2014. At the same time, the 
+number of rejected qualified resident applicants increased.  
+UC spokesperson Stephanie 
+Beecham wrote in an email to the Daily Californian that UC current and future admissions policies are “totally aligned” with the bill’s requirements, which the UC system should 
+implement beginning on July 1, 2018.
+Given that the university is 
+institutionally independent, the 
+legislature does not have the ability to directly change UC admissions 
+policies. However, Baker told the Daily 
+Cal that she would like the UC system to “take this bill to heart” and noted that the state legislature does have 
+some influence over the university. 
+Nakhul Kisan, an out-of-state 
+ERC freshman, explained to the 
+UCSD Guardian that he did not feel like he was given preference for 
+his nonresident status during the 
+admissions process.
+“The acceptance rate for in-state 
+students is still higher than it is for 
+our-of-state students, ” Kisan stated. 
+“ Also, the UCs do not count honors classes for high schools outside of California as honors, but only as standard classes, so GPA inflation is 
+much lower for out-of-state students. ”
+Despite this, Kisan believes that 
+holding nonresident applicants to 
+higher standards is reasonable. 
+“Since California residents are 
+already paying taxes to the schools, then it only makes sense that California residents should have priority over anyone else, ” Kisan said.  
+The bill passed with overwhelming 
+bipartisan support in both houses of the legislature and marks the second time this year that nonresident attendance at UC campuses has been 
+targeted. Back in May, the UC Board 
+of Regents voted to place a cap on nonresident enrollment across the UC system.  2 THE UCSD GUARDIAN | MONDAY , OCTOBER 23, 2017 | WWW.UCSDGUARDIAN.ORG NEWS
+PRODIGIOUS CAMPUS By Michi Sora
+.com/ucsdguardian
+Follo w us o n all platfo rms! @ucsdasceThe UCSD Guardian is published Mondays during the 
+academic year by UCSD students and for the UCSD community. Reproduction of this newspaper in any form, whether in whole or in part, without permission is strictly prohibited. © 2017, all rights reserved. The UCSD Guardian is not responsible for the return of unsolicited manuscripts or art. The views expressed herein do not necessarily represent the opinions of the UCSD Guardian, the University of California or Associated Students. The UCSD Guardian is funded by advertising. Butt stuff.
+General Editorial:  
+editor@ucsdguardian.org  
+managing@ucsdguardian.org
+News: news@ucsdguardian.org
+Opinion: opinion@ucsdguardian.org
+Sports: sports@ucsdguardian.org
+Features: features@ucsdguardian.org
+Lifestyle: lifestyle@ucsdguardian.org
+A&E: entertainment@ucsdguardian.org 
+Photo: photo@ucsdguardian.org
+Design: design@ucsdguardian.org
+Art: art@ucsdguardian.org  
+Marketing: marketing@ucsdguardian.org
+Advertising: 858-534-3467
+ads@ucsdguardian.org
+Fax: 858-534-7035Business Manager
+Jennifer Mancano  
+Advertising Director 
+Caroline Lee
+Marketing Directors
+Melissa Palafox
+Yeji Shin  
+Training and Development Manager
+Jordan Packer
+Advertising Design 
+Alfredo H. Vilano, Jr.
+A.S. Graphic Studio  Sam Velazquez
+Marcus Thuillier
+Lauren Holt
+Armonie Mendez
+Aarthi Venkat
+Chris Robertson
+Alex Wu
+Richard Lu
+Susanti Sarkar 
+Timothy Deng
+Alicia Lepler
+Annika Olives
+Brittney Lu
+Francesca Hummler
+Aleya Zenieris
+Tina Chen
+Lorena Espinoza
+Hojune Kwak
+Miguel Sheker
+David Juarez
+Lisa  Chik
+Alicia HoEditor in Chief
+Managing Editor
+News Editor
+Associate News Editor
+ 
+Opinion Editor
+Associate Opinion EditorSports EditorAssociate Sports Editor
+Features Editors
+A&E Editor
+Lifestyle EditorAssociate Lifestyle EditorPhoto Editor
+Design Editor
+Associate Design EditorMultimedia Editors
+Data Visualization Editor
+Art Editor
+Copy EditorAssociate Copy Editor
+Page Layout
+Aleya Zenieris, Tina Chen
+Copy Reader
+Agnes Song, Cora Becker, Melissa Posada, 
+Rachael Alberts, Richard Lu, Vincent Gao
+Editorial Assistant
+Nathaniel Walker, Armonie Mendez, Tina Chen New Law Prohibits UC System from Favoring Nonresident Applicants
+BY Lauren Holt
+News Editor
+lauren hol t  lcholt@ucsd.eduAB 1674 requires the UC system to ensure that nonresident applicants are as qualified or better than admitted residents.IN BRIEF
+@UCSDGUARDIANlike us on fb user experience better for people 
+attending the hackathon — really makes a difference. ” 
+SD Hacks was Audrey Chung, a 
+junior from Marshall college’s, first hackathon. As a pre-med student, she had little prior experience with 
+coding, but really enjoyed learned 
+new skills at SD Hacks.
+“I would definitely do it again, ” 
+she told the UCSD Guardian. “Now that I’ve gone once, I have a better 
+idea of what to expect and how I’ d want to go into it the next time. I already have an idea that I’m hoping 
+to pursue at the next hackathon I go to. It’s overall a great opportunity for anyone of all levels to check out, 
+especially since the event comes at 
+no monetary expense for any of the participants. ” 
+Although Wong plans to step 
+down as director of SD Hacks next 
+year, in the future she would like 
+to see more participation from students with non-computer science and engineering related majors. 
+“I would like to see other majors come out to SD Hacks, because it 
+is stereotypically known as just a 
+[computer science] focused event, ” Wong told the UCSD Guardian. “I want to bring in more people from 
+biotech [fields], business, and the 
+startup community. [Hackathons] are for anyone who just want to create some project or work with other people on a cool idea. ” Y edigaryan’s defense, explaining that 
+the office’s previous associate vice president did not personally support her for the position and therefore did 
+not transition her, leaving her in the 
+dark about the details of the office’s operations.
+After several motions and 
+attempts to close the ongoing debate, President Figueroa moved to call the 
+budget to question as it is and plan to work with it later on, adding that 
+she would work with Yedigaryan personally. The motion passed, and the Spirit and Athletics budget was finally approved as is at $18,000 by a 
+23–3–3 vote.
+A recurring issue throughout 
+the meeting was the concept of 
+reallocating funds. Many senators 
+and associate vice presidents were 
+under the impression that money being used for a particular office could be reallocated anywhere within that office. 
+One instance of this occurred 
+when Helen Cao, associate vice president of Student Organizations, made a motion to increase the 
+stipend for the Chief of Staff and 
+special projects manager of the Office of Student Organizations. She revealed that she hoped to use the funds for programming interns and 
+explained that the stipends would 
+allow for “better management of funds we allocate to student orgs. ” When a new motion was made 
+to reallocate funds already within 
+the student organization’s budget, President Figueroa reminded the council that reallocation of funds is a decision for all A.S. senators, not 
+just the associate vice president of a 
+particular office. Unallocated funds belong to the entire pool of A.S. funds. Ultimately, the amendment 
+passed and the motion to increase 
+stipends was approved, increasing the senior associate vice president of Student Organizations stipends by a 
+total of $500.
+A similar problem arose when 
+the All Campus Commuter Board 
+chair objected to the $3,600 ACCB stipends budget, citing a plan 
+to create a vice chair of internal affairs in addition to the existing 
+vice chair of external affairs. Unlike 
+the potential student organization 
+interns, these positions had already been appointed by ACCB. When Vice President Arrollado announced 
+that the new position would create 
+a deficit, a motion was made to reallocate money from Tournament and Competition unallocated funds, a line item in the Office of Student 
+Organizations. President Figueroa 
+reiterated that the reallocation of funds is not one office’s decision, and Senator Tapia called out the sense of 
+entitlement attached to the notion 
+that funds belong to a single section. Still, the motion passed 21–1–3, and with that, the 2017–18 budget was approved. 
+After the meeting, Figueroa 
+reflected on the need for better transitioning of and communication with associate vice presidents. 
+Concerning the numbers mishap, 
+she announced plans to ensure that A.S. Council is receiving information “accurately and more consistently” via a more “direct communication” 
+with the SLBO — an organization 
+that A.S. Council pays full-time to do its paperwork. Foundation to build a high-
+performance wireless network. This 
+technology and Altintas’ encounter with a wildfire that same year on a drive between Santa Barbara and 
+San Diego were major factors in 
+the development of the research in 2013.
+“The main reason NSF funded 
+it at the time was for scientists who had sensors out in the field to have 
+connectivity to the back county. 
+They had these radio towers, so they didn’t have to constantly send graduate students to collect data 
+out in the field. Actually, data was 
+streaming in real time but in their labs, ” Altintas said.
+The technology’s ability to gather 
+data from different sources like 
+environmental sensors and towers 
+on mountaintops with cameras has caught the attention of fire response agencies since 2003.
+“ At some point it was the only 
+station with all these tools where 
+you could see the fire. Because when 
+a fire happens, actually, no one knows where the fire is. For wildlife fires, the exact location of the fires 
+are always a little bit of a mystery 
+because it is always moving over time. Without constant monitoring of the fire, it’s really hard to tell, ” 
+Altintas stated.
+This real-time data collection 
+capability and the interest of the 
+fire response agencies inspired Altintas and her team to spearhead the research in the monitoring and 
+predictive fire-modelling direction 
+by integrating more data sources including satellite mapping and Geographic Information System layer visualizations. “Something 
+we should really recognize about 
+WIFIRE is that as we have more access to more data, it will actually be more and more accurate. We can actually use that to learn the dynamics of the fire and assimilate 
+that data into regular fire models to 
+adjust the models. Each time we are adjusting the model with what we have learned about in the last hour, 
+last 12 hours, etc. ” Altintas added. 
+This research project and tool 
+has already made an impact in 
+the community through a recent 
+collaboration with the Los Angeles 
+Fire Department. However, the 
+team is looking to improve its six-
+hour predicting capability model and Altintas recognizes the need to expand the research, pointing 
+out that in the future “there is a 
+component of it that needs to be operationalized and sustainable. ”
+NEWS  THE UCSD GUARDIAN | MONDAY , OCTOBER 23, 2017 | WWW.UCSDGUARDIAN.ORG 3
+The T eam Hopes to Improve Its Predicting Capability Model
+Wong: “I’d Like Other Majors to Participate in the Future”Budget Debated Over the Course of  Seven Hours
+Amalia Huerta Cornejo  ahuertac@ucsd.edu
+Promita nandy  pnandy@ucsd.edu
+ma y a kleiman  mkleiman@ucsd.edu▶ WIFIRE, from page 1
+▶ SD HACKS, from page 1▶ BUDGET, from page 14 THE UCSD GUARDIAN | MONDAY , OCTOBER 23, 2017 | WWW.UCSDGUARDIAN.ORG  OPINION
+OPINIONCONTACT THE EDITOR
+opinion@ucsdguardian.org
+AARTHI VENKAT
+America’s finest city, beneath the illustrious 
+façade of pristine beaches, parks, and sunny 
+weather, is severely ill, and so many of her citizens are unaware of the epidemic.  San Diego, ranked 8th in the nation for the prevalence of child sex trafficking, sees a harrowing $810 million flow into the illicit sex trade on a yearly basis.  Additionally, our city’s monetary contribution to the illegal sex trafficking industry worldwide is almost thirteen times that of an average area of comparable population.  With these statistics in mind, there is no doubt that sex trafficking is a problem that plagues the city of San Diego.  So, what is being done to help the victims of San Diego’s second largest illegal economy?
+One organization that is making an 
+incredible difference in the city of San Diego is GenerateHope, a non-profit charity organization that provides an on-site recovery program for women who have survived and are trying to escape the tragic cycle perpetuated by traffickers and gang pimps.  GenerateHope relies largely on donations and fundraisers to attain the monetary resources required for providing its women with basic necessities, long-term housing, tutoring, college preparation, and psychotherapy.  The organization’s current budget sufficiently provides these services to approximately six women at a given time, but unfortunately, the cost of college tuition is well outside of this budget.“The first step is to bring true healing to 
+these women,” says Dan DeSaegher, Executive Director of GenerateHope, “but without the target of a strong vocation and a strong education, you’re never going to be able to be truly independent.  You’ll always be vulnerable to the original pressures that caused you to become a victim. Education and financial solutions are critical for these women.” 
+UC San Diego has over 220,000 students 
+and alumni, yet our effort to make a difference when it comes to sex trafficking has been limited to occasional awareness events and the rare publication of related research.  As a university, we have the obligation to serve our community, and we can do a lot more to support the victims of San Diego’s underground sex trade.  
+ U C  S a n  D i e g o  o u g h t  t o  i n t r o d u c e  a  
+scholarship fund to afford survivors of sex trafficking the opportunity to receive a college education.  This has proven to be one of the most impactful actions take by Point Loma Nazarene University to serve San Diego’s women, and its one that may be taken by UC San Diego as well.
+A tenth of the size of UC San Diego, Point 
+Loma Nazarene funds its “Beauty for Ashes Scholarship,” primarily with donations from its alumni, faculty, and students.  Following this example, the implementation of such a scholarship fund would incur minimal expenses, and because of UC San Diego’s size and the general altruistic nature of its graduates, the fund would undoubtedly be greeted by an impressive volume of donors.  Furthermore, a scholarship fund of this caliber would receive a lot of press attention and would certainly inspire other universities to buy into an emerging humanitarian trend, positioning UC San Diego at the forefront of a new movement by universities to do more for the victims of sex trafficking. 
+Most importantly, the scholarship fund 
+would change lives, providing its recipients with a path to security and independence, a sense of worth, and a hope for the future.  “UCSD is in a position of influence and empowerment,” says DeSaegher. “I would love to see that strength become a very practical option for these survivors of the trauma of sex trafficking.  These young women, and there are many that could qualify, need access to the same resources, community, and training as any other student.” 
+A scholarship fund is certainly a realistic 
+and attainable way to serve the city’s victims of sex trafficking, and there is no question as to whether or not UC San Diego can provide one.  So, the only question is: will we do it?
+Jason Nideffer  jnideffe@ucsd.eduMARCUS THUILLIER
+MTHUILLI@UCSD.EDUACROSS 
+THE GLOBE
+On Wednesday Oct. 11, president 
+Donald Trump said this: “It’s frankly 
+disgusting the way the press is able to 
+write whatever they want to write and 
+people should look into it”. Immediately, a mediatic and political firestorm should 
+have come down on him to rebuke his 
+stance on press freedom and to protect 
+the First Amendment - but one didn’t. 
+The story was picked up by most big news outlets, but it didn’t get a lot of 
+traction because it was shut down by 
+White House press secretary Sarah 
+Huckabee Sanders. She defended this 
+pathological liar by simply saying “But with the First Amendment ... with those 
+freedoms also come responsibilities. 
+And you have a responsibility to tell 
+the truth, to be accurate.” You should 
+already know there is something fishy going on here, but let me lay it out for 
+you.
+The U.S.’s press freedom index 
+is ranked 43, according to Reporters 
+Without Borders (RSF), a number that puts the U.S. in the same ballpark as 
+Burkina Faso at No. 42 and my dear 
+country of France at No. 39. Higher in 
+the ranks reside Ghana at No. 26, Canada 
+at No. 22 and Costa Rica at No. 6. When sub-saharan countries are ranked above 
+you in an index that relies heavily 
+on determining intensity of abuses 
+and violence against media, media 
+independence and self-censorship, you ought to seriously revisit your priorities. 
+And there lies the second part of the 
+problem. Ken Auletta, a writer at the 
+New Yorker, wrote that “The framers 
+[of the Constitution] [...] gave the First Amendment as a way of giving a fourth 
+branch of government — in fact, the 
+press — an ability to question those in 
+power in any of those three branches 
+of government.” For Dana Priest, a 
+reporter at the Washington Post, “The 
+Constitution does not make the president 
+of the United States the decider when 
+it comes to the flow of information. 
+That’s so fundamental to who we are as a country, that we have a press that 
+is independent of the government.” 
+Trump’s actions run contrary to what 
+the founders had in mind, and by trying 
+to control the flow of information, he effectively breaks the “supreme law of 
+the land”.
+Just like in the U.S. with Trump, 
+France’s president Emmanuel Macron 
+has had some incidents where he acted against the press’ freedom and 
+independence when he chose which 
+journalists may cover him, an honor 
+usually bestowed by the editor in chief 
+or management teams of the different newspapers. But even Macron would 
+not go so far as to threaten “to challenge 
+their license” or even “if appropriate, 
+revoked [it]” for reporting on something 
+he probably said, then backtracked.
+The press and journalists rights hinge 
+on the respect of the First Amendment. My ability to write this column about 
+the U.S.’s faults and mishaps depends 
+on that piece of paper written in 1787. If a false report is issued, journalistic 
+integrity demands a withdrawal and an 
+apology. But nowhere is it written that 
+the president, especially one with such a 
+shaky notion of freedom and democracy, has any right to silence journalists, to tell 
+us what to write, or demand us to stop 
+covering the bad decisions he himself is 
+responsible for.Victims of Sex Trafficking Require UCSD Aid to Meet Educational Needs 
+BY JASON NIDEFFER // CONTRIBUTING WRITERThey, Them, and Their Options
+BY AARTHI VENKAT // OPINION EDITOR
+BY CHRISTOPHER ROBERTSON // ASSOCIATE EDITOR
+California made history last week as the first state in the union to allow 
+for a third-gender option, “non-binary,” across all state documents. Not to 
+be outdone by Oregon, which recently gave individuals the choice of “X” as a gender-neutral identifier on driver’s license, California extended this policy across all of its state-issued identity registrations, including driver’s licenses, state ID cards, and even birth certificates. Not only that, the bill simplifies the process for transgender people to change their gender identity on legal paperwork.
+This was a long time coming, for two reasons. First, the collective 
+American consciousness has seen a spur in queer-oriented changes in public policy over the past few decades — marriage equality, workplace protections, and hate crime statutes among others — but these shifts have traditionally protected sexual minorities far more than gender minorities. Gender minority groups still suffer higher rates of harassment and violence than do sexual minorities, and many states still lack workplace protections for transgender people. Second, the bill evidences the impact of advocacy and activism in a time when the current administration seeks to force these protections all the way back to the 1970s. The bill represents marked progress for non-binary people just months after the Trump administration walked back Title IX protections for transgender people and removed them entirely from the armed forces.  
+Critics of the bill, naturally, crawled out from the woodworks as soon as 
+Rep. Atkins introduced SB 179 to the California House floor. Some pointed out legitimate logistical concerns, such as prison placement and searches, and collegiate sports team regulations. The new bill complicates issues where gender is the determinant factor in the decision-making process. This necessitates future revisions. Most critics, however, rely on the same outdated misappropriations of biological sex determination and a blanket mistrust of non-binary people, to reject the bill. Despite a lack of evidence, the opposition warned of deceitful abuses of the system, particularly against women and children, and of the litigation nightmares to come when people are no longer allowed to assume someone’s gender.  
+The same stubborn fallacy pervades any political discussion of gender — 
+the notion that gender and sex are inextricably linked, and to separate the two would be a bearded, dress-wearing monkey wrench in the cogs of everyday life. Such beliefs stem from a gross misappropriation of science. Armchair geneticists preach that the sex chromosomes of a human determines gender, and that any belief otherwise is a direct attack to biology. Science is not supposed to be that simple; for example, a person can be assigned female even with XY chromosomes because they lack expression of the SRY gene. And, while we’re entertaining the argument that one’s biology is more important to consider than one’s own experiences, it is true that other biological factors beyond expression of X and Y chromosomes define gender identity. According to Scientific American, “the brain structures of the trans people were more similar in some respects to the brains of their experienced gender than those of their natal gender.” Who is to say that chromosomes are more important in classification than brains? 
+This archaic ideology finds its roots in the late 1800s and early 1900s. Then, 
+western culture viewed sexual and gender minorities as victims of mental illness to be studied, diagnosed, and reformed. Though medicalization no longer represents the consensus among experts, society at large still uses this connection to delegitimize the viewpoints of non-binary people by feeding into society’s fear of the mentally ill. Instead of seeing a person seeking to match their gender expression to their identity, these strict followers of eighth-grade 
+ 
+See NON-BINARY , page 5 ▶Trump Has No 
+Authority Over an 
+Independent PressOPINION  THE UCSD GUARDIAN | MONDAY , OCTOBER 23, 2017 | WWW.UCSDGUARDIAN.ORG 5
+Get Your New School Year
+U-Pass Sticker Today!Your Ticket to Ride!
+Student fees provide unlimited rides for
+students on MTS buses* and Trolley and
+NCTD buses and SPRINTER!
+Between Gilman
+Parking Officeand PepperCanyon HallOutsideBookstore atLibrary WalkGilmanParking Office
+7–8:30 a.m.
+weekdays except
+Wednesdays,and 4–5 p.m.weekdays
+Current registration/enrollment required. 
+  *Rural and Rapid  Express routes excluded.  
+Confirm dates & times, and get 
+more information at u-pass.ucsd.edu  Weekdays
+Starting 
+Monday 
+9/25/2017Weekdays
+8:30 a.m. to4 p.m.As needed per signs at Gilman Parking Office
+WORLDFRONT WINDOW  By David Juarez
+▶ NON-BINARY , from page 4
+biology see a predator 
+lurking in the Starbucks 
+bathroom.
+Normally, we align these 
+views with conservative families desperately trying to pray the gay away. But the lack of progress made on this issue before now, especially in such a left-leaning state as California, evidences the diversity of these beliefs. Unfortunately, traditional conceptions of gender also abound among leftist groups, even those whose histories braid conversations of gender with political discourse. Trans exclusionary radical feminists (TERFs), gay people, and lesbians have all historically excluded non-binary people from their calls for societal change solely for the sake of political expediency. And the effects have only multiplied with time. Self-serving arguments divided these previously-allied groups by prioritizing assimilation of middle-class women, gay men, and lesbians over systemic change. Though early queer activists and feminists relied upon each other, the divergent evolution of their movements now situate non-binary people outside the interests of groups that ought to include them. 
+As a state entity, UC 
+San Diego will no doubt find itself subject to similar practices in the near future. Currently, its documents request preferred pronouns but lack a third option for gender identification, instead opting for the usual binary of “M” and “F.” This new bill, however, signifies much more than those two letters ever could. By incorporating other options for gender identity, UCSD can bring attention to, and even alleviate, the stress that comes from forcing non-binary students and faculty into a foreign gender binary. Not only that, UCSD can encourage discussion and recognition of a group so often excluded from history by zealotous apostles of “science.” 
+we want to 
+hear it.
+Got letters ?
+email us at 
+opinion@ucsdguardian
+. . .
+we publish  them .submit  your op-eds at 
+opinion@ucsdguardian.org
+SAY?got something 
+to6 THE UCSD GUARDIAN | MONDAY , OCTOBER 23, 2017 | WWW.UCSDGUARDIAN.ORG FEATURES
+FEATURESCONTACT THE EDITOR
+TIM DENG & SUSANTI SARKAR
+features@ucsdguardian.org
+Paula Saravia, professor of global health and anthropology at UCSD, 
+was born in the midst of political turmoil and dictatorship. She 
+describes the atmosphere of her childhood in Chile during the 
+1970s and ‘80s as “violent” and “precarious. ” “[It was a] place of repression 
+from police, where people kept talking about the missing [without any sense of resolution]. ”
+This greatly impacted and disturbed Saravia during her early years and 
+inspired in her a sense of activism. 
+The eldest of three siblings, Saravia grew up in a small mining town 
+in Chile near the desert. In a community of less than 5,000, she jokes that UCSD is a buzzing city in comparison.
+Speaking about the political events that orchestrated the timeline of 
+her childhood, Saravia describes how the first democratic election of Chile took place when she was 12. 
+“I remember being very excited about it; I wanted to be involved in 
+things but it was not something that you could easily be involved with because it was dangerous, ” she explained. 
+The climate in Chile during this time was polarized — voicing a 
+dissenting opinion could lead to street protest and violence. 
+“People were either pro-Pinochet or anti-Pinochet (dictator of Chile 
+from 1973-90), and I didn’t like that — not having dialogue, or [lacking] spaces for dialogue where it was most vital ... [where it could] help people have their own opinions and have more information. ”
+This suppressive 
+political climate was antithetical to the type of dialogue Saravia knew to be crucial — the kind of dialogue critical for change.
+She describes one 
+grassroots program in Santiago, Chile that rebelled against the dictatorship by empowering the individual. 
+“It was disguised as being a public health program, but it was more 
+about empowering people, educating people, and democratizing society ... it was a kind of disguised rebellion, ” Saravia said.
+This group gathered food for communities and empowered women to 
+become health educators in their communities.
+“[This] was also a period where you could see a lot of poverty and 
+inequality, and that really marked me; it made me feel aware of my privileges growing up; my parents had gone to universities to get their degrees, I had all the material things one may need, I never had trouble 
+going to the doctor — I always had that safety net. ”
+Saravia’s personal life also impacted how she viewed political and 
+social shortcomings in Chile. Her grandfather, who was suffering from an 
+illness that hindered his ability to walk, marked Saravia’s childhood. Her 
+experiences accompanying him to hospitals and seeing the consequences 
+of his illness on her family imprinted a sense of frustration in Saravia — 
+she realized her inability to make a marked difference in the conditions that were not only affecting her personally but also those mirrored in 
+society. 
+Her grandfather’s illness and Saravia’s acknowledgement of her own privilege among the vast inequality and persecution of her community pushed her into the field of medical anthropology. It made her realize that 
+she wanted to do research in health and the everyday conditions that make 
+life “precarious. ” 
+In 1995, Saravia began her training in medical anthropology in 
+Universidad de Chile. It was during this time that she met her mentor, 
+Monica Weisner, who inspired her impetus for being both a student and a 
+professor in her later years.
+“Weisner [helped me] feel confident in my knowledge and that’s the 
+feeling that I would like to share with [my] students — that it’s not about 
+how much or how little you know, it’s about how much you can do with 
+whatever it is that you know. ”
+Saravia later incorporated this feeling of empowerment while working 
+with John Darston in developmental programs in Chile. She worked in 
+“brutal, ” impoverished communities in south-central Chile, in a region called Maule, as part of a poverty-in-action program. 
+“The program [was] about decentralizing the professionalization of 
+municipalities … [the program took] young, recent graduates to [poor] areas [to] work with actual communities in poverty … I worked with children who suffered domestic violence and abuse and with entrepreneurs, 
+particularly women. ”
+During this time, 
+Saravia conducted workshops aimed at helping the people of Maule develop certain competencies that would allow them to further their individual projects and entrepreneurship 
+goals.
+Her experiences 
+in these communities 
+inspired Saravia to go back to school to pursue her master’s degree, which she completed 
+abroad in Portugal and Sweden. 
+Saravia saw the health field as a way to break a cycle of social, 
+emotional, and physical stress — a way to disrupt the brutal realities of communities and individuals.
+“I wanted to learn more about health-related issues and go back 
+to school and do more research … it’s important that we have people theorizing about [anthropological] issues, ” she clarified. 
+Ultimately, Saravia decided that she wanted to break out of the 
+abstraction that anthropology can sometimes embrace and contribute toward more tangible methods of global change. This led to her decision to obtain a master’s degree in health and welfare, and she moved to San 
+Diego to obtain her doctorate in 2008. 
+Since then, Saravia has conducted multi-sited ethnographic research of 
+the Aymara people of Bolivia and Chile. What drew her to the nomadic 
+Aymara community was the impact of tuberculosis on the Aymara people. 
+But Saravia’s interests did not only focus on practical matters of health 
+care; her two core research interests were, and continue to be, infectious diseases and emotion, two seemingly disparate subject matters. How can consideration of individual emotion be beneficial in the large network of a Paula Saravia, 
+professor at UC 
+San Diego, bridges 
+the gap between 
+health care and the 
+lived experiences 
+of indigenous 
+people through her 
+ethnographic research 
+in Latin America. Changing the 
+Discourse 
+Surrounding 
+Suffering
+by Shirelle Mizrahi // Sta ff Writer
+“It’s a kind of magic. When doing 
+fieldwork and talking to people, 
+there’s a space that you build that is 
+pretty unique, that space where both 
+the researcher and the collaborator 
+learn something. ”
+SeeCHANGING THE DISCOURSE , page 7
+FEATURES  THE UCSD GUARDIAN | MONDAY , OCTOBER 23, 2017 | WWW.UCSDGUARDIAN.ORG  7
+hospital? Furthermore, how can research on 
+the individual experience of suffering and 
+disease aid anthropologists and medical doctors in the larger global schema?
+According to Saravia, the intersection 
+of these two factors is necessary; a doctor 
+or medical professional who does not understand the cultural context and the 
+individual, lived experiences of their 
+patients may not be able to communicate 
+with a patient in a way that appeals to their cultural models, rules, and modes of understanding.  
+“We want to analyze what’s going on in 
+terms of power structures and community dynamics, so that people can access better health care and health care providers can 
+deliver better health care, ” Saravia told the 
+UCSD Guardian.
+Saravia points out a global tendency 
+to dichotomize westernized and non-westernized nations — a mindset that can 
+act as a barrier when communicating with 
+people and communities that hold different 
+cultural beliefs and values.
+“Sometimes anthropologists propagate 
+an idea of being indigenous that [focuses 
+on the idea that indigenous people are not] 
+Westerners, that they don’t share ‘our’ ideas … that we live in two worlds. [The problem is] you don’t want to depict [indigenous people] as being ‘traditional.’ They do 
+[traditional] things, but they also dress 
+like you and me, cook like you and me, use computers … there’s a need for further 
+understanding on what [indigenous] 
+practices mean, what the people [who participate in them] feel — how is it that 
+we are [all] human. ”
+During her ethnographic research, 
+Saravia was most surprised by the 
+psychological effects of illness she observed 
+in individuals. 
+“It was surprising to me to notice that 
+the way people related their experience 
+of infectious disease had more to do with the way they feel and particularly feelings of sadness and frustration rather than just something that happened to their bodies. ”
+Unlike doctors who often view diseases 
+in terms of medical objectivity, the Aymara 
+people Saravia encountered tonally shifted 
+their perspectives on life to accommodate their altered reality; the disease became a fundamental aspect that enmeshed itself in the webbing of community. 
+Saravia did not study the effects of 
+suffering because she viewed it as an 
+essential component of the human 
+experience; on the contrary, she was interested in the way that an individual and 
+a community transforms as a result of pain 
+and the unpredictability of sickness. 
+“It’s powerful [because] sometimes, out 
+of something that can be so cruel and devastating like tuberculosis, people [can] 
+awaken some interest in social organizing 
+or people who are sick, in assuming their own illness, find that they want to do 
+something for others so that [they] will 
+not suffer in the same way … there is not enough research on how agency takes over 
+suffering, ” Saravia explained.
+One aspect that Saravia especially values 
+of her own research are the connections 
+she makes with those she meets during her 
+fieldwork. 
+“It’s a kind of magic, ” she passionately 
+explained, “when doing fieldwork and 
+talking to people, there’s a space that you build that is pretty unique, that space where both the researcher and the collaborator learn something. ”
+The value of such a relationship is 
+perhaps not so different from that of a 
+student and a teacher, where both learn 
+from each other’s unique experiences.
+When comparing her experiences 
+teaching in Chile, following her master’s degree, with those teaching in the U.S., 
+Saravia prefers many aspects of teaching 
+in the U.S.
+“What I like about the U.S. in contrast to 
+the Chilean academia is that here, students get to talk more … it’s not a common 
+practice in Chile to have classes where 
+people get involved and participate … [UCSD is] a very fruitful space … it’s exciting. ”
+Shirelle mizrahi  shmizrah@ucsd.edu
+@UCSDGUARDIANFIND US ON
+FAC EB O O K▶ CHANGING THE DISCOURSE, from page 6A&E EDITOR // ALICIA LEPLER
+ENTERTAINMENT@UCSDGUARDIAN.ORG
+LIFESTYLE EDITOR // ANNIKA OLIVES
+LIFESTYLE@UCSDGUARDIAN.ORG WEEKEND
+It is still the library. It’s still clearly a small room of Geisel, but stepping into 
+the Seuss Room when it’s decked out for “Short Tales from the Mothership” means 
+something fundamental and atmospheric has shifted. A table near the front is adorned with a mish-mash of tokens from sci-fi stories of all kinds: the bust of a man with his exposed brains attached to a thin wired device, a child’s robot, mailboxes filled with 
+postcards featuring science fiction stories from past meetings. Decorative plates buzz 
+with lightning shots of neon blue electricity while multicolored lights flash in the corner — a strobe kaleidoscope of primary color — across the darkened room. A harp and synthesizer play in the corner and the walls are plastered with parodic “X-Files” “I Believe” posters; Geisel Library edited into an eerie space ship, hovering over the extraterrestrial and foreign backdrop of some silhouetted San Diegan palm trees.
+They say the Geisel Library was modeled after the image of an opened book, but 
+it suddenly becomes impossible not to see the UFO.
+Of course, reality is still inescapable, the illusion of the otherworldly wavers with 
+the desktop projector and glaring red “EXIT” sign, an unforgettable reminder of our own place in the modern day, with robots in our pockets but not quite yet in our brains. However, the mood is effectively set — if perhaps only by the eerie constancy of the flashing lights.
+This is the third meeting of “Short Tales from the Mothership, ” a spoken-word 
+event hosted by the UCSD Library, based off of a micro-fiction challenge originally proposed by ‘70s sci-fi magazine editor George Hay. Hay challenged speculative fiction writers such as Arthur C. Clarke to write a complete science-fiction story that 
+could fit onto a postcard. This averages to about 250 words per card, which is the 
+maximum word-count that the writers for this event work with.
+Each writer — or a designated reader that they have asked to go in their stead — 
+takes turns going to the front of the room and reciting a postcard-sized sci-fi story of their own. Scott Paulson, the creator of the event and tonight’s emcee, kicks things off by reading a short-story. Paulson reads one of his own micro-fiction stories, a witty but eerie tale about aliens who travel through space and time to pursue help 
+from a sleep therapy harpist whose commercial was accidentally transmitted to them 
+through transdimensional radio waves.The evening moves through writers and stories of all kinds, including Greg 
+Loui, president of the UCSD Wordsmiths, a speculative-fiction writing club; Sienna Hemminger, whose short story takes the all-too familiar form of a campus email — this one coming from “The Republic of UCSD” in 2097 with reminders to acquire a brain scanning chip to enter the library; and Lily Huang, who brings character to her 
+performance by doing voices for some of her characters.
+Readers and authors range from alumni to faculty to students to nearby writers 
+to 11-year-old Daniel Flynn, who reads a multipart story of his own composition 
+featuring familiar characters such as Kirk and King Kong. Stories spiral vastly from writer to writer, ranging from bleak warnings on conservation to amusing or chilling anecdotes to hopeful looks at a more advanced future.
+A sort of spell seems to fall during each reading; a quiet, surrounded by nothing 
+but words and colored lights with occasional interspersed applause.
+After the final reading, two Geisel-fied “I Believe” T-shirts are raffled off and 
+everyone else is informed that there are free posters just outside the room. This isn’t the only treat for those in attendance; alongside the posters are tables set up with all sorts of otherworldly goodies such as “Venus Vines” (Red Vines), Astronaut Rations (little cups filled with jelly beans) and “Total Eclipse Brownies. ” There is also a “Refreshment Laboratory” serving funky multicolored and carbonated drinks. All around, the event is good-natured, clever, and in utter celebration of the kind of imaginative thinking and storytelling that has kept mankind’s eyes pointed to the stars for decades.
+“Short Tales from the Mothership” hopes to eventually hold quarterly meetings, 
+but currently seems to be gathering on more of a “fall and January” sort of basis. Nevertheless, on the occasions the group does meet, stepping through the door of the Geisel Library, climbing on board the “mothership” itself, seems to be an exciting excursion to otherworldly adventures.  UC San Diego Library’s short fi ction challenge provides an entertaining and 
+entrancing celebration of science fi ction of all kinds.SHORT TALES FROM  
+T H E  M O T H E R S H I P 
+By Chloe Esser // Sta ff Writer
+PHOTO COURTESY OF UCSD GEISEL LIBRARYAfter a career of hits including 
+“Das Boot, ” “In the Line of Fire, ” 
+and “The Neverending Story,” 
+Wolfgang Petersen has decided to reclaim 
+his German roots via a remake of his own 
+41-year-old film, “Vier gegen die Bank 
+(Four Against the Bank). ” Unfortunately, this lighthearted bank heist feels more like a 90-minute episode of “Friends” 
+than a window into German comedy.
+German heavy-hitters Schweiger, 
+Schweighöfer, and Liefers are neatly typecast as three ordinary Joes whose lives are unexpectedly brought together 
+when the bank loses their life savings. The 
+mishap is the product of a ploy by bank 
+director Schumacher (Thomas Heinze) to get Tobias (Michael Bully Herbig), 
+one of his tellers, fired. The three clients 
+track down the helpless, gawky Tobias and decide to seek retribution. They transition seamlessly from discovering 
+that their life savings have poofed into 
+thin air to mapping out their bank teller’s murder to taking said bank teller 
+hostage and intricately planning a big-time bank robbery — easily glossing 
+over anything resembling shock, loss, or 
+the like at their misfortunes.  
+The sheer exaggeration of the 
+characters’ hackneyed personas is rather comical. Each is a walking schtick. Peter 
+(Jan Josef Liefers), a washed-up actor, constantly reminisces over his stint as the lead in a detective TV show and sports a 
+fedora for the film’s entirety. The young and 
+handsome Max (Matthias Schweighöfer) relies on a steady supply of various 
+tight-fitting turtlenecks to distinguish his character. Chris (Til Schweiger), an ex-boxer, perpetually looks like he hasn’t 
+showered in a week and aggressively 
+chews gum in scene after scene. The film is 60 percent plot and 40 percent filler 
+(the latter constituted by Chris’ recurring 
+urge to punch things at random moments and an overworked repartee of old jokes and pretty-boy jokes between Max, 
+Peter, and Chris). However, the lack of 
+creativity behind the characters’ creation renders them forgettable. Audiences don’t 
+even receive the cheap glee of frenzied 
+anxiousness over the heist comedy “will-they-or-won’t-they-get-caught” bit. The 
+characters are too shapeless and the 
+dialogue too on-the-nose to warrant investing interest, let alone worry.
+The male-driven slapstick comedy 
+wouldn’t be complete without a casually objectified woman of the workplace. In this case, she heads the bank’s investigative task 
+force. Dr. Zoller (Antje Traue) — a stern, 
+beautiful woman whose professionalism 
+is multilaterally fetishized by her ogling 
+male counterparts. This charming 
+behavior may be acceptable on the part of the goofy protagonists, but certainly 
+not when coming from the bad guy. The 
+sleazy, womanizing Schumacher gets his just desserts when the four buddies frame him for their crime, arranging for Max to 
+take Zoller on a dinner date as distraction. 
+There’s even a flare of romance. Max ends up cracking the ice queen with his boyish 
+charm and winning her over with his spiel 
+on trading his trust fund for freedom.
+Ultimately, it seems that 40 years of 
+cogitation hasn’t done Peterson any good. The fact that the film was made as a remake of his own work makes it wholly more pathetic. Give it another 40, Wolfgang!
+—   Ma y a  Kleiman
+Staff WriterA&E  THE UCSD GUARDIAN | MONDAY , OCTOBER 23, 2017 | WWW.UCSDGUARDIAN.ORG  9
+Whenever  I think of the “The 
+Princess Bride, ” I remember 
+the first swordfight between the 
+Man in Black and Inigo Montoya. For all of the over-the-top action sequences and 
+overzealous ham that compose the modern 
+cinematic duel, the first swordfight evokes all 
+of its intended emotions with little more than witty dialogue, some fancy choreography and 
+stunts, and two foils. Director Rob Reiner 
+knew what heartstrings to pull for every 
+scene of the film; he concentrates on style 
+over detail, which intrigues the human soul. 
+It is a feature that stands the test of time and 
+makes “The Princess Bride” worth watching, even on the date of its 30th anniversary.
+But perhaps younger viewers will 
+not understand the sweetness behind 
+such a classic. So, let me tell you a story. 
+Once upon a time, the lovely country 
+girl Buttercup (Robin Wright) falls in love 
+with her handsome farm boy, Westley (Cary Elwes). Alas, their romance is cut short when 
+Westley leaves the farm to seek his fortune, but he instead encounters the ruthless Dread 
+Pirate Roberts at sea. Five years pass; fearing 
+him dead, Buttercup despondently agrees to 
+marry Prince Humperdinck of Florin (Chris 
+Sarandon) for security. Months before their 
+planned wedding date, a Sicilian oozing with 
+a Napoleonic complex (W allace Shawn), a 
+Spanish fencer with a 20-year grudge (Mandy Patinkin), and a lovable giant (Andre the 
+Giant) kidnap poor Buttercup with the 
+intention of starting a war between Florin and 
+Sicily; a mysterious pursuer clad in black soon 
+gives chase. The narrative is an imaginative 
+adventure that appeals to the lighthearted and 
+childish, almost like a cliched fantasy novel.
+Which, it is. It’s actually a film about a 
+kindly grandfather reading the above tale to his grandson, which is an adaptation 
+of the real fantasy novel by the same 
+name. “The Princess Bride” is much more 
+than a simple fantasy, however. It jovially 
+parodies other fantasy films and novels of its generation, calling attention to often absurd 
+narrative devices such as casual mid-combat conversation, decade-spanning revenge 
+plots, and miraculous near-death recoveries 
+that don’t account for medical limitations. 
+Even the characters themselves appear aware 
+of the farce that is their lives. The entire 
+film is quotable; “ ... we’ll kill each other like 
+civilized people!” says the Man in Black, and 
+“I’ve got my country’s 500th anniversary to plan, my wedding to arrange, my wife to 
+murder and Guilder to frame for it, ” says 
+Prince Humperdinck. It’s a wonder that the 
+cast shot this film with straight faces at all. 
+The film is not entirely satire. Though it 
+mocks its parent genre, it also commemorates 
+its finest aspects by adhering to the very features that it spoofs. Dialogue is acted out 
+with a confident conviction attesting to the 
+dreams, philosophies, and emotions of the 
+actors and their characters. Again, it’s hard 
+to pull such memorable catchphrases such 
+as “Hello, my name is Inigo Montoya… ” or 
+“ As you wish… ” without a smile. Despite the limits of ‘80s SFX, production sets and the 
+out-of-fashion synth music, the action and drama are carried out passionately. The body 
+language in every swordfight and longing 
+stare is always an assured posture. Mark 
+Knopfler’s complementary score follows 
+every motion to the letter, blaring in trumpets 
+and high strings at precise times. Suddenly 
+the fantasy is almost as real as one can believe.
+Rob Reiner and the original author William 
+Goldman coordinated well to ensure that the final form of “The Princess Bride” was as 
+authentic as possible to the original novel. To 
+say that they succeeded is an understatement. 
+“The Princess Bride” is now a classic, with 
+an unforgettable cast immortalized in an 
+extraordinary tale of romance. It reminds us to “feel” a little more than “think” and 
+that the most spectacular tales sometimes 
+come from the most basic formulas.
+—   David  De  Leon
+Staff WriterA 30th Anniversary? Inconceivable!
+Wolfgang Petersen delivers a star-studded cast and not much else in this patchwork remake.RETROSPECTIVE   REVIEW
+FILM  REVIEWThe  Princess  Bride 
+30th  Anniversary
+Four  against  the  bankPHOTO COURTESY OF 20TH CENTURY FOX
+PHOTO COURTESY OF WARNER BROS. GERMANY
+Directed By   Wolfgang Petersen
+Starring  Til Schweiger, Matthias Schweighöfer, Michael Bully Herbig 
+Release Date  Dec. 25, 2016 (Germany)
+Rated  Unrated D-
+Event   Turner Classic Movies
+Location Landmark Hillcrest
+Screening Date   Oct. 15 & 1, 2:00/7:00 PM
+Rated   PG10                                    T H E  U C S D  G U A R D I A N  |  M O N D AY,  O C T O B E R  2 3 ,  2 0 1 7  |  W W W. U C S D G U A R D I A N . O R G  LIFESTYLE
+Welcome back to a new edition of Astrology 101. In this article, we will be 
+discussing the Four Elements of the Zodiac: Fire, Earth, Air, and Water. Though each of the 12 signs is distinct in its own way, some signs share 
+similar dispositions because they are of the same element. Each element consists of three signs based on what planet or other astronomical body rules them. The four elements work collectively and efficaciously as a checks and balances system, keeping each other at their best.
+The first of the Four Elements is Fire. The Fire signs are Aries, Leo, and Sagittarius. 
+As natural leaders, these signs have compelling and forceful personalities with enthusiasm and blind determination allowing them to not only aim for the stars, but reach them. Fire signs tend to be very self-motivated, which can be good and bad; it allows them to be driven, but can create a strong sense of egocentrism. Fire signs at their worst are impatient, selfish, and temperamental, but as long as they can keep themselves in check, Fire signs’ bold and ambitious charisma will continue to fuel their flaming energy.
+The next element is Earth. Taurus, Virgo, and Capricorn make up the Earth signs. 
+They are known for having a serenity about them with a tranquil spirit that motivates a 
+desire for security and stability. Earth signs are critical, logical, and realistic (sometimes 
+even verging on pessimistic). They are usually very in control of themselves, unless it is about anything materialistic. Earth signs work tremendously to enjoy the finer things in life. Though it is easy for them to show love physically, it is much more challenging when the emotions run deeper. Earth signs find it difficult to not only understand but also to show feelings. They appear to be stoic and tough, like the Earth, but I promise (as an Earth sign myself), they really do feel deep, deep down.
+The third element is Air. The signs making up this element are Gemini, Libra, and Aquarius. As an intellectual element, Air signs are mentally inclined and extremely clever. They are naturally inquisitive and enjoy learning especially humanitarian interests. Because they focus more on the abstract, Air signs are not physical like Earth signs or emotional like Water signs. They tend to be socially adept, but flighty. Starting a conversation with an Air sign is not difficult, but keeping them interested is another story. Air signs are often spontaneous and care not for planning, but despite this inconsistency, Air signs can overcome their innately indecisive nature for those and what they love.
+The final element is Water. The Water signs are Cancer, Scorpio, and Pisces. They 
+are the kindest and most emotionally understanding of the signs. They have an inherent devotion to making others happy and a natural inclination to nurture. Water signs are very in touch with their emotions, being both intuitive and comfortable with talking about feelings. Sometimes though, Water signs can be too emotional. Their feelings can possess an irrational hold on their logic, making them do some insensible things. They are also sensitive and non-confrontational — an unfortunate combination. Water signs like to spoil their loved ones but won’t let others do the same for themselves. If you know a Water sign, please, let them know you love them.
+Altogether, the Four Elements of the Zodiac work together, using their specific 
+strengths to enhance the good of other elements and to work through the bad. Fire signs lead the group with their brazen and fierce personalities. Earth signs keep the balance and make sure everyone else is stable. Air signs can solve any problem with their intellectual gifts. Water signs ask you how you are doing, not what you are doing. United, the elements bring about harmony and accord. Tune in next week for a look at your weekly horoscope. Till then, Astro-lovers!
+by Natasha Vandamme 
+//Lifestyle WriterThe FourElements101:LIFESTYLE        THE UCSD GUARDIAN | MONDAY , OCTOBER 23, 2017 | WWW.UCSDGUARDIAN.ORG 11
+FREE FOR ALL UCSD UNDERGRADS WITH VALID STUDENT ID
+NOVEMBER 3RD, 3-6 PM, MATTHEWS QUAD•
+21+ bring valid government issued I.D. in addition to student I.D.•
+For more information, please contact ASCE at avpconcerts@ucsd.edu or 
+(858) 534-0477.People in the “early 20s” age 
+bracket may find themselves with this 
+frequently asked question: “Which kind of alcoholic beverage do you 
+prefer?” After trials and tribulations, nights turning into days and too 
+many expensive beverages purchased, 
+one might have discovered why wine tasting is a local favorite. 
+Several wineries located in San 
+Diego — both old and new — prove to be favorites of all who indulge 
+for many reasons. After attending 
+tastings at Orfila Vineyards & Winery (Escondido) and the Bernardo 
+Winery (Rancho Bernardo) and 
+finally Cordiano Winery (Highland Valley), newcomers will soon learn 
+to appreciate the social ambiance of 
+pairing the right wine with the right dish. 
+Of the three wineries, Orfila 
+proved to be best in location, social turn-out and, of course, the vino. 
+At Orfila, which owns and operates 
+its own distillery and vineyard, something most enjoyable about 
+this location is that it is nestled 
+in the San Pasqual Valley. Visitors can bring their picnic equipment 
+(basket, blanket, chairs) and set up 
+a modest area outside while taking a gander at the views and the vines. 
+Not only is this option marvelous 
+for parents with children or loud groups of friends seeking privacy, it 
+is nice to be in the quiet outdoors 
+while eating and happily sipping a tall glass of vino. The vineyard comprises about 50 acres of land for growing 
+grapes. The most notable come from the Sangiovese, the Syrah, and the 
+Merlot. Grapes from the Sangiovese vine produce aromas that mimic tart 
+fruits such as cherries. Merlot grapes 
+produce a red wine that is commonly paired with red meats and hearty 
+foods such as potatoes or risotto. 
+A favorite of wine collectors is the wine which is made from the Syrah 
+grape, with archaic uses originating 
+in Greece and Roman times. Syrah flavors are bold and long-lasting, 
+often with full flavors such as pepper 
+and chocolate. Orfila is open seven days a week, each day from 11 a.m. 
+to 7 p.m. For those who prefer a 
+more intimate and indoors tasting, Orfila offers a promotion where for 
+$15, six wine tastings of anything 
+on the list may be sampled. The fee also pays for an Orfila wine glass to 
+take home. If not convinced as of yet, 
+Orfila plans many relaxed events for visitors. Weekly, food trucks line up 
+to feed hungry wine drinkers with 
+local eats such as Mexican and Thai quick bites. A favorite of mine is 
+the monthly “paint and sip, ” which 
+is normally offered on Sunday or Tuesday, where groups or couples 
+may enjoy their wine while drawing 
+or painting on a provided canvas. If all of these reasons were not enough, 
+check Orfila out for yourself and 
+happy wine tasting!Orfila Vineyards, Local Winery, 
+Never Ceases to Astound
+ by Alexandra Escobar // Sta ff Writer
+A quest to fi nd the most a ffordable (yet classy) 
+winery in San Diego.
+@UCSDGUARDIANFOLLOW US ON 
+TWITTER12                                         T H E  U C S D  G U A R D I A N  |  M O N D AY,  O C T O B E R  2 3 ,  2 0 1 7  |  W W W. U C S D G U A R D I A N . O R G  LIFESTYLE
+Holsem  
+2911 University Ave San Diego, CA 92104
+Sunday - Wednesday 7 a.m. - 8 p.m. Thursday - Saturday 7 a.m. - 10 p.m.
+Annika Olives: In most coffee shops I go to, I ask the person taking my order for 
+recommendations, and that’s usually what I go with. For me, Holsem has the best coffee so far. I got 
+the Woods latte, and it was more of — almost savory, which made it interesting. But it was unlike 
+your regular cappuccino or anything you could get from a coffee shop. 
+Brittney Lu: I think I got something with honey. AO: Y ou always get something with honey. BL: But that’s what makes me consistent; so I can coffee compare better. I think it was the 
+honeycomb coffee. But there were a lot of coffee grounds, almost half of it was grainy. I just remember Holsem being so expensive. 
+AO: Also there were insane Wi-Fi problems that day, which was kind of a problem. I think 
+Holsem had a really classic, streamlined design that carried through the entire cafe, but it was 
+pretty small. 
+BL: Parking was a nightmare though. 
+AO: I think the name Holsem itself is pretty cool, how it’s a play on “wholesome. ” I almost feel 
+like I have to be dressed up to go here, though, like I’ll feel out of place if I’m not looking my best. 
+Caffe Calabria
+3933 30th St. San Diego, CA 92104Monday - Tuesday 6 a.m. - 3 p.m. Wednesday - Friday 6 a.m. - 11 p.m. Saturday - Sunday 7 a.m. - 11 p.m.
+ BL: Knock-off European cafe.AO: To me, it was aesthetically underwhelming because it was so hyped up by my friend 
+originally. I’ve also never been to a pizza place for coffee, so that was a little unsettling. I’m also a person that likes natural light, but Calabria only had two windows in the front, so it was pretty dark. The space is pretty big but navigating it takes a bit of thinking through. 
+BL: I would say that it’s unique to see their grinding process and get a more industrial edge to a 
+coffee shop; though it makes work spaces difficult to utilize well due to noise. And you got a Nutella cappuccino? 
+AO: That was pretty good, but a lot smaller than I expected. And not overwhelmingly sweet. BL: The desserts there looked really good, I wish I wasn’t too cheap to have bought one. The 
+biscottis looked pretty tempting. 
+AO: I liked how authentically Italian the food was.BL: But I think they were trying too hard to be “Italian” in decoration. Moniker
+2860 Sims Rd San Diego, CA 92106 Sunday - Thursday 7 a.m. - 10 p.m. Friday - Saturday 7 a.m. - 11 p.m. 
+AO: I just remember this was expensive; but their space and communal tables were a big plus. 
+It’s nice that they had a shop inside too, so it’s not just a sit-and-sip sort of space. And it’s right by Liberty Public Market so there’s a lot to do. 
+BL: We both got the Venetian, right? But I was lame and ordered it to go, at least you got a nice 
+glass mug. Oddly enough, I remember their hexagonal tile floors.
+AO: And they have really high quality stamp cards. BL: But overall, the coffee itself was just OK. I think the experience and ambiance makes it what 
+it is. I remember the music was jazzy — smooth touch. What does Moniker even mean? Google says it’s just “a name. ” Original. 
+Forum Coffee House
+4340 Genesee Ave Ste. #110 San Diego, CA 92117Monday - Friday 8 a.m. - 10 p.m. Saturday 9 a.m. - 10 p.m. Sunday 9 a.m. - 7 p.m. 
+AO: This might be a weird comment, but I like the ceiling height in here. Y ou know the 
+psychology thing, where higher ceilings can lead to more creative ideas? That’s the vibe I’m getting … Do I mix these rosebuds in [to the rosebud white mocha]? 
+BL: I think so? Are they just here for aesthetic purposes? I don’t know. AO: Thank you barista lady, this is the best white mocha I’ve ever had. Y ou taste the rose! BL: I was just here on Wednesday too, I really like this place. I think they are pretty innovative 
+with their flavors. Also, the community here is so kind. A guy just offered us his table; I feel like at other places — not sure if it might just be a reflection of the neighborhood vibe — but this place doesn’t make me afraid to approach someone else. I like that.
+AO: I like the space, it’s homey and it reminds me of my favorite coffee space back home. It may not be as aesthetic as other spaces we’ve been to, but it’s definitely homey. I think the 
+other places were too artisanal for me; this place has good coffee, but they’re not trying too hard. 
+BL: Also, this place is really reasonably priced, they have their own parking lot, and it’s decently 
+close to campus. 
+AO: Great job, Forum. I’ d come back. BL: This is my fifth time back. 
+The Lifestyle 
+Living Room: 
+Caffeinated Conversations
+Grab a mug, and pull up a seat. Th is week, join our 
+two Lifestyle editors as they sip their way through 
+San Diego looking for the best bean and brew. By Annika Olives // Lifestyle Editor 
+Brittney Lu // Associate Lifestyle Editor
+PHOTO BY ANNIKA OLIVES PHOTO BY ANNIKA OLIVESCALENDAR  THE UCSD GUARDIAN | MONDAY , OCTOBER 23, 2017 | WWW.UCSDGUARDIAN.ORG 13
+NATE SMITH + KINFOLKTahrir WEEKTHI S
+at UC SAN DIEGO
+OCT 23 - OCT 292017
+POWERED BY THE STUDENT EVENTS INSIDER AND THE UCSD GUARDIAN10.26 • 8pm
+get
+more exposure = higher attendamcelisted...
+every MONDA Y
+in The  Guardian
+Calendar
+SUBM IT y our
+EVENT for FREE!
+calendar@
+ucsdguar dian.org10am
+CHANGEMAKER DAY: INVESTING 
+IN SOCIAL ENTERPRISE AND 
+IMPACT - VARIOUS LOCATIONS 
+THROUGHOUT UCSD CAMPUS
+Learn how you can create positive social 
+change through public and community service, research, social innovation, social 
+entrepreneurship, social justice, impact 
+investing and more. Participate in break-out 
+sessions across the campus throughout the day and then spend the evening at the Hojel 
+Auditorium at the Institute of the Americas for 
+the keynote speaker, a pitch competition, 
+changemakers demos, and a reception where you can meet other changemakers. Contact: 
+eloui@ucsd.edu.
+4pm
+THE TRAVEL BAN: POLITICS OF 
+IMMIGRATION IN THE US - 
+GLOBAL FORUM - GREAT HALL AT 
+INTERNATIONAL HOUSE (ERC)
+Please join us for an informative discussion 
+with professor Babak Rahimi and UCSD students from travel banned countries on 
+implications of new immigration laws and the 
+politics of immigration in the Trump era! 
+Contact: globalforumihouse@ucsd.edu
+6:30pm
+UNIVERSITY CENTERS PRESENTS: 
+GUARDIANS OF THE GALAXY VOL. 2 - PRICE CENTER THEATER
+The Guardians are back! Join us for a FREE 
+screening of this year's hit sequel, Guardians of the Galaxy Vol. 2! FREE. DOORS: 6:30PM, SHOW: 7PM. Please present your UCSD Student ID upon entering. Contact: ucenmarketing@ucsd.edu11am
+STUDY ABROAD EXPO - PRICE 
+CENTER BALLROOM WEST
+Don't miss the largest Study Abroad event of the 
+year. Check out programs and opportunities in amazing locations all around the world, and find that perfect program that fits with your major, minor, or General Education requirements. Over 50 program providers will be on campus to hand out information and talk with YOU. Join us! Contact: jminert@ucsd.edu
+2pm
+ILEAD: INCLUSIVE LEADERSHIP - 
+LGBTQIA + COMMUNITIES - RED 
+SHOE ROOM, 2ND LEVEL OF PRICE CENTER WEST
+How do you ensure your leadership is inclusive of 
+LGBTQIA+ communities? What language 
+communicates inclusivity, and what actions should 
+you take to ensure all members of the LGBTQIA+ community are included? Attend this workshop to find out! Presented by Shaun Travers, Director, LGBT Resource Center. Contact: ccl@ucsd.edu
+5pm
+UNIVERSITY CENTER PRESENTS: 
+SUGAR SKULLS - THE STAGE ROOM @ 
+STUDENT CENTER
+To celebrate the oldest San Diego tradition of Day of 
+the Dead, University Centers is partnering with Sherman Heights for our annual Sugar Skull Painting Workshop! We'll be having an instructor come teach us all about the beautiful traditions and culture behind The Day of the Dead, and then you’ll be able to create your own skull with all kinds of decorations! (Supplies are limited). This event is F R E E with valid student ID! Get here early to secure a spot! Contact: ucenmarketing@ucsd.edu12pm
+TRANS COLLECTIVE - LGBT 
+RESOURCE CENTER
+Check out Trans Collective! Trans Collective is a 
+discussion group for transgender, gender variant/fluid, genderqueer, non-binary, & gender-questioning individuals. Contact: rainbow@ucsd.edu
+4pm
+CAREERS IN STUDENT AFFAIRS 
+MONTH PANEL - DOLORES HUERTA - PHILIP VERA CRUZ ROOM
+Join UC San Diego's Careers in Student Affairs 
+Month Panel and learn more about career 
+opportunities and mix and mingle with some 
+#SApro from UC San Diego! Contact: 
+joweng@ucsd.edu
+5:30pm
+DIRT IS GOOD: BOOK TALK AND 
+SIGNING - GEISEL LIBRARY, SEUSS ROOM
+In the new book, Dirt is Good: The Advantage of 
+Germs for Your Child’s Developing Immune System, two of the world’s top microbiome scientists, Rob Knight, PhD and co-author Jack Gilbert, PhD, take a fresh look at the microbiome—the combined activity of all the tiny organisms inside our bodies and the surrounding environment—commonly known as germs.
+6pm
+LANGUAGE CONVERSATION TABLES 
+WEEK 4 - GREAT HALL AT 
+INTERNATIONAL HOUSE (ERC)
+LCTs are one of I-House's most popular programs 
+and this year they'll occur every Monday, Tuesday, and Friday! Come to learn and practice languages, exchange culture weekly, and to connect with students from all over the world! Anybody is welcome to come, so we hope to see you there! Contact: ihouseprograms@ucsd.edu
+12pm
+UCSD SWIM/DIVE VS. 
+CLAREMONT -MUDD-SCRIPPS - 
+CANYONVIEW POOLS
+Come support your UCSD Swim and Diving 
+team as they take on Claremont-Mudd-Scripps! Contact: tritonfrontdesk@ucsd.edu
+5:30pm
+DIWALI 2017 AT UCSD - UCSD 
+MATTHEWS QUAD
+Indian Students Association - UCSD (ISA) and 
+Association of Indian Graduate Students (AIGS) at UCSD present to you the BIGGEST INDIAN CULTURAL CELEBRATION of fall quarter - DIWALI! Join us this Diwali for an incredible evening of amazing cultural performances in the Multipurpose Room (SSC), followed by dinner, booths and a DJ party in Matthews Quad. It's going to be a wonderful evening with all the awesome stuff we have in store for you along with FREE Indian food, FREE henna tattoos, a photo booth, and much more! Admission: FREE FOR EVERYONE!!! Contact:ucsd.isa@gmail.com
+7pm
+UCSD WOMEN’S VOLLEYBALL VS. 
+CAL STATE EAST BAY - RIMAC ARENA
+Come support your UCSD Women's Volleyball 
+team as they take on Cal State East Bay! Contact: tritonfrontdesk@ucsd.edu5pm
+BODY LOVE: A LIVE ART WORKSHOP 
+WITH GABRIELLE CIVIL - THE PUB 
+STAGE
+What does it mean to love our bodies? How can 
+we remove or shift blocks to our body love? In this dynamic workshop, we will touch, talk, move, write, share, invite, and regard our bodies, ourselves with love and present awareness. Please wear loose comfortable clothes and bring a notebook, pen and any other creative materials that might inspire you. This event is co-sponsored by the Black Resource Center. Contact: women@ucsd.edu
+8pm
+NATE SMITH + KINFOLK - THE LOFT, 
+PRICE CENTER EAST
+Over the last 15 years, drummer, composer, and 
+songwriter Nate Smith has built the quintessential jazz resume: he’s been in bands led by jazz legends, such as bassist Dave Holland, and toured with some of the music’s rising stars, like saxophonist Chris Potter and vocalist Jos James. Known for his deep pocket, explosive dynamics, and ability to adapt to any musical situation, Smith has become one of the most in-demand drummers across a multitude of genres including funk, jazz, pop, and hip-hop. Together with his band, Kinfolk, Smith will perform songs from his debut solo album, Kinfolk: Postcards from Everywhere, which explores the themes of family, music, self-discovery, and touring through catchy, singable melodies and spring-loaded backbeats. Contact: artpower.marketing@gmail.com12pm
+ILEAD: CULTURAL COSPLAY 
+CONVERSATIONS - 
+CROSS-CULTURAL CENTER, 2ND LEVEL OF PRICE CENTER EAST
+Interactive workshop on costume play (cosplay), 
+representations, and cultural appropriation. Presented by the Social Justice Educators, Cross-Cultural Center. Contact: ccl@ucsd.edu
+12pm
+INTERNATIONAL FRIDAY CAFE - THE 
+GREAT HALL
+Each week during the academic year, the 
+International Center invites the campus community to celebrate world cultures by featuring cuisines from around the globe as part of the Friday Cafe. Meet people from around the world, enjoy international music, and explore world cultures all while enjoying a delicious meal from a different country every week! Price: $5 per plate. Contact: j1soong@ucsd.edu
+7pm
+UCSD WOMEN’S VOLLEYBALL VS. 
+CAL STATE MONTEREY BAY - RIMAC ARENA
+Come support your UCSD Women's Volleyball 
+team as they take on Cal State Monterey Bay! Contact: tritonfrontdesk@ucsd.eduTUE10.24
+THU10.26SAT10.28MON 10.23
+FRI10.27WED10.25The Loft @ UCSD, PC EastTHURSDAY
+14 THE UCSD GUARDIAN | MONDAY , OCTOBER 23, 2017 | WWW.UCSDGUARDIAN.ORG CLASSIFIEDS
+OCTOBER 26 - NATIONAL PUMPKIN DAYCLASSIFIEDSGuardia n Class iﬁeds are  FREE for  the U C San Dieg o com munity.
+ www .ucsdguardian.org/classiﬁeds
+CROSSWORD PUZZLE
+COLOR ME SUDOKU
+ACROSS
+1. Consecrate
+6. Sharpen10. Have to
+14. Reluctant
+15. Brave one
+16. Man or Wight17. Concur18. Paddles
+19. Citi Field predecessor
+20. Gap
+21. ____ tax22. Malicious look23. Green vegetable
+25. Abandons
+27. Country near Greenland
+31. Bus depot (abbr.)32. Heavenly35. Totaled
+39. Building addition
+40. More flavorful
+42. “We ____ Family”43. Gaze steadily45. Lunchroom47. Before, to poets49. Built50. Perfume54. Tax agency (abbr.)55. Read a bar code56. Slight error59. Fatigue63. Popcorn seasoning64. Diva’s forte65. Peeled66. In addition67. Afflictions68. Stage remark69. Mast70. Seeded breads71. Boxer Mike ____DOWN
+ 1. Uninspired2. Advertising emblem3. James ____ Jones
+4. Church tower
+5. That girl
+6. Stop!7. Make better8. Miscalculated
+9. Throws
+10. Deceive
+11. Theater attendant12. Ice pellets13. Rips
+21. Christmas visitor
+24. Opposite of western
+26. Appetizer27. Freezes28. Welshman
+29. She, in Madrid
+30. Phonograph record
+33. ____ moment’s notice (2 wds.)34. Existence36. Small arrow37. Famous canal38. ____ Sea Scrolls41. Weird44. Come back in46. Bliss48. Filled pastry50. Curvy letters51. Overcharge for tickets52. Hot sauce53. Ahead of time57. Stack58. Fresh talk60. Spring flower61. Remodel62. Eve’s garden65. Light touchHOUSING
+Vue at Lake Murray- $1625-$1995. 6867 
+Golfcrest Drive, San Diego, CA 92119. Bring your golf clubs and hiking boots to the Vue at Lake Murray Apartments! A small 
+community located next to Mission Gorge 
+Golf Course in San Diego, California, you 
+can select from large one or two bed -
+room floor plans with abundant storage 
+and open designs. Enjoy modern ameni -
+ties such as gorgeous tiger-eye granite countertops, new kitchen cabinetry with 
+all new designer kitchen appliances, plush 
+carpet and plank-style flooring throughout, 
+designer lighting packages and fixtures, 
+and a washer & dryer in-residence com -
+plete the package! Enjoy easy access to 
+I-8, I-125, Rt. 52, and I-15 and experience all the fun activities the east San Diego area has to offer. Call or stop by and tour the Vue at Lake Murray Apartments, and discover your new mountainside home in San Diego......ucsdguardian.org/classifieds for more information
+La Jolla Canyon- $1550-$2220. 9515 
+Genesee Ave., San Diego, CA 92121. La 
+Jolla Canyon is rental living designed for 
+your convenience. Professional property 
+management secures beautiful naturally 
+landscaped grounds and a relaxed, well 
+maintained environment. La Jolla Canyon 
+is conveniently located close to shopping 
+centers, beaches, movie theaters, restau -
+rants and schools. Many major corporations 
+are within a short distance. Our one and 
+two bedroom rental homes are equipped 
+with the functional features necessary in 
+our fast-paced world and all the amenities 
+that you will be glad to come home to. For 
+your enjoyment there is a lovely swimming 
+pool and spa, a fully equipped fitness cen -
+ter open 24 hours and a convenient laundry facility. Combined with our lush landscap -ing, La Jolla Canyon truly is community 
+living at it’s finest. All this at an affordable 
+price!....ucsdguardian.org/classifieds for 
+more information
+Aztec Campus Apartments -$2435-$2630. 
+5650 Hardy Ave., San Diego, CA 92115. We have cozy three bedroom, two bath floor plans! We are right next to SDSU. You will enjoy amenities that include on-site laundry, reserved parking, electric stove, dishwasher and a ceiling fan. Conveniently 
+located in the heart of the college area, you 
+will find shopping centers, banks, a library, 
+schools, freeways and more! Stop by today for your personal tour. This information is general in nature and for promotional purposes only. Accuracy of the information is not guaranteed, including but not limited to apartment size, layout, features, ameni -
+ties, location, common areas, parking, or 
+neighborhood. Please contact leasing per-
+sonnel for further information. Please feel free to ask for assistance with respect to any disability related needs..... ucsdguardian.
+org/classifieds for more information
+STORAGE
+Pacific Highway Storage-$29-$220. San 
+Diego, CA 92110. The newest secure stor -
+age facility between Sea World/Old Town 
+San Diego and downtown San Diego 
+on Pacific Highway. We store household 
+goods, documents, wine, weapons, valu -
+able collectibles and everything between. 
+Others may be cheaper but we’re cleaner, more secure and have a wonderful staff. Check out the art from our local artists in the office! Check out our Wine storage area, and our Vault! ….ucsdguardian.org/clas -
+sifieds for more information
+Ballpark Self Storage. -$72-$510. Ballpark 
+Self Storage is located in the heart of the Gaslamp District in Downtown San Diego, 
+just 1 block north of Petco Park. Great cus -
+tomer service, 24 hour video surveillance. 
+Unit sizes from 15 to 380 square feet. We 
+sell a full line of moving and packing sup -
+plies. We also offer large loading docks, 
+over-sized elevators, and both local and one-way U-Haul trucks. Although insurance is not required, a $10 protection plan is required. This is waived with proof of cover -
+age through home owners or renters insur -
+ance. San Diego, CA 92101.…...ucsdguard -
+ian.org/classifieds for more information
+Storage Etc-Sherman.-$65-$169. San 
+Diego, CA 92110. Self Storage San Diego Features Includes: State of the Art Facility 24 Hour Security Monitoring Electronic Gate Access Individually Alarmed Units Access 7 Days A Week Courteous On-Site Managers Easy Access Dollies & Carts Available High Ceilings We Sell Packing and Moving Supplies Military Discounts Month to Month Rentals No Deposit Required Online Bill Payment Available Major Credit Cards Accepted..…... ucsdguardian.org/classifieds for more information
+BIKES
+Expresso Recumbent Bike S3r. Expresso complete bike with router. Recumbent S3R. Sit back and enjoy your workout. The recumbent offers the same amazing inter -
+active rider experience of the upright in a form factor built for comfort. This is a great recumbent bike that is interactive and can be used to race people around the world Fun Games and rides to keep you moti -
+vated.…..ucsdguardian.org/classifieds for more information
+Vintage Bike Roadmaster AMF Bicycle 
+Skiptooth Tank RareFor Sale: Vintage AMF Roadmaster Ladies Skip Tooth, Balloon Tire 
+Tank Cruiser 26” wheels. Original: Tank, Fork 
+Trusses (Front Bars), Saddle, Rear Book rack, 
+Chain Guard, Kick Stand, Pedals , Bendix 
+Brake. New Tires, New Front Light,. Serial 
+Number: B00682 not sure of year model, we’ve been told its possibly between 1946 and 1951. Excellent condition, some sur -
+face rust on wheels ,chain guard, handle bars, frame ,fenders ,rack - See pictures. This Bike is Available for Local Pick up..... ucsdguardian.org/classifieds for more information
+Exerpeutic 400XL Folding Recumbent Bike. 
+For sale is an Exerpeutic 400XL Folding 
+Recumbent Bike in terrific condition. I bought this bike about 2yrs ago for $170 and only used it maybe 5 times (due to some health issues I had to stop exercis -
+ing). It is a great bike, very comfortable and 
+folds up nice and compact. More info about 
+the bike below. Call or text 714-655-XXXX. 
+Foldable recumbent exercise bike with 
+quiet V-belt double-drive transmission sys-
+tem. Precision-balanced flywheel; 8-level 
+adjustable magnetic tension control sys -
+tem. Easy-to-read LCD display tracks your 
+distance, calories, time, speed, and heart 
+rate. Semi-recumbent design for easy entry 
+and exit; large seat cushion and backrest. Supports users up to 300 lbs and 5’2 to 6’2 in height. Measures nineteen x 46 x 33ins (W x H x D) ...... ucsdguardian.org/classifieds for more information
+t
+your vision,
+our mission.
+Create custom apparel
+to promote your group,department or studentorganization!
+GET A FREE
+QUOTE TODAY!
+madetoorder@ucsd.edu
+what do you
+need?
+let us
+help.
+price center east, level 3
+asgraphicstudio.ucsd.edu 858.246.0972SPORTS  THE UCSD GUARDIAN | MONDAY , OCTOBER 23, 2017 | WWW.UCSDGUARDIAN.ORG 15
+FALL 2017
+M: 9am-12pm
+Tu: 1pm-5pm
+W: 11:30am-2pm
+Th: 9am-5pm
+F: 11:30am-4pmAT THE ORIGINAL STUDENT CENTER
+tritonfoodpantryHOURS
+The UC San Diego cross country 
+team attended the California Collegiate 
+Athletic Association Championships at River Oaks Golf Course on Saturday, Oct. 21. The men’ s cross country team 
+placed fifth overall out of 10 teams, and 
+the women placed sixth overall out of 12 total teams. 
+In the men’ s race, two Tritons stood 
+out. Junior Aren Johnson (24:53.2) finished in 12th place and sophomore 
+Tim Corvese (25:38.1) finished in 25th. 
+Senior Garrett Lepine (25:44.8), junior Joey Benrubi (25:50.3), and junior Garrett Boulais (25:50.7) came in at 30th, 31st, and 32nd respectively.
+For the women’s team, four Tritons placed in the top-50, with senior Merin Aft coming in one place shy at 51. 
+Two of UCSD’s racers placed in the 
+top-25. Senior Ella V erhees came in at 
+11th place 21:38.6 and senior Kristin 
+Semancsin had a 21:42.1 finish that was 
+good enough for 14th place. 
+“W e weren’t able to accomplish 
+what we were aiming for, but there were a number of strong individual performances on both sides, ” UCSD head coach Nate Garcia told UCSD Athletics. “W e will get back to work and look to race even better (at regionals) in a couple weeks. ” 
+The Tritons will begin preparation 
+for the NCAA W est Regional on Nov. 4 in Monmouth, Oregon. Tritons Race at CCAA 
+ChampionshipsTritons Improve to 5-0 in WWPA
+UCSD had several strong individual performances.Crushing OT loss at LBSU fueled the Tritons’ rebound against Air Force. 
+BYRichard  Lu
+Sports editorial assistant
+PHOTO COURTESY OF UCSD ATHLETICSUC San Diego @ Long Beach 
+State — Long Beach, CA
+The No. 13 UC San Diego 
+Tritons dropped a heartbreaker 
+on the road Wednesday night to 
+out-of-conference opponent, No. 8 
+Long Beach State University. On an 80-degree autumn night with clear skies at Lindgren Aquatics Center, the 49ers sent the Tritons home in a devastating fashion.
+The score was tied at nine at the 
+end of regulation, forcing two three-minute overtime periods in which both teams executed under pressure pushing the score even at 10. With 2:25 remaining in the second sudden death extended period, LBSU finally 
+capitalized on its first of 10 power 
+play opportunities to end the intense, 
+back-and-forth competition.
+Although pulling ahead 4–2 in the 
+first quarter, UCSD was never able to 
+hold a comfortable lead.
+Freshman utility Connor 
+Turnbow-Lindenstadt carried the Tritons with four goals on the night, three of those coming in the second half. Arman Momdzhyan, senior 
+hole set, contributed two goals and 
+sophomore attackers Cooper Milton and Jack Ranj each added one of their own.
+Alessandro Valania, junior utility, 
+tallied the only two steals for the Tritons on top of his clutch buzzer-beater goal with one second to go of the second overtime period. Junior 
+goalkeeper Sam Thompson collected 
+12 saves on the night.
+However, outshot by LBSU 34–46, 
+a 22-percent execution rate on six-on-
+five chances and only two successful sprint recoveries of the eight periods resulted in an unfortunate UCSD loss.
+The Tritons fell to a 7–11 overall 
+record.
+UC San Diego vs. Air Force — 
+La Jolla, CA
+After a tough loss at Long Beach 
+earlier in the week, the Tritons were excited to return to their home pool Friday night, with hopes of remaining undefeated in Western Water Polo Association play. UCSD overpowered Air Force 16–6 as 10 diff erent Tritons 
+scored to secure their perfect 5–0 conference record.
+UCSD distributed its goals evenly, 
+scoring four every quarter. The 
+Tritons documented six unanswered goals between the first and second 
+quarters. Jumping ahead 8–3 in the first 16 minutes, the Tritons were defensively sound, recording 10 steals collectively to assist Thompson in 
+goal who totaled 13 saves and one 
+steal of his own.
+Momdzhyan continued his 
+impressive senior season, leading the 
+team with four goals as Turnbow-Lindenstadt, Valania, and redshirt sophomore utility Luka Vasiljevic tailed closely behind with two goals apiece. Valania padded his stats across the board upon four assists and two steals in the UCSD victory.
+To open up the second half with 
+only 40 seconds expired, an acrobatic backhand from Momdzhyan jetted past the Air Force goalkeeper. The 
+Glendale native completed his ninth hat trick of the year shortly a fter.
+Skylar Munatones, sophomore 
+attacker, joined the scoring frenzy with one goal of his own and two assists.
+The Tritons were 4–6 on power 
+play advantages, 1–2 from five-meter 
+opportunities, prevailing in multiple categories including goals, shots, and even exclusions and penalties.
+UCSD will compete at home once 
+again Thursday, Oct. 26 in a WWPA 
+match-up against Santa Clara at 6 p.m.
+   BY MAdeline  Lewis
+Staff Writer
+RICHARD LU  RIL014@ucsd.eduPHOTO BY FRANCESCA HUMMLER  // UCSD GUARDIAN
+madeline lewis  mblewis@ucsd.eduSPORTSCONTACT THE EDITOR
+ALEX WU
+sports@ucsdguardian.org     follow us @UCSD_sports 
+16 THE UCSD GUARDIAN | MONDAY , OCTOBER 23, 2017 | WWW.UCSDGUARDIAN.ORG 
+Spearheading this season’s Triton 
+offense is senior outside hitter Amanda 
+Colla. She is a big reason why UC 
+San Diego is 9–3 in the California Collegiate Athletic Association and tied atop the South Division with Cal State San Bernardino. When she’s not on the court, Colla studies physiology and neuroscience at Eleanor Roosevelt College. But when she’s on the court, she excels as a team captain and has garnered several awards over the season, being named one-time CCAA Player of the Week, Reis Cup MVP and D-2 West Region Volleyball Showcase All-Tournament Team among others. 
+A product of San Diego and native 
+of Carlsbad, Amanda Colla joined the Tritons as a freshman and immediately made an impact as an outside hitter, starting 24 out of 26 games, essentially subbing in for then-junior Danielle Dahle who got injured in the very first 
+game of the season. “ That one play is 
+forever ingrained in my mind, ” Colla said. “She walked o ff the court, her 
+eyebrow was bleeding, her eye was already swollen, and Coach just looked at me and just said ‘You’re in. ’ I was put in so immediately that I didn’t really have time to overthink anything which helped me a lot, especially with it being my first game that I ever played. Once I 
+got out of my own head, I was just able to play volleyball. ” 
+From that first year playing, she 
+remembers, “Overall I was coming into playing college volleyball, I thought I would be able to just outhit a lot of the blocks, but since they were so much bigger than playing against 18 year olds, that was a hard thing to keep in my head, that I can’t beat them and that they’ll just beat me straight down. [But I was able] to add more shots into what I can hit instead of just one right down the middle. ” She also credits UCSD head coach Ricci Luyties with the smooth transition. “I knew Coach from Club Volleyball. He was one of the coaches at the club where I played for [in high school]. I started just emailing Coach with videos of me playing from my high school and my club teams. [...] Then he o ffered me a 
+spot on the team, and I took some time to think about that, but ultimately I ended up deciding to come here. Him being able to see all my potential as a freshman gave me a lot of con fidence, and him knowing that I would be able to play all four years de finitely helped 
+my mental game. He knows so much about the sport. ” 
+Colla made her mark as an outside 
+hitter in her freshman campaign, but things went in a di fferent direction 
+her second year, when she played at libero, a more defensive position. All she did that season was total 560 digs —  second most in UCSD’s history. Colla later in her career reached the millennium mark, a feat she says serves as motivation to get to the top three [in UCSD history in digs] by the end of her career. 
+After Dahle, arguably one of the 
+best players ever to play for the Tritons, graduated, Colla stepped into more of a leadership position. “It’s not one big lesson, it’s more a little help here and a little help there, and I think that’s where they grow the most, ” she said, describing this new role. 
+As a graduating senior, Colla 
+also spoke candidly about the end of her collegiate career. “Being close to graduation is a little scary and close to the end of volleyball is also very scary because I don’t want to ever stop playing. I try to never think about it because thinking about stopping playing volleyball and especially to stopping playing with this team is hard to think about. ” 
+While she once considered going 
+to play abroad as an option, she now believes her health is no longer holding up. “My shoulder’s hurting, back’s hurting, knees’ hurting, so I just think that this is the last year of volleyball for me. I need to focus on progressing my life, di fferent grad schools, di fferent 
+jobs that I want to do and just more life experiences that way. ”
+Even a fter graduating, Colla will 
+always be able to look back at her four years as a Triton, when volleyball “has become such a big part of my life, and they [the UCSD team] have woven into who I am as a person, so volleyball has just shaped me in so many ways that I don’t think it will ever be gone, but just the physical aspect will not be there. ” There’s even one game in particular 
+that she’ll keep in mind. The setting is 
+the Western Region quarter- finals, in 
+Colla’s second season. Sonoma State, recently crowned CCAA regular season and tournament champion, stands in the Tritons’ path. UC San Diego had already lost to Sonoma State during the season, but Colla believed they would win, saying “I knew we were gonna win, it wasn’t even a possibility that we would lose. So the moment when their outside hitter finally hit the ball out 
+and we had won the match still sends shivers down my spine, because I can just think of everyone and how happy we were and it’s just forever ingrained. ”
+The Tritons have five more games 
+to play before the CCAA Tournament in San Francisco, which they have a good chance of making. From then on, it’ll be “survive and advance” for Colla and Co. For the senior class, setter Rachel Linden, middle blocker Rebecca Seaberry, and Colla, this means that there are only a couple of home games remaining on Friday Oct. 27 against Cal State Monterey Bay and Oct. 28 against Cal State East Bay — leave it up to Colla to enjoy every last minute of them.
+Amanda 
+Colla
+Editor Marcus Thuillier 
+sits down with the 
+senior outside hitter to 
+discuss her incredible career at UCSD. 
+by Marcus Thuillier // Managing EditorSpotlight
+marcus thuillier  mthuilli@ucsd.eduPHOTO COURTESY OF UCSD ATHLETICS
+The UC San Diego women’ s 
+volleyball team was heading into 
+the week’ s matches with aspirations 
+of positioning themselves atop 
+the California Collegiate Athletic 
+Association standings with key games 
+against rivals Sonoma State and San 
+Francisco State. Things didn’t go so well 
+against Sonoma State, who are now 9–2 in conference play, but the Tritons were able to rebound against the Seawolves 
+on Saturday night with a 3–1 victory 
+as UCSD is now 9–3 in the conference 
+with just five games le ft in the regular 
+season. 
+VS Sonoma State
+Friday night was a bit rough for the 
+Tritons. The first set of the night found 
+UCSD in a back-and-forth a ffair with 
+Seawolves that required extra points to resolve, but a fter senior outside hitter 
+Amanda Colla scored o ff a kill to take 
+a 26–25 lead, the Tritons gave up three straight points to fall 26–28.
+In the second set of the night, it 
+seemed like the Tritons were ready to 
+swing the momentum back around. 
+After giving up the first two points, 
+UCSD earned three straight kills to take the lead and never looked back, evening 
+up the match with a commanding 25–
+15 victory.
+But the third set of the night proved 
+to be a reversal of fortunes for the Tritons. Despite taking a 2–0 lead to 
+start the set, the Seawolves rebounded 
+thanks to a few scoring runs to crush 
+any momentum the Tritons had built 
+up. 
+The fourth and final set of the night 
+was another close one — it stayed within a few points for a large chunk of 
+it — but the Seawolves were able to put 
+the Tritons away 25–20 and their night 
+for good.
+VS San Francisco StateWhile the night wound up being a 
+good one for the team, the event did not 
+start the way the Tritons would have 
+liked. Despite being in a 8–3 deficit, 
+the Gators went on a fi ve-point scoring 
+run to tie the game, a fter which the set 
+remained SFSU’ s game to lose. UCSD 
+lost the set 22–25.
+The Tritons quickly rebounded, just 
+like the night before. In a game where 
+either team remained in contention to win, this time it was the Tritons who 
+made a timely run to turn a 21–20 score 
+into a 25–22 victory .
+In this exact moment the previous 
+night, UCSD had an opportunity 
+to build on a second set victory but 
+couldn’t. This time, however, would be 
+different. A fter an attack error by senior 
+middle blocker Rebecca Seaberry made 
+the game 1–1, the score would never be 
+as close for the rest of the set. Thanks to 
+multiple scoring runs, the Tritons easily handled the Gators with a resounding 25–13 victory.
+And a fter that drubbing, there 
+was no stopping the Tritons. A fter 
+bursting out to a 4–0 lead thanks to a few Gator attack errors and a Seaberry 
+kill, the Tritons never trailed. A kill by 
+sophomore outside hitter Jessyca Beksa 
+put SFSU out for good and gave the 
+Tritons a 25–17 victory.
+Next up, UCSD plays its second to 
+last home game on Friday, Oct. 27 at 7 p.m. against Cal State Monterey Bay.Men’s Soccer
+On Friday, the UC San Diego 
+men’s soccer came up against Cal 
+State San Marcos in attempt to extend its 8-game winning streak, 
+with its last loss coming in Sept. 
+15 at the hands of Chico State. Meanwhile, San Marcos had a tough task on the day as it has been unable to put a tally in the win column in its last eight games. On paper, the Tritons were clearly the better team, however the Cougars still gave the Tritons a run for their money on the day.  
+Cal State San Marcos showed 
+grit and fight in the game as they 
+took the early lead in the eighth minute of the match to give them the belief that they could possibly get something out of the match. But in a match where you’re the obvious favorite, you have to respond and 
+that is exactly what the Tritons 
+did. In minute 25, redshirt senior midfielder Steven Ortiz led the 
+charge as he beautifully got up into the air and headed the ball to the far post and into the goal to make it 1–1. Just 10 minutes later, UCSD would take the lead as the backline of San Marcos failed to clear the ball and would be punished as freshman midfielder Brett Jones would react first to the missed clearance and 
+give the Tritons a 2–1 lead. However, in a reserved second half for the Tritons, where they had zero shots attempted, they allowed the Cougars to crawl back into the match and get a 70th-minute equalizer to send it to overtime.
+As the match went into overtime, 
+two 10-minute halves, neither team could find the back of the net in 
+the first half of overtime. Though 
+with five minutes remaining in the 
+second half of overtime, Jones made the difference and scored the game-
+winning goal to give the Tritons’a 
+3–2 victory and extend the their 
+unbeaten streak to nine.  
+Women’s Soccer
+The perfect 9–0 (in conference 
+play) UCSD women’s soccer team travelled to San Marcos, but for the first time in 10 games it failed 
+to register a goal, with the match ending in a 0–0 stalemate. Last time 
+the Tritons failed to score in was a 
+non-conference loss against Regis University, when they lost 1-0 on Sept. 10.
+UCSD controlled the game and 
+had plenty of shots throughout the course of the match, holding a 16–6 shot advantage, but simply could not find the back of the net. Although 
+they shot the ball 16 times, the Tritons only put three of those shots on target, none coming in the second half. UCSD’s best chance was created by junior forward Mary Reilly as she cut the ball with her le ft 
+foot through the defense and took a shot at the post, but it bounced o ff 
+the crossbar.
+With the match leveled at 0–0 
+after a full 90 minutes of play, the 
+match went into overtime and a chance was parried away by the Cougars goalkeeper to keep the score at 0–0. The chance came o ff a 
+corner kick and as a header sent the ball toward the goal, the goalkeeper 
+was able to get her hands on it and 
+come up big for her team. No real chances were able to be created further into the overtime, and as a result the game ended in a 0–0 draw.  
+Both the men’s and women’s 
+teams will travel up to the Bay Area to take on Cal State East Bay on Oct. 26 followed by Cal State Monterey 
+Bay on Oct. 28.
+W.  Vo l l e y b a l l  S p l i t s  We e k  G a m e s M. Soccer Wins 3-2 in 2OT; W . Soccer Ties 0-0
+UCSD defeated SF State after loss to Sonoma State.  The UCSD soccer teams had some trouble with Cal State San Marcos.
+BY  Alex  Wu
+Sports Editor
+Alex  Wu  adw006@ucsd.eduBY Daniel Hernandez
+Senior Staff Writer
+daniel hernandez  dah043@ucsd.eduUPCOMING
+UCSD 
+GAMESM Tennis
+M Water Polo
+W Volleyball
+Swim & Dive
+W Volleyball10/26
+10/2610/2710/2810/28All Day 
+6 PM7 PM
+12 PM
+7 PMAT SoCal IntercollegiateVS Santa ClaraVS Cal State Monterey BayVS Claremont-Mudd-ScrippsVS Cal State East Bay
