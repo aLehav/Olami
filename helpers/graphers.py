@@ -39,7 +39,7 @@ def monthly_grapher(directory, pipeline, query, y_label, title, save_path=None):
         plt.savefig(save_path, bbox_inches='tight')
     plt.show()
 
-def monthly_grapher_multiple(school_names, pipeline, query, y_label, title, save_path=None):
+def monthly_grapher_multiple(school_names, pipeline, query, y_label, title=None, save_path=None):
     import os
     import matplotlib.pyplot as plt
     from datetime import datetime
@@ -67,12 +67,13 @@ def monthly_grapher_multiple(school_names, pipeline, query, y_label, title, save
     grouped = df.groupby(['school', 'month'])['count'].sum()
 
     fig, ax = plt.subplots()
-    for school_name in school_names:
+    for school_name in sorted(school_names, key = lambda x: grouped.loc[x].index.min()):
         ax.plot(grouped[school_name].index.strftime('%Y-%m'), grouped[school_name].values, label=school_name)    
     plt.xticks(rotation=60)
     ax.set_xlabel('Month')
     ax.set_ylabel(y_label)
-    ax.set_title(title)
+    if title is not None:
+        ax.set_title(title)
     ax.legend()
 
     # Show only every sixth x-axis label
@@ -111,7 +112,7 @@ def yearly_grapher_multiple(school_names, pipeline, query, y_label, title=None, 
     grouped = df.groupby(['school', 'school_year'])['count'].sum()
 
     fig, ax = plt.subplots()
-    for school_name in school_names:
+    for school_name in sorted(school_names, key = lambda x: grouped.loc[x].index.min()):
         # Note we cut out 2008-2009 as it's incomplete
         grouped_school = grouped.loc[school_name][1:]
         ax.plot(grouped_school.index, grouped_school.values, label=school_name)

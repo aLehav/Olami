@@ -15,7 +15,7 @@ def extract_pdf_text(url = None):
     text = ''
     for i in range(num_pages):
         page = pdf_reader.pages[i]
-        text += page.extract_text()
+        text += page.extract_text() + "\n"
     
     pdf_file.close()
 
