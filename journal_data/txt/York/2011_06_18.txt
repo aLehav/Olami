@@ -1,0 +1,83 @@
+Ernest Reid
+Science & Technology Editor
+With the help of one of York’s researchers, scientists have succeeded in trapping antimatter for close to 17 minutes. York physicist Dr. Scott Menary is one of the authors of “Confinement of antihydrogen for 1,000 seconds”,  a paper published by Nature Physics on June 5.
+This is the longest time antimatter has ever been contained. Menary is joined by 39 other members of the Antihydrogen Laser Physics Apparatus (ALPHA) experiment, an international collaboration at CERN.
+Dr. Menary explained in an interview that fundamental questions of the universe’s origins are at the core of this experiment.
+“The universe at the beginning had equal amounts of matter and antimatter,” he says. “But the question now is where did the antimatter go?”
+Artistic diagram of the ALPHA trap. illustration by alpha team
+Scientists have strong theories, “but ultimately it’s always an experimental question,” says the physicist. “You can have all the ideas you want, but you have to probe out nature to see which is the right one.”
+The ALPHA experiment aims to produce, trap, and study antihydrogen atoms. The team chose antihydrogen because it is the easiest anti-atom to make, with just one anti-proton and anti-electron. “Even antihelium is way beyond what we can do at this moment,” Dr. Menary says.
+Measurement precision is also an advantage. Hydrogen’s energy levels are known incredibly well, down to the 14th decimal place. Studying antihydrogen will give scientists a precise understanding of antimatter not possible with other elements.
+Preparing antihydrogen for analysis requires waiting and repetition. Only the least energetic antimatter particles will survive and stay in the trap. ALPHA scientists make thousands of anti-atoms, Menary reveals, but they jump out of the trap, hit the wall and annihilate themselves.
+But the team has succeeded in capturing antimatter before.
+“We published a paper last year where we only waited 170 milliseconds,” Dr. Menary says. “People said, ‘why did you wait two tenths of a second?’ Well, the reason we did that is we wanted to know if we had any. There’s no way to know if you actually got the [antihydrogen atoms] until you release them.”
+In principle, the team’s process could contain the antimatter for as long as they want.
+“A thousand  seconds is kind of an arbitrary amount of time”, he admits. The team is interested in refining their techniques and actual measurements of the antimatter have yet to happen. “We’ve been spending all our time perfecting trapping [anti-atoms]—we haven’t studied them yet. We’re just interested in how many we got.”
+It’s too early to speculate on applications for antimatter.
+“Most of the speculation is about propulsion of rockets,” comments Dr. Menary. “Unless someone thinks of a very clever way to make a lot more, that’s just not happening.” The team only collected 309 atoms, “which is nothing,” he says.
+When asked about the media coverage of the experiment, Dr. Menary replied: “there is a public fascination with this research and to be perfectly honest, I don’t understand why. I’ve worked with antimatter for twenty years, I’ve been on papers I thought were more important than this…but for some reason this [paper] catches the imagination.”
+He finishes by saying the paper is “probing our world at the most precise level there is, and it’s trying to answer really profound questions, like how did our universe evolve and other questions which, I think, are inherently interesting.”
+ 
+
+
+
+ York University Community Newspaper 
+Paul Burd 
+Contributor 
+The particle physics community nears a turning point with the closure of America’s Tevatron particle collider at Fermilab. Formerly the largest and most powerful particle accelerator in the world, the Tevatron will retire after its government funding dries up this September. This closure reaffirms the Large Hadron Collider’s position as the most internationally significant particle accelerator.
+Nestled underground outside of Chicago, the Tevatron workforce was a thriving community of over 1000 physicists, engineers, and technicians. Since 1983, scientists sifted through the sub-atomic debris of particles smashed in collision courses around its six-kilometre circuit. Particle physicists analyzed the data from these mini-explosions to reveal quarks, the elementary particles that compose protons.
+The Tevatron facility at Fermilab in Illinois. FRED ULLRICH
+“The Tevatron was designed and built to observe the ‘top quark’ […] that’s what it was designed for, and that’s what it did,” says Dr. Wendy Taylor, the Canada Research Chair in experimental particle physics at York. She spent five years working onsite at the facility as a particle physicist.
+Before the Tevatron, physicists detected only five of the six quarks predicted to exist, leaving the sixth ‘top quark’ to languish in the realm of theory until 1995.
+Dr. Taylor notes however that the Tevatron’s discovery of the top quark in 1995 was just one part of its contribution to physics. “They have done a tremendous amount of physics and they’re continuing to do so,” she says.
+But despite a scientific legacy, the US government decided to defund the Fermilab collider in January. Dr. Taylor calls this a “political decision”, commenting that President Obama initially increased funding to pure science but has since softened this commitment after Republicans gained a majority in the US House of Representatives last fall.
+Another reason cited for the Tevatron shutdown is its obsolescence against the Large Hadron Collider (LHC). Run by the European Organization for Nuclear Research (CERN), the 27-kilometre-long particle accelerator straddles the Franco-Swiss border and began operation in March 2010. The LHC’s operating power is seven times that of the Tevatron and there is consensus in the science community that the LHC is the new powerhouse of physics.
+“There’s a point where the Tevatron just cannot compete,” says Dr. Taylor, who now works on the LHC project.
+It is too early to definitively write the obituary of the Tevatron experiment. Dr. Taylor argues that there is still much data to be analyzed even after the collider itself stops running, and that the Tevatron has laid much of the groundwork for the LHC’s own particle hunt.
+The LHC hopes to confirm the existence of the Higgs boson, the ‘God particle’, thought by physicists to imbue matter with mass. The Tevatron’s data has not yet detected this particle, but physicists at the LHC can now use these failures to direct their search.
+No new particle at Tevatron
+Last April, the CDF detector at Tevatron found evidence of a new particle. However, the Tevatron’s second detector, the DZero, was unable to support the CDF’s conclusion after 200 trillion particle collisions.
+Researchers remain hopeful
+The two teams will form a task force to discover why there is a discrepancy.
+
+With files from Discovery and Wired
+ 
+
+
+
+ York University Community Newspaper 
+ 
+Kirk Mason
+Contributor
+Facing stiff competition and the hot desert sun, York students repeated their second-place victory in an international Mars rover design challenge.
+From May 27 to June 5, the York University Rover Team (YURT) headed out to the Utah desert to compete and triumph in the 2011 University Rover Challenge. Competing for the fourth time in the Challenge’s five-year history, YURT’s Mars rover kept the tradition of placing in the top 3—this was the second year in a row that the team took the runner-up spot. Polish students from Politechnika Bia?ostocka placed first this year with Oregon State University students in third.
+
+Mark Post, YURT’s engineering adviser, says that much has changed since the design challenge started. The competition has become “much more professional,” he notes. “As the competition has grown, the teams have grown with it.” The rovers have improved greatly over the past years, Post says. “In my opinion, these [rovers] are NASA quality.”
+Post, a PhD student, was the development team leader in previous years and helped YURT win the competition in 2009. His research into space engineering allowed him to become an adviser. He declined to accompany the team to Utah.
+“I felt safe staying back and letting the rest of the team go,” Post says. “I had every faith in the team.”
+There were five challenges in the competition. First, team members presented the design of their rover. York was the best scoring team in this category, with 89 points out of 100. YURT’s rover received a perfect score in the site surveying task, finding the precise coordinates of field markers. The rover was also judged on its dexterity, its ability to detect bacteria, and its delivery to a “distressed astronaut” out in the mock Martian desert.
+The team was joyous over their win. STANLEY LIO
+According to the team, the suspension system was the rover’s greatest strength. Its superior design got it through a number of the challenges—notably, the surveying task. Another of its strengths was its ability to do on-site testing of samples for the bacteria search test. The rover’s secret weapon, an on-board spectrogram, eliminated any need to retake samples and waste precious time.
+Like any space-bound device, the weight of the rover was crucial. The limit for the contest was 15 kilograms—a limit taken seriously by the team and challenge organizers. Organizers reapplied weight penalties in each of the tasks. An important lesson for the real world, where it costs $22,000 to send one kilogram into space.
+Post notes that YURT has built a new rover every year, building on the design ideas of past models. The 2008 rover is currently in the Canadian Air and Space Museum at Downsview Park, and the 2009 model will be featured there in the near future. The 2010 model has been re-purposed for special occasions, like cake-cutting ceremonies for its one-year birthday and Jay Ingram’s retirement party for his leave from Daily Planet.
+Physics lab technologist Nick Balaskas is enthusiastic about the rover team.
+“Students from York—not necessarily from the physics and astronomy department or even from our faculty—come together and use their unique skills,” he says, whether they be business, technical or programming skills. Any student can join because “even if they don’t have skills, they can learn new [ones].”
+York is a relatively new university and doesn’t have as many traditions as older institutions. The team’s continuing success might be a sign that this might change. The York University Rover Team is “starting a tradition,” Balaskas says. “A winning tradition.”
+
+Who York’s rivals are…
+–  Oregon State University
+–  Nevada University (no longer participating)
+– Politechnika Bia?ostocka
+– (Poland)
+– UCLA
+How much it costs
+The Mars Rover EVE, short for Enhanced Vehicle Explorer, costs $13,000
+Its good luck charm
+EVE had a piece of a Mars rock attached to it for good luck.
+
+ 
+ 
+
+
+
+ York University Community Newspaper 
