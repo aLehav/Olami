@@ -23,6 +23,20 @@
 - Purpose:
     - Read through all subpages of UMich *The Michigan Daily* publications from 2009 onward by using Selenium's Chrome Web Driver. Then get all days with publications and the associated links to zipped text files of the publications, found in `umich_article_pages.json`. Then, iterate through these links, and for each one download the ZIP file and extract the contents to a temporary location, and read all text files to generate `journal_data/txt/UMich`. This data can then be processed and queried for information generating figures such as what's in `figures/UMich`.
 
+### UCSD Newspaper Scraper
+
+- Files:
+  - ` UCSD.ipynb`
+- Purpose:
+    - Read through all subpages of UCSD *The Guardian* publications from 2009 onward, getting all months with publications, and then for each month getting all days with publications and the associated links to publications, which can be found in `ucsd_article_pages.json`. Then, iterate through these links, use BeautifulSoup to fetch the content from the HTML, and append all content together as text to generate `journal_data/txt/UCSD`. This data can then be processed and queried for information generating figures such as what's in `figures/UCSD`.
+
+### York Newspaper Scraper
+
+- Files:
+  - ` York.ipynb`
+- Purpose:
+    - Read through all subpages of York *Excalibur* publications from 2010 onward, getting all months with publications, and then for each month getting all days with publications and the associated links to publications, which can be found in `york_article_pages.json`. Then, iterate through these links, use BeautifulSoup to fetch the content from the HTML, and append all content together as text to generate `journal_data/txt/York`. This data can then be processed and queried for information generating figures such as what's in `figures/York`.
+
 ## Past Work
 
 Twitter Scraping:
