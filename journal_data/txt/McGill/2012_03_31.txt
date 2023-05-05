@@ -1,0 +1,163 @@
+The McGill Daily
+The McGill Daily
+New registration interface to go live in May
+This past Wednesday, as students flooded onto Minerva to register for courses, McGill software engineering graduate Alex Daskalov put a no-access wall – a letter blocking access to a site – on his website registersmart.org.
+The site, known as Smart Minerva, is a scheduling interface that allows students to type in McGill courses and gain access to all of the possible schedules, and CRN codes. Students can then register on the Minerva site by typing in a few numbers, rather than wading through all the scheduling options for courses.
+Daskalov put up two different versions of the wall – one that allowed students to access the site after providing their email, and another that did not allow students access to the site at all. The second wall read, “Smart Minerva is struggling to breathe.”
+He also started a Facebook event titled “Smarten up, McGill,” in which he urged students to email McGill IT. “Tell them you need Smart Minerva to register,” it read. He later took down the wall, explaining that it was “too cruel not to allow access.”
+Smart Minerva is not “under direct threat” by McGill; Daskalov clarified in an interview with the Daily. He also said he could no longer keep maintaining the site for free, and he plans to open source the code if nothing happens as a result of the campaign.
+Daskalov started the website in 2008 during his first year at McGill, after being frustrated with Minerva. He has been running it in his free time for just over four years.
+The site seems most popular among first year science and engineering students. “When you have a lot of labs to schedule and there are 10 or 15 choices for all of those it’s easier to get visuals of how that would look instead of drawing out charts,” says Anqi Zhang, a U2 Neuroscience student and Daily staffer who joined the Facebook group.
+“I always recommend it to lower level students,” says Clarence Leung, a member of the Wikinotes team, in an email to the Daily, adding that the members of the team had all joined the Facebook group as well. Daskalov supports open source software, and is “ an extremely capable software developer,” he explained.
+In July, during registration for first years, Daskalov put up a page on the site for one day – similar to the one that was up earlier this week – that asked students to email McGill IT and tell them to fund Smart Minerva.
+“ I don’t think [McGill IT] had a sense of just how useless Minerva was,” he said in an email. 
+
+According to Daskalov, as a result of the email campaign, he began talking to McGill IT.
+“When Alex graduated he offered us the system. But we have legal requirements with purchasing,” explains McGill Chief Information Officer, Ghilaine Roquet.
+“Minerva as a presentation interface for students leaves [something] to be desired,” she says. “It’s the first thing I hear from students – please replace Minerva. Smart Minerva was a very interesting development,” she added.
+Last fall a selection committee composed of IT and McGill enrolment services members looked at options for making the registration portion of Minerva run more smoothly.
+Daskalov explained to The Daily that he was told a decision would be made by October; according to Roquet the selection process was delayed due to the MUNACA strike.
+This committee ended up choosing another student-built system called Visual Schedule Builder, in use at Concordia. Alan Weeks, a former student at Concordia, is behind the project.
+“We found that it was preferred…and it was also less expensive,” Roquet says, explaining that student focus groups favored the other program. Visual Schedule Builder is slated to go live in May at McGill, in time for the incoming class of 2012.
+In addition to showing different combinations of schedules, as Smart Minerva does, Visual Schedule will include maps indicating where classes are located, and a search function to allow students to view courses offered by a specific professor.
+Dasklov was unaware that another student initiative was chosen instead of Smart Minerva.  “I was told in February, it’s not going to be yours,” Dasklov said. Later in an email he wrote: “Yea, that’s interesting, except that they never themselves told me that, which would’ve been nice.”
+“I don’t want to disparage the value of the [Smart Minerva] application,” said Roquet. “I think it is a good application, and it has value – if we didn’t think so, we wouldn’t be looking to put in place a solution that offers that service. When you do that, you have to look at everything and chose the one that is preferred by your users.”
+Radio
+Download file | Play in new window | Duration: 1:00:28
+Tweets by @mcgilldaily
+© 1911-2023 The McGill Daily | WordPress theme based on Neve | Powered by WordPress
+The McGill Daily
+The McGill Daily
+Outremont NDP MP Thomas Mulcair wins party leadership
+The McGill Daily (MD): One of the important issues in Quebec, and on campus right now, is the student movement concerning tuition hikes. What are your thoughts on this?
+Thomas Mulcair (TM): I respect the fact that, first and foremost, education is a provincial jurisdiction, and an important thing in our constitution and our country. On the other hand, I come from a family of ten children, and I know I would never have been able to get two law degrees from a university like McGill if I didn’t come from a province that has always put a lot of money into post-secondary education – that’s why Quebec tuition fees remain below the national average. At the same time, we have to realize the federal government can and should be playing a more active role, given the importance of post-secondary education, and especially of research. So I think that the federal government can play a role more actively in making sure the money is there.
+MD: The issue of student engagement in politics is really important right now. What are your thoughts on this movement?
+TM: I am always very impressed by the involvement of youth in terms of civil society, in terms of their own role in activism, in terms of having their own voices heard in the street, as it is now. At the same time, if you look at the statistics of last May’s election, it is disquieting to see that 18 to 25 year olds across Canada stayed home; about two-thirds of them did not bother to vote. So, while I will always encourage people to stay involved in civil society and community groups and environmental groups, and to work in their local community or even worldwide in other movements. We have to realize that the decisions being taken in Victoria and Regina and Quebec City and in Fredericton are affecting your lives, decisions being taken in Ottawa. Your generation is having the largest ecological, environmental, economic, and social debt in Canada’s history being dropped into your backpacks, and you’re being told by Stephen Harper’s Conservatives that you can’t do anything about it.  We in the NDP are convinced you can… I think that is an important message to maintain, that you also have to be involved in the political process in one way or another.
+MD: There have been claims leveled against you that you want to move the party towards the centre or modify the NDP constitution.
+TM: No, I never said either of those things. Some of my adversaries have said that I wanted to move the party towards the centre. What I have said is I want to move the centre toward the party, and that is precisely what I was explained before. Reaching out beyond our traditional base, talking with people who have stopped voting or don’t vote, or people who haven’t voted for us in the past. That would include cultural communities, that would include First Nations, and, yes, of course I want more people involved in voting for us. So we have to change our way of expressing ourselves… People in the NDP wanted us to adapt, wanted us to listen to local voices, local concerns, local priorities.
+MD: Charmaine Borg and Lauren Liu, part of the “McGill Five,” both worked on your campaign in May, but didn’t support you in the leadership race. Why do you think that is?
+TM: You know, with seven members of the NDP caucus running, people would go in different directions. I also realize that several of them also did vote for me. Overall I had by far the largest number of members of our caucus supporting me, and I had by far the majority of Quebec members of the NDP caucus supporting me, and I am thrilled with that support. I mean, the fact that some members of the caucus would go with other candidates is frankly a healthy sign, that there are a variety of points of view, and I think that’s just a part of a good leadership race.
+MD: Now that the race is over and you have won the leadership, what are some things that you are looking forward to dealing with next?
+TM: The biggest thing for me is working with our caucus on sustainable development – a completely new approach to our economy – and making sure that our generation assumes the costs of what is being done now. We think that the best way for us to be moving forward is to be with sustainable development, making sure that every government decision takes into account the environmental, the economic, and the social.
+MD: Where do you see the NDP in five years time?
+TM: In power.
+ 
+—Compiled by Jordan Venton-Rublee
+Radio
+Download file | Play in new window | Duration: 1:00:28
+Tweets by @mcgilldaily
+© 1911-2023 The McGill Daily | WordPress theme based on Neve | Powered by WordPress
+The McGill Daily
+The McGill Daily
+Community plans to mobilize and lobby provincial government for funding
+The Native Friendship Centre of Montreal (NFCM) may be forced to close its doors in as little as three months if it cannot secure the necessary funding.
+The NFCM is one of ten Native Friendship Centres in Quebec, and has existed for the past 37 years. There are 120 centres across Canada seeking to improve the quality of life for Aboriginal people living in urban areas.
+The Montreal Centre offers its visitors health and social services, legal information, education and training, and employment opportunities.
+Friendship Centres in Quebec receive funding through two organizations: the National Association of Friendship Centres (NAFC), and the Regroupement des centres d’amitié autochtones du Québec (RCAAQ). The NAFC, in partnership with the RCAAQ, administers funds through the Aboriginal Centre Program (AFCP) to all the Centres in the province. The funds come from the Federal government’s Department of Canadian Heritage.
+On October 12, 2011, the RCAAQ’s Board of Directors suspended the NFCM’s provincial membership. The Board informed the NFCM of this, by letter, on November 15. As a result, the NFCM’s core funding was officially and indefinitely suspended.
+The RCAAQ claims the membership was suspended due to NCFM’s decision not to recognize their Final Special Bilateral Agreement and because of “the limited services being provided” by the Centre. Though the RCAAQ has stated its intentions to continue working with the NFCM to ensure Aboriginal needs are being met in the city, NFCM staff claim that the provincial organization is in fact unwilling to negotiate.
+According to staff member Gordon Bird, the Bilateral Agreement was supposed to be a set of financial stipulations between the Centre and the RCAAQ but, instead, outlines the extent to which the RCAAQ can control the Centre’s operation. Bird said that the issue is not that money isn’t available, but that the two groups disagree over the terms by which it is given.
+While the Centre considers itself autonomous and intimately familiar with the needs of the community members it serves, the RCAAQ insists it will not provide funding to non-recognized Centres.
+“The agreement was intended to bring the Centre back to a safe financial state,” explained Joey Saganash, who works at the NCFM and coordinates its Street Patrol team. “But the Bilateral Agreement ended in July 2010. And by July 2010, the Centre’s financial, social and cultural mandates were being fulfilled. Everything was going right,” he said.
+If the two groups can’t come to an agreement, then the NFCM will have no choice but to close its doors in as little as three months.
+The closure would affect many Aboriginal Montrealers who rely on the Centre for services like counseling and internet access.
+“There’s no other place in Montreal that offers similar services,” said Saganash. “It serviced my mother when I was a child.”
+The Centre also regularly hosts community dinners and cultural events such as drum circles.
+“We’re here to give support,” said Bird, who is helping to organize petitions for the reinstatement of funding. He called the Centre a “place of knowledge” where First Nations, Métis, and Inuit cultures are all welcome and embraced.
+“Everyone loves coming here,” said Katie Ross, who has been visiting the Centre since she was 12 years old.
+“We have big monthly suppers at the end of the month… people come to play games or have coffee. If it closes, where is everyone going to go? People have help getting jobs upstairs, and if this place closes, everyone’s going to be kind of lost. I’m really shocked and so is everyone here. I really hope it stays open.”
+Ross worried that she might never get the chance to work at the Inter-Tribal Youth Centre (ITYC), a project based in the NFCM’s basement that organizes a variety of activities for Aboriginal youth.
+The ITYC announced on Monday that it would be closing on April 1 due to the NCFM’s funding suspension.
+However, the RCAAQ has recently announced that it intends to keep the ITYC open.
+RCAAQ President Edith Cloutier wrote on the organization’s website, “We are now finalizing scenarios in order to identify an institutional Aboriginal partner that will agree to sponsor the Montreal youth project. The RCAAQ will involve the Inter-Tribal Youth Centre of Montreal in this decision.”
+Yet the threat of closure for the NFCM remains real. On Thursday, the Friendship Centre will host a general assembly from 6 to 9 p.m. There, staff and community members plan to brainstorm ways to keep the Centre alive. In the meantime, the NFCM is circulating petitions and orchestrating a campaign for people to send letters to both the NAFC and the RCAAQ.
+“We need to mobilize and take it to the next step,” Bird said.
+Radio
+Download file | Play in new window | Duration: 1:00:28
+Tweets by @mcgilldaily
+© 1911-2023 The McGill Daily | WordPress theme based on Neve | Powered by WordPress
+The McGill Daily
+The McGill Daily
+University budget only supporting AFRI 200 for upcoming year
+The introductory course to the African Studies program, AFRI 200, has been officially reinstated for the fall 2012 semester.
+The decision was made after a months-long campaign by the African Studies Student Association (ASSA), which included a petition signed by over 1000 students.
+ASSA President Noteh Krauss spoke to The Daily about the interest students have shown in restoring the course.
+“Students who are curious about learning about the continent have the opportunity to explore those interests,” said Krauss. “I really believe that the program was on its deathbed without AFRI 200.”
+Since its General Assembly on November 9, the AUS has been mandated to lobby for the restoration of the African Studies program’s introductory course.
+Yusra Khan, AUS VP Academic, explained that the course was not offered this year because of bureaucratic oversight.
+“It wasn’t so much that the course was taken away. There were some administrative and structural problems with the way interdisciplinary programs work that led to a delay in the request of a TA. So the professor did not want to teach a course without a TA,” said Khan.
+Even though the ASSA enjoyed student support, Kraus expressed that the process for getting the course back was “slow and extremely bureaucratic.”
+“It’s like wading through a swamp, and it’s misty and it’s damp and the water is mucky and you don’t know where you’re going. That’s why we took another way, that is, to go to the individuals and keep going up the ladder, until we could get to someone who made the decisions,” said Kraus.
+“We just kept going higher and higher until we reached the level of the Deputy Provost (Student Life and Learning).”
+Khan also commented on the ASSA’s lobbying of Deputy Provost (Student Life and Learning) Morton Mendelson.
+“On the one hand it is sort of inefficient, because the problem with AFRI 200 was of TA availability, which is something solely determined by the faculty. When it comes down to it, the offering of the course is not under [Mendelson’s] purview,” she said.
+“But it is important that smaller programs really emphasize their causes to the faculty and to the University. Because when you do that you’re going to get in everyone’s radar,” she added.
+Although both the ASSA and the AUS were involved in the lobbying process, Krauss expressed being “disappointed” with the support of AUS.
+“I found them to be less helpful than I would’ve expected, especially after they were mandated to advocate for us… I think that for an organization that represents all Arts students and then was mandated in a general assembly not even during council… I really don’t think they did everything they could.”
+“[Khan] specifically did bring it up at certain committees and on her academic council they discussed it, but nevertheless I found the support of the AUS not to be that strong,” he added.
+According to Associate Dean of Arts (Academic Administration and Oversight) Gillian Lane-Mercier, the course was restored due to the “energy, dismay, and increased interest shown by students.”
+“When the budget for both the supplementary teaching allocations was communicated to me, and the TA budget was communicated to me for 2012-2013, I was well aware of the issues and it made me very happy to be able attribute a budget that will enable the two core courses to be taught next year,” said Lane-Mercier.
+The course will be offered to 100 students, with spots reserved for students in the African Studies department. However, it was only reinstated for the upcoming 2012 – 2013 academic year.
+“We also discussed with the Associate Dean about what happens the year after this. We don’t want to be continually fighting for it. And the thing is, she told me that basically the way things are we can only take it one year at a time,” said Kraus
+Lane-Mercier explained to The Daily that the course was only reinstated for a year because the budget allocation is done in a year-by-year basis.
+“In any department there are ups and downs, there are cycles… You can never predict.  If there is support from the students, you know if enrolments are high and the energy is maintained, then certainly these are all signs that it’s very positive and it enables us to support the program in the following year,” she said.
+Radio
+Download file | Play in new window | Duration: 1:00:28
+Tweets by @mcgilldaily
+© 1911-2023 The McGill Daily | WordPress theme based on Neve | Powered by WordPress
+The McGill Daily
+The McGill Daily
+English students may face “repercussions”
+Two weeks ago, in protest of impending tuition hikes, the Department of English Student Association (DESA) became the largest student association in McGill history to declare an unlimited general strike.
+The strike only lasted a week, but the subsequent fallout has left the association at odds with Department Chair Allan Hepburn, leaving some students concerned about the effect of the strike on their final grades this term.
+Four days before their first strike General Assembly (GA), the DESA executive emailed departmental faculty informing them of the meeting and asking for their “opinions, thoughts, and concerns on the matter.”
+President Zoe Erwin-Longstaff said the executive sent the email “not thinking this was going to cause or stir anything. We just truly wanted input.” She added that DESA had enjoyed “wonderful relations” with both Hepburn and the department before this email.
+“I was absolutely shocked at how things played out,” said Erwin-Longstaff. “I foresaw [Hepburn] not supporting the strike, but I did not foresee the way he has handled this at all.”
+Erwin-Longstaff said that within two hours of receiving the DESA email, Hepburn had emailed every faculty member about the GA, leading with a description of the Arts Undergraduate Society’s failed strike vote from earlier that week.
+“DESA has no right to strike and no authority to take votes that bind members to strike. Students who want to attend class have the right to do so,” wrote Hepburn in the email.
+He added that “any professor who wishes to cancel a class must contact the Chair of the Department, justify the cancellation, and state how and when cancelled classes will be made up.”
+DESA VP Academic and Daily staffer Ryan Healey said Hepburn’s email “set the tone from the start, which is really important for how departmental politics work.”
+Four days later, the DESA GA voted for an unlimited general strike. At the end of the week, Hepburn emailed Erwin-Longstaff requesting the names of each member of the strike committee. Erwin-Longstaff declined the request after consulting with the committee, citing the “fluctuating” nature of strike committee membership.
+Hepburn responded within ten minutes, saying, “The department does not condone secret meetings and committees without a chair or clear membership.”
+In an email to The Daily, Hepburn wrote, “Committee memberships in the Department of English are a matter of public knowledge.”
+Hepburn obtained the minutes from the two strike committee meetings, although neither Erwin-Longstaff nor Healey know how.
+According to Healey, Hepburn “penciled in the last names of students that he knew or thought he knew” and emailed the minutes to the departmental faculty. Hepburn mistakenly identified two students – U1 Women’s Studies student Molly Swain and Arts senator Matt Crawford – as being members of the strike committee.
+“People have been kicked off of campus for flyering,” said Swain, who is an English Literature minor. “Connecting my name with strike committees and hard pickets that I’m not a part of could have potentially led to disciplinary action against me.”
+Healey spoke to the potential academic repercussions of Hepburn identifying students in the strike committee to professors in the department.
+“If a professor doesn’t like the strike and sees their name on the strike committee minutes, it could influence how they grade their papers,” said Healey.
+Healey added that there were “a lot of fears” on the part of members of the DESA executive in particular. Erwin-Longstaff said she was personally worried.
+DESA held a GA to renew the strike last week. The renewal vote failed, ending the DESA strike, but a motion condemning Hepburn’s actions passed with only a handful of dissenting votes. Hepburn declined to comment on the motion.
+Hepburn confirmed that last Tuesday, faculty members in the English department met to discuss their experiences of the strike and how the department might respond to it. “The department seeks transparent, open communication with DESA and its committees,” he wrote in his email.
+Both Erwin-Longstaff and Healey said they had heard from professors that “there will be repercussions” for the DESA strike activity.
+“What those repercussions are concretely, we don’t know,” said Erwin-Longstaff.
+Both executives said the episode has revealed a lack of clarity over DESA’s role in the department.
+“Clearly they don’t think that we have the autonomy or the authority that we insist that we have. That’s been made very clear to us,” said Erwin-Longstaff.
+Radio
+Download file | Play in new window | Duration: 1:00:28
+Tweets by @mcgilldaily
+© 1911-2023 The McGill Daily | WordPress theme based on Neve | Powered by WordPress
+The McGill Daily
+The McGill Daily
+Student movement seeks to overcome past divisions 
+The Coalition Large de l’Association pour la solidarité syndicale étudiante (CLASSE) has publicly stated that it would not look to negotiate with the Quebec government regarding tuition hikes unless Minister of Education Line Beauchamp agreed to discuss tuition freezes.
+“Our campaign this year is not to obtain immediately the abolition of tuition fees; our strike today… is really in opposition to the tuition increases so our concrete goal this year is to win the tuition freeze,” said CLASSE spokesperson Gabriel Nadeau-Dubois.
+About 191,676 Quebec students in CEGEP and university are currently on strike, as part of the province’s six-week-old general unlimited strike. About 84,000 students are represented by 45 student associations that are members of CLASSE. The strike is against a tuition hike of $1,625 over the next five years.
+CLASSE’s position became public Friday, the day after the demonstration, La Grande Mascarade, occurred. One of the protest’s themes was the reclamation of the student movement from other student federations.
+Mathieu Melançon, a student from the Université du Québec à Montréal (UQAM)  whose student association is a member of CLASSE, was present at Thursday’s demonstration. He described the student movement as divided. “The movement is divided but not only [a] useless fight, it’s because we have different ways of seeing what should be the [aim of the student movement],” he explained.
+“If this struggle was only about $1,625 of a tuition hike it would be a true waste of energy, time and public space,” he added.
+CLASSE is the temporary coalition of the Association pour la solidarité syndicale étudiante (ASSÉ) founded with the goal of “opening the structures of ASSÉ to non-member student associations so as to construct a large movement and so as to combat the tuition hike,” according to their website.
+ASSÉ views education as a fundamental right. The association’s website states that “each member of society [has] the right to free public education, accessible, quality and secular, free from all forms of discrimination.”
+The Fédération étudiante universitaire du Québec (FEUQ) is one of two major student federations in the Quebec student movement. According to its website, its mission is “to represent, by an intermediate of its associations’ members, university students so as to study, promote, protect, and develop their interests as well as their academic, social, cultural and economic rights.” McGill’s Post-Graduate Students’ Society is a member of FEUQ.
+FEUQ president Martine Desjardins spoke to CLASSE’s statement. “They [CLASSE] are sending the message that we are all united behind the same message right now,” she said.
+She referred to all student associations agreeing on a tuition fee freeze as a “great thing.”
+At Thursday’s demonstration, a new student federation, the Front or fédération des étudiant(e)s collégial ou universitaire révolté (FECUR), claimed that student federations FEUQ, and its collegial counterpart FECQ, did not represent them. Later in the demonstration a banner bearing all three student associations’ names was pelted with food.
+Nadeau-Dubois spoke about the demonstration organized by FECUR. “I think it’s legitimate for people to express publicly their fear of losing control of their movement … As an organization we call for solidarity in the student movement with the other student organizations,” he said.
+Desjardins spoke to concerns regarding FEUQ’s governance strategies and tactics.
+“There’s a lot of people who are angry because in 2005 there was a roundtable, so they’re saying it’s going to be history repeating itself in this conflict, but everyday I’m trying to say that we can agree on something, and we’re working together,” she said.
+In 2005, FEUQ went to the negotiation table without ASSÉ’s temporary coalition – known at the time as the Coalition de l’association pour une solidarité syndicale étudiante élargie (CASSÉÉ) – because the minister of education had denounced their occupation tactics.
+Nadeau-Dubois said he felt many people feared a repeat of 2005, “but I think that for the moment we are on the road of solidarity within the student movement. We hope that it’s going to stay like this.”
+“We want to benefit from the mobilization of this strength to talk about free schooling to put the debate on the public face that free school is a choice … we think it would be possible for Quebec to do this choice, but our strike this year concretely is not to obtain free school,” he added.
+Radio
+Download file | Play in new window | Duration: 1:00:28
+Tweets by @mcgilldaily
+© 1911-2023 The McGill Daily | WordPress theme based on Neve | Powered by WordPress

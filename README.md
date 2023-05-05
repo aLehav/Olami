@@ -37,6 +37,20 @@
 - Purpose:
     - Read through all subpages of York *Excalibur* publications from 2010 onward, getting all months with publications, and then for each month getting all days with publications and the associated links to publications, which can be found in `york_article_pages.json`. Then, iterate through these links, use BeautifulSoup to fetch the content from the HTML, and append all content together as text to generate `journal_data/txt/York`. This data can then be processed and queried for information generating figures such as what's in `figures/York`.
 
+### McGill Newspaper Scraper
+
+- Files:
+  - ` McGill.ipynb`
+- Purpose:
+    - Read through all subpages of *The McGIll Daily* publications from 2009 onward, getting all months with publications, and then for each month getting all days with publications and the associated links to publications, which can be found in `mcgill_article_pages.json`. Then, iterate through these links, use BeautifulSoup to fetch the content from the HTML, and append all content together as text to generate `journal_data/txt/McGill`. This data can then be processed and queried for information generating figures such as what's in `figures/McGill`.
+
+### UCF Newspaper Scraper
+
+- Files:
+  - ` UCF.ipynb`
+- Purpose:
+    - Read through all subpages of *Knight News* website publications from 2009 onward by proceduring getting the link for each subpage, and then for each month getting all days with publications and the associated links to publications, which can be found in `ucf_article_pages.json`. Then, iterate through these links, use BeautifulSoup to fetch the content from the HTML, and append all content together as text to generate `journal_data/txt/UCF`. This data can then be processed and queried for information generating figures such as what's in `figures/UCF`.
+
 ## Past Work
 
 Twitter Scraping:

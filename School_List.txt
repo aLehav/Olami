@@ -3,7 +3,7 @@
 
 ****University of Florida (Gainesville, FL)
 NA  Rutgers University, New Brunswick (New Brunswick, NJ)
-E   University of Central Florida (Orlando, FL) - http://knightnews.com/category/news/
+****University of Central Florida (Orlando, FL) - http://knightnews.com/category/news/
 �   University of Maryland, College Park (College Park, MD) - https://issuu.com/thediamondback
 ****University of Michigan (Ann Arbor, MI)
 NA  University of Wisconsin, Madison (Madison, WI)
@@ -12,7 +12,7 @@ NA  University of Wisconsin, Madison (Madison, WI)
 ?E  Indiana University (Bloomington, IN) - https://www.idsnews.com/search - 2015 
 ?E  Pennsylvania State University, University Park (University Park, PA) - https://www.collegian.psu.edu/pdf_edition/ - 2019
 ?�  Binghamton University (Vestal, NY) - https://issuu.com/pipedream - 2010
-E   McGill University (Montreal, QC) - https://www.mcgilldaily.com/category/sections/news/
+****McGill University (Montreal, QC) - https://www.mcgilldaily.com/category/sections/news/
     University of Illinois at Urbana-Champaign (Champaign, IL)
     Florida State University (Tallahassee, FL)
     California State University, Northridge (Northridge, CA)

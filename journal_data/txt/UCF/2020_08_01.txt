@@ -1,0 +1,21 @@
+A UCF student, accused of taking part in the coordinated social engineering attack on Twitter in mid July, has been charged with aiding and abetting the intentional access of a protected computer.
+Nima Fazeli, 22, was enrolled at UCF from fall 2015 through summer 2020 — Knight News confirmed Fazeli is not currently enrolled in classes for the fall semester, according to a UCF spokesperson. 
+Fazeli was a former member of the Gazoni Family — previously known as the Lambda Chi Alpha fraternity, which is not recognized by the university or its national office. 
+Gazoni Family leadership confirmed with Knight News that Fazeli disaffiliated from the organization and has not been an active member in years. 
+The hackers allegedly compromised over 100 social media accounts and scammed both the account users and others who sent money based on their fraudulent posts, a U.S. Department of Justice press release states. 
+“The attackers successfully manipulated a small number of employees and used their credentials to access Twitter’s internal systems, including getting through our two-factor protections,” a Twitter statement reads.
+The investigation revealed Graham Ivan Clark, 17, was the mastermind of the recent hack, according to a Hillsborough County news release. Clark was arrested in Tampa, Florida, on Friday. 
+Clark — who goes by the username “Kirk” — used Discord users as middle-men to help find buyers for Twitter usernames in exchange for a fee, records show. 
+The complaint states Fazeli — who goes by the username “Rolex” — offered to be a middle-man for Clark.
+Fazeli acted as a broker for Clark, advertising the sale of compromised Twitter accounts and procuring buyers for Clark, according to the complaint. 
+Based on what we know right now, we believe approximately 130 accounts were targeted by the attackers in some way as part of the incident. For a small subset of these accounts, the attackers were able to gain control of the accounts and then send Tweets from those accounts.
+Accounts belonging to Bill Gates, Elon Musk, Kanye West, Joe Biden, Barack Obama, Jeff Bezos, Mike Bloomberg, Warren Buffett, Kim Kardashian, Apple and Uber were compromised, according to the complaint. 
+“The hackers allegedly compromised over 100 social media accounts and scammed both the account users and others who sent money based on their fraudulent solicitations,” the press release reads.
+The release states nearly $117,500 was brought in on July 15. 
+“Clark’s scheme to defraud stole the identities of prominent people, posted messages in their names directing victims to send Bitcoin to accounts associated with Clark, and reaped more than $100,000 in Bitcoin in just one day,”  the release states.
+“There is a false belief within the criminal hacker community that attacks like the Twitter hack can be perpetrated anonymously and without consequence,” U.S. Attorney David L. Anderson for the Northern District of California said in a press release.  
+Records show Fazeli could face 5 years in prison, a possible $250,000 fine, 3 years of supervised release, restitution and forfeiture, if found guilty. 
+This is a developing story. Check back with Knight News for updates. 
+
+
+
