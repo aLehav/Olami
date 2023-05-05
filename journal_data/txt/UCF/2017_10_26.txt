@@ -1,0 +1,59 @@
+The College of Engineering and Computer Science has undergone a five-month renovation, having replaced 15 air-handler units and exhaust lines and 5 fume hoods in several labs to help improve airflow through the building, UCF has said.
+As part of the renovation to the Engineering 1 building, a new main distribution panel will allow for an increased amount of electricity to flow through all four floors which cover classrooms, labs, and an academic office.
+“Additional power is needed to help support the research and teaching missions of the college,” UCF News & Information news editor Gene Kruckmeyer said.
+The building will be closed beginning December 15, 2017, through January 7, 2018, while crews continue the renovation.
+A new roof for both the Engineering 1 & 2 buildings has also been planned.
+
+
+
+While University of Central Florida’s President, John C. Hitt’s tenure is coming to an end, this does not mean his time at the university is over.
+In an employment agreement obtained by Knight News, Hitt will now serve as the President Emeritus after he officially resigns as the president of the university.
+Effective July 1, 2018, just one day after he retires as president, Hitt has signed a one year $300,000 deal to continue working at UCF in a limited capacity, according to UCF Assistant Vice President Chad Binette.
+In this new role, Hitt will oversee:
+a. Consultation/participation with the UCF Foundation on major gift solicitations.
+b. Appearance/presentations at significant university events.
+c. Consultation with Board and staff regarding implementation of the university strategic plan.
+d. Consultation with incoming president regarding university history and operations.
+e. Assistance with partnership projects.
+According to the document, this contract includes an option for a one year extension.
+To see the full contract Click the link below:
+Employment Agreement – President Emeritus10-25-17 clean
+
+
+
+The University of Central Florida produces more graduates who receive jobs in aerospace and defense companies than any other university in the nation, according to an annual workforce survey conducted by the top aviation industry publication in the U.S., and UCF.
+“It says something about your graduates,” executive editorial director for Aviation Week Executive Intelligence Carole Rickard Hedden said.
+“There are certain institutions, like UCF, that are really great at blocking and tackling—producing engineers of all disciplines who meet the needs of the industry.”
+The study surveyed corporations, 1,156 engineering students, and 1,371 young professionals to track employment opportunity and compensation in the aerospace and defense industry.
+“[Our] engineering program has been recognized nationally for its notable strengths in optics, simulation, aerodynamics, aero-structures, space aviation, advanced turbomachinery, systems and controls, unmanned aerial vehicles and advanced manufacturing,” UCF stated.
+Limbitless Solutions, an organization founded by UCF students, received international attention by providing children and families of children with missing limbs, or limb defects, to have access to 3D-printed bionic limbs at affordable costs.
+Knight News interviewed Limbitless President Albert Manero as well as Michael Georgiopoulos, the dean of the College of Engineering and Computer Science, and UCF Provost Dale Whittaker on the opening of the lab.
+Limbitless Solutions Opens New On-Campus Headquarters
+
+“As a large metropolitan institution, UCF provides a high-quality education inside and outside the classroom,” said Georgiopoulos. “We are located in the heart of an economic powerhouse surrounded by industry. This means our students have easy access to research experiences, internships, entrepreneurial opportunities, service learning, and jobs.”
+“Our alumni and industry tell us that UCF is producing a high volume of skilled engineers and computer scientists who also possess the professional skills — such as collaboration, creativity, and communication — that employers seek,” Georgiopoulos said.
+
+
+
+In an effort to increase the security of individual accounts and personal data, the University of Central Florida Information Security Office will implement multi-factor authentication to MyUCF employees with access to personal records.
+All users who have greater than self-service access – access to student and employee records – will be required to use either an app (Duo Mobile), a passcode, or receive an automated call to a working phone. Students who work for the university and have access to FERPA information will be required to use the function.
+UCF has required a group of users to use the service and will soon require all users to do the same. The multi-factor authentication will be needed to log in to MyUCF. WebCourses has not been included.
+“UCF’s information security team is constantly evaluating the best methods for keeping our data safe, and this rollout of multi-factor authentication is an example of that effort,” Assistant Director of UCF News & Information Mark Schlueb said.
+“This plan has been in the works for some time.”
+The UCF Information Security Office has curated an FAQ:
+What is Multi-Factor Authentication?
+Multi-Factor Authentication combines something you know (your NID and password) with something you have in your possession (such as a unique one-time use code or a smartphone application). When you log in to myUCF using multi-factor authentication, after entering your NID and password, the sign-on page will prompt you to further validate your identity by one of the following means:
+* Using a mobile application to approve your access with a touch
+* Receiving a text message with a one-time use temporary code
+* Receiving a phone call on your landline or cellular phone
+Why is UCF IT making this change?
+In today’s environment, multi-factor authentication is necessary to protect the confidentiality, integrity, and availability of sensitive online information resources.
+What do I need to do?
+Enroll in the UCF multi-factor authentication service by copying and pasting the following link into your web browser and following the instructions: http://infosec.ucf.edu/security/multi-factor-authentication/.
+Where can I find help? 
+In addition to the above link, you can contact the UCF IT Support Center at servicedesk@ucf.edu or by calling 407-823-5117.
+ 
+ 
+
+
+

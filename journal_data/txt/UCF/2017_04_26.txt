@@ -1,0 +1,16 @@
+University of Central Florida Assistant Professor Fernando Uribe-Romo has produced a way to trigger photosynthesis in synthetic materials, returning greenhouse gasses to clean air while producing energy at the same time, UCF has said.
+The process has the potential for creating a technology that could significantly reduce greenhouse gasses linked to climate change while also creating a clean process to produce energy.
+
+“This work is a breakthrough,” said Uribe-Romo of the Chemistry Department.
+“Tailoring materials that will absorb a specific color of light is very difficult from the scientific point of view, but from the societal point of view we are contributing to the development of a technology that can help reduce greenhouse gasses.”
+The assistant chemistry professor and his team of students triggered chemical reactions in a synthetic material called metal-organic frameworks (MOF) that breaks down carbon dioxide into harmless organic materials.
+“It’s something scientists around the world have been pursuing for years, but the challenge is finding a way for visible light to trigger the chemical transformation,” associate director of UCF New & Information Zenaida Kotala said.
+“Ultraviolet rays have enough energy to allow the reaction in common materials such as titanium dioxide, but UVs make up only about 4 percent of the light Earth receives from the sun. The visible range – the violet to red wavelengths – represent the majority of the sun’s rays, but there are few materials that pick up these light colors to create the chemical reaction that transforms CO2 into fuel.”
+While rare and expensive materials have been capable of absorbing visible light, Uribe-Romo’s team used a common nontoxic metal: titanium. The team then added organic molecules that acted as light-harvesting antennae to test the method. N-alkyl-2-aminoterephthalates (the light harvesting antenna molecules) can be designed to absorb specific colors of light when incorporated in the MOF. Uribe-Romo and his team synchronized it for the color blue.
+After testing a blue LED photoreactor, measured amounts of carbon dioxide were slowly fed into a photoreactor. The method worked and the carbon dioxide reacted to reduce into two forms of carbon known as formate and formamides – two kinds of solar fuel – and in the process of cleaning the air.
+“The goal is to continue to fine-tune the approach so we can create greater amounts of reduced carbon so it is more efficient,” said Uribe-Romo.
+“The idea would be to set up stations that capture large amounts of CO2, like next to a power plant. The gas would be sucked into the station, go through the process and recycle the greenhouse gasses while producing energy that would be put back into the power plant.”
+The findings of Uribe-Romo’s research are published in the Journal of Materials Chemistry A (http://pubs.rsc.org/en/content/articlelanding/2017/ta/c7ta00437k).
+
+
+
