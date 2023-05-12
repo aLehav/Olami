@@ -43,7 +43,8 @@ def get_school_year(date_obj):
 
 def csv_to_positive_articles(csv_file):
     df = pd.read_csv(csv_file)
-    grouped = df[df['count'] > 0][['school','date']]
+    grouped = df[['school','date']]
+    # grouped = df[df['count'] > 0][['school','date']]
     grouped['txt_file'] = grouped.apply(lambda x: f"journal_data/txt/{x['school']}/{x['date'].replace('-', '_')}.txt", axis=1)
     return grouped
 
