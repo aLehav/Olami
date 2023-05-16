@@ -1,0 +1,198 @@
+Accessed: 7/1/2020 UCSD-collaborated Research Paper on COVID-19 Called for Retraction - UCSD Guardian
+ June 24, 2020   Zhuoying Lin 
+In a letter to the Proceedings of the National Academy of Sciences, a group of scientists  
+requested that the journal  retract a paper  that allegedly made  “falsifiable claims” about 
+the transmission pathway of COVID-19 on June 18. UC San Diego Nobel Laureate 
+professor Mario Molina and Texas A&M University professor of atmospheric science 
+Renyi Zhang co-authored the paper and was published on PNAS on June 11, 2020. 
+The research article claimed that the spread of COVID-19 came dominantly through 
+airborne transmission. It also argued that face coverings were effective in preventing 
+the transmission of the virus and that other mitigation measures such as social 
+distancing were insufficient by themselves.
+The paper posits three ways of virus transmission: direct deposit on people by coughing 
+or sneezing, indirect contact through a surface, and airborne route via droplets and fineTo learn more about The UCSD Guardian's coverage of the COVID-19  pandemic, click here → Accessed: 7/1/2020 UCSD-collaborated Research Paper on COVID-19 Called for Retraction - UCSD Guardian
+particles. As the number of confirmed infected cases in the U.S. continued to increase 
+linearly from April 1 to May 9, Molina and Zhang’s analysis found that there was no 
+profound impact  of federal protections regarding social distancing and quarantining on 
+reducing the spread of  the disease. 
+Because these physical separations aimed to target and minimize virus transmission via 
+direct  and indirect deposit, the continual growth of the pandemic suggested the main virus 
+pathway  was airborne transmission. 
+7/1/2020 UCSD-collaborated Research Paper on COVID-19 Called for Retraction - UCSD Guardian
+To further strengthen the case, the team studied the impact of face covering in the three  
+epicenters, including Wuhan, Italy, and New York City. They projected a linear regression  
+based on the reported numbers of confirmed cases before and after the face covering  
+policy  was implemented. 
+The team found mandated face covering significantly reduced the predicted infections in 
+Italy and New York City. Because face covering blocked airborne transmission and 
+inhalation of virus-bearing particles, the analysis indicated airborne transmission is the 
+major routine of COVID-19. However, the actual mechanism of the pathway remains 
+unclear.
+Accessed: 7/1/2020 UCSD-collaborated Research Paper on COVID-19 Called for Retraction - UCSD Guardian
+While the previous studies of SARS-CoV-1 and Middle East Respiratory Syndrome  
+coronavirus have shown airborne transmission results in longer travel distance and activity  
+time, the paper’s claim about the airborne transmission of COVID-19 led a group of 
+scientists  from epidemiology and public health to cast doubt on the validity of the research. 
+Dr. Noah Haber from the Meta-Research Innovation Center at Stanford University and other  
+scientists said that they agreed that mask-wearing was important in slowing the spread of  
+COVID-19 in the retraction request letter which came one week after the research paper’s  
+publication. However, the scientists felt that the article made ”dangerously misleading” 
+claims due to research design flaws and called for the paper’s retraction, especially because 
+of “the  paper’s outsized and immediate public impact.”
+The letter specifically pointed out six other errors regarding the methodology of the research,  
+which can be summarized into three key points: 1) Ignoring the lagging time between the  
+virus transmission and reported infection cases. 2) The date of policy implementation is  
+unrepresentative for the varied behaviors among the population in response to the 
+pandemic. 3) The analysis using linear regression without statistical uncertainty is not valid 
+for infection  dynamics and comparisons among the three epicenters.
+In response to the letter, Molina and Zhang penned a statement that addressed the errors 
+mentioned in the retraction letter. It claimed that the  excerpts the letter cited were taken out 
+of context and that the statistical uncertainty of the  linearity was already expressed in terms 
+of the coefficient of determination R^2 on the  graphs.
+“As you might see in our letter, we believe [the retraction letter] does not make much sense.”  
+Molina wrote in an email to The UCSD Guardian, “We would be happy to discuss the 
+science, to respond to sensible questions about our paper etc., but the retraction letter’s 
+reasoning is clearly not valid.”
+In addition to claiming that the retraction letter’s conclusion was not valid, Molina and 
+Zhang, in return, have questioned some statements in the letter. Molina and Zhang are 
+submitting another paper in which they will take a closer look at state measures. At the 
+publication of this article, the paper in question has not been removed from the PNAS.
+Photo courtesy of Erik Jepsen for UC San Diego Publications.Accessed: 7/1/2020 BREAKING NEWS: UCSD Updates Return to Learn, Plans for Campus-Wide T esting - UCSD Guardian
+For the first time since the end of Spring Quarter, UC San Diego Chancellor Pradeep 
+Khosla  provided the campus community with an update to the “Return to Learn” 
+program. Sent out  on Thursday, June 25, the announcement focused on campus 
+operations, including  classroom details, research protocols, and housing procedures. 
+The update laid out a goal for testing both symptomatic and asymptomatic campus 
+community members. All students living on campus are encouraged to participate in daily 
+symptom screening to go along with free coronavirus testing upon moving in. This 
+initiative was proven feasible by the  testing pilot program  that began during Spring 
+Quarter. 
+According to a CNN report on the program, less than 2,000 students took advantage of 
+the 5,000 available tests. None of these tests came back positive. Jack Dorfman  June 25 , 2020  Accessed: 7/1/2020 BREAKING NEWS: UCSD Updates Return to Learn, Plans for Campus-Wide T esting - UCSD Guardian
+“Plans for the fall are to offer regular testing to students, faculty and staff for SARS-CoV-2.  
+Higher testing frequencies are recommended for populations where social distancing is  
+difficult or who are at higher risk of infection,” Assistant Director of University  
+Communications Christine Clark said in a press release . “Through implementation of 
+strategies for adaptive testing,  tracking, tracing and isolation, the goal is to lessen the 
+likelihood of a significant outbreak on  campus.”
+All testing will be free to students and will be conducted at Student Health Services or UCSD  
+Health locations.
+“We wanted a simple, easy testing process which can be delivered at scale in the fall to ensure  
+widespread testing for early outbreak detection,” Project Lead Natasha Martin, an associate  
+professor at UCSD School of Medicine, said in a press release. “Our simulations indicate that  
+if more than 75 percent of the population were tested per month, we would be able to detect  
+an outbreak before there are 10 detectable infections on campus.” 
+The announcement also mentioned that only about 30 percent of courses will be in-person,  
+with the rest being remote or hybrid courses. Furthermore, “in-person class size is limited to  
+fewer than 50 students per class, or 50 percent of classroom capacity, whichever is smaller…
+[and] many in-person classes will have fewer than 25 students.”
+Khosla’s announcement also reiterated that although some in-person advising will be 
+available, most student advising will be through the Virtual Advising Center. The university 
+will also expand online resources and develop “onboarding webinars for new international 
+students and their families, International Student Peer Coaching Program, introductory 
+summer start course and webinar series, and extended virtual orientation and welcome 
+programs for both undergraduate and graduate students.” Additionally, the Globally 
+Engaged Tritons Committee launched Global Hub, a new portal for virtual programming and 
+events. 
+Despite varying infection rates across the world, all international students will face stricter 
+guidelines than U.S. students. Students returning to campus from an international location 
+and who have accepted the housing contract will be asked to undergo “a 14-day quarantine 
+period […] in specially designated on-campus housing with no additional housing fees.” 
+Meals will be provided, and students can log on to the Housing Portal to input any dietary 
+needs starting in July. To qualify for on-campus quarantine housing, students must arrive on 
+campus between Aug. 27 and Sept. 3, 2020. Those who arrive after Sept. 3 will be offered 
+hotel accommodations at reduced prices that have already been negotiated by the university.Accessed: 7/1/2020 BREAKING NEWS: UCSD Updates Return to Learn, Plans for Campus-Wide T esting - UCSD Guardian
+The announcement reiterated that any student who tests positive will be transferred to a  
+designated on-campus housing location and will be provided with food and other necessities  
+including healthcare from SHS.
+As was the case during Spring Quarter, students will not have to pay for unused housing if  
+they are forced out of their on-campus housing due to public health concerns.
+The university also announced “Research Ramp-Up,” a three-stage safety protocol plan that  
+would precede the green “return to full operations” stage. The announcement did not offer a  
+designation of the current phase. Executive Vice Chancellor Elizabeth H. Simmons  
+announced on May 30  that UCSD plans to enter the “Orange Phase” of ramp-up, which 
+involves remote work when  possible, limits on-site research personnel to approximately 25 
+percent at any given time,  and requires social distancing and sanitization protocols, as well 
+as the use of personal  protective equipment. The update also discussed face covering and 
+social distancing  requirements. These policies will include indoor mask requirements unless 
+alone in a private  room or dorm,  as well as a self-screening for COVID-19 symptoms  and 
+COVID-19 Return to Work Training  for student employees, faculty,  and staff.
+In addition, public and high-touch areas “will be disinfected frequently [and] hand sanitizer 
+will be available at various entry points, dining facilities, study and other public areas.”
+The full text of the update and an archive of past announcements can be found here.Accessed: 7/1/2020 Amendment to Repeal Affirmative Action Ban Passes the California Senate - UCSD Guardian
+ June 26, 2020   Andrew Ha 
+The Assembly Constitutional Amendment 5 passed the California State Senate on June 24  
+with a nearly party-line vote. Republican State Senator Scott Wilk of Santa Clarita joined 
+29 Democrats to pass ACA 5. The amendment will repeal the 1996 Proposition 209 which  
+prevented state government institutions from discriminating against or showing 
+preference  to any group of people in public employment, education, and contracting. ACA 
+5 will now  move to the November 2020 ballot for Californians to make a final decision. 
+Affirmative action, in the university admissions context, is an institutional measure that 
+promotes greater representation of underprivileged minority groups and women. If 
+passed in November, UC San Diego and other public universities in the state will be able 
+to implement affirmative action by using race as a factor in admissions to boost diversity. 
+However, according to the 1978 Supreme Court case University of California v. Bakke, 
+schools will not be able to use racial quotas to specify the number of students of each race 
+that would be admitted. 
+“In public higher education, ACA 5 opens up opportunities for and recognition of 
+individuals who face discriminatory obstacles growing up and every day, such as racism, 
+sexism, socio-economic discrimination,” UCSD Asian & Pacific Islander Student AllianceAccessed: 7/1/2020 Amendment to Repeal Affirmative Action Ban Passes the California Senate - UCSD Guardian
+Political Coordinator Dephny Duan said to The UCSD Guardian. “ACA 5 openly and 
+directly aims to  serve and lift the community of Asian Americans, Pacific Islanders, 
+Black Americans, Latino  Americans, Native Americans, and women who have struggled 
+with these discriminatory  practices and whose struggles have been ignored historically 
+and currently with color-blind  practices.”
+Although the plurality of undergraduate students at UCSD are Asian Americans, there is 
+a stark contrast with other minority groups. African Americans, Native Americans, and 
+Native Hawaiian and Pacific Islanders make up 2.8 percent, 0.4 percent, and 0.2 
+percent, respectively, of the undergraduate population. In conjunction with the removal 
+of the SAT and ACT standardized testing requirements for applicants, ACA 5 will allow 
+the University of California to address what it considers to be systematic and perpetual 
+inequalities in its institution.
+“It makes little sense to exclude any consideration of race in admissions when the aim of 
+the University’s holistic process is to fully understand and evaluate each applicant 
+through multiple dimensions,” UC President Janet Napolitano said in a press release. 
+“Proposition 209 has forced California public institutions to try to address racial 
+inequality without factoring in race, even where allowed by federal law. The diversity of 
+our university and higher education institutions across California, should — and must — 
+represent the rich diversity of our state.”
+However, the passage of this legislation has fueled contentious debate. Some white and 
+Asian American groups argue that the repeal of Proposition 209 will legalize 
+discrimination based on race in the admissions process. According to the California for 
+Equal Rights campaign, the proposition actually promoted diversity in higher education, 
+and ACA 5 will prevent that from continuing.
+“ACA 5 is a lie and it legalizes discrimination, as correctly pinpointed by Senator Ling 
+Ling Chang at today’s floor vote,” California for Equal Rights representative Dr. 
+Wenyuan Wu said in a statement. “It is promoted by political propaganda based on 
+ingenuine attacks on Proposition 209. In reality, since 1996, California has made strides 
+in diversity and inclusion in public education, employment and contracting. UC has 
+made substantial improvements in both enrollment and graduation prospects regarding 
+underrepresented minority students.”Accessed: 7/1/2020 Amendment to Repeal Affirmative Action Ban Passes the California Senate - UCSD Guardian
+Other organizations like “Asian Students at Risk” have taken to social media to cri tique ACA  
+5 and claim that it will reduce the number of Asian Americans in top-tier universities. ASR  
+was created in response to ACA 5, stating that the amendment is racially discriminatory  
+against Asian Americans. In response to those statements, UCSD’s Asian & Pacific Islander  
+Student Association have created their own campaign to explain the legislation in their  
+perspective. 
+“We believed that their reasons for not supporting ACA 5 fuel the “model minority” myth,  
+and worsen racial relations,” APSA Chair Victoria Pham said to The UCSD Guardian.
+“Furthermore, their misinformation that there will be a racial quota upon Asians is  
+particularly harmful, as they are misleading individuals to believe that other communities of  
+color are now a “threat” towards Asian students. Their position creates a racial wedge  
+between them and other communities, when the goal should be to stand in solidarity with  
+one another.”
+APSA also claimed that although Asian Americans are often considered to be successful,  
+there are still disparities between various subgroups.
+“This assumption is also extremely dangerous in ways that have already been recognized,  
+such as Hmong and other South East Asian communities, whose needs have been ignored  
+and drowned out by this Myth,” APSA Political Coordinator Dephny Duan said. “Because  
+ACA is a color-conscious piece of legislation, ACA 5 highlights these various experiences  
+within the Asian community rather than blanket them with the Model Minority Myth and 
+its assumptions of easy success, and it is crucial that these experiences are formally 
+recognized  and heard and would be unfair otherwise.”
+If signed by the Governor, the amendment will be on the ballot for the presidential election  
+on Tuesday November 3, 2020 and will require a simple majority vote. To learn more about  
+ACA 5, refer to California’s legislative Information page.
+Photo courtesy of the Public Policy Institute of California. 
+The UCSD Guardian reached out to UCSD administration, but they have not responded 
+for comment.
