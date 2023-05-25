@@ -1,0 +1,331 @@
+
+April 21, 2022 by Adora Zheng Leave a Comment 
+Wordle, Dordle, Quordle, Duotrigordle… Hoyadle? Georgetown University-themed word game Hoyadle is the latest rendition of hit game Wordle, and it’s taking campus by storm.  
+The game, which was created by Chris Delaney (MSB ’25), launched April 5. Hoyadle is a spoof of Wordle, the daily game where players have six tries to guess a five letter word. It features campus-related words like Snaxa, after the student-run store Hoya Snaxa, and Yates, the on-campus recreation center. On its first day, the game had 2,000 players, and it has averaged an engagement of around 1,000 players every day since, according to Delaney. 
+Delaney said he was not expecting the game to become so popular. 
+“I didn’t really go into this with any expectations but as soon as we released it on the first day and started spreading the word, it really took off,” Delaney said in an interview with The Hoya. “The amount of usage that we got right away and the amount of players that we have consistently is very surprising.”
+There have been many spoofs of Wordle including Letterle, a one letter guessing game; Taylordle, a Taylor Swift themed Wordle; and Wordlerry, a Harry Styles inspired Wordle. 
+Inspired by the countless variations of Wordle, Delaney said he decided on a whim to code a Georgetown-themed Wordle in his free time earlier this month. 
+Meredith Lou (COL ’24) heard about the game when her friends sent it to her, and said Hoyadle is only the latest variation of Wordle she has played.
+“Just Wordle is not enough for me, I’m fiending for more,” Lou told The Hoya. “It’s the fourth variation of Wordle that I’ve done, and I think it’s really fun.”
+ Delaney created a Wordle simulator earlier this semester as a side project because he thought it would be interesting to figure out what the back end of the game would entail. 
+Delaney said this previous experience prepared him to create Hoyadle in just a few hours.  
+“I really already had the logic down of how to make the game so I essentially just had to make it look nice,” Delaney said. 
+Delaney said he had to alter the programming of the game after creating a longer word bonus feature. 
+“I recently added a bonus feature where the word is a little bit longer and it’s a little bit tougher. So I had to completely refigure the original program to be able to handle that. So there have been a lot of little challenges like that,” Delaney said. 
+It has been fun coming up with Georgetown-themed words to use in the game, Delaney said. 
+“One of the fun parts was brainstorming with my friends about five-letter, Georgetown-related words that we could use in the game, and we ended up coming up with a lot more than I initially thought there were,” Delaney said. 
+Even graduates and parents of Georgetown students have begun to play the game, which came as a shock to Delaney.
+“I mostly expected students because the game is catered toward students,” Delaney said. “A lot of the words are kind of slang or lingo used around on campus, so I was really surprised that non-current students were playing the game.”
+Brendan Foody (MSB ’25), a friend of Delaney’s, helped Delaney buy a domain for the game and publish the Hoyadle website. 
+Foody said he has enjoyed working to create Hoyadle.
+“It’s pretty cool to have a product that’s specific to the Georgetown community,” Foody told The Hoya. “It’s something so simple, but it still gained a lot of traction and has a lot of people playing. I think it’s awesome and fun to be a part of.”
+Delaney said Foody has assisted him with advertising the game on Instagram, which has shown success so far. The Hoyadle Instagram, which has over 400 followers, posts hints and daily world reveals. 
+Lou also said the daily hints keep the community engaged.
+“It’s a really active thing … that’s something that’s nice in the community,” Lou said. 
+Sophie Hermelin (COL ’24) said she decided to play the game because the Instagram account requested to follow her.
+“I liked the original Wordle so I thought I would give it a chance,” Hermelin wrote to The Hoya. “I think it’s cute because it’s Georgetown themed.”  
+Delaney said he is working on advertisement deals with local businesses, including Saxby’s, a coffee shop located a couple blocks from campus that is owned by a Georgetown graduate.. 
+Delaney has also received offers from student groups, including the Georgetown Program Board, which plans various campus-wide events, with word suggestions to use for the Hoyadle. 
+“The Georgetown Program Board offered us to make the word GUDAY for Georgetown Day in exchange for a shout out on their stories,” Delaney said. “Things like that will make me have to go in and change it, but the upkeep really isn’t too much.” 
+The game could benefit from adding more features that Wordle offers, according to Lou, such as showing players the distribution of their scores as they play each day.
+Delaney said it has been rewarding watching the reception to Hoyadle. 
+“It was really cool to see the game that I just thought of on a whim come to life within one night,” Delaney said. “I just find it really cool that it took off as much as it did.”
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 21, 2022 by Ingrid Matteini Leave a Comment 
+Georgetown’s Graduate School of Arts and Sciences awarded five students with the Patrick Healy Graduate Fellowship, which provides five years of financial support and other resources to select Ph.D. candidates in any field. 
+The annual award is named after Patrick Healy, Georgetown University’s 28th president. Healy was the first Black person to earn a doctoral degree from a university in the United States and the first Black president of Georgetown. The fellowship aims to carry on Healy’s legacy of training diverse future faculty, researchers and leaders to advance knowledge across disciplines. 
+This year’s fellows include George Chochos (GRD ’25), the first formerly incarcerated fellow, as well as Daniel Stewart (GRD ’26), Sarah Hayes (GRD ’26), Mariana Gomez (GRD ’27) and Christopher Gurley (GRD ’26).
+While incarcerated Chocos earned a bachelor’s and master’s from Bard College. In 2013, he became a licensed Baptist preacher. After his release from prison, he became the first formerly incarcerated person to attend Yale’s Divinity School, where he earned two more master’s degrees. 
+Chochos, who is studying philosophy, said receiving the fellowship has prompted him to think about education opportunities for other formerly incarcerated people. 
+“I think of all the people who could have been in my position but aren’t because they didn’t have access to the education opportunities I had,” Chochos said in an interview with The Hoya. “This is huge for me and my family.”
+Chochos hopes to use his personal experience with the criminal justice system to shape the discussion of issues surrounding incarceration with his fellowship.
+“I kind of want to use my scholarship to add that voice in that lens to the great conversation that’s already going on,” Chochos said. “I want to kind of use that as a theological lens to talk about why we need to expand higher education in prison for people who are in that marginalized state, on the fringes of society, and I also want to run a college recruiting program someday.”
+This year’s Healy fellows are a diverse group of scholars in multiple fields including theology, linguistics, government and philosophy. 
+This wide range of backgrounds among Healy fellows helps to cultivate a space for community learning, according to Stewart, a new fellow studying chemistry. 
+“There is an extra comfort in knowing that I have the community of other fellows here on campus that I can reach out to, and connect with and learn about what they’re doing and seeing,” Stewart told The Hoya.
+The combination of the community alongside financial support makes the fellowship especially meaningful, according to Gurley, one of this year’s fellows who is studying U.S. history. 
+“It’s really allowed me to dedicate my time to my work without worrying about the external things. It’s also given me a good solid community,” Gurley said in an interview with The Hoya.
+Alexander Sens, dean of the Graduate School of Arts and Sciences, said the diverse backgrounds of fellows, like this year’s class, will help to strengthen academia. 
+“The fellows’ diversity of background, experience and worldview enriches our community and strengthens our ability to create and transit knowledge. Diversifying the Ph.D. population is also a crucial step to diversifying the corps of professors across academia,” Alexander Sens wrote to The Hoya. 
+Sens said the university is proud of the diversity of Ph.D. students represented through the Healy fellowship. 
+“We’re proud that Patrick Healy Graduate Fellows display a wide range of backgrounds and experiences every year. We believe that having diverse Ph.D. populations, in terms of both background and experience, is of crucial benefit and importance to our teaching, scholarly and service missions,” Sens wrote. 
+Georgetown hopes to continue the Healy Fellows program and to support the graduate student community, Sens said. 
+“We hope to continue to build an increasingly strong community of Healy Fellows and to provide our entire graduate community with a robust support system both during and after their years at Georgetown,” Sens wrote. 
+Chochos said he hopes he won’t be the last formerly incarcerated fellow. 
+“At the same time, it makes me think of all the people that if they had maybe had the opportunities, could have done more than I could. I hope that while I’m the first, I won’t be the last.” 
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 21, 2022 by Adora Zheng Leave a Comment 
+Rabbi Rachel Gartner is stepping down after serving as Director of Jewish Life at Georgetown for 11 years, a role in which she was cherished by students, community members and the campus ministry team.
+Gartner will begin her new position as the rabbi of congregation Shirat HaNefesh in Chevy Chase, Md., at the end of the spring 2022 semester. She will simultaneously serve as the Senior Advisor for Spiritual Care at Georgetown’s School of Continuing Studies.
+Gartner said she has cherished her time working with students and will miss spending time getting to know them.
+“The thing I’m going to miss the most is working with students and just being in it with them, being in their lives, being in the classroom, enjoying their humor, relishing their wit and their intelligence,” Gartner told The Hoya. “I adore laughing with the students, I adore community building with the students and I adore accompanying students through everything that it means to be an emerging adult.”
+Father Mark Bosco, vice president for mission and ministry, informed Georgetown students of Gartner’s changing positions in an April 5 email. Gartner sent a more detailed email to students in Jewish Life, the group within Georgetown’s Campus Ministry that fosters a Jewish community on campus, later that day. 
+Gartner said that she is pursuing her new role as the rabbi of congregation Shirat HaNefesh because she feels a calling, but will miss the students and community at Georgetown immensely. 
+“It’s not bigger, it’s not better, it’s just different. It’s just there’s a time for change in life, and that’s the time it is for me,” Gartner said. “So that’s really how I feel about this. I’m being very called into some new angles on the rabbinate.” 
+While serving as director, Gartner energized Jewish Life by hosting her monthly “Makóm Midrash” bagel brunch series and initiating the GUish community organizing internship and Bayit living-learning community designed to celebrate and engage in Jewish culture. 
+Alex Cywes (SFS ’23), a Jewish Life intern, met Gartner his first week on campus and said she consistently ensured that Jewish Life at Georgetown was inclusive and open to people from all backgrounds, which he hopes her successor will continue.
+“That was something that I was really proud of and was one reason why I wanted to be a Jewish intern coming from not the most intense Jewish background,” Cywes said. “I really hope they’re able to replicate that because there are a lot of fracture lines along what it means to be Jewish, whether it’s questions of Israel or questions of spiritual practice, and Rabbi did an amazing job of making sure that everyone had a place in the Jewish community at Georgetown.”
+The university is currently working to ensure that there is a smooth transition of leadership within Jewish Life, according to a university spokesperson. 
+“The Office of Mission and Ministry is working to arrange interim leadership for Jewish Life while it prepares to undertake a formal search process for Rabbi Gartner’s successor,” the spokesperson wrote. “This search will include input and participation from the Georgetown Community, including faculty, staff and students. The Office will share updates when they are available.”
+Rev. Ebony Grisom, Interim Director of Protestant Christian Ministry at Georgetown, said Gartner exemplifies faith in action. 
+“I’ve appreciated the way that Rabbi articulates her sense of justice as one rooted in her faith,” Grisom wrote to The Hoya. “She models for students and colleagues a way to integrate one’s faith commitments into daily life. She embodies a faith that does justice, and how contemplation can lead to action.”
+Chloe Schneider (COL ’24), Social Justice Chair of the Jewish Student Association (JSA) board and president of the Campus Ministry student forum, has known Gartner since her being a first-year and found her to be someone who was easy to build a connection with from the beginning.
+“She’s definitely been a big part of my Georgetown experience — I probably see her at least once a week,” Schneider said in an interview with The Hoya. “She’s so personal, and you really don’t feel that staff barrier that you feel with a lot of people at Georgetown.”
+Schneider also took one of Gartner’s courses, titled “Death, Sex and Tattoos: Jewish Perspectives on Taboo Subjects,” which had students look at real world issues through a rabbinical lens.
+“It was my favorite class I’ve taken at Georgetown — it was so interesting,” Schneider said. “What I took away from that class is that Judaism addresses people, not problems.”
+Hannah Kosc (SFS ’23), Jewish Life intern and JSA co-president, said that Gartner played a role in her decision to commit to Georgetown after initially meeting her during her senior year of high school at the GAAP admitted students weekend. 
+[Kosc previously served on The Hoya’s Editorial Board.]
+Kosc said Gartner has been a major part of her support system on campus and will be missed by many students.
+“Rabbi has always just been like a Georgetown mom,” Kosc told The Hoya. “I know a lot of people in Jewish life feel that way about Rabbi. She’s a very loving person, and before her professional identity comes that love, and I think that’s really special. We’re all going to miss her a lot.”
+Gartner said that she looks forward to serving the larger Jewish community in her new role.  
+“I feel very called to serve Jewish communities at this moment in time,” Gartner said. “I’m really excited about just being in a very vibrant Jewish community at this moment in history and focusing in a depthfull way in Jewish life in the broader community.”
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 21, 2022 by Mia Dugan Leave a Comment 
+The Georgetown Prisons and Justice Initiative (PJI) released its annual report summarizing the program’s goals for the future and its achievements in the past year including the launch of a new bachelor’s degree program. 
+The report, which was released April 11, explored the work of the PJI in the past year, focusing on the launch of the first bachelor of liberal arts program for incarcerated people last April, the initiative’s programs for returning citizens, and PJI’s advocacy for wrongfully convicted people.  
+PJI Director of Communications Evelyn Rupert said the report allows PJI to reflect on its work and find ways to better serve individuals affected by the criminal justice system in the future.  
+“Creating an annual report allows us to stop and take stock of how far we have come and where we hope to go in the future,” Rupert wrote to The Hoya. “What I hope people take away from it is the scope of what Georgetown and PJI are doing to create opportunities for incarcerated people and returning citizens and how those opportunities have an impact on individual lives and the community at large.” 
+Since the launch of the new degree, which is offered to students at the Patuxent Institution, a prison in Jessup, Md., the initiative has received over 300 applicants for 25 available spots, according to the report. 
+Founded in 2016, PJI aims to combat the high incarceration rates in the United States by providing education opportunities to individuals in prison. The program also advocates for wrongfully convicted people and for reforms to support imprisoned individuals. 
+Despite facing COVID-19 pandemic related challenges, PJI hopes people will understand the impact the program has on incarcerated individuals, Rupert said.
+Many of PJI’s programs were revised and reduced due to the COVID-19 pandemic. The Prison Scholars Program, which enlists Georgetown faculty to teach non-credit and credit-bearing classes in the D.C. Correctional Treatment Facility and Central Detention Facility, completely canceled non-credit courses and switched all credit courses to online instruction due to the pandemic.
+In 2021, 26 students completed at least one of the nine courses offered through the Prison Scholars program, according to the report. 
+Professor and PJI Director Marc Howard said the program is thankful for the support it receives that makes supporting those affected by the criminal justice system possible. 
+“The Georgetown Prisons and Justice Initiative is proud to publish our 2021 annual report, which provides an overview of our programs and celebrates our students, staff, and faculty,” Howard wrote in a statement to the Hoya. 
+The report, which was primarily written by Rupert and designed by Georgetown Art Director John LaRue, included the help of undergraduate students Amy Li (SFS ’22) and Jack Pedigo (SFS ’24). 
+Pedigo said although the report involved many moving parts PJI is proud of the way it turned out. 
+“Although it was quite a daunting project,” Pedigo wrote to The Hoya. “We’re super happy with how this report turned out, and we hope it has played at least a small role in shining a light on the importance of second chance hiring.”
+The report contains news about PJI programs featuring multiple students and graduates of the Pivot Program, which provides formerly incarcerated individuals with professional development opportunities; the Mayor’s Office on Returning Citizen Affairs-Georgetown Paralegal Program, which trains formerly incarcerated individuals for a legal career; and the Prison Scholars Program, according to Rupert.  
+Pivot Assistant Director of Program Management Crystal Francis said fellows leave the program prepared to contribute to the workforce. 
+“Whether or not they decide to open and run a business that they end up pitching, that’s part of our program, they’re walking away with leadership skills, hard and soft skills that make them more marketable in the workforce, and we’ve seen significant progress in those who actually do launch a business,” Francis said in an interview with The Hoya. 
+The Pivot Program, which welcomed its fourth cohort of fellows in 2021, hopes to expand upon its programming and alumni network, according to Francis. The program is currently developing a graduate ambassadors program in an attempt to engage graduates with the fellow selection process for the next cohort, Francis said.  
+Rupert said PJI plans to use the report to measure the initiative’s progress and to expand the program’s offerings in the future. 
+“We plan to continue offering and building upon our current programs for incarcerated people and returning citizens and exploring new ways we can serve those affected by the criminal legal system,” Rupert wrote. 
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 21, 2022 by Brooke DeLucia Leave a Comment 
+John Carroll Weekend, an annual event where graduates, faculty and friends connect for tours, lectures and excursions, welcomed members of the Georgetown community in person for the first time in three years.
+This year’s John Carroll Weekend was held in Nashville, Tenn., from March 31 to April 3. The conference featured museum tours, music, awards and panels over the course of four days. The McDonough School of Business (MSB) hosted two panels highlighting Jesuit values, prominent research and ongoing programs at Georgetown.  
+The first panel, titled “Creating Pathways for Returning Citizens,” discussed the Georgetown Pivot Program, which aims to provide formerly incarcerated individuals with access to education and employment opportunities. 
+Engaging in social impact enriches Georgetown’s education efforts, according to Pietra Rivoli, panelist, Georgetown professor and co-executive director of the Pivot Program.
+“A Jesuit business school should be addressing social issues,” Rivoli wrote in an email to The Hoya. “We think that companies that are serious about DEI as well as racial justice need to engage with the criminal justice system to both access and develop the tremendous talent of those returning home. Creating employment pathways benefits both companies and communities and represents the potential for business to be a force for good.” 
+Panelist Tyrone Walker, a Pivot Program graduate and director of re-entry services for the Georgetown Prisons and Justice Initiative, said that the panel highlighted the program’s connection to Georgetown’s Jesuit values. 
+“The richness of speaking with so many alumni is an experience that I will forever hold dear,” Walker wrote in an email to The Hoya. “Our panel fit into the weekend nicely, so many alumni were engaged and surprised about some of the work Georgetown is doing for people who are currently and formerly incarcerated. The panel really highlighted the core values of the Georgetown community.”
+Having been incarcerated himself, Walker said that the weekend’s discussions about issues of social justice and incarceration were valuable for graduates.
+“This topic was chosen because people on the planet from all walks of life are being faced with family members who have been impacted by the legal system,” Walker wrote. “Most don’t know how to approach the subject and some are afraid to talk about it because of their social status so Georgetown is bringing this topic to the public and encouraging others to participate.”
+The second panel at the John Carroll Weekend, titled “Sustainability in the Built Environment,” featured panelists Matthew Cypher, professor and director of the Steers Center for Global Real Estate, and Vishal Agrawal, professor and director of the Sustainable Business Initiative. The panel included a tour of the Music City Center along with a discussion about sustainability and interdisciplinary thinking at the MSB.
+According to Lauren Apicella, the MSB’s associate director of alumni relations, the MSB chose to highlight sustainability initiatives in one of the weekend’s panels because many centers within the school focus on the environment, like the Business of Sustainability Initiative, which prepares future leaders to find business solutions that positively impact the earth.  
+The MSB showcased their commitment to the programs that are important to the school and Jesuit values at the various panels, according to Apicella.
+“Several of the JCW themes this year fit in with our work and research at McDonough, including Jesuit/Catholic Identity and Environmental Challenges and Sustainability,” Apicella wrote to The Hoya. “Georgetown’s Jesuit Values are imbued in everything we do at Georgetown McDonough, including the Georgetown Pivot Program, which provides formerly incarcerated individuals with leadership and professional development through business and entrepreneurship.”
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 21, 2022 by Eli Kales Leave a Comment 
+Chaia Tacos, a popular vegetarian and vegan taco restaurant in the Georgetown neighborhood, returned to the Georgetown University Farmers’ Market in honor of Earth Day.
+Chaia originated as a stand at the GU Farmers’ Market in 2013, workshopping ideas with students before opening its flagship store in Georgetown in 2015. Chaia’s mission aligns with sustainability, composting and reducing the consumption of red meat to protect the environment. 
+At Chaia’s pop-up stand at the GU Farmers’ Market on April 20, the restaurant offered free tacos to Georgetown students and a giveaway raffle featuring T-shirts, gift cards and a free taco experience for six guests. 
+Chaia co-founder Suzanne Simon said the farmers market stand honors the role Georgetown students play in supporting the restaurant.
+“We thought it would be a great opportunity to do a giveaway of tacos to acknowledge and appreciate all of the students who often come to us,” Simon told The Hoya. “I think you all are a group of mindful consumers. Students are such an important part of a lot of the small businesses in Georgetown.”
+In addition to Georgetown, Chaia has locations in Chinatown and Bethesda, Md. 
+The return to the GU Farmers’ Market is a full-circle moment for Chaia in terms of the restaurant’s pursuit of sustainable food options, according to Simon.
+“We started at the farmers market, and that’s how we tested our concept,” Simon said. “So coming back here feels like going back to our roots and kind of making that connection again, of the importance of not only knowing where your food comes from, but also the variety in what you’re eating.”
+Chaia was a pioneer in offering sustainable food options in the District and hopes to continue this through the help of Georgetown students, according to Juan Dromgoole, Chaia’s director of operations.
+“I do believe we were trendsetters before this was a thing in D.C.,” Dromgoole told The Hoya. “We want to be here for visibility, about trying to get the new generation of Hoyas to come to our restaurant and let them know that we are a cool, sustainable restaurant in Georgetown they can easily walk to.” 
+Chaia partners with local farmers to ensure customers’ food comes directly from organic, homegrown sources, according to the restaurant’s website. 
+Furthermore, all of the business packaging is compostable and the restaurant is dedicated to creating little to no food waste, according to Dromgoole. 
+“All of our vegetables are locally sourced, our packaging is compostable, everything we give to the customer is compostable. We really do think about using every single part of the vegetable so we create little to no waste.”
+According to Simon, the Georgetown neighborhood community allows local residents and tourists to visit and provide support for many small businesses, including Chaia.
+“Having that mix of different types of businesses within this community is really important,” Simon said. “The small businesses are often the ones that really give back the most to the community.” 
+Chaia hopes to make customers think about their meat consumption and the possibilities for sustainable eating, according to Simon.
+“You don’t always have to go to a place that has meat,” Simon said. “You can enjoy a meal that’s meatless. If everyone started to think a little bit more consciously about eating just a little less meat, then that’s a big impact we can have for the planet.” 
+Beef production accounts for between 7% and 18% of global methane emissions, with plant-based options providing an environmentally conscious alternative, according to the World Wildlife Fund. 
+Carolina Oxenstierna (SFS ’25), who got a taco at the give away at the GU Farmers’ Market, said Chaia is one of the best restaurants in Georgetown to get a healthy and sustainable meal. 
+“Chaia is vegan and vegetarian — very healthy, organic products,” Oxenstierna told The Hoya. “They’re one of my favorite places to go because it’s really healthy, and their products are sustainable, which is really important as well.”
+According to Dromgoole, Earth Day is an important time for Chaia to recognize the role it can play in promoting sustainability. 
+“We really do care about sustainability,” Dromgoole said. “Hopefully, people know the value of those little things that we do that actually take a lot of time on our end, but we do care about those things. It’s important to us to show that Earth Day is something to be celebrated, and we want to be a part of that.” 
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 21, 2022 by Samantha Sinutko Leave a Comment 
+When Odunayo Durojaye (COL ’19, LAW ’22) took her seat at Justice Ketanji Brown Jackson’s confirmation hearings, she recalled a feeling of excitement and inspiration. 
+“To sit behind Justice Jackson and close enough to see the parting in her sister locks still amazes me,” Durojaye wrote to The Hoya.  
+Durojaye attended these hearings alongside 10 other Black women enrolled at the Georgetown University Law Center (GULC). These students received invitations to attend from Jade Baker (LAW ’22), president of the Student Bar Association, based on their leadership roles in various organizations across GULC. On April 7, Jackson became the first Black woman appointed to the United States Supreme Court following a 53-47 confirmation from the U.S. Senate. 
+Achieving the highest appointed judicial spot in the country sets an example for Black women that they can do the same, according to Baker.
+“We’ve made it to the vice presidency, we made it to the Senate. We made it to be elected judges and appointed judges, and we’ve earned our way there. We’ve earned it through the people, through democracy, through election. But we never quite could get that elusive appointment, which isn’t necessarily always by merit, or by the people or by democracy,” Baker said in a phone interview with The Hoya. 
+The field of law has been historically dominated by white men, with Black women serving as fewer than 2% of federal judges in the United States, according to the Pew Research Center.  
+Katy Button (SFS ’94), Georgetown’s associate vice president for federal government relations, helped to coordinate student tickets for the hearing, which were provided by the offices of Sen. Patrick Leahy (D-Vt.) (LAW ’64), and Sen. Dick Durbin (D-Ill.) (SFS ’66, LAW ’69). 
+During the confirmation hearing Jackson was faced with baseless attacks from Republican lawmakers, including from Sen. Josh Hawley (R-Mo.) and Sen. Marsha Blackburn (R-Tenn.), that she had given lighter sentences to people convicted of child pornography and had attempted to let dangerous criminals out of prison. 
+Additionally during the hearings Sen. Ted Cruz (R-Texas) misconstrued Jackson’s role on the Board of Trustees for Georgetown Day School, a private school located in Washington, D.C., which is known for promoting inclusivity. On the board, Jackson has promoted inclusivity and anti-racism. 
+Cruz attempted to misconstrue Jackson’s work on the board as evidence that she has supported the implementation of Critical Race Theory in the curricula of the school. Board members, however, are not involved with curriculum decisions of Georgetown Day School. Furthermore, at the hearings Jackson said Critical Race Theory is unrelated to her qualifications as a judge.  
+Durojaye said Jackson’s composed response to these attacks was powerful and inspiring. 
+“When confronted with those situations, Justice Jackson reminded me to stay composed. It is at those times where people wait for the ‘angry Black woman’ to show her face, but it is at those times where the ‘calm, collected, and eloquent Black woman’ must thrive,” Durojaye wrote.
+Cheyenne Freely (LAW ’22), another student who Baker selected to attend the historic confirmation, said that the excitement and joy of other observers was infectious. 
+“It really means everything for black women attending Georgetown Law and across the country to be able to witness such a historical moment,” Freely wrote in an email to The Hoya. 
+Treanor said the moment showed the importance of representation and hopes her appointment will inspire a greater number of diverse students, particularly Black women, to pursue careers and degrees in law. 
+The opportunity to attend the hearings was inspirational, according to Lauren Short (LAW ’23). 
+“The glass ceiling applies differently to black women and her confirmation almost gave permission to black women law students to pursue every opportunity wholeheartedly,” Short wrote to The Hoya. 
+Conservatives and Republican lawmakers claimed that Jackson benefited from affirmative action because President Joe Biden promised to nominate a Black woman. Jackson is considered one of the most qualified Supreme Court picks in history serving as a Supreme Court clerk, a public defender, a district court judge, a federal appeals judge, and as a member of the US Sentencing Commission. 
+Durojaye said Jackson’s confirmation to the Supreme Court is a testament to the work of Black women everywhere.
+“For so long, institutional racism and the glass ceiling have prevented the success of Black women. But with Justice Jackson being confirmed to the bench, Black women can dream bigger and accomplish anything they want with hard work, faith, and dedication to service,” Durojaye wrote.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 21, 2022 by Bridget Sippel Leave a Comment 
+For the last 100 years, the Georgetown University Pep Band, decked out in blue and gray, has always been present at home football games and is celebrating its 100-year anniversary this year. 
+The Georgetown Pep Band celebrated its centennial year April 9, with nearly 100 current band members, graduates, athletic team representatives and members of the department of performing arts attending the formal ceremony in the Copley Formal Lounge. The centennial celebration featured speeches, performances, dinner and dancing, as well as a slideshow of photos from former members over the years.
+Planning committee member Kevin Ogeka (MSB ’24) said the team made an effort to ensure that the centennial celebration included everyone — past and present — affiliated with the pep band. 
+“The responsibilities of the planning committee was to make sure everyone new and previous felt included in the celebration of the event,” Ogeka wrote to The Hoya. “This included the decision to have a zoom option for alumni who didn’t have the opportunity to make it to still be able to witness the event and celebrate along with everyone.”
+Current pep band members honored Band Administrative Advisor Ron Lignelli, who is retiring after 37 years at Georgetown and gave an impromptu speech about his time working with the band at the ceremony.
+“I shared with them that I’m a band person at heart, and I was actually the director of this organization my first three or four years at Georgetown — this group is very close to my heart,” Lignelli told The Hoya. 
+Jenna Thomas (COL ’24), who also served on the planning committee, said the team held weekly meetings where current members volunteered to search through university archives for documents, artifacts and memorabilia related to pep band.
+“We scanned interesting and relevant docs and photos to put in the slideshow and found some amazing things such as: plans for a 1960s tour of South Asia to entertain US troops, Hoya articles from the 20s about the band’s formation and progress, and Bill Clinton’s student government ticket which listed him as a member of the Georgetown band,” Thomas wrote to The Hoya.
+At the anniversary celebration, the pep band’s own drum line led the group in singing the Georgetown fight song, while the low brass section performed student arrangements of “Hallelujah” and “Pirates of the Caribbean,” according to Alumni Relations Coordinator and Planning Committee co-Chair Domenic De Santes (COL ’23).
+De Santes said that the centennial celebration drew recognition to the pep band’s hard work and dedication in bringing school spirit to athletic games. 
+“I hope that this Centennial Celebration has inspired the current members of the band to appreciate what we do as a band and how it is connected to decades of Georgetown history and sport,” De Santes wrote to The Hoya. “I also hope to build off the momentum of the event to create a stronger alumni network to keep generations of band Hoyas connected to the band and to each other.”
+Thomas hopes to see the pep band continue to expand and instill more school spirit in the next century.
+“I hope that the band continues to provide an on-campus family for all those who decide to join, no matter how committed or casual they want to make their experience,” Thomas wrote. “Numbers are already on the rise, but I hope that the pep band can grow even more so we can continue carrying the spirit of Georgetown through music and pride at sports games and other events!”
+The pep band has grown in influence over the course of the last 100 years. While the band originally only played at Georgetown football and basketball games, they now also perform at Georgetown soccer and lacrosse games, according to Ogeka.
+Clay Volino (SFS ’22), outgoing president and planning committee co-chair alongside De Santes, said the celebration strengthened the pep band community’s bond.
+“Pep Band is about more than the numbers on the scoreboard or in the stands. It’s about the people. Our community more than anything else gives us reason to celebrate,” Volino wrote to The Hoya. “We celebrated the community that the band has built over the last century, and the ways the band has evolved and persisted during that time. I hope the band will do the same for the century to come.”
+Lignelli said his time as a member of his own undergraduate school’s band was some of the best years of his life and that the ceremony allowed alumni to reflect on the lasting relationships they made through the band.
+“That’s the great thing about the performing arts — making art is secondary to making friendships,” Lignelli said. “Those are the things that I always remember and I think the students here will treasure.”
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 21, 2022 by Andrew Mazzola Leave a Comment 
+Japanese artist Yayoi Kusama’s exhibit “One with Eternity” debuted at the Hirshhorn Museum in Washington, D.C., following a two-year delay due to the COVID-19 pandemic.
+The exhibit contains five artworks, including two of Kusama’s Infinity Mirror rooms, Kusama’s signature immersive multimedia installations. A major attraction of the exhibit is Kusama’s “My Heart is Dancing into the Universe” mirrored room, which contains giant polka-dotted balls in vibrant colors. Kusama — who has worked in the art world for nearly 70 years — is known for her use of vibrant colors and symbolic imagery of unity. The Hirshhorn has collected work from Kusama since 1996. 
+Daisy O’Brien (COL ’24), who visited the exhibit soon after it opened, said that the aesthetic of the art draws in all viewers, even those who are not typically excited about museums.
+“I would say this isn’t the stereotypical museum exhibit that opens up all around D.C. This one stands out from the rest,” O’Brien said. “I’m not really into artwork myself, but this exhibit really was fun to go to. It almost seemed like it was made to be posted on Instagram.”
+In addition to the Infinity Mirror rooms, the exhibit features paintings, sculptures and photographs from Kusama. The exhibit, which opened April 1, will be on display at the Hirshhorn through Nov. 27. 
+Hirshhorn Director Melissa Chiu said the exhibit will feature new artworks of Kusama’s that the museum just acquired in January. 
+“This highly anticipated exhibition allows us to show the impact of Kusama’s radical practice and welcome three significant works into the permanent collection,” Chiu said in a press release. “‘One with Eternity: Yayoi Kusama in the Hirshhorn Collection’ demonstrates that Kusama’s legacy extends far beyond a single body of work.” 
+Riya Dave, a student at George Washington University who also visited the exhibit, said Kusama’s artwork has a calming effect for viewers.
+“I really didn’t know what to expect coming in and tried to keep my expectations low,” Dave told The Hoya. “When I walked in, it kinda mesmerized me and almost slowed my thoughts if that makes sense. I feel like in college you get so wrapped up in searching for a job or focusing on the next assignment, but the repetition of dots just helped calm those thoughts in the back of my head.”
+The exhibit follows a 2017 exhibit at the Hirshhorn, “Yayoi Kusama: Infinity Mirrors.” This collection drew in 475,000 visitors, and marked the museum’s highest spring viewership in its history. The Hirshhorn’s 2017 Kusama exhibit rose to popularity after it blew up on social media with the exhibition hashtag #InfiniteKusama reaching over 172 million users on Twitter and Instagram. During the 2017 Kusama exhibit at the Hirshhorn, the museum received almost 58,000 pre-reserved ticket requests in the first minute of registration. 
+Because of the popularity of Kusama’s previous exhibition in 2017, the Smithsonian expects similar record-breaking attendance numbers at the museum over the next several months.
+To purchase tickets, visitors must wait in line beginning at 9:30 a.m. to receive same-day passes, which are distributed on a first-come, first-served basis. 
+O’Brien said the popularity of this year’s exhibit makes it difficult to fully enjoy the artwork. 
+“It was something I would definitely recommend,” O’Brien told The Hoya. “However, the line was sort of long, and I felt as if the museum could have had a better system because most people can’t dedicate the majority of their day to one exhibit.”
+O’Brien said that the aesthetic of the exhibit draws in all viewers, even those who are not usually into art museums.
+“I would say this isn’t the stereotypical museum exhibit that opens up all around D.C, this one stands out from the rest,” O’Brien said. “I’m not really into artwork myself but this exhibit really was fun to go to. It almost seemed like it was made to be posted on Instagram.”
+Dave said that Kusama’s artistic style overall provided a distinct and enjoyable aesthetic experience for visitors.
+“I thought it was cool how she incorporated polka dots throughout most of her work, and how you were immersed in the work rather than just staring at the typical painting on the wall,” Dave said.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+

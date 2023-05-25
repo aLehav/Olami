@@ -1,0 +1,30 @@
+
+May 3, 2017 by Jeff Cirillo Leave a Comment 
+About 14,000 Georgetown email accounts were targeted within an hour by a widespread phishing scam involving fake Google Docs invitations Wednesday, leading some students and faculty to inadvertently compromise their accounts, according to Georgetown Chief Information Officer Judd Nicholson.
+Two-thirds of Georgetown email accounts were targeted by the nationwide scam, making it the largest hacking campaign affecting the university in recent memory, according to Chief Information Security Officer Joseph Lee. Hackers successfully gained access to as many as 1 million total Gmail accounts, though a Google spokesperson said the hackers were only able to access contact information of victims, not their personal emails.
+Though it is not unusual for the university to encounter smaller phishing attempts, Lee said Wednesday’s campaign affected significantly more than past campaigns.
+“We get them all the time, and it’s not just us, every university gets them,” Lee said. “But this one is fairly unique, in that it impacted about two-thirds of the university community.”
+The scam involved emails inviting recipients to open a Google Doc, which, if opened, allowed hackers to gain access to recipients’ Google accounts. The scam replicated itself by sending the same link to users’ contacts. The emails, sent by hackers, were disguised to look as if they were sent from legitimate university email accounts — a practice known as “spoofing.”
+The scam emails were widely reported Wednesday afternoon, including at universities and major media organizations. Information technology experts said the scam was nearly impossible to detect, because it contained a real Google link and did not contain red flags, like spelling or formatting errors. In a statement posted to Twitter at 1:08 p.m., Google said it was investigating the scam and advised users not to open any unexpected Google invitations and to report any scam emails they receive.
+To shut down the campaign, Google removed the fraudulent pages and applications and disabled the responsible Google accounts. The company resolved the scam within an hour, and updated its security features after the campaign to prevent similar scams in the future.
+Lee said the university was working on steps to counter the hack and alerting affected Georgetown users when Google came out with their own fix.
+“As we were impacted, just like many other companies and universities were impacted, we were trying to figure out what steps to take and what instructions we needed to give to our university community,” Lee said. “But as soon as we started doing that, Google took its own action.”
+The purpose of the scam remains unclear. Users initially feared the hackers would be capable of accessing the victims’ emails or revoking the victim’s access to their own account by changing the password, before Google’s investigation discovered this was not the case, according to a Reddit thread discussing the scam shortly after it was discovered.
+People affected by the scam were initially advised to revoke permissions for the false Google Docs program by accessing their account security settings. Google said Wednesday evening that no further action by users was necessary.
+Nicholson said that in spite of occasional security breaches, the university email system has stronger security protections than most personal email accounts.
+“We have a multi-layered security approach for information within the university,” Nicholson said. “We have spam control, we have firewalls that offer some level of protection. We also watch the borders, to ensure that if there is some malicious traffic coming in, that we can keep it out.”
+This post has been updated.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+

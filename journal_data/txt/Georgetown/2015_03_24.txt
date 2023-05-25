@@ -1,0 +1,401 @@
+
+March 24, 2015 by Tom Garzillo Leave a Comment 
+Georgetown University Student Association President Joe Luther (COL ’16) and Vice President Connor Rohan (COL ’16) were sworn into office by former GUSA executives President Trevor Tezel (SFS ’15) and Vice President Omika Jikaria (SFS ’15) on Saturday in a ceremony held in Healy Hall.
+Chief Justice of the Constitutional Council Joshua Shinbrot (COL ’16) presided over the inauguration, which began with a speech from Jikaria, who congratulated Luther and Rohan on winning the election.
+“I would not want anyone else protecting Georgetown except Joe and Connor for the upcoming year,” Jikaria said.
+Jikaria also said that she was proud of the work she and Tezel accomplished over the past year and offered a word of advice to those working in GUSA in the future.
+“I encourage you to be mindful of the work that you do. Remember to keep things in perspective, and don’t be afraid to step outside your comfort zone,” Jikaria said.
+After Jikaria spoke, Tezel gave a farewell speech of his own.
+He began by thanking his cabinet and staff, especially Chief of Staff Katherine Key (SFS ’15), and reflecting fondly on his administration.
+“Our platform was an incubator and a sounding board based on conversations with hundreds of people we met,” Tezel said. “We wanted GUSA to be a think tank where ideas could come together, where student advocates could come together toward a common end.”
+Tezel then said that the new executives should work on bridging the gap between students and the university administration.
+“An unbridgeable divide exists between the university’s decisions and the needs of its students,” Tezel said. “How do we reconcile the elite institution we claim to be with the dilapidated state of our facilities?”
+After Tezel left the podium, Luther and Rohan were sworn in by Tezel and Jikaria, respectively.
+Luther then began his inaugural address: “Ladies, gentlemen and restless spirits haunting Healy 106.”
+He remarked on his unexpected transition from editor of the satirical magazine, The Georgetown Heckler, to GUSA chief executive and said that his administration will make GUSA accessible for more students.
+“We have a unique opportunity this year to change this culture,” Luther said. “It is our distinct desire to create a GUSA which truly represents Hoyas from all walks of life. To pull the most passionate people on campus and help them achieve their goals.”
+Luther concluded his address by stressing the importance of the upcoming 2018 Campus Plan and called on students to ensure their voices are heard by administrators.
+“Student leaders have put countless hours into this plan and we need to be sure to engage the student body in every step of the way,” Luther said. “If we engage the student body in the way Connor and I envision, then ‘Youtopia’ won’t just be a campaign promise.”
+Rohan gave the last address, in which he thanked Tezel and Jikaria for their help in the transition period and spoke candidly about his transfer to Georgetown from George Mason University in fall of 2013.
+“I was full of doubt about my ability to succeed in such a demanding environment,” Rohan said. “Coming from a university with a far less active student body and a significantly more lax atmosphere, the thought of enrolling at Georgetown was intimidating.”
+Now, as vice president, Rohan said that he looks forward to creating a more open and diverse GUSA through a highly passionate team of driven students.
+Luther and Rohan set a record for applications to the executive cabinet and staff with 123 students applying for positions. The majority of students who applied have never been a part of GUSA.
+Deliberations for the incoming positions have begun, and final decisions will be made by the end of this week. Currently, confirmed deputy chiefs of staff include Arman Ramnath (SFS ’16), Chris Fisk (COL ’17), current Advisory Neighborhood Commission Student Commissioner Reed Howard (SFS ’17), Khadijah Khan (COL ‘17), Ken Nunnenkamp (MSB ’16), Randy Puno (COL ’16) and Village A GUSA senator Annie Aleman (SFS ’16). These deputies come from four out of the five 2015 GUSA executive race campaigns, with the exception of a member of the Tim Rosenberger (COL ’16) and Reno Varghese (SFS ’16) campaign.
+Incoming Chief of Staff and GUSA senate Vice-Speaker Abbey McNaughton (COL ’16), whose executive campaign came in second to Luther and Rohan’s, said that the two will bring a cultural change to GUSA.
+“Seeing a lot of interest from different pieces of campus is really exciting,” McNaughton said. “It’s really special to see people who came from different parts of campus and even ran against each other really come together.”
+According to McNaughton, Luther and Rohan have created many new cabinet positions for their administration.
+Secretary positions have been added in areas such as sexual assault policy, mental health, recognized and unrecognized student groups, free speech and D.C. affairs.
+McNaughton echoed Luther’s emphasis on the campus plan and said that garnering student support for the campus plan petition is the administration’s first priority.
+“Their administration is really rooted in bottom-up policy,” McNaughton said. “They want their administration to be driven by individuals who are experts … I think you’ll see this in the campus plan.”
+One such member of their administration is Director of Communications Will Simons (COL ’16), who originally ran alongside McNaughton as the vice presidential candidate.
+Simons said that he has been tasked with mending the gap between the student body and GUSA, ensuring that GUSA “communicates and engages effectively.” He will work alongside incoming Press Secretary Jenna Galper (COL ’17).
+“[Luther and Rohan] have placed a huge emphasis on maintaining accessibility and transparency, which are crucial to effective communication,” Simons wrote in an email to The Hoya. “I look forward to incorporating those ideas into everything we do.”
+Simons’ first job in the administration is to inform and mobilize as many students as possible in support of the Campus Plan petition.
+One of the students working alongside Simons in the Communications Department is “Minister of Fun” Craig Levites (COL ’17).
+Levites, a Heckler editorial board member, is the only member of the paper in the administration’s immediate staff. He said that his role is to present important issues to students in a fun and engaging way.
+“Joe and Connor really want GUSA to be the campus megaphone,” Levites said. “If we can produce content that students are more responsive to, we’re enhancing GUSA’s repute as an advocacy organization above anything else.”
+Levites said that he is hopeful for the future of GUSA’s image on-campus.
+“Their most useful role is as a buffer between the administration and the students, making sure that everyone’s interest is taken into account and adequately represented during the university’s policymaking process,” Levites said. “Over the next year, I think people will finally come around to seeing GUSA as the ally that it is, not the the alienated outsider group it’s been labelled as in the past.”
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+March 24, 2015 by Xinlan Hu 1 Comment 
+An incompatibility between a newly installed security patch and SaxaNet’s existing security structure has led to difficulties with connecting to SaxaNet for hundreds of students; as more students update their Microsoft software, the problem may expand to affect a larger percentage of the student population.
+The incompatibility problem affected Windows 8.1 users after Apple and Microsoft released new security patches that conflicted with the university’s Wi-Fi infrastructure.
+According to Deputy Chief Information Officer Judd Nicholson, the problem first arose in January and will hopefully be resolved by the end of next week as University Information Services modifies the system.
+According to Nicholson, the problem will grow as students update their software, but at this point, over 100 people have been affected within a network supporting 15,000 people any one time.
+“We could have probably been more efficient,” Nicholson said. “The reason why it takes sometimes a long time is that not everyone upgrades at one time. So as more people upgrade, the problem becomes more prevalent. … It takes us a few instances to see the problem and then it takes time to resolve it with appropriate infrastructure.”
+Nicholson said that UIS is working to anticipate Microsoft and Apple patches to prevent problems like this one in the future.
+“We have a process in place so that we can be more cooperative looking,” Nicholson said. “So if Microsoft or Apple release patches, our goal is to modify the infrastructure so that it doesn’t affect the users. We do have a decision-making process in place to reconcile the issue or to fix the infrastructure once students are affected.”
+Nicholson advised affected students not to downgrade their systems, but to report to UIS to have their problems diagnosed.
+However, in a message posted on its website on Feb. 19, UIS instructed affected students to downgrade their systems by themselves.
+While Nicholson responded that the information online is incorrect, affected students were also told to downgrade their systems after they contacted UIS for help.
+In addition to receiving support from UIS, Nicholson proposed that students with trouble connecting to SaxaNet could connect to GuestNet while waiting for UIS to resolve the issue. GuestNet provides any internet user in the network radius to connect, but does not allow students to print materials or utilize a secure connection.
+Kimberly Chiguindo (MSB ’17), one of the affected students, said that her computer updated automatically and that she could not log onto SaxaNet without downgrading her system.
+“My computer updated automatically and I can’t even stop it from updating,” Chiguindo said. “They told me [to downgrade the system], but I’m not really well experienced with it and the [McDonough School of Business] Technology Center doesn’t really do it for me. I don’t want to mess around with my computer system.”
+As a result, Chiguindo could no longer use her MSB free printing privilege attached to SaxaNet.
+“I basically can’t print anymore even though part of my tuition goes into the printing,” Chiguindo said.
+Chiguindo, who resorted to using GuestNet, was disappointed by the inconvenience of the network’s poor internet connection.
+“I’m really frustrated because it takes a while for the school to get on track about it,” Chiguindo said. “And it’s really difficult to get any homework done. I feel way behind and also GuestNet doesn’t have really good reception. Since I got here, I really wish the school has better Internet.”
+According to Chiguindo, there has been no improvement in how UIS has handled recurring Internet problems.
+“Last year, the similar issue happened [and] they just said, ‘Oh well, we are just trying to figure out how to connect SaxaNet with the latest [update]. We’ll let you know.’ And that’s it. They eventually [solved the problem] two to three months later,” Chiguindo said. “So every time there’s been an update, I know that there is going to be two to three months that I will not be able to use any printing or do anything with my schoolwork at the computer that I use.”
+Students who are unaffected by the update also experienced consistent slowness and outage with SaxaNet. SaxaNet can handle 25,000 simultaneous device uses currently, and has only ever received a maximum of 14,950 uses at one time, according to UIS Communications Manager Laura Horton.
+Janelle Spira (NHS ’18), a Macintosh user, said that internet slowness is a pandemic problem.
+“I haven’t had any major problems with Windows because I have a Mac,” Spira said. “However, I have experienced difficulty with SaxaNet in the past, logging into it and getting it to actually load, which is exceedingly frustrating if you are working on an assignment late at night. It’s necessary for your internet to work.”
+In response to student complaints, Nicholson pointed out that Georgetown is actually ahead of its peer institutions with its Wi-Fi coverage. Georgetown won the Digital Edge 25 award from IDG Enterprise Media Brands, CIO in February for its digital innovation and campus connectivity. It was the only university to receive the award among a group of 25 companies in different industries.
+SaxaNet has served as the campus Wi-Fi system since late 2012, after the university upgraded from an unsecured network called HOYAS.
+“Compared to other institutions, we just now got to a point to have ubiquitous Wi-Fi across Georgetown so we are doing pretty well,” Nicholson said. “There has been a 40 percent increase in the number of people utilizing our Wi-Fi network. So even though now we have Wi-Fi everywhere, we are going back, systematically identifying areas that we need to make improvement, either in signal strength or in the capacity of the network. We are trying to do that very proactively so that we can better service all of our students.”
+
+Rentalic says 
+March 26, 2015 at 4:16 am
+This is a great post which helps the students a lot and thanks for sharing.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+March 24, 2015 by Daniel Silbert Leave a Comment 
+While questions of racial and socioeconomic diversity draw increased attention to universities around the country, ideological diversity has also undergone scrutiny. Although students have asserted a perceived liberal tilt at the McCourt School of Public Policy, administrators contested the claims.
+In a survey of more than 150,000 college freshmen conducted by the University of California in Los Angeles in fall 2014, though most students self-identify as politically middle-of-the-road, students increasingly hold liberal positions, showing stronger support for permitting gay marriage and addressing global climate change than the general populace.
+The McCourt School of Public Policy directly confronts policy issues and thus often encounters a sharp divide along ideological lines. The nonpartisan school explains that in its teaching, “ideas are not accepted simply because they fit a particular ideological agenda.”
+While McCourt School Associate Dean of Academic Affairs Mark Rom acknowledged a liberal tilt among the graduate students that he diagnosed based off anonymous clicker polling technology he uses in his courses, he did not find the tilt particularly pronounced or surprising.
+“I would say that on balance the students are more liberal than conservative,” Rom said. “This is not surprising: I think this is probably the case at most public policy programs in the United States.”
+Rom added that increasing diversity in all aspects in the student body is a priority, but noted that the applicant pool itself likely contained the ideological leaning.
+”You know I would be thrilled if more conservative students applied to come to the McCourt School,” said Rom. “But I would also be delighted if students from more different countries around the world, more educational backgrounds, more economic classes applied. In my ideal world, our panel of applicants would be as diverse as possible in every way that we would care about. But ultimately, we make our judgments based on who has applied.”
+A letter to the editor published in The Hoya on Feb. 24 by John Caddock (GRD ’16) claimed a lack of ideological diversity in the school, asserting that there are only two or three conservative students among the 120 members of the Class of 2016. However, he did not clarify how he exactly arrived at those numbers and Rom responded, saying that the liberal tilt was not as imbalanced as Caddock claimed.
+Still, Caddock urged the university to reach out to more conservative students.
+“I think this hurts the liberal students first and foremost,” Caddock said. “They throw opinions out there, but because there’s no one to challenge them, no one to push back on them, you just kind of have this almost like groupthink situation.”
+Caddock added that the McCourt student population is not representative of the conservative-led government in which many of its students will be working after graduation.
+A 2007 study by sociologists Neil Gross and Solon Simmons found that 62.2 percent of university professors throughout the country identified as liberal, while only 19.7 percent identified as conservative.
+During the 2004 election cycle, Georgetown University faculty donated over $75,000 to Democratic presidential candidate John Kerry, in comparison to $3,000 for Republican candidate George W. Bush. In 2008, Georgetown University ranked seventh among universities in donations to the campaign of Democratic candidate Barack Obama. The rankings were similar to other prominent East Coast universities, including Harvard University and Princeton University. Georgetown University Associate Vice President for Federal Relations Scott Fleming (SFS ’72) said in 2004 that the university did not consider ideology in its workforce decisions.
+“Hiring decisions, as well as rank and tenure decisions, here at Georgetown are most certainly not made on a political basis,” Fleming said (The Hoya, “Faculty Funds Favor Kerry,” Sep. 21, 2004). “Faculty are hired for their academic expertise.”
+Despite the traditional liberal leanings in the university atmosphere, Caddock thinks that the McCourt School should recruit at more conservative institutions in order to correct the self-selection problem. The majority of McCourt’s recruitment is done at recruitment and admissions fairs.
+“When you only have one student or zero students who disagree with what the professor is saying, there’s very little pushback if any,” Caddock said. “But if there are five dissenters or 10, then you have to change the way the class is run.”
+Despite his skepticism of Caddock’s numbers, Rom invited Caddock to chat after reading the letter, explaining that he would be open to taking a look at the recruiting process at more conservative schools, as Caddock suggested.
+“If we had more money to spend on recruiting, I think that would be something well worth looking into,” Rom said.
+Amir Jilani (GRD ’16) disagreed with the characterization offered by Caddock, noting divergence among the views held by students, which prompts serious policy debates.
+“This binary classification — liberal versus conservative — doesn’t entirely capture people’s sentiments, views and opinions, nor does it do justice to the diversity that exists within the student body,” Jilani wrote in an email. “In fact, rarely have I come out of a classroom here at the McCourt School thinking everyone was on the same page in terms of how to address an issue.”
+Rom added that the school remains committed to developing a diverse student body.
+“Our aspiration is that every student would feel welcomed here no matter where they’re from, what their sexual orientation is, what their political views are, what their aspirations are in terms of their career,” Rom said.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+March 24, 2015 by Patricja Okuniewska Leave a Comment 
+The Lannan Center for Poetics and Social Practice received a $4 million endowment from J. Patrick Lannan (CAS ’60) and the Lannan Foundation upon its 25th anniversary to permanently establish itself as an interdisciplinary program within the Office of the President.
+“The Lannan Center has exceeded our expectations in recent years and, speaking with Georgetown President John J. DeGioia, I realized that it could serve a more important role by reaching across disciplines,” Lannan said in a statement on the university website. “This most recent gift will establish the center as an integral part of the university community and the D.C. literary landscape.”
+Since its establishment as a program within the English department by the national Lannan Foundation in 1989, the Lannan Center has hosted a series of poetry events, projects, courses and fellowships, including its annual spring symposium. This year’s symposium, entitled “In Nature’s Wake: The Art and Politics of Environmental Crisis,” will be held from Mar. 24 to 25.
+Each year, the Lannan Center accepts a group of 15 to 25 undergraduate and graduate Lannan Fellows, who participate in a three-credit poetry and poetics course and engage with visiting poets, among them this year Fanny Howe, Ammiel Alcalay and Eileen Myles.
+Joseph Ferrara, the president’s chief of staff, expressed University President John J. DeGioia’s gratitude for the donation in a statement.
+“Georgetown has benefited from the generosity of the Lannan Foundation in significant ways since the Lannan programs were established 25 years ago,” Ferrara wrote. “President DeGioia is deeply grateful that this endowment gift will ensure that the Lannan Center will continue to serve our community as a place where students and faculty from across our campus can come together and explore the relationship between poetry, culture and current events.”
+English professor and Lannan Center Director Carolyn Forché said that the endowment will allow the center to pursue new programming and ensure that the center will continue to grow and develop in the future.
+“Lannan Foundation has generously provided annual grants for our programming. The new endowment will assure that the work of Lannan Center will continue in perpetuity on our campus,” Forché said. “Now that we are under the Office of the President, we will be extending our work and participation throughout the campus, and we welcome this engagement and what it will bring.”
+In the past years, the Lannan Center has invited numerous writers to participate in programs or events with students. Notable poets and writers who have spoken at Georgetown include Margaret Atwood, Junot Díaz and Mark Strand. English professor Mark McMorris, who often attends and helps moderate Lannan programming, emphasized the value in student-poet interaction.
+“Students are very excited to have these writers come to our campus for seminars and readings, for longer-term residencies,” McMorris said. “As a student, you not only read the books, which you might do in other classes, but you are able to talk to the writers, to meet them over dinner and at a reception, to talk about their work, about literature, culture, politics [and] the arts generally. The center is meant to bring the writers of today face-to-face with the writers of tomorrow — our own students.”
+Tim Rosenberger (COL ’16), a current Lannan Fellow, said that in addition to the speaker programming, the program is unique in its emphasis on social justice and is of great value to the Georgetown community.
+“It’s about poetics and social justice, and the way that those two things intersect— how culture can be a force for social change,” Rosenberger said. “It is a very quintessentially Georgetown program. I think it is a good opportunity for us to feel a lived value of the Jesuit beliefs our school has.”
+In addition, Forché said that the center provides opportunities for students to explore poetry in the context of social justice and activism through many different activities.
+“Students have found a home in Lannan Center for such activities as human rights and social justice work, poetry slams, creative writing and performance, engagement with community literacy programs and environmental activism,” Forché said. “Students spend hours there during the day, talking about their writing, editing magazines and reading from the small but growing library of contemporary literature.”
+The annual two-day symposium also allows participants to focus on a topic of interdisciplinary interest by inviting guests who specialize in a particular social issue, according to Forché. The donation will ensure that the center can continue to host future symposia and other programming.
+“These symposia allow our community to engage with some of the most important writers and thinkers of our time, and to converse across disciplines,” Forché said. “We hope to serve as a resource for the university and city communities, to engage the most urgent questions of our time, to bring poets, writers, thinkers and activists to our campus from across our country and from all over the world.”
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+March 24, 2015 by Emily Tu Leave a Comment 
+Georgetown University Law Center is partnering with Jesuit Refugee Service/USA to address challenges presented by the influx of immigration from Central America to the United States, which peaked in the summer of 2014 when thousands of unaccompanied children crossed the Texas border in hope of receiving protection in the United States.
+Georgetown Law will provide a range of services to the communities, including research, training and direct representation, according to Jane Aiken, the associate dean for experiential education and director of the Community Justice Project at Georgetown Law.
+“It’s a terrific thing, what’s happening across this country at Jesuit law schools,” Aiken said. “There’s an enormous amount of service around this particular issue. This coalition is a way to bring together a whole number of people who have their finger on the pulse of a lot of different communities.”
+In addition to Georgetown, the 12 other participating law schools — all part of Jesuit universities — are Boston College, Creighton University, Fordham University, Gonzaga University, Loyola University Chicago, Loyola Marymount University, Loyola University New Orleans, Saint Louis University, Santa Clara University, Seattle University, University of Detroit Mercy and University of San Francisco.
+The number of immigrants into the United States from Central America has steadily increased for the past few years. Since 2009, the number of asylum-seekers increased from 5,369 in fiscal year 2009 to 36,174 in 2013. Individuals from El Salvador, Honduras, Guatemala and Mexico accounted for 70 percent of this increase, according to a March 2014 report from the United Nations High Commissioner for Refugees.
+According to JRS/USA, the total number of unaccompanied children in the U.S. rose from 3,933 in 2011 to 51,705 in 2014.
+There has also been a marked increase in single-parent families, predominantly mothers with young children, coming to the United States. The number of individuals arriving in family units rose from 14,855 in 2013 to 68,445 in 2014.
+JRS/USA Assistant Director for Policy Giulia McPherson said that the factors driving this surge in numbers are complex, involving both push factors driving people out of their home countries and pull factors attracting people to the United States.
+“The individuals and families fleeing their countries constitute a mixed migration flow,” McPherson said. “The reasons are often complicated and have many layers to them, but many are fleeing targeted persecution in their countries. The reasons for this can be fairly complicated, including factors like economic disparities, poverty and especially organized violence.”
+48 percent of the displaced children interviewed for the UNHCR report shared experiences of how they had been personally affected by violence in their region in the form of organized crime, including drug cartels, gangs and state actors.
+The mission of JRS/USA is to identify and alleviate these and other issues surrounding refugees and other forcibly displaced persons, working with communities in over 50 countries, providing access to education, health and social services.
+McPherson added that the partnership between JRS/USA and these law schools was prompted by dialogue recognizing the shared Jesuit mission.
+“We came to the understanding that both of our institutions were involved in this work and had the Jesuit tradition in common,” McPherson said. “We thought it would be pretty powerful to collaborate by putting together this initiative. We really feel that we will be able to add to the ongoing conversation, by addressing the issues raised through the experiences and findings that these law schools are encountering in their day-to-day conversations with these individuals and families.”
+Through the partnership, JRS/USA and the Jesuit law schools will publish a paper aimed at developing policy recommendations to improve the legal environment surrounding immigrants seeking protection in the United States.
+“The purpose is searching for all the participating law schools to pull together some findings based on their first-hand experiences,” McPherson said. “How is each school engaged with migrants seeking protection, what types of individuals and families are arriving, and what are some of the stories the schools are hearing? We’re hoping to highlight some personal stories to personalize a lot of the statistics floating around in the conversation, to really humanize the issue.”
+The institutions hope to publish the paper in the next several months, which will then be disseminated to key individuals both in the White House and on Capitol Hill.
+Aiken said the partnership fits with the Jesuit tradition of welcoming the stranger and serving the community.
+“This is about social justice,” Aiken said. “There’s not a definite answer as to what’s the appropriate response, because it’s a complicated issue. But certainly compassion should inform anything that we do. And that’s something that Jesuit law schools in particular should be focused on in training students.”
+McPherson agreed and added that Catholic traditions could help in addressing these widespread issues.
+“We really see this Catholic tradition as a powerful way of moving an issue forward,” McPherson added. “This issue has unfortunately fallen from the headlines in many ways, and we hope that by coming together in a unique way we can help to remedy some of these pressing issues.”
+McPherson also highlighted Georgetown Law Dean William Treanor’s role in the process of the partnership.
+“We’re really looking forward to working with all of these law schools, and with Georgetown in particular, Dean Treanor was really critical in terms of pulling together all of the other participating law schools,” McPherson said. “Without that leadership, I don’t think we could have gotten this far.”
+Treanor echoed McPherson’s optimism about the partnership in a press release.
+“We are honored to join our fellow law schools in working with JRS/USA to help raise awareness of the plight faced by these vulnerable migrant children and families,” Treanor said. “Our Jesuit identity is reflected in our commitment to this critical issue.”
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+March 24, 2015 by Andrew Wallender Leave a Comment 
+As part of the 2016 Georgetown University Student Association Budget approved by the senate after contentious debate Sunday evening, unrecognized student groups will receive on-campus storage space, club sports will receive funding for a full-time athletic trainer for a year and the Georgetown Program Board will face $14,000 in funding cuts.
+The allocation is an approximate $11,250 increase from last year’s allocation, and GUSA President Joe Luther (COL ’16) will act on the budget next week.
+The funding of an approximately $2,200 storage cage in Regents Hall for unrecognized student groups was the most contentious item of the more than $1 million budget, raising back-and-forth debate between members of the Finance and Appropriations Committee and GUSA senators in a nearly two-and-a-half hour meeting.
+“I knew this [storage space] was something that a lot of senators were passionate about, but the room got a little more heated than I expected it to get,” Finance and Appropriations Committee Chair Robert Shepherd (MSB ’15) said.
+Although not on the original budget, an amendment funded the storage space with $600 taken from the executive budget, $500 donated from the stipends of GUSA Executive Officer Ryan Giarusso (SFS ’17) and Deputy Executive Officer Leyla Izquierdo (COL ’18) and a matching $1,100 donation from Students of Georgetown, Inc.
+The Corp did not respond to requests for comment regarding their donation.
+“We see this as a large step forward for unrecognized groups, and we’re very excited that we can play such a large role in it,” Luther said.
+Former GUSA President Trevor Tezel (SFS ’15) and Vice President Omika Jikaria (SFS ’15) originally promised the storage space in November 2014, but it was not included in the proposed budget that went to a vote Sunday.
+Eleven members of the public — including members of Sigma Alpha Epsilon, Sigma Phi Epsilon, H*yas for Choice, GU Fossil Free and Cups for Campus — sat in on the meeting to voice their concern about the lack of funding for the storage space, which will measure 10 feet by 10 feet, and be shared by various unrecognized student groups. They participated in a long debate with Fin/App and senators over the storage space, which was dubbed the “Regents Cage.”
+H*yas for Choice President Abby Grace (SFS ’16) said that students who are members of unrecognized student groups pay the tuition-included student activities fee, which funds the GUSA Budget, just like members of recognized student groups.
+“Especially considering that a large portion of our operating costs are funded by GUSA Fund in incidences like our table being lost over the summer or our banners being misplaced or having to store tens and dozens of boxes of condoms, numbering into the thousands of condoms total in our own person space, it’s just not really feasible for GUSA Fund to keep paying these costs that could be avoided for things that are lost,” Grace said.
+Luther and Vice President Connor Rohan (COL ’16), sworn into the executive office Saturday, faced direct and indirect criticism during the meeting for being inexperienced with budgetary matters.
+“When [the storage space is] the one thing the executive comments on when they’re talking about the budget, the one issue that people are concerned about, that’s a major problem,” Shepherd said. “So keep that in mind throughout the coming year. Executive, I know you’re not experienced with GUSA. You obviously have a lot more learning to do. So keep that mind.”
+Following the meeting, Shepherd clarified his position and said that Luther and Rohan have a lot to offer GUSA through their energy and ideas.
+“I think it’s great that [Luther and Rohan] are bringing a lot of experienced people on their team to help them out,” Shepherd said. “So, I’m hoping that as a team they’re going to be really successful.”
+The 2016 budget also included a one-time allocation of $53,515 for the salary of the Advisory Board for Club Sports athletic trainer. The Advisory Board for Club Sports previously funded a part-time trainer, Katharine Gray, since March 2014 out of their own budget, but Gray only worked with the seven highest-risk sports teams. These teams — include boxing, men’s hockey, men’s lacrosse, men’s rugby, women’s rugby, men’s soccer and women’s soccer — include over 300 athletes.
+With funding from the Fin/App budget, Gray will be able to service the other 24 sports teams, consisting of over 700 additional students. The budget stated that the funds were a one-time allocation meant to hire a trainer, while efforts continue to encourage the university to fund the trainer.
+GUSA Vice-Speaker Abbey McNaughton (COL ’16) said during the meeting that GUSA should not have to pay for the club trainer.
+“Right now we are debating why we are still paying for the trainer when ABCS, club sports, Fin/App, and GUSA-at-Large had a year to find payment for a university staff member who in no way should be paid by the Fin/App committee and somebody who is important for the safety of students,” McNaughton said.
+The decreased budget allocation to GPB — $14,000 short of last year’s allocation — might threaten the group’s programming, such as the spring concert it organizes. But the Fin/App committee expressed optimism that GBP would be able to continue its operations without too much setback.
+“The committee believes that with smart leadership, partnerships with other organizations and funding boards, and shrewd planning and negotiation, GPB can continue to provide the low-cost, high-quality programming that it is known for despite these budget cuts,” GPB Fin/App Liaison Peter Cohen (COL ’15) wrote in the budget proposal sent to members of the senate.
+“The cuts that we would take this year would really impact us and cripple the programming that we do,” GPB member Thomas De Bow (COL ‘15) said.
+The budget did not fund any capital improvement projects, though there were requests for improving spaces such as Poulton Hall and the Walsh Black Box theater. The Performing Arts Advisory Council did see a slight increase in its funding for safety improvements that were considered non-capital safety projects.
+“During our initial deliberations, we stuck to our principle that we’re funding activities, and we’re not funding space improvement projects,” Shepherd said. “The university should be funding those.”
+The Media Board received $5,000 less than last year, receiving $55,000 overall in the 2016 budget.
+“I am delighted at the way the budget worked out,” GUSA Speaker Tyler Bridge (COL ’17) said. “Though democracy today was messy, the right thing happened in the end.”
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+March 24, 2015 by Kshithij Shrinath Leave a Comment 
+Federal financial aid for college students has been slashed in proposed budget resolutions released by both the Senate and the House of Representatives last week.
+The House resolution, which is more “defined,” according to Georgetown University Associate Vice President for Federal Relations Scott Fleming (SFS ’72), freezes the maximum Pell Grant for the next 10 years, removes the in-college interest rate subsidy and eliminates the Public Service Loan Forgiveness program.
+According to Fleming, Pell Grants covered 77 percent of the tuition of public four-year institutions in 1990 but only covered 34 percent of that tuition in 2012. This year, 951 Georgetown students receive Pell Grant funding, but Fleming said that a 10-year freeze would further reduce their assistance.
+“As tuitions go up over 10 years, this is going to make that [aid] even less,” Fleming said. “Those students are going to be negatively impacted if this goes into place.”
+The budget also proposes cutting the subsidy that ensures that undergraduate students pay no interest on their loans while they are still in college. If a student borrowed $23,000 over four years, the maximum amount currently allowed, the removal of the subsidy would add $3,000 to the total, as they would now have to add the interest rate of 3.86 percent that had accrued over their time in college. The average subsidized loan total for Georgetown students that receive aid is approximately $17,500, lower than the maximum amount, according to Fleming.
+Another worry that Fleming outlined was the dissolution of the Public Service Loan Forgiveness program, which absolves all outstanding student loans for any person who has been in public service – defined as either government or non-profit work – for 10 years. President Barack Obama also proposed capping the program in his Student Aid Bill of Rights released March 10.
+“If the federal workforce wants to recruit a talented, well-educated workforce, it strikes me as short-sighted to take away a benefit that’s out there for [students],” Fleming said. “They have the view that if you allow loan forgiveness, institutions won’t be worried about what they charge in tuition. … That strikes me as rather disingenuous.”
+Fleming urged students to get involved by contacting their members of Congress, noting the impact of the policies on all students, not just those using federal loans.
+“Even if you’re a student who doesn’t get a Pell grant or use a subsidized student loan, this has an impact on students everywhere,” Fleming said. “We are a need-blind, full-need institution, and we do not intend to deviate from that policy. Were some of these things to happen, it would require juggling university budgets so that we could remain a need-blind, full-need institution.”
+The budget resolutions are not final documents and do not need to be signed by the President. Instead, they provide a framework for discussions about the budget and the appropriations process throughout the year.
+While Fleming said the resolution will likely pass the House because of the strong Republican advantage, he predicted that it will see a more difficult fight in the Senate. Even if the resolutions do not pass, however, he noted that the ideas of cutting student aid funding could reappear later in the year, particularly with the reauthorization of the Higher Education Act set for September.
+The House will vote on the resolution Thursday, while the Senate will vote Friday.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+March 24, 2015 by Patricja Okuniewska Leave a Comment 
+TerraCycle, a collection program that recycles complex materials, has expanded its presence to all freshman dorms and the Healey Family Student Center since it was established by the Georgetown University Student Association Senate Sustainability Subcommittee last year.
+The project, which recycles items that cannot be processed by normal waste streams, is geared towards the needs of college students, collecting items used often by Georgetown students such as Brita filters, ink cartridges and cosmetic packaging. The first location for a Terracycle bin was in the Leavey Center, but the expansion allows students to more easily access drop-off sites.
+The sustainability subcommittee first partnered with TerraCycle, a company based out of Trenton, N.J., to begin the project in February 2014.
+When the project first began, sustainability subcommittee member Samantha Lee (COL ’17) and other senators worked with Students of Georgetown, Inc. to place their first set of recycling bins outside of Vital Vittles.
+“Last year, a few senators and I thought it would be beneficial to start a collection at Georgetown. We worked with the Office of Sustainability to get collection bins. We worked with The Corp to get a location outside of Vital Vittles,” Lee said. “Over the past year, we have expanded our collection. We have a new location in the Hilltoss. We have also added four new locations in each of the four freshmen dorms. We are trying to reach people where they will actually be throwing away these items.”
+Lee, who led the project, explained that the TerraCycle program is highly adapted to community engagement.
+“TerraCycle set up programs, which they call brigades, and each brigade collects for one specific waste stream,” Lee said. “Their model is based off community involvement, so a school, church or any other community organization can sign up for a brigade and collect for that specific waste stream. They then ship out all the waste that they have collected, which gets recycled.”
+TerraCycle has also continued to gain interest from other students in GUSA since its inception. Sustainability subcommittee member Theodore Montgomery (SFS ’18), who joined the subcommittee this year, said that he hopes to expand the program by focusing on freshmen.
+“The project started last year but rolled out this year in a more comprehensive way. The reason why we focused on freshman dorms specifically is that we want to build awareness around the program and establish and institutionalize it,” Montgomery said. “The best way to do that is to get freshmen involved, as they will be here for four more years. We put our efforts where they would be most effective.”
+TerraCycle has also received support from the Office of Sustainability, which provided resources and roused publicity.
+Office of Sustainability Director Audrey Stewart expressed her continuous support of the partnership.
+“The TerraCycle initiative has truly been student-led, and the Office of Sustainability has been happy to serve as an advisor,” Stewart said. “The initiative contributes to [the university’s] sustainability strategies, both through waste reduction impacts and through providing a great opportunity for members of the campus community to engage with sustainability by making a conscious effort to recycle a wider range of materials. We look forward to learning more about what types of outcomes the program is achieving.”
+Other than the funds required for publicity, the subcommittee has not required any other funding. Shipping the items is free at the end of the year, and the program uses recycled boxes that are collected from students for this shipping.
+However, the project raises money, as each recycled item is worth one to two cents. Lee expressed her desire to use the money raised for a sustainability project in the future.
+“I think TerraCycle is important because not many students know what to do with unusual waste items on campus, and the systems that are in place don’t really function. They are either not there, or it is hard to find out about them,” Lee said. “We want to bring to attention that this is an easy way to recycle these items. We are hoping to use the money we raise in the future to reinvest on campus in some sort of sustainability project.”
+Furthermore, Lee expressed the program’s plans to begin working with other organizations on campus to expand the scope of items recycled and people involved.
+“We are also looking into new programs, such as working with The Office of Facilities Management to collect and recycle cigarette butts, Hoya Kids to collect children-related items and the [Riggs] Bioethics Library to work with binders,” Lee said.
+Executive member of the subcommittee Caroline James (COL ’16) shared Lee’s sentiments about the improvements that need to be made to the university’s recycling system.
+“The Georgetown recycling program is developing, but it definitely still has its imperfections. Not just specific to Georgetown, but there are lots of things in our society that we do not really know how to deal with in terms of waste, whereas other societies have found creative ways to make a market for products like this,” James said. “It’s important for people to be assessing these various things that they are throwing away. … Groups like TerraCycle are trying to work with these specific companies, so there are things we can do with this unconventional waste.”
+James also stressed the importance of the program’s goal to raise awareness about how unconventional items can be recycled items, as well as the desire to institutionalize the program within the university.
+“I would love for more people to know about it. I think we’ve chosen the brigade based on the needs of Georgetown students,” James said. “Our job is to make sure that people know about it. We know that there is a demand for an ability to recycle them especially because these complex items happen to have a big environmental impact. Dealing with nonconventional waste is a very important part of waste management, and so I really hope we can get more people to know about this option.”
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+March 24, 2015 by Margaret Heftler Leave a Comment 
+The Hazing Prevention and Education Committee recently launched a website entitled “Stop Hazing” to provide educational resources on hazing incidents to the community and a reporting system for students to share information on hazing-related incidents on campus.
+In a campus-wide email sent last week, Vice President for Student Affairs Todd Olson said that student groups that conduct hazing practices may be subject to disciplinary action.
+“I want to remind you that all Georgetown students are responsible for knowing and complying with our Code of Student Conduct, and for treating others with respect and care. Hazing is a violation of our policies and a betrayal of our values. Please know that any student engaging in hazing behaviors is subject to serious sanctions,” Olson wrote.
+According to Office of Student Conduct Associate Director Adam Fountaine, the committee launched the website in response to recent events regarding hazing on other university campuses in the country, as opposed to any specific hazing incidents at Georgetown. Fraternity chapters at universities such as the University of Houston, University of Michigan and Pennsylvania State University have been subject to police investigation after hazing allegations came to light.
+“We recognized that concerns about hazing have increasingly become part of a national conversation around student health and safety on college campuses. By establishing a clear policy and targeted education, we believe that we will be able to proactively contribute to this conversation on our own campus by discussing ways to welcome new members into student organizations and teams with approaches that are safe and in alignment with our Jesuit values,” Fountaine wrote in an email.
+Fountaine also said that hazing activities can be defined as those that are unproductive, unsafe, excessive and demeaning to the participant, and that pose a risk to the student’s physical, psychological or emotional well-being.
+Additionally, Chief of the Georgetown Police Department Jay Gruber said that he has not received any complaints related to hazing during his three years on campus.
+“I’ve been here close to three years and in the time that I’ve been here, we have not had an incident report regarding hazing that I’m aware of so it just hasn’t come to the attention of the Department of Public Safety,” Gruber said.
+However, despite claims from the administration that there have not been reported hazing incidents at Georgetown, various students have been aware of incidents that might be defined as hazing in both recognized student groups as well as those without access to benefits.
+One member of a fraternity at Georgetown, who wishes to remain anonymous, said that the hazing process in his fraternity ensures that a sense of hierarchy is maintained.
+“We have to make sure that the freshmen respect the upperclassmen, and some of them come into school with a cocky attitude, and one was literally yelling at senior. … So we make sure that they show respect and learn the tradition,” he said.
+While he could not go into detail about events that occurred in the pledging process, he stated that hazing at Georgetown is tamer than at other schools.
+“We aren’t going to make anyone do anything that they don’t want to do, like if someone refused to do something they could just tell their big [brother] that they don’t want to do it or are uncomfortable and we’d be alright with it,” he said. “They wouldn’t be kicked out or anything …. but there still is pressure. It’s not as bad at Georgetown because kids are really afraid of the administration.”
+Other student groups denied incidents of hazing its new members.
+President of the men’s rugby team Ken O’Brien (COL ’16) said that new members earn their respect through their performance in the sport rather than in the hazing process.
+“No, hazing does not occur on the club rugby team,” O’Brien said. “Rugby is a tough sport to learn and succeed in. Hard work on the field earns teammates’ respect and is more than enough to earn a spot on the team.”
+Georgetown University Alumni and Student Federal Credit Union Chief Communications Officer Sarah Petuck (COL ’16) also denied that hazing occurs in their organization.
+“GUASFCU is fully supportive of the university’s strengthened stance prohibiting hazing and related offenses on campus. Georgetown’s spirit of men and women for others unites Hoyas — past, present and future — and no individual should ever be made to feel unsafe or unwelcome on the Hilltop,” Petuck wrote in an email.
+Members of Sigma Alpha Epsilon, Alpha Epsilon Pi, as well as representatives from Club Lacrosse and Club Ultimate Frisbee did not respond to requests for comment.
+After students report a hazing incident on the website, members of the committee will follow up with the student who filed the report.
+While students can make reports anonymously, Olson said that anonymity is less helpful in efforts to prevent hazing on campus.
+“We know we may also get some anonymous reports and in those cases, that’s good information to have and we may be able to still follow up in some way,” Olson said. “But depending on how much [information] we have … it may limit the steps we can take as well.”
+Olson also stressed that the university will respond to complaints regarding both recognized student groups and groups without access to benefits equally.
+“We know that this can happen in student groups that have access to benefits and it can happen in student groups that don’t have access to benefits. What is very clear to us is that our students are subject to the Code of Student Conduct in their behavior on campus and off campus in the local area and so we would follow up to the best of our ability with the students who were involved if this happened,” Olson said.
+In terms of future efforts for hazing prevention at Georgetown, Olson said that the committee is considering possible education initiatives to raise awareness about hazing incidents.
+“I think that a logical next step would be to have speakers, programs and workshops on campus that address these issues,” Olson said.
+Olson said that he hopes these educational efforts would help to spark a conversation on campus about the issue.
+“It’s just something we want to make sure our students were aware of this and we wanted this to be an effort to be ahead of the issue … and just to remind students about these issues, to put them in the front of mind for people,” Olson said.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+March 24, 2015 by Emma Rizk Leave a Comment 
+Leaders and experts in the nonprofit and education sectors in Washington, D.C. discussed the persistent state of poverty in the District, as well as strategies to break the poverty cycle, in an event hosted by the McCourt School of Public Policy and the Center for Public and Nonprofit Leadership last Friday in Lorhfink Auditorium.
+The event, titled “The War on Poverty: Then, Now & The Future,” aimed to situate the discussion within its historical context, develop a shared understanding of the current state of poverty, identify current and future challenges and opportunities to assure economic security for all citizens and to promote action through the discussion of latest innovations in combatting poverty.
+James Gibson, a senior fellow-in-residence at the Center for the Study of Social Policy, moderated the panel and began by thanking the young people in the audience, whom he believes will be active in solving the problem of poverty.
+“You will end up carrying forward whatever remnants the rest of us will leave, and you will have to make the corrections we couldn’t,” Gibson said.
+History and music professor Maurice Jackson said that the current poverty rate has significantly increased from previous decades.
+“In 1959 the poverty rate in D.C. was 22.4 percent… In 1969 the poverty rate was 17 percent,” Jackson said. “How can you explain that poverty is worse now than it was in 1959?”
+D.C. Fiscal Poverty Institute Executive Director Ed Lazere said that some government programs are effective in tackling poverty, citing the growth of programs such as Medicaid, Medicare and the success of earned income tax credit and food stamps.
+“Right now, our safety net lifts about half of everybody who would otherwise be poor out of poverty each year,” Lazere said.
+According to Lazere, D.C. has one of the highest minimum wages in the country at $9.50, and its healthcare programs cover one in three residents in addition to recently adopting paid sick leave.
+However, Lazere said that income disparity is a worrying issue in D.C., which has one of the highest wealth gaps among major cities in the country.
+“All we’ve known is growing income inequality, so much so that we take it for granted,” Lazere said. “The figures are especially stark here in Washington, where at the bottom of the income scale, average incomes are about $10,000 each year, while in the top percent, average incomes are over half a million dollars each year.”
+Lazere said that this income disparity is driven by an economy that is not producing jobs and an unequal recovery from the recession.
+“For workers who don’t have an advanced education, in many ways, the recession is still here,” Lazere said. “One out of three D.C. residents without a college degree is either unemployed, underemployed, meaning they would like to work more hours than they do, or so discouraged from looking for a job that they have just given up.”
+Lazere then addressed the housing crisis, a fundamental challenge that continues to worsen in Washington. The combination of stagnant incomes and rising costs continues to make housing unaffordable.
+“Just last week, the D.C. Fiscal Policy Institute put out a report, and our conclusion is that there really is no low cost housing anymore in the private market in the city and that the only affordable housing we have left is housing that has some form of subsidy attached to it,” Lazere said.
+Lazere concluded by expressing hope in Mayor Muriel Bowser’s commitment to addressing the issue of homelessness, which is a result of rising housing costs.
+“In two weeks, the mayor is going to put out her budget, and she’s been very clear that that budget will include a substantial increase in funding for the housing trust fund, which helps build affordable housing, and that it will include plans to replace the D.C. general shelter,” Lazere said.
+Leonard D. Schaeffer Chair in Health Policy Studies Alice Rivlin reflected on the war on poverty as one full of hope and naivety.
+“The preponderance of the new folks in the city are higher income and white…and that is often seen as a bad thing for low income people,” Rivlin said. “It’s not if we do it right. This is a chance to rebuild our tax base and our school system.”
+Rivlin suggested that policymakers should focus on connecting young people to jobs in the city and preserving affordable housing, especially in areas of gentrification. .
+“This is a growing region with plenty of jobs, but they are jobs that take more skill than the lower income population has, and we have lots of effort on this front to do job training,” Rivlin said. “Unfortunately a lot of it hasn’t been effective.”
+Bread for the City Chief Executive Officer George Jones discussed poverty through the lens of racial inequality. Bread for the City is a nonprofit organization that provides free food, clothing, legal, medical and social services for D.C. families living in poverty.
+“It’s a complicated conversation,” Jones said. “The real answer is how to help people who live here in poverty to be a part of the conversation…these folks want to talk about how race matters in their lives.”
+Health Promotion Manager at Mary’s Center for Maternal and Child Care, Inc. Rosa Goyes said that D.C.’s minimum wage does not support families.
+“Consider Maslow’s hierarchy of needs. How do we expect people to move up the pyramid to self-actualization if we do not pay for people to barely cover their basic psychological needs such as rent, healthcare and food?” Goyes asked.
+President of the Eugene and Agnes E. Meyer Foundation Nicky Goren said that there is a lack of cooperation between the government, nonprofit organizations, educational institutions and the business sector in the war on poverty.
+“We’re not really truly and genuinely making a commitment to working together,” Goren said. “It’s individual organizations from individual sectors deciding individually what needs to happen…but many of these conversations about all these programs are often happening without everybody who is relevant to the conversation at the table.”
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+

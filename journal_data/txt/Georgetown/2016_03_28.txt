@@ -1,0 +1,26 @@
+
+March 28, 2016 by Aly Pachter Leave a Comment 
+An unknown party hacked major hospital chain MedStar Health Inc. on Monday morning, affecting operations at various Washington hospitals and doctors’ offices.
+The FBI is currently investigating whether the attack is a ransom attempt to extort money in exchange for restoration of the system.
+MedStar is a $5 billion healthcare provider, located mainly in the Washington area. It operates 10 hospitals in Maryland and Washington, including MedStar Georgetown University Hospital.
+The virus affected thousands of patients and physicians, preventing users from logging into the computer system and forcing many locations to resort to back-up systems and paper transactions. Patients were unable to book appointments and employees were locked out of their accounts.
+According to ABC News, employees at MedStar Georgetown were unable to access electronic medical records, online schedules and email accounts all day.
+In a statement released Monday afternoon, MedStar said that it temporarily shut down its network to prevent the virus from spreading further. As of press time, the shutdown is still in effect.
+“MedStar acted quickly with a decision to take down all system interfaces to prevent the virus from spreading throughout the organizations,” the statement said. “We are working with our IT and Cyber-security partners to fully assess and address the situation.”
+The statement also reported that there is no evidence patient information had been stolen and that all clinical facilities remained open and functioning.
+According to the U.S. Department of Health and Human Services, 11 of the 49 security breaches regarding unsecured health information investigated so far in 2016 have been related to hacking incidents.
+This story will be updated as more information becomes available.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+

@@ -1,0 +1,425 @@
+
+April 23, 2010 by Kendra Jones Leave a Comment 
+On Tuesday, April 20, the D.C. Council unanimously voted for the legalization of marijuana for medicinal purposes. Patients suffering from HIV, glaucoma, cancer and other chronic and lasting illnesses are one step closer to being able to obtain two ounces of marijuana per month with a doctor’s recommendation.
+The legislation to legalize medical marijuana will be voted on for a second time by the D.C. Council next month. If the Council passes it during this vote, the legislation will then pass to Congress for a 30-day passive review period.
+If the legislation passes these steps, although patients will not be able to personally grow their own marijuana, they will be able to purchase it from licensed vendors that will be regulated by the District Department of Health. The bill authorizes five distribution centers located throughout D.C., which will be able to distribute marijuana upon passage of the legislation, and three more will likely be added within the next few years. Each distribution center would be limited to growing 95 plants. There is worry that the small number of vendors in D.C. would not be able to meet the demand of patients in the area.
+Despite these concerns, the news of the Council’s vote was received with excitement on Georgetown’s campus by members of the student organization Hoyas for Liberty, a libertarian group on campus in favor of the legalization of marijuana. Hoyas for Liberty member Preston Mui (COL ’13) expressed his approval for the vote.
+“It’s a great step forward for individual freedom and liberty,” Mui said. “I think it’s a small step forward, but it is definitely a step in the right direction.”
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 23, 2010 by Yuse Lajiminmuhip Leave a Comment 
+Despite widespread buzz surrounding the iPad, Apple’s latest release, several universities across the nation have reported issues with the new device and campus wireless networks.
+Although only a handful of the devices have made their way to college campuses, certain actions by the user may cause a hiccup in the iPad’s dynamic host configuration protocol capability of requesting a new temporary IP address from the network. If the device is unable to request a new temporary IP address, the device will continue to use the old IP address, which has the potential to cause problems for others on the network. To avoid larger network issues, most configured systems block the device after several DHCP malfunctions.
+Princeton University was one of the first campuses to identify and report the issue to Apple. Princeton discovered the problem one day after the first iPad connected onto the campus network and has since written a detailed report describing the issue. Princeton has also written a workaround code for users until Apple develops a permanent solution.
+The George Washington University’s wireless does not allow iPads to connect to its network according to the GW Hatchet.
+Other campuses have not experienced DHCP issues. Cornell University reported no bandwidth problems with the iPad, according to the Cornell Daily Sun.
+According to estimates by Chitka.com, over 900,000 Apple iPad devices have been sold in the United States. Universities report that only a small fraction of those units has found its way onto college campuses, however. Princeton reported 42 iPads on its network, while Cornell estimated between 70 to 80 iPads were in use on its campus.
+The current number of iPads at Georgetown is unknown, and University Information Services was unavailable to comment. During a Georgetown University Medical Center Department Technology Representatives meeting on March 11, however, according to notes from the March 11 Georgetown University Medical Center and Department Technology Representatives meeting, Dahlgren Library is planning to purchase a small number of Apple iPads for testing.
+One Georgetown iPad user, sociology professor Christine Schiwietz, has not experienced any problems with her 32-gigabyte Wi-Fi model.
+“If I had to boil it [overall impression] down to one word it would be enjoyable,” Schiwietz said.
+“I think the iPad will be an enormous hit involving the communication or collaboration of people – both for personal and professional use,” Schiwietz added. “For example, in giving casual one-on-one type presentations, you can easily pass it around and the presentation becomes animated and alive.”
+Patrick Swiber (COL ’13) said his iPad has wireless Internet access everywhere on campus in all campus areas that normally have access. He added that he thinks the product will improve as more apps are introduced.
+“It’s going to get better and better with time,” Swiber said.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 23, 2010 by Jeff Cangialosi Leave a Comment 
+On Tuesday, Rep. Steny Hoyer (D-Md.) announced that it was unlikely a bill providing the District with a voting member in the House of Representatives would be introduced as expected to Congress on Thursday, adding that the legislation may not reach the House floor before the end of the current Congressional session.
+Hoyer’s remarks came as a surprise to many who expected to see the House of Representatives vote on the D.C. Voting Rights Act this week. Del. Eleanor Holmes Norton (D-D.C.) requested that Hoyer abandon the legislation because of a controversial amendment attached to the bill that would alter gun-control laws in the District.
+“I am profoundly disappointed that [the House] will not be considering legislation to give the 600,000 Americans who live in the District of Columbia what their 300 million fellow citizens have: a voting Representative in the House of Representatives,” Hoyer said.
+The bill intended to provide Utah with a fifth representative along with the one for D.C.
+The bill was delayed in coming to the floor of the House because of the addition of the Ensign Amendment to the bill which would reduce firearm restrictions in the District if passed.
+Norton had originally supported the voting rights bill, but upon reviewing further changes to the gun laws amendment proposed by Rep. Travis Childers (D-Miss.) and Rep. Mark Souder (R-Ind.) she requested that it not be introduced in the House.
+Although Norton acknowledged in her statement Tuesday that a voting rights bill with a gun laws amendment might have been the District’s best chance of getting the bill passed, she was unwilling to justify the tradeoff after reviewing the latest changes to the gun amendment.
+In a statement Tuesday, D.C. Councilmember Michael Brown (I-At-large) approved of Norton’s request not to introduce the bill.
+“The attached gun amendment is a deadly and hypocritical maneuver that would gut the District’s current, locally imposed gun control laws, and strip us of our authority to legislate our own gun laws,” said Brown.
+Geoffrey Bible, the chairman of the College Republicans, said that unlike Norton and Brown, the Georgetown University College Republicans had supported the change to the District’s gun laws, but that given the Council’s hostility to this amendment, they also approved of the House’s decision to drop the bill.
+“The GUCR believes that the bill that was just dropped by the Democratic leadership deserved to be dropped since the Democrats refuse to accept it with the amendment removing D.C.’s ridiculous gun laws,” Bible said.
+Bryan Woll (COL ’12), the president of the Georgetown University College Democrats, expressed sadness at the sudden turn of events.
+“It’s extremely disappointing that it appears that D.C. will not gain equal congressional representation this year,” Woll said.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 23, 2010 by Christine Roberts Leave a Comment 
+As the administration begins to review the Diversity Initiative’s recommendations, University Provost James O’Donnell said he hopes to see changes in curriculum, faculty recruitment and admission by the middle of next year.
+“It has been a valuable year in which to have these conversations going on,” O’Donnell said.
+The initiative, created by University President John J. DeGioia in April 2009 and co-chaired by O’Donnell and Rosemary Kilkenny, vice president for institutional diversity and equity, is focused on improving the overall university experience of underrepresented students. The initiative established three working groups to look at how the university can improve in areas of admissions and recruitment, academics and student life.
+“At the end of the day, the business is to help Georgetown live up to its own best image of itself,” O’Donnell said. “What we hope [the initiative] does is bring us to a higher level of awareness and effectiveness in what we do; the initiative ends, but the results and work continue.”
+The three working groups began to meet last summer and worked through this year to develop proposals addressing key issues. The working group on admissions and recruitment submitted its proposal at the end of last semester.
+O’Donnell said that both he and DeGioia have accepted the admissions working group’s recommendations and are working to institute them. The working group recommended the creation of an Advisory Group to the Dean of Undergraduate Admissions, composed of students, faculty and staff. This group has already begun to discuss admissions strategies.
+The admissions working group recommendations come as the university begins to design its next financial campaign. About one-third of the next financial campaign will go toward money for financial aid, according to O’Donnell.
+“This makes it more possible for us to recruit more aggressively and more competitively,” O’Donnell said.
+Co-chair of the admissions and recruitment working group Ryan Wilson (COL ’12) said that while he believes that his group made solid recommendations, there is still a great deal of progress to be made.
+“When we get to the academic working group, that’s where I start to see a couple of challenges,” Wilson said. “I think the recommendations we outlined are very weak and don’t really address the issues.”
+The working group on academics first presented its draft of proposals to the Georgetown community on April 5, with a second town hall meeting on April 14. The group recommended that the university institute a diversity requirement within its general education requirement and recruit more diverse faculty. The group also recommended that the university create an African-American studies major and programs in Asian-American and Latin-American studies.
+Stephanie Frenel (SFS ’12), co-chair of the Academic Working Group, said that the town hall meetings have been productive.
+“I think the town hall meetings made a decent amount of progress,” Frenel said. “It gave the faculty a chance to see that a significant amount of the student body is invested in these issues and either supports the ideas of the Diversity Initiative or are at least interested.”
+Frenel added that the group was considering presenting a report that would outline what students really would like to see from the Academic Working Group.
+O’Donnell said that it is too early to say what the diversity curriculum requirement would be and when it would be implemented, should it be accepted.
+“The diversity requirement has attracted the most lively discussion in the last few weeks,” O’Donnell said. “There is more work to be done.”
+O’Donnell said that because issues of curriculum are so complicated, the working group for academics has seen the slowest progress in developing its proposal.
+“Here is where enthusiasm and academic time run up against each other,” O’Donnell said. “Other issues of curriculum and general education requirements are complicated, and there are other things people are interested in seeing us advance and do. It is going to take some time.”
+O’Donnell also said that the major in African-American studies and the programs in Asian-American and Latin-American studies may be limited by a lack of funding.
+O’Donnell said that he believes the draft of the Academic Working Group’s proposal will likely be revised due to student response. In particular, many students took issue with how the group defined diversity.
+“There was a discussion over whether and how the definition of diversity was sufficiently clear and coherent,” O’Donnell said. “I predict that such discussion will be responded to by the group.”
+While both the working group on admissions and recruitment and the working group on academics have both presented recommendations, the working group on student life has yet to submit its proposals.
+“There, it is not so much a question of the resources and the challenge to do the new as it is the allocation of resources and thinking about how to do the things we’ve done better,” O’Donnell said.
+Wilson said that because the initiative has not set a time frame for the recommendations to be implemented, he is skeptical.
+“I’m hopeful that [the proposals] will get passed, but at the same time, it’s very cautious optimism,” Wilson said.
+– Hoya Staff Writer Anna Salinas contributed to this report
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 23, 2010 by Stephen Levy Leave a Comment 
+Students, veterans and university figures gathered at the university flagpoles on Healy Lawn at noon on Thursday, April 22, when the ROTC Color Guard and the newly-founded Georgetown University Student Veterans of America replaced the current flag with a new American flag.
+The ceremony was designed to retire the old flag, which Erik Brine, president of GUSVA, described as beloved, but ragged. The Hoya Battalion, made up of the ROTC from the Washington, D.C. area, marched to the flagpole and presented a new flag to Vice President for Student Affairs Todd Olson, who attended the ceremony in University President John J. DeGioia’s place.
+The group also celebrated the administration’s decision to raise Georgetown’s Yellow Ribbon Scholarship Fund, a scholarship offered to veterans, from $1,000 per year to $5,000. Brine declared this a step to create a “more realistic educational opportunity for those who have sacrificed to make America a better place.”
+Brine added that the flag ceremony would become an annual tradition. He said it symbolized the relationship between the administration and the veterans on campus. He called upon the audience to “help us make Georgetown University a golden standard for veteran-administration relations.”
+“This is a time for new beginnings,” Olson said, echoing Brine’s sentiments. He expressed gratitude to Brine and the members of GUSVA for voicing concerns about the veterans on campus, and for working for a better future for them. He also declared that “there is a very notable generosity that all veterans have offered . to this nation, and to this community.” Olson also praised veterans for defending the freedom of the United States.
+GUSVA was formed this semester to voice the opinions of student veterans on campus and to ease many of the struggles of its members. Brine explained that before the reforms just passed by the administration, Georgetown University cost more than $27,000 annually for veterans, even after benefits provided by Veterans Affairs. Brine found that number exorbitant.
+“Georgetown is tremendously expensive for veterans,” Brine said. “Out of the top 25 colleges in the United States, Georgetown is the most expensive for veterans.”
+GUSVA Vice President Tyler Tuggle (COL ’11) said that The George Washington University offers veterans compensation for up to half their tuition.
+However, both Brine and Tuggle expressed hope for improvement.
+“Georgetown has always had many of the resources our members need, but we didn’t know where they were,” Brine said.
+Nevertheless, Brine added, “The support [at Georgetown] has been absolutely overwhelming. There’s no contention between [GUSVA] and the administration.”
+Fr. Rick Curry S.J,, a member of the Jesuit community on campus, delivered the invocation for the ceremony, during which he blessed the sacrifices of the soldiers, and reminded the audience that John Carroll’s philosophy involved doing works not just for God, but for one’s country as well.
+In addition to the ceremony, the Georgetown University Grilling Society, working with GUSVA, grilled burgers in Red Square, with all of the proceeds benefitting the Wounded Warrior Project, a group that aids wounded veterans, both on the field and back in the United States, according to its Web site.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 23, 2010 by Stephen Szypulski Leave a Comment 
+Georgetown University’s response rate to the 2010 U.S. Census currently stands at over 70 percent, according to Director of Media Relations Andy Pino.
+This is nearly the same rate as the national average: According to an April 20 census press release, over 71 percent of the nation’s households had responded. Additionally, 18 states and the District of Columbia and Puerto Rico had either met or exceeded their 2000 census response rates by April 20. The overall participation rate for the District is 68 percent as of Thursday, according to the Census Bureau.
+“Like other universities in the area, we are working with the census to make sure everyone who lives on our campus is counted,” Pino said.
+The forms have been described as the least time-consuming in the survey’s history. On May 1, census employees will begin going door to door to collect information from households that have not yet returned their forms.
+The university plans to begin seeking out students who have not yet submitted their forms.
+Other local universities are stepping up efforts to increase participation. The George Washington University announced that it would provide federal enumerators with students’ information, according to The Hatchet, the university’s student paper.
+The 2010 census, required by the U.S. Constitution to be conducted every 10 years, seeks to count every resident in the United States and will be used to determine the distribution of $400 billion of federal spending, and to distribute seats in the House of Representatives.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 23, 2010 by DPS Blotter Leave a Comment 
+**Thursday, April 15***Fire, New North, 2:35 a.m.*
+DPS and D.C. Fire Department responded to the area, in reference to a fire alarm. Upon arrival on the scene, units discovered flames on the second floor. The fire was extinguished by the sprinkler system and D.C. Fire. Four Georgetown employees were transported to the Georgetown University Emergency Room. D.C. Fire Department is directing the investigation.
+*Theft, New North, 4:15 p.m.*
+A bicycle was stolen from the entryway of the building. No suspects or witnesses have been identified.
+**Sunday, April 18**
+*Drug Violation, LXR Hall, 12:44 a.m.*
+During a patrol, DPS noticed a suspicious smell in the area. A check of the area resulted in DPS finding and confiscating drug paraphernalia. The case is under investigation.
+**Monday, April 19**
+*Theft, New South Hall, 11:07 p.m.*
+A report was filed regarding the theft of a remote control. No suspects or witnesses have been identified.
+**Tuesday, April 20**
+*Drug Violation, Harbin Hall, 12:45 a.m.*
+DPS responded to a report of a suspicious smell in the area. A check of the area resulted in DPS finding and confiscating drug paraphernalia. The case is under investigation.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 23, 2010 by Lauren Weber Leave a Comment 
+Georgetown University Transportation Shuttle weekend services face an uncertain future due to a possible lack of funding for the coming academic year.
+According to Director of Student Affairs Erika Cohen-Derr and SAC Vice-Chair Harrison Holcomb (NHS ’11), the Student Activities Commission’s Alumni Gift Account, which funds the weekend shuttles, is almost depleted.
+The SAC Alumni Gift Account consists of alumni donations to the general category of student activities. In 2006, funds from the account were designated to be allocated to a three-year GUTS weekend funding contract, which costs about $20,000 a year to operate.
+“The money that was originally requested from that account is almost entirely used up, meaning that the expanded weekend GUTS bus service campus has enjoyed over the past few years may have to be curtailed, if we cannot devise a workable solution to pay for it,” Holcomb said.
+For the weekend GUTS buses to continue operating, another source of financing will need to be identified, according to Cohen-Derr.
+“In the coming year, [SAC and GUSA] will have to decide if they want to continue to pursue the program and find sufficient sources of funding,” she said.
+According to Holcomb, SAC was unaware of the current state of the account until this week.
+“It was always known that the money would run out, but from SAC’s and possibly [Georgetown University Student Association’s] perspective, we were taken by surprise,” Holcomb said.
+Holcomb said he sees the account’s balance as an example of the failures of institutional memory at Georgetown due to frequent administrative and student group turnover.
+“Things can kind of get lost in the shuffle,” he said.
+GUSA President Calen Angert (MSB ’11) said, “We are going to try to figure out how to fund this thing.”
+Angert stressed that ultimately GUSA would poll the students to see if there was a continued interest in the weekend shuttle, though he reaffirmed his commitment to maintaining the service.
+“We are going to try to make sure that this won’t be shut down. This is a top priority,” Angert said.
+Thomas Christiansen (SFS ’13) said that he enjoys the weekend shuttles, despite the scarce service that already is in effect. If such weekend service was cut, however, he said, “Personally, I’d be offended, as I enjoy the free and easy service.”
+Lynne Hirschfeld, the associate dean of finance and administration for student affairs, who allocates student activities funding, could not be reached for comment.
+Hoya Staff Writer
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 23, 2010 by Caitlin Mac Neal Leave a Comment 
+Kathleen Maas Weigert, executive director of the Center for Social Justice Research, Teaching and Service, and research professor in the department of sociology will leave the university to take a position at Loyola University in Chicago at the end of this academic year.
+Weigert was appointed a research professor of sociology and justice and peace studies at Loyola and will help to develop a social justice research center focused on public service.
+“[Weigert] is an institution here at CSJ,” Raymond Shiu, program director of student leadership and special programs at CSJ, said. “Loyola Chicago is getting a tremendous asset.”
+“I’ve been here nine years, and it has been a dream come true,” Weigert said.
+Weigert founded CSJ when she first arrived at Georgetown and has since been working to develop the center.
+Since the center was started, the number of students in the First-Year Orientation to Community Involvement has grown from about 35 to about 50, and the number of students participating in alternative spring break programs has increased from about 80 to about 200.
+“She will truly be missed by students, faculty and staff for her continued guidance, hard work and bold vision, which has opened up opportunities to practice justice through many avenues on campus, in D.C. and internationally,” said Anish Savani (SFS ’10), secretary of the CSJ Advisory Board for Student Organizations.
+Weigert said she is particularly proud of the creation of a community-based learning course, for which students receive credit for community service in the area and related class time.
+“My dream is that we have one of those kinds of courses in every major,” Weigert said.
+Weigert’s passion for social justice extends beyond her work at CSJ, said Donna Harati (SFS ’10), chair of ABSO.
+“[Weigert] lives out social justice in an exemplary way not only in her impressive professional endeavors but also in the way she treats everyone around her, always with great empathy, care and kindness,” Harati said. “She has an infectious love of life and passion for justice that will really be missed.”
+Hoya Staff Writer
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 23, 2010 by Caitlin Mac Neal Leave a Comment 
+Kathleen Maas Weigert, executive director of the Center for Social Justice Research, Teaching and Service, and research professor in the department of sociology will leave the university to take a position at Loyola University in Chicago at the end of this academic year.
+Weigert was appointed a research professor of sociology and justice and peace studies at Loyola and will help to develop a social justice research center focused on public service.
+“[Weigert] is an institution here at CSJ,” Raymond Shiu, program director of student leadership and special programs at CSJ, said. “Loyola Chicago is getting a tremendous asset.”
+“I’ve been here nine years, and it has been a dream come true,” Weigert said.
+Weigert founded CSJ when she first arrived at Georgetown and has since been working to develop the center.
+Since the center was started, the number of students in the First-Year Orientation to Community Involvement has grown from about 35 to about 50, and the number of students participating in alternative spring break programs has increased from about 80 to about 200.
+“She will truly be missed by students, faculty and staff for her continued guidance, hard work and bold vision, which has opened up opportunities to practice justice through many avenues on campus, in D.C. and internationally,” said Anish Savani (SFS ’10), secretary of the CSJ Advisory Board for Student Organizations.
+Weigert said she is particularly proud of the creation of a community-based learning course, for which students receive credit for community service in the area and related class time.
+“My dream is that we have one of those kinds of courses in every major,” Weigert said.
+Weigert’s passion for social justice extends beyond her work at CSJ, said Donna Harati (SFS ’10), chair of ABSO.
+“[Weigert] lives out social justice in an exemplary way not only in her impressive professional endeavors but also in the way she treats everyone around her, always with great empathy, care and kindness,” Harati said. “She has an infectious love of life and passion for justice that will really be missed.”
+Hoya Staff Writer
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 23, 2010 by Eun Sun Jang Leave a Comment 
+Protesters gather annually in D.C. during International Monetary Fund and World Bank meetings; but, this weekend’s scheduled protests offer a different outlet for people to speak out.
+Hosted by the Self Described Anarchist Collective, the Anticapitalathon will run from April 23 to April 25 and will include a wide range of athletic events, aimed toward symbolizing different issues associated with the actions of each organization. Anarchist Collective has scheduled a 5K Run on the Bank to the IMF and World Bank, a group jog to the World Bank building downtown.
+“So while the banks take our money and run, and Mayor Fenty just runs, we too are running, in order to highlight corporate cronyism and economic despair,” SDAC’s Web site said.
+The weekend will also feature a soccer match with an inflatable Earth-shaped ball being kicked around by street theater actors dressed as IMF and World Bank officials, according to the Web site’s schedule of events.
+The IMF and World Bank meet in Washington, D.C., every spring. This year, in anticipation of the meetings and protests, the Metropolitan Police Department has announced that along with parking restrictions, streets around the headquarters of the IMF and World Bank will be closed from about 7:30 p.m. on Friday until 5 p.m. on Sunday. The 18th, 19th and 20th streets NW will be closed from G Street to Pennsylvania Avenue, as will the southern side of H Street. This may affect some of the Anticapitalathon’s scheduled events, such as the trip to the World Bank headquarters.
+Although he will not be participating in this weekend’s activities, Ian Villeda (SFS ’11) took part in a protest at the IMF last summer and described it as a very rewarding experience. He said he believes these protests are effective and make a difference in the IMF’s policies.
+“The IMF has actually responded to protests raised in the past. The movement against the IMF is not very strong in the United States and Europe, but there’s a huge ground flow [of protest against the IMF] in other countries,” Villeda said.
+While the Anticapitalathon consists of unusual sporting activities, the seriousness of the charges that the SDAC levels against the IMF and World Bank will not be overlooked, according to an organizer of the Anticapitalathon, Nicholas Zinzer. He described some of the complaints against the IMF and World Bank in a statement on SDAC’s Web site.
+“The IMF and World Bank are responsible for saddling struggling economies with unmanageable debt, driving billions deeper into poverty through the badly named `poverty reduction’ programs and threatening countries who refuse to follow their austerity programs with economic blacklisting and isolation,” Zinzer said.
+– Hoya Staff Writer Jeff Cangialosi contributed to this report.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 23, 2010 by Laura Engshuber Leave a Comment 
+The enactment of the D.C. same-sex marriage act in March extended equal benefits to same-sex spouses, but many Georgetown employees who are affected by this development are unaware of the implications it has on their employee benefits.
+Under Georgetown’s policy prior to the passage of the act, legally domiciled adults were eligible for medical, dental and vision care. The policy did not allow life insurance or voluntary accidental death and dismemberment insurance coverage, according to Director of Media Relations Andy Pino. The Religious Freedom and Civil Marriage Equality Amendment Act mandates that all benefits that were previously unavailable to spouses of the same sex are made available.
+Following the passage of the act in March, the university did not change its benefits policy despite the Catholic Church’s stance on same-sex marriage, as the legislation automatically extends eligibility, according to Pino.
+“The law determines who is a legally recognized spouse. All legally recognized spouses are eligible for the same benefits,” Pino said in an e-mail.
+When Georgetown adopted a revised benefits policy in 2006, inclusive of same-sex partners, many faculty members praised the move for its progressivism. Prior to this change, Georgetown offered medical, dental, vision, voluntary accidental death and dismemberment insurance and supplemental dependent life insurance to employees and eligible dependents. At the time, eligibility was limited to children and spouses.
+The revision came in response to an initiative by concerned members of the faculty who encouraged the faculty senate to pass a resolution in favor of extending benefits to partners, according to Dana Luciano, an associate professor in the English department and director of the women’s and gender studies program who was heavily involved in the initiative. In response, the university introduced an updated policy in 2006, permitting each employee to apportion benefits to one LDA, an umbrella term that includes a same-sex partner.
+“Under that policy, an LDA must be either someone with whom the person has a close personal relationship and is financially interdependent, or a dependent blood relative such as an elderly parent or grown child,” Pino said.
+For Luciano, Georgetown’s revised benefits policy, which incorporated same-sex partners, marked a progressive step for a Catholic university.
+“Georgetown was previously ahead of the curve, since they did not wait until [coverage] was required by law,” Luciano said.
+While same-sex spouses are now eligible to receive these benefits, many LGBTQ employees are confused about what benefits their spouses are eligible for, according to Luciano.
+“I don’t know anyone who has applied [for the benefits]. There has been no communication about any change in standards. I have no idea if employees with same-sex spouses can now live together in university housing [previously only available for employees and their opposite gender spouses]. We have heard nothing,” Luciano said.
+Luciano indicated that this lack of communication is not a new frustration, but that it is especially prevalent now with the new legal status for same-sex partners. Many employees are unaware of whether their spouses can be covered for benefits such as life insurance, according to Luciano.
+“Life insurance is an important issue. It affects material, economic and familial well-being. To leave an entire segment of the faculty and staff not covered or unsure of whether they are covered by life insurance is in violation of Georgetown’s ethical standards,” Luciano said.
+Pino said that it was the responsibility of employees to determine the eligibility of their partners or spouses.
+“Employees should contact the benefits office if they have any questions concerning their benefits,” Pino said.
+Luciano, however, said that the Office of Faculty and Staff Benefits had been slow in responding to queries. When she inquired in the fall about life insurance coverage for her partner, she was told that the office was working to cover life insurance for same-sex spouses of employees. At the time, life insurance was limited to spouses of the opposite sex. Since the passage of the same-sex marriage act, however, Luciano has yet to receive any follow-up communication concerning when that coverage will become available.
+Luciano also expressed worry that the LDA policy would be restricted due to the assumption that employees with same-sex partners could marry and thus be eligible for spousal benefits. In fact, many employees with same-sex partners do not live in the District, thus making legal marriage less accessible, according to Luciano.
+Pino was unable to comment on whether Georgetown has received backlash from the Catholic Church over the university’s expansion of benefits to same-sex spouses. The Archdiocese of Washington opposed the same-sex marriage act and cut social programs in response to the passage of the act.
+Catholic universities in Massachusetts, which legalized same-sex marriage in 2004, have also extended their benefits policies to cover same-sex spouses. At Boston College, benefits including health insurance and tuition remission are covered upon presentation of a valid marriage license. At the College of the Holy Cross, employees who are legally married may elect dental and medical benefits for their spouse.
+The Office of Faculty and Staff Benefits declined to comment directly regarding employee benefits following the passage of the same-sex marriage act. The LGBTQ Resource Center declined to comment. Georgetown’s Campus Ministry could not be reached for comment.
+Hoya Staff Writer
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 23, 2010 by Katie Kettle Leave a Comment 
+The university will cover the rental cost of the Jewish Chaplaincy’s townhouse and reserve an additional location for worship for the 2010-2011 academic year, as part of a push by members of the Jewish community to overcome budgetary constraints and space concerns.
+In the past, the chaplaincy relied on alumni benefactors and friends to pay the house’s rent, according to outgoing Jewish Chaplaincy Director Rabbi Harold White. This year, the Office of the President and representatives of Campus Ministry helped to secure the costs and provide a larger worship space once weekly at Car Barn for next year.
+“The president’s office has stepped up to the plate,” White said.
+The solution is temporary, but White said he felt reassured by the university’s efforts.
+“Campus Ministry has given [the Jewish Chaplaincy] assurance that there will be a constructive search for a [permanent] space. Hopefully it will occur next year – space is very tight around this university,” he said.
+The Jewish Chaplaincy’s need for university involvement this year reflects longstanding worries about adequate accommodation of the on-campus Jewish community’s needs, according to a statement to The Hoya written by the Jewish Student Association board.
+“While all other chaplaincies at Georgetown have been given rent-free, permanent and centrally located space to meet their religious needs, the Jewish Chaplaincy has been forced to pay staggering rent for an inconvenient and inadequate worship space off campus,” the statement read.
+Since 1970, the Jewish Chaplaincy’s townhouse has been used for prayer services, seders and other events. Currently, the Jewish Chaplaincy is the only religious organization that does not utilize on-campus space due to specific requirements, such as the need for a kosher kitchen, according to White. Because of this, the chaplaincy pays rent for a university-owned townhouse.
+“We’re not only talking about a religious center [such as] a chapel, we’re also speaking about social needs – lectures, meetings – because Judaism is not just a religion, it’s a civilization,” White said.
+When White first arrived at Georgetown 41 years ago, he said Jewish students comprised about 1 percent of the student body. Today, he estimated the Jewish population includes about 12 to 14 percent of undergraduates.
+The JSA board added that the dearth of suitable space could dissuade prospective Jewish students from attending Georgetown, even if the number of Jewish students at Georgetown has increased over the years.
+Director of Campus Ministry Fr. Kevin O’Brien, S.J. said that he hopes the Office of Campus Ministry will be able to find a workable solution in the upcoming year.
+“In the long term, Campus Ministry will continue working with our Jewish Community to find a sustainable way to address the long-term space needs of our Jewish chaplaincy. And as we do with all of our chaplaincies, we will continue to work with the Office of Advancement to identify funding that will help us meet these needs,” said O’Brien.
+Kelley Kidd (SFS ’13), a member of the JSA said, “I would really like to have a space next year. . I’ve seen how much work they have put into it and I feel it will all work out.”
+– Hoya Staff Writer Eamon O’Connor contributed to this report.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 23, 2010 by Dawn Hu Leave a Comment 
+Despite public opposition to Karl Rove’s invitation to speak on campus and the anticipation of possible protest, attendees did not disrupt the proceedings when the conservative political strategist and former deputy White House chief of staff addressed them at the Michael Jurist (SFS ’07) Memorial Lecture in Lohrfink Auditorium.
+In an event sponsored by the Lecture Fund, Rove came to Georgetown Wednesday evening to discuss his new book, “Courage and Consequence,” and to answer pre-selected questions from the audience. Rove did not review his book extensively but instead focused on the upcoming midterm elections in November.
+Rove reflected that this year’s midterm elections are reminiscent of the 1994 midterm election in which the Republican Party regained majority control in the House of Representatives and the Senate.
+“It looks a little like this, but worse for the Democrats,” Rove said.
+According to Rove, Gallup has reported that the Republicans now have a three-point lead, which means that one of six Americans has shifted from voting for a Democrat to voting for a Republican since the 2008 presidential election. He attributed this to an increasing dissatisfaction with President Obama, pointing to perceived shortcomings such as a lack of bipartisanship and the increasing budget deficit.
+“At the end of the day, people voted for him because he was aspirational and inspirational,” Rove said. “Expectations of the new president have gone unfulfilled.”
+While the political climate is currently difficult for the Democrats, Rove attests that they are aware of their situation and will deploy the resources necessary to conduct political campaigns.
+Rove was also critical of Obama’s $757 billion stimulus bill, stating that its implementation has been ineffective and mismanaged.
+“Rather than getting things that would stimulate the economy, we got every single bad spending idea that was stuck at the bottom of the drawer,” Rove said.
+Rove pointed to the fact that only about 40 percent of the stimulus money has been spent.
+After his opening remarks, Rove then responded to pre-screened questions from the audience, which ranged in topic from Republican vice presidential nominee Sarah Palin to his view on Samuel Huntington’s “The Clash of Civilizations.”
+Rove made clear, however, that the Bush administration had not been perfect.
+“A presidency is a human enterprise and human enterprises make mistakes. When I wrote this book, I tried to be clear about the mistakes that I made and the mistakes that we made,” Rove said.
+In response to one question, he stated that the biggest mistake that he made while serving in the White House was not fighting back after President Bush was accused of lying about weapons of mass destruction in Iraq.
+Rove volunteered that the second biggest mistake he made was the handling of Hurricane Katrina, stating that the federal government should have taken action to evacuate New Orleans earlier. He said he thought that they were in a difficult position because disaster relief is the responsibility of the states, and the federal government does not have the power to intervene.
+“Even though we had no legal grounds to do so . we should have done it earlier. Because it was clear by the time we got there that [the governor and the mayor] weren’t up for it,” Rove said.
+When asked about his advice for students in the audience, he answered that among other things, students should “get a life.”
+“If you have an interest in politics, go somewhere where it’s real America, and that’s outside the beltway,” Rove said.
+The event proceeded relatively disturbance-free, although one audience member yelled out while Rove discussed the No Child Left Behind Act.
+Bryan Woll (COL ’12), president of the Georgetown University College Democrats, said he felt the event went well.
+“I think that the Lecture Fund deserves credit for trying to find a happy, middle ground in terms of questions and answers,” Woll said. “However, I would have liked to see more hard-hitting questions on topics like the use of torture and Rove’s questionable negative campaign practices.”
+While the event was not actively protested, Woll said that one should not overlook the fact that many do not agree with his political views.
+“While I think that people enjoyed Rove’s jovial attitude and political savvy, there were several comments that elicited negative reactions from the audience,” Woll said. “In the end, while people did not disrupt Rove’s comments, it was obvious that many of the political and policy arguments that he made were not accepted by the students in attendance.”
+Chairman of the Georgetown University College Republicans Geoffrey Bible (SFS ’12) said that he was pleased to see that protesters or other dissenters did not disrupt the event.
+“We are glad that our fellow students respected him and allowed him to express his viewpoints on the 2010 elections and a number of other issues,” Bible said.
+Following the event, audience members were invited to attend a book signing with Rove.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+

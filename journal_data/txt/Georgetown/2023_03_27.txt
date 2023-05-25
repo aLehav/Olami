@@ -1,0 +1,106 @@
+
+March 27, 2023 by Dylan Partner Leave a Comment 
+Keegan Hines, a former Georgetown adjunct professor and the current vice president of machine learning at Arthur AI, discussed the rapid rise in generative Artificial Intelligence (AI) programs and Georgetown’s potential in adapting to software like ChatGPT.
+The Master of Science in Data Science and Analytics program in the Graduate School of Arts & Sciences hosted the talk on March 17. The discussion centered on the rapid development of generative AI over the past six months.
+Hines said generative AI has the capacity to radically change people’s daily lives, including how students are taught and how entertainment is consumed.
+“I definitely think we’re going to see a lot of personal tutoring technologies coming up for both little kids and college students,” Hines said at the event. “I have a feeling that in the next year, someone will try to make an entirely AI-generated TV show. It’s not that hard to imagine an AI-generated script, animation and voice actors.
+“Imagine what Netflix becomes. Netflix is no longer ‘recommend Keegan the best content’; Netflix is now ‘create something from scratch which is the perfect show Keegan’s ever wanted to see,’” Hines added.
+Hines then discussed algorithms that generate text. He said the principal goal of these algorithms is to create deep learning systems that can understand complex patterns over longer time scales.
+Hines said one challenge AI faces is that it can provide users with incorrect information.
+“These models say things and sometimes they’re just flatly wrong,” Hines said. “Google got really panned when they made a product announcement about Bard and then people pointed out Bard had made a mistake.”
+Bard, Google’s AI chatbot, incorrectly answered a question about the James Webb Space Telescope in a video from the program’s launch Feb. 6, raising concerns about Google’s rushed rollout of Bard and the possibility for generative AIs to spread misinformation.
+Hines said the potential for bias and toxicity in AI is present, as seen with Microsoft’s ChatGPT-powered Bing search engine, which manufactured a conspiracy theory relating Tom Hanks to the Watergate scandal.
+“There’s been a lot of research in AI alignment,” Hines said. “How do we make these systems communicate the values we have?”
+Teaching and learning in all levels of education will need to adapt to changes in technology, according to Hines.
+“One example is a high school history teacher who told students to have ChatGPT write a paper and then correct it themselves,” Hines said. “I think this is just the next iteration of open book, internet, ChatGPT. How do you get creative testing someone’s critical thinking on the material?”
+Hines said OpenAI, the company behind ChatGPT, noticed larger, more complex language models were more accurate than smaller models due to lower levels of test loss or errors made during training.
+“A small model has a high test loss whereas a really big model has a much more impressive test loss,” Hines said. “The big model also requires less data to reach an equivalent amount of test loss.”
+OpenAI’s hypothesis was that the secret to unlocking rapid advancement in artificial intelligence lies in creating the largest model possible, according to Hines.
+“There didn’t seem to be an end to this trend,” Hines said. “Their big hypothesis was, ‘let’s just go crazy and train the biggest model we can think of and keep going.’ Their big bet paid off and these strange, emergent, semi-intelligent behaviors are happening along the way.”
+Hines said he is optimistic about the field’s future, and he predicted AI will be able to produce even more complex results, such as creating a TV show. “It was really only about ten years ago that deep learning was proven to be viable.” Hines said. “If we’re going to avoid the dystopian path and go down the optimistic path, generative AI will be an assistant. It will get you 80% of the way and you do the next 20%.”
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+March 27, 2023 by Sophia Lu Leave a Comment 
+Georgetown’s Disability Cultural Initiative on March 15 hosted “ACDC: Art Celebrating Disability Culture” (ACDC), a performance showcase that celebrated disability through students’ song and dance.
+Amy Kenny, the associate director of the Disability Cultural Initiative (DCI), and students involved with the DCI produced ACDC, which showcased a wide range of music, poetry, spoken word and original compositions. The event aimed to elevate disability culture and community on campus through performance.
+Libbie Rifkin, the founding director of Georgetown’s program in disability studies, said recognizing and celebrating disability is rare, given the stigma surrounding the term, and even more unusual in ultra-competitive and prestigious spaces such as Georgetown.
+“Those are not elements that people often associate with being an elite institution. We don’t want to foreground our vulnerability, or you know, our struggles” Rifkin told The Hoya. “And what I think disability culture and disability justice enables is the creation of these kinds of spaces which are such important components.”
+Rifkin said hosting ACDC in Riggs Library made the event especially meaningful. 
+“I thought it was an interesting choice to have it take place in Riggs Library, one of the most sort of high academic spaces on campus, a hallowed space, a space that’s associated with Georgetown’s elite university status,” Rifkin said. “And what the folks in the event did was really transform that space into a place of vulnerability and humanity.”
+Kenny started the event with a speech about the importance of uplifting disabled voices and embracing people from all walks of life, followed by 12 acts of performance with emceeing by Ollie Henry (CAS ’24).
+Dane Tedder (CAS ’24), one of the performers, said he felt the positive energy of disability celebration throughout the process of putting ACDC together.
+“I think the thing that resonated with me most was the air of kindness and acceptance for different ways of being and creating that Dr. Kenny, the MC Ollie Henry, and everyone else involved in planning made sure to infuse into the night and the process leading up to it,” Tedder wrote to The Hoya.
+Shreya Dudeja (SOH ’25) performed at the event and served as one of ACDC’s primary event planners alongside Kenny. Dudeja said ACDC helped her bring together an intersection of her personal identities and engage in creative self-expression. 
+(Full disclosure: Shreya Dudeja is a staff writer at The Hoya.)
+“ACDC was extremely meaningful for me personally because I got to embrace so many of my identities in one space,” Dudeja wrote to The Hoya. 
+“I had the opportunity to be a musician, perform a South Asian piece, and demonstrate pride in my identity as a disabled person,” Dudeja wrote. “All performers took comfort in being vulnerable together, and I think it’s safe to say that we were all very proud of each other.” 
+Dudeja also said that she feels grateful for everyone who came out to support the performers and the DCI.
+“The event exceeded my expectations, and I had really high expectations,” Dudeja wrote. “The turnout was great, the audience was enthusiastic and supportive, and the people who performed were all so wonderful to talk to. The event was definitely the highlight of my semester thus far.”
+Dani Nisbet (CAS ’26) played the darbuka at the event, a goblet-shaped drum commonly used in traditional Egyptian music.
+Nisbet said ACDC inspired him to continue his involvement with the DCI in the future. . 
+“I hope this event is a testament for all people to see the Disability Culture Initiative as a growing organization,” Nisbet wrote to The Hoya. “Anyone searching for community will find the group welcoming, and am thrilled to have met all the other students and faculty that helped bring this event to fruition.”
+Dudeja said the transformation of disability into artistic performance was empowering for everyone involved with ACDC.
+“I hope ACDC and events similar to this demonstrate how much pride there is in disability culture,” Dudeja said. “I hope people see that disability is not this idea of pain and struggle, and it is an identity that is celebrated.”
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+March 27, 2023 by Sophia Lu Leave a Comment 
+Georgetown University’s Vietnamese Student Association (VSA) organized “Vietcetera: Back to Vietnam,” its first cultural showcase, to celebrate contemporary Vietnamese identity March 19.
+“Vietcetera” began with the story of a Vietnamese American named Đu Đủ returning back to Vietnam in hopes of fulfilling a marriage pact with his childhood best friend and first love, Chôm Chôm. The showcase follows Đu Đủ’s rediscovery of his Vietnamese heritage through several performance acts, such as a dance battle featuring traditional conical hats and dancing fans, as well as a fashion show featuring Vietnamese dresses and textiles.
+Ashley Nguyen (SOH ’24), Ariel Le (SOH ’24), Angelette Pham (CAS ’24), Mary Truong (SOH ’25) and Mary Nguyen (CAS ’25) co-directed the show. The five directors collectively decided to name the production “Vietcetera” because it combines “Viet” with “etcetera.” The portmanteau indicates there is more to be said about the Vietnamese American narrative beyond the model minority myth, which incorrectly puts forth the successes of certain ethnic groups, like Asian Americans, as proof structural racism does not exist. 
+Over 130 cast and crew members collaborated to produce “Vietcetera,” according to Pham. More than 200 attendees supported the show, including some from other colleges and universities across the Mid-Atlantic Union of Vietnamese Student Associations (MAUVSA), of which Georgetown VSA is a member.
+Culture shows have been a long-standing tradition for many MAUVSA schools. Pham, who also serves as the external vice president of VSA, said some schools have been performing annual culture shows for decades and that these inspired Georgetown VSA to finally make “Vietcetera” a reality this year.
+“For the past two years, our involvement in MAUVSA has grown exponentially, and after supporting local universities’ culture shows, we were inspired to produce one ourselves to celebrate the Vietnamese identity with both the Georgetown and local communities,” Pham wrote to The Hoya.
+Pham said Georgetown VSA’s members felt a mix of anticipation and anxiety about starting such an intensive production from the ground up.
+“Before the show, we were both nervous and excited about Vietcetera,” Pham wrote. “For the first time, we had the opportunity to showcase our passion for Vietnamese culture and narrative and our pride in our organization. On the other hand, we were unsure if Vietcetera would grow into the large-scale showcase we had envisioned primarily since this was our first culture show.”
+Le said the responsibility of executing “Vietcetera” together was fantastic for facilitating bonding within Georgetown VSA and learning new skills, despite being a daunting task.
+“We were very lucky to have board members who were happy to try something new with us, and we all, as a community, came together with different skill sets to produce something great,” Le added.
+Truong, who serves as the co-treasurer of Georgetown VSA, said the club’s board started planning for “Vietcetera” at the end of the 2021-22 school year. 
+“There were definitely a lot of sleepless nights watching the sun go down and rise all in one sitting,” Truong wrote to The Hoya. “Every single person that participated in Vietcetera played an important role and the show would not have been what it was without them.”
+Dominic Pham (CAS ’23), one of two co-emcees, said he hopes both Vietnamese and non-Vietnamese members of the Georgetown community can take away something meaningful from the showcase.
+“I really hope that Vietnamese members of the Georgetown community were able to see a part of themselves represented on stage. The board drew a lot from folktales and songs our families used to share with us as we were growing up in Vietnamese households,” Dominic Pham wrote to The Hoya. 
+“As for non-Vietnamese members, I hope that they were able to learn a little bit more about our community and culture on campus, and become inspired to discover their own heritages,” Pham added.
+Dominic Pham said “Vietcetera” feeds into Georgetown VSA’s broader goals of promoting cultural awareness, supporting and expanding the Georgetown Vietnamese community and advocating for Vietnamese communities across the world.
+“We strive to actively be a welcoming and inclusive community for anyone interested in Vietnamese culture and narrative, and, given that Georgetown University is a predominantly white institution, we especially aim to foster a comfortable space for students of color and other marginalized identities to thrive,” Pham wrote.
+Le said she feels immense gratitude for every person who was involved with “Vietcetera” and looks forward to continue celebrating Vietnamese culture on and off campus.
+“This was my first time acting, and the people around me were so supportive and uplifting,” Le wrote. “In general, being able to do this work with friends has made the entire Vietcetera experience such a good memory that I would love to relive again.”
+Full disclosure: Dominic Pham formerly served as the managing editor, creative director, and diversity, equity and inclusion director for The Hoya.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+

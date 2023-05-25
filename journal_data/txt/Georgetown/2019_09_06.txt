@@ -1,0 +1,519 @@
+
+September 6, 2019 by Afua Nyantakyi 1 Comment 
+Months of preparation, hours of phone calls and hundreds of written documents all led to the moment Teresa Rubinger (LAW ’19) found herself standing at the center of a historic Richmond courtroom before a panel of circuit judges. They would be deciding whether her client, Melvin Josue Rodriguez Cabrera, would be able to remain in the United States and keep his permanent residence status or forced to leave his home.
+Rodriguez Cabrera was initially charged with crimes of assault, battery and involvement with a criminal street gang. It was this history of gang activity that upgraded his charge to one of moral turpitude — a categorization of crime heinous enough to grant immigration officials the ability to deport an immigrant previously granted permanent residence.  
+Rubinger found the opportunity to take on Rodriguez Cabrera’s case through the Appellate Litigation Program at the Georgetown University Law Center. Alongside classmate Elijah Staggers (GRD ’16, LAW ’19), she was able to explore the world of appeals court through the lens of a real case argued before the 4th U.S. Circuit Court of Appeals to determine whether their client would face deportation from the United States in light of a 2017 criminal charge not directly related to his immigration status.  
+Rewriting the Story
+In 2017, the Department of Homeland Security initiated removal proceedings against Rodriguez Cabrera under Virginia Code 18.2-46.2 for participation in a criminal street gang, according to the July 19 decision. Rodriguez Cabrera was initially arrested on charges of assault and battery. The immigration judge determined that the charges did not constitute a crime of moral turpitude, and therefore should not result in deportation.
+However, Rodriguez Cabrera had also pleaded guilty to participating in gang activity, which is illegal in Virginia. The DHS then argued that Rodriguez Cabrera’s affiliation with a street gang counted as an act of moral turpitude. The Board of Immigration Appeals agreed, leading to the revocation of his status as a protected permanent legal resident of the United States. 
+In other words, with the previous interpretation of the law, essentially any crime associated with a gang would be looked at through a “moral lens,” according to Staggers. 
+“Whatever the crime is, it doesn’t matter what the underlying crime is, if an individual commits a crime in association with a gang, it will automatically transform that conduct into an immoral crime, or into a crime involving moral turpitude,” Staggers said. “The government’s argument was essentially reduced to: it doesn’t matter if the crime is simple assault or trespassing. If a noncitizen does that, they can be deported.”
+Once the charge had been interpreted as one regarding morality, the Immigration and Nationality Act authorized deportation. The law allows for the removal of  “an alien who has been convicted for a crime involving moral turpitude committed within five years of admission and for which at term of imprisonment of one year or longer could be imposed,” according to the July 19 decision.
+In order to avoid removal proceedings, Staggers and Rubinger’s approach was to target the underlying crime Rodriguez Cabrera had committed — assault and battery. The pair argued that their client’s mere affiliation to a gang did not violate this statute, given that moral turpitude only applies to gang membership when discovered in connection to a heinous crime.
+Rubinger and Staggers specifically presented the hypothetical example of trespassing to attend a simple meeting of gang members as an example of misdemeanors that would incorrectly constitute moral turpitude under the DHS’s interpretation of the code.
+“No one can seriously contend that two gang participants trespassing on church property to get from Point A to Point B is ‘inherently base, vile or depraved and contrary to accepted rules of morality and the duties owed between persons or to society in general,’” the July 19 decision read.
+Upon hearing Rubinger’s arguments, the Board of Immigration Appeals decided that his affiliation with a gang was not itself an act of moral turpitude in their July 19 decision. As a result, the Virginia court set a precedent that all offenses involving criminal street gang activity should no longer be categorized as a crime involving moral turpitude.
+The court then granted Rodriguez Cabrera’s petition for review, thus vacating the order of his removal.
+Beyond the Classroom
+Each year, 16 Law Center students are selected to be in the Appellate Litigation Program, an in-house clinic at the Law Center directed by professor Erica Hashimoto (LAW ’97). 
+The yearlong clinic for third-year students, established over 40 years ago, allows law students to experience the environment of a small appeals law firm as they review a variety of cases obtained from local attorney referrals and cases received from the court of appeals itself.  Students are responsible to carry out several procedures over the course of the case, such as spotting legal issues relevant to the appeal, researching them and drafting memos to supervising attorneys, drafting 10 to 15 drafts of a brief.
+The clinic is one of Georgetown’s 17 clinics that specialize in legal work ranging from appellate and trial courts to advocacy work for local nonprofits. Other clinics include focuses on juvenile justice, environmental justice, health justice, domestic abuse, civil rights and criminal justice, among others, according to the Law Center website. 
+The Appellate Litigation clinic typically receives cases offered from federal courts, which represent the majority of what is in the court’s docket. As a result, the program receives cases ranging from immigration to habeas corpus, as well as cases from those being held in federal prison. 
+Law schools often provide pro bono cases to clients who would not otherwise have access to high quality legal representation. At the Law Center, students must pledge to complete at least 50 hours of volunteer work, according to the Law Center website. 
+Representation for migrants in deportation hearings remains an obstacle for many seeking to remain in the country since migrants are not legally guaranteed counsel, according to a 2016 American Immigration Council report. The AIC found that, nationally, only 37% of migrants were able to obtain representation in their deportation hearings. 
+In civil proceedings, appellants may not have access to any counsel at all, severely impacting their ability to advocate for their legal rights. Because of appellate clinic, Rodriguez Cabrera was able to secure representation he may not have otherwise been able to, according to Staggers.
+“If the clinic wasn’t able to take on Mr. Cabrera’s appeal, there’s a good chance that the government would have continued deporting noncitizens for being convicted under the statue, even though that’s not what the law allowed them to do,” Staggers said.
+Supervising the clinic annually proves a rewarding experience because of the transformation students undergo each year as they become forceful proponents for their clients, Hashimoto said.
+“I love watching students grow over the course of the year,” Hashimoto said. “I watch them become much more confident on their feet as oral advocates. By the time we get to oral argument for instance, the student has been so well prepared, they’ve pretty much heard and figured out how to answer just about every question they might get.” 
+Legal Legacy
+The decision that gang-related activity does not constitute moral turpitude will go on to serve as precedent for future immigration cases and prevent future defendants from losing their permanent resident status for gang-related activity.
+The verdict displays a possibility for change in the future of immigration law as part of an ongoing effort amongst law professionals to establish greater clarity within the realm of immigration, according to Staggers. 
+“This appeal was so timely and so impactful given the way that immigration policy has developed in the last couple of years,” Staggers said. “We’ve seen the executive branch in a vastly different trajectory than in the past.” 
+Since entering office, President Donald Trump has attempted to limit access to asylum by refusing grants to any migrants seeking to enter the United States through the southern border who did not seek asylum in any countries they traveled through other than their own, punished sanctuary cities that do not cooperate with federal immigration officials by barring them from receiving federal grants and reversed the common “catch and release” practice in which undocumented migrants awaiting their trial hearing are permitted to remain in the United States outside of a detention facility. This reversal led to the widely condemned practice of separating parents from children. 
+Particularly, fear of gang violence and violent crime has characterized Trump’s rhetoric on immigration. For example, he has portrayed migrants from Latin America as violent and dangerous in recent years, as well as directly linked violence from MS-13, a Salvadoran gang, to failures of the immigration system to stoke fears of undocumented migrants.
+However, even as Trump just last month promised to expedite deportations for undocumented migrants who cannot prove they have resided in the United States for more than two years, the ruling on the Rodriguez Cabrera provides hope that the legal system will still protect migrants from the president’s hardline stances on immigration.
+The impact a program like the appellate litigation clinic can have, both for students and future cases, can only be felt if students have the initiative, according to Staggers. 
+“Regardless of what your position is, or how much experience you have — you can still have an impact,” Staggers said. “As long as you make that initiative to fill your obligations as an attorney — you can have an impact.”
+
+Pete Bellum says 
+September 10, 2019 at 9:50 am
+So thanks to the efforts of these Georgetown law students their client — a confessed gang member — (and others in a similar situation) will be able to continue his/their illegal activities in the U.S. 
+I wish limited resources would be allocated to people and cases/causes more worthy of protection, such as law abiding immigrants serving honorably in the U.S. military who are denied citizenship.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+September 6, 2019 by Jaime Moore-Carrillo 1 Comment 
+Multiple water sources throughout the university’s main campus tested near or slightly above Environmental Protection Agency-designated action levels of lead concentrations, according to a study by graduate students at Georgetown University. 
+The study identified several tap and fountain water sources in academic and facilities buildings as having concentrations of lead that neared or exceeded the EPA’s action level of 15 parts per billion. Second-year masters students Julie Oh, Tianze Pan and Misti Persaud in the university’s environmental metrology and policy program, which focuses on measurements science of environmental toxic chemicals resulting policymaking, conducted the study.
+If more than 10% of tap water samples exceed the lead action level, water systems are required to take additional action, according to the EPA’s Lead and Copper Rule.
+About 75% of the water sources tested, including the tests performed in a residential building, yielded lead concentrations below 1ppb, well below the EPA’s alert level, according to the study. However, several water sources consistently produced lead counts near or above the action level.
+Counts in one building on campus reached levels above EPA standards. Taps on the fourth floor of the Reiss Science Building yielded a lead concentration of 6.86ppb. The kitchen sink in the Office of Planning and Facilities Management, which is housed on the lower level of New South Hall, yielded a lead concentration of 13.67ppb, and a sink on the fifth floor of White-Gravenor Hall yielded a lead concentration of 18.02ppb for sample one and 12.72ppb for sample two.
+Drinking water with more than 15ppb of lead can cause delays in physical or mental development, kidney problems and high blood pressure, according to the EPA. Children are especially vulnerable to lead, and even a low exposure level may result in damage to the nervous system and learning disabilities, according to the EPA.
+The researchers informed facilities workers in New South of the contamination and recommended they avoid drinking water from those sources. 
+While the results are not entirely conclusive, the researchers believe informing the Georgetown community about the contaminants is their responsibility, according to Persaud.
+“As scientists, it is our job to investigate the information given to us from the data,” Persaud wrote in an email to The Hoya. “However, as humans we feel obligated to let the student population know that this is a problem and to take steps to avoid possible lead contamination.”
+The researchers collected two samples of tap and fountain water from 11 buildings on campus: White-Gravenor, Lauinger Library, O’Donovan Hall, the New South facilities office, Reiss, the Intercultural Center, Copley Hall, the Car Barn and Regents Hall. The second set of samples for the study was collected two weeks after the first. 
+Persaud recommended the university replace lead piping on campus and inform students and faculty about possible water contamination. She also encouraged students to use water filters and to get water from other sources. 
+Lead contamination can occur when lead pipes are corroded by the water flowing through them, according to the EPA. Lead pipes were commonly used in homes and buildings built before 1986.
+Georgetown has not publicly provided information about the composition of pipes in many of its older buildings or in off-campus buildings, including the Walsh Building, Alumni Square and LXR Hall, according to the study. 
+The university plans to investigate the results of the study to ensure the school is meeting safety standards, a university spokesperson wrote in an email to The Hoya.
+“The safety and quality of our drinking water is one of our highest priorities,” the university spokesperson wrote. “Out of an abundance of caution, we are conducting follow-up testing in areas where the student results indicated that there may be elevated levels. Based on the results of these tests, we will take appropriate action.”
+Georgetown’s Environmental Health & Safety team regularly tests for lead in areas where children under six may be present on campus. Earlier this year, EHS performed environmental assessments and tested drinking water samples in 18 locations across campus and all results were below detection limits, according to the university spokesperson.
+High levels of lead contaminated Washington, D.C.’s water supply in the early 2000s after the city began using a treatment chemical that corroded the city’s aging pipe systems, according to The Washington Post.
+90 percent of homes with lead pipes have a lead concentration of 2 ppb or lower, according to testing by the District of Columbia Water and Sewer Authority. 
+The researchers trust that the university will act in response to the results of the study, Oh wrote in an email to The Hoya.
+“Once Georgetown is notified of this issue, I strongly believe Georgetown will act with diligence accordingly to benefit every member of the community and take the issue very seriously,” Oh wrote. “Our group would be open to working with the school’s administration to help resolve this issue anytime.” 
+The university has a responsibility to be transparent about the risks and realities of lead exposure on campus, according to Persaud. 
+“Washington D.C. is a city that is old and the pipes are mostly made of lead,” Persaud wrote. “DC does have a lead problem however one of the things that the University has neglected to do is to inform the student population of this problem.” 
+This article has been updated to clarify how many water sources tested near or above EPA action levels and to clarify the proportion of homes with a lead concentration of 2 ppb or lower in the District of Columbia.
+
+Concerned Citizen says 
+September 6, 2019 at 10:39 am
+Fyi – at Gtown hospital they are not making any hydration station sources available to visitors. I was told to use a one-use plastic water bottle or go thirsty despite expressing a willingness to walk wherever necessary to refill my resusable water bottle.
+Makes this press release seem a little disingenuous…:
+https://www.georgetown.edu/news/sustainability-leader-and-georgetown-community-focus-on-reducing-plastics
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+September 6, 2019 by Rachel Friedman Leave a Comment 
+This article discusses sexual assault on campus. Please refer to the end of the article for on- and off-campus resources.
+After student complaints about inadequate preparation and inappropriate messaging in this year’s Hoya RealTalk play during New Student Orientation, Health Education Services held a feedback session and the Center for Student Engagement proposed structural changes to the weekend. 
+The Hoya RealTalk play, an annual interactive performance about alcohol, stress culture, sexual assault awareness and some identity-based concerns, is typically shown to orientation advisors and NSO captains ahead of the new student viewing. However, this year’s full OA cohort did not see the show in advance, were unaware of content surrounding sexual misconduct and felt inadequately trained to lead breakout discussions with new students following the skit, according to Captain Emily Jonsson (COL ’20). 
+Jonsson and four other captains in their third year leading NSO — who have completed Bringing in the Bystander trainings, SAPE trainings, I Am Ready facilitations and viewed past Hoya RealTalk performances — received an advance viewing of the play after they were asked to participate in the show and felt disturbed by the content, according Jonsson. They found that the final scenes of the play downplayed the severity of sexual assault, shifted blame away from the perpetrator and failed to include an explicit sexual assault content warning beforehand. 
+“Several of us left with tears in our eyes,” Jonsson wrote in an email to The Hoya. “While there were several problematic aspects of the play, the most significant, and the one that we had specifically asked to be removed 24 hours in advance of new students viewing this play, was the final three scenes of the play.”
+Those three scenes depicted a sexual assault and its aftermath. After a drunken party scene that implied a sexual assault occured, a resident assistant casually talks to the victim and suggests on-campus resources she can utilize, according to Jonsson. In the final scene, the perpetrator admits he’s an alcoholic at an Alcoholics Anonymous meeting. The play ends with everyone hugging the perpetrator. Behind them, a message appears on a screen: “You Belong.”
+Jonsson and the four other captains emailed NSO leadership to request the three scenes be removed ahead of the showing for the entire first-year class, new transfer students and OAs. The captains were told their feedback would be passed along to HES, but no changes were made to the program’s content, according to Jonsson. 
+Though in past years OAs viewed and provided feedback on Hoya RealTalk before NSO, time constraints limited collaboration this year, according to Carol Day, the director of HES. However, this year’s play was reviewed by student health and well-being experts, she said. 
+“This year due to a new creative team, a new script, and shorter planning and implementation process time we had limited opportunities for more extensive feedback,” she wrote in an email to The Hoya. “Next year and in future years adjustments to the rehearsal schedule will provide more than one opportunity to preview the play so that NSO leaders and others can review and provide input in the pre-production phase.”
+Problems with the play’s inappropriate content were compounded by a professionally understaffed opt-out room for students who did not want to see the play or engage in the discussions, according to Jonsson. The scenes sent a troubling message to students that left NSO coordinators and OAs concerned about the impact on new students’ well-being. 
+“Maybe this is the message that Georgetown wants to be sending to its newest students – if you are accused of sexual assault, it’s okay! You belong here,” Jonsson wrote. 
+Matthew Barnes, the director of orientation, transition and family engagement at the CSE, and CSE Director Aysha Dos apologized that OA’s did not feel prepared in an email obtained by The Hoya that was sent to OAs at 2:08 a.m. Aug. 26, the morning after the play. 
+“We fully hear the feedback that the messages received today were painful, triggering, and misaligned with our goals of teaching students about consent, bystander intervention, and sexual misconduct,” the email said. “We are so sorry for the burden you carried supporting your students and each other as you processed what happened. We are also sorry that you did not feel supported or prepared to engage in these difficult conversations.” 
+Administrators have taken other steps to address the Hoya RealTalk play, including inviting OAs to a feedback session Thursday night. 
+The CSE is also working with HES to communicate directly with new students to correct misinformation in the play and inform students about resources. The offices are also considering potential adjustments to NSO to explicitly address sexual assault prevention and continuing conversations with HES to ensure OA feedback is properly communicated, Barnes and Dos wrote in an email to OAs. 
+“In the future, NSO and HES are committed to making sure the NSO staff knows what to expect from Hoya RealTalk and is clear about their roles with regard to discussing their material,” Barnes wrote in an email to The Hoya.  
+Resources: On-campus confidential resources include Health Education Services (202-687-8949) and Counseling and Psychiatric Services (202-687-6985); additional off-campus resources include the D.C. Rape Crisis Center (202-333-7273) and the D.C. Forensic Nurse Examiner Washington Hospital Center (844-443-5732). If you or anyone you know would like to receive a sexual assault forensic examination or other medical care — including emergency contraception — call the Network for Victim Recovery of D.C. (202-742-1727).  To report sexual misconduct, you can contact Georgetown’s Title IX coordinator (202-687-9183) or file an online report here. Emergency contraception is available at the CVS located at 1403 Wisconsin Ave. NW and through H*yas for Choice. For more information, visit sexualassault.georgetown.edu.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+September 6, 2019 by Riley Rogerson Leave a Comment 
+Anonymous chalk messages supporting ongoing Hong Kong protests were left in Red Square late last week, leading to a series of back-and-forth notes debating Hong Kong’s relationship with China. 
+A chalk message stating: “Stop police brutality stop political arrests” appeared in Red Square Friday morning leading someone to respond below: “HK belongs to China!!!” In the ensuing week, more messages in Chinese and English joined the conversation, including “Real Chinese support Hong Kong.” Later, posters with the heading “Hong Kong is a part of China” were left in Red Square and defaced, then disappeared. 
+Though many of the messages remain anonymous, one known author, Jeffrey Ngo, a Hong Kong native and second-year candidate for a doctoral degree in history, contributed to the pro-Hong Kong chalkings and graffitied the posters. Ngo is the only author who has been identified.
+The messages created a discourse and engaged the Georgetown University community in the international protests, according to Ngo. 
+“They might start to read about it. They might start to talk about it and I think that this would help Hong Kong in terms of generating international exposure,” Ngo said. “Obviously, again, I don’t want any injuries or anything like that but the fact that what is happening in Hong Kong and what’s happening in China, when we see that playing out at an American university it opens a dialogue.”
+Months after protests broke out opposing a bill to allow criminal suspects to be extradited to mainland China, tensions and violence in Hong Kong have risen. Hong Kong returned to Chinese rule in 1997 after over 150 years of British colonial rule, and currently exists under a “one country, two systems” policy that allows the region a significant level of autonomy. 
+Two of Ngo’s friends, student activist leaders Joshua Wong and Agnes Chow, were arrested during demonstrations last week. Though the extradition bill was officially dropped Wednesday, the protests that began in June embody a broader call for democratization and an end to police brutality, Ngo said. 
+“I think we have shaken the foundations of Beijing’s seemingly impenetrable rule over its subjects and I think, you know, it feels emotional to have left,” Ngo said. “Everybody is talking about police brutality, democratization, people want structural change in Hong Kong and that is going to be a long fight. So that fight is far from over.”
+The monthslong protests have turned international attention toward Hong Kong. The global and local conversations in Red Square open a productive conversation, according to Georgetown’s Hong Kong Student Association. 
+“We do welcome the attention and dialogue our city has attracted these past few months, both in Georgetown and around the world,” a representative from HKSA wrote in a statement to The Hoya. “We hope that this dialogue continues to be respectful, mature, and constructive.”
+Georgetown history professor James Millward has chronicled the Red Square messages on Twitter. Millward, who specializes in Chinese history, shared pictures of the chalkings to point out the relationship between the “stop police brutality” comment and the “Hong Kong is a part of China” response. 
+“My intent really was to point out that non-sequitur and to say, ‘Hey, wait a minute, listen to yourselves,’” Millward said. “I’m not unsympathetic with the concerns of [People’s Republic of China] students at all, but I think that particularly Georgetown students are capable of thinking about it in multiple ways.” 
+Ngo has long been active in Hong Kong activism and spearheaded student protests in Washington, D.C., that addressed the former Hong Kong chief executive’s resignation and democratic electoral reform. The activism in Washington and on campus could have a far-reaching impact, according to Ngo. 
+“This is the capital city of the U.S. This is also where think tanks are, policy makers are, reporters are and this institution produces a lot of people who will be in those positions in the near future,” Ngo said. “The additional meaning of having this play out at Georgetown is that it is going to leave a mark on American political discourse in the years to come.”
+Georgetown’s Chinese Student Alliance, a cultural club, declined to comment for this story. The Chinese Students and Scholars Association, a graduate student group that previously received funds from the Chinese government, could not be reached for comment. 
+The Georgetown University Student Association executive branch is preparing an official statement in support of the Hong Kong activists demonstrating for autonomy and civil liberties with peer institutions, according to GUSA Press Secretary Harper Thomas (SFS ’22). 
+“As democratically elected representatives of the Georgetown University student body, and supporters of a free and democratic society, we believe GUSA has a duty to support the student unions and activists in Hong Kong in their struggle for democracy and freedom from authoritarianism,” Thomas wrote in an email to The Hoya. 
+The protests encapsulate diverse perspectives within the Hong Kong community, opening both an international conversation and one among Hong Kongers, according to HKSA.
+“The protests happening now reflect a wide range of sentiments Hong Kongers have on their history, future, and place in the world,” HKSA wrote in a statement to The Hoya. “HKSA is open to anyone who feels connected to Hong Kong, and thus is not interested in taking an institutional stance that would risk alienating people in our community.”
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+September 6, 2019 by Sana Rahman Leave a Comment 
+The Muslim prayer space, the Georgetown University Masjid, opened to the university community in its new location in the Village C complex for its first Jum’ah prayer service Aug. 30. 
+The Muslim Prayer Room had previously been located in the Copley Hall basement since 1987. The masjid, located in what was previously known as Alumni Lounge, will now be able to accomodate the around 100 people who typically attend Jum’ah services, as well as even more people for programming events, said Director for Muslim Life Imam Yahya Hendi.
+The masjid will be a multipurpose area where Muslim students can not only receive Islamic information and education, but also interact and talk with other community members, according to Hendi. 
+“I believe and hope that this masjid would become a place where students can receive Islamic information, Islamic education, where the Muslim community will be able to find a place where they can engage with their fellow Muslims, but also their fellow sisters and brothers of humanity,” Hendi said in an interview with The Hoya.
+New additions to the masjid that were not present in the Muslim Prayer Room in Copley include a halal kitchen, where students can cook and eat halal food, separate office space for spiritual and religious counseling, and an area for general community gatherings. These additions will allow for Muslim Life to diversify their programming and reimagine the role it plays on campus, according to Hendi. 
+The new space will also open doors to opportunities for reflecting on the role of Islam in the lives of students, according to Hendi.
+“I’m trying to find a way to reimagine the Muslim community at Georgetown in light of this. Reimagine the Muslim community, reimagine the role of Islam on campus and in the lives of our students,” Hendi said. “Hence, I want to create programs that will make that happen and create a space that will foster those ideas.” 
+The idea for the masjid was first suggested around seven years ago, but it wasn’t until 2017 that finding a location and gathering funds for the space became a priority, according to Director of Campus Ministry Fr. Gregory Schenden. Fundraising and coordinating was led by the Office of Mission and Ministry, the Development Office, the Office of the President, students and alumni. 
+Adding the masjid to campus emphasizes the importance of having a space designated for Muslims at Georgetown in light of increasing anti-Muslim sentiment across the nation, according to Muslim Student Association Vice President Kumail Aslam (COL ’20).
+“In recent years it’s been tough with anti-Muslim bias and all that in the news and in the country, so I think this shows that Georgetown is dedicated to having a space for Muslims which I think is important,” Aslam said.
+The prayer space will be used for students in the broader Georgetown community to engage in conversations about various societal issues, according to Hendi. 
+“I hope this will become a place that will engage members of the larger community on issues of humanity as in social justice, environmental justice, healthcare justice, black lives matter, issues of race, war and peace,” Hendi said. “I really hope this becomes a place where people go and intentionally discuss these issues.”
+The masjid will be an open space where all types of Muslims and students can come and feel welcomed, according to Hendi.
+“I also hope that this will become a place for unity where Muslims from all walks of life will feel welcome,” Hendi said. “I want this to be a woman-friendly masjid, a youth-friendly masjid, a questioning-friendly masjid, where our students will be able to find the time to discover their purpose in life.”
+The masjid will continue to host five daily prayers, weekly halaqah, or religious gatherings, and Friday Jum’ah services. With the larger space, Muslim Life hopes to be able to bring more guest speakers to come and talk about various topics. The masjid adds to the university’s mission of creating a campus environment where all students feel welcomed, according to Schenden. 
+“The inauguration of the Georgetown Masjid, in keeping with the Ignatian value of the magis, furthers the deepening of the sense of belonging and welcome in its capacity to allow our Muslim community to live more fully lives of greater meaning,” Schenden wrote in an email to The Hoya. 
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+September 6, 2019 by Ashley Zhao Leave a Comment 
+The Georgetown University Student Association voted to impeach but did not remove Senator Peter Hamilton (COL ’20) in a series of August senate meetings after he accrued a series of unexcused absences throughout the spring and summer.
+Senator Leo Teixeira (COL ’21), who serves as the senate ethics and oversight transition chair, introduced the official resolution to introduce articles of impeachment against Senator Hamilton in the Aug. 12 meeting. Hamilton’s several absences served as grounds for impeachment, according to the GUSA senate bylaws. Hamilton was impeached in an 11-2 vote later that meeting, according to the resolution. As impeachment does not inherently merit removal from the senate, a separate vote failed 10-6 to remove Hamilton from his seat Aug. 26, as expulsion votes require a two-thirds majority instead of the simple majority necessary for impeachment, according to the GUSA bylaws. 
+Teixeira contacted Hamilton on June 14 notifying him that he had accumulated two unexcused summer absences and a third would constitute grounds for removal, according to the resolution. 
+Teixeira told Hamilton he could avoid more unexcused absences by submitting an excused-absence request form but Hamilton was slow to respond, Teixeira said. Teixeira again contacted Hamilton conveying that he had accumulated at least three unexcused absences, according to the resolution July 12. Hamilton responded July 26 and scheduled a meeting with Teixeira.
+Hamilton’s impeachment comes directly from his violation of GUSA bylaws, according to Texeira.
+“Under the bylaws, it’s explicitly stated that three or more unexcused absences are grounds for impeachment,” Teixeira said in an interview with The Hoya. “Simply put, what Peter did was in violation of those rules.”
+Hamilton was caught off guard by the impeachment proceedings, as the resolution was not listed on the senate meeting agenda and he was abroad at the time, Hamilton said.
+“I was not aware that articles would be introduced at the August 12th meeting,” Hamilton wrote in an email to The Hoya. 
+Hamilton will continue to work on several GUSA projects and remains optimistic about the upcoming year and his work for GUSA in spite of his impeachment, he said. 
+“I’m excited to get to work focusing on helping GUSA be a body that spends its time advocating for students and student organizations, not debating bylaws,” Hamilton said in a phone interview with The Hoya. “I’m optimistic going forward that we can do great work together as a student advocacy organization.”
+Amid some confusion regarding the impeachment process, the existing GUSA bylaws require reform, according to Senate Transition Chair Juan Martinez.
+“While I believe the Ethics and Oversight Committee should be radically transformed from its current form, the Bylaws lay out that accruing three unexcused absences is grounds for removal,” Martinez wrote in an email to The Hoya. “The Senate should use what is already in place to uphold the Bylaws and ensure we are an efficient and accountable body.”
+Following Hamilton’s impeachment, Senator and Transition Finance and Appropriations Chair Matthew Buckwald (COL ’20) unrelatedly resigned from his position in the senate, according to a GUSA senate email sent to The Hoya on Aug. 30. While Buckwald did not respond to requests for comment, both Teixeira and Martinez noted that Buckwald had also accumulated three unexcused absences. 
+“I have not spoken to Matt and therefore cannot say for certain that his resignation was a result of him accruing three unexcused absences,” Martinez wrote. “However, I imagine it was definitely a factor to consider in his decision.”
+Senate absences have long been an issue for GUSA. Last year, unexcused senate absences more than quadrupled from the previous year’s legislative season although a committee was introduced fall 2018 to to track attendance records.
+Teixeira raised concerns about the overall senate dynamic. With senators publicly voting to remove Hamilton from senate, some tension may arise, he said. 
+“Hopefully, everyone doesn’t carry grudges over this because again, none of it was personal. It was all just trying to do what we thought was the right thing,” Teixeira said. “If Peter or some other senators or anyone holds a grudge over this, it would be unfortunate, but it would also be human.”
+Update [May 26, 2020]: Hamilton attended all required GUSA Senate meetings over the course of the 2019-2020 academic year, according to senate attendance records.
+Hoya Staff Writer Riley Rogerson contributed to this reporting. 
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+September 6, 2019 by Anabel Getz 3 Comments 
+Former employees of Mono Diner on Wisconsin Avenue, which permanently closed Aug. 11, allege their employer committed up to $7,000 in wage theft. 
+The employees have teamed up with D.C. Industrial Workers of the World, an international member-run workers union, in an attempt to get paid for their completed hours. After facing challenges when filing a case with D.C. law enforcement, a former employee, Chase Cabot, approached the Washington, D.C. branch of the IWW. IWW then helped Cabot by starting a GoFundMe page as well as a “March on the Boss,” in which members of the union accompanied Cabot to meet with Mono Diner owner Mohammad Esfahani, who wrote him a check for $800 July 23, according to Cabot.
+Cabot was one of multiple former Mono Diner employees who approached the organization for a consultation on how to receive their earned wages, according to IWW Organizer Lou Castro.
+“They had come to us saying they had not been paid upwards of $700 and they had moved on and still never got their last paycheck,” Castro said in an interview with The Hoya. “What we uncovered was that there were several other workers at Mono Diner who were owed upwards of $7,000.”
+There are still as many as eight workers who have not been compensated, according to Castro.
+Cabot had previously worked at the Esfahani brothers’ burger franchise, All About Burger.  
+“Within about a week I was basically doing everything in the restaurant, I would be making fries, making milkshakes, running out orders to customers, for minimum wage,” Cabot said. “I felt pretty exploited. I felt like I was doing a lot more than I was told I would be doing for the same pay.”
+Esfahani opened the restaurant March 4 to attract late-night customers and Georgetown students. Before opening the diner, Esfahani had previously been involved in past cases of property mishandling, lawsuits and corporate conflicts related to past failed restaurant ventures, according to The Washington Post. 
+Many more of the diner’s workers say they lost similarly large amounts of money. The former manager of the restaurant, Charles Ordoqui, said Esfahani instructed him to withhold paychecks from employees on multiple occasions.
+“The owner asked me to not hand out paychecks on payday,” Ordoqui said in an interview with The Hoya. “The first time, he asked me to wait until Monday to hand them out because then there would be money in the account.”
+Ordoqui also said that the restaurant did not compensate him for extreme overtime hours he worked, leading to serious financial problems.
+“I was working at least 75 hours a week. There were nights where I slept there,” Ordoqui said. “They refused to pay me more than $2,500 in overtime pay. I lost my car and residence.” 
+Ordoqui said he had no choice but to continue working at the diner in order to pay bills and support his family. He claims he is still owed $5,200. 
+IWW posted the former workers’ allegations to Instagram, including one post featuring former server Aliyah Washington.
+Esfahani’s mismanagement of the diner had serious repercussions for the financial well-being of his employees, according to Washington.
+“I am still owed over $3,000, money that was supposed to be for rent and college courses this semester,” Washington wrote in the post. “Now I had to move back home and reset my entire life’s plan.”
+Esfahani’s brother and business partner Ebrahim Esfahani said he did not oversee the restaurant but defended that all employees of the diner were properly paid. 
+“Mono Diner is closed. All the employees were paid. Everyone got paid,” Ebrahim Esfahani said in a phone interview with The Hoya.
+Mohammad Esfahani did not respond to a request for comment.
+Castro pointed out the prominence of wage theft in the United States, citing an Economic Policy Institute study that shows wage theft accounts for the vast majority of property-related crimes.
+Wage theft is a crime that disproportionately affects those who are already vulnerable, Castro said.
+“Right now, the majority of people getting arrested for theft are poor and working-class,” Castro said. “But the business owners, people with money and power, get away with it scot-free.”
+This article was updated Sept. 6 to reflect that Castro was referring to an EPI study on wage theft.
+
+Abd al Matin says 
+September 11, 2019 at 2:45 pm
+“I felt like I was doing a lot more than I was told I would be doing for the same pay” i’m sure 99% of most workers in all industries feel like they should be paid more for doing additional work outside their job role but if you felt overworked and underpaid, why not look for a new job. 
+Also the GM, Charles Ordoqui is just as responsible for the unethical work practices. Seems like the business didn’t have the best leadership and now the workers are missing some money. The issue now is everyone will say they are owed money and most likely you will have to move on and take this as a learning experience
+
+CHARLES MF ORDOQUI says 
+May 10, 2022 at 4:44 pm
+actually, i kept meticulous payroll and submitted hours on-time and properly every week. Mr. Mohammed is just a poor manager of money, he owed our food vendors so much, they stopped delivering, this was the real reason for the shut down, and without employees, what can you do? when i took the helm, the menu was 26 pages long, 8.5×11, no layout, no pictures, just text and prices, written in bad English, unless you know me personally and worked with us during that horrific time, keep your mouth SHUT!!!!
+
+Pay Them says 
+September 16, 2019 at 5:27 pm
+Just pay the workers, Mohammad. Stop defending yourself with aliases on a college newspaper website and pay the workers.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+September 6, 2019 by Moira Ritter Leave a Comment 
+Aramark, Georgetown University’s food service provider, initiated management of on-campus dining locations Epicurean and Company and Bulldog Tavern beginning Aug. 23. 
+The transition comes months after about 30 Georgetown food service employees protested and striked Feb. 27 and April 4 after their contract with Aramark expired in December 2018. As negotiations began for a new contract, workers complained of low wages, unfair break times and disrespectful management. 
+Aramark and UNITE HERE Local 23, the labor union representing Aramark employees, reached a temporary contract negotiation April 15, quelling the protests. Georgetown consulted with the Advisory Committee on Business Practices and reviewed the university’s Just Employment Policy during the management transition at the two locations. 
+“We look forward to continuing to provide a high-quality dining experience across our on-campus dining locations,” university spokesperson Rachel Pugh wrote in an email to The Hoya. 
+Although the university owns all dining property, Aramark also manages O’Donovan Hall, Leo’s Market, the Chick-fil-A in the Leavey Center, Crop Chop, Royal Jacket and the Einstein Bros. Bagels in Car Barn. Bulldog Tavern was previously under the management of Aramark until Epicurean took over in August 2018. 
+The menu at Epicurean will also be reviewed this fall pending potential alterations, according to Karen Cutler, Aramark’s vice president of communications and public affairs. 
+“The menu and program for Epicurean and Company restaurant will be evaluated over the fall semester and we will be soliciting feedback from the community to help determine any future changes,” Cutler wrote in an email to The Hoya.
+Temporarily shortened hours at Epicurean, long known as Georgetown’s only 24-hour dining location, upset several returning students this fall, according to Epicurean regular Olivia Blumberg (COL ’22). 
+“My friends and I have a habit of going to Epi’s on the weekends and taking advantage of their late hours,” Blumberg said in an interview with the Hoya. “It was really disappointing to come back to school and find it was closed on the weekends.” 
+Despite some initial confusion among the Georgetown community about 11 p.m. closures, Epicurean will resume 24-hour service Thursday through Saturday on Sept. 5, according to the restaurant.
+This most recent management transition marks the second time Aramark has owned Bulldog Tavern. The Healey Family Student Center restaurant was previously managed by Aramark from May 2017 until July 27, 2018, when the contract switched to Epicurean. 
+UNITE HERE Local 23 filed a lawsuit Aug. 20 alongside two former Bulldog Tavern Aramark employees against Epicurean for alleged workers’ rights violations. The 2018 lawsuit was one in a series of lawsuits against Epicurean, including instances in 2015 and 2012. 
+During the summer management transition period, Epicurean and Bulldog Tavern workers could elect to keep their current job, according to Cutler. Aramark also worked with UNITE HERE Local 23 to create a collective bargaining agreement. 
+“All Epicurean and Bulldog Tavern employees were offered to continue their employment, if they wished to continue working on campus,” Cutler wrote. “Aramark employees working on campus are represented a union (UNITE HERE) collective bargaining agreement that covers all of the terms and conditions of their employment.”
+Although UNITE HERE Local 23 launched several strikes against Aramark over the summer, none were on Georgetown’s campus, according to Sarah Jacobson, the Aramark director for the Washington, D.C. food service district.  
+The off-campus Aramark strikes pertaining to other universities gained attention this summer when 295 workers unionized with UNITE HERE Local 23 striked at the Walter E. Washington Convention Center, according to the DCist. Aramark took over management at the center in April and since then workers have called for raises to meet the D.C. cost of living, health insurance protections, scheduling changes to prevent outsourcing and conversations around the increasing role of technology in the workplace. 
+Other anti-Aramark student and worker protests have sparked at colleges including New York University and American University. Officials at American investigated alternative food providers in response to student meal price increases. NYU chose not to renew Aramark’s contract following a series of protests around Aramark’s role as a food service provider to the private prison industry. 
+ 
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+September 6, 2019 by Amy Li Leave a Comment 
+The polarization of political discourse is a concerning trend in a time where there are growing antisemitic sentiments in the United States, panelists said at a dialogue about American Jews in the era of the President Donald Trump administration Sept. 3.
+The event titled “Loyal/Disloyal? American Judaism in the Era of the Trump Presidency,” which was sponsored by Georgetown University’s Center for Jewish Civilization, featured notable experts who remarked on Trump’s evocation of the antisemetic trope of “dual loyalty” of American Jews between the United States and Israel. 
+At a press conference with the president of Romania on Aug. 21, Trump stated American Jews would be disloyal to Jewish people and Israel if they voted for a Democrat in the upcoming election, according to The New York Times. His remark was criticized for evoking an antisemitic trope that the American Jewish community have a dual loyalty and are more faithful to Israel than their own country. 
+While no panelist drew an explicit connection between Trump’s statements and the rise in antisemitic hate crimes addressed at the event, they agreed there has been a recent shift in how people approach current political discourse reflected in the rhetoric of political leaders.
+Unclear and careless rhetoric makes room for antisemitism and stops individuals from criticizing like-minded peers, according to Senior Fellow in the Center for Middle East Policy at Brookings Institution Tamara Cofman Wittes.
+“I think that our broader political discourse and the way it has degraded has created a permissive environment,” Wittes said. “The permissive environment not only may deter people from calling out those in their own camp, but it also makes it easier for the real haters to insinuate this content into the political discourse in ways that other people may be uneducated enough to fall prey to.”
+Other panelists included Director of the CJC at the School of Foreign Service Jacques Berlinerblau, visiting professor of contemporary antisemitism and CJC Senior Fellow Ira Forman and Senior Vice President for Foreign and Defense Policy Studies at the American Enterprise Institute Danielle Pletka.
+The number of hate crime incidents targeting Jews and Jewish institutions in the United States rose 37% in the year following Trump’s inauguration, according to data released by the FBI. The number of hate crimes on Georgetown’s campus surged 275% in 2017. Antisemitic graffiti was found in restrooms outside Makóm, the Jewish prayer space, in May 2017, and swastikas were found spray-painted in bathrooms in LXR Hall during Rosh Hashanah the same year.
+The recent rise in antisemitic hate crimes in the United States corresponds with a growing partisan divide in the country, Wittes told Tuesday’s audience. 
+“If we’re talking about the situation of American Jews, what has changed is the well documented rise in antisemitic hate crimes, both violent and nonviolent,” Wittes said. “I would say that is part of a context in our American political discourse that has become more polarized, coarser, unrestrained and corrosive of some of the bonds that hold us together as a country.”
+“Antisemitism is a scourge, and the politicization of it and the politicization of everything is to our detriment,” Pletka said. “We need to be able to have a conversation and a dialogue across different ideologies and across different political persuasions and religious persuasions. The more that we try to use it as a tool that we can hang around the necks of our political adversaries, the more that it becomes a problem that we neither talk about in an intelligent way nor seek solutions to.”
+Politicizing topics such as antisemitism impedes effective discourse between those with varying political beliefs, Pletka said.
+The Muslim and Jewish communities on Georgetown’s campus have supported each other in response to antisemitic and Islamophobic attacks. After the attack at the Tree of Life synagogue in Pittsburgh in October 2018, the Muslim Student Association delivered handwritten letters of support to Jewish students and faculty. Members of the Jewish community responded in solidarity by chalking positive messages in Red Square.
+Citizens have a duty to stand up against those who put forward antisemitic, racist and sexist sentiments, according to Pletka.
+“The worst of the worst are in a category of their own,” Pletka said. “It is those who excuse them, those who create room for them in society, those that tolerate them, are the ones that enable this to spread.”
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+September 6, 2019 by Connor Thomas Leave a Comment 
+The Georgetown Institute of Politics and Public Service announced its fall-semester class of five fellows, including four Georgetown alumni, with backgrounds in fields ranging from journalism to increasing minority representation in politics.
+The Georgetown University Politics fellows, who serve for one academic semester and were announced by the institute Aug. 21, will work directly with students, holding discussion groups and office hours at the GUPolitics Office to share their industry experience with Georgetown undergraduates. The institute is held an open house with the fellows Sept. 5.
+The fall 2019 class includes four Georgetown alumi: Republican policy and political advisor Jonathan Burks (SFS ’99), former Republican Kansas Governor Jeff Colyer (CAS ’81), Senior Advisor to the Human Rights Campaign Olivia Alair Dalton (COL ’06), and ABC News reporter Karen Travers (COL ’00, GRD ’03). The fifth fellow for the semester is EquisLabs co-founder Stephanie Valencia.
+GUPolitics purposefully selected fellows from across the political spectrum in this year’s cohort, according to Executive Director Mo Elleithee (SFS ’94).
+“We seek out Fellows from a variety of professional backgrounds and political ideologies, who we know can bring diverse perspectives and help enrich the Georgetown student experience,” Elleithee wrote in an email to The Hoya. “As with every year, this year’s process was competitive, and we came out with a dynamic group.”
+This new class of fellows brings an abundance of real-world experience in public policy, journalism and politics. Burks currently works in the private sector, advising clients on national policy with his firm JWB Advisors. Colyer served as governor of Kansas from 2018 to 2019, is a board-certified craniofacial and pediatric plastic surgeon, and has a special interest in with implementing foreign aid to solve major international disasters and humanitarian crises.
+For eight weeks this semester, each fellow will hold a 90-minute discussion group in the evenings open to the whole Georgetown community on a topic relevant to their industry. Elleithee stressed the accessibility of the fellows in these discussions.
+“There are no required readings and no homework, just lively discussions open to the entire university community,” he wrote. “This semester’s discussion topics range from the 2020 presidential election, to White House reporting, to strategies for success in public service, and more.”
+Bringing a policy background to the cohort, Dalton is currently the senior advisor to the Human Rights Campaign and founder of Dalton Strategies, and she formerly served as First Lady Michelle Obama’s press secretary. She is known for her active commitment to LGBTQ rights and policy. Valencia is the co-founder of EquisLabs, which works to empower the Latinx electorate to make their voices heard in American politics. She also advised former President Barack Obama during his campaigns and both his terms in office, serving in the White House Office of Public Engagement.
+In the journalism industry, Travers is a Washington, D.C.-based White House correspondent at ABC News, where she began working in 2000. She has covered the President Donald Trump administration, the Russia probe and Trump’s international trips and summits with world leaders. 
+Any currently enrolled students can visit the fellows during their office hours at the GUPolitics Office in Healy Hall, and the institute encourages all students to take advantage of the program, according to Elleithee. 
+Student engagement with the fellows helps the program reach its full potential, according to Jennie Fay, director of fellows and career programming.
+“The students’ enthusiasm is really what makes this program so successful: from volunteering their time to assist with our Open House and special events, to working on student strategy teams, to attending regular discussion groups, Georgetown students bring immense value to our Fellows program,” Fay wrote in an email to The Hoya. “They are why the Fellows are here, and so it’s exciting to see so much interest in this program every semester.”
+Elleithee said he was excited to see so many alumni were interested in coming back to Georgetown and working with current Hoyas.
+“We’re especially psyched about this class of fellows, which includes folks who have reached the top of their fields in politics, government, advocacy and media. And it’s extra special that four of the five are Hoyas themselves,” Elleithee wrote. “Each semester, the GU Politics fellows help pull back the curtain on politics, helping to shed light on how it really works, and exploring with students how to make it work better.”
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+September 6, 2019 by Harrison McBride Leave a Comment 
+A variety of new clubs, including a climate lobbying club and an anti-gun violence organization, are set to table at the 2019 Fall Council of Advisory Boards Fair this Saturday. 
+CAB fair, the semesterly event that highlights student organizations on campus, will run from 2:00 p.m. to 5:00 p.m. September 7 on Copley Lawn. The fair highlights over 300 clubs and will feature the Citizens’ Climate Lobby and March for Our Lives, among other new student groups. 
+The CCL, an international advocacy organization, will table at CAB fair for the first time Saturday, according to President Laura Rockefeller (SFS ’22). The primary goal of the Georgetown University chapter of the organization will be to lobby Congressional representatives to sponsor the Carbon Fee and Dividend proposal in support of imposing a price on carbon-emitting fuels, Rockefeller said.
+“We want to make an impact and have a ton of fun doing it,” Rockefeller wrote in an email to The Hoya. “The Georgetown chapter of CCL will work with the environmental community here on campus, but our larger goal is Congressional action.” 
+Bringing a chapter of CCL to Georgetown will add to campus environmental initiatives and allow the club to build relationships within the community and advocate for the national organization’s focus on climate policies, according to Rockefeller.
+“After learning more about the organization and getting involved with it as a whole, I realized I wanted to bring a formal university chapter to our school,” Rockefeller wrote. “The existing environmental community at Georgetown is fantastic, and I’m so excited for CCL to continue building those relationships while we work to promote the national branch’s goals.”
+Undergraduates can start a new student organization through a semester-long New Club Development process, according to the university website. The listed procedure and related documentation are required for new organizations to be fully recognized, to receive Access to Benefits status and to access space reservation services. 
+Students interested in developing a new club could start the process last week in two of the three information sessions Wednesday morning at 9:00 a.m. and Thursday at 11:00 a.m. in the Leavey Center to gain an extensive overview of the process, according to CAB Chair Josh Sirois (SFS ’20). 
+If students missed the meetings, they are still encouraged to table with their groups in on-campus public areas like Red Square or the Healey Family Student Center, hold meetings in classrooms reserved through the registrar and advertise around campus, as long as signage does not use Georgetown’s name, logo and trademarks, according to the website. 
+New clubs add to the diversity of backgrounds and perspectives on campus by providing more opportunities for community, according to Sirois. 
+“Georgetown brings together students with immense variety of backgrounds and lived experiences — all of whom have different interests and activities that they enjoy,” Sirois wrote in a statement to The Hoya. “Our opportunities for involvement must be just as diverse in order to create spaces for and build communities with all Hoyas on the Hilltop.”
+The Georgetown chapter of March for Our Lives, a national anti-gun violence organization, will also attend their first Fall CAB fair this Saturday. The chapter will not only focus on the annual march against gun violence but also support gun violence preventative measures, according to Communications Director Kira Pomeranz (COL ’22). 
+“Many people think of the literal march on March 24th, 2018 when they hear our organization, and typically people ask us when the march will be this year,” Pomeranz wrote in an email to The Hoya. “However, this club is the Georgetown University branch of students who support gun violence prevention run through the organization behind the literal march.” 
+The initial march to protest gun violence happened in Washington, D.C., March 24, 2018, following the Marjory Stoneman Douglas High School shooting on Feb. 14, 2018. Students at Georgetown had a 17-minute walkout one month after the shooting to commemorate each person killed and to advocate for policy change. 
+The Georgetown chapter of March for Our Lives is fit for students who want to talk about gun sense legislation and important, difficult topics during club meetings, according to Pomeranz.
+“I would suggest this club to anyone who agrees with gun sense legislation—regardless of political affiliation,” Pomeranz wrote. “If you come to a meeting you’ll have to think about subjects that make you uncomfortable, but it’s an experience that is so important.
+Sana Rahman and Riley Rogerson contributed to this reporting. 
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+September 6, 2019 by Cady Stanton Leave a Comment 
+Journalism, government and public policy professionals, including two Georgetown University alumni, are among this year’s cohort of School of Foreign Service Centennial Fellows for the 2019-20 school year.
+This cohort marks the third year that the SFS has hosted a class of Centennial Fellows. All fellows are first nominated by faculty members, then reviewed by a Centennial Fellows Committee consisting of two faculty members and two students, according to Former Senior Associate Dean for Graduate and Faculty Affairs and Professor Anthony Arend. SFS Dean Joel Hellman made the final decisions on candidates.
+The fellows will work closely with a group of SFS undergraduate students who are chosen as Junior Fellows based on consultations with the fellows and the dean’s office. The Junior Fellows, who will be announced by the dean’s office by Sept. 13, will work directly with the Centennial Fellows on specific projects relevant to each Centennial Fellow’s background, including organizing panels, preparing for media appearances and developing op-eds, according to Arend.
+The Junior Fellows program fosters strong mentorship relationships between students and Centennial Fellows, according to Dean Hellman.
+“What I’ve seen happen over the course of this Centennial Fellows program is that the students often build very deep relationships with the Centennial Fellows, and that has a mentoring dimension, that has a personal inspiration dimension,” Hellman said. “You can just see the depth and the warmth of the relationship that develops across these Centennial Fellows and Junior Fellows.”
+William Priestap concluded his 21-year career with the FBI earlier this year after serving as assistant director of the FBI’s counterintelligence division from December 2015 to December 2018. The Centennial Fellows program allows for mutual learning between students and career professionals, according to Priestap.
+“I most look forward to learning from GU students, faculty, and the other fellows. I’m sure many of them view the world very differently than me, and I can’t wait to hear their perspectives,” Priestap wrote in an email to The Hoya.
+In addition to Priestap, the cohort includes Global Fellow at the Woodrow Wilson International Center for Scholars Jill Dougherty (GRD ’13), Visiting Fellow at the Center for Global Development W. Gyude Moore (GRD ’09) and CARE USA’s Vice President for Humanitarian Policy and Practice Bathsheba Crocker. The fellows will hold office hours with undergraduate students, work with courses in the SFS and participate in events on campus throughout the year.
+Moore, who previously served as Minister for Public Works of Liberia, has worked in a multitude of positions within the Liberian government, including as Deputy Chief of Staff to President Ellen Johnson Sirleaf. 
+Having served in his role during a period when Liberia suffered the effects of the West African Ebola outbreak, Moore hopes to share the lessons he learned in a leadership position in a post-conflict, low income country.
+“Very few people have the experience of crisis management with stakes that high,” Moore wrote. “I had to make decisions on the deployment of very limited resources over a significant infrastructure gap, amidst political considerations. I think the leadership lessons from those experiences will be useful for our students.”
+The fellowship position serves as a chance for him to pass on the lessons he has learned to interested students, according to Moore.
+“It was an opportunity to give back to a university and community that have given so much to me,” Moore wrote in an email to The Hoya. “Many of the students here will go on to assume leadership positions across different disciplines – it makes sense to share what I’ve learned before they head out.”
+The SFS hopes that students take advantage of the access to the fellows’ expertise to make steps forward in their career and personal development, according to Hellman.
+“Every year we’re always so fortunate to get a group of people who are experienced in different fields who have a lot to offer students in terms of mentoring, support, guidance and have a really diverse set of experiences,” Hellman said. “It creates an opportunity for a range of our students who are interested in different career paths to get to engage with them.”
+ 
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+September 6, 2019 by Katrina Schmidt 1 Comment 
+Walking into the Intercultural Center Galleria just a week ago, heavy wooden tables and coffee-stained couches greeted visitors to the central space of the home of the School of Foreign Service and several academic departments. Beginning Tuesday, brightly printed couches and sleek white tables replaced the outdated furniture in the first stage of refreshes to the space. 
+The updates are the result of a campaign by the SFS Academic Council to change easily mutable elements of the galleria now rather than wait for potential future renovations to the ICC, Siddharth Muchhal (SFS ’21) said. 
+“Academic council is just really happy that we were able to get this sort of project moving forward,” Muchhal said. 
+Refurbishing the long-maligned galleria has been the subject of discussion among the SFS Office of the Dean, faculty and students since at least the spring of 2018, when SFS Dean Joel Hellman presented three proposals for the ICC at a public event. Students in attendance at the time raised questions about the lack of a simple option addressing current concerns, asking why the student body must wait years for potential renovations rather than immediate fixes like adjusting lighting and furniture. 
+“I always felt from the time I arrived here on campus that the Galleria was very underutilized as a space,” Hellman said in an interview with The Hoya. “It wasn’t an inviting space, it didn’t have furnishings or groupings of furnishings that would lead people to talk and engage.”
+In response to these and similar conversations, the academic council created and shared a Google Forms survey with students and faculty that asked open-ended questions such as “What are your main concerns with the ICC Galleria (Atrium)? How can it be improved?” The survey was open from April 11, 2019, to April 23, 2019. 
+Seventeen faculty members and 267 students responded to the survey, naming the lack of seating, poor lighting and excessive noise as some of their key concerns, among others. The survey was used to develop the plans for the cosmetic updates implemented this week. 
+The galleria previously had 56 maximum available seats. The new seating arrangement has 61 seats, and the layout is intended to make the space more flexible for a range of uses. In addition to increased seating and a variety of tabletops, a rug was added underneath the entire space to control sound in the brick atrium with soaring ceilings that was previously at a constant din, according to Chief of Staff to the SFS Dean Emily Zenick. 
+“The whole idea is to have a community space,” Zenick said in an interview with The Hoya. “We purposely designed it so that people can move around the chairs and there’s some alone space.” 
+As the central space in the seven-story ICC, one of the largest academic buildings on campus, the galleria is crucial as a workspace for students both in the SFS and other schools, Mucchal said. 
+“The furniture layout is obviously much more modern, much more new, much easier to work with, much more inviting for students to sit, study, collaborate with other students — which I think really is the goal of the Galleria as a space, as the heart for the SFS,” Mucchal said.
+Although reactions to the new furniture have been mostly positive, according to Mucchal and Zenick, not all students feel that the space is utilized as well as it could be. 
+Claire Hazbun (SFS ’20), who replied to Hellman’s tweet announcing the changes, said in an interview with The Hoya that the layout is ineffective. 
+“I think the main priority is to be able to accommodate as many people as possible,” Hazbun said. “The way that they’ve chosen to kind of have individual small seats, or smaller tables, the bar height tables — I just don’t think it’s very efficient.” 
+Hazbun wishes the update had attempted to simply maximize the space, rather than diversify the types of seating. 
+“I would say if they were to completely redo it, they should just make a bunch of communal tables that seat four people,” she said. “A couple of couches are fine, but I just don’t think those are functional for most students who often go there to be on their laptops or read or take notes or do homework in between classes,” Hazbun said.
+In addition to the galleria, areas in front of the first and second floor elevators received new seating on Thursday that will be installed in the upcoming days. Even more renovations are coming, and artificial lighting will be installed over winter break to improve the lighting in the space, according to Zenick. 
+“Even on the bottom floors, which are still the most problematic in the ICC, we’re trying to try and create better common spaces in the hallways so that students can use them more effectively,” Hellman said. “There’s still a long way to go in the ICC, and in order to get this building to be truly accommodating and truly welcoming I think this is a good step, and I can say in the first few days I’ve noticed a kind of new energy.” 
+
+Suarez says 
+August 4, 2021 at 11:05 am
+I really enjoyed reading this article, and found it quite informative. And especially the part about the popularity of the cabinet handles. Thanks for sharing! I generally prefer cabinet handles and would recommend it to all.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+September 6, 2019 by Harrison McBride Leave a Comment 
+Skip dockless scooters resumed regular operations in Washington, D.C., Arlington and Alexandria on Aug. 31 after a Skip warehouse fire led the District Department of Transportation to suspend the company’s permit in June. 
+Arlington and Alexandria also discontinued Skip’s operations in their cities shortly after, according to The Washington Post.
+Reports of the warehouse fire came days after a separate scooter fire was reported and linked to the San Francisco-based scooter company in late May 2019.
+At the time of the fire in June, a DDOT investigation also revealed two undisclosed Skip scooter fires in September and November 2018. Ultimately, Skip claimed in a series of tweets that the June fire was due to batteries that had been removed from scooters and was not linked to a charging problem or the scooters themselves.
+The company showed that it took the appropriate measures to correct the issues that led to the fires, according to DDOT Director Jeff Marootian.
+“Skip has submitted documentation demonstrating the clear steps they have taken to ensure that best battery safety practices are followed by all staff and facilities,” Marootian wrote in an email to The Hoya. “After reviewing the revised procedures and finding there will be increased oversight to operation practices, DDOT believes that Skip will be able to operate safely in public space.” 
+Skip published a news release Aug. 9 announcing its return to the District and the specific safety measures the company took during its suspension.
+“Over the last six weeks, we committed ourselves to completely revamping our safety approach,” the company wrote in the news release. “It started with consulting battery experts and OSHA compliance firms to implement new operations and audit procedures for handling and disposing of damaged or vandalized equipment in the field and at our warehouses.”
+Those procedures include using diagnostics to provide real-time monitoring of scooters and their batteries so unsafe units can be removed from the streets. Skip will also make safety certifications mandatory for warehouse employees and focus on comprehensively reporting scooter issues to DDOT.
+After the audit and Skip’s promise to implement these safety measures, DDOT approved the company to resume operations in D.C., and Arlington and Alexandria followed suit.
+Now that the scooters are available again, Skip will focus its efforts on making sure they are available in college neighborhoods, according to Rob McPherson, Skip Scooters’ D.C. general manager.
+“Skip is thrilled to be back serving the DC community,” he wrote in an email to The Hoya. “We are particularly focused on serving the areas of Georgetown and Foggy Bottom where students want a low cost, readily available transportation option.”
+This is not the first time that dockless vehicles in D.C. have faced problems. Capital Bikeshare, which is owned by Lyft, recalled its electric pedal assist bikes in April following reports of injuries sustained by riders due to faulty brakes. The e-bikes are expected to return sometime this fall, according to WTOP, but Capital Bikeshare has not named a specific date.
+Skip’s competitor Lime recalled thousands of scooters last year, announcing in an October 2018 statement that it learned a manufacturing defect put its scooters’ batteries at risk of smoldering or catching fire, according to The Washington Post.
+In November 2018, DDOT implemented new requirements for dockless vehicle companies including a higher operating fee in the city and a reduced maximum scooter speed. Ward 3 Councilmember Mary Cheh pushed for the guidelines after the death of one man on a scooter and another on a bike in September 2018.
+These rules were initially met with some opposition by several other scooter companies in the District, but Skip reportedly complied after the requirements were enacted.
+Skip stated it would be offering free rides to returning customers once operations fully resumed. Details about this program, however, have not yet been released by the company.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
