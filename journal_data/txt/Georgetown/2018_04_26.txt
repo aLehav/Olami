@@ -1,0 +1,186 @@
+
+April 26, 2018 by Jeff Cirillo and Christian Paz Leave a Comment 
+Students of Georgetown, Inc.’s internal network of Google accounts was hacked on the night of March 21, leaving the student-run business commonly known as The Corp without access to internal documents, records and email communications for about a day.
+The Metropolitan Police Department and the Georgetown University Police Department responded to the incident the following morning. MPD referred the incident to the financial and cyber crimes unit of the FBI, which is investigating the case, according to MPD and FBI spokespersons.  
+The Corp did not comment on any aspect of the law enforcement investigation or response. 
+The attack, confirmed to The Hoya by The Corp last week, underscores the vulnerability of campus organizations to malicious cyberattacks, particularly as clubs increasingly store internal data on digital platforms. 
+On the night of the attack, the yet-unidentified hacker or hackers accessed The Corp’s internal network of Google accounts, called a G Suite. The Corp uses the suite for email communication, as well as storage of important documents concerning daily operations including schedules, employee handbooks, policy documents and other materials, according to Alex Gong (SFS ’20), CEO of The Corp.
+Soon after gaining access at about 8:30 p.m. on Wednesday, March 21, the hacker deleted the entire G Suite later that night, wiping out important data, files and all Corp employees’ Google accounts.
+The Corp’s accounts and data were fully restored within a day of the hack, according to Gong. No files were altered or permanently lost, and no sensitive employee or customer data were compromised as a result of the incident, Gong said.
+“Protecting that information will continue to be a priority for us moving forward,” Gong wrote in a statement to The Hoya.
+Typically, G Suites that have been deleted cannot be recovered. Google technicians managed through an “unconventional process” to restore the suite, according to Ricardo Mondolfi (SFS ’19), the chair of The Corp’s board of directors. Before the G Suite was restored, the company’s senior leadership could not be certain whether their files would be recovered or whether The Corp’s storefronts would be able to operate without them.
+A spokesperson for Google declined to comment, citing the confidentiality of customer service matters.
+The cyberattack underscores the vulnerabilities of Georgetown’s other entirely student-run organizations, which may operate with lackluster cybersecurity protocols.
+The Corp, which has its own in-house IT department, employs over 430 students and calls itself the largest student-run 501(c)3 nonprofit corporation in the world, has fallen victim to previous attacks on its digital platforms. Last September, an unidentified person used a Corp email account to send a sexually explicit email to all Corp staff. In February 2016, all The Corp’s storefronts were shuttered for about two hours after a hack on the company’s online servers.
+“It is clear that no student group is immune to cyberattacks, and we encourage others to follow our lead and take permanent steps to secure their systems from unwanted interference,” Gong wrote. “Most organizations and offices on campus conduct business digitally, but I don’t think many groups fully realize the risk in relying on online platforms to host sensitive information.”
+On the morning of Thursday, March 22, the day after the attack, The Corp’s senior leadership contacted various Georgetown administrators and University Information Services, whose officials provided technical guidance and support, according to Gong and Mondolfi.
+Rachel Pugh, Georgetown’s senior director for strategic communications, did not comment on the details of the university’s response to the incident. Pugh said UIS continues to provide “advice and assistance” to The Corp.
+“While their technology systems are separate from Georgetown’s, UIS understands The Corp is comprised entirely of our students and their customers are our students, faculty, staff and visitors so we continue to provide advice and assistance,” Pugh wrote in an email to The Hoya.
+Chief Information Officer of UIS Judd Nicholson did not comment.
+On the administration’s actions to help other campus organizations bolster their digital security after the incident, Pugh wrote, “UIS continues to engage its student technology advisory board on technology issues affecting students and strategies for communicating with the campus community about best practices.”
+With the university’s support, The Corp has taken steps to strengthen its online security in the aftermath of the incident. University administrators put Corp leadership in contact with a security consulting firm after the incident to help strengthen their cybersecurity protocols, according to Gong. 
+Employees are now required to use two-factor authentication to access their Corp email accounts and to change their passwords monthly. Employees were also advised to update verification information when control of an account changes hands.
+The onus is on student leaders to “implement common-sense protocols in our respective organizations,” Gong said, adding that it “wouldn’t hurt” if university administrators promoted sound cybersecurity practices more robustly.
+“We’re continuing to cooperate with our partners in the administration to work through the technical logistics associated with the issue,” Gong wrote. “We’re extremely grateful to our partners in the administration for providing us with the resources necessary to resolve the issue in a timely fashion.”
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 26, 2018 by Josh Metzger Leave a Comment 
+D.C. Public Schools lost over $500,000 in tuition collection by failing to verify the residency of enrolled students, according to an April 17 report by the D.C. Office of the Inspector General.
+The 28-page report released by Inspector General Daniel Lucas concluded that DCPS and the Office of the State Superintendent of Education, the agency that oversees both private and public schools, lack the mechanisms necessary for verifying student residency. The report examined academic years 2014 to 2016.
+In two-thirds of the residency fraud cases examined, the OSSE settled accounts for less than the tuition owed and remains ill-equipped to provide accurate records of these cases to auditors, according to the report. The audit revealed inadequate recordkeeping and lax enforcement of rules against fraudulent enrollment of students nonresident in school districts.
+The District did not collect mandatory nonresident tuition in full prior to admitting nonresident students, according to the report. The value of the uncollected school fees totaled almost $170,000.
+Eighty-two of 85 nonresident students included in the audit report were allowed to attend Washington, D.C. schools for free despite their parents not paying tuition.
+“The District extended payment agreements for self-identified, non-resident students without obtaining required evidence that the students lacked a comparable educational program where they resided and suffered from severe, temporary financial problems,” the report stated.
+The report also found that the OSSE did not adequately work with the D.C. Office of the Attorney General when designating cases as in violation of the False Claims Act, the primary litigation tool for combating fraud against the government.
+The investigation comes in light of several scandals surrounding education within D.C. Mayor Muriel Bowser’s (D) administration. The administration has previously had to handle the resignation of former D.C. Public Schools Chancellor Antwan Wilson, who used his position and influence to enroll his daughter at a top-rated D.C. high school, bypassing a waitlist of more than 600 students.
+The report recommended changes to the procedure and protocol of the OSSE and the DCPS to resolve ongoing issues and establish documentation requirements for proof of residency.
+Lucas recommended disallowing nonresident students who have not paid tuition from attending D.C. Public Schools; that all fraud cases be referred to appropriate authorities including the Office of the Attorney General, the U.S. Office of Government Ethics and the Office of the Inspector General; and that standard operating procedures be implemented to track all residency fraud allegations.
+D.C. Council Chairman Phil Mendelson (D-At Large) co-introduced legislation with Councilmember Mary Cheh (D-Ward 3) to remedy the problems Lucas highlighted in his report.
+The bill seeks to establish the District of Columbia Education Research Advisory Board and the District of Columbia Education Research Collaborative, an initiative that would audit the District’s school data and data collection policies in addition to conducting long-term education research.
+The recently proposed legislation addressing the issue of residency fraud is not the first of its kind, Councilmember David Grosso (I-At Large) said in an April 17 news release.
+“Since I took over the chairmanship of the Education Committee in 2015, I have regularly pressed the Office of the State Superintendent of Education on its efforts to verify residency, identify fraud, and refer cases when necessary,” Grosso said. “I made investments through the annual budget process to provide OSSE additional resources to fulfill those responsibilities.”
+Grosso identified the need to consider residency issues, such as homelessness and unstable family life that many District students face.
+“While there are certainly cases of those defrauding the system, we must balance the need for rigorous enforcement with the need to provide educational opportunities to our most disadvantaged students,” Grosso said in the news release.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 26, 2018 by Elizabeth Douglas Leave a Comment 
+Eighteen new senators were elected in the Georgetown University Student Associations senate elections for the 2018-19 school year that were held April 19. This election marks the first one since the passage of a set of referendums that upended voting policy this February.
+The referendums that altered GUSA elections were attached to the executive elections that took place February 22. The referendums moved upperclassman senate elections from the fall of the year in which the senators serve to the spring of the preceding year.
+Josh Sirois (SFS ’20), Juan Martinez (SFS ’20) and Harry Clow (MSB ’19) were appointed transition chair, transition vice chair and transition finance and appropriations committee liaison, respectively, on April 22. These three positions were newly created by the referendums to serve for the transition period over the summer, which did not exist under the old system.
+In past years, all senate elections took place in the fall. Beginning with this week’s elections, that is now true only of first-year senators and at-large senators, the latter of whom have no restricted constituent base and instead are elected by the student body as a whole.
+Under the previous framework, senators were elected by constituencies determined by geographic campus housing districts. Senators are now elected by class year, regardless of housing location. Six senators were elected for each of the three grades voting in this spring’s elections.
+The overall student body turnout was 23 percent, according to the GUSA Elections Commission Twitter account. Rising seniors had the lowest voting turnout at 13 percent; rising juniors and rising sophomores saw 28 percent and 29 percent turnout respectively.
+The overall turnout of the preceding senate elections, which took place in September 2017, was seven points higher at 30 percent.
+According to Minji Doh (SFS ’19), chair of the GUSA Elections Commission, that low number may not truly be a result of decreased community engagement; rather, she pointed to the fact that the incoming freshman class will not vote until the fall. Their absence in these elections, Doh said, depressed the turnout numbers.
+“Usually, our biggest turnout is from the freshmen,” Doh said in an interview with The Hoya. “This year, obviously, they are not included in the freshman Senate race. The freshmen that are voting right now are technically sophomores. In the fall [of freshman year], everybody’s super excited. So we would have to wait for next year for the overall turnout.”
+This year’s turnout numbers cannot be accurately compared to those of previous years because of the switch to the class-year system from the district system, according to Doh. Last year’s data are based on housing locations and therefore do not translate to the class-year system, Doh said.
+“It’s really hard to compare [the turnout statistics] to last year, because the districts usually are mixed with sophomores, juniors and seniors, so it’s kind of hard to distinguish them,” Doh said.
+Though senate races in incoming freshman classes have historically been very competitive, the races in the rising sophomore and junior classes were significantly more crowded with candidates than district races in previous years, according to Sirois, a three-time senator who was re-elected March 19.
+“For the rising sophomore and junior classes, there was double the amount of people than there were seats available. I’m not going to say it was cutthroat, because everyone was really nice and cordial, but it was definitely a lot more competitive than we’ve seen in the district system in previous years,” Sirois said.
+Now that the district boundaries have been removed, the constituency pools are larger, and all the candidates in each year campaign are in direct competition with one another, Sirois said. He pointed to his experience campaigning in the district system for the at-large senator seat with Martinez, his friend, as an example.
+“We weren’t competing with every member of our class,” Sirois said. “And that’s where it got to be a little more difficult. It’s not based on where you live now; it’s based truly on representing your class, which made it more competitive, for sure, in the freshman and sophomore classes.”
+The six elections for rising senior senators, meanwhile, were much less competitive than those of the younger grades, according to Doh. The only competition took the form of an unofficial write-in campaign, which posed an electoral challenge to the official candidates but was ultimately unsuccessful.
+“Upcoming seniors, so Class of 2019, [were] uncontested because we had six people running and there were six seats,” Doh said. “There was a viable write-in campaign, so we didn’t know what was going to happen.”
+On the whole, the lack of freshmen made the elections much less error-prone than usual, as measured through reports to the Election Commission, Doh said.
+“This season was actually really smooth sailing. We didn’t receive a lot of complaints — definitely fewer than in the past,” Doh said. “I think this year, everybody was in good spirits, and I think that it was also because this was upperclassman races. A lot of them already had some kind of experience, more or less, with the procedures. We would have a [few] more complaints from incoming freshmen.”
+Correction: A previous version of this article called the February executive elections the executive board elections.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 26, 2018 by Jessica Lin Leave a Comment 
+A $1 million reward is being offered for information leading to the whereabouts of Austin Tice (SFS ’02), a U.S. freelance journalist who has been missing in Syria since 2012, the FBI announced April 19.
+Tice, 36, disappeared near Damascus while reporting on the Syrian civil war. The FBI released a poster and a statement on its website exhorting people to report any information that could lead to his location, recovery or return.
+While U.S. intelligence assessments from the past 18 months suggest Tice has survived his captivity, the FBI said that the timing of the reward is unrelated to any specific piece of information. An FBI spokeswoman declined to comment on how federal authorities settled on the $1 million sum, stating only that the agency takes numerous considerations into account, including “the severity of the danger or injury” and “the risk faced by a source.”
+Tice’s mother, Debra Tice, said his family remains confident that he is still alive and has gained renewed hope for his safe return from the reward announcement.
+“We are so heartened about the current efforts and the reward because we are hoping that someone will come forward with information that leads to Austin coming safely home, and we look for that every single day,” Debra Tice said in an interview with The Hoya.
+The fact that the decision to post a reward resulted from an internal FBI initiative and not a request from the family offers further reassurance, according to Debra Tice.
+“That effort came internally — we didn’t push it — so that is even more gratifying to us,” Debra Tice said.
+Tice was set to be a double Georgetown alumnus, having been a School of Foreign Service graduate and a Georgetown Law Center student at the time of his disappearance.
+The FBI reward raises hopes that the government will be able to secure Tice’s freedom, Georgetown’s Associate Vice President for Federal Relations Scott Fleming said.
+“The reward shows that the administration is strongly committed to trying to secure Austin’s release and return home,” Fleming said in an interview with The Hoya. “The fact that the FBI has been willing to come forward with that is another sign that we’re still serious, and it also says to me that there’s great confidence that indeed Austin is still alive.”
+Government involvement is essential to raising public awareness about the #FreeAustinTice campaign, which could help bring forward new information, Inès de Miranda (COL ’20), who is set to take on a leadership role in the Georgetown campus’s #FreeAustinTice campaign in the fall, wrote in an email to The Hoya.
+“[The reward] generates interests and hopefully will yield results,” de Miranda wrote. “We’ll have to see what unfolds, but it’s a renewed show of commitment that is reassuring and maybe even hopeful.”
+Ari Goldstein (COL ’18), who has been a leader of the campus #FreeAustinTice organization, said he was “thrilled” about the FBI’s reward announcement and emphasized the importance of keeping Tice’s case in the public eye.
+“Our current action is not to pressure the government to start doing things differently, but rather to really support and encourage the work that’s been going on,” Goldstein said in an interview with The Hoya. “Most importantly, we need to keep Austin’s name in the media so that people outside the government also care about prioritizing his safe return home.”
+A weeklong exhibition of Tice’s photographs from Syria was put on display in the Intercultural Center Galleria on Monday. The project was led by Goldstein and hosted by the Georgetown Journalism Program.
+The exhibit will help raise Tice’s profile within the Georgetown community, according to SFS Dean Joel Hellman.
+“I hope more students passing by the exhibition get the chance to understand his story and keep him in their thoughts and in their advocacy to ensure that he comes home,” Hellman said in an interview with The Hoya. “I think that anything we can do to rally our students, our faculty and the prominence and prestige of Georgetown around this case is important.”
+Members of the Georgetown community have a unique responsibility to engage in advocacy for Tice’s return, Goldstein said.
+“We have a particularly special role to play, given Austin’s connection to the Georgetown community,” Goldstein said. “It’s on the university to provide institutional support for Austin’s cause, and it’s also on the student body because if we don’t do it, who will?”
+Goldstein hopes students will take advantage of the recent publicity surrounding Austin’s disappearance to amplify their voices in his campaign.
+“I hope younger students take the attention that’s being generated about Austin in the news right now as further motivation to get involved by continuing to keep Austin’s name in people’s hearts and minds,” Goldstein said. “The moment to speak up is now.”
+Emily Kaye (COL ’18), who has also been a leader in the campus #FreeAustinTice campaign, echoed Goldstein’s sentiment and said that Georgetown is well-positioned to contribute to federal advocacy on behalf of Tice.
+“I see Georgetown as the main convening body to continue the conversation about Austin with the federal government and to ensure they do everything they can to bring home,” Kaye said in an interview with The Hoya.
+Fleming applauded the efforts of Georgetown students who have taken part in Tice’s awareness campaign.
+“The important thing to the family is just to keep Austin’s story visible and out front because if somebody like him gets forgotten, then the pressure to continue working goes away,” Fleming said. “Our students are inspired by his story, and I think they are playing a very valuable part in spreading it.”
+Amid the ongoing uncertainty surrounding Tice’s case, the university will continue to stand in solidarity with Tice and his embodiment of Georgetown’s values, according to SFS Chief of Staff to the Dean Emily Zenick.
+“Austin is a classic SFS student — chasing a dream and making a difference in the world as a journalist,” Zenick wrote in an email to The Hoya. “We couldn’t be prouder to call him a brother of Georgetown.”
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+April 26, 2018 by Karena Landler Leave a Comment 
+JPMorgan Chase plans to increase philanthropic investments and create up to 70 new branches and 700 new jobs in the Washington, D.C.-Maryland-Virginia region, an expansion that Chase executives say will benefit lower-income communities.
+The firm will designate $4 billion to invest in affordable housing and small business development over the next five years, according to an April 19 news release. Its philanthropic investments in “underserved neighborhoods” are set to increase from $10 million to $25 million to fund skills training, aid expansion for minority-owned businesses and improve “consumer financial health.”
+The expansion is part of a response to new regulations and tax reforms that have brought capital to firms through corporate tax rate cuts, JPMorgan Chase Chairman and CEO Jamie Dimon said in an April 18 CBS News article.
+“With this will come more than just new branches,” Dimon said in the April 19 news release. “We will combine the best of our business and philanthropy to help more communities benefit from regional economic growth.”
+The new branch locations will increase housing accessibility for low-income neighborhoods, according to Jesse Meisenhelter, spokesperson for the National Community Reinvestment Coalition, an organization that works to increase fairness in banking, business and housing.
+“In mortgage lending, bank branches still provide important access to mortgages for customers in low-income areas, and at lower rates,” Meisenhelter wrote in an email to The Hoya. “Research from a 2010 Federal Reserve study showed more mortgage loans and at lower rates in low-income neighborhoods that had more bank branches present.”
+The locations will be subject to the Community Reinvestment Act of 1977, which monitors lending practices of banks with physical branches in a community, ensuring Chase serves poorer residents, Miesenhelter said.
+“JP Morgan Chase has benefitted by serving wealthy clients in Washington, D.C., while skirting any legal obligations to serve the rest of the district’s residents,” Meisenhelter wrote. “By opening bank branches in the district, the bank will be legally obliged to meet the credit needs of low and moderate-income residents.”
+The bank has operated in the region, serving “some two million local customers” despite its lack of physical branch locations.
+The expansion will aid the city’s lower-income residents, according to D.C. Mayor Muriel Bowser (D).
+“We hope this expansion means that we will see more banking, not just where we have them already, but where we need them to be,” Bowser said in the April 19 news release. “We are proud to partner with JPMorgan Chase to ensure more residents are able to participate in the region’s prosperity.”
+Virginia Gov. Ralph Northam (D) and Maryland Gov. Larry Hogan (R) also welcomed the expansion, according to the April 19 press release.
+Investment in the region comes on the heels of accusations of lending discrimination against Chase levied by reporters from the Center for Investigative Journalism.
+The bank paid $55 million to settle a lawsuit over discriminatory lending practices in 2017, although it denied culpability. Black and Hispanic borrowers allegedly were charged $1,000 more on average than their white counterparts from 2006 to 2009.
+The report reveals that this is not the only possible indiscretion.
+Black people were granted only 23 home purchase loans out of the 1,119 Chase made in the region in 2015 and 2016, according to the report.
+Analysis of JPMorgan Chase records from 2015-2016 show that there were “statistically significant disparities” in loans denied for all groups examined: black people, Asians, Latinos, and Native Americans, according to the Center for Investigative Journalism.
+Although reporters identified such disparities in 61 metro areas, D.C. was the only region in which disparities were apparent for all groups examined. As Chase did not have physical branches in the area, its practices were legal.
+The expansion will affect Wards 7 and 8 and is part of a larger expansion and philanthropic effort by the bank, which has already worked on ventures in cities such as its investment in Detroit.
+“Detroit’s Entrepreneurs of Color Fund has made a great impact creating economic opportunity, and now we want to bring this same model to San Francisco and the South Bronx to help more entrepreneurs grow,” Dimon said in a Feb. 13 news release. “These cities are seeing tremendous growth. By expanding this fund, we will help ensure more small businesses thrive and create local jobs.”
+The bank plans to expand into 15 to 20 new regions over the next five years following its D.C. expansion, according to the April 19 news release.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+

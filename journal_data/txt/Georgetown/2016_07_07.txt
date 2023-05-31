@@ -1,0 +1,41 @@
+
+July 7, 2016 by William Zhu Leave a Comment 
+Three professors in Georgetown University’s computer science department received $1.7 million from a contract with the Defense Advanced Research Projects Agency to develop new cyber defense for distributed denial of service attacks.
+Professor Wenchao Zhou, professor Micah Sherr and professor Clay Shields’ research is part of a larger $3.5 million project being led by researchers at the University of Pennsylvania that aims to find a new approach to dealing with distributed denial of service cyberattacks.
+A DDoS attack occurs when an attacker floods a network with requests and overloads its capacity, preventing it from working. According to the FBI’s Internet Crime Complaint Center, there have been over 1,000 reported DDoS attacks with damages exceeding $1 million in 2015 alone.
+DARPA conducts research for the Department of Defense and has contributed to the development of the internet, GPS and other technological advances.
+This contract is the largest amount of funding the computer science department has ever received from a single source, according to Sherr.
+Georgetown’s network was a victim of a DDoS attack earlier this year on March 31, according to Vice President Chief Information Officer UIS Judd Nicholson, causing Wi-Fi outages across campus.
+Sherr said DDoS attacks are hard to protect against because the attacks closely resemble surges of normal internet traffic.
+“It is sometimes difficult to differentiate between a lot of people just wanting to access your system and an attack trying to overwhelm the resources of your system,” Sherr said.
+Sherr said DDoS attacks often involve multiple computers — frequently computers owned by innocent people — attacking a network.
+“A distributed denial of service, which is probably more common nowadays, just means that the attack is originating from multiple places,” Sherr said. “This could be a million users across the United States who are innocent laypeople.”
+Sherr said the conventional method of dealing with a DDoS attack is to clone the entire service to withstand the increased traffic.
+“The current state of the art for denial of service attacks is to basically replicate your system as much as you possibly can,” Sherr said. “In other words, buy a bunch of hardware or buy a bunch of time on some cloud service to withstand large attacks and kind of hope for the best.”
+The issue with this approach is the inability for a scaled response to an attack. In most DDoS attacks, according to Sherr, only a few system resources are targeted, but the entire system is replicated to mitigate the damage.
+“In the standard technique where you replicate everything, you are taking all of your resources and you’re replicating it and that’s very wasteful,” Sherr said. “It is costly for you to replicate them, but it is also unnecessary for you to do so.”
+The computer science professors at Georgetown are working on a new platform called Declarative Dispersion-Oriented Software, or DeDOS for short, in an effort to improve responses to DDoS attacks. This could allow systems to create more flexible responses to DDoS attacks without unnecessarily using resources such as disk memory and computing power.
+The new approach is to only replicate the resources targeted in a DDoS attack and leave unaffected components alone. According to Sherr, this allows for a streamlined and cheaper means of providing cybersecurity.
+“We are trying to identify what those targeted resources are and just clone those resources while keeping everything else the same,” Sherr said. “We are much better able to allocate a finite amount of resources that a system might have in order to best match the specific targets of the denial of service attack.”
+Sherr said the reduction of systems into smaller pieces of software — named minimal split able units — is where the team faces the greatest challenges in its work.
+“This breaking apart of software into small technical components turns out to be a pretty difficult technical task,” Sherr said
+Sherr is also researching a new vulnerability, which exploits the voice-recognition software in many personal digital assistants like Apple’s Siri and Microsoft’s Cortana.
+“We discovered that it is possible to construct commands from a computer that are understood and played over speakers that can be understood by these personal digital assistants but aren’t understandable by human beings,” Sherr said.
+With this, hackers can compromise large amounts of sensitive information by playing a specially designed sound, causing the digital assistants of phones to either send out confidential data or download malware. Sherr said an authoritarian government could potentially use this against members of the public.
+“You are a dissident in some country attending some rally and the government plays over the speaker some weird noise that everybody’s phone to send a text message to the government so the government can easily enumerate who attended the rally,” Sherr said.
+Sherr and his colleagues will publish information on the vulnerability and a defense against it in August.
+“We don’t want to introduce a new attack without some defenses,” Sherr said.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+

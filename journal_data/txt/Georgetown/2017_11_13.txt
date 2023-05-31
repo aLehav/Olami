@@ -1,0 +1,80 @@
+
+November 13, 2017 by Erin Doherty 2 Comments 
+The Democratic Party’s national political agenda should not exclude anti-abortion dialogue, argued the executive director of Democrats for Life of America, an anti-abortion advocacy group, during a Georgetown University Right to Life discussion Nov. 9.
+The event, titled “Pro-life Across the Aisle,” featured Kristen Day, DFLA’s executive director, speaking with around 15 students about her organization’s work to integrate the national anti-abortion movement with the mission of the Democratic Party.
+The party’s 2016 platform, its most recent, supports “safe and legal” abortion and endorses a plan to end a ban on federal funding for abortion, a stance that NARAL Pro-Choice America, a pro-abortion rights advocacy group, praised as the “best ever for reproductive freedom.” Prominent Democrats including former Secretary of State Hillary Clinton and House Minority Leader Nancy Pelosi (D-Calif.) have vocally supported funding for Planned Parenthood, a national provider of reproductive health services, including abortion.
+Founded in 1999, DFLA advocates for and supports programs and policies that respect and promote human life from conception to natural death, according to the organization’s mission statement. This mission includes opposition to abortion, capital punishment and euthanasia.
+The support for anti-abortion Democrats is dwindling, Day said. The number of Democrats identifying with the anti-abortion movement in government is at its lowest numbers since the 1930s, according to Day.
+Day attributed the decreasing numbers to the increasingly polarized nature of national politics, arguing that the Democratic Party is cultivating a culture in which anti-abortion activists are unwelcome.
+“The Democratic Party is kicking pro-life members out, encouraging them not to run, or to run on a pro-choice platform,” Day said.
+Democratic National Committee Chairman Tom Perez drew the ire of anti-abortion Democrats in April when he released a statement stating that “every candidate who runs as a Democrat” should support the party’s pro-abortion rights stance.
+However, Pelosi later said in an interview that “of course” it is possible for Democrats to oppose abortion rights, while Democratic Congressional Campaign Committee Chair Ben Ray Luján said in July the party would not withhold financial support for anti-abortion candidates in the 2018 elections.
+Day said anti-abortion issues are important to the future growth of the Democratic Party.
+“Pro-life Democrats’ voice is so important within the party, talking not only about abortion but whole-life issues,” Day said. “Nobody wants to find common ground anymore, but I still think we can do it.”
+DFLA must work actively to recruit financial donations to build on its mission, which must include lobbying the Democratic Party to be inclusive of anti-abortion advocacy, Day said.
+“I don’t want to give to the Democratic Party,” Day said. “I want to give to pro-life candidates; please direct my money there.”
+Day, who now oversees all operations in DFLA’s Washington, D.C. office, said she became interested in politics as a sophomore at Michigan State University when she was selected to serve as a precinct delegate for the Democratic Party.
+Day then became the chief of staff for Rep. Jim Barcia (D-Mich.), who opposed abortion. Day has been advocating for anti-abortion policy since then.
+Havens Clark (COL ’20), president of Right to Life, said the event aimed to promote a conversation about anti-abortion initiatives and raise awareness about the efforts of Democratic politicians and activists who identify with the anti-abortion movement.
+“We are trying to dispel the notion that a lot of people get that Democrats are all pro-choice,” Clark said. “We have members of our organization who are Democrats, so we want to support them with this event and create a dialogue that was more bipartisan.”
+Michael DeFelice (COL ’20), who identifies as a Democrat and is a member of Right to Life, said many students at Georgetown do not know that there are groups that support both Democratic and anti-abortion policy.
+“[These events] tell people that we exist and that the Democratic Party needs to support candidates that are pro-life in order to start winning,” DeFelice said.
+Regardless of how low Democratic anti-abortion support may be, Day said she will continue to advocate for anti-abortion Democratic initiatives.
+“I really believe the Democratic Party should be the pro-life party,” Day said. “We need to make bipartisanship cool again.”
+Correction: A previous version of this article stated Democrats for Life of America was founded in 2005. It was founded in 1999.
+
+John Munnis, Jr. says 
+November 14, 2017 at 3:11 pm
+Thank you, Kristen Day!
+I would like to add another reason the Democratic Party should embrace pro-lifers. Donald Trump was elected president because the abortion advocates calling the shots in the Democratic Party went easy on Trump early in the campaign, when he could have been stopped. Please recall that Trump was the only Republican to praise Planned Parenthood during the primary debates. So they went easy on him despite his hateful rhetoric toward immigrants. He also had an atrocious record on disability rights. But the abortion advocates in the Democratic Party were calling the shots. It is appalling that Trump was not most hated and feared Republican. The only Democrats sincerely against Trump were disability community Democrats and sincere peace and justice Democrats. Why did the Democrats make that foolish gamble? Abortion was the reason.
+
+John Munnis, Jr. says 
+November 14, 2017 at 4:14 pm
+A quick addendum to the comment I just submitted. For me (and many pro-life Democrats) the right to life is not about a culture war. And not social issues are the same. I have been supportive of Gays since 1980 or 1981, when I found out a dear friend was gay. I am vocally supportive of Gays in conservative circles in my ultra-conservative town. I was vocally supportive of immigrants years before the Trump candidacy.  I was aactive in the fight to get Ohio to adopt Medicaid expansion. (Thank you, Governor Kasich for your courage.) And I am very active in disability rights, advocating for inclusion, accessibility, health care, etc…
+I was born with Spina Bifida back in 1964. The no treatment debate for Spina Bifida lasted into the 1980s. Never forget the Baby Doe cases of the 1980s – Down syndrome and Spina Bifida. Also, in the early 1970s a man named Dr. John Lorber wrote a piece that listed criteria under which Spina Bifida babies should not be treated and saved. This is why I am pro-life. I cringe when abortion advocates used the term “anomaly,” as in “fetal anomaly.”
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
+
+November 13, 2017 by William Zhu Leave a Comment 
+A planned security patch to the Georgetown Wi-Fi network resulted in a wireless service outage from midnight to 6 a.m. on Nov. 10 that limited access to all campus networks in all but two buildings.
+The outage occurred while University Information Services installed a security patch to campus Wi-Fi services to address undisclosed vulnerabilities in the networks. The SaxaNet, GuestNet, GURegistered, Eduroam and GU_Visitor Wi-Fi networks were all affected.
+The university’s IT manufacturer communicated the need for an urgent patch providing a short timetable to alert the community of the service outage, according to Chief Information Security Officer Joseph Lee.
+Jacalyn Banks, acting director for service management at UIS, said the Wi-Fi outage was necessary for UIS to implement essential IT upgrades.
+“Necessary maintenance outage recommended by our vendor. These outages almost always address known vulnerabilities along with feature enhancements,” Banks wrote in an email to The Hoya on Thursday.
+UIS sent a universitywide notice of the patch early that afternoon, giving the community less than 12 hours of warning. Internet was still accessible via Ethernet or in the Intercultural Center and Rafik B. Hariri Building, which continued to have Wi-Fi service. Library desktops and computer labs were not affected.
+Lee said patches to university information technology infrastructure and Wi-Fi are very common and generally do not involve Wi-Fi service disruptions. According to Lee, this patch mainly focused on security improvements and updates to keep the university safe from cyber threats.
+“All IT maintenance activities are designed to ensure continuity of service and/or security of service. Because of the nature of it, it is one that we need to do right away and in this particular case it was a security patch we needed to apply,” Lee said.
+According to Lee, this patch was no different from other software updates that occur on computers and smartphones, but because it affected campus internet service, it was more noticeable.
+“We are just applying a patch,” Lee said. “It is almost no different from any other patch we will apply from time to time.”
+Lee said the patch and the accompanying Wi-Fi outage were important for maintaining both security and preventing future unplanned disruptions to Wi-Fi service.
+“We try to notice as far in advance as we can, but there will be times we feel that we need to apply something immediate and this is one of those cases,” Lee said. “If we didn’t feel like it was necessary for us to do in order to protect the infrastructure for the university we wouldn’t do it.”
+According to Lee, the ubiquitous nature of Wi-Fi makes upgrading the systems difficult, as it often results in service disruptions. Lee said that UIS tries to balance applying updates from the manufacturer in a timely manner and ensuring minimal disruption to students, faculty and staff on campus.
+“There is never a good time to take down Wi-Fi and I don’t want to wait until Thanksgiving when no one is on campus anymore,” Lee said. “We were notified that we should apply a patch and therefore we have taken the opportunity to then find the most innocuous time that we could find to apply this patch.”
+Lee said the patch was expected to result in adverse effects to the campus community, but the overall goal was to keep the university and the campus community safe and to mitigate the chance of larger disruptions in service.
+“Ultimately our intent is to protect the university, protect you, protect me, protect our infrastructure,” Lee said.
+Your email address will not be published. Required fields are marked *
+Comment 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+I have read and accept The Hoya's official comments policy. (required)
+Copyright © 2023  | Site Design by 3200 Creative
+
