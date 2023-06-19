@@ -1,0 +1,769 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The trajectory of Japan’s nuclear crisis is a lot like last year’s gulf oil spill. It was bad from the start, but every time coverage starts to fade, some news breaks that reminds us that things aren’t going to be fixed any time soon.
+Stocks dipped this week as Japan's government upgraded the severity level of the Fukushima nuclear power plant, putting it on par with Chernobyl. Given that the global community is poised to build more nuclear power plants, it is a good thing that people are being reminded of the risks of nuclear power. However, Fukushima has caused us to focus on the risks of operating a nuclear power plant, when what should really concern us is the waste.
+It may seem surprising, given the coverage of the Fukushima disaster, but nuclear power plants are generally very safe to operate. Sure, countries that rely on nuclear power require monitoring agencies, regular repair bills, and contingency plans for worst-case scenarios. But compared to conventional coal-burning power plants, nuclear power generation is far less dangerous on a day-to-day basis and even less radioactive. Not only does coal cause a host of conventional problems, such as acid rain and greenhouse gas emissions, but a typical coal power plant also releases around 100 times as much radioactivity as a nuclear power plant of the same size. Fly ash released by coal-burning plants contains concentrated doses of radioactive isotopes naturally occurring in coal, and uranium from fly ash can leach into nearby soil and water to end up in crops.
+Obviously, accidents happen, but operating a nuclear power plant safely simply means being prepared for worst-case scenarios. The disaster at Fukushima spiraled out of control because leaking radiation made it unsafe for humans to reach the reactors. Radiation-proof robots, either autonomous or controlled remotely by humans, would have been able to bring coolant to the reactors. Robots of this type were designed in Japan after an accident in 1999 left two operators dead from radiation poisoning, but they were not adopted because of their price tag. It isn't surprising that power companies don't want to spend millions on robots that cover a worst-case scenario they prefer not to think about, but governments can easily enforce these kinds of regulations. When nuclear plants become dangerous, it is due to human shortsightedness, not an unbreakable law of physics.
+However, the same isn’t true for the mess that each plant leaves behind. A major issue with nuclear power that hasn't been discussed much in the debate over Fukushima is the long-term storage of spent fuel rods. In the US, the Federal government had planned to store nuclear fuel and high-level waste from weapons in Yucca Mountain, Nevada. However, funding was terminated in 2010 amid strong opposition from Nevada residents, meaning most waste is still being stored on-site in dry casks or pools.
+But even if the government finds a big pit where we can chuck all of the nation's waste, the danger doesn't go away on any human timescale. While some radioactive substances, such as those used in medical imaging, break down in a matter of hours, the spent fuel rods from nuclear reactors will still be dangerous thousands upon thousands of years from now. There’s no guarantee that whatever warning signs or scary labels we put on the waste will be correctly interpreted by our descendants that far in the future. Long after the United States has fallen and English has died out as a language, the waste will still be there. Even we teach our grandchildren to stay clear of the repositories, curious people living millennia from now might accidentally dig it up for study or think it’s a nice place for a school.
+Early nuclear scientists were optimistic that breakthroughs would help us permanently seal radioactive substances or render them inert. Some of the radioactive waste product can be re-used safely, and this process is carried out in Japan and France, but it is not cost-effective and only reduces the volume of the waste by a finite amount. Studies have also been done on reactors that transmute nuclear waste into less harmful by-products,. Yet it is still unclear whether we will be able to sanitize waste products completely.
+Two nuclear power plants exist in Massachusetts, although one, the Yankee-Rowe facility, was decommissioned in 1992 due to a brittle reactor pressure vessel. The remaining nuclear power plant, Pilgrim Nuclear Power Station in Plymouth, will need to have its operating license renewed next year. The renewal of the 40-year-old reactor has faced opposition from local protestors, in no small part because it uses the same reactor design as the plant in Fukushima.
+Both facilities store spent fuel rods on-site due to the failure of the Yucca Mountain project. It’s one thing to trust that the power plant will be operated safely over the next several decades, but it takes a pretty big leap of faith to trust that the site will remain forever protected and the waste forever sequestered from the public. Forever is a long time.
+Given the problems of global warming and rapid industrialization in countries like China and India, nuclear power seems like a very useful tool. But in using it, we are creating a problem that will take several hundred times longer than our recorded history to disappear.
+Adam R. Gold ’11, a Crimson editorial writer, is a physics concentrator in Adams House. His column appears on alternate Fridays. 
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The divide isn’t exactly invisible. The image is now a cliché: a rural Indian slum standing precariously in front of glass buildings.
+India is on the rise. Its GDP is growing internationally, its infrastructure is strengthening exponentially, and its image is constantly improving. But the nation still saddles heavy, ubiquitous poverty—41.6 percent of the national population remains below the international poverty line. A glance at the poor can tell you: Rickshaw drivers have creases that run deep in their faces, worn from heavy loads, and long distance bicycled. Dharavi, now famous from its exposure in Danny Boyle’s “Slumdog Millionaire,” still remains perhaps the most structured and cleanest of all Indian slums though one of the largest in the world.
+But, for its residents and those on a similar socioeconomic level, national welfare isn’t necessarily as strong as it should be.
+Since its independence from Britain, the Indian government has adopted equalizing welfare policy, as do other governments. But unlike other domestic welfare programs, India’s policy uses the outdated Hindu caste system to determine quotas in schools, jobs, and even parliament for members belonging to the Dalits, Scheduled Caste, or Other Backward Class. Through using a welfare system that favors OBCs and SCs instead of a broader socioeconomic-motivated policy, the government fails to include the countless members of other castes who still starve on less than a dollar a day—or the many others from different religions who obviously do not even have a Hindu caste affiliation. And as a result, lower-income Indians remain disproportionate, and some OBCs reach unquestionably undeserved heights.
+In urbanized areas, on the other hand, we find that the poor includes many members of forward castes. In cities, caste-controlled norms have begun to phase out, and one’s fifth-generation ancestor’s caste affiliation fails to hold any importance. With India’s increasing urbanization and over a quarter of its population now living in cities, these urban areas are becoming the future of the nation.
+Ruling parties recognize this gap. The Congress Party, which leads the currently ruling coalition, is considering a potential policy that might move to establish quotas for members of forward castes who are still below the poverty line. However, the move would only be a start. While integrating more forward caste members into education would start a longer process, ultimately ridding the parliament and jobs of quotas that favor members of the OBC, it would be more beneficial to instead promote public service exposure through education and internships to citizens below the poverty line.
+Perhaps as glaringly, Mayawati, current chief minister of India’s most populous state of Uttar Pradesh, is a Dalit whose crowning achievements seems to be her consistent purchases of the newest Prada bags and erecting statues of herself wherever she might find space. A Dalit, she campaigned to champion the lower castes, unsuccessfully doing so by spearheading a caste-hatred campaign that has divided the state.  Her continued victories, facilitated by her ancestral ties to being a Dalit, have stunted the state and done nothing to help promote the welfare of the lowest income bracket in Uttar Pradesh. And she’s not alone in the Indian government.
+India has improved. But it still remains a nation with slums next to glass buildings. As slum residents look on at their glass-walled neighbors, they may never know the lifestyle they lead. As the nation becomes more socially equal, however, perhaps one day they might.
+Gautam S. Kumar ’13, a Crimson news writer, is an applied math concentrator in Cabot House. 
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Pundits love to pontificate at length about the unbridgeable ideological gulf between America’s two political parties, but if there’s one thing that liberals and conservatives still have in common, it’s the love of some good, old-fashioned, Monday afternoon race-baiting. Be it Senate Majority Leader Harry Reid’s inability to comprehend how Hispanics could possibly vote Republican, or dyspeptic radioman Rush Limbaugh’s declaration that an isolated incident of school-bus bullying emblematized the new racial reality of “Obama’s America,” there’s nothing that both sides enjoy more than having themselves a little racial mudbath. It’s a guilty pleasure.
+When the National Association for the Advancement of Colored Peoples—a once-vital organization that has long since outlived its utility—“officially” labels the Tea Party a racist organization (as if this “official” designation had any currency), no one takes it seriously. That’s just what liberals do: accuse those who disagree with them of racism and move on, just as conservatives charge their adversaries with socialism and move on. Of course, both sides are being outrageously hypocritical, but it’s all in good fun. Democrats strengthen their electoral stranglehold on the black and Latino vote, Republicans further solidify their support among white voters, and slowly the dream of a post-racial, color-blind society withers away.
+None of this is new or interesting. What is somewhat new and somewhat (I think, at least) interesting, is the recent phenomenon of black conservatives playing the race card with equal and greater brio (if perhaps less finesse) than their liberal counterparts.
+Take for example, the walking oddity that is ex-Godfather’s Pizza CEO and Republican presidential hopeful Herman Cain. Preaching before a raucous group of Iowa Republicans in March, Cain noted, sensibly, that “if you’re black and you disagree with the president [it doesn't imply racism]…It may shock you but some black people can think for themselves.” But sensibility being a deal-breaker in today’s Republican Party, Cain also blustered about being called a racist “because I won’t stay on the Democrat plantation like I’m supposed to.”
+Newly-elected Florida Congressman Allen West, likewise, invoked the vernacular of slavery in his response to the NAACP’s aforementioned theatrics, accusing it of being “a political hack job organization which now seeks to maintain the liberal progressive socialist control of the 21[st] century plantation. It is on this new economic plantation where the liberals seek to enslave the black community in order to maintain a devoted, monolithic, voting electorate.”
+While Cain and West’s mutual affinity for the word “plantation” is perhaps the most incendiary example of their rhetorical obsession with race, it is hardly the only example. Back in November, in a display of identity politics that would make most Democrats blush, West attributed the outrage over his appointment of local radio personality Joyce Kauffman—who in 2007 called for the hanging of illegal aliens—as his chief of staff to nothing more than liberal racism and misogyny. And whether noting that President Obama “is not the president of black people” or beseeching voters not to “condemn me because the first black [president] was bad,” Cain’s manic fixation on the president’s blackness lends credence to the proposition that Cain’s entire political identity is predicated on the notion that he is a sort of black anti-Obama.
+What is so curious and peculiar about this particular strain of race-baiting is how self-destructive it is. Sure, all race-baiting is self-destructive to a degree: no one (besides Limbaugh, perhaps) wants to be known as a race-baiter. But race-baiting by black Republicans does something entirely new and different: it emphasizes their blackness in a way that cannot be anything other than politically and socially disadvantageous. It turns them into the “black candidate.”
+It is impossible to imagine President Obama—for all of his flaws—talking about race in the same, crazed tenor in which Cain and West speak about race. Granted, the president’s supporters do it all the time, but one of the reasons why Obama is president today is because he declined to embrace the inflammatory racial rhetoric of black politicians past like Reverends Jesse Jackson and Al Sharpton. In this way, American black liberalism is far more politically mature than American black conservatism—ABC, as Cain likes to call it. But it was not always so; one need only look back to the 1990s and even the early 2000s—the era of General Colin Powell and Oklahoma Congressman J.C. Watts—to discover that black conservatism was once capable of existing outside the context of aversion to black liberalism. Today’s black conservatives, on the other hand, are wholly defined by this aversion, and their predisposition toward couching their conservatism in the language of race indicates that it is an aversion specifically to black liberalism, not just liberalism.
+This coupling of antipathy toward traditional, Democratic liberalism with an overly vitriolic preoccupation with race calls into question the very legitimacy of Cain, West, and their ilk’s ideology.  It gives the impression, accurate or inaccurate, that their conservatism could be nothing more than the product of a troubled relationship with their racial identity, a reaction against their blackness. And conservatism borne out of such racial self-contempt is, quite frankly, as unimpressive, as uninspiring, as unimaginative, and as uninteresting as the monolithic liberalism of black Democrats.
+Dhruv K. Singhal, a former Crimson associate editorial editor, is an English concentrator in Currier House. His column appears on alternate Fridays.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Last weekend, twittering throngs of customers huddled outside the new Pinkberry in Harvard Square to get a taste of the celebrity fro-yo that has made a name for itself all across America. While there is certainly nothing wrong with successful franchises occupying long-empty real estate, the fact remains that the arrival of Pinkberry and the slated arrival of the new duplex Starbucks threaten to change the face of Harvard Square. We regret to see the eclectic institutions that for generations have defined Harvard Square as a niche within Boston being slowly supplanted by replicable franchises that break down the character of the Square.
+Understanding that the need for cheap goods often crowds out local charm is the first mental obstacle to surmount; the closing of Bob Slate spoke to a student demand for less expensive goods, as much as it saddened us to see the closing of a bona fide legend. Yet, chain stores selling goods similar in type and price to those available at independent stores offer no distinguishable advantage over local stores. What’s more, being chains allows these stores to open earlier and close later because of the extent of their resources, which is certainly dangerous to the business and survival of our beloved local haunts.
+As Mo Lotman, author of “Harvard Square: An Illustrated History,” writes of Cafe Pamplona, "[its] uniqueness stems not from screaming individuality, but from the no-frills, bare-bones atmosphere it offers. The monochromatic cave provided a blank canvas and invited patrons to fill it with colorful conversation or profound gazes into infinity.” Spaces such as Pamplona thus characterize the Square by creating environments in which the history of the locale blends with the personable elements of creativity and interaction. However much they may try to bend at the edges of the institutional framework that spawned them in order to blend in with their surroundings, franchises simply cannot engender the same genuine founts of individuality, and they never will.
+While Harvard as an institution may not change its façade, the Square is a physical representation of the historical continuity that defines this community. Somewhat ironically, the owners of Pinkberry have even noted the Square’s unique energy and charm, calling their new location both “historic and important.” In their apparent eagerness to join the “fun,” however, they may not quite understand the impact of their own arrival. By the same token, however much a place like J. P. Licks has attempted or succeeded at fostering some sort of cultural osmosis within the Square, many locals are still frustrated when they pass the boarded-up windows of what once was Herrell’s. After all, these small businesses are not merely age-old relics inflated with a sense of their own virtue; they, like Berryline and Flour, are perhaps the best examples that the Harvard student has of taking one’s talents and using them to benefit local communities in an innovative way.
+Ultimately, however, these changes are the fault of nothing but a generational shift. Despite the common misperception, there is no “master puppeteer” running Harvard Square, and individual landlords rent to the highest bidder. The Square is thus a literal reflection of the people who walk through it at any given historical moment. In that sense, what does it say about us if we let our unique traditions fall by the wayside in favor of institutions that we could find anywhere else? Due to the rapid and natural turnover of the student body, within a decade, Harvard students will not remember or regret the loss of exceptional establishments such as populate the Square now but are currently in danger. It is important, therefore, for those who feel incensed by unnecessary change to take a stand against these changes to the Square while they still can. Now, more than ever, we encourage our community members to support their favorite local businesses in an effort to slow the seemingly inevitable wave of excessive commercialization.
+This is not to say that we don’t recognize the inevitability of change. As Lotman has written: "Change is inevitable in all things, and yet we often cling to the past as if we had not already learned that lesson a hundred times.”  While most change may indeed be inevitable, changes that cheapen the distinctive charm of a cultural landmark are not. What developers respond to is demand, and it is up to the residents of the neighborhood to determine when—if ever—their environment should change.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Students and educators gathered at Radcliffe Auditorium last night for a panel examining the current obstacles facing the soon-to-be independent region of Southern Sudan.
+After decades of civil war between Northern and Southern Sudan, the two regions signed a formal peace agreement recognizing the secession of the southern region in 2005.
+A January referendum in Southern Sudan approved the establishment of the new nation, the Republic of South Sudan, in July.
+The two-hour panel discussed the region’s current efforts to establish health, economic, and political stability.
+The event, moderated by Jacqueline Bhabha, a Harvard Law school lecturer and research director of the Francois-Xavier Bagnoud Center for Health and Human Rights, drew over seventy attendees.
+Since the signing of the North-South peace agreement, Southern Sudan’s civilian population has undertaken the colossal task of constructing a new democratic government despite widespread disease and poverty. Southern Sudan has one of the world’s highest mortality rate and is plagued by issues of underdevelopment and inaccessibility to vital resources.
+The new nation must seek to establish territorial and political boundaries that serve it well, Bhabha said. As 70 to 80 percent of Sudan’s oil reserves are located in the south, “small differences in border marking can make huge differences in accessing vital oil resources,” she said.
+But oil reserves are not the only resource not equitably distributed among the two countries. Most developed areas and industries are in the North, said Michael J. VanRooyen, director of the Harvard Humanitarian Initiative. As a result of the development disparity within Sudanese territory, access to education and food security in the South is limited, he said. These factors will augment the new country’s economic burden as it attempts to form a new government, according to VanRooyen.
+Poverty in the nation is so severe that those who own a pair of shoes are considered fortunate, said Lant Pritchett, a professor of economic development at the Harvard Kennedy School.
+“Seventy percent of the richest quintile in South Sudan owns a pair of shoes. For the poor its only 30 percent,” said Pritchett.
+Underdevelopment and extreme poverty are issues that will no doubt take a prolonged period of time to resolve, panelists said.  “We cannot impose ideal European economic and political models directly to Sudan,” Pritchett said. “I guarantee you these will not work.”
+Most of the panelists said the best way to address health problems and economic inequality in Sudan is to implement makeshift infrastructure, which may not be of the highest quality, but will jumpstart the nation’s development.
+“[The solutions] will be lower cost, lower quality ... but will sustain the desired effects over the short term,” Pritchett said.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In Ghana, males undergo wedding-like ceremonies recognizing their friendship. In Asia, men on the street hold hands without social repercussions. New York University Professor Niobe Way invoked these cultural practices, which are contrary to contemporary American heteronormative ideals, to point out how “bromances” have become frowned upon even though they are critical to the development of adolescent boys.
+At a talk last night sponsored by the Harvard Graduate School of Education, Way spoke about her research on boys’ friendships.
+Presenting excerpts from her new book, “Deep Secrets: Boys’ Friendships and the Crisis of Connection,” Way read passages of interviews conducted with hundreds of adolescent boys spanning age and race. Way said that her research showed that before boys reach maturity in the later years of high school, their friendships often resemble the close emotional connections often ascribed to girls’ friendships.
+“It might be nice to be a girl, because then you wouldn’t have to be emotionless,” one boy said.
+Often, quotes invoked the passionate love and trust young boys felt for their friends, a concept that disappeared as the boys aged.
+One boy said, “[My best friend and I] love each other.” Another reminisced about a sleepover and how he and his friends would discuss their personal problems at home.
+“We were talking about secrets and that’s how I know my best friends,” this boy said.
+Another adolescent boy conveyed the vulnerability young boys feel.
+“My best friend thinks physical pain is worse than emotional pain and I don’t think that’s true. I don’t give my heart out to too many people ... especially when it could get broken or hurt easily.”
+But Way said that her research showed a trend where boys lose these close relationships as they grow older, which she attributed to societal pressure to be more masculine.
+Way said that the boys often associated having close male friends with being gay or feminine. She observed that older boys express their feelings for other males and immediately follow with the statement “no homo.”
+“Boys at 16, 17, and 18 start to sound like gender stereotypes,” Way said.
+Way said that this loss of close, emotional connections is a main cause of the increased risk of suicide for males, who are four times more likely to die from suicide attempts than females their age.
+“If you keep it all to yourself, you go crazy,” one adolescent boy said.
+Two graduate students at Way’s talk who had experience working with adolescent boys said they agreed with the research Way conducted. Ed School student Taylor J. Gaar, who worked with boys in wilderness therapy, said he had seen how quickly the wall of masculinity could break down when isolated from society.
+“It’s amazing how little it takes in a situation like that to move beyond the stereotypes and break down and cry,” he said, as many of the boys cried when their friends left the camp.
+Ed School student Cameron D. Paterson, who formerly worked at an all-boys school in Australia, said he agreed with Way but thought she neglected an important point.
+“What does a boys’ school [or all-male environment] do to create that environment of empathy?” he said.
+Way said she recognized that empathy was the key to reforming the societal pressures on adolescent boys.
+“We need a complete overhaul in our conception of human nature,” Way said. “What makes us human is our ability to connect with each other.”
+—Staff writer Michelle M.  Hu can be reached at michellehu@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Emblazoned with orange and yellow flames, b.good’s black shake truck, Harvey, took its position a few feet from the blue and green Ben and Jerry’s truck on Dunster St. yesterday.
+The two Harvard Square favorites were competing on the street that separates the stores in an ice cream truck battle, a contest to fundraise for the b.good Burger Brigade.
+The truck that collected the most donations would claim the title of ice cream truck champion. The results of the competition will be announced on Saturday.
+The Burger Brigade is a group of 20 college students, including 10 from Harvard, that is collecting donations for the nonprofit organization Back on My Feet, which promotes the self-sufficiency of the homeless by encouraging running as “a means to build confidence, strength and self-esteem,” according to their website.
+On Monday, the Burger Brigade also plans to run the Boston Marathon to raise funds for Back on My Feet—dressed in burger, French fry, and sweet potato fry costumes.
+At the competition, Ben and Jerry’s gave out free scoops, while b.good served milkshakes. Both asked for donations.
+“B.good is more efficient, and they have the burger army,” Sylvia Ko ’12 said when asked who she thought would win the battle.
+But as the line next to the Ben and Jerry’s truck grew longer, Kara M. Smith, a student at Berklee College of Music, said that it looked like it would be the winner.
+“Ben and Jerry’s gets more hype because it’s commercial,” she said.
+Vidya B. Viswanathan ’11, who is a member of the Burger Brigade and a former Crimson news editor, said that the group’s goal is to raise $18,000, which will allow 10 people to become a part of the Back on My Feet community.
+According to Jon J. Olinto, a b.good co-owner, the students decided to run the marathon for Back On My Feet after a customer called him asking if he would support the organization.
+The students have been raising funds for the past six weeks through various fundraisers organized with the help of Olinto.
+Last year, Olinto issued a challenge to Ben and Jerry’s via twitter to determine which treat—b.good’s milkshakes or Ben and Jerry’s scoops—would be the ice cream champion, generating the idea for the event.
+As Marathon Monday approaches, the burgers and fries are preparing to cross the finish line for Back On My Feet.
+Elizabeth A. Miranda ’11 sported her burger suit, the outfit she will wear during the run, at the competition yesterday. She said she was happy to finally be running the marathon, something she had wanted to do since her freshman year at Harvard. But with little training in the costume, Miranda said she was nervous.
+“It’s a burger,” she said. “It will be an experience.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+WOBURN, Mass—Both sides in the Kirkland shooting trial agreed in court yesterday not to bring up a conversation that allegedly took place between co-defendants Jabrai Jordan Copney and Blayn Jiggetts while the two were being transported from the courthouse to jail Tuesday afternoon.
+The murder trial for Copney, who allegedly shot Cambridge resident Justin Cosby in the basement of Kirkland’s J-entryway on May 18, 2009, was suspended Wednesday afternoon so that Copney’s attorney John A. Amabile could investigate the alleged conversation that took place in the transport van.
+Associate Justice John T. Lu asked the jury not to return until Friday morning.
+In yesterday’s hearing, which was also attended by District Attorney Gerard T. Leone Jr. ’85, Amabile began to call to the stand all available parties related to the alleged conversation, including several guards and an inmate who was also in the van.
+But when court resumed after a recess yesterday, the Assistant District Attorney Daniel J. Bennett ’85 and Amabile both agreed to leave the van conversation out of the trial.
+Amabile then requested the release of the pending witnesses who were about to be called to testify about the van situation.
+Copney had informed Amabile on Wednesday that such an exchange took place because he and Jiggetts were placed in close proximity while they were loaded into the sectioned van on Tuesday.
+Yesterday’s testimonies revealed little detail about who exactly was the responsible party for placing the two inmates next to each other. None of the witnesses could provide details about the contents of the conversation that allegedly took place.
+According to an indiviudal familiar with the case, Copney said he confronted Jiggetts about Jiggetts’ testimony, which Copney believed to be false. Jiggetts allegedly told Copney in the van that he would continue to tell his version of the story.
+In a 47-minute interview conducted by Mass. State Trooper Christopher Donahue on Wednesday, Jiggetts gave a different account.
+Amabile said in court on Wednesday that the conversation in the van could provide grounds for a mistrial if the prosecution introduced the incident as evidence in the trial.
+In September 2010, Jiggetts, who was originally charged with first-degree murder like Copney, pleaded guilty to the lesser charge of manslaughter after making an arrangement with the District Attorney’s office to testify in Copney’s trial.
+In return, Jiggetts was promised a 9 to 12 year sentence. He began his testimony on Tuesday.
+The trial will resume today with the continuation of Jiggetts’ testimony.
+—Staff writer Julie M. Zauzmer contributed to the reporting of this story.
+—Staff writer Xi Yu can be reached at xyu@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard’s experimental laboratories are planning to strengthen lab safety practices following the death of Yale senior Michele Dufault in a chemistry lab machine shop.
+Dufault, who was reportedly working on her senior thesis project at the time of her death, died when her hair accidentally caught in a lathe—an instrument used to shape wood.
+“This is a tragic accident,” said Mathieu P. Lalonde, science safety officer in the Harvard Chemistry Department. “This can very well happen here ... How can we ensure that it does not?”
+The Chemistry Department’s lab safety office has re-evaluated its procedures since Dufault’s death on Tuesday in an effort to maximize the safety of students, staff, and faculty.
+Lalonde said that the Chemistry Department’s shop is primarily used by graduate students and employees and plays no role in the undergraduate curriculum.
+Nevertheless, the machine shop underwent inspection shortly after news of the Yale incident.
+Plans to fund the installation of card swipe detectors are underway, and personnel restrictions on the machine shop may also be imposed, Lalonde said.
+Lab safety personnel in the physical sciences departments said that safety regulations in laboratories, which are mandated by the University, historically have been strictly enforced.
+“We have a very strict and stringent rule for students who work after hours,” said Stanley Cotreau, machine shop manager and instructor in the Physics Department.
+The University’s Environmental Health and Safety operations require basic safety measures, such as tying up long hair and wearing personal protective equipment, for all individuals who are working in a lab setting.
+The regulations also stipulate that undergraduates may not work in a lab setting without supervision.
+“We enforce that [rule] very strictly,” said Lalonde, adding that undergraduates who violate this rule are subject to suspension from access to lab research facilities.
+Violations in the Physics Department machine shop are also handled seriously, Cotreau said. Lab safety personnel periodically survey the machine shop, which also has camera surveillance on site. Students who do not adhere to lab safety rules are subject to card access removal.
+Jonathan D. Lee ’11, who works in an organic synthesis lab in the department, said Harvard has high standards for lab safety.
+“The lab safety at Harvard is pretty good,” he said, adding that departmental courses he has taken tended to highlight the importance of caution in the laboratory.
+While the Chemistry Department has not seen any deaths or serious injuries resulting from lab accidents, the department is still taking significant steps to improve safety-training instruction.
+“Lab safety is paramount. If we don’t have safe labs, then we’re putting everyone in danger,” Cotreau said.
+—Staff writer Gautam S. Kumar contributed to the reporting of this story.
+—Staff writer Amy Guan can be reached at guan@fas.harvard.edu.
+—Staff writer Radhika Jain can be reached at radhikajain@college.harvard.edu
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In response to criticism that the Nobel selection committee for the prize in literature has shown a bias in favor of European writers, Swedish author Kjell E. Espmark heaped praise on American writers, saying that the awarding of the prize to William Faulkner was “one of the best decisions” the committee has ever made.
+Espmark, professor of the History of Literature at Stockholm University and a member of the Swedish Academy, spoke at a talk titled “A Lens on the Nobel Prize in Literature,” which was part of Woodberry Poetry Room’s Works in Progress program.
+The Nobel committee has also come under fire for failing to recognize works by female authors, and Espmark said that women have, in part, been disadvantaged by the judging criteria, which emphasize innovation and “unknown masters.”
+Nadine Gordimer, who wrote within an established literary tradition and won the prize in 1991, would have been less likely to win by that criteria, Espmark said.
+Doris Lessing, who won in 2007, is an example of someone whose fame made her less likely to win, he said.
+The talk began with a selection of readings by Espmark and his wife Monica Lauritzen from Espmark’s first anthology of poetry titled “Lend Me Your Voice,” before moving onto the main topic of the talk: controversies surrounding the Nobel prize selection.
+Espmark discussed three major misconceptions about the selection of Nobel Prize winners in literature.
+The Swedish Academy—the organization responsible for the selection of winners in literature—has been awarding prizes since 1901, and Espmark said that the criteria for winners have changed over the years, saying that the committee has during various decades sought to promote different aims.  Early in the prize’s history, the committee selected popular literature and in another era it picked authors who were seen as paving the way to a literary humanist ideal.
+Espmark said there was a “lack of a broad outlook in the first decade” but also said “many accusations of neglect are mere anachronism,” citing examples such as Franz Kafka and Marcel Proust whose works came into prominence close to or after their deaths.
+The prize in literature has also been seen as politically tainted on occasion. Espmark responded to the charges by saying that “we must make a distinction between political intention and political effect.”
+He said that the Swedish Academy had been warned by the Swedish ambassador to the Soviet Union that awarding the prize to Alexander Solzhenitsyn could have heightened tensions between the two countries. Solzhenitsyn was awarded the prize anyway in 1970.
+“In no way does the Academy take into consideration what would be desired by the foreign office of the Swedish government,” Espmark said.
+The talk was well attended by professors, including English professor Helen Vendler, and a smattering of students.
+“I was deeply impressed by the level of candour,” said Thomas P. Wisniewski, a Harvard graduate student. “His comments demystified the process surrounding the Nobel Prize.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Adel Omar Sherif, the deputy chief justice of Egypt’s highest court, expressed concern yesterday at a Harvard Law School panel about the presence of the Egyptian army in the country’s constitutional proceedings, which he fears might prevent the voice of the Egyptian people from determining the country’s post-revolutionary future.
+He said that the army has wavered in determining how to move the country forward, first proposing to scrap the original constitution and later backtracking on those plans. Sherif criticized the army’s actions in recent weeks, said that there has been a lack of transparency, and questioned the army’s role in the writing of a new constitution.
+“The situation has left shadows of uncertainty with regards to the future role of the army in politics,” Sherif said.
+Sherif was careful not to make any bold predictions about Egypt’s future, frequently mentioning the confusing and precarious nature of the current situation.
+But he also expressed a general note of optimism, saying that Egyptians are “ready to move forward into a proud future.”
+The other speakers at the event also touched on the unpredictability of the current political climate.
+“The reason that this is such a difficult area is because we’re in a moment where we don’t know where to start,” Law School Professor Vicki C. Jackson said. “The basic law itself is up for grabs.”
+While the revolution in Egypt has made headlines around the world and has sparked other protest movements in the region, history professor E. Roger Owen cautioned that in popular uprisings the will of the people can often be hijacked.
+“Sovereignty comes from the people, but it is very possible to manipulate the notion of ‘the people,’” Owen said. Owen stressed the importance of not letting the amendment process fall into the “wrong kind of hands.”
+One of the members in attendance echoed the skepticism expressed by some of the panelists.
+“You can’t expect the military to do a complete 180 and be entirely pro-revolutionary,” said Ramy M. Ibrahim, a second year at the Law School.
+But Visiting Professor of Islamic Legal Studies Chibli Mallat expressed his joy about the largely nonviolent revolution that is unfolding in parts of the Middle East and said that Egypt is in a “constitutional moment” in which the social contract is being redrawn.
+The term “constitutional moment,” coined by Yale Law School Professor Bruce A. Ackerman, was mentioned throughout the discussion to compare this period to the United States Constitutional Convention and other historic moments during which social contracts were redrawn.
+Sherif, who is a member of the Supreme Constitutional Court of Egypt, detailed the history leading up to the January 25 Revolution, saying that Egypt was governed with “severe violations against their own people.”
+“For so many years, the average person in Egypt never had any political ambitions in mind,” Sherif said. “The will of the people has not made a large impact most of the time. But this is a turning point.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Dean of the Radcliffe Institute for Advanced Study Barbara J. Grosz announced yesterday that she will step down from her post of four years to return to the School of Engineering and Applied Sciences faculty, saying that she did not have enough time to conduct research as a dean.
+Grosz was not available for comment, but in her letter released yesterday, she said she would miss the opportunities she encountered as dean but that she wished to return to the world of research and academia.
+According to Radcliffe Institute spokesperson Alison Franklin, Grosz, who joined the Institute as dean of science in 2001, did not plan on staying for 10 years.
+“When she started,” Franklin said, “she thought she would be here for five [years].” Instead, when current University President Drew G. Faust stepped down in 2007 from her position as Radcliffe Institute’s first dean, Grosz stayed on for an additional four years.
+“I thought about ... the next decade likely being the last of my own academic career. I realized that I was hungry for the intense scholarly life we afford our fellows ... and I concluded that it was time for me to return to the research, teaching, and working with students that brought me to Harvard in 1986,” Grosz wrote in a letter that announced her resignation.
+Grosz will spend the next year as a full-time fellow at Stanford University, easing back into the research she used to conduct in artificial intelligence and computer science, Franklin said.
+After the fellowship, Grosz will return to teaching at SEAS.
+Franklin said it was Grosz’s inability to conduct her research that ultimately resulted in her decision to step down.
+“She’s a very devoted scientist, and she has tried to maintain to the degree possible her research work and her support for graduate students as the dean at the Institute,” Franklin said. “But it’s not really possible to pursue the work at the level she wanted to because of her responsibilities as the dean.”
+During her time as dean, Franklin said Grosz focused on interdisciplinary ways to bring the University together.
+Franklin said Grosz asked herself and the Institute, “How can we pull people and engage people in cross-cutting initiatives?”
+One product of this initiative was the Academic Ventures program, which engages faculty and students from the College and graduate schools in diverse collaborative discussions such as cybersecurity and educational inequality.
+“I am thrilled that together we have made the Radcliffe Institute a place where sparks fly, where people who might not otherwise work together meet, take chances they might not take anywhere else, and explore issues differently,” Grosz wrote.
+In addition, Franklin said the institute under Grosz has begun to digitize the Schlesinger Library’s collection, which features material documenting the history of women in America. She has also expanded the institute’s fellowship program, which invites academics and professionals from the fields of science, humanities, and the arts to collaborate at the institute for a year.
+—Staff writer Michelle M.  Hu can be reached at michellehu@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Four years ago, a student approached Professor of Medieval History Michael McCormick after lecture with a series of concerns.
+“Every time that I suggested to meet with him conflicted with practice or lab or section,” McCormick said. “Finally, in frustration, I asked him what he was doing at 10 p.m. that night.”
+Although the student was available, he and McCormick now faced the constraints of distance and the late hour. McCormick suggested that the two meet through an alternate medium: Skype.
+McCormick is among a growing number of faculty members who supplement their regular office hours with additional time slots for students to contact them virtually. McCormick said that this type of communication decreases the anxiety that some students experience when meeting with professors in person, prompting an increase in office hours attendance.
+“I couldn’t think of anything so implausible as a Harvard student that is intimidated by anything, not to mention their teachers,” he said. “But we have found that a number of students, after their initial Skype sessions, tend to then find their way to our office hours in person.”
+Harvard Medical School Professor Thomas Michel ’77 conducts his office hours using Skype for Molecular and Cellular Biology 234: “Cellular Metabolism and Human Disease.” The course is also conducted at the Medical School using live interactive video feeds.
+He said that the distance that Cambridge-based students would have to travel to speak to him in person would otherwise be a deterrent to attendance at office hours.
+“Skype makes it easier on the students. It is an exceptional tool for staying in contact with them,” he said.
+Jay M. Harris, professor of Jewish studies and dean of undergraduate education, said that flexible Skype office hours are ideal for communicating with students around their schedules and his administrative responsibilities.
+“Before I had a dean role, I was keeping steady office hours, but they also were scheduled during the busiest class slots,” he said. “Sometimes we don’t schedule them in ways that make sense to students and this is a way of making it much simpler for the student.”
+In addition to faculty members, teaching fellows and preceptors are also incorporating Skype office hours into their teaching.
+Despite its growing popularity, however, Harris concedes that Skype cannot wholly replicate the quality of the communication that occurs between faculty members and students in person.
+“It’s not a perfect replacement, but finding that is impossible,” he said. “It’s better than the phone because you can see body language and tell whether people are following what you’re saying. I would place it as a happy medium between direct personal contact and a phone call.”
+—Staff writer Barbara B. DePena can be reached at barbara.b.depena@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+While the number of days that all students will be allowed back on campus before classes begin will be extended from eight to ten for winter break in 2011, much of the College’s policy for Optional Winter Activities Week and January break will remain unchanged next year, Dean of the College Evelynn M. Hammonds announced in an email to students yesterday.
+According to Hammonds, most of the programming for next year’s OWAW will continue to be initiated and planned by students. Hammonds indicated in the announcement that the College “anticipates an increased number of activities” next year but provided few details about funding or planning for such programming.
+Hammonds’ statement also outlined the guidelines for next year’s winter break—the period between Dec. 21 and Jan. 12 when the College is closed. The residential policies will remain relatively unchanged: students with approved reasons, including varsity athletics, thesis writing, and lab research, will be allowed on campus.
+Next year, students with off-campus internships in Boston and Cambridge, who were denied official housing but in many cases stayed anyway with the permission of their House staff, will also be approved for Winter Break housing.
+In addition, Annenberg will remain the only open dining hall during the three-week winter break, despite student calls in a College survey for more convenient and social dining options during the winter break period.
+The decision comes a week after Hammonds presented the results of the survey on this year’s winter break at a Faculty meeting. While the report indicated that over 80 percent of respondents who participated in OWAW were satisfied, only 37 percent of the 924 respondents attended OWAW, and individual comments called for more formal programming, especially college-sponsored classes.
+In February, the Undergraduate Council—which provided much of the funding for the student-initiated programming during this winter’s OWAW—recommended that the College expand the period when all students would be allowed on campus to the two weeks before classes began. The Council’s report also asked the University to increase the promotion of OWAW to students, encourage faculty-led programming, and allow students to register private parties. Despite this call for an extended OWAW period, the changes to this year’s OWAW are mainly logistical.
+UC President Senan Ebrahim ’12 said that he is disappointed that the full two-week OWAW was not created, but he called the two-day extension a “step in the right direction.”
+The report presented to the Faculty called for the College to more clearly define the goals of winter break, explaining that “the College should determine whether it wants OWAW to be one of the hallmarks of the undergraduate experience.”
+But plans for the third year of the expanded winter break, prompted by the University-wide schedule change, do not clarify the role of winter break in the College.
+“It’s going to be a long time before the UC and the student body gets the winter break that they want,” Ebrahim said.
+—Staff writer Stephanie B. Garlock can be reached at sgarlock@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Doma Liquors—a popular convenience and liquor store among Harvard students—closed its doors on 56 JFK St. yesterday after failing to pay taxes, according to a notice posted by state authorities.
+The Commonwealth of Massachusetts seized Doma for “nonpayment of taxes,” according to a neon orange sign taped to the inside of the glass door of the store.
+Whether Doma’s closure is permanent is still unclear. Another sign on the store’s door, handwritten in purple ink and taped to the door, indicated that the store is merely “closed for renovation.”
+The store’s owners could not be reached for comment.
+Students interviewed yesterday either lamented the store’s closing or were ambivalent to the news of Doma’s closing.
+“Give them back! Do you know how far we have to walk know?” asked one Quincy resident who asked that his name not be used because he was not of legal drinking age.
+Other students said they rarely patronize Doma because of high prices and a lack of variety compared to other options.
+“We normally go to C’est Bon, actually,” Chrisopher R. Behrer ’11 said, referring to C’est Bon Convenience, another Harvard Square liquor store.
+Prior to its closing, Doma and C’est Bon­—the convenience store located at 1432 Mass. Ave.­—were the only two stores in Harvard Square that sold hard alcohol.
+Cheng-San Chen, the owner of Louie’s Superette, a popular convenience store located near Mather House, said that running a small business in Harvard Square is “not easy.” According to Chen, the insurance payments for businesses like Doma that sell hard liquor are often high because the sale of hard liquor is riskier.
+Richard A. Ascolillo Jr., the tax examiner whose card was taped to the door of Doma, declined to comment on the case.
+“It’s not going to have that much of an impact, honestly,” said Eric C. Chen ’12 of Doma’s closing.
+—Staff writer Hana N. Rouse can be reached at hrouse@college.harvard.edu.
+—Staff writer Xi Yu can be reached at xyu@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+During the last two consecutive weekends, assaults have occurred outside of final clubs involving physical confrontations between club members and individuals not affiliated with the University, prompting University officials to ask final club presidents to increase security.
+Shortly after 3 a.m. on April 10, two undergraduate males reported to Cambridge police that they had been assaulted by a man on Mt. Auburn Street outside the Phoenix, one of two final clubs on that street.
+After a member of the club denied the man entrance, the two men engaged in a verbal argument.
+The student told the suspect he was not allowed to enter and either had to be a member or know someone inside. The suspect said that he was friends with one of the members of the Owl, according to another student at the party.
+The assailant then pulled out a knife with a 5 or 6-inch blade and threatened him, he said.
+The suspect also threatened the student with a gun, but he did not reveal it, the student said.
+The students asked that their names not be used given the sensitivity of the situation.
+“I was a little freaked out by the experience. I didn’t expect him to pull out a gun because he couldn’t get into the club,” said the student who had been threatened.
+Another student was later punched in the face by the same suspect, according to the police report, and faced a laceration and contusion over his eye. That incident also took place outside of the Phoenix.
+Cambridge Police Department Spokesman Dan M. Riviello said the incident is still under investigation.
+So far, no suspects have been arrested.
+The week before—around 2:30 a.m. on April 3—a fight occurred outside of the Owl that involved Harvard students and individuals not affiliated with the University.
+That night, two men had attempted to enter the Owl but were denied, according to the police report.
+The fight was sparked after one of the individuals who had tried to gain entrance to the club thought that he had been called a racial slur, according to the police report.
+The police officer observed that at least three people were hit by the suspect, and one of the students had been knocked unconscious.
+One student was punched in the head, suffered a laceration on his forehead, and was later taken to the hospital.
+Two other students were punched and one suffered a welt under his eye, according to the police report.
+The suspect fled and was later apprehended by Cambridge police after a foot chase.
+The suspect assaulted the officer and has been charged with disorderly conduct, resisting arrest, assault and battery on a police officer, and assault and battery.
+An email sent by Dean of Student Life Suzy M. Nelson to all officers of final clubs and Greek organizations at Harvard, which was obtained by The Crimson, said that one of the suspect’s friends returned to the Owl that night.
+Outside the Owl, he made his hand into the shape of a gun, and pretended to shoot the students inside the club.
+The email informed the members to increase safety measures at club events and the area surrounding the clubs.
+The presidents of the Phoenix and the Owl declined to comment.
+—Staff writer Kerry M. Flynn can be reached at kflynn@college.harvard.edu.
+This article has been revised to reflect the following clarification.
+CLARIFICATION: APRIL 15, 2011
+Due to an editing error, the headline of an earlier version of the April 15 article "Assaults Occur Outside Final Clubs on Consecutive Weekends" included a headline that misportrayed assaults that occurred at final clubs.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The School of Engineering and Applied Sciences plans to petition for a new concentration in Electrical Engineering—projected to be offered in fall 2012—in response to student desire for a more focused curriculum in the engineering sciences.
+The concentration would have 20 required half-courses and give students a Bachelor of Sciences degree.
+Current engineering science concentrators have the option to pursue one of five tracks within the umbrella Engineering Sciences concentration. The tracks offer specialization within a broader overview of various engineering disciplines but do not appear on a student’s diploma.
+Students currently following the electrical engineering track within Engineering Sciences want a concentration specifically tailored to their future plans in the field, according to SEAS Electrical Engineering Area Dean Evelyn Hu.
+“[Students] wanted more in terms of, okay I’ve chosen electrical engineering, but now given that I’ve gone through these courses here at Harvard, what can I do?” she said. “It’s a rapidly changing field, which means there is all kinds of stuff you need to know and understand specifically for electrical engineering.”
+Hu said the idea of a new concentration was first introduced during a reexamination of SEAS’ mission and curriculum this past year. Both SEAS Dean Cherry A. Murray and the engineering faculty have supported the planning process for the new concentration.
+“Electrical engineering faculty say that in order to be viewed as a top engineering faculty, they have to have a very large and renowned discrete undergraduate concentration,” Murray said.
+The expansion is one of many developments SEAS has undertaken to adjust the undergraduate engineering curriculum according to student interest. An electrical engineering concentration would follow the creation of the biomedical engineering concentration, which was introduced last year. Hu added that plans are also underway to create a distinct mechanical engineering concentration.
+Engineering Sciences undergraduates are enthusiastic about the new concentration.
+“Having [this] is definitely more professional sounding, and is a plus for students,” said Engineering Sciences concentrator William H. Marks ’12.
+Fellow ES concentrator Ifedapo O. Omiwole ’12, who is currently pursuing the electrical engineering and computer science track, said that having a more specialized curriculum may help prepare students for graduate school and careers on the job market.
+“[An] electrical engineering [degree] will make you feel more equipped and more comfortable for graduate school and as an electrical engineer,” he said.
+—Staff writer Amy Guan can be reached at guan@fas.harvard.edu.
+—Staff writer Radhika Jain can be reached at radhikajain@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Nazi-era eugenics research and racial purification programs were depicted through images of child-subjects and a speech by a Holocaust survivor at yesterday’s opening of the exhibit “Deadly Medicine: Creating the Master Race.”
+At Harvard’s Francis A. Countway Library of Medicine, the exhibit examines the implications of the participation of mainstream physicians, public health officials, and academics in the Nazi Party’s grisly human experimentation programs.
+“We thought it would be interesting to show how science and medicine, though very important and useful, have no inherent moral compass,” said Susan D. Bachrach, curator at the United States Holocaust Memorial Museum, which created the exhibition.
+The exhibit stressed the role of science in legitimizing the racial policies of the Nazi Party during the Holocaust.
+“The individuals conducting these policies weren’t quacks,” Bachrach said.
+“Doctors and scientists—some with prominent international reputations—supported eugenics long before Hitler came to power.”
+These physicians expanded their research agendas under the Nazi regime to include the mass murder of those considered mentally ill and criminally-minded, in addition to children born with incurable birth defects, according to Bachrach.
+“The Holocaust was man-made,” said Boston University Professor Michael A. Grodin, who spoke at the event.
+“Nothing was inevitable. People made choices.”
+The exhibit also warns about the implications of these policies in medical research today.
+“It’s easy to make very glib comparisons between eugenics now and then,”  Harvard Medical School Professor Scott H. Podolsky ’93 said.
+“It’s also easy to say we’ll never behave like that, but it’s important to remember that the Nazi physicians didn’t think they were doing evil.”
+HMS Lecturer Robert S. Blacklow ’55 commented on the parallels to today’s genetic selection practices, such as contemporary eugenics screenings which can provide parents with the choice to abort babies with cystic fibrosis.
+“It’s a slippery slope,” Blacklow said.
+“We’re not saying that we’re like the Nazis. What we are saying is that there are similar issues [today]. We’re hoping that college students, medical students, and the general public as a whole will be very reflective of these topics.”
+Boston University sophomore Rachel G. Tesler reflected on what she described as the universality of the exhibition’s message.
+“It’s completely global,” she said.
+“It’s important that people learn about this and prevent it from happening now and ever again.”
+The exhibit will remain open until July 17.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+When it comes to human rights lawyers in China, the Chinese legal system does not hesitate to mark many as enemies, said Yang Jianli, a Chinese dissident and president of Initiatives for China.
+At the Harvard Human Rights Journal’s 10th Annual Symposium titled “China: The Rights of Lawyers” yesterday afternoon, Jianli condemned China’s persecution of human rights lawyers.
+The conference was in response to the past three months of intensified abductions and forced disappearances of rights lawyers, said second year law student Ryan J. Mitchell, who co-chaired the symposium.
+“The purpose of the conference is two-fold: to shed light onto an issue that is underrepresented as well as facilitate discussion in a context where people feel free to engage [in the conversation],” Mitchell said.
+The event included two panels. The first panel discussed the role of human rights lawyers in the Chinese legal system, and the second panel offered recommendations to the international community on how to alleviate the situation.
+Law School Professor William P. Alford gave the opening remarks at the first panel, where he expressed the importance of echoing the narrative of human rights lawyers who are being persecuted.
+The subsequent panel featured Jianli and Association for Asian Research Director Erping Zhang, who discussed ways that NGOs, the United States government, and civil society can all support individuals being targeted by the Chinese government, including members of the spiritual group Falun Gong.
+“Spiritual practices—whether Western or Chinese—do not conform to the atheist views of communism, thereby clash with the Chinese Communist Party,” Zhang said.
+The symposium concluded with the testimony from targeted human rights lawyers, which were read aloud. Mitchell, Human Rights Journal Editor Daniel B. Saver, and Ella Chou, a member of Harvard’s Regional Studies-East Asia program, read statements recalling interactions with police and poor treatment in prison.
+“We believe in a rule of democracy, fairness, and social justice,” Chou read from the statement of Xu Zhiyong, the co-founder of the Open Constitution Initiative.
+Raquel M. Acosta, a first-year law student who lived in Taiwan for four years, said she appreciated the discussions, particularly those on “the concrete matters that can be done about it [the issue].”
+The symposium was co-sponsored by the Law & International Development Society, Harvard Advocates for Human Rights, Asian Pacific American Law Students Association, and Harvard Asia Law Society.
+This article has been revised to reflect the following correction.
+CORRECTION: APRIL 17, 2011
+The April 15 article "HLS Hosts Panel on Human Rights" misquoted symposium organizer Ryan J. Mitchell. The conference was organized to shed light on persecution of lawyers, not to shed light on the Falun Gong movement.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Alan M. Garber ’76, a Stanford professor of medicine and economics, has been selected as the next University Provost and is set to take on the position in September 2011. Garber’s appointment follows current Provost Steven E. Hyman’s announcement last December that he would step down at the end of the academic year in order to return to his research.
+“I am excited, energized and very fortunate to have the opportunity to be Harvard’s next provost,” Garber said.
+Garber said he will prioritize the integration of Harvard’s schools and the University’s future development in Allston.
+“One of the biggest attractions of this job is the ability to participate in the future of the Allston campus,” Garber said. “I view Allston as an opportunity unlike any other in American higher education today, where there is a campus that can be used to help realize the University’s vision for the future and make this a truly twenty-first century university.”
+A summa cum laude graduate who studied Economics at the College, Garber went on to receive his Ph.D. in Economics from Harvard and an M.D. from Stanford. During his twenty-five years on the Stanford faculty, Garber’s academic work has focused mainly on health policy economics. He also has served on a Harvard Medical School and Harvard Dental School visiting committee.
+“He has an incisive intellect, a deep appreciation for the challenges facing research universities, and a loyalty and commitment to Harvard, where he has maintained strong ties since his years as an undergraduate in the College,” University President Drew G. Faust said in a press release. “I am extremely pleased that a person of Alan’s talent, range, and versatility will be joining the University’s senior leadership team.”
+At Stanford, Garber has worked to form and strengthen ties across academic fields and said he intends to do more of the same at Harvard.
+“Historically [Harvard’s] weakness has been that the great independence of the different schools and departments have [has] made it difficult to collaborate on initiatives that cross traditional lines,” Garber said. He added that since his time as an undergraduate at the College in seventies, the University has made "remarkable progress in interdisciplinary work."
+During her tenure as president, Faust has tried to break down barriers between the University’s various divisions and schools in an effort to encourage interdisciplinary collaboration.
+“Alan is a distinguished academic leader who brings to Harvard an extraordinary breadth of experience in research across disciplines,” Faust said.
+Some within the University had speculated that a veteran of Harvard’s faculty would be selected to replace Hyman, whose wide ranging responsibilities require an intimate understanding of the University. But Garber said Friday that he thinks his experience at Stanford will be a valuable asset and that he expects the transition will be fairly smooth.
+“I think that even if I were an insider I would need a tremendous amount of effort in learning about the people and the University,” Garber said. “I take that as a challenge to reach out to the wide diversity of people at the University.”
+Though his background is in the sciences and social sciences, Garber said that further strengthening Harvard’s humanities and arts curriculum will be a priority.
+“I see the humanities as being absolutely central to Harvard’s future,”  Garber said.
+He said that though Boston’s colder climate will require him to purchase warmer clothing items for his wardrobe, he looks forward to returning to his alma mater and furthering the work Hyman has accomplished reorganizing the University’s library system.
+“His service to the academy and to the nation in medical decision-making, science, and policy has been prolific,”  Stanford President John L. Hennessy said of Garber in a press release. “I have no doubt he will serve Harvard with the same passion. I congratulate both Alan and Harvard.”
+—Staff writer Tara W. Merrigan can be reached at tmerrigan@college.harvard.edu.
+—Staff writer Zoe A. Y. Weinberg can be reached at zoe.weinberg@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Students displaced by the upcoming renovation of Old Quincy will be housed in three apartment buildings around Harvard Square, administrators announced Friday.
+Swing space—the name for interim housing during the renovation—will be located at Hampden Hall at 8 Plympton St., Fairfax Hall at 1306 Mass. Avenue, and Ridgely Hall at 65 Mt. Auburn St. The three buildings will house 180 displaced students as Old Quincy undergoes a 15-month renovation project, which will begin in June 2012.
+The buildings, owned by the Harvard University Housing, currently serve as apartments for graduate students and visiting faculty.
+Dean of the Faculty of Arts and Sciences Michael D. Smith said that the criteria used to select the swing space included proximity to Quincy and the potential to recreate a normal House experience.
+“A number of factors went into selecting these buildings as swing space. Ideally, there would have been a building just like Old Quincy nearby, but we are very satisfied that this option will provide students with a positive experience,” Smith said.
+Smith added that the current spaces would be slightly touched up to fit the needs of undergraduates, but he would not elaborate on how high the costs for the projects would run.
+While these three spaces could be used for future projects that would only take parts of Houses out of commission, Smith said that the considerations for finding housing to accommodate full House renovations are more complicated. He indicated that a “swing House” will need to be created before construction begins on larger House Renewal projects.
+“There aren’t a lot of places near Harvard that can house a full 350 to 400 people,” Smith said.
+The three buildings selected for this stage of the project are located in the same general area but are not immediately adjacent to one another.
+The apartment building on Plympton St. is located opposite the AD club and next to the The Crimson's building. The apartments on Mass. Ave. are located above the ice cream shop J.P. Licks. The Mt. Auburn St. building is located next to Claverly Hall, which is part of Adams House.
+Old Quincy was selected as a test case for future house renewal in Dec. 2010 and will serve as a blueprint for future renovations of the other neo-Georgian houses, which in addition to Old Quincy include Kirkland , Dunster, Eliot, Winthrop, Lowell, and parts of Leverett.
+“Each House will continue to be unique and will maintain its historic character. But as we renew the House system, we also believe strongly in the need to ensure that future students will share a similar experience in terms of their access to certain amenities, regardless of which House they are in,” Smith said.
+The funding for the Quincy renovation project will come from a combination of gifts from alumni and internal FAS funds, which includes the FAS reserves, Smith said.
+Administrators have said that the full House renewal projects will be a top priority for the upcoming capital campaign. Donors and senior administrators have said in the past that the total cost of the renovation projects would be over a billion dollars.
+According to members of the FAS Physical Resources Department, the renovation of Old Quincy will at least include updated heating, ventilation, and air conditioning units. The House Program Planning Committee outlined further possible changes for the Houses, such as introducing “clusters”—large common rooms for students living in singles along a hallway—and eliminating walk-throughs.
+College administrators are currently reviewing the HPPC’s recommendations for future renovations, and they hope to release more developed plans this May, Smith said.
+—Staff writer Sirui Li contributed to the reporting of this story.
+—Staff writer Stephanie B. Garlock can be reached at sgarlock@college.harvard.edu.
+—Staff writer Gautam S. Kumar can be reached at gkumar@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Coming into the season, the Harvard baseball team looked like a legitimate contender for the Ivy League crown.
+But expectations differed sorely from reality: the squad now holds a dismal 4-25 record. The Crimson hasn’t fared much better in league play, either, winning just once in eight tries. Currently, Harvard is in last place in the Rolfe Division, five games behind division-leading Dartmouth.
+This weekend, the team has a chance to turn it around, as the Crimson begins play against other Rolfe Division teams.
+In its first intra-division series, the Crimson travels south to face Brown in two double-headers this weekend. For Harvard, it’s pretty much do-or-die.
+The other Rolf teams, Dartmouth and Yale, will square off for two weekend double-headers in Hanover, N.H. Last year, the Big Green swept the Bulldogs, and if history repeats itself, the Crimson could be in trouble. With just 12 Rolfe Division games left, a Dartmouth sweep combined with a Brown sweep would mathematically eliminate Harvard from the Ivy League title hunt.
+But luckily for the Crimson, the Bears look very beatable. Despite holding a 4-4 league record, Brown has the lowest team batting average (.218), the lowest team on-base percentage (.294), the least runs (88), and the highest ERA (6.93) of any team in the Ancient Eight.
+With a sweep over Brown this weekend, Harvard would be back in the hunt for the Rolfe Division title. But for the Crimson to pull off a men’s-hockey-like turnaround it would have to resolve a lot of problems—such as a .234 team batting average and a 6.82 team ERA—seemingly overnight.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+With spring comes all the craziness, both in the atmosphere and on the ground. In the air, the weather for the most part has been unwilling to make up its mind between days ofglorious sunshine and downright depressing days soaked with April showers. Best to have the shorts and sunglasses, rain boots and umbrellas on constant standby, because you never know what you are going to get. Likewise, in the world of Ivy sports, this past week has been one that featured both heartwarming stories and near scares for Ivy followers. We’ll explain it all in another edition of Around the Water Cooler. 
+In Ivy baseball last weekend, Dartmouth was the only team to go a perfect 4-0 in Ivy play. The Big Green won two games against Cornell—who had previously been undefeated in Ivy play—and Princeton to move to 6-2 and in first place in the Rolfe Division.
+On Sunday afternoon, the Crimson men's soccer team and the Haitian National Team played to a 0-0 tie before more than 11,000 fans at Harvard Stadium. Following the end of regulation, Harvard and Haiti settled the match in penalty kicks, with Haiti coming off on top 4-1. The game, titled “Haiti Leve,” or “Haiti Rises” for our non-Creole reading readership, was the first leg of a five-day benefit trip by the Haitian National team throughout New England in hopes to raise funds for the organization Partners in Health, which helps relief efforts in Haiti. Tickets for the general public were ten dollars with additional donations collected at the game.
+After a historic and thrilling season in which featured the Harvard men’s Basketball team’s first taste of the Ivy title and a brief glimpse at making the Big Dance for the first time since Truman was President, the Crimson faithful were in for a scare when news broke out early Monday morning that the University of Miami had offered Harvard men’s basketball coach Tommy Amaker the top job in its men’s basketball program. However, by midday, Coach Amaker had quickly displaced these fears by opting to remain at Harvard.
+In New Haven this week, Yale announced that it had renamed its newly renovated soccer and lacrosse stadium Reese Stadium, after two brothers, Jason and Jonathan Reese, who not only distinguished themselves during their time as Bulldog lacrosse players in the late 1980s but have also proven to be two of the greatest donors and benefactors of the Yale’s athletic program.
+Crimson men’s lacrosse is also in the midst of a transformation of sorts. After two one-goal losses to Albany and Cornell at home, Harvard unleashed a beat down of Quinnipiac on Tuesday, 14-7. Crimson lacrosse hopes to carry this momentum forward as it now enters a crucial three-week stretch in which Harvard will face off against Ivy foes Penn, Princeton and Yale respectively.
+On the women’s side, the Dartmouth women’s lacrosse team maintained its undefeated streak thus far in the season to maintain first place in Ivy standings. The Big Green’s win came at the expense of Cornell, which is in the midst of a four game tailspin.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Each Thursday, The Crimson will compile a series of unique statistics about Harvard's sports scene. Welcome to the Magic of Numbers—without the problem sets. We'll do the math for you.
+SPRING SEASONS HIT HOME STRETCH  
+18: The number of runs given up by Harvard baseball against Cornell in a loss Sunday.
+12: The number of runs scored by Cornell in the second inning in the game.
+37: The number of combined goals scored in the women lacrosse team 19-18 loss to Virginia.
+16: The number of runs the Crimson softball team outscored Holy Cross by in Tuesday's doubleheader.
+3: The number of home runs hit by softball player Kasey Lange in those two games.
+9: The number of RBI’S by Lange in the doubleheader.
+55: The number of points scored by men’s volleyball co-caption Matt Jones in the team’s two weekend games.
+44: The number of assists by men's volleyball player Derek Jansma in the Crimson's loss to New York University.
+6-1: Back-to-back victory margins for the women’s tennis teamin matches against Cornell and Columbia before their 4-3 loss to Princeton on Sunday.
+2: Place finish of the Crimson women’s golf team in the Spring Brown Bear Invitational.
+8: Place finish for the Harvard men’s golf team at the Princeton Invitational.
+4: The number of members of the men’s golf team from Massachusetts.
+0: The number of seniors of the men’s golf team.
+13: The number of goals given up by the Harvard women’s water polo team in the last two games.
+4: The number of goals for water polo player Devan Kennifer in the team's 13-10 loss to the No.6 Michigan.
+ 
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+CHESNUT HILL, Mass.—Unable to atone for its early pitching miscues, the Harvard softball team dropped its cross-town matchup to Boston College, 4-1.
+The Eagles (10-22, 5-6 ACC) jumped up to an early lead against the Crimson (22-12, 6-2 Ivy) in the first inning. Nicole D’Argento reached first on a walk and advanced to second on a sacrifice bunt.
+With a runner in scoring position, Harvard junior pitcher Rachel Brown threw a wild pitch that hit the dirt before the plate and flew up in the air. The pitch allowed D’Argento to come around to score the game’s first run.
+Boston College’s second run followed soon after. Brown surrendered two consecutive walks to Brittany Wilkins and Tory Speer, and another Brown wild pitch moved both runners into scoring position.
+Ronnie Mae Ayers drove in the inning’s second run on a sacrifice fly to center. The Crimson recorded a double play, throwing out Speer as she tagged from second, but it wasn’t enough to prevent the Eagles from scoring what would prove to be the game-winner.
+“Rachel was obviously off to a rough start,” Harvard coach Jenny Allard said. “She had to alter her game plan much earlier than we thought she would have to.”
+The Crimson went down in order in the second inning, giving the home team another chance at the plate.
+Boston College built a 3-0 lead on a Maria Pandolfo home run to left field.
+Harvard finally found the scoreboard in the third inning. Co-captain and outfielder Emily Henderson led off the inning with an infield single. After an error by the Eagles’ second baseman allowed sophomore Stephanie Regan to load the bases, freshman infielder Kasey Lange hit a sacrifice fly to left field to score Henderson in from third.
+Down 3-1 going into the fourth, the Crimson put a runner on with a one-out single from sophomore Ashley Heritage. But the chance at a rally quickly died, as junior Jane Alexander and Henderson recorded two quick outs.
+Despite scoring only one run on the day, the Crimson’s defense and pitching performed well after the first two frames. Brown gave up just one more run in her final three innings of work. In the field, the squad played well behind the starter, including two solid plays in the fourth.
+“We’ve had a very strong defensive game all year,” Allard said. “We trust ourselves when the ball gets put into play. But we’ve got great pitchers, and the team’s working well together.”
+In the fifth, BC second baseman Alison Kooistra reached first on a walk. But when Kooistra tried to steal second, Harvard freshman catcher Allison Scott fired it across the diamond to beat Kooistra to the bag. The Crimson quickly notched the second out of the inning on a pop up.
+But Harvard couldn’t entirely shut down the Eagles offense, and Boston College knocked a home run to deep left, pushing the score to 4-1. The Crimson retired the side on the next batter.
+“I think our whole team works really well together,” Henderson said. “Sometimes teams have trouble between the infield and the outfield, but we’ve had a good run. It’s really meshed together.”
+Both teams brought in new pitchers in toward the game’s last innings. Brown was pulled after five frames. The junior notched four strikeouts but surrendered two hits, four runs, and three walks. Eagles’ starter Amanda Horowitz stepped down after six innings. Horowitz gave up just one run and one walk on five hits.
+Freshman Laura Ricciardone pitched the final inning of the game for the Crimson, and she had no trouble on the hill, pitching a perfect inning with two strikeouts.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The Harvard men’s volleyball team (8-13, 0-7 EIVA) was in a very different place on February 15 than it is now. Two months ago, the Crimson was coming off a four-game winning streak and had won six of its last seven games.
+But two months later, the team has added just two more wins, while adding 12 more losses to its record, including seven in league play. Harvard will try to end this skid in its final game of the season against the New Jersey Institute of Technology (7-19, 1-6) at the Malkin Athletic Center tomorrow afternoon.
+The Highlanders, fellow bottom dwellers in the Hay division standings, just beat Harvard this past Saturday, 3-1.
+“In our last match [against NJIT] I felt like we never really came together, and never really got any rhythm going,” said junior co-captain and outside hitter Matt Jones. “It was a weak match for us, and we never really had control of the game, even though we did win that one set.”
+“We need to defend their serves better,” he added. “They had a couple jump servers get some runs on us that I really think we can minimize if we bear down and can focus a little more.”
+NJIT began the year slowly, losing five of its first six, and got its first and only win in EIVA play over the Crimson.  But overall the visiting team has shown improvement from last year’s three-win season.
+Harvard won only five games last season, but three victories came in conference play. This year the Crimson has failed to record a conference victory.
+Although neither team will be playing in the EIVA conference tournament that begins later this month, both squads can use wins in the season finale to build momentum for next season.
+“The team definitely wants to end the season on a high note,” said freshman outside hitter Chris Gibbons. “Trying to end the season on a high note, and showing the level of energy we can play with is really what we want to accomplish.”
+Next year holds promise for both teams.
+At least a part of this year’s struggles can be attributed to rosters filled with young players. Harvard has only one senior and two juniors. Four sophomores and five freshmen round out the squad.
+“This season we had a young team, with many of our guys starting in their first year,” Jones said. “As a team we don’t have a ton of experience together, but I think they’ve done a great job.”
+“Coming into this season we didn’t really know what to expect,” Gibbons added. “We had a lot of young guys playing and it took time for us to learn how we play [together] on the court. But we have grown individually and as a team, and next year with a lot of guys coming back and with most of our team intact, it is definitely going to be a good year.”
+The Highlanders’ roster is similarly composed. NJIT has no seniors and only one junior, while sporting seven sophomores and six freshmen.
+But in the battle of the young last week, the Highlanders held the upper hand.
+In last Saturday’s matchup, although Harvard got more kills, tallying 53 while the opponent only managed 47, NJIT committed two fewer errors and eight more aces, aiding in their eventual win. Jones, who has a team-high 308 kills, had a match-high 22 against the Highlanders. For the Crimson to win its first league game tomorrow, Jones will have to put up a similar performance.
+But the team can’t depend on Jones alone. Once again, Harvard will have to rely heavily on its freshmen, including Nick Madden, Kyle Rehkemper, and Matt Owens. The three tallest players on the team, the trio has three of the Crimson’s four highest block totals.
+“Defensively we have to stay disciplined, especially with our blocks,” Jones said. “I think offensively our passing will be important for us.”
+Meanwhile, NJIT will look to capitalize on its balanced attack. In its victory over Harvard, junior Adam Gustafson led the way with 12 kills, 10 digs, and three blocks, while sophomore Doug Battersby added 40 assists.
+Regardless of the outcome tomorrow, the Crimson remains optimistic for next year.
+“I think having a whole year under our belt for next year will really be helpful,” Jones said. “We had a tough year, but I think it’s something to work from.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In a contest under the lights at Harvard Stadium on a chilly Tuesday evening two weeks ago, University of Massachusetts goalkeeper Tim McCormack picks up a ground ball, and, sensing he has an open field in front of him, begins to run.
+He hits midfield—much farther out than the typical goalie’s domain—when suddenly, BOOM!
+McCormack is blindsided by a massive hit he never saw coming.
+The shot was delivered by Harvard sophomore midfielder Ryan Stevens, whose talent for decking an opponent almost seemed innate.
+In fact, it is.
+Ryan is the son of NHL Hall of Famer Scott Stevens, whose bone-jarring body checks gave him a reputation as one of the league’s hardest hitters during his career.
+The defenseman played 22 seasons in the NHL from 1982-2004, most notably for the New Jersey Devils, whom he captained to three Stanley Cups in nine seasons. The 2000 Conn Smythe Trophy winner for Playoff MVP, Stevens finished his career­­—which also featured stints with the Washington Capitals and St. Louis Blues—with the most games ever played by an NHL defenseman, during which time he never had a negative plus/minus.
+Ryan is the middle child of three in the Stevens family. Growing up with an NHL superstar for a father, he says, had its benefits and downsides.
+“Obviously it was different,” Ryan says. “Anywhere we went [my dad] would be recognized. All my friends knew who he was. That definitely changes the way people act towards you, the way you make friends–you have to make sure your friends actually like you for you.”
+As a ten-year-old in 2000, Ryan had the chance to celebrate the Devils’ second Stanley Cup with the squad, an experience Scott remembers sharing with his son.
+“It was nice, he was part of the celebration,” the elder Stevens says. “It was a pretty cool memory for him to be there for that, and to be old enough to remember it.”
+But it was around that point that Ryan’s interests started to move away from the sport for which his father was so well-known.
+“I started off playing hockey when I was really young, three or four,” Ryan says. “I played everything pretty much. I think I was nine or 10 when I told my parents that I didn’t want to play hockey anymore, that I wanted to play other sports and that lacrosse was going to be my sport.”
+One of the reasons for his decision stemmed from expectations that he would be able to fill his dad’s big shoes.
+“There was a lot of pressure to be good, when I just wanted to play and have fun at that point,” Ryan explains. “I remember I’d be an eight-year-old, and everyone would be looking at me, expecting me to be great. It was a lot of attention at a young age.”
+Despite his love for hockey, Scott accepted his son’s decision to move away from the sport without complaint.
+“He was very supportive,” Ryan says. “I pretty much explained that [hockey] was kind of his thing...He doesn’t care what I play. As long as I’m playing sports and competing, he loves to watch me play.”
+“I was thrilled,” Scott adds. “I think [lacrosse] is a great game. I played a little bit of lacrosse when I was a kid. It’s very popular on the East Coast, so it was a good fit for him.”
+But as a father, it was at times difficult for Scott to have his kids grow up while he would be away with the team.
+“It was a little tougher, but my wife did a great job,” he says. “There’s no question you miss some things while you’re playing on the road, but I’m fortunate to be around more now when Ryan’s in college playing lacrosse. I’m able to see all or most of his games, which is nice.”
+And it is where Ryan plays that makes Scott most proud. Ryan, a two-time letterwinner in high school, says his dad was especially thrilled when he got into Harvard.
+“[My dad] pretty much is totally focused on athletics,” Ryan says. “He never did well in school, but it was always something he wanted me to focus on. He didn’t want me to put all my attention on being a good athlete. Me going to Harvard for athletics and academics met [my parents’] goals for me; [my dad] said it was one of his proudest moments.”
+In fact, it is often Ryan’s efforts in the classroom that Scott has most admired.
+“I’m proud of the way he works hard at school,” Scott says. “That’s probably what I’m most proud of—his work ethic and getting the grades he gets with hard work.”
+Ryan has been equally successful on the field. After missing much of his freshman year with a fractured back, the midfielder has emerged as one of Harvard’s most dangerous offensive threats this season. The sophomore currently ranks fourth on the team with 13 goals and scored a career-high four times against No. 5 Cornell last weekend.
+“It’s been awesome so far,” Ryan says. “I’m just trying to have fun because I’ve gotten injured in the past, [so] I’m enjoying the time I’ve been able to be on the field competing in games, and it’s going well.”
+As a former athlete himself, Scott has taught his son a lot about competition.
+“He put some time in this summer working out and did a lot of training,” the thirteen-time all-star says. “[So I’ve told him] to just put time in, work at the game, and try to be the best you can be.”
+Ryan has taken the advice to heart.
+“[He’s taught me to] lead by example, on and off the field,” the midfielder concurs. “That extends to all facets of playing...He was a terrific role model in terms of doing the right things to succeed athletically...He would always stop at nothing, he’d do whatever it took to improve his chances and show the team he was doing everything in his power to ensure success. So I really looked up to that; I’ve tried to mold my work ethic and leadership off of that.”
+But it’s not just Scott’s dedicated mentality that has influenced Ryan, who says he has taken up facets of his dad’s hard-hitting style as well.
+“I was never really the biggest kid growing up, but recently I’ve kind of filled out a bit,” Ryan says. “I definitely look towards his game to help me with my own, such as playing more physically. Especially playing for Harvard this year, we don’t get a lot of respect as athletes and competitors...so we’re essentially trying to break the mold that we’re not a physical team.”
+To help break that stereotype, Ryan couldn’t have a better mentor to look up to.
+And as the sophomore has gotten more physical, his talent has begun to shine through as well.
+As the saying goes, like father, like son.
+—Staff writer Scott A. Sherman can be reached at ssherman13@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+For Princeton crew, this spring has been one to remember. All four first varsity eights are currently unbeaten, with the women's heavyweights, women's lightweights, and men's lightweights currently ranked first in the nation. While the No. 2 Harvard lightweights won't get a crack at the Tigers until an Apr. 30 race on the Charles, Princeton's undefeated streak could soon come to an end at the hands of the No. 3 Harvard heavyweights.
+The battle between the third-ranked Crimson, the fourth-ranked Tigers, and MIT for the Compton Cup will take place on Lake Carnegie, Princeton's home course. Because neither squad will face No. 1 Washington or No. 2 California until IRAs, the dual match will likely prove be the toughest on both teams' schedules.
+That is, unless the race proves to be a repeat of last year, in which a heavyweight slugfest turned into an easy victory for Harvard after the Tigers lost the bow of their boat. Midway through the race, Princeton's rudder cable broke, and the crew lost control of its steering and crashed into the stern of the Crimson's shell. Harvard's Empacher, named for Olympian Malcolm Howard '05, was undamaged by the collision, while the Tigers were forced to stop rowing, their ruined boat obstructing the course of fellow competitor MIT, which took second to the Crimson.
+"Next year we would like Harvard to stop rowing also," Engineers' coach Tony Kilbridge said of the race, according to the team's official website.
+MIT hasn't won the Compton Cup, named after its former university President Dr. Karl T. Compton, since 1962.
+Neither Harvard nor the Engineers should expect a defeat over undefeated Princeton to come as easily this year; rankings suggest that the Tigers will give the Crimson its toughest test yet. Harvard topped seventh-ranked Brown last weekend by 2.6 seconds last weekend and returns six members of last year's first varsity eight that won both EARC Sprints and the Ladies' Challenge Plate at Henley Royal Regatta.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Friends, family, and alumni joined the Harvard men’s basketball team in celebration of its 2010-11 season this evening at the Harvard Club of Boston for the Crimson’s annual banquet.
+Former Boston Celtics’ player and coach Tommy Heinsohn addressed the Crimson players, congratulating the squad, which earned a share of the Ivy League championship for the first time in program history.
+Harvard coach Tommy Amaker—who announced on Tuesday that he would return to coach the Crimson next season despite receiving interest from the University of Miami—led the banquet, revealing the winners of the 2010-11 team awards.
+Junior co-captain Keith Wright garnered both the Hamilton Fish ’10 Most Improved Player Award and the Raymond P. Lavietes ’36 Most Valuable Player Award. Wright, who nearly doubled his sophomore year rebounding clip, led the Crimson with 14.8 points, 8.3 rebounds, and 1.8 blocks per contest over his junior campaign.
+Wright’s fellow captain, junior Oliver McNally, took home the Henry Zimmerman Free Throw Shooting Accuracy award after finishing the season third in the nation in free-throw percentage, connecting on 92.6 percent of his attempts.
+Sophomore Christian Webster received the Floyd S. Wilson Sportsmanship Award, while sophomore Dee Giger and freshman Matt Brown shared the John Harnice ’84 Spirit Award.
+Amaker also introduced a new award named after Harvard basketball donor Thomas Stemberg ’71, given to the player who leads the Crimson in minutes played. Sophomore point guard Brandyn Curry was the first to take home the honor after leading the Crimson with 1,017 minutes.
+Amaker closed the banquet by announcing that McNally and Wright will share the captaincy again in 2011-12, making them the first pair in Harvard basketball history to serve two consecutive seasons as captains.
+In the coming season, Wright and McNally will look to lead the Crimson to its first NCAA tournament appearance since 1946.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+If you suddenly find yourself in the midst of a vicious water gun fight on Mt. Auburn Street, or if you happen to witness fellow students wielding plastic spoons like grenades, do not fear; you are not crazy and these events really are taking place.
+As is traditional at this time of year, several upperclassmen Houses have recently taken part in multi-player strategy games to showcase House spirit and possibly to show freshmen what kind of merciless environment they’ll be living in for the next three years.
+Adams, Lowell, and Quincy are all taking part in various versions of the game Assassins, where the general idea is that each participant is assigned a target within the same House and must kill that person in a highly specific way.
+Lowell House's version of Assassins stipulates that only plastic spoons can be used as weapons. Despite the lack of threatening artillery, creator and operator of Lowell Assassins Alex L.G. Hugon '11 has seen his fair share of creative attack methods, including spoons sent via mail (which only succeed in killing the victims if the attacker is present while the package is opened) and objects like wiffle ball bats with multiple spoons attached to create a far-reaching lethal weapon.
+Lowell Assassins specifically lists this year that nudity is no longer a form of protection. The rule was changed this year to discourage players from stripping down and streaking through campus in order to stay alive for another precious day.
+Adams House Assassins is taking a slightly different route by incorporating alliances into its game, but otherwise tensions run just as high.
+Quincy Assassins allows participants to choose the members of their teams, which means that if players are strategic they'll choose a team with people from their entryway and suites to avoid late-night kills when getting ready for bed. Quincy also has a particularly snazzy website that features the various teams and players and keeps participants updated on who is still active in the game. The Quincy participants are responsible for the high frequency of NERF guns currently on campus, and for the fear non-Quincyites feel upon finding themselves faced with NERF pistols after causally stepping within the Quincy gates where the game is contained.
+Quincy Mole, based on the ABC series "The Mole," is a 12-person game in which competitors face each other in challenges while secretly being subverted by the "mole." The goal of the competition is to discover the identity of the "mole."
+Kirkland is probably the most conspicuous of House games with its deadly ongoing match of Humans vs. Zombies, which is similar to Assassins except that it takes people longer to die because once killed they become zombies.
+"It's more fun than the other games; once you die in Humans vs. Zombies you just join the other team. Once you turn into a zombie you have to kill someone every three days to stay alive, and if you die as a zombie then you're out of the game," said Kirkland House Committee co-chair and participant Kelsey A. Koff '12. "It may not be the most bonding experience for new freshmen; it's like the opposite of Secret Santa with all the secrecy and scheming. But it gets you involved."

@@ -1,0 +1,33 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+As proponents flock to Washington to convince lawmakers of the benefits of cryptocurrencies, some technologists — including at Harvard — have taken sharp aim in the opposite direction.
+Headed by industry heavyweights including Coinbase, Blockchain Association, and Ripple Labs, crypto lobbying efforts have more than quadrupled from $2.2 million in 2018 to $9 million in 2021, according to a report conducted by the consumer advocacy organization Public Citizen. In the wake of the lobbying spike, tech experts are sounding the alarm on what they call the industry’s deep-seated problems.
+On June 1, 26 technologists penned a letter to lawmakers urging them to create more robust regulations for a crypto industry that, referencing its lack of structured regulation, many critics have termed the “Wild West.”
+“We urge you to resist pressure from digital asset industry financiers, lobbyists, and boosters to create a regulatory safe haven for these risky, flawed, and unproven digital financial instruments,” the letter reads. “We strongly disagree with the narrative—peddled by those with a financial stake in the crypto-asset industry—that these technologies represent a positive financial innovation and are in any way suited to solving financial problems facing ordinary Americans.”
+The letter, which has since amassed 1,500 signatures, aims to serve as a counter-lobbying campaign to the millions of dollars crypto proponents are pouring into the capital.
+“There is no practical use for it,” Berkman Klein Center for Internet and Society fellow and Harvard Kennedy School lecturer Bruce Schneier said of bitcoin, the core technology underpinning many cryptocurrencies.“There is no positive use for it. It speedruns 500 years of financial fraud. It harms people, it destroys the environment.”
+“You can’t kill it because it’s international, and domestic law will just be screwed overseas,” he added. “But you can at least regulate it.”
+One of the letter’s lead signatories, Schneier voiced his concerns with blockchain as early as February 2019, when he took to his personal blog to push back on the view of blockchain as a technology that operates independent of trust. Though blockchain does remove the need for traditional intermediaries, Schneier argued, users still depend on agents such as “miners” for the system to function.
+Long a low priority on legislative agendas, lawmakers have begun to propose measures for the industry. On June 7, Senators Kirsten E. Gillibrand (D-N.Y.) and Cynthia M. Lummis (R-Wy.) presented a bipartisan bill to articulate a regulatory framework for cryptocurrencies. The bill aims to create clearer definitions for digital assets, and shifts the majority of regulatory responsibility from the Securities and Exchange Commission to the smaller Commodity Futures Trading Commission.
+Software engineer Stephen Diehl, who signed the June 1 letter, called the bill “a step backwards.”
+“It would create a massive carve out in the American regulatory space, written explicitly by industry insiders, to minimize any regulatory oversight of crypto assets,” Diehl wrote in an email. “The status quo on crypto regulation is bad, but this bill is worse.”
+Lead signatory Molly White said the bipartisan legislation is “extremely friendly” to the crypto industry. White, a software engineer, is the creator of Web3 is Going Just Great, a project aimed at tracking corruption and malfunctions in Web3 — a catch-all term for a decentralized internet based on blockchain technology.
+“Crypto lobbying groups, folks like that, are pretty delighted with it,” White said. “It was disappointing for a lot of people who were more critical of crypto, and hoping to see stronger regulation because it is fairly minimal, what they’re proposing, and I think risks codifying a lot of the really minimal regulation that we’re seeing today.”
+White noted that Lummis’ Twitter profile picture used to have laser beams shooting out of her eyes — a popularized internet symbol that denotes support for the industry.
+The offices of Senators Gillibrand and Lummis did not respond to multiple requests for comment.
+In recent years, cryptocurrencies have become a component of Harvard’s own investment portfolio. The Harvard Management Company may have invested in Bitcoin as early as 2019, per a CoinDesk report, and Harvard-affiliated investors purchased roughly $11.5 million worth of Blockstack cryptocurrencies in April 2019.
+New York University Stern School of Business professor David L. Yermack ’85 — who said the Gillibrand-Lummis bill is a step in the right direction, and called the SEC’s legal moves against crypto companies a “grotesque form of regulatory overreach” — said investors may make the choice to diversify their portfolios to include cryptocurrencies.
+“You’re really talking about on the order of 1 percent,” said Yermack, a former Managing Editor of The Crimson. “It really should be something that is held in proportion to its role in the investable universe of other assets out there.”
+“You should have a little bit like a toe in the water, but just a little bit,” he added. “I think it’s a long time before it becomes a significant part of anyone’s portfolio — at least anyone who is rational about this.”
+Hardly a lone effort, the June 1 letter is an organized expression of an alarm some signatories claim they have been sounding for years. Lead signatory Miguel de Icaza, who co-founded the software company Xamarin and the desktop environment GNOME, said it has been “very tough” to combat misinformation about the industry — adding that only a subset of people understand both the technological and financial aspects of cryptocurrencies.
+“This community has really managed to put up veneer upon veneer upon veneer of series and mathematical proofs and technobabble, but fundamentally, it’s a convoluted set of operations that don’t really amount to much,” de Icaza said. “Technologically, there’s very little there.”
+—Staff writer Isabella B. Cho can be reached at isabella.cho@thecrimson.com. Follow her on Twitter @izbcho.
+Want to keep up with breaking news? Subscribe to our email newsletter.

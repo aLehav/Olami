@@ -1,0 +1,508 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A case brought to the Washington State Supreme Court regarding the privacy of faculty disciplinary hearings at colleges will likely result in far-reaching ramifications for schools across the country. The suit involves Professor Perry F. Mills at Western Washington University, who claims that his academic suspension after a closed faculty hearing would not have occurred had the hearing been open. Mills argues that the secrecy of the proceedings promotes perjury and precludes witnesses with conflicting evidence from coming forward. On the other hand, the school argues that it maintains the right to set its own procedures and that confidentiality is crucial to protecting student testifiers. Although a reasonable balance must be struck, schools conducting faculty hearings must permit students, faculty, and other interested parties to submit evidence and understand the state of faculty disciplinary trials, even if all details remain unknown.
+Providing more information about cases will no doubt prove a delicate task for colleges; although it is essential for all facts to make it into the case as the hearing unfolds, schools must shy away from releasing excess details about the situation in order to protect those on trial. As shown by the Mills case, there are sensitive issues regarding institutional rights, student protection, and behind-closed-doors honesty that require a certain degree of college prerogative to balance. However, on a systemic level, the current structure is far too clandestine and affords insufficient space for transparent, external input.
+It is important to note that universities have an institutional interest in conducting closed hearings—they yearn to be seen as reliable providers of research. The public nature of open cases may compromise this credibility, and thus colleges prefer to minimize the number of investigations made known to the community. At the same time, schools also take pains to thoroughly examine their own cases to ensure that they, not others, discover their researchers’ mistakes. These two tendencies combine to give universities good reason to have trials that are not completely open but also not entirely closed.
+Merely publishing a transcript after a case is not a remedy to currently closed trials; it leaves the situation vulnerable to chaotic complications, should errors be discovered with the trial after the decision. Instead, people must be able to present evidence at the time of the original trial.
+Moreover, in the interest of time and clarity, hearings should appear on a public docket as proceedings unfurl. This would cast off the stigma associated with ambiguous court documentation. Most other forms of legal review use a similar method, and faculty hearings should be no different.
+That being said, research hearings require exceptional guidelines because the process is more straightforward and universities can usually discern relevant testifiers with relative ease. As a practical matter, students who did not work for the researchers in question have far less to contribute to these hearings, thus necessitating a lesser degree of openness in the interest of confidentiality.
+Changes to more open faculty hearings would empower students to bring forward their concerns once they embrace their role in these affairs. It is comforting for students to know that they are allowed to participate in such campus-wide decisions. Indeed, these issues bear a timely relevance to the Harvard community in particular, and we urge the College to implement the above suggestions. It is high time for Harvard and other universities to lift the veil on faculty hearings and engage input from the student community.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+If you haven’t heard about Firesheep yet, then it may be too late. The Firefox add-on created by Eric Butler has enabled inexperienced hackers to successfully hijack Facebook, Twitter, and, when first released, PayPal accounts. While his motivation to promote more security-savvy web browsing was appropriate, the mode of release was damaging and undermined his goal.
+Butler claims on his webpage that “[websites have] been ignoring this responsibility [to protect users] for too long, and it’s time for everyone to demand a more secure web. My hope is that Firesheep will help the users win.” However, the move by Butler compromised the privacy of thousands who found their accounts hijacked without warning. This kind of security breach—granting access to private messages, photos, contact information, and monetary accounts—is unacceptable.
+Instead, Butler should have publicized that he had created this plug-in, warning people and websites of its imminent release and of the dangers to come if they failed to boost security protocols. This would have yielded the benefits that Butler intended since it would have created the impetus for more secure and savvy web surfers, but it would have avoided the abundant risk of the technology’s actual release.
+While forgoing due warning was ill-conceived, Butler did raise awareness in a very powerful way about the risks of open networks and the serious lack of security provided by some major websites, including Facebook and Twitter. The success of these websites is dependent on users’ sense of security, and such basic lapses in security should have been corrected long ago. Websites must bear the blame for leaving users unprotected, and  now that the plug-in is out there, sites need to work at full speed to repair these holes and protect their users.
+Additionally, the general public would do well to recognize the dangers of open networks and work to avoid taking serious risks. At Harvard, students must realize our wireless network is open, despite the requirement of a Harvard PIN, and should take precautionary measures whenever possible. Specifically, we encourage students to use a wired connection or mobile phone when making online purchases or providing private information.
+Given the available measures to improve security, students should not continue to browse unprotected. Even if they don’t care about their own privacy, individuals must recognize that the privacy of friends depends on their actions, given that friends’ information can be accessed through others’ Facebook accounts, for instance. Virtual private networks and automatic redirects to https, with add-ons like HTTPS Everywhere, are easy methods to better protect against this mode of hacking.
+In light of the events surrounding Firesheep’s release, we applaud Mozilla and the open-source community for generating a timely remedy. No longer do we need to wait for private companies to fix web-browser security issues. While Facebook says it hopes to have an SSL option, a security protocol that encrypts data, in the coming months, the open-source community already has produced protective add-ons, including HTTPS Everywhere and the aptly-named FireShepherd.
+Butler’s choice to release Firesheep was certainly a lapse in judgment, since it put so many in harm’s way, but doing so has brought home the crucial importance of Internet security. We hope that, in the face of Firesheep, users and websites take the necessary steps to ensure it does as little damage as possible.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Yeah, I’m not going to lie: I almost didn’t vote last week. The whole process is really a pain.
+And, if you were like the rest of America, you probably didn’t vote; the 2010 midterm elections had a voter turnout rate of 38.2 percent. The youth demographic, which came out in force in 2008 to launch President Obama into office, dropped by half this year to a measly nine percent turnout rate. Many efforts have been used to boost turnout, specifically among younger Americans, from Facebook reminders to P-Diddy’s “Vote or Die” campaign. Still, despite these efforts, low turnout is still the norm. It is easy to blame apathetic, irresponsible youth or a decrease in civic pride, but the real blame lies on a system that has not changed with the times. An important step that needs to be taken if democracy is going to work is to allow for people to vote online from their home computer in major elections.
+The biggest cultural shift of the last two decades is the significance of computer and Internet use in daily life. Seventy-seven percent of North American residents are Internet users, with a total of 220.1 million users just in the U.S. There are 350 million Facebook users and 126 million online blogs. Ninety trillion emails were sent in 2009 alone. As you can see, the Internet is not only popular, but also necessary for society to function.
+And for democracy to function, a country needs as many voters as possible voting. Does an election truly reflect the people’s will if only nine percent of the 18- to 29- year-old demographic comes out to the polling place? Certainly not. This demographic is composed of college students and young professionals, who are caught up in the hustle of early adulthood. Often these individuals are not even in their hometowns, and getting an absentee ballot can be complicated and difficult. Voting, even if they believe in its principles, may not end up happening when it’s time. Online voting would increase youth turnout at elections, and also that of stay-at-home parents, those with disabilities, and those needing to vote absentee. While it won’t alleviate true voter apathy, the excuse of not remembering or having the time or ability would not exist.
+Future generations of youth are going to be raised on technology even more than today, and thus it is imperative that online voting be instituted as soon as possible. While some might feel that it would take away the civic pride one feels from voting in person, in an ideal situation, online voting would be a supplement, and voters should be able to choose their voting method.
+Still, current online voting systems suffer possible security risks. In an experiment, Washington D.C.’s Board of Elections and Ethics invited hackers to try breaking a trial voting system; it only took 36 hours to exploit a fatal flaw. This seems discouraging, but that these security flaws were found at all is an important step. Additionally, there are systems in place in America and elsewhere that have withstood security trials. “The system we have is totally different. You can’t compare apples and oranges,” West Virginia Secretary of State Natalie Tennant told TIME magazine. Voters in the Mountain State can vote “using a complex, privately designed system that includes a secure website, passwords and encryption codes.” While perfect online voting security measures may not currently be in place, the answers can be found if the right effort and resources are allocated.
+The current voting system suffers a cultural bias: Those who have the time and motive are generally older individuals who, through tradition and habit, are statistically more likely to show up and vote in person. However, it is time for democracy to enter the 21st century. Given the proper security measures, adding an online voting supplement to major elections is the future: It would make voting easier, fairer, and more accessible.
+Peter L. Knudson ’13, a Crimson editorial writer, lives in Eliot House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In the past week, the political intelligentsia has speculated as to the logic of President Obama’s visit to Asia. Why is he visiting right after a devastating election? Should he visit at a time of economic weakness at home? These shortsighted political commentaries are failing to realize the long-term geopolitical importance of the relationship with India for American interests. America’s most important economic partnership and security alliance in the next few decades will be with India, and President Obama’s visit was a crucial step in building this relationship.
+India has “the most rapid growth potential of the BRICS.” Not only does it have a burgeoning young English-speaking population with multiple needs, but the economy also has a healthy balance between consumption and investment, the prevalent rule of law creates an environment conducive to entrepreneurship and private innovation, and market forces are relatively strong as liberalization and privatization steadily continues.
+There are numerous opportunities for American businesses in India that have not yet been realized, as evidenced by the fact that America exports more to the Netherlands than to India. The presidential visit thus placed an important focus on India for many in the American corporate world who had not yet realized the tremendous scale of opportunities, and it should serve as an impetus for both countries to make further progress on trade issues and continue to open markets and expand opportunities. India must remove its restrictions on foreign investment in agriculture, retail, and telecommunications and involve American businesses in modernizing the country’s infrastructure. Such liberalization could create opportunities for American businesses and help India modernize at the pace that it desires.
+From a security standpoint, India now plays a crucial role in the region as both an uneasy trading partner and a simultaneous bulwark against Chinese interests. America has an interest in supporting India in territorial and trade disputes to ensure that China does not feel as though it can run roughshod over the region by claiming new territory or enacting petty protectionist measures. America’s military sales to India highlighted an important alliance that has the potential to maintain stability in Asia. With the world’s second and third largest militaries, India and the United States have the potential to create a formidable military alliance that could maintain stability in the tense region, especially in the case of territorial and naval disputes.
+In an age in which Europe and Japan are in decline and in which China often opposes human rights and democratic interests, America is too often left standing alone when trying to maintain peace and defend human rights. As a rising power with similar democratic ideals, India can be a valuable leader on the global stage. Obama correctly realized the need and potential for India to be a leading power in Asia and the world when he endorsed its campaign to gain a permanent spot on the United Nations Security Council. He argued that, with a greater role on the international stage, India must accept greater responsibility in maintaining a peaceful world and thus identified one of the major benefits of an alliance with a powerful India.
+Obama’s personal trip to India was also important because much of the Indian public is skeptical of his leanings since he has spent the last few years justifiably focused on problems and issues in Pakistan, Afghanistan, and China. A visit has the potential to change Indian political and public opinion in a way that simple speeches or press releases from the White House cannot do and could, in the long term, help change the political calculus behind the Indian left’s current wariness of security and trade agreements with the United States.
+Dancing with children, visiting famous sights, supporting India’s bid to the Security Council, and talking with students are all “soft” actions that might not produce immediately tangible results but they will remain lasting images in the psyche of one billion residents who are steadily becoming richer and more powerful. In the decades to come, America’s relationship with India will be a major determinant of the future of our economic and security interests. And when the two countries need each other for new business opportunities or security concerns, President Obama’s visit will leave a lasting imprint on the Indian memory.
+Ravi N. Mulani ’12, a Crimson editorial writer, is an applied mathematics concentrator in Winthrop House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Fairness is a concept central to how we view society and our interactions with each other. It deals with the idea of normative judgment at its most general, of evaluating actions or conditions based on an idea of justice and an ideal state of things.
+Children learn about fairness at a much earlier age than other philosophical concepts such as freedom or equality. Whether it comes from a child complaining that it is not fair that their older sibling receives greater privileges or from a kindergarten teacher explaining why pupils must take turns using a particular toy, “fair” carries with it the nebulous but compelling guarantee of moral righteousness.
+This is a useful device for parents and teachers who must constantly explain themselves to younger individuals who may not necessarily be prepared for or interested in hearing a lengthy digression on the various factors involved in the adult’s decision. It acts as a shortcut that relies on previously existing trust in (or at least deference to) the individual using it.
+This is all well and good in the context of interaction between adults and children due to the latter’s lack of experience and neurological development. But what about interaction between adults? Surely the simple assertion that something is fair should not suffice to convince a reasoning individual of its moral rectitude?
+Before thinking about common usage of the word “fair,” consider the fact that the Merriam-Webster dictionary has 11 definitions of just the adjective form of the word. While the precise meanings vary significantly (from “marked with impartiality and honesty” to “superficially pleasing”), 10 out of the 11 (with “not dark” being the exception) have positive meanings. This makes it difficult to claim that any particular instance in which the word “fair” is used is incorrect.
+How, then, is the political and commercial usage of “fair” affected by this ambiguity? Take one especially common example: that of “fair-trade” consumer products. Ranging from handpicked agricultural commodities to all manner of basic assembled good, fair -trade products rely on the assumption that that the terms of the economic interaction between merchants and workers are wholly just.
+This, no doubt, is true. However, it carries the problematic implication that the terms of commerce involved in products not branded as “fair-trade” are unfair. While child labor or coercion are certainly used in the production of many common products, “fair trade” also implicates those enterprises that employ neither of these tactics but merely pay low wages. Is this really unfair? Unfortunately for the workers, yes, but not indicative of wrongdoing on the part of the merchants or consumers.
+This brings us to the central bit of contradiction and confusion in the use of the word “fair”; the question of equality vs. contracts. On the one hand, it appears immediately unfair that many people live their entire lives in absolute poverty while others enjoy all the luxuries of modern society, especially when the work done by those in poverty appears much more difficult than that of the rich. On the other hand, outside interference in mutually beneficial and voluntary economic activity between adults to the detriment of one or more of these individuals can also be easily called unfair.
+For this reason, calling policies such as tax structures or economic regulation “fair” or “unfair” is nearly meaningless, the equivalent of a mere personal endorsement.  It imparts no real information to its audience and tacitly insults their intelligence by assuming that its usage will sway their opinions. It is nevertheless an effective tool in generating support for a policy, a fact to which its popularity among politicians can attest. Those wishing to be honest and forthright in the presentation of their ideas should avoid calling them fair unless other, more substantive modifiers are included.
+After all, we’re not children.
+Christopher M. Lehman ’13 is a Crimson business associate in Currier House. His column appears on alternate Wednesdays.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The Boston School Committee recently approved a proposal to convert Patrick F. Gavin Middle School and a Boston high school into charter schools in an effort to “accelerate students’ achievements,” according to Matthew Wilder, the committee’s director of media relations.
+Based on the proposal approved on Nov. 3, the new charter middle school will open next fall and will be operated by Unlocking Potential, a nonprofit organization that seeks to improve underperforming urban public schools. The high school to be converted has not been identified but will be renamed the Green Academy, according to Wilder.
+Though the students at the existing middle school showed some improvements in mathematics, they were struggling in other areas such as English, Wilder said.
+“We realize that we really have no time to wait. We expect to see a rapid turnaround of the school.” Wilder said.
+Current students at the middle school will have the choice to remain at the charter school or attend other public schools in the district. Other students who wish to matriculate at the charter school must enter a lottery, as required by the Education Reform Act of 2010 passed in January, which allowed Boston school districts to create in-district charter schools without seeking teacher unions’ approval.
+“The mayor of Boston and the School Committee in Boston have become very upset with the fact that they are unable to renegotiate collective bargaining agreement that allows the school systems to make important changes and improvements,” said Paul E. Peterson, professor of government and director of the Harvard Program on Education Policy and Governance.
+According to Peterson, charter schools bring in new management and are freed from teacher unions’ collective bargaining contracts that force them to keep ineffective teachers.
+At the new charter school, teachers will be asked to reapply for positions or teach elsewhere. Tenured teachers who have worked in Boston for more than three years will have a job guarantee at another school in the district, according to Wilder.
+As long as the collective bargaining agreements with the unions do not change, Boston will see a steady increase in the number of charter schools, Peterson said.
+“With the passage of this law, you are now able to create some additional charter schools...[and] the pressure is going to continue to move in that direction,” he said.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard Medical School Professor George M. Church was named the recipient of The Franklin Institute’s 2011 Bower Award and Prize for Achievement in Science yesterday for his contributions to genomic science, according to a press release.
+“[Church was] fundamental in developing novel DNA sequencing technologies that supported the sequencing of the Human Genome,” said The Franklin Institute’s Vice President of Science and Innovation Frederic Bertley, also noting Church’s contributions to the field of synthetic biology in the form of creating organisms with artificial DNA.
+As a Harvard graduate student, Church began working with multiplex sequencing, a process that speeds up the analysis of DNA. In 1995, Church founded the Personal Genome Project, which urges volunteers to donate blood samples for genomic sequencing. Church said he hopes that this database will provide information about personal risk of disease, physical traits, and ancestry to the general public.
+“The PGP is an effort to get together an integrated database about everything you might want to know about a person,” he said.
+Bertley emphasized the importance of personal genomic information in the treatment of diseases.
+“Right now, we haven’t yet maximized the capacity to make personalized medicine a reality,” he said. “But we’ll get to that point through George Church and other scientists pushing the frontiers of genomics forward.”
+Bertley added that he thought Church could “absolutely” be a candidate for a Nobel Prize. One hundred fifteen recipients of the Franklin Awards have won Nobels.
+Church is one of seven recipients of The Franklin Institute’s 2011 award program, which originated in 1824 and is one of the oldest comprehensive science award programs in the country. The $250,000 Bower Award and Prize for Scientific Achievement was added to the set of awards in 1988 and focuses on a different field of science each year. This year’s theme is genomics, Bertley said.
+Church said he plans to continue his research in genomics.
+“We’re trying to continue to bring down the price of reading and writing genomes, and we just got a grant from the NIH specifically to let us reprogram human cells both genetically and epigenetically,” he said.
+The Franklin Institute awards ceremony will take place on April 28, 2011.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Susan Milligan, political journalist and resident fellow at the Harvard Kennedy School’s Institute of Politics, argued women in politics are largely judged by their physical appearances rather than the substance of their platforms yesterday at the Harvard College Women’s Center.
+Speaking to about a dozen students, Mulligan discussed differences in how the media portrays female and male politicians.
+“They are seen as women first and candidates second,” Milligan said at the event, organized by Women’s Center interns Nyamagaga Gondwe ’13, Adrienne E. Slaughter ’13, and Lili C. Behm ’12.
+Milligan’s talk comes after the 2010 midterm elections, dubbed the “second coming of the ‘Year of the Women.’” A record number of women ran for both the Senate and the House in 2010, breaking previous records set in 1992, according to the Center for American Women and Politics at Rutgers University.
+Milligan argued women in politics are often subjected to a “hot-or-not” scrutiny as well as critical examination of their family relationships and their ability to fulfill supposedly “womanly roles,” such as raising a family.
+Their political record, agenda, and past achievements are often trivialized, she said.
+Male candidates, however, do not face criticism of this nature, Milligan said.
+“If a women posed nude for Cosmo, she would never be elected a United States Senator,” she said, referencing Massachusetts Senator Scott Brown’s forays into modeling in his youth.
+In addition, male candidates’ roles as fathers are rarely questioned by the media, said Milligan, whereas the media has been skeptical that candidates like Sarah Palin are able to fulfill both political and motherly duties.
+Milligan also sought to dispel the political myth of the “woman vote,” which assumes that most women will vote similarly and that this voter block can significantly affect elections.
+She said there is generally greater voter turnout among women, meaning that “men are the minority and the special interest group.”
+“I vote more as an urban person and a single person than as a woman,” she added.
+Milligan also argued that, in politics, issues of gender and sex tend to have a greater impact on voter behavior.
+As a result, she said, the unfair portrayal of women candidates is more likely to affect election results.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Kamla Persad-Bissessar, the first-ever female Prime Minister of Trinidad and Tobago, spoke last night at Harvard Law School on the importance of negotiation and cooperation in a country with five political parties and an ethnically, religiously, and socioeconomically diverse population.
+Persad-Bissessar, who was elected in May by a wide margin over the incumbent leader, spoke extensively about the value of inclusiveness, honesty, and transparency in running a government.
+“We are a small country, and we cannot afford to exclude talent simply because of ethnicity or simply because of political affiliation or simply because of religion,” she said.
+Persad-Bissessar became the Minister of Education in December 2000, and this January, she was elected as the head of United National Congress—the center-left political party in Trinidad and Tobago—over the founder of the party.
+After long introductions that highlighted her accomplishments and the difficulties of her rise to power, Persad-Bissessar lightened the tone by beginning her speech with a joke.
+Stressing the theme of cooperation and negoation, Persad-Bissessar said that she was not, and could not have been, elected only by one group of people.
+“Each person should be respected. My success is dependent on convincing the population on something that transcends race, religion, and culture. I could not win the election with only the support of the affluent population,” she said.
+She concluded by encouraging Harvard students to visit Trinidad and Tobago to experience its rich culture.
+The speech was sponsored by the Program on Negotiation at Harvard Law School, the Institute of Politics at Harvard Kennedy School, and the Harvard International Negotiation Program.
+Persad-Bissessar was invited to Harvard’s campus when Daniel Shapiro, associate director of the Harvard Negotiation Project and a Law School faculty member, visited Trinidad and Tobago to give a workshop to her and her advisers on how to negotiate, according to Eric M. Hendey ’14—who is a student in Shapiro’s freshman seminar called “Negotiation and Conflict Management: Dealing with Emotions and Identity.”
+“A lot of the times the government in the United States, there is a preoccupation about the government being removed from the people, which is very different from how she views a government should operate,” Hendey said.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Adam B. Wheeler, a former Harvard student charged with fabricating his academic history, received permission to leave the state of Massachusetts during a pre-trial hearing held at the Middlesex Superior Court on Monday.
+Wheeler had been forbidden to leave the state after he posted $5,000 bail on June 14, about a month after his arrest in May.
+This decision was reversed Monday after Wheeler filed a motion seeking permission to travel to his parents’ home in Delaware, according to a criminal supervisor at the court who wished to remain anonymous.
+The official told The Crimson that Wheeler’s trip out of state will take place before Dec. 16, when he is next scheduled to appear in court for a change of plea hearing requested by his attorney Steven A. Sussman.
+Wheeler pled not guilty in May to 20 counts of larceny, identity fraud, falsifying an endorsement or approval, and pretending to hold a degree. His trial is tentatively scheduled to begin on Feb. 7, if he does not change his plea.
+Prosecutors allege Wheeler attempted to dupe Harvard, Yale, Brown, and several scholarship committees by submitting plagiarized letters of recommendation, fake transcripts, and fraudulent SAT scores.
+He was admitted to Harvard as a transfer student in 2007, claiming in his application to have earned perfect grades at Phillips Academy in Andover and at MIT, where he said he had spent his first year of college.
+In fact, Wheeler attended Caesar Rodney High School, a public school in Delaware, and spent two years at Bowdoin College in Maine before being suspended for academic dishonesty.
+At Harvard, he resided in Kirkland House and won a Hoopes Prize his junior year for a paper that prosecutors now allege was plagiarized. He was apprehended by Harvard disciplinary officials and then by police in the fall of 2009, when the committee judging his Rhodes and Fulbright scholarship applications became suspicious of the integrity of his application materials.
+Wheeler chose to leave Harvard in the fall of his senior year rather than face a disciplinary hearing before the Administrative Board. He then applied for transfer admission to Yale, Brown, Stanford, and the Maritime Studies Program of Williams College. Williams and Stanford had accepted him before they learned of the criminal charges against him.
+Sussman could not be reached for comment about his client’s case this week.
+—Staff writer Xi Yu can be reached at xyu@college.harvard.edu.
+—Staff writer Julie M. Zauzmer can be reached at jzauzmer@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A new program has emerged at Harvard with the goal of engaging students from across campus in open communication concerning diversity and individual difference.
+Sustained Dialogue, which launched last month, is composed of six groups of 10 to 12 undergraduates who signed up early in the semester to meet every week for an hour to talk about how issues such as class, race, religion, gender, and sexuality affect people at Harvard and beyond.
+Harvard’s Sustained Dialogue board co-director Carola A. Cintron-Arroyo ’12, says that students have worked with administrators this year to start the Harvard branch of the national Sustained Dialogue Campus Network, which already includes 13 colleges and was started in 2002 by the International Institute for Sustained Dialogue.
+“Sustained Dialogue is a student-led initiative to help people become aware of the campus’s social climate and challenge it,” says Cintron-Arroyo, who is also an intern at The Harvard Foundation. “We aim to break down barriers that people are often uncomfortable approaching.”
+THE PROGRAM’S BEGINNING
+The program began in response to Community Conversations, a required small group discussion during freshman week in which first-years engage in dialogue with peers and faculty on assigned readings that address key themes of identity or diversity, according to Assistant Director of The Harvard Foundation Loc V. Truong.
+“We were hearing from a lot of freshmen who said having that kind of conversation during the first week is very intense, but that’s the only time ever that the college organizes for students to sit and have these conversations,” says Truong, who spearheaded the program with Assistant Dean of Harvard College for Student Life Susan B. Marine and Director for Freshman Programming Katherine W. Steele, along with support from Deans Suzy M. Nelson and Evelynn M. Hammonds.
+“We hope that the skills that students learn through their participation in Sustained Dialogue will be carried to their communities and workplaces post graduation from Harvard, and as a result, we will transform society into a place that is centered on open dialogue,” Nelson writes in an email.
+BRIDGING DIFFERENCES, BREAKING STEREOTYPES
+Truong says the one of the goals of Sustained Dialogue is to give people who are often stereotyped the opportunity to talk about how it feels to be pigeonholed into a certain label.
+“There’s an opportunity for everyone to share the experiences and knowledge of what it feels like to be cast a certain way,” he says, referring to the weekly meetings. “Putting a real person to the stereotype is a powerful thing to make people change their minds.”
+Sustained Dialogue participants represent a wide variety of backgrounds and perspectives, says Jessica M. Ch’ng ’12, a member of Sustained Dialogue and an intern at The Harvard Foundation. She notes that the program’s leaders have made an effort to recruit people with a range of experiences and opinions, but clarifies that participants are not expected to “represent” anybody or any particular social group.
+“We realize that the labels we try to stick onto people never really adhere nicely or neatly, and that the stereotypes according to which we position, differentiate, or measure ourselves are more like myths anyway,” Ch’ng says. “As student leaders—and moderators and participants—we each increasingly find our own preconceived notions challenged.”
+SPREADING THE MESSAGE
+In addition to creating spaces for groups to interrogate stereotypes and engage in discussion amongst themselves, leaders of the program express their hope that Sustained Dialogue’s intent of promoting open communication will gain campus-wide reach.
+“After fostering understanding the next step should be trying to break down barriers actively,” Ch’ng says. “We set up formal spaces and times for individuals to meet, but those individuals go back to their rooms and talk to roommates and classmates and friends, so that the words, experiences and perspectives of Sustained Dialogue can reverberate throughout Harvard.”
+According to Sustained Dialogue member Taj E. Tucker ’12, translating discussions of difference to action is crucial to spreading these ideas.
+“Harvard prides itself on our diversity, but what do you do with that, and where do we go from here?” Tucker wonders aloud.
+Leaders of the program and involved administrators say they hope that Sustained Dialogue’s student involvement will expand next year.
+Miriam B. Muscarella ’12, a moderator of one of the discussion groups, says she has already seen the program’s success in creating a positive environment for people to explore their own identities and learn about others, leading to a campus culture that is more accepting of its inhabitants.
+“Even though everyone is bringing a different perspective to the table, I can really see the development of a community,” she says. “It’s all about making diversity more than a number on a piece of paper.”
+—Staff writer Alice E.M. Underwood can be reached at aeunderw@fas.harvard.edu
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+This year’s Harvard-Yale game might sound more like the World Cup than the typical college football match, thanks to student-initiated campaigns at both schools to sell fans vuvuzelas­—South African horns that produce a loud monotone drone.
+Both Harvard and Yale band members have expressed concerns about the use of these instruments, stating that they fear that the blaring sound of the vuvuzelas will prevent their shows from being heard.
+“There is the possibility that both the bands will be inaudible, especially during half-time when we’re performing,” said Harvard University Band member Duncan J. Watts ’12, “and that’s not too exciting, especially for a lot of the seniors who will have their last performance with the band.”
+Despite these concerns, Harvard will be permitting the use of the vuvuzelas at The Game as they do not violate NCAA regulations, while reserving the right to stop their use by confiscating the horns if necessary, according to Associate Director of Athletics Timothy W. Wheaton.
+“We will deal with them on a case-by-case basis in terms of if they interfere with The Game or interfere with the enjoyment of The Game by the spectators,” Wheaton said.
+Yale senior Elliot F. Eaton—the Drum Major and leader of the Yale Precision Marching Band—said he thinks there should be an outright ban on the horns at The Game.
+He said that the Yale College Council, the school’s student government, will be recommending that fans with vuvuzelas respect game play and half-time shows, but he does not expect these requests to be successful.
+“I don’t think that’s something that can be coordinated once you have drunk people with vuvuzelas,” Eaton added.
+Eric M. Cervini ’14 and Johnathon H. Davis ’14—who launched the Silence Yale Campaign at Harvard, which has sold over 400 vuvuzelas on campus to increase school spirit—said they similarly plan to recommend that vuvuzela-bearing fans be mindful of the use of the instruments. Eaton said that there is also a vuvuzela-selling campaign at Yale.
+Some Harvard band members said they agree with the sentiment that fans need to be considerate, but disagree with the idea of a ban as the new instruments might increase spirit.
+“I hope that Harvard will take the classier route and not simply try to drown out everyone,” Harvard band member Steven M. Shepardson ’11 said. “If they can use noisemakers to support the team and do something more constructive, I would be all for it.”
+Harvard football players said they are also looking forward to the possibility of increased energy during The Game. “I think it’s definitely a show of support­—any noise we can get especially when Yale’s on offense and we’re on defense,” said defensive back Christopher P. Splinter ’14.
+Eaton, though, expressed concern that the loud sounds might hamper the players’ ability to communicate on the field. But Harvard receiver Andrew T. Berg ’14 said he doubted that would happen.
+—Staff writer Danielle J. Kolin can be reached at dkolin@fas.harvard.edu.
+—Staff writer Monika L.S. Robbins can be reached at mrobbins@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Several seniors who applied early to the Teach for America program had cause to celebrate when the first batch of decisions was announced yesterday—one of three waves of acceptances that will be released throughout the year.
+“I’m really excited about the opportunity,” said Alex B. Lipton ’11, a psychology concentrator who was placed in San Francisco to teach high school English. He said he plans to accept the offer.
+The large number of early applications submitted by Harvard seniors is not surprising, said TFA campus recruiter Anasstassia Baichorova.  “A lot of Harvard students start thinking about what they want to do and how they want to make an impact very early,” Baichorova said.
+Although applying early does not increase an applicant’s odds of success, Baichorova said it may confer a sense of security to the applicant.  “Early applications give advantage to students who want to know where they’re going after graduation,” she said.
+Elizabeth J. Newton ’11, a Social Studies concentrator who had submitted her application at the end of summer, said she applied early to ease the stress of her senior year.   “It’s a comfort to know that I have the next two years of my life squared away,” said Newton, who was assigned to teach in Mississippi.
+According to data compiled by the Office of Career Services, 19 percent of the Class of 2010 applied to the program last year.  OCS Director Robin Mount attributes the popularity of TFA among Harvard students to their desire to bring change to “a system that hasn’t frankly  changed that much since the turn of the [20th] century,” said Mount.
+“Many people are thinking it’s time for new ideas,” she said. TFA, which accepts students regardless of their intended career paths, has been criticized for grooming two-year teachers rather than training lifelong educators.
+Indeed, only one in six participants profess a long-term desire to teach, according to Baichorova.  But she said that the goal of TFA is not to recruit permanent classroom teachers.   “TFA isn’t a teacher placement program,” she said. “We’re trying to close the achievement gap, and it will take leaders from all fields—business, law, medicine—to do that.”
+Baichorova added that 65 percent of participants have remained in education-related fields.  Mount said students should remember that TFA is not the only pathway to pursue a career in education, citing alternative programs such as Teach for India, Citizen Schools, MATCH Corps, and Uncommon Schools.
+“There are a lot of really great programs out there,” she said. “TFA is just one way of infusing energy and enthusiasm into the education system.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The Cambridge Police Department is looking to crack down on recreational marijuana use through two new proposed city ordinances which would increase fines for possession of marijuana and for refusal to provide personal information once caught with the drug.
+CPD Commissioner Robert C. Haas proposed the two ordinances within a year of the Mass. ballot initiative in which voters overwhelmingly supported changing possession of marijuana from a criminal to a civil offense.
+These laws are necessary given the increase in public use of marijuana for both the juvenile and adult age groups over the past year and the police department’s inability to follow up with those who are caught using or carrying the drug, CPD representatives told the Boston Globe.
+“The fact (is) that when police officers stop people with an ounce or less of marijuana, they are unable to identify the person,” said CPD spokesperson Daniel M. Riviello. If passed, these ordinances would give police officers the ability to record offenses as well as identify past offenders.
+However, dissenting groups, such as the Massachusetts Cannabis Reform Coalition, told the Globe they believe that the proposals will be ineffective in lowering marijuana use and will only result in more criminal charges due to a lack of education regarding the new law.
+Currently, adults caught with an ounce or less of marijuana pay a $100 fine. If the suggested ordinances were passed by the City Council, these fines would be increased. Adults caught consuming marijuana in public would face a $300 charge. Violators of the false name ordinance would be charged $200, plus the additional Cambridge possession fee of $100. Minors caught possessing marijuana currently must pay the same fee as adults and attend an additional drug rehabilitation program or else pay an additional $900 fine.
+Whether these ordinances will be passed into law is still uncertain. According to former city mayor and chair of the Council’s Public Safety Committee, E. Denise Simmons, the Council has begun a vetting process for the proposals. The Committee will bring in experts and listen to testimonies examining the pros and cons of the proposals, and then make a recommendation to the whole City Council before a final vote on the law—a long-term process, in Simmons’s view. She stressed that vetting is important in helping the Council do what’s best for the community.
+According to Riviello, the ordinances fulfill that goal.
+“We’re not asking for anything that’s different than the drinking in public law that stands,” Riviello said.  “People can’t drink walking down the streets in public—we’re asking the same for marijuana.”
+This article has been revised to reflect the following correction:
+CORRECTION: November 10, 2010
+An earlier version of the title for the Nov. 10 news article "CPD Considers Increasing Marijuana Possession Fines" incorrectly reported that Cambridge increased fines for marijuana use. In fact, this has only been proposed in two city ordinances that, if passed, would  increase fines for possession of marijuana and for refusal to provide  personal information once caught with the drug.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The story of Chris Ohiri ’64 reads more like a Greek tragedy than a regular Harvard student-athlete bio.
+Born and raised in Nigeria, Ohiri came to Harvard as a former national champion decathlete and a member of the 1960 Olympic soccer team. In Cambridge, he ran track and continued playing “the beautiful game,” scoring 36 goals in nine games on the freshman team.
+Despite injury, he led the Ivy League in scoring in his three varsity seasons, broke the Crimson’s all-time scoring record as a junior, and was a first-team All-American as a senior. In track, Ohiri set a number of records in the triple-jump.
+With 47 goals in his career, Ohiri was the all-time Crimson leader until last November, and he now shares the distinction with Andre Akpan ’10. The two have scored 10 more goals than anyone else, though Ohiri reached 47 in one fewer season than the current MLS forward. The Nigerian standout is also second all-time in points, a function of goals and assists, even though assists weren’t calculated until after his career ended.
+“I remember Al Gordon [’23], who was one of our all-time great alumni, visited him in Nigeria…[Gordon] said, ‘He looked to me like a black saint,’” says John P. Reardon Jr. ’60, the Executive Director of the Harvard Alumni Association.
+But Ohiri’s fall came as rapidly as his ascent. He was diagnosed with terminal leukemia in 1966 as a student at Harvard Business School. He returned to Nigeria to die, but he was seen as a threat to the government in power and was promptly taken into military captivity.
+He passed away in confinement.
+“He was a pretty special guy, and you have to picture a time when we didn’t do much internationally,” Reardon says. “We didn’t have many kids coming like this. We also didn’t have many black kids in this place.”
+OHIRI FIELD
+According to Reardon—then Harvard’s Athletic Director—a number of the fields at the athletic complex underwent renovation in the early 1980s. With Gordon’s blessing, Reardon, who knew Ohiri as an undergraduate, and the rest of the athletic department decided to name the field in his honor. Ohiri Field was dedicated on Oct. 15, 1983. Today, both the men’s and women’s teams play there.
+Seamus Malin ’62, Ohiri’s soccer teammate and Assistant Dean of Admissions in the early 80s, attended the ceremony, though he says that he was involved little in the naming of the field. He emphasizes how much the game had changed at Harvard between his days as a student and the naming of Ohiri Field.
+“In the early 60s, the game was not very much a public high school game,” Malin says. “If you look at the roster from my freshman class in 1958, going back now 52 years, the roster of players was almost exclusively the prep school kids and a few foreign students.”
+Malin was a senior when Ohiri first played on the varsity squad (at the time, freshman played on their own teams). Soccer’s exposure in America was minimal, so to play beyond the collegiate level, he comments, was uncommon.
+“Oh no, that was very rare,” notes Malin of  Ohiri’s play on the Olympic team. “He was a massive exception. I think that the only time I can remember Harvard athletes being involved with national programs was for rowers.”
+“A lot of these guys played three sports,” adds Malin, referring to a number of students with whom he played. “They played lacrosse in the spring, and they played squash in the winter. [Soccer] was just another sport.”
+Reardon agrees, and points out that Ohiri was an anomaly in the world of Harvard athletics in the early 1960s.
+“He was not in the usual form of recruited athlete. But he arrived here, and he could kick a soccer ball like you can’t believe,” he says. “He scored a ton of goals, and you would not like to be on the other side of the ball coming at you.”
+LEGACY TODAY
+The Harvard Crimson wrote a feature about Ohiri on Oct. 18, 1961, early in his sophomore year. Three games into his varsity career, the title of the article reads, “Ohiri Leads Varsity, May Surpass Present Individual Soccer Records.” Bruce Monro, the coach at the time, said Ohiri was, “probably the greatest college soccer player in the U.S.”
+Women’s soccer coach Ray Leone says that he does what he can to educate his team and honor Ohiri’s legacy.
+“Our team kind of gives tribute to him and touches that rock [memorializing Ohiri] before we go onto the field when we play [home] games,” he says. “It started a few years ago to just give a quiet tribute to him and appreciate that we even have the opportunity to do what we do.”
+But both Reardon and Malin agree that the community is generally unaware of the history of the field’s namesake. When he can, Malin says he tries to tell Ohiri’s story to the soccer teams.
+“I don’t think really today people know much about Ohiri at all except that he’s a legendary player from the 60s,” Malin says. “But that’s understandable. To a lot of students today, it’s just another name.”
+Reardon comments that keeping the community informed about the origins of facility and building names is a challenge.
+“Time does things,” Reardon says. “You die, and no matter what you do, people forget you, unless somebody writes a book about you. I think alumni at that time knew a lot about [Ohiri], but I think over the years…people [have forgotten] about him.”
+—Staff writer E. Benjamin Samuels can be reached at samuels@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+You don’t know what you’ve got ’til it’s gone.
+I’m sure that my sister would disagree with me. She’d tell you she always knew she was part of something special, and she didn’t need a loss in the NYSAIS semifinals to remind her.
+See, my younger sister Clare was part of a Rye Country Day School field hockey program that had never failed to make it to the finals of the state championship. Never. Sure, this was only the seventh year her high school had competed in it, but a six-year run that includes three state titles has to be considered pretty solid.
+And I think it’s only now, in the closest thing her team has come to failure, that RCDS can really take a step back and appreciate what a run it’s been.
+The same goes for some of Harvard’s teams that have fallen from their usual mark of excellence.
+For example, both soccer teams.
+Until this season, the men and women had gone to the NCAA tournament every year since 2006 and 2007, respectively. For every member of each team, a year without the postseason is uncharted territory.
+But rather than look at the season gone by and wonder what went wrong, these moments offer an opportunity to look back at the teams and the successes they’ve had.
+Over the past four years, the Crimson men’s soccer team has made winning look easy, conference rivals look weak, and MLS scouts look more closely. A team that has no athletic scholarships and rigorous academic requirements for admission, Harvard still managed to make it as far as the third round of the NCAA tournament last season.
+Both soccer squads could learn from the 2010 Crimson women’s golf team. Last spring, heading into the Ivy League Championships, Harvard thought it didn’t know how to lose. Having gone undefeated in spring play, the team seemed to be on its way to a third-straight Ivy title. Instead, it was forced to settle for third.
+But in their fall season, the Crimson golfers have already made strides to resuming their place at the top of the league. The team improved every weekend and finished the fall by taking second-place in its final tournament. As winter rolls in and golf courses close, the women’s team has already put itself in good position to compete for the Ivy title this spring.
+Both soccer squads have the opportunity to make a similar rebound. Like the women’s golf team, both will have a strong group of core players returning. Where golf has captain Mia Kabasakalis, sophomore Katie Sylvan, and junior Christine Cho, the soccer teams have juniors Austin Harms and Melanie Baskind, sophomores Brian Rogers and Alexandra Conigliaro, and many others.
+And all three teams have experienced success in the past, so they know what it takes to return to that level.
+What, then, can we learn about the Harvard team that’s still in contention for the title, even if it faces an uphill battle?
+We can learn to appreciate the Crimson football team’s decade of dominance, whether or not it extends past this season.
+If Harvard wins its next two games, it will finish with at least a share of the Ivy title. If it loses both, it will post its worst conference record since 2006, when the Crimson lost to Princeton, Penn, and Yale.
+But what some might forget is that last year was nearly a three-loss season for Harvard.
+The Crimson trailed its opponents as it entered the second half of its two best-attended games, the night game against Brown and The Game. In the latter contest, the Bulldogs had the lead until the final seven minutes when a combination of the clutch play of then-junior quarterback Collier Winters and the bold play-calling of Yale coach Tom Williams changed the course of the game. What people remember about these games is how they turned out. But the truth is that these contests could have gone either way.
+It went that “other way” for the men’s and women’s soccer teams this year, but that doesn’t mean either program has lost its touch.
+Losses happen. They give us all the opportunity to reflect on how special, how remarkable, and sometimes how lucky the wins have been.
+—Staff writer Christina C. McClintock can be reached at ccmcclin@fas.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The Chinese surname “Lin” means “forest” or “woods” in English.
+It’s appropriate in that, coming out of the Jeremy Lin era, a young 2010-11 Harvard men’s basketball team has the ability to finally escape from the woods of Ivy basketball irrelevance and begin a golden age of success the program has never achieved.
+The team took baby steps last year, when it won its most-ever games and advanced to its first postseason tournament since the Truman presidency.  Of course, the team then lost Lin, whose story could have been a fairy-tale written by the Brothers Grimm.
+After getting just one summer league offer, the former Crimson guard outplayed John Wall, No. 1 pick of the 2010 NBA Draft, in his final summer contest, beginning a tsunami of momentum. In the end, the Bay Area product was able to turn down an offer from the World Champion Lakers to sign with his hometown Warriors, and, after stealing the ball from Kobe Bryant in his first pro game, the rest is history.
+Winning a first-ever Ivy title will be a tall task for Lin’s former Harvard teammates in a conference featuring talented Princeton and Penn squads, but the talent is certainly there to do it.
+That starts with Kyle Casey, the reigning Ivy League Rookie of the Year who only got better as the 2009-10 season went along.  The forward, picked to every major preseason All-Ivy team, will miss the early part of the non-conference schedule with a broken foot but should be ready to go by Ivy play.
+Junior co-captain Keith Wright will start at center and could be the most improved player on this year’s squad.  At the Harvard open practice two weekends ago, Wright looked to have developed a fluid midrange jumper that could be a major weapon on pick-and-rolls.
+Casey’s injury makes it extremely important that Wright stay healthy this year because the frontcourt already lacks depth after losing Doug Miller ’10 and Pat Magnarelli ’10 to graduation.  Wright, who experienced inflammation in his Achilles tendon last season, was never 100 percent during conference play—an injury that really hurt the Crimson in home games against Cornell and Princeton.
+Junior Andrew Van Nest will likely start alongside Wright until Casey returns, but Van Nest often struggled with his interior defense against stronger big men like Cornell center Jeff Foote last season, and he prefers to spot up as a three-point shooter rather then go inside offensively.
+At the wings, sophomore Christian Webster looks to build on a phenomenal CIT tournament game and blossom into a go-to scorer for Harvard.  Freshman Laurent Rivard will likely do a lot of what Webster did last year for the team and may already be the best pure shooter on the squad.
+In the backcourt, coach Tommy Amaker will likely start two point guards in junior co-captain Oliver McNally and sophomore Brandyn Curry, both of whom proved to be dangerous threats from three-point land last year and statistically played their best when they were on the court together.
+The talent is certainly there for a title run, but no matter what happens this year, it’s an exciting time to be a fan of Crimson basketball.  Last year’s Big Red showed what a group of talented players can do with great chemistry stemming from four years of playing together. Yet nobody could have predicted entering a wide-open 2007-08 Ivy field–much like the current season’s–what Ryan Wittman, Foote, and Lou Dale would have accomplished three years later.
+Casey, Webster, and Curry are currently in a similar situation and will only continue to get better–maybe forming their own Big Three down the line–while Amaker is recruiting talent on a level no other Ivy coach is close to approaching.
+Though nationally elite targets Andre Hollins and Spencer Dinwiddie ended up choosing BCS schools, Harvard should be proud of finishing runner-up in both situations and for consistently being in the conversation among top talent.  Getting the Crimson’s name out there will only lead to good things down the road, as Amaker is slowly starting to make playing in Cambridge the cool thing to do among some of the country’s best prospects.
+Of course, with six new freshmen already on tap for 2011-12, the team will likely need to make some hard cuts in the future. Regardless of this looming roster inflation, if Amaker remains at Harvard and the talent disparity between the Crimson and the rest of the Ancient Eight continues to grow, it’s easy to see the team dominating the conference in future years.
+Penn and Princeton had controlled the Ivy basketball scene for the previous four decades until the Big Red came along and shook things up.  But with a Big Three departed, its time for a new one to emerge, and its exciting to think a new dynasty could begin Saturday at George Mason.  So after 110 years of waiting, let the Harvard golden age finally begin.
+—Staff writer Scott A. Sherman can be reached at ssherman13@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+With its first game on Saturday, the men’s basketball team is gearing up for what’s sure to be an eventful season. Keith Wright, the team’s big man on campus, wouldn’t have it any other way. The bear-like junior co-captain is excited to take the court and chase down Harvard’ first Ivy League title. In this exclusive interview, Wright discusses gummies, awkward moments, and Taylor Swift. Naturally. Every week, The Full Court Press gives you the sort of personal scoop that you’re not likely to hear at a typical press conference.
+Name: Keith Wright
+Year: 2012
+Stats: In his freshman year, Wright was named Ivy League Rookie of the Week twice and scored in double figures in each of the last five games. In his sophomore season, Wright picked up where he left off, averaging 8.9 points and 4.6 rebounds per game. He saved his best for the Crimson’s upset win at Boston College where he poured in 21 points.
+Bring on the questions!
+1.Typical pre-game meal.
+The typical pre-game meal for me is grilled chicken, pasta, salad, and some fruits. Before game time I always eat some gummies.
+2. List four songs you listen to before games to get pumped up.
+"Touch the Sky" by Kanye West ft. Lupe Fiasco, "W.A.L.E.D.A.N.C.E." by Wale, "Blow Up" by J. Cole, and "You Belong With Me" T. Swift.
+3. Favorite team to play against and why?
+Any team that I get to play against is my favorite team.  I feel blessed every night I get to step on the court and play the game that I love so much.
+4. Most ridiculous thing that has taken place in your team's locker room.
+What happens in the locker room STAYS in the locker room.
+5. Most embarrassing moment you've had on the court.
+I don’t really get embarrassed by things, but if I had to say something I would probably say playing a whole first half with my shorts on backwards.
+6. Animal that best represents your style of play and why.
+A bear.  Bears are very tall and large animals. But despite their enormous body mass they are very quick laterally and are able to run at speeds close to 40mph.
+7. Most ridiculous thing you have heard a fan yell at a game you were playing in.
+I don’t know.  I really don’t pay attention to the crowd.  Some things that I have heard deal with us being nerds. Nothing clever at all.
+8. If you could play for another sports team at Harvard, which would it be and why?
+Diving because every once in a while I would jump off the platform and yell, "CANNON BALL!!!"
+9. Position you would play in Quidditch.
+I would be a Beater of course.
+10. If you could go on a date with any professional athlete, who would it be and where would you take him/her?
+Danica Patrick. I don’t think I would be taking her anywhere; she is the professional athlete. But if I had to choose the date I would take her to the "Make Way for Ducklings" Statue and then to the swan boats.  She would do all the driving of course.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In a rematch of February’s Olympic gold-medal game in women’s hockey, the U.S. select team beat Canada, 3-2, in a shootout in the Four Nations Cup opener for both squads last night in Newfoundland.
+Though the host Canadians came back to tie the game twice in regulation, American goalie Jessie Vetter stopped all three shots in the shootout to hand her team the win. Wisconsin’s Hilary Knight beat Shannon Szabados for the only goal of the shootout.
+Team USA—which is led by Harvard coach Katey Stone and features Crimson skaters Julie Chu ’06-’07, Caitlin Cahow ’07-’08, and sophomore Josephine Pucci—jumped out to a quick lead 11 seconds into the game.
+Jocelyne Lamoreux, currently playing for North Dakota, played the puck off the endboards, allowing Jenny Potter the chance to slam it into the open net. Szabados was out of the net intending to play the puck and couldn’t come back to make the save.
+Canada tied it up early in the second when Olympic hero Marie-Philip Poulin deflected a shot past Vetter. Poulin is currently a freshman at Boston University.
+Cahow got her name on the scoresheet on the U.S.’s second goal, earning an assist by putting a shot on net that was put over the goal line by Meghan Duggan midway through the second.
+Canadian Meaghan Mikkelson knotted the score at two just over two minutes later, but Vetter and the defense held strong for the rest of the game, establishing the Americans as the favorites in the four-team tournament. Sweden and Finland are the other competitors at the annual event, which runs through Saturday.
+The U.S. returns to action tomorrow evening against Finland.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Thanksgiving is rapidly approaching, meaning the end of fall sports. While we look ahead to the winter season, there are still some loose ends that need to be tied. The men’s soccer title will be decided this weekend, and we’ll have a pretty good idea of who will win the Ivy League football crown after Saturday’s games. And as we’ll show you in a little tour around the water cooler, it’s a good time to be a Quaker. 
+To take the league crown in women’s soccer, all Penn needed to do was tie Princeton on Saturday in the de facto Ivy League Championship.  When after 110 minutes of play neither side ceded a goal, the Quakers took their second league crown in four years and earned their fourth NCAA championship berth in school history. In its first round contest on Friday, Penn will square off against cross-state rival Penn State. Though the Nittany Lions have a wealth of experience in NCAA play, with 13 straight Big Ten championships, the Quakers have a shot at advancing: Penn State lost to Yale and Dartmouth, teams that Penn beat and tied, respectively.
+On the men’s side, it’s also going to come down to the Tigers and the Quakers for the league title. But this time, Princeton holds the edge: only a Penn win over Harvard and a Tiger loss to Yale would give the Quakers a share of the league title.
+In football, things also look promising for the boys of Philadelphia. Undefeated in Ancient Eight play, Penn faces Harvard this weekend in a home game that has big league title implications. If the Quakers manage to beat the Crimson, Penn would all but have the league title locked up, needing only a victory over lowly Cornell to clinch. The Quakers have got to feel pretty good about themselves right now. After dismantling Princeton 52-10 last week, Penn players won Ivy League Offensive Player of the Week (quarterback Billy Ragone), Defensive Player of the Week (safety Matt Hamscher), and Rookie of the Week (wide receiver Aaron Bailey).
+If the Quakers lose, though, it gets a bit more interesting. Combined with a Yale victory this weekend (which over the winless Tigers seems all but inevitable), we would have three teams (Penn, Harvard, and Yale) all tied for the first slot in the Ivy League Standings coming into the final weekend. That means “The Game” would also be “The Championship.” The only thing that could ruin that game is 1,000 blaring vuvuzelas. 
+Speaking of Yale, the Bulldogs have been ripping it up on the ice. The men’s hockey team, which the ECAC men’s hockey coaches picked to win the league title, has not disappointed so far, scoring 24 goals in just four games. In fact, the back-to-back ECAC champions already have three players who have scored five goals. Good thing Harvard doesn’t have to face its archrival until Jan. 8.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+When it comes to inspiration in sports, many people tend to focus on the pre-game speech or the build-up before a final touchdown or foul shot. But for the Harvard women’s basketball team, it’s all about the huddle. The huddle offers the chance for the Crimson to discuss its biggest two motivations for the season: banners and rings. Harvard, currently ranked second in the Ivy League, looks to improve upon its 20-win season last year and capture the elusive banner and ring that represent an Ancient Eight title.
+"This year, our new favorite phrase for the huddle has become ‘banners and rings,’ to help us remember what our long-term goals are for the season: an Ivy title and championship rings,” sophomore Elle Hagedorn said. “The phrase is just a way to pump us up and keep our mission in mind."
+Last season, the Crimson missed a banner and ring to only one team: Princeton, which was picked to win the league title again in 2010-11.  Harvard begins its quest to reclaim the crown on Saturday at Maine. But first, be sure to check out The Crimson’s basketball preseason supplement, on newsstands Friday!
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+On Sunday night, there was a surprise in store for residents of Lowell House. If they happened to look into their small courtyard, they would have seen an electric car that some claim will be the future of transportation: a Tesla Roadster charging as its driver visited her old friend, Lowell tutor Andrew M. Leifer.
+The driver, Camille J. Ricketts, communications manager for Tesla Motors, Inc., and Leifer had rigged up a connection to the high-voltage outlets in the Lowell laundry room so that the car could charge overnight. Ricketts was here on the last leg of a press tour that had taken her from New York to Boston.
+When we inquired into the presence of this car on campus, Ricketts offered to let us take it for a test drive.
+The model we saw was a jet black $128,000 Roadster Sport, number 991. As the car sat on the street outside Adams yesterday afternoon, pedestrians stopped in their tracks to gape it. Amazingly, even this correspondent (at a height of 6’3”) was able to fit comfortably behind the wheel—no small feat for a sports car!  A turn of the key induced not the roar of a Ferrari (as you might expect) but a slight hum. The silence was startling.
+Although the engine didn’t rev audibly when we stepped on the gas, the lightest pressure sent the car hurling forward. A remarkable whooshing sound accompanied the acceleration, surprising us with its softness.
+Intrigued? Even if you can’t afford a car like this (yet), you could have the opportunity to work for the company that produces it. Because of its growth, Tesla is “aggressively hiring,” Ricketts told us. They are looking for employees in engineering especially, but also in finance, marketing, and customer service.
+Photo by Kane Hsieh/The Harvard Crimson.
+Sections
+Are you a junior? Does paying $40 to Harvard sound annoying? Then submit your pre-term plan ASAP. Today is the deadline and late submissions will incur a charge of $40 per week, according to the Pre-Term planning website.
+The College is provides online tutorials here. You can enter the tool by clicking the first link on the same page. Pre-term planning is non-binding.

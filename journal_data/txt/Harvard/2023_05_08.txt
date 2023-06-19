@@ -1,0 +1,159 @@
+Sections
+Over the past several years, Harvard College has fought a war to preserve race-conscious affirmative action.
+On this front, Harvard is on the right side of history. Diversity of all kinds makes us better, and it fills me with pride to see this school defend it.
+It also makes it that much more jarring to see Harvard College admissions almost entirely shut out low-income applicants.
+There are few official statistics on Harvard’s economic class demographics. But what little data we have is staggering: Analysis by Harvard economics professor Raj Chetty ’00 found that 67 percent of Harvard undergraduates come from the top 20 percent of the income distribution. Just 4.5 percent, meanwhile, come from the bottom 20 percent.
+At a school that swears up and down that it cares deeply about diversity, there are almost 15 times as many rich undergraduates as poor ones.
+Why?
+That is the question I set out to answer when I began reporting this piece. In the process, I found some piercing answers, including revelations from the ongoing Students For Fair Admissions lawsuit that have gone almost entirely unnoticed in the press.
+But, often, I was faced with suffocating silence, a total firewall against scrutiny coordinated by Harvard Public Affairs and Communications, the University’s press office. There is no honest way to tell this story that does not include the tireless efforts to keep Harvard’s class demographics invisible.
+Only in the long shadow of these efforts can we understand how almost no one seems to recognize that Harvard hardly has low-income people.
+Each year, like clockwork, Harvard admits a shiny new class, and up goes a page detailing its demographics.
+“Harvard welcomes students from across the country and all over the world, with diverse backgrounds and far-ranging talents and interests,” begins the page for the Class of 2026, which breaks down its geography, ethnicity, and intended concentration.
+Where you might expect to see information on class, you will instead find an opaquely-titled section about, um, “Typical financial aid package for scholarship holders.”
+If you search harder, you might discover the College’s Financial Aid Fact Sheet, which offers a few cagey approximations, including that “More than 20% of Harvard parents have total incomes less than $85,000” — a proportion that feels decidedly less triumphant when one realizes this benchmark is almost $15,000 above real median household income in the United States. This data, while more vague, is consistent with Chetty’s work.
+Harvard spokesperson Rachael Dane declined to comment on Chetty’s findings.
+For this piece, I spoke with admissions expert Richard D. Kahlenberg ’85 and Duke economics professor Peter S. Arcidiacono, both of whom were paid by SFFA to provide evidence for its admissions lawsuit against Harvard. Harvard’s paid expert, economist David E. Card, declined an interview request, citing the pending Supreme Court case.
+Per court documents, Arcidiacono and Card constructed — and Kahlenberg could access — models of Harvard admissions based on data from every application for the classes of 2014 through 2019. With this privileged access, each of these men gained rare insight into admissions practices about which Harvard is notoriously close-lipped.
+While their analyses have been cited widely regarding the Harvard College Admissions Office’s approach to race, they also tell an uncomfortable story of an admissions office too indifferent to inequalities in pre-college opportunity.
+In interviews for this piece, the SFFA experts Arcidiacono and Kahlenberg both said that Harvard applies a small admissions ‘bump’ for those that it identifies as socioeconomically disadvantaged.
+“It’s a very modest boost,” said Kahlenberg. “Smaller than legacy, smaller than faculty preferences, much smaller than race, smaller than athletic preferences.”
+Arcidiacono’s analysis put a finer point on it. Using statistical interactions, he found that, on average, the bump given to disadvantaged applicants comes out to about half the racial diversity bump given to Black applicants. Hispanic applicants get a bump for disadvantage only about two-thirds as large as the average disadvantaged applicant, and, staggeringly, Black applicants hardly get any bump for disadvantage at all.
+While these correlations do not imply causation, they raise concerns that Harvard Admissions is conflating adjustment for racial inequity with adjustment for class disadvantage.
+In his analysis for Harvard, Card criticized Arcidiacono’s choice to interact disadvantage and race while excluding hundreds of other possible interactions, defending his own choice to exclude this interaction as “a more transparent approach that requires fewer subjective judgments.”
+Replying to these criticisms by email, Arcidiacono pointed to an early internal analysis by Harvard’s Office of Institutional Research that also indicates Black applicants receive a smaller bump for disadvantage. And, Arcidiacono noted, he found similar racial variation in how the University of North Carolina — the other defendant in the SFFA cases — adjusts for first-generation status.
+Both SFFA experts also said that a host of wealth-biased factors unrelated to ability — college counselors, bespoke extracurriculars, and more — constitute a de facto bump for well-off students substantially larger than the formal bump given for disadvantage.
+“Harvard does employ class-based affirmative action,” Kahlenberg concluded. “It’s just, mostly it does it on behalf of the wealthy.”
+The search for how Harvard internally justifies these socioeconomic disparities proved far more difficult than finding the smoking gun in the statistics.
+Through a spokesperson, the Harvard College Admissions Office declined to interview for this piece, so I went to its peers. The undergraduate admissions offices of Yale University, Princeton University, Columbia University, Cornell University, and Brown University declined interview requests for this article, while those of MIT, Stanford University, University of Pennsylvania, Dartmouth College, and the University of North Carolina did not respond to multiple requests.
+I also sought out individual Harvard affiliates in hopes that they might speak more freely.
+Several former admissions affiliates tersely declined interview requests, and a number of current admissions officers notified HPAC. Multiple student recruiters for the Undergraduate Minority Recruitment Program did not reply to interview requests.
+Ultimately, only two former admissions officers, long gone from Cambridge, were willing to go on the record with me: Jennifer D. Carey ’78, a senior admissions and financial aid officer from 1982 to 1992, and John V. Fraire ’77, an undergraduate admissions officer from 1978 to 1983.
+Though Harvard admissions is formally need-blind, both Carey and Fraire indicated that they could broadly sense an applicant’s socioeconomic status during their reviews. Since the admissions lawsuit began, Harvard has acknowledged as much, noting in one report that “there is no reason to believe that Harvard currently struggles to identify low-income students.”
+The problem, then, isn’t information. It’s how Harvard chooses to respond.
+While they described working-class background as a positive factor, both Carey and Fraire conveyed that Harvard College’s admissions office did not see itself as responsible for combatting inequities in the wider world.
+Carey, who directs an education non-profit in low-income Worcester, Mass., told me “we fund education in this country based on property taxes, which bakes inequity into the system at the beginning.” But, she continued, “This is an issue that is well beyond the scope of the Harvard admissions office.”
+Fraire concurred.
+“I don’t think Harvard — the admission staff — saw that their responsibility was to create economic equity,” he said. “We all had just a different conception or various conceptions of what a qualified student was.”
+Thirty-some-odd years later, statements by Harvard echo this opportunity-blind conception of merit. Compromising this standard seems its primary objection to diversifying economically.
+In 2017, a committee comprising Admissions Dean William R. Fitzsimmons ’67, College Dean Rakesh Khurana, and then-FAS Dean Michael D. Smith was formed to study the feasibility of alternatives to race-based affirmative action. By 2018, the so-called Smith Committee had generated a report on its findings, which provides perhaps the clearest official insight into how Harvard thinks about class.
+The report relies on results from Card, Harvard’s expert economist, to assess one race-neutral admissions option that would increase the bump for socioeconomic disadvantage.
+What did Card find? By increasing the boost it gives for low socioeconomic status threefold, Harvard could achieve a 140 percent increase in the number of disadvantaged students.
+That should stagger you. In one fell swoop, Harvard could add class-based affirmative action to its existing, race-conscious system and achieve, likely for the first time, both racial and economic diversity. It could fundamentally change the lives of thousands more disadvantaged students and the countless more they would touch.
+The Smith Committee wasn’t moved by this prospect. This change, it found, would “run a significant risk of diminishing the academic excellence of the class.”
+Per Card’s model, the three-fold increase I’ve just described means only a one percent decrease in average SAT score and a five percent decrease in accepted applicants receiving a top rating for academic ability.
+The report declined to cite evidence that SAT score or academic rating meaningfully predict success for low-income students at Harvard. Conveniently, the Smith Committee report also declines to mention that average GPA — by some estimates, five times better than standardized tests at predicting college graduation — would actually increase by 0.3 percent.
+Harvard Graduate School of Education professor Anthony A. Jack, who studies how class background shapes experiences in higher education, couldn’t disagree more with this conception of merit.
+“You’re talking about, ‘Oh, well, this student didn’t do that.’ Well, what if that student had a full time job ever since they were in ninth grade?” said Jack, who was himself a low-income student at an elite college. “If we think that only these objective measures matter, we’re gonna find ourselves always equating something with money.”
+Jack raises an important point: Beyond representational considerations, if we are serious about finding the most impressive applicants, then we should care about adjusting properly for opportunity.
+“I think we should try to have a genuine meritocracy, where we find talented students and, in looking at academic records, consider the hurdles that they overcame,” said Kahlenberg, SFFA’s expert. “Considering socioeconomic obstacles overcome is more meritocratic than ignoring them.”
+Compare Kahlenberg’s and Jack’s words with the Smith Committee’s. Rejecting the proposal to increase the disadvantage bump, the committee said “excellence can and should be found in all backgrounds.”
+Are we to take the College’s current demographics — in which 15 times more rich students go to Harvard than poor ones — as the application of this principle? Does Harvard really believe that the vast majority of the excellent resides in the top 20 percent of the income distribution?
+Or does Harvard only care about the kind of excellence that correlates with wealth?
+Lost beneath the panic over affirmative action’s coming demise, the hidden tragedy of the ongoing admissions saga has been to make it seem as though class-conscious admissions is an alternative to race-conscious admissions. In reality, we need both.
+My point is not that there is one inarguable conclusion about how to fairly structure Harvard admissions; it’s that the current system has failed to achieve economic diversity, which is a state of affairs we must reject and improve.
+Not only does this failure fly in the face of many ideals we hold dear — fairness, diversity of perspective, social mobility — but it threatens racial diversity too, by casting doubt on the sincerity of Harvard’s commitment to diversity writ large.
+So, if you care about fairness, equity, or diversity in admissions, apply your principles in the same measure to class as to race. Challenge the College to commit to transparency in admissions, to diversify economically, to respond to the struggles low-income students face by investing ambitiously in their support — not by shutting them out. Fight for an admissions system that reflects the true situation of identity in America, where class and race, together, produce our experiences.
+Demand a diverse Harvard.
+I cannot accept that this magical school should keep its doors closed to low-income people. You shouldn’t either.
+Tommy Barone ’25, a Crimson Editorial Comp Director, is a Social Studies concentrator in Currier House.
+News
+Reviving the Past: The Attic Brings 70s Fashion Back to Harvard Square
+News
+Harvard Holds Inaugural Affinity Celebration for Graduates with Disabilities
+News
+More Than 70 Harvard Students Call for Academy of Arts and Sciences to Review Comaroff’s Membership
+News
+Harvard Lifted Sanctions on Epstein-Associated Professor Martin Nowak in March
+News
+More Than 1,400 Sign Petition Supporting Harvard Security Guard Mike Grant Following Leverett Dispute
+Higher education leader Ruth J. Simmons will deliver the school’s 2023 Convocation address on May 24, the Harvard Graduate School of Education announced in a press release last month.
+Simmons, the president of Prairie View A&M University and president emerita of Brown University and Smith College, became the first Black president of an Ivy League university when she was appointed to lead Brown in 2001.
+“My own path was shaped by exceptional educators who helped me envision a life of achievement that most thought at the time an improbable quest,” Simmons said in the press release. “It is an honor to be invited to address those who inspire us to embrace the ideal of a future that is better than the present. Such visionaries are urgently needed today.”
+Beginning June 1, Simmons will serve as senior adviser to the president of Harvard University on partnerships with historically Black colleges and universities, taking on the role for the last month of University President Lawrence S. Bacow’s tenure and continuing into President-elect Claudine Gay’s term.
+Her appointment is intended to support one of the primary recommendations made by the Presidential Committee on Harvard and the Legacy of Slavery in its landmark report on the University’s historic ties to slavery — which called on Harvard to strengthen its relationships with HBCUs.
+“I have no doubt that Dr. Simmons’ passion and unwavering commitment will resonate deeply for our graduating students and their families,” HGSE Dean Bridget Terry Long said in the press release.
+In 2003, Simmons launched an investigation into the legacy of slavery at Brown, making the university one of the first higher education institutions in the country to publish findings on its connections to slavery. On March 30, the Brown University Center for the Study of Slavery and Justice was renamed in honor of Simmons.
+In October 2018, Simmons testified in the U.S. District Court of Massachusetts in the Students for Fair Admissions v. Harvard case on the use of race-based affirmative action in admissions.
+“It’s very hard for me to overstate my conviction about the benefits that flow from all of these areas to a diverse undergraduate student body. I know something about a lack of diversity in one’s education,” Simmons said in her testimony.
+Simmons delivered the University’s 2021 Commencement address, telling students to “be a force for inclusion” and counter discrimination as they go out into the world.
+“I’m ashamed to say that in my youth I secretly bought into the prevailing racial assumptions of the day — that someone like me would be ill-prepared to benefit and contribute to study at a university of Harvard’s stature,” Simmons told Harvard’s Class of 2021.
+“None of us, none, is exempt from responsibility from the future we give our children. Harvard has its role and so do all of you,” Simmons said in her address. “I’ve come to ask you who graduate today what you are prepared to do to acknowledge and address the historic biases and inequities that so many continue to experience.”
+“Today, you earn your laurels as a scholar, but taking up the cause of justice, you will earn your laurels as a human being,” she added.
+—Staff writer Azusa M. Lippit can be reached at azusa.lippit@thecrimson.com. Follow her on Twitter @azusalippit.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Harvard College Alum Ryosuke Takashima ’19-’22 Becomes Youngest Mayor in History of Japan
+News
+Ruth Simmons to Address Harvard Graduate School of Education Class of 2023 at Convocation
+News
+Suspect in Harvard Science Center Plaza Bomb Scare Released on Bond as Authorities Seek Accomplice
+News
+In Wake of Schrag Bullying Allegations, Harvard ESE and EPS Affiliates Call to Strengthen Anti-Bullying Policy
+News
+Comedian Larry Wilmore to Address Harvard College Graduating Seniors at 2023 Class Day
+An interview with Ryosuke Takashima ’19-’22 in this article was translated from Japanese by Crimson News editor Ayumi Nagatomi ’26. 
+Following a decisive win in a unified local election on April 23, Harvard College alum Ryosuke Takashima ’19-’22 became the youngest mayor in Japanese history.
+Takashima, who is 26, assumed the mayoral seat for the city of Ashiya in Hyogo Prefecture, located between Osaka and Kobe. He ran against three other candidates, one incumbent and two with prior experience in city government. His term began on May 1.
+At Harvard College, Takashima lived in Eliot House and concentrated in Environmental Engineering with a secondary in Environmental Science and Public Policy, while exploring various ways to engage in politics. He also worked as a Multimedia editor for The Crimson and as director of multimedia for the Harvard Project for Asian and International Relations.
+“Harvard is a university that nurtures leaders of society,” Takashima said in an interview with The Crimson last week. “I was always thinking about how I could give back to society what I had learned.”
+Takashima said he did not plan to run for office right after graduating from the College. It is uncommon for young politicians to win elected office in Japan, with the average age of mayors elected this cycle at 59 years old. The minimum age to hold office in Japan is 25.
+“It just so happened that the timing was right after graduation,” Takashima said. “When I saw that the current situation in Ashiya was very bad, with the population rapidly decreasing, especially among the younger generation, I thought I couldn’t wait much longer.”
+Takashima described Ashiya — home to 93,000 citizens — as a residential city just a little smaller than Cambridge. While Ashiya is known to be a wealthy city in Japan, it faces issues of an aging population and low birth rate, which are more pronounced than in nearby municipalities.
+Though more than 80 percent of couples in Ashiya report they want to have two or more children, the average number of children per household in the city remains at 1.3, the lowest among neighboring cities.
+Along with setting up an improved system for extended daycare, Takashima said he wants to implement free medical care for children, an initiative being pursued by an increasing number of municipalities.
+Harvard Undergraduate Association Co-President Shikoh Misu Hirabayashi ’24, who is from Japan and received mentorship from Takashima during the college application process, said he was pleasantly surprised by the election win.
+Hirabayashi said did not initially expect Takashima to win because older candidates are often perceived in Japan as more competent with “much more work experience and connections.”
+“He was also fighting against an incumbent, who I know wasn’t too popular, but still had some sort of election voting base,” Hirabayashi said.
+Takashima said holding consistent dialogue with citizens was key to his win. During the campaign, he organized public forums across the city and distributed a booklet containing his policy proposals to households in Ashiya.
+“Many people understood that although I am young, I have a good understanding of the current situation and am trying to make effective policies,” Takashima said.
+Satoshi Yanaizu ’23, who attended the same middle school and high school as Takashima, called the newly elected mayor a “local leader.” Yanaizu said he remembered how Takashima organized a volunteer group during high school for a summer festival held in Ashiya.
+“He cares a lot about the community he is in,” Yanaizu said. “I think he genuinely likes Ashiya as a city and is committed to making Ashiya a better place. ”
+Takashima said he has always been interested in city-level politics. He recounted that when he was young, his hometown drastically changed after the election of a new and younger mayor.
+“I thought that the city government has a great deal of influence and is very closely connected to the lives of the citizens,” Takashima said.
+Takashima also took multiple gap years during his time at the College, giving him the opportunity to travel the world and speak with local officials and citizens about urban planning.
+As an undergraduate, Takashima enrolled in a Harvard Kennedy School workshop called, “Hi! I’m Running for Office,” which helped him learn more about participating in politics. Each session focused on different aspects of running for office and governing, he said.
+“For example, I learned how to raise money and how I should work on my policies after taking office,” Takashima said. “But above all, I was glad to meet many people who were thinking of running for office in the future.”
+Stephanie A. Paulsell, a faculty dean of Eliot House, remembered Takashima’s participation in events related to politics, like a Public Narrative event hosted at the house and led by organizer and HKS lecturer Marshall L. Ganz ’64-’92.
+“Now looking back, I can see he was looking for opportunities to develop these sorts of political skills,” Paulsell said.
+Hirabayashi said he hopes Takashima’s victory can inspire the younger generation, even as Japan has struggled with civic participation in politics in recent years.
+“I really wanted him to set a precedent for other young people to also run for politics, but also to become interested in politics,” he said.
+Correction: May 8, 2023
+A previous version of this article incorrectly stated that more than 80 percent of couples in Japan report they want to have two or more children. In fact, more than 80 percent of couples in the city of Ashiya report wanting two or more children.
+—Staff writer Ayumi Nagatomi can be reached at ayumi.nagatomi@thecrimson.com. Follow her on Twitter @ayumi_nagatomi.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Eric Beerbohm Appointed Director of Harvard Ethics Center
+News
+Harvard College Alum Ryosuke Takashima ’19-’22 Becomes Youngest Mayor in History of Japan
+News
+Ruth Simmons to Address Harvard Graduate School of Education Class of 2023 at Convocation
+News
+Suspect in Harvard Science Center Plaza Bomb Scare Released on Bond as Authorities Seek Accomplice
+News
+In Wake of Schrag Bullying Allegations, Harvard ESE and EPS Affiliates Call to Strengthen Anti-Bullying Policy
+UPDATED: May 9, 2023, at 1:01 a.m.
+Eric Beerbohm, a Government professor and faculty affiliate in the Philosophy Department, will serve as the next director of the Edmond and Lily Safra Center for Ethics, Harvard University Provost Alan M. Garber ’76 announced Monday morning.
+Beerbohm succeeds the center’s outgoing director, Danielle S. Allen, who announced she would step down after eight years in the role. He will officially assume leadership of the center on July 1.
+Beerbohm, who also serves as Quincy House faculty dean, said in a press release that the center’s mission “is as urgent now” as it was when the center was first established in 1986.
+“I couldn’t be more excited to work with this vibrant community of students, faculty, and staff across the university as we grapple with the most serious ethical issues of our time,” Beerbohm said. “Some are arrestingly new — like ChatGPT. Others go back to when democracy was a pilot project.”
+Beerbohm said in an interview Monday afternoon that it is hard to predict what issues the center will focus on during his tenure, noting that he likely would not have predicted last semester that ChatGPT would become a pressing ethical challenge.
+“The fact that these problems are arising at this just arresting pace is striking,” he said.
+Beerbohm, however, noted that part of the center’s mandate is to play the role of a clairvoyant when it comes to emerging challenges.
+“In some ways, the center — with the whole university community and professional schools, in particular — is well positioned to anticipate the problems before they're right in our face as a society,” he said. “That’s part of the center’s work.”
+Garber said the center “has been a catalyst for important work in ethics at Harvard and a key part of advancing that work in the world beyond.”
+“Eric’s many intellectual achievements in the field of ethics and political thought and his cross-disciplinary engagement both inside and outside the University make him an ideal candidate to direct its work,” Garber said. “I am thrilled that he has agreed to serve as Director.”
+Allen, who also serves as a University Professor, was honored with a symposium late last month to celebrate her tenure leading the center. Over her eight years as director, Allen established the Design Studio for Ethics and Civics Pedagogy and the Justice, Health, and Democracy Impact Initiative, a project that allows experts to collaborate with local officials on public policy solutions.
+In the press release, Garber thanked Allen for “her tremendous leadership over the past eight years, both in continuing to develop the center’s intellectual vision and building up the community of scholars carrying that vision forward.”
+Beerbohm has collaborated with the center for more than a decade, first joining as a faculty fellow from 2009 to 2010. He served as the director of graduate fellowships from 2010 to 2017 and as the founding director of the center’s undergraduate fellowship program.
+In the interview, Beerbohm said he is “most excited” about increasing the center’s efforts to engage undergraduates at Harvard.
+“The center has already really amped up its attempts to reach out to undergraduates, but I think that we can go even further,” he said.
+Beerbohm said he hopes to use his familiarity with Harvard’s undergraduate housing system as a Quincy House faculty dean to further engage students in the study of ethics.
+“I think it creates a lot of opportunities for the Safra Center to collaborate with houses, with student groups, and to see — as we continue to build it out — will they come?” he said.
+Beerbohm is also in the middle of his second term as the chair of the Committee on Degrees in Social Studies. It is unclear if he will be able to remain in the role long-term while simultaneously serving as the center’s director.
+Allen said in the press release that Beerbohm “embodies the commitment of the Edmond & Lily Safra Center for Ethics to putting work on core human values at the center of teaching, learning, and public policy.”
+“He’s helped to build some of the Center’s most important programs — both our graduate and undergraduate fellowship programs — and invariably leads with warmth, collegiality, and integrity,” she added. “I am excited to see where he will take the Center next.”
+—Staff writer Miles J. Herszenhorn can be reached at miles.herszenhorn@thecrimson.com. Follow him on Twitter @mherszenhorn.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+As late spring transforms into summer, basking in the sun while lying in the yard during reading period is a must. What more do you need? Well, actually, you do need something more: a playlist to accompany your space. Listen to this beautiful cacophony of sunshine sounds with AirPods, headphones, and maybe even a speaker if you’re feeling public. Enjoy <3

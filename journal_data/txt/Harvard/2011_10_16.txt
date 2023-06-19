@@ -1,0 +1,139 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Computer Science 50 enrolled 619 students this semester. Its peer introductory courses in the School of Engineering Sciences, Engineering Sciences 1, Engineering Sciences 50, and Applied Math 50—all taught last spring—had 27, 54, and 107 students, respectively.
+“I think CS50 is absolutely exceptional in its growth,” says Eric Mazur, area dean for Applied Physics. He is currently designing a new introductory course in Applied Physics, Applied Physics 50, to be offered next fall. “It’s probably a tough act to follow for physics, but I certainly hope that we can follow some of that approach.”
+Mazur is not the only one eyeing the CS50 model.
+“We would love to see ES1 grow to gain the popularity that CS50 has achieved,” says ES1 Professor Sujata K. Bhatia.
+But professors also acknowledge that different disciplines face unique challenges—from the need for lab space to common misconceptions about their fields—that complicate universal growth on the scale of CS50.
+“We hope we get to CS50 fame and enrollment level,” says Marko Loncar, professor of ES50. “On the other hand, it’s a different type of beast,” he says. “Everybody uses computers today ... in my experience, people do not know exactly what electrical engineering is today.”
+Even as CS50 continues to pull away from other introductory courses in enrollment figures—enrollment jumped from 494 last fall—its growth trends are not exclusive. Every introductory SEAS course has grown in the last two years, with ES53 doubling and ES50 nearly tripling in size.
+These are promising patterns for SEAS, which is constantly on the lookout for new concentrators. But as professors scramble to adjust, many look to CS50 for inspiration.
+CS50: SEAS’ SUPERSTAR
+CS50’s explosive growth is unprecedented in SEAS. Professors and students alike attribute the course’s success to an enthusiastic teaching staff and engaging lectures, homework assignments that are relevant to students, and a strong sense of community.
+In the 2010-2011 academic year, the course boasted the highest overall Q score among SEAS intro-level courses—4.23 out of 5—despite also having the highest workload rating, at 4.16 out of 5.
+Many students see an opportunity in CS50 to develop skills that apply directly to their lives.
+Matthew W. Yarri ’14 says that ES50, for example, focuses on engineering skills more commonly associated with the pre-digital era.
+“Today, you would just buy a computer chip and program it using the type of knowledge you would have acquired in CS50,” Yarri says.
+In fact, the relevance of computers in today’s society may have fueled much of CS50’s allure, says Heather V. Hawkes ’13, who took CS50 and was also a teaching fellow in ES50.
+“The technical appeal of knowing a little bit of computer science in today’s world is considerable, whereas most people can get by just fine without actually knowing how their radio works,” she says.
+But Loncar cautions against misconceptions about the role of electrical engineering. While he agrees that the ubiquity of computers makes computer science seem more useful, electrical engineering is actually necessary for much of the technology that excites students—from building an iPad to designing the face recognition platform that allows tagging on Facebook.
+“Without a computer, there is no computer science,” he says. “To build a computer, you need an electrical engineer.”
+CHASING CS50
+Introductory courses offered by SEAS are meant to be “accessible” and “welcoming” to all students, regardless of background or concentration and career interests, according to Bhatia.
+“Really engineering is the application of quantification ... to solve societal problems,” she says.
+Professors agree that CS50 in particular is effective in convincing students from a variety of concentrations that engineering can serve them well. Most professors say they hope to improve the “marketing” of their own classes.
+Last spring, ES50 introduced t-shirts for students and just this week created a Facebook page for the class.
+Mazur says he has already spoken extensively with David J. Malan ’99, course instructor for CS50, about the design of AP50.
+“He’s very interested in the pedagogy that I have developed,” Mazur said. “I have looked at his syllabus in great detail to look at how he weaves computer science into projects.”
+Mazur says rote memorization and textbook problems are no longer the right way to train “some of the most successful problem solvers you can think of.”
+“If you look at the way introductory physics is taught right now for non-majors, I think the syllabus is not very different from the syllabus you would have seen in the last century or so,” he says. “It’s time for an overhaul.”
+Incorporating hands-on components into SEAS courses is a universal goal, according to Malan, who was named director of Educational Innovation this year and is working to create and implement new teaching tools throughout SEAS.
+Bhatia, who also teaches ES53, an introductory bioengineering course, starts every lecture by presenting a clinical application of the topic at hand.
+“How can we as bioengineers come in and help?” she asks her students. She reminds them that they “are part of the patient care team” to help students see the real-world relevance of their studies.
+The hands-on approach is enabled by SEAS’ recent investment in student laboratory space. ES50 will double its lab space in the basement of Maxwell Dworkin this coming spring, a much-needed expansion that will facilitate more creative, unscripted design opportunities for students.
+Building an intellectual community for students is another important goal for which CS50 has set the pace.
+Concentrations are trying hard to foster discussion and camaraderie among students through a variety of initiatives—from workshops, seminars, and stronger undergraduate engineering societies to Friday pizza lunches for engineering enthusiasts in Pierce Hall and weekly cake and ice cream hours for applied math concentrators.
+Although not as robust as their CS50 counterpart, the AM50 Fair and ES50 Fair also encourage students to share and discuss ideas.
+FINDING WHAT WORKS
+But incorporating some ideas means letting go of others. AM50, for example, will most likely forgo CS50-like growth in favor of a more intimate class environment targeted at freshmen and sophomores. Student presentations were a central aspect of AM50’s initial course structure but have since been sidelined by unexpected growth, and the class will most likely limit enrollment to between 30 and 60—with limited spots available to upperclassmen—next spring, according to AM50 professor and SEAS Assistant Dean for Academic Programs Marie D. Dahleh.
+“It’s been difficult to address the needs of all the students in the course,” she says, explaining that AM50 will provide a more structured focus on fundamental skill sets.
+Lecturer Mauricio Santillana, who will teach AM50 with Dahleh next spring, adds that aiming for a class size on par with CS50 would require an ambitious increase in teaching staff and resources.
+And some students also say that a large class does not necessarily translate to an optimum classroom experience.
+“I think I prefer ES50 simply because the class was much smaller and the professor was super approachable if you didn’t understand anything,” says Pin-Wen Wang ’14. “Just because of the sheer size of [CS50], it’s more likely that you have a good relationship with your TF.”
+Other students enjoy the unique laboratory components that computers cannot provide.
+Justine F. Hasson ’14 describes the “amazing” feeling of getting her ES1 project—a flashlight—to finally work after weeks of designing and working on the electrical components.
+“Fundamentally, I’d rather be building things by hand or making things that I can touch,” says Hawkes, the former ES50 teaching fellow.
+“In CS, you could spend hours and hours and hours hunting for one misplaced semicolon in your code and, when you got it working, it was an incredible feeling,” she says. “But I just preferred building things in ES50 as opposed to hunting for semicolons.”
+—Staff writer Akua F. Abu can be reached at aabu@college.harvard.edu.
+—Staff writer Radhika Jain can be reached at radhikajain@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+This weekend, Harvard ventured down to the land of the Badgers to compete at one of the toughest invitationals in the nation: the Wisconsin Adidas Invitational. The women competed in the A race, placing 40th of 44 teams. Seniors Jeanne Mack and Kailyn Kuzmuk led the way for the women, placing 171st and 198th, respectively. Washington won the race, and Princeton, the only other school from the Ivy League to compete in this race, placed 25th overall.
+The Crimson men fared better in the B race, with sophomore Aaron Watanabe placing 13th with a time of 25:24.7 in an eight-kilometer race. Junior Jakob Lindaas and freshmen Will Geiken followed his lead by running the race in under 26 minutes, placing 36th and 44th, respectively. The Badgers, the second-ranked team, took the title.
+“I was very pleased,” Harvard coach Jason Saretsky said. “We were able to make some real improvements from two weeks ago, and we are excited to see the developments, and show them in the Ivy League Championships in two weeks time. The highlight of the trip was seeing that the freshmen handled being in a big competition at a national stage really well. They remained composed and were excited to contribute to the team.”
+Other members of the cross country team were scheduled to race at Brown this weekend, but inclement weather changed the team's plans.
+“We were disappointed about not sending our athletes to Brown because of the weather, but we didn’t want to risk health and safety of our runners,” Saretsky said. “We had some intersquad competition that was very beneficial.”
+This page sponsored by Current Mortgage Rates.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Coming into Saturday’s game, the question of who would start at quarterback loomed large over Harvard football.
+But junior Colton Chapple provided the answer, coming up big in his fourth consecutive start of the year.
+The Crimson (4-1, 2-0 Ivy) controlled the afternoon, easily beating Bucknell (4-2, 1-1 Patriot), 42-3.
+In just over two quarters of play—Chapple was pulled early in the third quarter when Harvard led by 35—the junior quarterback had a performance that landed him in the Crimson’s history books for the second straight week.
+Chapple’s five touchdowns tied for the most ever by a Harvard passer in a single game. The first and only other time it happened was in 1953, 544 games ago.
+Chapple is also the first quarterback in program history to throw for four touchdowns in back-to-back games.
+“Just to be mentioned with some of those guys is unbelievable—so humbling,” Chapple said of the school records. “But I can’t take some of the credit for all that. My offensive line has played great all year long. I have an extremely talented wide receiver core, including tight ends.”
+After a prolific first half, sophomore Michael Pruneau came into the game rather than senior Collier Winters, the starter at the beginning of the season who appears to have lost that job to Chapple.
+“I told Collier to warm up at halftime, [and] I said I’ll make a decision when we get going,” Harvard coach Tim Murphy said of his decision to sit Winters during the second half. “It just came down to [the fact that] he’s coming off a hamstring injury, [and] he hadn’t done anything in about an hour and a half. There was more to lose than there was to gain by putting him in there.”
+Harvard’s offense wasn’t the only dominant element of its game. The Crimson controlled on all fronts, nearly holding the Bison scoreless.
+At halftime, Bucknell had just 31 yards of total offense, and the team finished the game with -5 net rushing yards.
+“I knew we were going to struggle running the ball, and I think everyone else that has played this team has struggled running the ball,” Bison coach Joe Susan said. “We knew that we were going to have to throw the ball to be effective against this team.”
+The defensive line arguably had its best game of the season, notching four sacks. The front four also hurried Bucknell quarterback Brandon Wesley five times, and the line broke up six passes and registered eight tackles for losses.
+The Bison offensive line looked outmatched, to say the least. On a number of occasions, Harvard’s defensive linemen were able to apply pressure to Wesley despite being double-teamed.
+“We came into this game, and we wanted to keep it pretty simple on defense,” said captain Alex Gedeon, who led the team with 11 tackles. “Line up and just be physical up front. I think we were successful in doing that all day, and it starts with the D-line.”
+Even Harvard special teams handily outplayed its Bison opponents. Facing winds exceeding 20 mph, sophomore kicker David Mothander squibbed the kickoffs most of the day.
+On one particularly bizarre play, the Crimson recovered a loose ball on a squib that trickled into the red zone, giving Harvard excellent field position. Chapple took advantage, scoring just over a minute into the drive.
+“[The ball] bounced around a little bit. I was coming from the outside, and it kind of just squirted out,” Gedeon said of the recovered kick. “A couple of our guys got down there and hit the Bucknell guy trying to pick it up and I was able just to fall on the ball.”
+The Crimson had a sloppy start to the game. Just two plays in, junior running back Treavor Scales fumbled on the Harvard 29, giving the Bison excellent field position about three minutes in.
+But after an unsuccessful fourth-down conversion, Harvard got the ball back and controlled the pace of the game, though it didn’t score until the end of the quarter. With no time on the clock in the first, Chapple hit junior tight end Kyle Juszczyk in the end zone to give Harvard the 7-0 edge.
+“We had been running slants in the first half and ... the safety bit right away, as soon as I made my slant cut,” Juszczyk said. “We just went over the top ... You always getting a little nervous when the ball is hanging in the air there, and you see the defender chasing you.”
+But two touchdowns early in the second quarter—a 27-yard pass to senior wide receiver Alex Sarkisian and a 9-yarder to sophomore tight end Cameron Brate set up by the recovered squib kick—put the game out of reach early on.
+Both tight ends added second touchdown catches later in the game, and Juszczyk’s reception five minutes into the quarter all but sealed the win. Bucknell only managed to avoid a shutout when Bison defensive back Bryce Robertson brought a Pruneau interception to the Harvard two-yard line, setting up a field goal with three minutes left in the third.
+“This is a team we felt we should have beat, but nevertheless came in with a great deal of focus and intensity right from the start, led by our defense,” Murphy said. “Our defense never gave them a chance today.”
+—Staff writer E. Benjamin Samuels can be reached at samuels@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+Sculptures resembling uncommon or everyday objects sprinkle the campus' exterior landscaping, adding at least a little randomness if not subliminal messaging to the University.
+What the student body lacks in sexual activity, it compensates for with phallic statues. Just to reinforce what freshmen gave up by committing to Harvard, the tall statue in between Widener and Boylston serves as a constant, not-so-subliminal reminder of what will not be happening over the weekend.
+"What do I think of it? The statue kind of speaks for itself, doesn't it?" Madelaine D. Boyd '12 said.
+Naturally, the administration encourages safe sex, and demonstrates this during the winter by wrapping this long, stiff statue in a tarp, to protect it from the effects of the cold.
+But Harvard is not all about sex and condoms. What better way to express this than through a fun-loving, jack-o'-lantern-like sculpture that sits in the McKinlock Courtyard of Leverett?
+Of course, we cannot forget the sculpture outside of Lamont that resembles, at first glance, pieces of gum stuck to the desks of your favorite library. Upon closer examination, one learns that the sculpture is titled "Four Piece Reclining Woman." Even knowing this, however, it may take a fair bit of imagination or a few hours of Lamont studying to connect those foreign forms to womens' bodies.
+Whether it's genitalia, a Halloween prop, or two pieces of used gum, the beauty of these sculptures is that they keep us guessing.
+Sections
+We talked to people around the Yard to see what they had to say about attraction in light of a Harvard study that concluded that a beautiful female face triggered the same reaction in men as cocaine use.
+Sections
+The sites HarvardFML, I Saw You Harvard, and Bored at Lamont are tried and true procrastination methods for Harvard students. Now those always on the prowl for outlets to delay work have yet another way to avoid productivity: Harvard's very own Subredddit.
+Reddit, a social news website, works by having users submit content, ranging from world news to funny pictures, which is then voted on by the community.  The most popular content appears on the front page.  People can then comment on the content and the most popular comments—those with the most positive votes—appear first.
+"I definitely go every day over the course of studying, usually twice or three times a day," said Charles W. Sorensen '14, who identifies as a frequent Redditor. "It's my first visit of the day; sort of a one-stop-shop for news, humor, or interesting articles."
+Reddit also has what it calls "subreddits," which allow members of a specific community to connect with one another. Harvard's subreddit was created by a Crimson undergraduate in response to Reddit's "Grow a College Subreddit" competition, which pits colleges across the nation to see who can garner the most subscribers for their school.
+Harvard's Subreddit, which has 154 subscribers, was designed by Joseph Y. Ong '14.
+"Reddit is like a black hole where time goes to die," Ong said. "Once you hop on and click on a link, you just can't stop looking at more. Many people have referred to it as an addiction they've had to quit."
+Sections
+We  all do it. We tell ourselves that this year, this semester,  everything's going to be different—that's right, we're going to make a  change. We arrive on campus, hit up the MAC, do the reading for at least  one of our classes, strike a perfect balance between school and social  life. But  then that eight-week-long-hell-period known as midterm season rolls  around and everything goes to shit. Somehow we can never manage to  maintain that blissful balance for long.
+But what if we could not only get it up but keep  it up, screw around without screwing up our grades? Between course and  intercourse, there must be some overlap—right?
+Enter: FM's  scholarly pickup line contest—From Hitting the Books to Hitting the  Sheets—where we invite you to comment on this post with your best pickup line,  inspired by course material. We'll publish the winning line in next week's FM and maybe you'll even get some action ... maybe.
+Who says LS1a never got anyone laid? Hey, wanna form a study group ...
+Sections
+Some might argue that a Harvard education—Expos 20 and all—owes much of its conception of liberal arts to the Renaissance age. And while many have investigated the wealth of scholarship that the Renaissance produced, few have attempted to explain what sparked the period in the first place. Last week, The National Book Foundation recognized the product of John Cogan University Professor of the Humanities Stephen J. Greenblatt by naming his latest work, "The Swerve," a National Book Awards Finalist.
+In "The Swerve," Greenblatt traces the onset of modernity to the resurrection and proliferation of a single, epic poem by ancient Roman philosopher, Lucretius. Forgotten for centuries, the poem "On the Nature of Things" was rediscovered by Italian bibliophile Poggio Bracciolini in 1417. This chance encounter with the poem, said Greenblatt, would go on to irrevocably transform academia, art, religion, and philosophy.
+"I was interested in a way to convey what I take to be the very heart of the thrilling, cultural shift that we call the Renaissance," wrote Greenblatt in an email. "I came upon the story of Poggio's recovery of the ancient manuscript, and I was off and running."
+In reading "The Swerve," the most we can hope to do is keep up. The awards will be presented on Nov. 16. Hopefully one of Harvard's own will be in the final selection.
+Sections
+Tomorrow is the last day to withdraw from courses. The deadline is at 5 p.m.

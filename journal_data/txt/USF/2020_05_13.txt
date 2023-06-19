@@ -1,0 +1,81 @@
+As more cases of Zoom-bombing are reported across the country, USF IT recommends the use of safer platforms, including Microsoft Teams, for conference calls.
+
+
+A hacker took control of a Zoom
+videoconference for the Muma College of Business
+and
+screenshared
+pornographic images
+Monday afternoon.
+
+
+The College of Business
+held the meeting for
+prospective students
+to learn and ask questions about the
+college
+. The University Police (UP) released a crime alert to students and faculty
+Tuesday afternoon
+stating that “hijacking cases are emerging” as the use of videoconference platforms
+grows
+.
+
+
+According to one person on the call, the images shown were related to child pornography. When asked about the nature of the images, UP Capt. Meg Ross said, “I don’t have that information.”
+
+
+There were roughly 40 people in the meeting,
+which was proceeding normally until the images appeared onscreen, according to a business major on the call who preferred to remain anonymous. After the incident, the student said he was made
+uncomfortable seeing the images.
+
+
+“I can only speak for myself, but I was really put off,” the student said.
+
+
+“This is a really terrible thing to do. An outside hacker decided to terrorize and take full control of the meeting.”
+
+
+According to the student, the host tried to fix the situation.
+
+
+“The host tried to stop [the meeting], [but] there was nothing that could be done other than to look away,” the student said.
+
+
+The College of Business declined to comment further.
+
+
+While the incident was the first case reported at USF, the UP crime alert said it is consistent with other hacks nationwide.
+
+
+“This is quite a problem across the country, especially on Zoom,” Ross said. “
+[It happens]
+even local government meetings,
+[but] I
+don’t know if pornography was involved in those cases or not.”
+
+
+UP is investigating the incident and federal authorities could be brought in
+.
+
+
+“Cases like this should be forwarded to the
+[Federal Bureau of Investigation] Cyber Crime Center
+,” Ross said. “They have the ability to do more research.”
+
+
+Ross said such incidents can be avoided by using more secure platforms, like Microsoft Teams, which uses two-factor authentication and encrypts data. Students have access to Microsoft Teams through their new usf.edu email address.
+
+
+“Use Microsoft Teams instead of Zoom,” Ross said. “If you are using Zoom, I strongly encourage using any security measures you can take.”
+
+
+When using Zoom, students need to make sure the password used is strong to prevent the account from being hacked as well as enable the waiting room to control who has access to the meeting.
+
+
+USF’s IT Department
+has guidelines for safe
+videoconferences
+, including keeping meetings private, not sharing links to meetings over social media and not sharing confidential information.
+
+
+“In the future, have a quick out,” the student said. “Close the laptop, close the meeting, hover over the leave button so you can get out of the call.”

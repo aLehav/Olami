@@ -1,0 +1,95 @@
+The new technology will implement the science behind corona discharge, allowing mask-wearing to become more sterile and eco-friendly. SPECIAL TO THE ORACLE/PIXABAY
+
+
+As face masks continue to be a daily necessity for many people, they could potentially become environmentally threatening waste. However, USF researchers are working on solutions to sterilize the masks and alleviate this growing issue as part of the COVID-19 Rapid Response Research Grants program.
+
+
+Ying Zhong, researcher in USF’s Green Research for Energy-Efficient innovations lab, and Libin Ye, researcher and cellular molecular biology professor, created a team of five graduate students to experiment with a new form of sterilization technology to combat pathogenic viruses.
+
+
+The team created a novel form of sterilization technology that makes use of corona discharge — a phenomenon where an electrical discharge causes the ionization of nearby gas molecules which could then safely and effectively destroy pathogens on the N95 face masks.
+
+
+“Corona discharge is an electrical discharge phenomenon with bluish-purple light emitted, which illuminates the air nearby the discharging conductor,” said Zijian Weng, a Ph.D. student in the department of engineering.
+
+
+“It occurs when there is high voltage applied on the conductor, causing the current flow with a high potential from the conductor into nearby air by ionizing and generating excited gas molecules, usually nitrogen molecules, which emit the bluish-purple light.”
+
+
+Corona discharge is also a phenomenon Zhong said she previously experimented with in other areas of her research where she “induced permanent charges into polymer films.”
+
+
+Zhong used this prior experience with corona discharge to explore its potential use for N95 mask sterilization. She reviewed different studies regarding corona discharge and its effects on disinfection and concluded there was enough evidence supporting corona discharge as a means to disinfect and reuse N95 masks.
+
+
+“I know that [corona discharge] can inject charges, but can it also do disinfection of masks? Luckily, I was able to identify some articles to support this idea,” said Zhong.
+
+
+An N95 mask protects its users in two different ways, according to Ye. He said the material used in the masks contain small pores that are able to physically prevent bacteria and other pathogens from entering the body. The materials are layered to make it difficult for pathogens to pass.
+
+
+The second way is through the use of electrostatic charge. N95 masks are manufactured with a positive charge, said Zhong, and since many pathogens such as bacteria and viruses are negatively charged, this creates an effect where pathogens stick to the masks rather than pass through.
+
+
+“When a negatively charged droplet comes close to a positively charged fiber, they will tend to attract each other,” said Zhong. “This is how the charged fibers [of the N95 mask] stop the charged droplet.”
+
+
+The problem with electrostatic charges in the N95 masks, according to Zhong, is that after some time this charge slowly degrades, lessening the protective effect of the masks.
+
+
+“When you use [the N95 mask] for hours, the electrostatics will be lost,” said Zhong. “That’s why you cannot use regular ways to disinfect [the mask] and keep filtration efficiency.”
+
+
+After a mask has lost much of its charge, a corona discharge device could be used to restore the mask’s level of protection to almost full capacity.
+
+
+In a study published by Zhong and her team, it was found that corona discharge sterilization was able to keep N95 masks near peak filtration efficiency even after being used and sterilized 15 times.
+
+
+In addition to restoring electrostatic forces in N95 masks, corona discharge technology also has been able to neutralize pathogens already present on the mask.
+
+
+It is still not known how corona discharge eliminates pathogens, but Ye said the team knows the electrostatic forces and ions produced by the corona discharge device disrupt vital components of these pathogens.
+
+
+“We just know that these ions damage the DNA and damage the proteins [of the pathogens], but the process of how they damage the DNA and how they damage the proteins we don’t know,” said Ye.
+
+
+While
+the exact mechanism through which corona discharge sterilization occurs has not been discovered yet, it has been shown that corona discharge is an effective disinfectant, according to Zhong.
+
+
+Corona discharge still hasn’t reached the level of sanitation of alternative chemical means, however, it is slowly approaching it, said Zhong. In a trial published by her team in
+pubmed
+, corona discharge was able to reach a 99%-99.9% rate of E. coli sterilization
+in 7.5 minutes.
+
+
+Zhong said not all viruses and bacteria respond to corona discharge sterilization at the same rate. The different responses, she said, are currently being investigated.
+
+
+Not only can corona discharge sanitize and recharge N95 masks, but it’s also much safer than alternative chemical sanitation products such as disinfectant sprays, which can damage human tissue, according to Ye.
+
+
+Corona discharge only leaves a static charge on the surface on which it was used, Ye said, so there is no danger to the user. Besides effectiveness, Ye also said the technology can be inexpensive, costing $50 to manufacture a handheld prototype powered by batteries.
+
+
+Zhong began working on the N95 project in February 2019. Since then, the team has continued to develop this technology and publish research articles regarding its effectiveness.
+
+
+Months after the project’s creation in January, Zhong’s team started applying for a patent and reaching out to biomedical manufacturers in order to introduce this technology to the public.
+
+
+She said the technology could take roughly two years to be released, depending on how the product development process goes.
+
+
+“We need to work with manufacturers … and we are trying to talk to investors. We really hope it can get commercialized as soon as possible,” said Zhong.
+
+
+Zhong said she plans to keep researching corona discharge and investigate how to best use it against various types of bacterial viral pathogens. The plan, she said, is to explore different ways and settings in which corona discharge technology can be used.
+
+
+“We can design a small portable box which you can put in your home and disinfect as many masks as you want​​,” she said.
+
+
+“We could also make it larger and put it in clinics and hospitals to treat multiple masks at the same time. We can even make the machine much larger to treat masks at the industry level.”

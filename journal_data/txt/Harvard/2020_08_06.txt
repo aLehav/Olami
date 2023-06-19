@@ -1,0 +1,47 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The majority of Harvard personnel will continue remote work through at least the end of the calendar year, University Provost Alan M. Garber ’76, University Executive Vice President Katherine N. Lapp, and Harvard University Health Services Director Giang T. Nguyen announced in an email Wednesday morning to affiliates.
+Most personnel switched to remote work in mid-March, though it was unclear at the time that the pandemic precautions would stretch a minimum of nine months.
+Campus will only be populated by students — no more than 40 percent of the student body, including non-international freshmen — and the faculty, staff, and personnel needed to support their on-campus activities, per Garber, Lapp, and Nguyen.
+“Nobody outside these categories, unless directed otherwise by local leadership and managers, is expected to conduct their activities on campus,” they wrote.
+Garber, Lapp, and Nguyen also reminded affiliates that individuals arriving in Massachusetts must complete the Massachusetts Travel Form.
+The form mandates quarantine for 14 days regardless of means of travel unless travelers are arriving from a lower-risk state or can present a negative test result for COVID-19 administered fewer than 72 hours prior to arrival in the state. Failure to follow quarantine requirements subjects individuals to a $500 fine.
+Harvard affiliates who work or live on campus will undergo initial and recurring COVID-19 testing. Students and personnel living on campus will receive three tests a week. Those who are not living on campus will receive tests once or twice a week, depending on their activities and how much time they spend on campus.
+Affiliates will also be required to regularly fill out Crimson Clear, a website which asks questions about symptoms and contact with others who have contracted COVID-19. Upon completion, they will receive a “clear” pass for 23 hours, allowing them to re-enter Harvard facilities. It also allows affiliates to set up testing appointments.
+Garber, Lapp, and Nguyen also urged accessibility and the importance of “timely communication.” They wrote all Harvard affiliates should keep phones powered and nearby at all times as HUHS officials and others “may require that you answer phone calls at any time” to begin quarantine procedures.
+“The coming academic year promises to be like none that came before, calling on all of us to work together to make it a success,” Garber, Lapp, and Nguyen wrote. “No matter where we are located, we all need to do our part to advance the academic progress and achievement of our students and the critical work of our researchers, while protecting the health and well-being of our community and those around us.”
+—Staff writer Camille G. Caldera can be reached at camille.caldera@thecrimson.com. Follow her on Twitter @camille_caldera.
+—Staff writer Michelle G. Kurilla can be reached at michelle.kurilla@thecrimson.com. Follow her on Twitter @MichelleKurilla.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard researchers uncovered the surprising role of light in ultra-cold chemical reactions, according to an article published last month in the scientific journal Nature Physics.
+Chemistry and Chemical Biology and Physics professor Kang-Kuen Ni and her lab, who conducted the coldest chemical reaction in the known universe last December, discovered that laser beams — commonly used in ultra-cold chemistry to stabilize reaction molecules — were responsible for the loss of molecules from the reaction, a phenomenon known as two-body loss.
+Yu Liu, the first author of the study and a graduate student in the Ni lab, said light was a “metaphorical beaker” often used to confine molecules in ultra-cold chemistry.
+“We're not really confining the molecules that we're examining in physical objects like typical chemists would do in test tubes and beakers, since if you put something that's only a billionth of a degree above absolute zero in any physical object that's not at that temperature, it will quickly heat up the whole thing and your reaction is toast,” Liu said. “The nice thing about light is that it won't heat up the molecules.”
+Liu said researchers realized that light was “doing something bad to the reaction,” causing some of the reaction molecules of ultra-cold potassium and rubidium to simply vanish and not form the expected products.
+“When things are cold, microscopically it means atoms and molecules involved are moving very slowly, and that gives us a better handle on controlling them and interrogating them,” Liu said. “But it turns out in this case, as two reacting potassium-rubidium molecules collide, they form this very long-lived complex that lasts for about 360 nanoseconds, and during this time there is a chance for the very light that's confining these molecules to perturb them.”
+The researchers found evidence that light was a “steering agent,” which altered the fate of the reaction intermediates by exciting the molecules to deviate from the normal reaction pathway and “leave a very small amount of normal product formation left,” per Liu.
+“Straightforward evidence for light doing something is that as we vary the intensity of the light, we see that the reaction can be turned on and off essentially,” Liu said. “So if you don't have light, if you're reacting in absence of light, then you're going to see the products coming out no problem, just as they normally would.”
+While the researchers have not yet decided upon a new method for confining the molecules that will prevent molecular loss — as other currently available methods are still very technically demanding — Ni said this latest finding is an important step on the path to understanding chemical reactions on a quantum scale.
+“The project is being built layer by layer, and the more that we know, the more we are able to control the system and then build up and do the next thing,” Ni said. “Just as we now know that light is a problem that we need to address, our goal is to step-by-step understand our system really well so we can realize a quantum mechanical explanation of how chemical transformation from reactants to products occurs.”
+Ni also noted that while her lab has specifically focused on the reaction between potassium and rubidium molecules, she believes discoveries made by observing this reaction will be widely applicable or biologically-relevant chemical reactions, as well as fundamental reactions in quantum computing and cryptography.
+“The quantum mechanics theory we are developing, in principle, will be able to be applied to other systems, so if we can understand this reaction really well, we should also learn something universal,” Ni said. “That is really rewarding.”
+—Staff writer Meera S. Nair can be reached at meera.nair@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.

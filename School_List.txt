@@ -38,12 +38,12 @@ NA  University of Wisconsin, Madison (Madison, WI)
     University of Massachusetts, Amherst (Amherst, MA)
     Virginia Tech (Blacksburg, VA)
     University of Oregon (Eugene, OR)
-    University of Pittsburgh (Pittsburgh, PA)
+    N/A University of Pittsburgh (Pittsburgh, PA)
     University at Albany (Albany, NY)
     CUNY, Baruch College (New York, NY)
     CUNY, Hunter College (New York, NY)
     University at Buffalo (Buffalo, NY)
-    Florida Atlantic University (Boca Raton, FL)
+    ?Florida Atlantic University (Boca Raton, FL)
     Queen’s University (Kingston, ON)
     Temple University, Main and Ambler (Philadelphia, PA)
     University of Washington (Seattle, WA)
@@ -58,7 +58,7 @@ NA  University of Wisconsin, Madison (Madison, WI)
     California Polytechnic State University, San Luis Obispo (San Luis Obispo, CA)
     University of Guelph (Guelph, ON)
     Concordia University, Sir George and Loyola Campus (Montreal, QC)
-    University of South Florida (Tampa, FL)
+****University of South Florida (Tampa, FL)
     SUNY Rockland Community College (Suffern, NY)
     University of Maryland, Baltimore County (Baltimore, MD)
 
@@ -67,7 +67,7 @@ NA  University of Wisconsin, Madison (Madison, WI)
 ?   Tulane University (New Orleans, LA)
     George Washington University (Washington, DC)
     Touro College (New York, NY)
-    Yeshiva University (New York, NY)
+?   Yeshiva University (New York, NY)
     Cornell University (Ithaca, NY)
     Syracuse University (Syracuse, NY)
     Washington University in St. Louis (St. Louis, MO)
@@ -94,7 +94,7 @@ NA  University of Wisconsin, Madison (Madison, WI)
 ?   Yale University (New Haven, CT)
     University of Chicago (Chicago, IL)
     Claremont Colleges (Claremont, CA)
-    Harvard University (Cambridge, MA)
+****Harvard University (Cambridge, MA)
     Oberlin College (Oberlin, OH)
     University of Hartford (West Hartford, CT)
     University of Rochester (Rochester, NY)
@@ -125,18 +125,18 @@ NA  University of Wisconsin, Madison (Madison, WI)
 
 Note: This list is by percent and so may have undocumented repeats. 
 Prefer top two lists first.
-    Yeshiva University: 2,710 Jewish students, 100%
-    Jewish Theological Seminary of America: 147 Jewish students, 100%
-    Touro College: 2,909 Jewish students, 51%
-    Tulane University: 3,214 Jewish students, 41%
+    ?Yeshiva University: 2,710 Jewish students, 100%
+    ?Jewish Theological Seminary of America: 147 Jewish students, 100%
+    ?Touro College: 2,909 Jewish students, 51%
+    ?Tulane University: 3,214 Jewish students, 41%
     Brandeis University: 1,300 Jewish students, 36%
-    Long Island University, Brooklyn Campus: 1,200 Jewish students, 30%
+****Long Island University, Brooklyn Campus: 1,200 Jewish students, 30%
     Sarah Lawrence College: 450 Jewish students, 30%
     CUNY, Brooklyn College: 4,000 Jewish students, 28%
-    Barnard College: 850 Jewish students, 28%
-    George Washington University: 3,000 Jewish students, 27%
+    ?Barnard College: 850 Jewish students, 28%
+****George Washington University: 3,000 Jewish students, 27%
     Queens College: 4,000 Jewish students, 27%
-    Washington University in St. Louis: 2,000 Jewish students, 26%
+    ?Washington University in St. Louis: 2,000 Jewish students, 26%
     Binghamton University: 3,700 Jewish students, 26%
     Goucher College: 300 Jewish students, 26%
     Clark University: 578 Jewish students, 25%

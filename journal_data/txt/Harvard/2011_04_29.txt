@@ -1,0 +1,524 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Think for a moment about your bank account password. There's a good chance it's a string of letters and numbers you know by heart, could type in your sleep, and have been using for years. You probably use it for at least one other website, too—a security study last year found that 73 percent of people use their bank password elsewhere.
+Now imagine this: What if just one of those websites was hacked and your password was stolen? How much of the rest of your private life would suddenly be blown open?
+Earlier this week, Sony admitted that the security of its PlayStation Network, an online distribution and matchmaking system for the PlayStation 3 console, had been compromised. Hackers obtained 75 million addresses, passwords, email addresses, and answers to their security questions, and they may have even obtained credit card numbers and security codes.
+When a small company operating a large web service gets hacked, it's not a huge surprise. Dating websites eHarmony and PlentyOfFish.com, as well as blog website Gawker have all been hacked in the last six months. But the attack on Sony is a sign that even a huge, multinational company can have trouble keeping personal data safe. Harvard is hardly immune: in 2008, someone broke into a GSAS website and may have taken applicant Social Security numbers.
+Sony plans to keep its network offline as long as it takes to tighten security. However, there are plenty of other low-security websites that hackers could target, and they could use the passwords stored there to unlock other services. Encrypting the passwords might prevent some hackers from reading them, but any encoding system can be decoded, as the Gawker case showed.
+For years, a solution to the stolen password problem preached by IT professionals was for users to pick a different password for every service and change them often. But strong passwords with numbers and letters and mixed cases are hard to remember, especially if there are a lot of them and they keep changing, so people don't always use them. Worse, companies have long barred their employees from writing down work passwords, saddling users with an even greater memory burden. It's not surprising that over 3,000 users Gawker users had "123456" as their password.
+Realizing that no one could possibly remember 68 different strings of garbled nonsense, a Microsoft security guru suggested in 2005 that people should be allowed to write down their passwords if it helped make each one stronger. But storing all of your passwords in a Rolodex means someone who robs your desk can easily empty your bank account, too.
+The reality is that passwords are a flawed model for security, and we use them only because they're easy to set up. In addition, passwords have many hidden costs, both in additional support staff (40 percet of help desk calls are for lost passwords) and lost productivity. There is also the time spent logging in. Take a simple back-of-the-envelope calculation about the Harvard authentication process: Typing in my HUID and password and waiting for the page to reload only takes 10 seconds, but if I multiply that by the average number of times I do this per day (about four) and the number of days in the year I visit a Harvard website (about 180) times my four years in college, it adds up to eight full hours of my life I'll never get back.
+Security experts have recently advocated two-factor identification systems, which pair a password with something physical, like an ID card or a one-time access code sent to a mobile phone. That is, pairing something you know with something you possess. Google added an optional two-factor login for Gmail earlier this year. It's true that two-factor authentication increases security. But the process of authentication doesn't need to be made more complicated, it should be simpler.
+One solution has been known for years: biometrics. The term is a catch-all for procedures that act on some aspect of the human body, from fingerprint and retinal scanners to systems that analyze gait or typing pattern. Biometrics as they now stand suffer from a host of problems, including the fact that they can be slow, they can't be canceled and re-issued when stolen, or that they might encourage thieves to steal body parts.
+However, it is easy to imagine a solution that gives users the option to use non-invasive biometrics, conventional passwords, or two-factor systems alone or in tandem, achieving greater security for everyone while also providing greater ease-of-use for those who desire it. Many laptops now ship with fingerprint scanners or facial recognition software, and manufacturers will gladly standardize these features, as well as provide more, if the market demands it.
+There is no magic bullet that will secure the internet in one step, but the current password framework is broken, and it won't take many more attacks like Sony's before everyone realizes it.
+Adam R. Gold ‘11 is a physics concentrator in Adams House. His column appears on alternate Fridays.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A cartoon competition designed to raise awareness about environmental issues—whose prizes are gift cards and iPods—sounds as garishly ironic as an article in “The Onion.” 
+Not so if you’re an employee of the Resource Efficiency Program. REP, evidenced by its annual CERtoon cartoon competition, is apparently convinced that the awareness raised by an assemblage of cartoons about already widely recognized environmental issues will more than make up for the environmental damage generated by the production and consumption of an iPod touch, $250 in American Express gift cards, and over a dozen gift cards to restaurants and retailers. “Plastic is not fantastic,” one of last year’s winners proclaims—a decidedly peculiar slogan to enter in a contest whose first prize is an item that is made, in large part, of plastic. 
+Most significantly, this phenomenon sheds light on a fundamental problem within some of the most visible environmental groups on campus: They focus on trendy, alluring campaigns rather than those that strike at the roots of environmental issues. 
+In a similar vein, Green ’14, a student group that runs under REP and is designed to engage environmentally conscious freshmen in green initiatives on campus, embarks on a wide array of projects aimed at boosting the College’s sustainability but in reality accomplishes far less than one would expect. Last semester, Green ’14 distributed hundreds of free mugs to members of the class of 2014 in order to curb consumption of disposable paper and plastic ware. Unfortunately, this initiative has resulted in dozens of identical, abandoned mugs accumulating dust on the racks in Annenberg, and it is questionable whether the mugs have saved more waste than they have generated.
+But striking at the root of an environmental issue is much easier said than done. This semester, REP and Green ‘14 were asked to support a project that would push HUHDS to switch to exclusively cage-free eggs, which are significantly more environmentally sound than eggs produced in battery cage facilities and are championed by virtually every national and Harvard-wide environmental organization. Their response? An apologetic refusal—though many members of the groups are personally in support of the project, it seems that they are officially unable to endorse it because they receive a portion of their funding from HUHDS and probably do not feel comfortable petitioning against it. 
+These organizations (and others, including the Food Literacy Project) not only receive significant funding from HUHDS, but are also overseen by the administration of Harvard College. Initially surprising to me, the groups’ refusal to support the cage-free initiative is symptomatic of a much larger problem at Harvard. Our most visible environmental organizations work tirelessly to come up with feasible solutions to environmental problems, but when they are presented with an opportunity to support a colossal step toward sustainability at Harvard, they often cannot do so because they have their hands tied by the fear of losing institutional funding. 
+Fortunately for us, the opinions of students are often enormously influential in shaping institutional policies. For instance, HUHDS switched about a quarter of its eggs to cage-free in 2007 as a result of an unwavering display of student support. Environmentalists at Harvard, particularly members of environmental groups that rely on Harvard’s funding, should similarly make it clear to our administrators that they are unwilling to be stifled by institutional interests. 
+While environmental organizations’ receipt of funding from HUHDS is not inherently problematic, it becomes problematic when it entails a fundamental compromise of the goals and principles of an environmental protection group. Students in these organizations have already demonstrated a passionate commitment to the environment, and HUHDS should respect this commitment by issuing a guarantee that their funding is not contingent on an unconditional espousal of HUHDS’s policies—for the sake of intellectual freedom as much as for our planet.
+ 
+Marina N. Bolotnikova ’14, a Crimson editorial writer, lives in Wigglesworth Hall. 
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In March, Bakhtiyar Hajiyev ’09 marked his 29th birthday from an Azerbaijani jail, charged with dodging compulsory military service. He has remained incarcerated for two months and been denied release from detention while awaiting trial. In a letter smuggled out of his cell, Bakhtiyar claims to have been beaten, threatened with rape, and denied contact with family and (initially) even legal counsel. This treatment has drawn condemnation from U.S. Senators and the State Department to European Parliamentarians to dozens of Harvard faculty members.
+In Azerbaijan, politically motivated detentions are tragically normal, but this specific case has stirred international attention due to Bakhtiyar’s status as a well-known dissident, parliamentary candidate, and youth organizer.  It has also stirred me personally, because I know Bakhtiyar, who was in my class at the Kennedy School (MPP ’09), to be a peaceful and honorable man—as well as one who loves his country.
+Of course, were there no compulsory military service in Azerbaijan, or had Bakhtiyar previously served, he would probably still be in prison. Hundreds of Azerbaijani dissidents, even simple protesters, have been arrested since Tunisia’s “Jasmine Revolution” first placed Islamic autocrats on guard. The charges used to hold them have ranged from the vague (“sedition,” “behaving dishonorably”) to the outright absurd (“using of abusive words”). Yet with Bakhtiyar the Aliyev Government has cultivated an illusion of legitimacy by focusing on his status as a conscientious objector, which is treated as a criminal offense in Azerbaijan.
+The legality behind this charge is wrong. In 2002, Azerbaijan changed its constitution as a necessary concession for membership into the Council of Europe such that a viable alternative to military service would be assured to the conscientious objector. That the Azerbaijani government has failed to honor this provision, does not change the fact that a constitutional right to an alternative exists—and is being illegally denied.
+The story of Bakhtiyar’s detention has meaning that extends far beyond Azerbaijani government issues. This Azeri dissident represents something important about what the phrase “Harvard community” means. His story is relevant because of what it says about our own.
+I am Venezuelan, and, following graduation, I decided to return. Like Bakhtiyar, I worked for a weak opposition attempting to legitimize itself under the shadow of entrenched autocracy. Directing entrepreneurial development in one of the country’s worst slums was incredibly challenging—at times rewarding, but more often frustrating. I witnessed corruption on both sides that made me question what I was doing there. I was kidnapped once for ten hours and beaten. I was assaulted and threatened. In far less time than I would have thought possible, I got tired of being scared. I left.
+So while I still care deeply about Venezuelan issues, I do so from Chicago, where I get paid to analyze the constitutions of countries I have never visited. This summer, I will be an associate at Goldman Sachs. This is not to say that I regret any of the decisions that have brought me here. I like my life. I do work that I believe is interesting and important. I would likely make the same choices again. And yet, when I think of Bakhtiyar in prison, and consider the similarity of our paths at the outset, the contrast is daunting.
+As Harvardians, we are blessed with many options upon graduation. And while it has been said that we can do anything, we cannot do everything. Balances and compromises have to be reached between financial stability, relationships, quality of life factors, and those greater causes that we care about: the ones in the essays we all wrote, and which got us through one of the toughest admissions processes on the planet.
+That’s why Bakhtiyar’s story illustrates something noble about Harvard, and about the Kennedy School in particular. At a policy school where students are wooed by the top consulting firms and investment banks, and tapped for the world’s most prestigious government positions, Bakhtiyar opted for the road less travelled. The road that many current students will consider and defer, the one that I started down and turned back from. This road led him to prison. We should each do what we can to help get him out. Not for anything that we owe him necessarily, or even that we owe Harvard, but for what we owe to our own causes and our own stories.
+At the Kennedy School, I took a class  requiring me to make a political speech before a roomful of our peers. I talked about Venezuela, taking some easy shots at the regime in exchange for some decent laughs and a decent grade. Bakhtiyar’s speech followed mine. It was long. Hesitantly optimistic in its way, but at the same time expecting no levity and offering none. In recent weeks, I have often thought about this speech, although I can remember very little of its content. I may not have been paying enough attention, or perhaps, knowing so little about Azerbaijan, I could not follow what was said. What I do remember was the disarming earnestness with which he spoke,  his soft-spoken passion and resolve. I hope to  ask Bakhtiyar someday about what he said in class that day, and whether he would still say it now. I like to think that he would.
+ 
+Daniel Lansberg-Rodriguez MPP ’09, a part-time pundit for the ComparativeConstitutions Project and amateur pitiyanqui, is based at the University of Chicago Law School.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+We’ve said it before, and we’ll say it again: Thank you, Donald Trump! 
+In a time when no one except the crazies fought for the truth about Obama’s place of birth, you gave a legitimate (and, if we may say so, beautiful) face to an important question. Admittedly, it was a bit of a setback to see—as far as we know—that Obama was really born in the United States, but that is just one more reason to be thankful for the fearless and experienced leader that we have in you. Why stop at questioning the President’s place of birth? You’re just getting started. Aren’t there many even more worrying areas of Obama’s life that jeopardize his ability to lead our country?
+You certainly think so. 
+This week, you alleged that Obama shouldn’t have been able to get in to Columbia and Harvard based on his grades. Although we regret your association of our esteemed institution with Columbia—which no one has ever been kept out of because of bad grades—we hope that you won’t be discouraged by the entirely unjustified amounts of criticism you’ve garnered, especially when there are so many more important questions to be asked. In the spirit of aiding you, the fearless truth-fighter with the double comb-over, we have come up with a list of questions that we would like you—and your team of hired professionals—to investigate.
+First of all, we are deeply troubled by the lack of transparency about Obama’s dog. The media paid a lot of attention to the purchase of Bo, the nautically adept Portuguese Water Dog and gift of the late “Senator” Edward M. Kennedy ’54-’56, a man who came to place a high premium on swimming ability (if you know what we mean). However, despite Bo’s potential for success in the water, there has been far too little scrutiny of his pedigree. After all, he’s…Portuguese?! Excuse us? This is America, not Spain’s ugly stepsister. 
+Furthermore, the President’s supposed “drug phase” in high school demands much more investigation. Obama claims to have experimented with drugs during his adolescence, but, really, what proof do we have? Has anyone asked the man to show them how to roll a joint? It is no secret that pot-smoking liberals constitute a core Democrat voting-bloc, and it seems likely that Obama manufactured this checkered past to appeal to voters. Besides, he has always seemed a little too much like a nerd to really pull off the druggie image. We demand a live-broadcast joint-rolling ceremony if the President wants anyone to accept that he has ever used.
+This sort of “cool-guy” image may have bought Obama a lot of support, but we have a problem with it in more areas than just the drug usage. Obama claims to love basketball, but we don’t buy it. The man grows arugula in his garden for God’s sake! Sure, there are pictures and videos of the President shooting hoops, but those can be faked. There is only one way for Obama to settle our doubts on this issue. He must take each member of The Crimson Staff on in a one-on-one game to 11, streetball rules.
+Obama has also used his image as a family man to his political advantage, but we know unforgivably little about his relationship with his so-called wife Michelle, only that the two “claim” to be married. Who can say for sure? Marriage certificates are forgeable, and since we have already discounted all forms of video evidence, the only way for Obama to prove to us that he is indeed married is to do a national wedding tour, renewing his vows in front of large audiences in cities around the country. But then, really, what would that say about the stability of his marriage if he had to travel the country renewing his vows? Pretty questionable if you ask us.
+While we’re at it, who are those children often seen in pictures with Barack and Michelle? Although we hesitate to demand viewing rights to a birth video, to whom do they really belong? And how can we can be sure?
+Going back to the issue of the Commander-In-Chief’s image, we are reminded of another former President who misled the country. Long shot though it may be, we can’t afford to have another FDR moment on our hands. President Obama must do a walking tour of the nation to prove that he has full use of his legs.
+We hope these questions and recommendations will prove helpful to you, Donald Trump, in your quest for truth. 
+After all, we can sympathize. 
+We’re all about Veritas. 
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+An FM Sketch.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Susan B. Marine, assistant dean of student life and the director of the Harvard College Women’s Center, will leave Harvard at the end of June to become an assistant professor and program director of the higher education program in the Graduate School of Education at Merrimack College.
+Marine, who described herself as “the head woman of Harvard” at a meeting of the BGLTQ Working Group on Wednesday, has been a catalytic force during her nearly nine years at Harvard.
+In addition to co-chairing the working group—whose recommendations led to, among other things, the creation of the director of BGLTQ student life position announced this week—Marine was the founding director of the Office of Sexual Assault Prevention and Response and the founding director of the Women’s Center.
+“She is very supportive and genuinely concerned about students’ interests,” Matthews K. Mmopi ’11, an intern at the Women’s Center, said of Marine. “I was very lucky to have her as a boss, as a mentor, and as a friend.”
+After Marine leaves the College on June 30, Assistant Director of the Women’s Center Gina Helfrich will assume her role as director on an interim basis.
+According to an email sent to College staff by Dean of the College Evelynn M. Hammonds, Harvard has already begun a search for a new assistant dean of student life to fill Marine’s role.
+“Susan has demonstrated a remarkable ability to create programs, and to build a strong foundation of support for students,” Hammonds wrote in her email. “The offices for which she served as the founding director have become important resources that are integral to today’s undergraduate experience.”
+Marine came to Harvard in 2002 when she was appointed as a consultant to the Committee to Address Sexual Assault at Harvard.
+During her time with the University, she has taught at the Extension School and served on the Board of Directors for the Harvard Gay and Lesbian Caucus.
+As an assistant dean, Marine helped with the evaluation of College’s specialty tutor program and launched Sustained Dialogue—a program encouraging students to discuss issues like class, race, religion, gender, and sexuality.
+At Merrimack, Marine will teach courses on higher education and community involvement and will help create a curriculum for graduate students pursuing a master’s degree in higher education.
+“Susan Marine is perhaps one of the most remarkable people I know,” Dean of Student Life Suzy M. Nelson wrote in an email. “This is a great opportunity for her, but a real loss for Harvard.”
+—Julie M. Zauzmer contributed reporting to this story.
+—Staff writer Hana N. Rouse can be reached at hrouse@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Three weeks after being captured in Libya, freelance journalist and Harvard graduate Clare M. Gillis was allowed to make a second phone call home Tuesday morning.
+“She sounded good and is eager to be released. Perhaps in a couple of days,” Jane Gillis, Clare’s mother, wrote on the Facebook page “Friends for the Release of Clare Gillis.”
+She also said that her daughter has been given chocolate, perfume, cigarettes, and English books, including “Animal Farm” and “The Hunchback of Notre Dame.”
+According to The Atlantic, diplomats and humanitarian workers have not been allowed to visit Gillis in jail, though her mother said in an interview last week that the Turkish ambassador to Libya has been trying to secure a visit to journalists held by Libyan authorities.
+Gillis, who was working as a freelance reporter in Libya, was captured outside the city of Brega on April 5 by forces loyal to Muammar Gaddafi. She was kept at a government detention center in Tripoli until last Tuesday, when she was moved to a women’s facility and has remained there since.
+She first made contact with her family last Thursday, telling her parents that she has been treated well by Libyan authorities and that she has interacted with the other women at the facility.
+It was previously believed that three other journalists travelling with Gillis were also detained. They include James W. Foley, an American freelance contributor to GlobalPost.com, Manuel A. Bravo, a Spanish photographer, and Anton Hammerl, a photographer who has dual citizenship in South Africa and Austria.
+But according to the Associated Press, Hammerl was not detained with the other three and is likely being held in another jail or on a military base.
+Foley and Bravo were allowed to call home last Saturday and said that they are in good shape. GlobalPost reported last week that the Libyan authorities have informed the South African government that Hammerl is alive and well and will be allowed to contact his family soon.
+—Staff writer Heng Shao can be reached at shao@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard Law School research fellow Lobsang Sangay has been elected the prime minister of the Tibetan government-in-exile.
+Sangay was the first Tibetan to graduate from the Law School. A Fulbright Scholar, Sangay earned both his J.D. and LL.M. at Harvard Law School and researched in the East Asian Legal Studies Program.
+Though he was criticized for comparing himself with President Obama and for his little experience in government, Sangay was the front-runner throughout the campaign, eventually garnering 55 percent of the vote and beating out two other candidates. In an interview with The Crimson this February, Sangay said that he was ready to make the necessary sacrifices that will come with being the prime minister, including moving to India, where the government-in-exile’s headquarters are located.
+“It’s a duty for a cause, for a movement. I’ve always worked for Tibet and the Tibetan people,” Sangay said. “These are minor challenges compared to the sacrifices made by Tibetans in Tibet.”
+Law School Professor William P. Alford said that Sangay was “stepping up” during an important historical moment in Tibet’s history.
+Alford, who served as an advisor for Sangay’s doctoral dissertation and directs the program for which Sangay was a research fellow, said that with the retirement of the Dalai Lama, the next few years will see a large transformation in the Tibetan community.
+“Intellectually he expanded his horizons here, and studied history of many other societies, studied political science, studied about leadership, about [the] role of the legal institutions,” Alford said. “He comes out [of the Law School] with strong intellectual resources, [and] he’s really developed himself in substantial ways.”
+Sangay’s classmates describe him as an individual capable of bringing together people of different opinions.
+Leia Castañeda Anastacio, a research associate at the Law School in the East Asian Legal Studies Program, who took a class with Sangay, characterized him as “funny,” “considerate,” and “laid back,” adding that he had an unlikely close friendship with a classmate from China.
+Sangay noted that the Law School gave him opportunities to discuss the problems Tibet faces with a wide variety of scholars who come from different backgrounds.
+“Exposure to diverse views, ways of thinking, and how leaders conduct themselves have definitely helped me become both an individual and an academic, as well a leader,” Sangay told The Crimson in February.
+—Staff writer Caroline M. McKay can be reached at carolinemckay@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Ted Cox, a journalist and activist, described what he views as the absurdity of religious camps aimed at turning gay people straight to a full room at the Graduate School of Education yesterday.
+In his capacity as an undercover journalist, Cox—a self-described former Mormon and a current atheist—attended three such camps to gain an inside look at the highly controversial organizations.
+Cox said the organizers of these camps view homosexuality as a choice and something that one can give up. This view, Cox said, includes heavy overtones of sexism.
+“We are going to make you a man. We are going to make you masculine,” he said the camp leaders told participants.
+In one of the event’s lighter moments, Cox recreated a point at a camp when participants were told to sit together in one anothers’ laps in what Cox described as “the motorcycle position.”
+As audience members demonstrated the position, the lights were dimmed, and participants sang along to music, Cox said that activities such as the motorcycle position are designed to allow gay men to feel male affection in a non-sexual setting, despite the seemingly homoerotic nature of the position.
+In another light-hearted moment, Cox addressed the Bible’s portrayal of homosexuality by showing a slide show of Lego people to represent the biblical story of Sodom and Gomorrah. He argued that the story was in fact intended to show the lower value of women rather than explicitly condemn homosexuality. According to Cox, while the Bible includes statements against homosexuality, Jesus never says anything in the Bible regarding homosexuality.
+“I was so disturbed by what I saw. I was done. I got out. I stopped,” he said in reference to his feelings after attending his third camp.
+Vincent Cervantes, an author who attended several camps in an attempt to change his orientation, shared his experiences after Cox’s presentation.
+“I was so desperate to change, I agreed to go through a deliverance,” Cervantes said.
+This “deliverance” took the form of four men standing around him and praying the “evil” out of him. At one point, Cervantes said he fell into convulsions on the floor while speaking Latin.
+This experience, Cervantes said, made him realize that he could not change.
+“They’re great for helping people come out,” Cox said of the camps. “People can say, ‘I did try to change but I was unable to.’”
+—Staff writer Justin C. Worland can be reached at jworland@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Five workers at a hotel owned by HEI Hotels & Resorts—a corporation in which Harvard has invested—claim that they were unjustly fired after complaining about poor working conditions and cooperating in a California state investigation into the company.
+Unite Here Local 11, a branch of the same union that employs Harvard University Hospitality and Dining Services workers, is criticizing HEI for their labor practices. According to Unite Here Local 11 officials, the workers have been trying to unionize for over a year.
+Harvard’s Student Labor Action Movement is calling for Harvard to not reinvest in HEI in the coming year, and estimates Harvard’s current investment in HEI at about $70 million.
+Unite Here and SLAM have criticized HEI in the past for what they have called “union busting” practices.
+Leigh Shelton, a spokesperson at Unite Here, said that the women were subject to unpredictable hours and were treated as “underclass employees.”
+“It doesn’t seem very legal to me, but I’m no lawyer,” Shelton said.
+Ken Melinie, director of human resources for the Hilton Long Beach, said in a statement to the Los Angeles Times Wednesday that the five women were employed by an outside agency. He said that the hotel ended their contract with the agency, which resulted in the women no longer working at the hotel.
+“We’ve not terminated any people here,” Melinie said.
+Shelton said that HEI’s statement did not seem plausible to the members of Unite Here.
+“We don’t buy it,” she said. “Everything happened at Hilton—they were hired by the Hilton, they collected their paychecks at the Hilton, they had the exact same work as full time workers at the Hilton. It’s a real stretch to say that they weren’t employees of the Hilton.”
+SLAM members were highly critical of Harvard’s continuing investment in the company.
+“Such exploitation of temporary workers is despicable,” said SLAM member William P. Whitham ’14. “Through its significant investments in HEI, Harvard is ultimately complicit in this undemocratic policy, which runs counter to the University’s standards of social responsibility.”
+Shelton also called for Harvard to reconsider its investment in HEI.
+“We would encourage Harvard to take a long, hard look at HEI’s ethical practices and a hard look at the legality of the way that they handled things,” she said.
+—Staff writer Mercer R. Cook can be reached at mcook@college.harvard.edu.
+This article has been revised to reflect the following correction.
+CORRECTION: MAY 1, 2011
+The April 29 article "Students, Union Call For Harvard to Divest from HEI" incorrectly said that workers at an HEI hotel were paid below minimum wage. Leigh Shelton, a spokesperson for Unite Here, misspoke about the wages paid to workers.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+“From the mountains you can see all the way to the sea on a clear day,” says Beatrice H. N. El-Hage ’11, a half-Lebanese senior planning to work in Lebanon for the next two years. “On a cloudy day, you’re literally above the clouds. It’s like you’re in heaven.”
+But Lebanon is on the “travel warning list” issued by the U.S. Department of State, so the University does not fund undergraduate travel to Lebanon or provide credit to students studying in that country.
+El-Hage says that as a result, she did not receive funding or credit for summer courses she has taken in Lebanon.
+In order to protect its individual travelers and itself as an institution, the College follows State Department advisories to determine whether to support student travel to countries in question.
+“We, as an institution, have both a moral and a legal responsibility to undergraduate students that’s different from and higher than the level of responsibility that we have to graduate students or faculty and staff,” says Todd S. Washburn, assistant provost for international affairs.
+STRIKING A BALANCE
+“It would be both intellectually wrong and, frankly, legally foolish for us to look at a map of the world and make a decision,” Washburn says.
+“We need to rely on an organization that has the capacity and expertise. That’s not to say that its [the State Department’s] judgments are above question. It’s just to say, we’re relying on an external expert to advise us and we’re not making separate decisions,” Washburn adds.
+But some students say that relying on State Department policy does not allow for consideration of individual student circumstances.
+“I’ve been going to Lebanon for almost every past summer and would have liked to receive credit for studying at the American University of Beirut,” El-Hage says.
+She says she thinks a release form with the parents’ consent should be enough if there is an awareness of the situation in a country and knowledge of the possible implications of traveling there.
+The College's policy does support students traveling to be under their parents’ or guardians’ care, but since El-Hage’s parents live in the U.S., that option was not available to her.
+Felix de Rosen ’13, an avid traveler who has been to Ethiopia, Somaliland, the Palestinian Territories, and Yemen in the past couple of years, says that based on his travel experiences, Harvard’s policy could be improved.
+“One of the problems I have with Harvard’s policy is that it doesn’t [always] make a distinction between a country and the different parts of a country or, in fact, if there are countries within a country,” says de Rosen, pointing to his travels to Somaliland, which he considers a safe region in the otherwise tumultuous state of Somalia.
+“It’s tricky because Harvard wants students to understand this world and go out there and be active, but not in certain regions,” says de Rosen. “For me, places where few people have been are places where there is the most to learn.”
+Washburn cites the College’s need to ensure student safety.
+“We try to strike the right balance between letting our students do all the good and interesting things that they want to do but also fulfilling our, what we call, duty-of-care responsibility to them,” Washburn says.
+CLEAR AND STRAIGHTFORWARD
+“Any time we’re making a decision about what our policies and goals are, the guiding principle is this question: what would a reasonable person expect of an institution like Harvard?” Washburn says.
+Before 2003, any country on the travel warning list was considered off limits for support.
+But Washburn says that the policy seemed overly restrictive in principle and in practice.
+In 2003, Jane Edwards, the former director of the Office of International Programs, changed the policy to make it more practical.
+Today, the University interprets certain language in the warning to determine whether Harvard will fund students or provide credit for their travel to certain countries or regions on the list.
+“The wording is purposely chosen because there are certain categories of wording that imply a higher level of security concern than not,” Washburn says.
+Language in a warning such as “orders departure of U.S. dependents and non-emergency personnel,” “recommends that any U.S. citizens remaining in the country should depart,” and “(strongly) warns U.S. citizens against (all) travel to the country,” prohibits students from receiving Harvard sponsorship for activities abroad, according to the Harvard policy.
+“Our policy is clear and straightforward. This is policy for dummies,” Washburn says.
+Countries with warnings of a lesser level may be excluded from this prohibition, though caution is strongly advised if a student chooses to travel to such a country.
+An “assumption of risk and general release” form with the parent’s or guardian’s signature is required from students who intend to travel to countries where a warning does not elicit Harvard sponsorship prohibition.
+In addition to travel warnings, the College will examine the wording of travel alerts, which, according to the State Department’s website, explain “short-term conditions, either transnational or within a particular country, that pose significant risks to the security of U.S. citizens.”
+Withholding of Harvard sponsorship can occur until the day of departure. If a warning is issued while a student is already in the country, the College may ask students to leave the country or help evacuate them through International SOS, which provides emergency evacuation assistance for Harvard affiliates abroad.
+Rayman Aryani ’12, the former vice president of the Society of Arab Students, was in Tunisia on a SAS recruiting trip when the recent revolution occurred.
+“Harvard showed a lot of care when they found out we were stuck in the country [and offered] sending a chartered plane to fly us out,” Aryani wrote in an email to The Crimson.
+But Aryani and his peer Michael I. Khayyat ’12, who was also on the SAS trip, were able to catch a flight out of the country.
+THIS SUMMER ON THE LIST
+“You can go to Israel, if you’d like,” the College told El-Hage when she asked if she would receive credit for studying Arabic in Lebanon.
+Israel is an example of a country with a standing travel warning for which Harvard will still support student travel.
+The State Department “warns U.S. citizens of the risks” in traveling to the region, but Harvard is sponsoring two study abroad programs through the Harvard Summer School in Israel.
+“The wording in the travel warning for Israel is that of the second category, so this is consistent with Harvard’s policy,” Washburn says.
+Daniel J. Granoff ’14, who will be in Israel this summer with one of the two Harvard programs, says he felt comfortable traveling to Israel despite the travel warning.
+“If there was any substantial danger, the program would have been canceled,” Granoff says.
+In other countries on the travel warning list, Harvard will support travel to certain regions or cities in the country that are deemed safe by the State Department.
+After the travel alert issued on April 14 for Japan replaced the previously issued travel warning, Harvard decided to provide funding and/or credit for travel to Kyoto, Japan.
+The David Rockefeller Center for Latin American Studies coordinates study abroad programs in Mexico—for which a warning of a lesser degree is in effect.
+According to Halbert M. Jones ’99, senior fellow of the Mexico and Central America Program at the DRCLAS, the center works with a local university in planning for its Summer Internship Program in Sustainable Development.
+Jones says the center “works with local partners at the [Tecnológico] de Monterrey, a leading Mexican university, to ensure the program participants will be in a safe environment.”
+In 2010, rising levels of violence in the west-central state of Michoacán led the State Department to recommend the deferral of non-essential travel to the region. As a result, the center reassigned students to other program sites in Mexico.
+More recently, the upheaval across much of the Arab world has forced some students to reevaluate their plans.
+Catherine H. Winnie, director of the Office of International Programs, wrote in an email that some students on post-graduate fellowships have had to change their plans.
+“In those rare cases, the College does its utmost to ensure the student’s safety and assist him or her with the cancelation or departure plans,” she wrote.
+“I think we’ve got it close to right,” Washburn says.
+—Staff writer Shatha I. Hussein can be reached at shatha_hussein@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Sixty Harvard Graduate School of Education students gathered outside of a faculty meeting for a second time last Monday to protest an April 12 decision to deny tenure to Ed School professor Mark R. Warren, who specializes in community organizing and school reform.
+The group has claimed that the rejection is one of a long string of incidents indicating that the Ed School is narrow in academic focus.
+“It seemed to us that this was a historical trend where HGSE has deliberately pushed out certain kinds of perspectives from its faculty ... on issues of race, class, and gender,” said Houman D. Harouni, a doctoral student at the Ed School and one of the 20 students who have prepared documents and research to back up their claims.
+According to doctoral student Meredith L. Mira, who was an advisee of Warren’s, the research he has conducted is vital to education reform.
+“Most of the education reform work that happens in the realm of education today is happening from a top-down perspective,” she said.
+“What’s equally important are the voices on the ground.”
+Warren has published several books that analyze how the social forces in communities succeed in reforming their educational systems, and according to Mira, he is a foremost scholar in the field.
+“There are many students who have come to the Graduate School of Education to exclusively study with Mark,” she said. “Mark’s departure would leave a gaping hole.”
+But Ed School Dean Kathleen McCartney said that she believes the areas of study in question are already well covered. Though she could not comment on the matter of tenure due to confidentiality concerns, she said that the school is doing its best with a small faculty to provide students with diverse scholars.
+“I actually think that the study of social justice as an area of inquiry is stronger than many other areas within the school,” McCartney said. “I don’t want to privilege some areas over others.”
+The possibility that Warren might leave Harvard is one of the group’s main concerns. Harouni said that he believes tenure represents stability and a sense of community, as tenured professors are able to take part in the Ed School’s decision-making process.
+“If you’re not tenured, you’re not part of the greater conversation regarding the direction of the school,” he said. “Usually what it means is that professors who don’t get tenure end up leaving.”
+According to the documents released by the students, seven former professors left the Ed School after being denied tenure or to find a more accommodating academic environment. The students claim that these and other incidents are part of a larger trend—a failure to address the needs of students who study diversity, equity, and justice within the Ed School administration.
+Doctoral student Liliana M. Garces also said she believes these events send the message that junior faculty whose work involves social justice are not valued by the school.
+“Is this really a place where these issues are valued, or is it just a revolving door?” she said.
+According to McCartney, in the past 30 years only about 20 percent of Ed School faculty have received tenure. In her open letter to the community released on Wednesday, she mentioned four professors that were hired to teach in the areas of diversity, equity, and social justice.
+One of these professors, Meira Levinson, who researches the effect of race and class on the achievement gap, said in an emailed statement that “students are right to be concerned.”
+Levinson added that she believes the school has already attempted to address these needs, especially in its search for another professor whose work is similar to Warren’s.
+But Levinson also said that if Warren leaves, the school will suffer a loss.
+“Mark is the leader in studies of community organizing and education,” she said. “It would not make sense for us to try to recruit his exact replacement.”
+So far, Warren has not taken part in any of these demonstrations, but he said in an emailed statement that he was disappointed that he did not receive tenure.
+“I believe that the work I do on community organizing makes an essential contribution to addressing the problems facing our public education system and I am disappointed that it does not have a place at Harvard,” he said. “I appreciate all the support I have received from students, scholars, and educators here at Harvard and across the country which I believe is testimony to the importance of this work.”
+Mira said that the students hope Warren’s case will be moved to the provost and president’s offices to be appealed, and that she plans to participate in a future meeting with McCartney to discuss the issue.
+—Staff writer Michelle M. Hu can be reached at michellehu@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Dean of Harvard College Evelynn M. Hammonds announced at a community meeting Wednesday night the development of new resources for BGLTQ students at Harvard, including the establishment of a full-time staff person and campus space dedicated to the BGLTQ community.
+“As a historian I want to say that the working group has made history and will make Harvard a better place for BGLTQ students going forward into the future,” Hammonds said, noting that the change will benefit Harvard as a whole.
+The decision was based on recommendations made by the BGLTQ Working Group, convened by Hammonds in October to assess BGLTQ experiences and needs at the College.
+At the same event, Assistant Dean of Student Life Susan B. Marine, who chaired the working group, described its evaluation process and conclusions about the lack of centralized and visible resources for BGLTQ students.
+Over several months, members of the working group hosted open forums and conducted a campus-wide survey completed by more than 400 respondents. The working group also examined the resources of 15 peer institutions with highly ranked BGLTQ resources, including Dartmouth, Princeton, and Yale.
+According to Marine, the working group found that Harvard offers a generally positive atmosphere for BGLTQ students, as evidenced by the 75 percent of respondents who felt that Harvard was “a good place to be openly BGLTQ.”
+However, Marine added that students sometimes find resources difficult to navigate. Students who are not out, are questioning their sexuality, or identify as bisexual have confronted additional challenges in finding resources, the working group found.
+“Better, more coordinated, and more visible support is vital for those folks,” Marine said.
+Sara Kimmel, a psychologist at University Health Services and director of the College’s residential BGLTS tutors, summarized the working group’s recommendations at Wednesday’s meeting.
+The first and second recommendations called for a full-time staff director of BGLTQ student life and the formation of a College-wide BGLTQ Advisory Committee, which will continue dialogue about BGLTQ student needs.
+The working group further recommended increased efforts to coordinate physical and mental health resources for BGLTQ students and the creation of a centralized website with information relevant to the BGLTQ community.
+“These implementations will expand the web of people students can know and identify as resources to them,” Kimmel said, noting that in the past students have been unsure whom to talk to about sexuality-related concerns.
+A final key recommendation is that the College review courses engaging with BGLTQ issues.
+Though Kimmel emphasized the important role of the Committee on Degrees in Studies of Women, Gender, and Sexuality in offering coursework on these topics, she said that the working group agreed that issues of sexuality and identity ought to be addressed on a broader basis.
+Hammonds, who received the recommendations in late March, announced that the new BGLTQ space will be housed on the lower level of Boylston Hall, occupying a lounge directly across from the WGS Committee.
+According to Hammonds, this will replace the student-staffed Queer Resource Center in the Thayer basement, and preparations for renovation will begin this summer.
+Hammonds said that a national search for the new staff person will begin immediately. She expressed hope that someone will be hired by January, but added that finding the right person will take precedence over that deadline.
+The ideal candidate would be attentive to how an individual’s different experiences intersect to influence their identity—which Hammonds termed “a deep awareness of issues of intersectionality”—as well as having experience working with BGLTQ student communities and teaching credentials, Associate Dean and Senior Adviser to the Dean of the College Paul J.McLoughlin II added.
+Co-Chair of Harvard Queer Students and Allies Marco Chan ’11, who served on the working group, said that student input must remain central to the decision-making process.
+“As a graduating senior, I want to ensure that there will be continued accountability and transparency in all the next steps,” said Chan, who added that the creation of a space came as a surprise to many BGLTQ students.
+“The community that these resources are helping needs to shape the outcome.”
+In commending the College’s changes to benefit the BGLTQ community, QSA Co-Chair Emma Q. Wang ’12, who also participated in the working group, noted that the recommendations extend to all members of the Harvard community, including those who do not identify as BGLTQ.
+“This is about changing the entire campus culture to make Harvard a place that affirms its students regardless of sexuality or gender identity,” Wang said.
+—Julie M. Zauzmer contributed to the reporting of this article.
+—Staff writer Nadia L. Farjood can be reached at nadiafarjood@college.harvard.edu.
+—Staff writer Alice E.M. Underwood can be reached at aeunderw@fas.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+As the deadlines for Expository Writing 20 final papers approach, freshmen in social science-themed sections are increasingly using surveys and interviews to conduct original research on the Harvard community.
+“This is a growing trend, certainly in the social sciences,” said preceptor James P. Herron, who teaches the Expos 20 section “Whiteness and Race.”
+Roughly three-quarters of his students chose to gather ethnographic data for their final research papers this semester, Herron said.
+Herron added that he thought this research method allows freshmen who are “intensely curious about Harvard as a place” to pursue their interest in the community.
+“Many students who come to Harvard are feeling their own identities shift,” he said. “They’re able to take ideas that have been developed in other contexts and look at them in their own social context.”
+Vipul S. Shekhawat ’14, a student in Herron’s section, said he chose to conduct original research for his paper because he thought “it would be most interesting to write about the community we’re in.”
+Over the past few weeks, Shekhawat—who is researching the perceived “whiteness” of extracurricular activities—has conducted six in-person interviews and collected over 200 responses from a survey he sent out over several House lists.
+The experience has been rewarding, he said.
+“This is information that no one has ever analyzed,” said Shekhawat, who is also a Crimson magazine editor. “It’s a great opportunity to write about something actually new.”
+Michelle N. Dimino ’14—who is researching student perception of the John Harvard statue for her Expos 20 section “Writing Culture”—has collected about 200 responses from a survey she sent out over four House lists.
+She said the process has been much more challenging than researching a traditional paper.
+“It’s a lot easier to look at already established sources,” she said. “It’s really different to be on the other side of things.”
+While data that do not reveal “an obvious pattern” can be frustrating for students who conduct original research, these anomalies can also lead to intellectual discovery, Herron said.
+“Often the surveys or the interview don’t yield the type of information that the students thought they were going to get,” he said. “And then they have to reconceive the question in a new direction.”
+Despite the surge of original research in social science-themed courses, Herron said he does not expect this method of research to find a place in the curricula of all Expos 20 sections.
+However, Herron added that he thought students in literary-based courses also conduct their own form of original research.
+“The only difference is in what counts as evidence,” he said.
+—Staff writer Rebecca D. Robbins can be reached at rrobbins@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Four years ago, the Radcliffe Rugby Football Club found itself near the bottom of Division I women’s college rugby, struggling to find enough players to field a complete team. It appeared that the program, which won the national collegiate championship in 1998, had come to its demise.
+Fast forward to 2011, and Radcliffe is now poised to return to its championship glory.
+Almost 15 years after its last run at the title, Radcliffe is back again.
+Boasting a roster of over 30 members, the team has advanced to the national semifinals of the Division II women’s college rugby tournament behind a tandem of experience and young talent.
+“We have some very experienced senior players and some amazing new freshman players,” sophomore co-captain Megan Verlage said. “The combination of those two, with some solid players in between, has been phenomenal and has pushed us to the next level.”
+Reaching the Final Four has left some members of the Radcliffe team in disbelief.
+“It’s been a surreal experience,” senior flyhalf Evan Hoese said. “I’m still shocked that we’re here, but it’s a good shock.”
+Hoese was recently named Harvard Club Athlete of the Year. Though honored by the distinction, the senior was more flattered by her nomination and recognition from her peers.
+“What meant the most to me was that our coaches and the president of our club would even throw my name in the hat,” Hoese said.
+Hoese, a four-year veteran of the team, remembers the days when Radcliffe was a non-factor on the rugby scene. She recounted playing games when a limited roster meant her team was forced to play one or two women down.
+But for her, those memories only make the team’s current success sweeter.
+“It means so much more that we fought our way through so much,” Hoese said. “We had to fight for respect from other teams. Now that we’re getting that respect, it’s really exciting.”
+The team’s biggest win yet this year came against Norwich University two weeks ago.
+Recent matchups have led to a rivalry between Radcliffe and the Cadets, and the quarterfinal contest only raised the stakes.
+Norwich took control of the game early on, leading for the first 60 minutes of play. With just 20 minutes left and the Cadets up 7-5, Norwich was poised to beat Radcliffe for the fifth consecutive meeting.
+Already, the Cadets had knocked the team out of contention for nationals a year prior and were positioned to continue its run of recent successes against the Radcliffe squad.
+But for a team that’s battled through incomplete rosters, a division change, and a lack of exposure, a two-point deficit 7-5 didn’t seem like a whole lot to overcome.
+In the game’s final 20 minutes, Radcliffe mounted a dramatic comeback, scoring 17 unanswered points to surge past Norwich and earn the lopsided victory, 22-7. For the underdog squad, months of hard work had finally come to fruition.
+“We had been training all winter and all last fall to be able to beat [Norwich],” sophomore scrumhalf Kellie Desrochers said. “Beating them to go on to the Final Four was special.”
+The combined efforts of Desrochers and Hoese were big for Radcliffe in its win over Norwich, and both will play an instrumental role in determining the team’s success for the in the rest of the tournament.
+“[Hoese and I] have to work together a lot,” Desrochers said. “The connection between the flyhalf and the scrumhalf has to be spot-on every time in order for us to get our offense going.”
+While Desrochers and Hoese have developed a bond because of their respective positions, others on the team say that the entire squad has become a tight-knit unit.
+“We really work together as a family,” Hoese said. “We hang out a lot outside of rugby and we appreciate everyone on the team, whether they just joined or have been playing for four years.”
+Radcliffe faces Western Washington University this weekend at Founders Field in Pittsburgh, Pa. Once again, the team will play the role of underdog going into the semifinals.
+“We’ve made it this far,” Verlage said. “We’re extremely confident and ready to win the whole thing.”
+—Staff writer Dominic Martinez can be reached at dmartinez@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The semester is coming to a close, and Harvard will be facing Yale on a Saturday afternoon in Harvard Stadium.
+The scene is familiar to Crimson faithful, but instead of football, this contest will pit Harvard (8-5, 2-3 Ivy) against the No. 14 Bulldogs (10-2, 3-2) in the men’s lacrosse regular season finale.
+“It’s Harvard-Yale; it’s in the stadium. It’s our biggest game of the year,” coach Chris Wojcik '96 said. “Add to that the Ivy League Tournament implications, and it’s definitely going to be an emotional game.”
+The Crimson is currently tied with Princeton for fourth in the Ivy standings and will advance to the Ivy League Tournament with a victory over Yale or a Brown victory over Dartmouth.
+If Harvard loses and Dartmouth wins, things get a little more complicated. The Bulldogs, currently in third, have already clinched their spot at the tournament, which No. 2 Cornell, the undefeated regular-season conference champion, will host.
+“There’s a lot of potential scenarios for advancing, but the only way we will know for sure is with a victory,” freshman Daniel Eipp said. “We want to control our own destiny; we want to blaze our own path.”
+A win would help Harvard in more ways than one. The Crimson would supplant Yale as the three-seed and avoid the home-field Big Red in the first round with a victory over the Bulldogs. Harvard lost to Cornell by one goal on March 5, and also fell by one to two-seed No. 15 Penn in double overtime on April 16. Four of the Crimson’s five defeats this season have come by one goal.
+“We’ve had a number of close games,” Wojcik said. “Losing by a goal is frustrating. But a lot of those games, especially against high profile opponents, have shown that our team can play with anyone.”
+Saturday also marks Senior Day for Harvard, and the team will say goodbye to seven members of the class of 2011, including All-American co-captain Dean Gibbons, who leads the squad with 49 points for the season. The group has gone 28-24 over the past four years.
+“We’re going to honor the seniors before the game,” Wojcik said.  “This is a special class for me. Back when I was an assistant coach here, I recruited these guys. They all mean a lot to me.”
+The senior class also has a strong supporting cast, punctuated by junior Jeff Cohen and Eipp, who have 29 and 22 points respectively. In net, sophomore goalie Harry Krieger boasts a .524 save percentage.
+“I can’t imagine playing without these seniors,” Eipp said. “We definitely want to keep this season going.”
+Yale is currently riding a five-game winning streak behind the play of senior Brian Douglass and Junior Matt Gibson. Douglass has 28 goals and 42 points on the season, including 14 during the streak.
+Similarly, Gibson, who is second on the team with 32 points, has 20 since the streak started with a victory over Providence on April 5.
+“They’re both really talented players,” Wojcik said. “Douglass really does it all; he’s the leader of their team and is really a complete player. Gibson, on the other hand, is their quarterback. They’re always looking for each other. Both have really good chemistry both with each other and with the rest of their team. We’re just going to do our best to try and limit their opportunities.”
+The November equivalent of Harvard-Yale is a much larger event on campus, but cannot boast the national relevance in its sport that Saturday’s game does.
+The Bulldogs are not only playing for a more secure seed in the Ivy Tournament, but also a potential bid to the NCAA tournament.
+The stakes are slightly lower for the Crimson, as its only shot at the NCAA’s comes with the Ivy League Championship. But the potential to play spoiler to its biggest rival remains a primary motivator.
+Especially after last year’s game, when Yale came back to win, 9-8, in New Haven.
+“We’re coming back for redemption,” Eipp said. “We’re going to come out strong and hopefully come away with a win.”
+—Staff writer Alexander Koenig can be reached at akoenig@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+If all else fails, Harvard women’s water polo can rely on the element of surprise to help it pull an upset this weekend at the Collegiate Water Polo Association Women’s Eastern Championships.
+The Crimson (15-13, 2-2 CWPA) enters the Bloomington, Ind., tournament as the sixth seed. The University of Indiana will host the CWPA Championships, which start today and continue into the weekend.
+But the team looks to finish much higher than that, catching its opponents off-guard with a whole new set of recently-implemented plays and formations.
+“We tried to create plays that the teams haven’t seen yet,” junior attacker Shannon Purcell said. “We’re going to surprise people with our new 6-on-5 and our new defense. Hopefully, they won’t really know what to do with that, and that will give us the upper hand.”
+Still, Harvard will need more than the element of surprise to upset the tournament.
+No. 6 Michigan, No. 12 Hartwick, and No. 13 Indiana will all join the Crimson at Eastern Championships to compete for the title and an automatic bid to the NCAA tournament.
+Of the 11 teams competing at the tournament, Harvard has faced all but three of them earlier this season and is 5-6 this year against the competitors that will be represented at Eastern Championships.
+The Crimson will play three or four games this weekend, beginning this morning with eleventh-seeded Gannon (9-16, 0-5 CWPA), one of the few teams in the field Harvard has not yet faced this season.
+Crimson coach Ted Minnis said he has not done much scouting on Harvard’s first-round competitors, but he aims to shut down the Golden Knights’ two primary attackers, juniors Colleen Harriger and Molly Andrews, who have a combined total of over 100 goals for the season.
+“I don’t know much about Gannon,” Minnis said. “We’ve come in with the mindset that we’re going to do what we do to start the game, and then we’ll adjust from there.”
+The Golden Knights’ low seeding and dismal record—they are 0-8 against teams represented in the tournament—make it tempting for the Crimson to overlook its opponent, according to junior goalie Laurel McCarthy. But she stresses the importance of giving equal weight to each game, given Harvard’s past.
+“We will need to stay completely mentally in the game all four quarters,” McCarthy said. “Sometimes, if we get up on teams, we let them sneak back into games. If we don’t get comfortable, we’re not going to let anyone back into a game with us.”
+Should the Crimson win this morning in the first round of play, they are slated to face the third-seeded Hoosiers, who beat Harvard, 14-8, only two weeks ago.
+Citing exhaustion following a busy week of competition, many of the Crimson players believe a second shot at the hosts would be a much closer competition than the first.
+“When we played Indiana it was at the end of [a] long weekend, and even then, we played with them,” McCarthy said. “I think they will be very confident. They’re playing at home, and they already beat us, [so] I think they’re looking past us. I don’t think any one of us is focusing on that last loss.”
+According to Minnis, aside from improving its transition defense, minimizing errors will be a crucial change for Harvard in this rematch.
+“They’re No. 13 in the country, and that’s what good teams do—they capitalize on your mistakes,” Minnis said.
+At this point last season, the Crimson headed into Eastern Championships seeded seventh and finished eighth.
+Harvard views this year’s higher seeding as indication of its success so far this season.
+“It shows how much improvement we’re making as a program,” said Purcell, who leads the team with 43 assists. “We’ll continue to improve as time goes on, but this weekend, we have to come out with intensity and play at our level. If we can do that...I think we’ll be unstoppable.”
+—Staff writer Patrick Galvin can be reached at pgalvin@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard alumni often end up competing in many fields post-graduation. Recently, there was the rift between Conan O’Brien ’85 and Jeff Zucker ’86 at NBC. Shortly thereafter came the 2010 Massachusetts gubernatorial race between Deval Patrick ’78 and Charlie Baker ’79. And there was even the competition for best picture at the Oscars this year between Natalie Portman ‘03’s Black Swan and Matt Damon (class of 1992)’s True Grit, both of which fell to The King's Speech.
+Professional sports is not usually one of the arenas in which Harvard grads go head-to-head. But this season’s NHL first round playoff series between the Tampa Bay Lightning and the Pittsburgh Penguins featured a battle between two former Crimson hockey players, Craig Adams '99 and Dominic Moore '03.
+Wednesday night, Moore’s fifth-seeded Lightning eked out a 1-0 shutout victory in Game 7 of the series against Adams’ fourth-seeded Penguins.  It was Moore’s improvised, no-look misdirection assist from behind the net on Sean Bergenheim’s game-winning second-period goal that gave Tampa Bay the win.
+On the winning score, Adams was responsible for defending his former Harvard alumnus. After Moore pulled Adams away from the net, Bergenheim was left open, and Moore hit him with a perfect pass.
+"I thought I held the short side post long enough," Adams told the St. Petersberg Times. "I held it for a second, then saw [Moore] was going behind the net. Obviously I didn't hold it long enough."
+Moore played a major role in Tampa Bay’s series win after it fell behind, 3 games to 1. The former Crimson star had an assist and a goal in Saturday’s 8-2 Lightning victory in Game 5 and an assist in Tampa Bay’s 4-2 win in Game 6 before dishing off the game-winning pass last night.
+While playing for the Montreal Canadians last season, the center had key goals in game seven victories over the Penguins and Washington Capitals during the squad’s playoff run.
+“As a player, you look forward to playing in big games,” the center told Tampa Bay Online.  “You want to be playing your best at the right time of year.”
+The clutch performances have gained Moore a reputation as a big-game player around the league.
+“He wants the pressure,” Lightning coach Guy Boucher told the paper. “He loves it. In big moments, he doesn’t back down.”
+At Harvard, Moore had one of the most successful careers in Crimson hockey history.  The center won Ivy League Rookie of the Year in 2000, was named a First Team All-American in 2003, and was deemed a member of the ECAC All-Decade Team from 2000-09. The Toronto native played with his two older brothers during his freshman season—after which he was drafted by the New York Rangers in the third round (95th overall) of the 2000 draft—and ended his career tenth on Harvard's all-time scoring list with 64 goals.
+Since tallying three assists in his NHL debut with the Rangers in 2003, Moore has bounced around and had stints with the Penguins, Minnesota Wild, Toronto Maple Leafs, Buffalo Sabres, and Canadiens before joining the Lightning in 2010. The veteran had a successful regular season with Tampa Bay, appearing in 77 games and finishing with 32 points on 18 goals and 14 assists.
+Adams performed well throughout the series as well, scoring Pittsburgh’s lone goal in the Lightning’s 5-1 Game 2 win. Fox News went so far as to call the performance of the right wing’s fourth line during the series “remarkable.”
+The right wing was the ninth-round pick of the Hartford Whalers (223rd overall) in the 1996 NHL Draft, giving him the distinction of being the last player ever drafted by the former franchise. The right wing finished out his remaining three years of eligibility with the Crimson, completing his Harvard career with 29 goals and 33 assists before joining the Carolina Hurricanes in 2000.
+Since college, Adams has been a part of some of the NHL’s best teams. After a brief stint with the Anaheim Mighty Ducks, Adams returned to the Hurricanes in 2005 and was a member of the 2006 Carolina team that won the Stanley Cup.  After being traded to the Chicago Blackhawks in 2008, Adams was claimed by the Penguins the same year and won his second Stanley Cup with the team last season.
+In 2010-11, Adams appeared in 80 games for Pittsburgh, serving as an alternate captain and tallying 4 goals and 11 assists for 15 points.
+Together, Moore and Adams make up half of Harvard’s representation in the NHL. The other Crimson alumni are defensemen Noah Welch ’05 of the Atlanta Thrashers and Dylan Reese ’07 of the New York Islanders.
+But for now, after some Game 7 dramatics, it is only Moore who gets to play another day.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+We're always fans of free food wherever we can find it. For today's freebie, visit the Cambridge Queen's Head Pub between 3 p.m. and 5 p.m. The owner of a Vermont cheesemaking company will be speaking at an event hosted by the Food Literacy Project, and many cheeses made in New England will be available to sample.
+Sections
+In the trailer for its upcoming production, The Currier House Drama Society warns audiences that the show is "RATED R for political incorrectness, full puppet nudity, and schadenfreude."
+Wait, puppet nudity? That's right. This weekend, Currier presents "Avenue C"—a take-off on the popular Broadway musical about raunchy Muppet-style characters, "Avenue Q."
+Kristin N. Rose '12, one of the show's producers, said that "Avenue C" is "an equal opportunity offender. It's incredibly funny; it's incredibly offensive—and you don't get to see that all the time."
+The Drama Society has modified parts of the script and some song lyrics in order to make them more relavent to Harvard life.
+The show will be performed in the Currier Fishbowl on April 29 and April 30 at 7:30 p.m. and on May 1 at 1 p.m. To reserve a free ticket, email currierdramasociety@gmail.com.
+Sections
+Our neighbors at Fifteen Minutes Magazine have come up with a solution for insomnia. Check out this video where Professor of Economics N. Gregory Mankiw, Dean of Freshmen Thomas A. Dingman '67, and Lecturer on Sociology David L. Ager read "Goodnight Moon" by Margaret Wise Brown.
+Sections
+The free food train just doesn't seem to end.
+To help ease the pain of Reading Period, the Steering Committee on Common Spaces is giving out free food by the gazebo in the Yard as part of the Common Spaces Chairs Project. They kicked off with free chocolate chip cookies today, and they'll be giving out Hoodsie Sundae Cups, hummus and pretzels, and watermelon on Monday, Tuesday, and Wednesday, respectively, from 2 p.m. to 3 p.m.
+Susan Shefte, HUHDS director of planning, analytics, and business services, also told us that early one morning next week, students will find exam care packages on the chairs in the Yard that say "Take Me." So be on the lookout for some Harvard-sponsored free food and free care.

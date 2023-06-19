@@ -1,0 +1,550 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+You’ve probably heard about lexiles already—you know—that system of ranking books by difficulty using quantitative analysis of word frequency and sentence length? The proprietary textual-complexity measurement system garnered a great deal of press in the past few weeks. Lots of bad press, actually. It’s something that deserves further scrutiny and attention.
+The idea of lexiles is quite simple: As we have units of measure for temperature, length, weight, periods of time, and so on, why not quantify the complexity, the reading difficulty of a text? I can appreciate the possible advantages of having a solid, instant, digit-sized impression of a book. Teachers in primary and secondary schools could use lexiles to choose which books to assign to which students—knowing in advance if students would be bored, would meet with a challenge, or would struggle through without comprehension.
+However, practice rarely mirrors theory; belief in the validity of such a scale is sure to be shaken when confronted with its results. As reported by Blaine Greteman in The New Republic, classic novels like Steinbeck’s The Grapes of Wrath or Harper Lee’s To Kill a Mockingbird receive perplexingly low lexile scores (680, 870); and books like The Hunger Games (810) or Mr. Popper’s Penguins (910), which laymen might consider simpler novels, somehow merited higher scores. No human reader tasked with ranking these books by qualitative or quantitative methods would return the same results. So I hope, at least.
+If education reform is important to you, then the lexile scale should make you feel uneasy. The Common Core State Standards Initiative, sponsored by the National Governors Association, already incorporates lexile scores into its new English Language Arts curriculum; the Common Core itself has been adopted by 45 states out of 50. The goal of the initiative is to increase curricular rigor, and an easy way to do this is to quantify textual difficulty and assign tougher books to young students. But the adoption of lexiles breeds contradictions. Consider: The new lexile range for grade 10 is 1080-1305 lexiles, but the example text for grades 9-10 is Steinbeck’s The Grapes of Wrath—680 lexiles only! Again, any reasonably well-read person could tell you what lexiles can’t: The difficulty of a text is more than the sum of its syntax.
+To the credit of the CCSS for English, “quantitative dimensions of text complexity” are only one third of the CCSS methodology of text evaluation—the other two are qualitative dimensions of text complexity and consideration of readers and tasks. Further, CCSS methodology presents lexiles as one of many possible quantitative schemes—a competitor to the Flesch-Kincaid readability test, the Dale-Chall readability formula, and the ATOS formula.
+Yet cursory or deep readings of the CCSS literature both confirm the initiative’s preference for the lexile scale: It receives the most mentions, and graphs and charts accompanying the recommendations use lexile score ranges instead of Flesch-Kincaid or the Coh-Metrix system, the only identified non-profit readability evaluation service mentioned by CCSS. That the lexile scale is the product of a private educational company known as MetaMetrics should not be problematic per se.
+Given recent protest against the effectiveness of for-profit charter school operators, I think it would be reasonably cautious to step back and question if we as taxpayers should turn over any part of our curricular standards to an entity that’s unaccountable to the public.
+Could there be a better investment? I think so. Primary and secondary school libraries could fulfill the curatorial and diagnostic roles performed by lexiles. Most of what’s said about school libraries now revolves around the digital. Emphasis on computer literacy seemingly eclipses the library’s traditional role of promoting literacy, love of reading, and connecting readers to new books they might enjoy and might profit from. I think the mission of the CCSS for English Language Arts could benefit by libraries staffed by librarians and full of books.
+Statistics collected by the U.S. Department of Education indicate that in 2008, 91 percent of public schools had a library or media center and of those schools only 62 percent of libraries were staffed by a fulltime librarian; 27 percent of libraries had neither fulltime nor part-time staff. Compare this with the data from 2000, when 86 percent of public school libraries employed a fulltime librarian. This decline rings true to me: My high school had a librarian my freshman year but by my senior year the position was unfilled and the space defunct.
+Librarians could work one-on-one with students, develop a reading plan for them based on interests and skill level, track their progress, and much more. English teachers could partner with librarians to help students who are falling behind or gifted students who aren’t stimulated by the grade-level curriculum, freeing up more class time for instruction in grammar and writing.
+What’s important is to inspire a lifelong love of reading, and especially reading drama, poetry, and fiction. Currently, the CCSS heavily favors the reading of non-fiction and technical texts. I think it should not ignore literature, though; studies show that reading literary fiction can increase students’ empathy—a quality some people value, even if they are unable to practice it.
+What you can’t accomplish with numbers, you might achieve with a human being who cares about books and the students who read them, and a viable space in which books are available and valued.
+Michael Thorbjørn Feehly ’14 is a history and Scandinavian studies concentrator in Mather House. His column appears on alternate Thursdays.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+By most consumer standards, America has made marked improvements in the past half-century. For starters, with a slew of technological innovations from the Post-It Note to the boom of information technology, America is materially far better off than it was in the age of The Beatles and the Trans Am. And despite the ongoing effects of the so-called Great Recession, American real GDP today stands much higher than it did then. Yet somehow in 2013, about 15 million American workers—those earning the $7.25 minimum wage—receive a lower real wage than they did in 1968. Some, accounting for growth in labor productivity, consider the real wage decrease much greater. Naturally, then, President Obama’s endorsement of the $10.10 minimum wage is a positive move toward income equality.
+President Obama isn’t the only one calling for minimum wage increases either. In fact, in a July poll by Hart Research Associates, 80 percent of respondents—including 62 percent of Republicans and 79 percent of those earning over $100,000 per year—supported increasing the minimum wage to $10.10 per hour.  Not only did the respondents support an increase in the minimum wage, but nearly three in four also considered raising the minimum wage an “important priority” for Congress to address in the coming year. So as the Senate begins to push for minimum wage reform, the American public supports a sustainable—not “starvation”—wage for its minimum wage workers.
+This push for a fair minimum wage comes as low-income jobs constitute the majority of new jobs in the US economy. With data showing that an increasing number of minimum wage workers rely on these jobs as a main source of income, are in their 30s and 40s, and have received secondary or post-secondary education, the belief that minimum wage workers are predominantly teenagers—not main breadwinners—is crumbling. An increase in the minimum wage would not merely fuel the hobbies—or vices—of some suburban teens but instead provide much-needed income security to a growing number of single-earner households whose low wages place them under the federal poverty line.
+But what of those who argue that a minimum wage increase would actually hurt minimum wage workers? Although the distortive effects of an increase remain uncertain, many experts have come out in support of a higher minimum wage. In a recent poll of economists by the University of Chicago, a plurality of economists agreed that the increased benefits to minimum wage earners would outweigh the “distortionary costs” of increasing the minimum wage to $9. This consensus is corroborated by recent economic studies, from a 2011 paper connecting increases in the minimum wage with increased domestic consumer spending to research finding no relationship between small minimum wage increases and unemployment. Whatever the “distortionary costs” of an increase in the minimum wage, there is a wealth of evidence attesting to the poverty-reducing effects of increasing the minimum wage.
+As President Obama and Congress work to increase the federal minimum wage, 21 states have already taken action to bring the minimum wage above its federal minimum. From New Jersey’s referendum in favor of an $8.25 minimum indexed to inflation to California’s planned increase, state legislatures and voters are working ahead of Congress to provide sustainable incomes to all workers. While the states have led the charge toward a higher minimum wage, we stand by President Obama in hoping that Congress will soon provide a fair wage for every American.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Housing is kind of a big deal at Harvard. From blocking angst to Housing Day to incredibly intense House lotteries, most Harvard upperclassmen have at least one story about housing-related drama. But for some students, the process is complicated by another factor: gender. As it stands, Harvard College’s policy on gender-neutral housing unnecessarily complicates the housing and rooming process in some Houses by enforcing antiquated rules. An Undergraduate Council referendum in the upcoming election (question 1) comes to the same conclusion I do: The administration should universalize the option for gender-neutral housing as soon as possible.
+There are certainly instances of multi-gendered housing situations on campus. The historical, baseline policy of the College is to “ordinarily” require single-gender housing, except “in certain circumstances” for students who request multi-gender housing. Even in those circumstances, the policy requires locks on doors for students living in multi-gendered suites. But in 2011 the College introduced a pilot program lifting that requirement for students in gender-neutral housing. Seven Houses now take part. Still other Houses have an unofficial gender-neutral housing policy, allowing students to request exceptions from their House administrators. This complicated jigsaw, though, still leaves some students out and forces others to jump through hoops to achieve their desired housing situation; a school-wide policy, while changing relatively little for many, would have a dramatic and positive effect overall.
+For students espcially intent on gender-neutral housing, there does exist a means to secure it: Before Housing Day, a student can approach the Office of Student Life and prove that it is necessary. But there are a limited number of suites that fit the requirements, and the College’s written policy emphasizes those who have “gender-based need”—basically, those who identify as transgender or gender non-conforming.
+This is absurd. First, this singles out transgender students and forces them to go through a more difficult process than others to secure safe and comfortable housing. Moreover, it confines their House options, ruining part of the fun of Housing Day for them and effectively ensuring that some Houses are entirely devoid of anyone who does not identify with their assigned-at-birth sex. Even if this affects a very few students, it is still more than should have to find themselves in this situation. But finally, this assumes that people who want to live in a gender-neutral environment must be trans or gender non-conforming, an absolutely false supposition. While the people most concerned about their gendered living arrangements might well be those forced to confront their own gender on a daily basis, there are plenty of cisgender, straight undergrads that have friends of other genders they would like to room with.
+The best judges of student comfort in housing situations are students themselves. Undergraduates prefer to live with their friends, or at the very least, people they trust. The College should trust its undergraduates to make good decisions about living arrangements; for many students, that level of trust already exists. Harvard does not ensure that gay men cannot room with other gay men, or that gay women cannot room with gay women, because that would be difficult to enforce and obviously unnecessary: There is implicit trust both that people live with those they trust, and that students have enough control over themselves to not act on every potential attraction.
+That being said, one possible rationale for the locks rule, as well as a main concern often raised about gender-neutral housing, is that of sexual assault. Though rape and assault prevention is absolutely necessary, single-gender housing is an inconsistent, heteronormative approach to this problem that alienates a significant number of students.
+Another common objection raised to gender-neutral housing tends to be that of incoming first-years. Harvard randomizes housing among first-years, making it difficult to assess everyone’s comfort level with any gender. This is probably a valid concern, and deserves more thought and planning. But the fact that some of the school may be unsuited to a particular policy does not mean that policy should not be implemented for the rest of it. In the meantime, housing options for openly gender non-conforming or transgender first-years should be made more explicit in their availability; a person’s preference for the gender of their roommate should in no way impact their level of safety or comfort in their first-year rooms.
+Harvard has moved in a positive direction in the past few years with regard to gender-neutral housing. The pilot program and the understanding of House masters has meant that many students have been able to achieve their desired housing situation. This progress, though, is not enough: To achieve an ideal and equitable situation for all students, the College should endorse and enforce a school-wide gender-neutral housing policy as soon as possible. Question 1 would push the administration toward this policy: If you agree that everyone has the right to live with the people with whom they feel most comfortable, vote yes.
+Julia R. Geiger ’16 is a Crimson editorial comper in Eliot House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The Crimson Staff staked out an interesting position for itself in its recent editorial “Let Them Eat Code.” The argument goes: Our economy needs more scientists and engineers; more people majoring in these fields will mean more people working in them; ergo, we should have more science and engineering majors. The article relies on several faulty assumptions, even setting aside the fact that we cannot predict what the job market will demand in the future. I’m a social studies concentrator who likes to moonlight in economics—I certainly don’t mean to suggest that technical or mathematically involved majors are worthless (or even worth less). But I believe that we get better technology, medicine, and growth—and live better lives in general—when we cultivate people with a wide variety of interests and areas of expertise. Let’s not get our pocket protectors and vintage flannels all in a bunch—there‘s room for undergraduate disciplinary diversity, at Harvard and beyond.
+Why do we go to college in the first place? If you're looking (as The Crimson seems to assume you are) for a place to teach you “computer skills” so that you can deal with all of our society’s extra “digitization,” then Harvard is seriously overpriced. A liberal arts education is about learning critical thinking skills and engaging with the thoughts of people, some dead, some alive, who were or are much, much smarter than you and me. The Crimson's assumption that “people will still read books” is evidence of the lazy thinking that results when people assume familiarity with disciplines in which they do not participate. Have you heard of Devant La Loi? Truth and Method? Hopefully you've at least heard of Being and Time. Clearly The Crimson has not—if its staff tried to read any one of these works on their own, they'd have quickly abandoned their drivel about people being able to read books without professional guidance. Not all literature, history, and philosophy can be democratized so easily.
+Will people still read Catcher in the Rye if humanities departments go extinct? Sure. They'll even get something out of it. But to say that they will get as much out of the independent experience as they would from an English class would be wrong; it’d be like saying that I could watch the Mythbusters episode on the moon landing and know everything there is to know about rocket science. Humanities professors may not be able to give you “objective truth.” But they'll certainly see and share things that you don't, and that's why they get paid to think about their subjects.
+What specifically do we get out of a humanities education? Why should you, in The Crimson's words, “spend four years listening to lecturers warn you that you can never really know anything”? Because it’s true—you can’t. Learning to locate and question the assumptions that you think you “know” about the world will make you a more critical and creative thinker. This kind of thinking is the Holy Grail for those seeking gainful employment—indeed, 93 percent of employers say they care much more about your critical thinking ability than they do about your major. Medical schools, similarly, don't care all that much about your undergraduate field of study. In fact, plenty of people in the kinds of professions that The Crimson tells us we need got humanities degrees (from treasury secretaries to tech gurus). Indeed, the most important thing you can do in college to prepare yourself for life is to pursue what inspires you. Someone with a background in code-switching brings something different to the table than someone with a background in coding, and the more perspectives we have, the more likely we are to make and do cool stuff.
+Why, then, is everyone leaving the humanities? Because the humanities need to do a better job of justifying themselves. Learning quantum mechanics is just as—if not more—impractical for my goals as learning hermeneutics. In fact, engaging with thinkers like Heidegger, Fanon, and Butler has been more influential in my life than even classical mechanics ever will be (gravity’s a force in your life even if you don’t study it; the same can’t be said for abstract philosophy). The humanities are everywhere, from the study of literature, to, as Zizek reminds us, the study of toilets.
+Though for The Crimson (and for much of America) the sciences have become synonymous with pragmatism, that needn't be the case. Whether you’re learning to program in Java or to speak Javanese, engaging critically with the material will be all you need to do to prepare yourself for the challenges that lie ahead. Our society doesn’t need programmers and engineers—it needs thinkers, and they can come from anywhere. Let them eat whatever they damn well please.
+Nathaniel W. Donahue ’15 is a social studies concentrator in Adams House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+ 
+In Istanbul, even small children can flirt with fortune-telling. Little kids will grab the near-empty coffee cups of grown-ups and squint inside, trying to read their fortunes. A big lump of coffee grounds with a crater in the middle is indicative of a “bloated spirit,” whereas a clean spot can mean “light at the end of the path.” I have listened to my friends read my coffee cups, read theirs, and have even traveled to hear spontaneous prophecies delivered by strangers.
+Back home in Istanbul, my walks down the street were frequently interrupted by fortune tellers who would approach me, offering unsolicited, spontaneous readings of my future. Old men would grab me by my arm to reveal a prophecy, or a gypsy would chase me across the park. However, my bonds with Fortune were severed when I left home—no fortune tellers stop me on the streets of Cambridge, no friends grab at my empty cups. I sometimes wonder whether I have fallen out of Fortune’s favor.
+One day as I was walking down Brattle St., a storefront by the Brattle Theater labeled Astrology Crystals caught my attention. I peeked in. A slim woman was nestled in a purple throne inside; she beckoned me to enter her house of Fortune. Not entirely convinced, I asked for a reading. She listed three options: $25 Palm reading, $40 Crystal reading, $85 Tarot card reading. I decided to keep my sacrifice to Fortune modest, settling for a Palmistry reading—one hand.
+Fortune asked me to open my hands, put my palms down on hers. My fingers started warming up in her grasp. She asked me to make two wishes and reveal one of them to her. Having gotten out of an LS2 midterm that afternoon, I filtered out my truest wishes of “not having estrogen receptor deficiency” and “having adequate secretion of lung surfactant,” replacing them instead with the first thing my mind landed on: “I want a house in Alaska,” I blurted. Upon seeing the puzzled look on Fortune’s face (the gods must not have caught up on Bering’s explorations), I modified my request: “or in Vermont.”
+Fortune gazed into my eyes for some time and traced a line on my palm. “You will die of old age in your late 80s. Actually maybe even later. Yes, I think you will make it to your 90s,” she muttered. Squeezing her eyes shut, she said, “You will have three kids: two daughters and a son.” I was shocked by her blasé attitude. Was I to have triplets? I began to imagine how this burden of knowledge would affect my future pregnancy. What if my triplets felt unwanted? Would they be doomed by this prophecy and an increased secretion of cortisol leading to a premature birth?
+Fortune sensed my unease and tried to calm me down: “Your children will have long lives too.” Damn it, I thought. What if they all want to go to Harvard?
+Her next premonition followed my train of thought: “You will have stable finances. I cannot promise you wealth, but stability is a very good thing.”
+Fortune kept massaging my hand in search of more lines. “You have the gift of helping people. Try to incorporate that into your career. You have a very powerful aura,” she disclosed. “I see positive energy around you.” She couldn’t get more specific, unfortunately. I started regretting my decision to settle for one palm. Some details are bound to be left out in a monocular reading.
+“Your spirit is old,” she continued. “You matured at a very early age.” I instinctively touched my sweater that I got from a thrift-store. It was a men’s sweater from the ’70s. No wonder my spirit shone 20 years older. I made a note to wear only new clothes to the next reading, finally gaining insight into why my reading sounded like that of a 40-year-old Maple tapper’s.
+Fortune was also perceptive enough to notice my faded skin color. She expressed her concern: “How long have you been having sleep problems?” I didn’t want to break it to her that I suffered from this very particular disease called, I’ve Had A Midterm And Two Papers In The Last Two Weeks, which is categorized under Not Sleeping, and not Sleep Problems. “A few weeks,” I replied. She said that my sleeping problems will end soon, announcing the 10 hours of rest I would get that night.
+Fortune scrutinized my fingers—her face looked unenthused, like she was running out of fortunes. “The New Year will bring news to you,” she said, concluding with cliché.
+She did not tell me if I would get a house in Alaska or Vermont. The path she traced across the crescents of my palm was one of a fairly unexciting future: a stable income, three children, delivering help, and enjoying a long life. I appreciated the simplicity and wished her the best of luck in Harvard Square, where she risks gaining more enemies than friends wrecking the anxious youths’ dreams of fame, money, and independence.
+Sections
+ 
+In late October, FM sat down with environmentalist Lester Brown, who was at Harvard to give several talks on sustainability. The author of more than 50 environmental books, including “World on the Edge” and “Full Planet, Empty Plates,” Brown has been a vocal advocate for environmental sustainability, even going so far as to call for “war-time mobilization” in order to save the planet. He has received many honors for his scientific work, including a MacArthur Fellowship and the United Nations’ Environmental Prize.
+ 
+Realizing our shared New Jersey lineage, I start off by asking him about his birthplace.
+ 
+1. Fifteen Minutes: Has your childhood in New Jersey in any way shaped who you are now and what you do?
+ 
+Lester Brown: I think the entrepreneurial instincts sort of surfaced really, for me. My younger brother and I enjoyed putting together a tomato growing operation while we were in school. The last year we farmed, we had 70 acres, or 280,000 tomato plants. Tomatoes are a really neat thing to grow since they’re so productive and responsive. But they also fit pretty well in the academic year.
+ 
+2. FM: So I take it you were pretty successful with that?
+ 
+LB: At the end of the first year, we had enough money to make a down payment on a new tractor. I thought my brother should buy the tractor, so at age 14 he went to the local farm equipment dealer and explained that he wanted to buy a tractor. He was a kid.
+  
+3. FM: What are you working on now?
+ 
+LB: The working title of my next book is “Last Chance.” It will be looking at some more encouraging things happening in the world. [For example,] in the United States, we had 540 coal plants or something, and 150 of them are recently closed or slated to close. The Sierra Club [a conservation group] is playing the coordinator role there and providing leadership. Their goal is to close every coal plant in the United States, and I think they are going to succeed.
+ 
+4. FM: So you’re looking at a more optimistic turn for the future?
+ 
+LB: I’m often asked, am I an optimist or a pessimist? I like to think I’m a realist. We’re going to have to move very fast if we want to prevent climate change from spiraling out of control. The exciting thing is, we’re beginning to see maybe how that could happen. If we succeed in closing all the coal plants in the US, it would be a major step in that direction. We haven’t won this game yet, but we’ve gotten a couple of touchdowns.
+ 
+5. FM: In your opinion, what are the greatest threats to agriculture today?
+ 
+LB: One is obviously climate change. Fifty or 60 years ago, if we had a severe drought or heat wave, it didn’t worry us too much because we knew that next year things would go back to normal. But now there’s no norm to go back to—the climate system is in a state of flux. The agricultural system that we have today is designed to maximize production within a climate system that has existed over the past several thousand years. Now suddenly, we don’t know exactly what’s going to happen in the future. We do know that we need to get the brakes on as quickly as possible.
+ 
+6. FM: For global warming you estimate a six-degree Celsius increase in global temperatures, which is much higher than the predictions of most other scientists. How can you explain the difference?
+ 
+LB: There are some scientists that think that the temperature will go up 6 degrees by the end of the century. How likely that is we don’t know—I mean, no one really knows for sure about these things. We have climate models that we use to give us some sense. It doesn’t take much of a rise to upset the agricultural process. The rule of thumb is that for each rise one-degree rise in Celsius temperature, we can expect a 10 percent decline in grain yields. So it makes it more difficult to expand production, particularly when it comes at a time when water shortages are everywhere.
+ 
+7. FM: You don’t think that we can continue to raise our grain yields?
+ 
+LB: Well, the world grain harvest has tripled since 1950, almost entirely because we’ve been raising yields. The problem with that is that in the more agriculturally advanced countries, there aren’t many more things we can do to raise yields. For about 40 percent of the world’s grain harvest, we are pushing against a glass ceiling that’s imposed by the limits of photosynthesis. We’ve removed the moisture constraints and removed the nutrient constraints, but photosynthesis is the ultimate constraint.
+ 
+8. FM: The backbone of your plan for environmental improvement, which you call Plan B, is wind power. How would you respond to people who say the amount of harnessable wind energy is simply too limited?
+ 
+LB: How much wind energy there is depends a lot on the location and the size of the turbines. There are now three states in northern Germany that already get between 40 and 50 percent of their energy from wind. Denmark is 25 percent. [Even] China is beginning to get really serious about wind. They’re planning seven wind mega-complexes, at least 20,000 megawatts each—think 20 nuclear power plants each. The largest of these is planned for Inner Mongolia, and when it’s completed, it will have 38,000 MW of generating capacity. To put that in perspective, it’s enough electricity to run Poland. These are huge, and I don’t think the Chinese would be making this investment if they didn’t think it was [profitable].
+ 
+9. FM: Do you think there are economic advantages to this sustainable energy?
+ 
+LB: The overwhelming [advantage] is stabilizing climate. You could ask another question, the cost of not stabilizing environment and not restructuring the energy system. I think it may be unbearable.
+ 
+10. FM: What would the costs be like?
+ 
+LB: The costs of climate change can be huge. It depends a bit on your time horizon, but rising sea levels would wreak havoc with a lot of the world’s major cities: London, Miami, Tokyo. A rising sea level would seriously damage, if not destroy, rice-growing river deltas in Asia. In Bangladesh, they estimate that a one-meter rise in sea level would eliminate half its grain harvest, and that’s just one example where they’ve actually done the calculations. That’s a country with 180 million people. What Bangladesh needs is more grain, not less.
+ 
+11. FM: In terms of population growth, you mentioned the sort of demographic bonus that happens when countries stop growing and reach sustainable population growth. Could you explain that a little?
+ 
+LB: There are two dependent segments of society. One of those is older people and the other is younger people. If you hit the brakes on population growth, then suddenly the dependencies on the lower end of the population age spectrum will lessen. When that happens, there’s a chance for the work force, which becomes larger relative to the dependent populations, to make unusually rapid progress in raising living standards. And that is what is often referred to as the “economic bonus.” Japan did it after World War II, for example.
+ 
+12. FM: What happens when the large working force retires, leaving a smaller working force to support them?
+ 
+LB: What I would do, and what some countries are talking about, is raise the age of retirement. Because the age of retirement we have today was set 50 years ago, when life expectancy was several years less than it is today. And if we want to be living so much longer, it means we’re healthier and can probably work longer
+ 
+13. FM: How can you tell a manual laborer they have to work past 70?
+ 
+LB: I think you have to make it optional, so that people can decide. It varies with individuals. At 65, some people are ready to retire; others are not. I think you need flexibility in the system, and one can design that system. I am well past 65 now, and the idea of retiring is [unthinkable]. I guess it’s partly the type of work I do. If I were a bricklayer maybe I would have thrown in the towel a long time ago. I think flexibility is the key.
+ 
+14. FM: You’ve compared today’s civilization to a collapsed Mesopotamian empire and referred to Mexican migrants as environmental refugees. Is it possible that things aren’t quite as bleak as your language suggests?
+ 
+LB: I think we’re at a place where if we don’t take some major, and in many ways unprecedented, actions, that civilization will not withstand the stresses that we’re building.
+ 
+15. FM: Is there anything else you want people to know?
+ 
+LB: I think we are on the edge of some major shifts in thinking. At one time getting a car was part of being somebody, but in our highly urban society people don’t even know if you have a car, much less how many horsepower it has. We now have bike lanes and bike parking racks and so forth. Worldwide, there are about 500 cities with bike sharing programs. We’re seeing some intelligent social shifts. In turn, this will set the pattern for other societies, because the world basically wants to live like America. And suddenly you see that Americans aren’t living like Americans used to live anymore.
+ 
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Four Harvard undergraduates have received second place and a $10,000 award in the national Collegiate Inventors Competition for their development of a convenient, low-cost chemotherapy patch, Harvard School of Engineering and Applied Sciences announced Tuesday.
+The product, named ChemoPatch, delivers liquid medication at precise times and intervals to cancer patients. In its current form, the patch has the capability to deliver up to three chemotherapeutic drugs to a patient through microneedles.
+Beginning in the spring of their freshman year, Nikhil Mehandru ’15, Aaron Perez '15, Alydaar Rangwala '14, and Brandon K. Sim '14 have spent hundreds of hours working in the laboratory to develop the ChemoPatch.
+“I think that what makes this ChemoPatch special is that it’s non-invasive, it’s easy for a cancer patient to use, it allows a new degree of control, and it allows convenient multi-drug chemotherapy,” said Sujata K. Bhatia, assistant director for undergraduate studies in biomedical engineering. “Both my parents are cancer survivors. I saw what my mom went through…If you can add that extra bit of convenience, you can have that cancer patient say ‘I’m not going to give up, I’m going to make it.’”
+The idea for the ChemoPatch originated in the fall of 2011 when Mehandru approached Bhatia to conduct an independent project that would have an impact on global health. Mehandru wanted to build something that would aid in the diagnosis and treatment of disease. After deciding to focus his research on cancer, he gathered a team coming from a variety of academic backgrounds that range from applied mathematics and physics to computer science and statistics.
+“What’s fun about working with undergraduates is that they really don’t see any limits,” Bhatia said. “With more experience you can get more realistic, but that can cramp your creativity. It’s really more exciting [than working with adult professionals in the private sector].”
+With the recognition and validation from the Collegiate Inventors Competition, an annual competition that fosters innovation and entrepreneurship in students developing revolutionary products and technologies at their respective colleges and universities, Perez said that the team hopes to pursue further research and development to focus on the product’s functionality.
+ The team of students also received support from mechanical and biomedical engineering professor Conor J. Walsh, who has been involved in the project’s engineering side, as well as legal and business advice from  Paul B. Bottino, executive director of the Technology and Entrepreneurship Center at Harvard and a lecturer on innovation and entrepreneurship.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The Harvard-Allston Task Force voted to approve the University’s proposed community benefits package attached to Harvard’s Institutional Master Plan for development in Allston Wednesday evening. The community benefits package will be presented to the Boston Redevelopment Authority along with the IMP at a Boston Zoning Commission assessment on Nov. 20.
+The package totals $43 million that will fund improvements to open spaces and the public realm, education programming as well as funding for renovations at a local school, workforce development programming, and a ‘transformative project’. $11 million in linkage funds the University must pay to the City of Boston are also included in the $43 million package.
+Task force members voted ten to one with one abstention to approve the package despite Harvard’s unwillingness to add an additional three million dollars requested by the task force. The task force proposed that the three million dollars in funds could be used for an expansion of funding for flexible projects. These projects include housing developments and school renovations, as well as the creation of more open spaces and the allocation of $500,000 for security equipment for the local division of the Boston Police Department.
+Kevin Casey, Harvard’s associate vice president for public affairs and communications, said that “the tank was dry” in terms of adding to the package’s proposed dollar amount. Instead of debating the amount of funding, Casey said that the conversation should turn to implementing the available funds.
+Task force members said it was important to maintain flexibility within the community benefits package, so that funding could adapt to potentially unforeseen needs.
+In addition, many task force members suggested greater funding be allocated to developing housing and supporting home ownership in the community.
+“In my mind, [what’s important] is developing a viable middle-income residential community,” said Ray V. Mellone, task force chairman.
+Mellone added that funding from the community benefits package could be “a way to take this first step of transformation into the future.”
+Despite the task force’s approval of the package, some members of the community said they were unsure about how much Allston residents would benefit.
+“Three quarters of this community has been impacted horribly [from Harvard’s construction], yet I’m not seeing anything come back to the community at all,” Allston resident Ed Kotomori said. “If we are not going to spread the funds to benefit all of the people, then we’re failing entirely.”
+Task force member Bruce Houghton said that community benefits in the package should be implemented as soon as possible.
+“Harvard has created and will create a great deal of disruption,” Houghton said. “I think it owes this community the respect to front-load as much development in the public realm as possible.”
+Casey and members of the task force agreed to work together to identify the benefits that will be implemented first.
+Task force member Tim McHale said that last night represented the end of a long process. Following the Zoning Commision, the task force will convene with University officials to finalize the language of an official contract.
+Thanking the task force, Harvard, and the community, McHale said, “For the last 120 days we have put a lot of blood sweat and tears into this process.”
+ —Staff writer Marco J. Barber Grossi can be reached at mbarbergrossi@thecrimson.com. Follow him on Twitter @marco_jbg.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+John M. Deutch, who served in multiple capacities for the Department of Energy and later directed the Central Intelligence Agency under President Bill Clinton, lectured Wednesday on the future of global energy, expressing a need for adaptation and not just mitigation to climate change.
+"I cannot avoid the conclusion that pretty substantial climate change is highly likely...and that it is impossible for the world to avoid it by mitigation,” said Deutch, who currently serves as an Institute Professor at MIT in the Chemistry Department.
+In a lecture titled “Big Unanswered Questions About Our Energy Future,” Deutch discussed the world’s environmental trajectory by posing what he considered to be the most pressing questions regarding global climate change.
+Reflecting on his time working in the Department of Energy, Deutch emphasized the importance of having a national energy plan that is comprehensive in scope and objective, but specific in terms of quantitative projections.
+“If you don’t have an energy plan to follow, how do you decide what program to follow? How do you decide how to allocate available public resources?” Deutch asked.
+Deutch said he believed that the only “true national energy plan” in United States history was in 1978 under President Jimmy Carter’s administration, but that its quantitative projections were highly inaccurate.
+In contrast, Deutch expressed that he believed President Barack Obama’s Climate Action Plan lacked the clearly stated objectives, milestones, and quantitative details necessary for it to be considered a national energy plan.
+Recognizing the current tendency to focus its environmental efforts on mitigation of climate change, Deutch insisted that the nation should instead concentrate on adapting to life after climate change, which he viewed as nearly unavoidable. He also proposed major reforms to the U.S. Environmental Protection Agency.
+“I would split it in two, much like the separation was done years ago in the nuclear area when the Nuclear Regulatory Commission and the Department of Energy were split,” Deutch said.
+Deutch recommended having one of the new agencies responsible for inspection and enforcement of regulations, while the other resulting agency would cover technology development. He noted that under its current structure, the EPA’s resources are being stretched too far.
+Harvard Kennedy School student Takaaki Sashida said he found it interesting that the lecture raised many issues that Deutch acknowledged he could not answer.
+“That kind of reflects the complexities of the issues that he is dealing with,” Sashida said.
+ Deutch was invited to lecture as part of the Harvard Center for the Environment’s “Future of Energy” Series—a lecture series that began in 2006.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+Panelists discussing partisanship and gridlock at the John F. Kennedy Jr. Forum on Wednesday evening emphasized the role businesses must play in encouraging bipartisan cooperation in Congress.
+ 
+The panel, entitled “Partisanship and Gridlock in Congress: Can we Make Democracy Work?” was introduced by University President Drew G. Faust and moderated by Karen G. Mills ’75, former secretary of the Small Business Association and Obama Cabinet member. The four panelists included former congresswoman Hilda L. Solis, Harvard Kennedy School Professor Alexander Keyssar ’69, Kennedy School Professor Theda R. Skocpol, and Mark D. McKinnon, co-founder of the bipartisan organization No Labels.         
+ 
+Faust said that in the aftermath of Congress’s failure to pass a budget for fiscal year 2014 and the resulting sixteen-day government shutdown, “people looked at [America]…and began to wonder about the United States; is the American experiment unraveling?”
+ 
+She called upon the panelists to discuss the causes of and potential solutions for the current partisan atmosphere.
+ 
+In discussing potential solutions, Solis said that the business community must exert its influence over candidates and politicians by encouraging them to be more moderate.
+ 
+Skocpol also emphasized the need for moderate Republicans to “step up and organize.”
+  
+McKinnon suggested a “no budget, no pay” policy in which congressmen would not be paid unless they passed a budget.
+ 
+He expressed hope that his organization No Labels, which, among other initiatives, brings together congressmen from both sides of the aisle, will foster bipartisan relationships.
+ 
+Skocpol, however, expressed skepticism toward McKinnon’s approach, stating that “this is not a problem that can be solved just by getting people in a room and telling them to be nice to each other.”
+ 
+Before discussing current partisanship, Mills asked Keyssar whether there has been similarly contentious political behavior in the past.
+ 
+Keyssar answered yes, adding that, “we did have a Civil War.”
+ 
+Keyssar advised, however, that the American public should not simply be resigned to such behavior because it has occurred before, but should instead ask what can be learned from those moments.
+ 
+In an interview with The Crimson prior to the panel, Solis said that the cause of the current partisan atmosphere lies in the number of elected officials “representing very strong opinions [on] both sides of the aisle.”
+ 
+During the event, however, panelists primarily blamed the divided state of the Republican Party, and in particular, the Tea Party.
+ 
+Skocpol said that a partisan atmosphere has persisted “because the leverage on the Republican Party does not depend on general popularity.”
+ 
+Rather, she said that leverage depends on “billionaire, ultra-free market ideologues” who view compromise as a “dirty” and “evil” word.
+ 
+McKinnon argued that today’s system rewards people for refusing to compromise, pointing to organizations like Citizens United “who go out and make money by punishing people for good behavior.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+At a discussion Wednesday evening, students explored the dangers of allowing others to project unauthentic characteristics of their identity.
+ 
+The event, which took place in the Leverett House Fairfax Common Room, was part of the new Co-Existing Self discussion series, which is sponsored by the Harvard Foundation for Intercultural and Race Relations and Harvard College Women’s Center.
+ 
+The small group shared stories about the different roles individuals play at Harvard and the troubles of what they termed as a modern-day version of ‘passing’.
+ 
+“I would define ‘passing’ as presenting one’s self in a way that may or may not be accurate or authentic” said Grace L. Chen ’15, one of the organizers of the event. Chen said that sometimes an individual will turn certain parts of his or her identity on or off, depending on certain circumstances.
+ 
+Discussion began with an activity encouraging individuals to display which of four broad categories—academic, social, extracurricular, or residential life—participants felt most comfortable in.
+ 
+Afterwards, students were asked which of the same four areas they felt that they ‘passed’ most into—which category they felt most compelled to act in certain unauthentic ways because of outside perceptions or expectations others have of them.
+ 
+Individuals shared stories about assumptions others place on them based on their socioeconomic status, ethnicity, race, or sexual orientation.
+ 
+Edward Cho ’16 described the balancing act that one must have in deciding to accept identities outsiders assign to oneself.
+ 
+At certain times, Cho said it might be beneficial not to initially reveal one’s true identity to a group and refrain from objecting to being passed off as such.
+ 
+“It’s kind of like a subconscious thing depending on the environment I’m in,” Cho said, adding that sometimes passing happens naturally.
+ 
+In characterizing some of the opinions offered during the conversation, Chen said that the group did not consider passing to always be a bad thing. In fact, she said that group members felt passing is sometimes beneficial.
+ 
+“[While passing,] certain aspects of myself usually come out that I feel would best mesh with the people present,” Cho said.
+ 
+At the same time, however, participants in the discussions, including Cho, expressed the danger in compromising one’s identity for the sake of fitting in.
+ 
+Those who joined in conversation spoke additionally about the fluid nature of the identity a student has at Harvard. They jointly talked about the discomfort sometimes associated with the overlapping of identities from different facets of undergraduate life.
+ 
+Chen emphasized the importance of sparking further discussion about the facets and difficulties associated with co-existing both at Harvard and at home.
+ Chen said that the Co-Existing Self series hopes to organize further conversations later this year. 
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A panel of education reformers discussed their experiences of “working from the outside in” to improve the quality of education in public schools at the Askwith Forum on Wednesday evening.
+The panelists, who all hailed from independent organizations that work to assist disadvantaged public schools, emphasized the potential for outside groups to address some of the challenges of the existing education system.
+“Our true north is that despite changes in [public school administrative] leadership, we want to make sure that kids have support,” said Jeff Jablow, the Vice President of Strategy and Operations for City Year, a national non-profit that partners with schools in disadvantaged districts to individually mentor at-risk students.
+Dan Challener, the President of the Public Education Foundation in Tennessee, said that his organization takes a similar approach by working to effect positive change in schools from the outside.
+“Schools are hard to change on the inside,” he said. “I believe we can affect more change from the outside than from the inside.”
+The other two members of the panel–Tiffany C. Gueye and Wendy Puriefoy, from Building Educated Leaders for Life and the Barr Foundation, respectively–said that their organizations focus on “improving [the] quality of education in poor districts” that do not have enough resources to support all of their students.
+“We help raise private dollars,” Gueye said, citing a recent program in which  BELL raised $1.5 million to supplement a local school fundraising drive that raised $1.1. million.
+Even though the panelists identified a variety of problems faced by the public school system, they agreed that public schools are still an integral part of the education system and will remain viable in coming years.
+“We need confidence in more public schools,” said Challener, who added that the media should “focus more on public schools, not just charter schools,” in response to a question about the charter-oriented documentary Waiting for Superman.
+Jablow also pointed out that even troubled public schools can see significant improvement when paired appropriately with private organizations.
+ “True success comes from that partnership.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: Nov. 14, 2013, at 5:24 p.m.
+A campus center located on the first three floors of what was formerly called the Holyoke Center will undergo construction beginning in 2016 and likely open in 2018. The Richard A. & Susan F. Smith Campus Center, as the entrance to the building now reads, is named after donors Richard A. Smith ’46 and his wife Susan F. Smith, and will be designed by Hopkins Architects, a London-based firm that has previously developed buildings for Yale and Princeton, the University announced Thursday afternoon.
+Thursday’s announcement, which did not name the size of the Smiths’ donation, marks the first time the project’s construction timeline and the names of its donor and architect have been released. The news comes after Faust called the construction of a campus center a capital campaign priority last year and confirmed a donation for the center earlier this fall.
+The center’s name and benefactors were officially unveiled at an event in front of the former Holyoke Center on Thursday afternoon. Following remarks from University President Drew G. Faust, University Provost Alan M. Garber '76, and the project’s head architect, the Smiths’ children stepped forward to pull down a red curtain above the building’s front doors and officially reveal the center’s new name.
+In her remarks at the event, Faust referenced her vision of “one University” and said that the Smith Campus Center would serve as a “physical embodiment of that dream.”
+“The Smith Campus Center will draw members of the University community together and serve as an important common space for everyone to enjoy and use,” Faust said in a University press release. “We are very pleased to be moving forward with planning, and we are eager to engage students, faculty, and staff in the important work of creating a flexible and welcoming campus hub.”
+According to the press release, the Smith Campus Center will offer food service, lounge, and study areas for students, faculty, and staff. The first floor of the center, which will continue to boast a variety of retail and food service options, will remain open to the public. In addition, architects will include space for exhibitions, events, and performances.
+In an interview with The Crimson Thursday morning, Faust said that she was “exhilarated” by the prospect of a campus center.
+She said that in early planning discussions, the architects have been very “imaginative” in reconceptualizing the Holyoke Center space—the lowest three of the building’s 10 stories—for student and campus use. She added that the consultation and planning process, expected to last a year and a half, will involve students through committees and advisory groups.
+In an interview Thursday morning, Interim Dean of the College Donald H. Pfister expressed his wish for the campus center to complement rather than recreate existing common spaces.
+While the Smiths asked the University not to disclose the size of their contribution, which enabled the campus center project to move forward, Faust called the donation “extremely generous.” The couple has previously donated to Harvard and its affiliated facilities, and Richard Smith has served on both the Harvard Corporation and the University’s Board of Overseers.
+“Of all the institutions one can think of, Harvard has been the leading developer of the future leadership of this country, if not the world,” he said in the press release. “To be associated with it has been a great privilege and to support it in a meaningful way...will be a capstone in my relationship with Harvard.”
+The creation of a campus center stems from the University’s Common Spaces program, an initiative launched by Faust in 2009 to guide the development of community-oriented spaces on campus. Most recently, the Common Spaces program has spurred renovation of the Science Center Plaza and the opening of the Memorial Church “porch” in Tercentenary Theatre.
+—Staff writers Michelle Denise L. Ferreol and Jared T. Lucky contributed to the reporting of this story.
+—Staff writer Nikita Kansra can be reached at nikitakansra@college.harvard.edu. Follow her on Twitter @NikitaKansra.
+—Staff writer Steven R. Watros can be reached at steven.watros@thecrimson.com. Follow him on Twitter @SteveWatros.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+As the Lavietes Pavilion crowd sang “Happy Birthday” to co-captain Christine Clark at halftime, the senior cracked a smile and fittingly poured in a game-high 21 points on her 21st birthday. But one half later, spirits were not quite so high for the senior guard.
+Though the Harvard women’s basketball team (2-1) earned another mark in the win column, the 76-67 victory over Boston University (0-2) was anything but gratifying. The Crimson, which opened up its season home opener on a 10-0 run, led by as many as 20 during the contest, including a 1- point lead at the end of the first half, yet struggled to maintain that edge during the second frame.
+Despite never losing its lead, Harvard looked like a different team in the second half, as they let the Terriers crawl within six points with 1:40 remaining before calling a timeout.
+“It wasn’t a good feel [during the second half],” Clark said. “Moving forward, I think that we need to take this as a lesson and sit down and figure out what went wrong because I can’t tell you right now.”
+The Crimson dominated BU to start the night, as they forced the ball down low to junior forward Temi Fagbenle. Fagbenle showed an arsenal of offensive weapons, hitting a reverse layup and dishing out no-look-passes to amass two points and four assists before the Terriers could even blink.
+As Fagbenle began to draw double teams, she opened the floor for Clark, who scored in double figures for her 75th straight game, and for sophomore guard Shilpa Tummala, who contributed a career-high 14 points, including three-for-five shooting from behind the arc. But Harvard moved away from its post game as the night continued, relinquishing its clear advantage in the paint.
+“We should have been [getting the ball into the post] the whole game,” coach Kathy Delaney-Smith said. “I thought that our posts were showing their numbers early, and we had a ball screen offense, and they were open, but we didn’t see it.”
+But the Crimson saw exactly what made them so successful in the first half disappear from the hardwood floor when they returned from the locker room break. After out-rebounding Boston University, 27-17, in the first half, Harvard finished the game with 38 boards to the Terrier’s 39.
+“Not one aspect of the game carried over,” Delaney-Smith said. “Rebounding was just part of a complete implosion.”
+After the Terriers cut the Crimson lead to 12 to start the half, it seemed as if Harvard had weathered the storm when they pushed the lead up to 20 with only six minutes remaining. But BU wouldn’t go away, as junior Mollie McKendrick and senior Whitney Turner each poured in 14 points to keep the game close.
+Nonetheless, on her night, Clark would have none of it. After watching her team let the lead slip away, the veteran came back in and knocked down a tough fadeaway jumper with 4:30 remaining to put her team up, 69-56.
+The Terriers still refused to go away, as McKendrick came up with a pair of jumpers to cut the Harvard lead to six with just under two minutes remaining. Though the BU press befuddled her teammates, Clark was unfazed.
+With the game on the line, the senior was a one-woman press breaker. Clark dribbled through the Terriers’ zone press, attacked the basket, and nearly banked in a shot for a three-point play. Calm and collected, Clark then stepped to the line and swished both free throws to push the lead back up to eight.
+Clark soon found herself right back at the charity stripe, where she knocked down another pair of free throws, putting a halt to the roller coaster ride of the second half.
+“[Clark] is a phenomenal athlete, and we would certainly not have won tonight’s ball game without her,” Delaney-Smith said. “I think that she was one of the more consistent players…. She knows that we are looking for her skill to get us through the times where we weren’t connecting.”
+While Harvard experienced its own second half woes, the Terriers were only able to shoot 36.8 percent from the field and managed to miss 13 free throws. The poor offensive performance was more the result of the Terriers’ stagnant offense, though Fagbenle did finish with two blocks and three steals.
+Despite its poor second half play, the Crimson won their 15th straight home game, a streak that extends back to the 2011-12 season when they last lost to Princeton on their home court.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Last year, then-freshmen AnnMarie Healy, Shilpa Tummala, and Kit Metoyer combined for 49 points through the entire 2012-13 campaign. This season, the trio of sophomores on the Harvard women’s basketball team is just a point shy of that mark in just three contests.
+Healy, Tummala, and Metoyer together chipped in 20 of a total 30 points from the bench during the Crimson’s 76-67 win over crosstown rival Boston University on Tuesday night at Lavietes Pavilion. Senior guard Jasmine Evans notched a crucial 10 points and performed under pressure, making six of eight attempts from the charity stripe.
+Metoyer, a 5’10” guard out of Houston, Texas, spent 18 minutes in the game, drilled an early trey, and split duties as playmaker with junior guard Ali Curtis.
+Tummala, who missed nearly the entire Ivy season last year with an injury, was hot in the home opener, with a career-high 14 points.
+“I think she’s excited to get her game back to where she knows it can be, and this was definitely the closest she’s come,” coach Kathy Delaney-Smith said. “I’m sure she feels good about knowing she’s on her way.”
+Tummala proved efficient and well-rounded, with three successful three-point conversions for offensive steam and a powerful block while Healy, a forward who was the leading scorer among freshmen last year, was also a driving presence in the low post and nabbed six rebounds.
+STICKY FINGERS
+Turnovers have always been a buzzword for Delaney-Smith and her squad. After relinquishing 20 possessions in a loss to DePaul and 29 in a win over Cal Poly last weekend, the Crimson played a tighter game with just 15 turnovers. Last season, Harvard averaged just over 17 turnovers per contest, always a sore spot even in a Crimson win.
+Harvard held on firm during the first half, giving up the ball just six times as the squad ran a quick transition offense and established an inside presence. Co-captain Christine Clark, who occasionally had trouble with turnovers last season, averaging three per contest, didn’t give the ball away once.
+“I thought that we played the first half pretty well, and that was a lot of things,” Clark said. “That was defense. That was pushing the ball. We took care of the ball pretty well.”
+While the Crimson may have kept a hand on the ball throughout the contest, Delaney-Smith was quick to point at the opposition for the lowered number of turnovers.
+“I think that the lack of turnovers is because BU didn’t do anything to cause turnovers,” Delaney-Smith said. “Rather than crediting ourselves, it was a component of how BU played us.”
+A TALE OF TWO HALVES
+Despite finishing the game with a nine-point edge and seeing a lead balloon to over 20 points during the contest, Harvard played the game as if in two completely different halves.
+“We got the win, so that’s good, but it’s still not the way we wanted to come out and play them,” Clark said. “The capability that we had to beat this team by we didn’t meet. We met it the first half, and then the second half [we didn’t]. We need to figure it out and have a better second half because we really just dropped off.”
+After besting BU to the best of their abilities during the first 20 minutes, Harvard was both outscored and outrebounded by the Terriers during the second stanza. As BU established itself as a threat in the paint, the best Harvard could do was draw the foul. The Crimson netted 21 of its 38 second-half points from the charity stripe, including a four-for-four performance from Clark and three foul shots by senior Melissa Mullins in the final 30 seconds.
+“We have the ability to press and run, and we have not been able to sustain either of those things so far in our first three games,” Delaney-Smith said. “We are deep enough to be able to press and run. We have fallen short in what we are capable of so far.”
+—Staff writer Cordelia F. Mendez can be reached at cordelia.mendez@thecrimson.com. Follow her on Twitter @CrimsonCordelia.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Kathy Delaney, coach of the Westwood High School girls’ varsity basketball team, wasn’t happy.
+Her team was trying to get into its locker room, which had been taken over by a visiting boys’ squad.
+“Alright, girls,” Delaney said. “Get your stuff. We’re going in.”
+With Delaney leading the pack, the girls walked in.
+“We were like ‘Oh my God, I can’t believe it! They’re going to be showering!’” Erin DiVincenzo ’87 said. “We marched into the locker room, and there were boys diving, getting out of the way. She was making a point that this is our space, and it’s ridiculous that we had to take a back seat just because of the boys.”
+Three decades later, Delaney-Smith, now head coach of the Harvard women’s basketball squad, issued the same command.
+Another school’s men’s team was occupying the court during her players’ practice time. Delaney-Smith wasn’t pleased. She proceeded to kick them off the court and out of the gym.
+“All of us were like, ‘Oh my God!’” Elle Hagedorn ’13 said. “Kathy was as riled up after that as I’d seen her in my four years…. Even during the game she was still pissed off at being treated like that. That goes to show that that’s her personality.”
+Thirty-four years after leaving the high school world, Delaney-Smith can now call herself the winningest coach in Ivy League women’s basketball history. In that span of time, her journey as both player and coach has mapped remarkably well onto that of Title IX.
+When Delaney-Smith played for her high school team, women’s basketball wasn’t the game that we know today—six players took the court for each squad in a half-court contest.
+In 1971, just four years after Delaney-Smith hung up her jersey, all this changed. Women’s basketball spanned a full court instead of just a half court, and the game became five-on-five, the way it remains to this day.
+While the rules of the game may have changed in the intervening years, one thing has not. Delaney-Smith still has the same fire that drove her to coach six consecutive undefeated seasons at Westwood High.
+‘I KNEW ABSOLUTELY NOTHING ABOUT IT’
+Delaney-Smith had never intended to coach on the hardwood. After graduating from Bridgewater State in 1971, Delaney-Smith sought out a job coaching swimming.
+However, Westwood High was looking for a jack-of-all-trades—when she came to the athletic directors looking for a swimming job, they agreed but had an additional request: that she would coach the basketball team, as well.
+The game had just undergone its change to five-player, a style that Delaney-Smith was wholly unfamiliar with.
+“I knew absolutely nothing about it—nothing, nada, zero,” Delaney-Smith said. “[The directors] hired me because I told [them] I could win.”
+And win she could. In her seven years as head swimming coach, Delaney-Smith never lost a meet. But basketball was a different story. Her first team went 0-11, a record that sparked her competitive spirit.
+“I read every book and went to every clinic,” Delaney-Smith remembered. “I just fell in love with the sport of basketball, and [now] here I am.”
+Her next decade in high school athletics saw her rack up 204 wins, a state championship, and numerous individual awards.
+“She was a legend,” DiVincenzo said. “All the kids coming up the pipe, we couldn’t wait to play for her because she was just bigger than life. The talk of the town was to be on the girl’s basketball team.”
+Huge crowds came to every game, something largely unheard of for a high school female athletics team. But her influence didn’t end in the in the win-loss column. She was ever a proponent for equal treatment between her team and that of the boys.
+“She did everything,” DiVincenzo added. “She was in there fighting with the athletic director, fighting for us at every turn…. We did stuff that no one did. She really put herself on the line, and I know she got herself in hot water a lot. Her job was in jeopardy when she did this kind of stuff.”
+Delaney-Smith fought for better practice hours, jerseys, and sneakers for her team. She encouraged her players to go to summer weight-lifting programs where the only other attendees were football players.
+“Nothing was equal for women [at this time],” Delaney-Smith said. “So I filed four lawsuits at the high school level. They made us wear woolen field hockey skirts for the basketball team in 1973, and I was like, ‘No, thank you.’ I asked properly, but I got told no, so I filed lawsuits.”
+Title IX gave Delaney-Smith the ammunition she needed to press for the equality she sought.
+“I just thought, ‘Stop treating the girls like second-class citizens,’” Delaney-Smith remembered. “I think if Title IX weren’t there, I [might not] have won the fights. I think it was very exciting and felt great that the Westwood High School girls’ program was where it was when I left because it was my hard work, [and] it was a whole lot of people’s hard work as well.”
+That mentality remained as she crossed the Charles River, joining Harvard as the women’s basketball head coach in 1982.
+‘ACT AS IF’
+With her successful track record at Westwood High, the calls began coming in for Delaney-Smith. Boston College, Boston University, and Providence all pursued Delaney-Smith, but she refused to take their calls.
+Delaney-Smith chose to only interview at those places that took Title IX—which had just reached its ten-year anniversary—as seriously as she did.
+“[When schools] would ask me if I was interested in coaching their team, I would ask them, ‘What is your men’s salary, and what’s your women’s salary, and what’s the equality like?’’” Delaney-Smith explained. “[Other schools] didn’t care as much, I didn’t think, [as] Harvard did. So in 1982, when Harvard asked me to apply for the job, that mattered to me.”
+But when Delaney-Smith got the call to interview at Harvard, nagging stereotypes made her decision anything but clear.
+“I would say that I grew up in a family that had a misperception of Harvard,” Delaney-Smith said. “I thought it was rich, preppy, entitled, [and] geeky.”
+Despite her hesitations, Delaney-Smith came to Cambridge for an interview—a visit that changed her entire mindset. After meeting with the two captains, Pat Horne and Kate Martin, along with the rest of the team, Delaney-Smith was sold.
+“Everybody I met was the opposite of the perception I had,” Delaney-Smith said. “I just did [the interview] because people told me professionally I should, and so I was surprised that I fell in love with it that day. Then I wanted the job, and Harvard takes its time choosing who it wants, so they tortured me a little, I think.”
+Delaney-Smith ended up getting the job, and, from that point on, she never looked back.
+The now-collegiate coach picked up right where she left off, paving the path for women’s athletics.
+DiVincenzo, who followed her from Westwood High to Harvard, spoke to the continuity in Delaney-Smith’s actions between the two schools.
+“In college, she was always doing the same thing [as in high school], challenging [even when] she was up against larger and older friend groups,” DiVincenzo said. “The guys had a longer history and a deeper bench to call from, but she was always trying to get the women on parity with the men. She would never accept anything less.”
+She backed up her pleas for equality with success on the court.
+In the 1981-1982 season, the year prior to her arrival, the Harvard women’s basketball team amassed a 4-21 record, going 1-5 in the Ancient Eight.
+By 1986, the team won the Ivy League title—the first in program history.
+One decade later, Harvard earned its first bid to the NCAA Tournament—a feat topped two years later, when Delaney-Smith’s squad took down No. 1 seed Stanford in the first round of March Madness. The 71-67 victory was the first time in tournament history that a top-seeded team had fallen in the first round—an event that Delaney-Smith called a “phenomenal experience.”
+Delaney-Smith transformed a program that had once been consistently below .500 into one in which winning was considered the norm. Since that inaugural title just five years into her tenure, Delaney-Smith has added 10 more banners, six NCAA Tournaments, and four WNIT appearances.
+Throughout these victories and championships, Delaney-Smith preached one steady mantra: Act As If.
+“[Act As If] meant that if you had a bad test, a fight with your roommate, or weren’t feeling 100 percent, well, act as if you do feel 100 percent,” DiVincenzo explained. “You show up, put your game face on, and act as if everything is okay. Don’t ignore your problems, but when you’re here, be 100 percent here. She did this every single day.”
+Delaney-Smith most embodied her own motto when she was diagnosed with breast cancer in 1999. According to DiVincenzo, even through chemotherapy and radiation, Delaney-Smith never missed a day of practice.
+“Kathy always showed up, no matter what was going on in her life, and most of us were too selfish or naïve to understand that she had a life outside the court,” DiVincenzo said. “She’d show up, and it was as if there was nothing more important in her life than that basketball practice or game.”
+But the cancer affected Delaney-Smith’s life more than she let it show. Within a few months of her diagnosis, she went public about the disease, seeking to inform others about its implications. She reached out to other women suffering from cancer, hoping to assuage some of the anxiety.
+“No one really told me what it was going to be like going bald,” Delaney-Smith said. “I had enormous fear over the chemotherapy because I didn’t know anything about it, and after having gone through it, you don’t have to have that fear.”
+Delaney-Smith also preached the concept of staying busy throughout cancer’s trials.
+“I would talk to a lot of people about working,” she added. “ I always think that’s a good thing, to be distracted from the thought of cancer. I think most of the people that took time off wished that they didn’t because it’s just lousy to sit around thinking about it.”
+‘LET’S CREATE A LITTLE MORE HISTORY’
+Over her 31 years at Harvard, Delaney-Smith has recruited, coached, and graduated over 100 women. The result of that, according to Trisha Brown ’87, is an incredible alumni system.
+“It’s pretty unique in this day and age and in this profession for someone to be in one place and be so successful in one place for thirty years,” Brown said. “She isn’t just a basketball coach, and it isn’t just about that experience. It’s really about her genuine care for you as a person, and I think as an undergrad, once you get to see alumni weekend and experience it, you know it’s something very special.”
+Delaney-Smith’s longevity has created a community and culture of family around Harvard women’s basketball, according to Jess Gelman ’97, who was a part of the team that went to Harvard's first NCAA Tournament.
+“[To have such a large portion] of your alumni base come back is incredible,” Gellman said. “It’s just an indication of how much of an impact Kathy has had on all of our lives…. She doesn’t really ever stop coaching. She may notice something that you’re doing in your life, and she isn’t afraid to offer her opinion, and you really respect her…. She says, ‘Here’s where you need to improve,’ and it’s sometimes a difficult conversation, which is why she’s so successful.”
+Her annual alumni weekends bring to Cambridge those that she coached both at Westwood and Harvard. The collective alumni take part in friendly competitions, contests that Gellman jokingly described as “poorly played.”
+It’s been 42 years since Delaney-Smith first picked up a coaching book on women’s basketball, and in that span of time, she has witnessed numerous changes in the sport. Thirty-one seasons, 495 wins, and 11 Ivy League titles after Delaney-Smith’s arrival in Cambridge, the decorated coach isn’t done yet.
+“Everyone asks me when I’m going to retire, and I have my company line,” Delaney-Smith said. “It’s ‘when I’m not good, or when I don’t love it.’ And, right now, I’m okay—I have a lot of titles, so I can still say I’m okay, and I still love it.”
+Looking forward, Delaney-Smith has one goal in mind.
+“Let’s create a little more history somehow,” Delaney-Smith said. “That’s my plan.”
+—Staff writer Samantha Lin can be reached at samantha.lin@thecrimson.com. Follow her on Twitter @Linsamnity.
+—Staff writer Juliet Spies-Gans can be reached at juliet.spies-gans@thecrimson.com.
+This article has been revised to reflect the following correction:
+CORRECTION: December 19, 2013
+An earlier version of this article misspelled the last name of Jess Gelman ’97 and incorrectly stated which Harvard women's basketball team she belonged to. In fact, she played for the team that went to Harvard’s first NCAA tournament, not the team that defeated Stanford.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+ 
+Throughout her tenure, Harvard President Drew G. Faust has discussed countless topics, ranging from the University’s email scandal to her thoughts on global health, gracing the masses with her notably lyrical oratory time and time again.
+We now ask our readers: can you distinguish between Faust's quotes and lyrics from actual songs?
+We’ll start off with an easy one:
+ 
+“I’m the president of Harvard.”“I came in like a wrecking ball.”
+ 
+In case you’re wondering, the first one here was Faust. Now for the actual test. Remember that in each section, one quotation comes from Faust and one from a musical artist. Click on each quote to see where it's from. Have fun!
+ 
+“Keep in mind the almost limitless possibilities.”“Your time has come to shine. All your dreams are on their way.”
+“Go to where you want to be. You can always circle back to where you have to be.”“Do what you want to do.”
+“If the children don’t grow up, our bodies get bigger but our hearts get torn up.”“We are all proud of these young people.”
+“What does a good life look like?”“When you want more than you have, you think you need.”
+“Let us welcome the rhythm of change.”“They say things are done for the majority. Don't believe half of what you see and none of what you hear.”
+Sections
+We at Flyby encourage the humanities departments to take action to stop the much-lamented decline of humanities by creating new courses. These courses, conveniently labeled “m” for money, may succeed in luring students of STEM to the house of humanism and soothing their worries with regards to post-graduation employment. These courses will all betoken the nuanced utilities of humanities courses in the most obvious manner. Students will get a chance to answer questions that have real life applications, and gain both intellectual enhancement and practical skills.
+Literature 91mClose Reading of the Dow Jones
+Through close readings of the Dow Jones Industrial Average, this course introduces students to the key concepts of financial analysis and literature at the same time. Each week, the students will write a response post about the Dow Jones using one of the literary styles Joyce employs in Ulysses. The students will gain a mastery of Ulysses without having to read the book itself.
+Music 193mTopics in Elevator Music: Proseminar
+Music of the working man: a survey of elevator and background music. This course will teach you the art of effortless listening, without requiring any conscious effort so that you can eavesdrop on morning or after-work gossip on the elevator. Readings will include "Elevator Music: A Surreal History of Muzak, Easy-Listening, and Other Moodsong" and the "Goldman Sachs Elevator Twitter feed."
+HAA 138mArt Collecting
+What does the art in your living room represent? This seminar will teach you how to find the most sought out works that are within your budget limits without being well versed in art. Students will learn how the art market works, how to invest wisely in artworks, how to buy and sell art, and how to choose a bank by looking at their art collection. 
+English CmCreative Coding: Workshop
+This workshop course is for students with prior experience in coding. Students will examine various programming languages, and discuss how they can be used to create innovative works of literature. Students will work on their creative code, which will be functional as a program, and will be a literary work at the same time.
+FRENCH 61mIn Search of Lost Time: Reinventing the 24-Hour Day
+In this course, students will engage in reading Proust’s "In Search of Lost Time" in its entirety. There will be overnight reading sessions scheduled to train the students to work 20-hour days. Enrollment in the course requires receiving clearing from UHS and signatures from the student, their academic advisor, and the Resident Dean. The teaching staff cannot be held accountable for any health problems the students may develop.
+RELIGION 115mAfterlife in Modern American Life
+This course explores religion’s role in career choice. Readings will include Dante’s Inferno, The Bible, and the Quran. Students will discuss various sins that are associated with different occupations, and explore whether their career choice is a straight route to hell. We will also read excerpts from St. Augustine’s Confessions, Rousseau’s Confessions, and Casanova’s Histoire de ma vie to explore effective ways to confess to one’s sins and crimes.
+Phil 28mOn the Genealogy of Morals: Nietzsche to Madoff
+Nietzsche and Madoff both grapple with questions of morality: Is there good or evil? What is the origin of morals? We will launch a discussion to explore the principles of morality in today’s world by exploring cases from the finance world. We will also examine moral qualms about working in finance raised by students in the class. This course will prepare you to work long years in finance without hurting your conscience or feeling selfish.
+VES 76mArt of Benjamins: Studio Course
+This studio class will focus on how to make art with your extra money. The main emphasis of this course will be on paper mache, but students are encouraged to suggest other ways of making art with paper bills and coins. This course will train students to be comfortable with making more money than they will ever need, and not doing anything traditionally regarded as useful with it.
+Sections
+It's really starting to feel like winter is here. Enjoy the sunny, cold, Thursday!
+IN THE ATMOSPHERE
+With a high of 49, it will be chilly. Wear as many layers as you can find.
+IN THE DHALLS
+On the Lunch Menu:Chicken FingersPepperoni PizzaChipotle Black Bean Burger
+On the Dinner Menu:Cajun SalmonChicken Tikka MasalaVegetarian Loco Moco
+ON CAMPUS
+Thursday Lunchtime Organ Recital SeriesLike every Thursday, there will be a 30-minute concert today on the famous 1958 Flentrop organ. Bring your lunch! 12:15 p.m., Adolphus Busch Hall (29 Kirkland St.).
+"Poetry as a Spiritual Practice" with Jonathan Betts FieldsMDiv candidate Fields will share research and wisdom about a poetry and spirtuality. 1 p.m., Common Room, CSWR, 42 Francis Ave.
+IOP ForumGeneral Raymond T. Odierno (the U.S. Army's Chief of Staff) in conversation with Professor David Gergen (that guy from CNN), 6 p.m. in the JFK Jr. Forum.
+Sections
+Drunk actor. Video gamer. Staunch conservative. And star student.
+All of these titles would accurately describe Senator Ted Cruz when he was a student at Harvard Law School, according to a recent story by The Boston Globe.
+The 1995 Law School graduate (despite the objections of some) and Republican from Texas had his fair share of adventure when he lived just north of the Yard. Known throughout campus for both his brilliance in the classroom and his vocal, conservative views which stood out among those of his liberal professors and peers, The Globe reports, Cruz was determined to clerk for Supreme Court Chief Justice William Rehnquist as soon as he stepped foot on campus in his cowboy boots (which he wore to class). Perhaps this explains why he took his study groups so seriously.
+Yet he nevertheless detoured from the halls of Langdell Library when he auditioned for a production of "The Crucible" put on by the Law School drama society to commemorate the 300th anniversary of the Salem witch trial (perhaps an attempt to rekindle his high school aspirations to be a professional actor). Cruz played the role of the Reverend Samuel Parris in the play, which was written in the 1950s as an allegory to Senator Joseph McCarthy's hunt for communists. After opening night, however, according to The Globe, Cruz had a little too much fun at the cast party, drinking so much Everclear that he could not perform the entirety of the show the next night.
+Cruz's room in Hastings Hall was also no stranger to excitement. The Globe feature tells us that in 1994 Cruz hosted a "Republicans Take Back the House Party," and he would sometimes stay up late playing hours of the popular Nintendo game "Super Mario Brothers." Finally, proof that successful HLS students don't just study all the time!

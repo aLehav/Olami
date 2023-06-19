@@ -1,0 +1,64 @@
+What does U.S. Central Command, which is the Tampa-based military command post for U.S. forces fighting overseas, have in common with actress Jennifer Lawrence and the Sony Corporation?
+
+
+Weak cyber security.
+
+
+Though CentCom’s Twitter and YouTube profiles were reportedly the only accounts hacked by a user called CyberCaliphate, who claimed alliance with Islamic State militants, there was cause for alarm as threatening tweets were sent out and CentCom’s profile picture was changed to feature a masked figure with the phrase “I love you ISIS.”
+
+
+“AMERICAN SOLDIERS, WE ARE COMING, WATCH YOUR BACK!” one tweet read from @CENTCOM on Monday afternoon.
+
+
+“ISIS is already here, we are in your PCs, in each military base,” another read.
+
+
+According to a statement from CentCom, the hack lasted roughly 30 minutes and resulted in both accounts being temporarily suspended. Operational military networks were not comprised and there was no impact on CentCom operations.
+
+
+“We are viewing this purely as a case of cybervandalism,” the statement said on CentCom’s website.
+
+
+As of Monday evening, the accounts were reactivated.
+
+
+Though CentCom is only the latest in a series of highly publicized hacks in recent years, including 2014’s laundry list of leaked photos of nude celebrities and Sony’s recent controversy with North Korea, one expert at USF said this will not likely be the end of cyber security attacks.
+
+
+Sri Sridharan, managing director and chief operating officer for the Florida Center for Cybersecurity (FC2) at USF, said attacks like these will only get worse before they get better.
+
+
+Across the globe, Sridharan said governments and private enterprises are investing millions of dollars into securing infrastructure and data from cyber attacks.
+
+
+“Cyber war is going to take over the traditional war we’ve been fighting,” he said.
+
+
+Sridharan, who leads the state’s cybersecurity program to educate and prepare individuals in the ever-changing world that has become increasingly reliant on technology, said it takes several steps to protect data: First, increasing the number of gates protecting your data, and then increasing the number of eyes watching those gates.
+
+
+However, there is no such thing as 100 percent foolproof, he said.
+
+
+“If you’ve got an IP address, people can figure out a way to hack it,” he said. “It might take them a long time, it might be pretty complex to navigate and get the data, but soon people will find a way to get through it.”
+
+
+On the other hand, no matter how advanced your technology is, Sridharan said there is always a human element in computers that can cause fault.
+
+
+“It’s proven that 60 to 70 percent of hacks are the result of human beings,” he said. “… All it takes is one person to have a weakness, and then everybody else suffers as a result, which is what happened with Sony.”
+
+
+It is this human factor which Sridharan and FC2 work to train and educate so as to protect the world from future cyber threats.
+
+
+Currently, FC2 collaborates with all of the state’s public universities to offer training anywhere from a graduate certificate in information assurance to a master’s degree in cybersecurity.
+
+
+“… The worldwide need will be 3.5 million cyber professionals in the next few years,” Sridharan said. “All institutions need to implement cyber programs to teach students with skillsets in various aspects of cyber security. It will be a few years for the supply to catch up with the demand. We need to create awareness and a sense of urgency to provide the training.”
+
+
+This future awareness is what Sridharan said he hopes will prevent future threats, such as the incident with CentCom.
+
+
+“There are two things I’m sure CentCom is doing,” he said. “Making sure that this doesn’t get worse… (and) figuring out how did these people get in in the first place, what happened, and to figure out the forensics of how this event took place and to make sure they know how to protect themselves.”

@@ -1,0 +1,56 @@
+A $25,000 grant endowed by the Truist Financial Corporation has allowed USF researchers to develop a hub to store information on COVID-19 cases throughout Florida.
+
+
+With the coronavirus (COVID-19) still spreading across the state, USF is not only keeping the public informed, but also creating a community of researchers to share information and collaborate to find solutions through research
+.
+
+
+On May 15, USF Libraries received a grant of $25,000 from the Truist Financial Corporation to establish the COVID-19 Research and Information Fund. The fund was created to support programs geared toward research on COVID-19.
+
+
+Among the programs created by the fund, the COVID-19 Hub was established as a resource to collect and archive data relevant to COVID-19 in Florida, as well as provide access to real-time news for collaborative work.
+
+
+With the grant, the fund will be able to keep the platform up to date and keep it operational, according to Lori Collins, research associate professor and co-director of the Digital Heritage and Humanities Collections.
+
+
+“The funds are going to help to keep the students employed and for equipment storage as well as the development support,” said Collins. “It is critical to keep the information up to date and keep the platform flowing.”
+
+
+Currently, the Hub is run by three faculty members and employs five geographical information system (GIS) professionals and three graduate assistants.
+
+
+The Hub reports in real time in a way that can be easily read through a GIS. A GIS is “a technological field that incorporates geographical features with tabular data in order to map, analyze and assess real-world problems,” according to gislounge.com.
+
+
+West Florida Regional President of Truist Financial Corporation Jim Daly announced May 15 on the USF Foundation website that the Hub will help workers respond to the pandemic as quickly as it spreads.
+
+
+“In this rapidly evolving situation, having access to real-time data and tracking capabilities is critical to slowing the spread of the virus,” said Daly.
+
+
+The platform was created after the initial cases in Florida were confirmed in March, first in Tampa and then branching out. What makes the Hub different from other datasets is the archives, according to Collins.
+
+
+“We started grabbing all the archive data from day one when the Florida Department of Health started releasing information,” said Collins. “Every day they write over their data, so we decided what was necessary for researchers long term was to take snapshots of those data sets.”
+
+
+Recently, USF researchers have been using the platform to display data, tools and applications relevant for COVID-19 research. Besides being a centralized place for the public to gain access to researchers’ information, the Hub also serves as a forum for other researchers to post surveys and polls and reach a large population.
+
+
+For example, the USF College of Public Health collaborated with the Hillsborough and Pinellas County Departments of Health to create the COVID-19 Associated Symptom Surveillance survey to monitor symptoms of residents in the area. The GIS tracks where large amounts of symptoms are reported to provide COVID-19 testing to areas in need.
+
+
+The Hub utilizes the GIS to present data through visuals such as a live updated map of confirmed cases and deaths in Florida by city and county. The website’s algorithm pulls raw numbers from different sources to display on the dashboard and provide updates in real time.
+
+
+As of May 27, the website had more than 500,000 views and has become a valuable tool in the research community.
+
+
+Through a community approach, the Hub allows individuals to view featured applications, for example, ready-made dashboards that include valuable information such as a map of Florida with real-time updates of coronavirus outbreaks. The Hub uses a one-stop approach for data. It is a way for researchers to contribute or find what they need and build a community to keep people informed.
+
+
+While it serves many functions for the community outside USF, the Hub is also a learning opportunity for students.
+
+
+“There was a lot of fear from the students’ part as to what was going to happen, so one of the things that was crucial to us from the beginning was that we find a way to actively engage our students, to keep them working, keep them thinking about science and applications and learning and getting high-tech skills,” said Collins. “I think that our students have gotten great exposure from this project.”

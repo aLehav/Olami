@@ -1,0 +1,483 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+“We always find something,” posits one of Samuel Beckett’s quixotic protagonists in “Waiting for Godot,” “to give us the impression we exist, [don’t we]?” “Yes, yes, we’re magicians,” snaps the other in response, before reaching down to wedge a pair of boots on his compatriot’s feet.
+To give us the impression we exist.
+In a play whose every absurdity undermines the purpose and direction we associate with life, this line holds extra weight: How do we know we exist? What keeps us going? What makes us alive?
+These are all big questions, and after quite some time in medias pandemic, they’re ones that I’ve found myself reflecting on more than usual. I used to define my life by the actions, routines, habits that gave me forward momentum: the nine-to-five bustle of a college-class day, the chirp of a 5:55 a.m. alarm through a pitch-black morning, the glimmer of Thanksgiving on the other side of midterm-week blues. That was what gave me the impression I existed, to borrow Beckett’s phraseology — the tantalizing not-quite-understanding that I was working towards something, that I was metabolizing my experiences and my movements to reach someplace new.
+But for the last eight months, to tie it all back to “Waiting for Godot,” we’ve been living in one big pandemic-themed theater of the absurd. Our daily lives have been blown apart and stitched back together with bizarre extremes, an unrecognizable new norm making the quotidian we took for granted seem all the more alien. Just as Beckett’s never-arriving Godot subverts that very forward momentum around which I delineated my life, so too has this pandemic forced us to reconstruct just what gives us the impression we exist.
+The peculiar thing about it is that, with no easy way to define our own lives, we’ve instead put all our psychological effort into animating the protagonist of our pandemic: the coronavirus. Or, to be more specific, SARS-CoV-2, the virus that causes the disease COVID-19. SARS-CoV-2 might be nothing more than tiny waxy packages of chemicals, but to the battered public consciousness, it’s gained a life of its own. Who hasn’t heard the coronavirus characterized as “smart,” or read a pundit’s comments on what the coronavirus “wants” to do, or even just seen it in pictures as a green-and-red ball with angry eyebrows and a face?
+And it’s not just the public who find themselves stymied by the interpretation of viruses, either – for decades, viruses have been undermining everything scientists use to define what gives living beings the impression they exist. The word “virus” itself comes from Latin for “poison,” because they first appeared to scientists in the late 1800s as some disease-causing agent (or “pathogen”) invisibly smaller than bacteria, which for hundreds of years we’d known as wriggling, living things. It wasn’t until 1935, when Wendell M. Stanley used an electron microscope to isolate a virus for the first time, that scientists got quite a shock.
+Unlike bacteria, which have membrane-bound cells, robust genomic DNA, and myriad enzymes to let them “eat,” “drink,” and reproduce just like we do, viruses … don’t have any of those. A thousand times smaller than the simplest bacterium, viruses like SARS-CoV-2 consist of nothing more than a fickle 30,000-base-pair spool of RNA wrapped up in a waxy phospholipid envelope, with four different proteins that hold it all together. That’s it. They have absolutely no means of staying alive on their own. If you consider the cell to be the base unit of life, a teeny-tiny ecosystem, then viruses are more like a lump of chemical scrap materials — not alive by any biological definition.
+But viruses, as we very well know by now, wreak far more havoc than a lump of chemical materials should. When a virion (individual particle) of SARS-CoV-2 floats through the air and into the respiratory tract, its “S” (spike) protein on the outside of its envelope gloms on to a particular protein on the surface of lung cells. A fusion peptide comes out like a grappling hook to grab the lung cell membrane and fuse the viral membrane with the host cell’s, spitting its RNA into the cell. Once inside, the viral RNA inserts itself into the lung cell’s protein-production machinery, and the host itself unwittingly produces dozens of new virions to go out and infect even more cells, setting off immune alarm bells that cause inflammation and disease.
+That’s why viruses stretch our definition of life itself. If viruses aren’t alive by any biological means, how come they seem to act with purpose, to target us as a society? They’re inanimate, unthinking lumps of chemicals, yet this one has torn our lives so far apart that we can’t bear to see it as what viruses really are: stochastic material, without motive, products of pure bad luck. And that’s the real, complementary absurdity of “Waiting for Godot” and the coronavirus. Like Beckett’s play, viruses have no forward momentum or decision or direction; they just are. More viruses exist on our planet than there are stars in the sky, and by nothing more than the random dice rolls of evolution, this one has transcended its mundane existence to become the unthinkable, the absurd.
+So maybe that’s a lesson from this pandemic, then, from science and from art as one: Our impression that we exist is just that. We’ve been trying to make this virus seem alive, to give it purpose, because in this pandemic we ourselves have lost that purpose we used to define our lives. But the coronavirus teaches us that life, whether it be on campus or at home or inside a cell membrane, isn’t inherently good or inherently bad or inherently out to get you. It just is, and there’s something freeing in that.
+Tessa K.J. Haining ’23 lives in Adams House. Her column appears on alternate Fridays.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+“Let’s go around and share our names, pronouns, years, Houses, and concentrations!” It’s the Harvard Introduction™, and as a first-year student, I’ve been giving these out left and right. Name, year, House, concentration: these may be boring, but they’re all generally good introductory facts for people to know about you. With regard to pronouns, however, insisting that people introduce themselves with their pronouns, fill out forms with them, or append them to their Zoom names can actually harm the community it intends to support.
+I will preface my argument by saying that I fully support the usage of preferred gender pronouns. Stating PGPs can reduce the chance of accidental but still hurtful misgendering, and the normalization of sharing pronouns emphasizes the fact that everyone has preferred pronouns, not just trans and non-binary folks. So this is not a piece arguing “we don’t need pronouns because you can tell someone’s gender from their physical appearance, so you never need to ask” — that’s bigotry. This is a piece about the complexities that arise from requiring everyone to state their PGPs.
+One such complexity relates to the inherent complexity of outness. While in my experience Harvard’s community is generally welcoming to various gender and sexual identities, outness is intricate and personal. For those who are closeted with respect to gender identity, mandatory PGPs can force people into an uncomfortable lose-lose of either outing themselves before they’re ready or lying and feeling incredibly dysphoric. And while withholding PGPs can lead to others unintentionally misgendering you, self-inflicted dysphoria is a whole other beast, which, depending on the person, may be more painful than being misgendered.
+Outness can also be situational. Not everyone is comfortable with their entire entryway or CS section or breakout room knowing how they truly identify. Just like preferred names, some people’s preferred pronouns depend on context. We might want our closest friends to call us Ty instead of Tyler, but would feel uncomfortable if strangers or distant acquaintances called us Ty. Similarly, we might want our close friends to use our true preferred pronouns of they/them with us, but pass as she/her in a less accepting, larger world. Requiring someone whose PGPs are situational to state definitive PGPs in front of a wider group than they are comfortable with only worsens the aforementioned lose-lose situation. Some people may not want to share their true PGPs with a crowd of people they don’t know yet, but would also like to avoid the dysphoria of misgendering themselves in their introduction.
+Furthermore, some people just don’t have an answer to the question of pronouns at the moment. For gender-questioning folks, what may seem like a simple question is just the tip of an iceberg of deep personal contemplation. Unfortunately, the expectation when asked for your pronouns is not a rumination on the social constructions of gender. PGP-askers expect a she/her, a he/him, or occasionally a they/them, solely for the purpose of knowing how best to refer to you in third person. Saying “I’m not sure yet” when asked for your PGPs is valid, but maybe you don’t want everyone to know that, since it won’t help the people trying to refer to you anyways.
+In a similar vein, sometimes the pronouns themselves are complex. PGPs are expected to be a word or two long, but sometimes they require a footnote or addendum. I personally take any pronouns. But people by and large are uncomfortable with that idea, even though “any” literally means you can’t get it wrong. So I often need to qualify my PGPs as “any pronouns — people generally use she/her,” since I have a woman’s body and a woman’s face and I know people are most comfortable using she/her to refer to me. As you might imagine, that’s a little long to fit on the end of my display name in Zoom.
+There is no clear-cut solution here. A common suggestion is stating pronouns if comfortable, but PGPs are not yet ingrained enough in our culture for people to state them unprompted. Any proposed solution to this balancing act of a problem will put some portion of the trans and non-binary community in uncomfortable situations. So while we might mandate PGPs with the best intentions towards our trans and non-binary friends, we need to remember that sharing preferred gender pronouns is not an unequivocal good. In our Harvard introductions, Google forms, and Zoom names, sometimes discretion is best.
+Christina M. Xiao ’24 is a Crimson Editorial comper in Mather House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+To the editor:
+In a recently published column (October 14), the author claims that Beethoven’s music has run its course. He argues that classical musicians and institutions should eschew the composer’s 250th anniversary in favor of “smaller celebrations of [...] other musical giants.” As directors of Harvard Radio Broadcasting’s Classical Music department, which will broadcast the complete works of Beethoven later this year, we are among his celebrants. And while there is something to be said for being wary of classical music’s fixation on Beethoven, we strongly disagree with the implication that there is nothing more to be learned from his music, as well as with the author’s notions of what would constitute a newer, fresher, more inclusive classical music canon.
+Beethoven’s music has long enjoyed preeminence. It has been recorded for over a century, and performed, lauded, and debated for much longer. But rather than read this history as evidence that there is nothing new to learn, we might ask ourselves, not rhetorically but quite sincerely: why has Beethoven stuck around for so long? The answer, we suspect, is that generations of musicians, scholars, and audiences have found in his music not the same things, but different things — new themes and ideas, new interpretations and areas of contention. It strikes us as arrogant to presume that the correct interpretation of any music is a settled question. Moreover, it is plainly wrong to suggest that any listener already knows everything there is to know about Beethoven. In short, we need not resort to hyperbolic adulation in order to recognize Beethoven’s continued relevance.
+We agree wholeheartedly that there is other music besides Beethoven. Indeed, we think that it is critical, for the sake of classical music’s longevity, to breathe new life into an often fossilized canon. But revisiting other warhorses — like J.S. Bach’s “Brandenburg Concertos” or George Gershwin’s “Rhapsody in Blue” — would be ineffective to Wilson’s own stated goals, as is observing a greater range of anniversaries. That unfortunately sediments classical music in the past. Composers today continue to create beautiful, thought-provoking music that challenges classical music’s assumptions and pushes its boundaries. Our programming at WHRB reflects this fact, and we have long called upon other institutions to do the same.
+Moving beyond Beethoven must also mean intentionally elevating the works of historically marginalized composers. Who is being left out when calls for expanding classical music center entirely around white men? There are women composers, BGLTQ composers, Black composers, and other composers of color with limitless talents that deserve similar celebration. If genre expansion is truly the goal, as it should be, it is far more important to hear or perform Coleridge-Taylor Perkinson’s piano sonatas, Ethel Smyth’s orchestral works, or any of Jessie Montgomery’s stirring compositions and performances, to name just a few.
+We heartily encourage classical music listeners, both new and old, to join us at 95.3 FM and explore classical music’s countless dimensions. Some of our current programs include “Horny on Main,” which features horn music; “Hearing Gender,” which analyzes a historically male-dominated genre through an feminist academic lens; and “Classical Innovations,” which focuses on contemporary and cross-genre compositions that rarely go over the airwaves. And of course, you can tune in to over one hundred hours of Beethoven this December. We guarantee you’ll hear something new.
+Kevin P. Wang ’23 is a Government concentrator in Currier House. Ellie M. Taylor ’22, a Crimson Arts editor, is a Social Studies concentrator in Mather House. The two are co-Directors of the Classical Music Department of Harvard Radio Broadcasting.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: October 19, 2020, 12:05 a.m.
+Harvard’s Faculty Council launched preliminary discussions Wednesday about how to support students and faculty following next month’s presidential election.
+“Just brainstorming together, but I suspect something will come of it,” Council member and Philosophy chair Edward J. “Ned” Hall wrote in an email.
+President Donald Trump’s 2016 victory left much of Harvard’s largely liberal student body stunned and concerned about what a Trump presidency could mean for them and their families. Following Election Day in 2016, Harvard administrators and House Faculty deans emailed messages of support to students and offered to host discussions about the political shift.
+Current polls indicate that former Vice President Joseph R. Biden has a significant lead over Trump, but the Council’s meeting Wednesday suggests that administrators are mulling a variety of outcomes. They may face an even more significant challenge supporting students as three-quarters of undergraduates attend classes remotely due to the coronavirus pandemic and those on campus live largely isolated in their dorm rooms.
+Just six percent of Harvard students who responded to Crimson’s pre-election survey in 2016 planned to vote for Trump. An even lower percentage — 4.7 percent — of respondents to this year’s Freshman Survey indicated a favorable view of the president.
+The election results will also have significant effects for Harvard as an institution, which has clashed with the current administration. Just three of 260 respondents to The Crimson’s 2020 faculty survey indicated that they support Trump.
+The Faculty Council on Wednesday also heard a report on the Harvard libraries’ coronavirus measures and received a virtual tour of the School of Engineering and Applied Sciences’ new Allston campus from SEAS Dean Francis J. Doyle III, according to Hall.
+Harvard initially planned to hold classes at the Allston campus in fall 2020, but the pandemic pushed back its planned opening. The School of Engineering and Applied Sciences will begin moving across the river next month, with classes slated to begin for the 2021-2022 academic year.
+—Staff writer James S. Bikales can be reached at james.bikales@thecrimson.com. Follow him on Twitter @jamepdx.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Climate leaders, Harvard faculty, and students discussed governmental actions and economic reforms needed to address climate change during an online webinar on Thursday.
+Panelists included Woodwell Climate Research Center Executive Director Philip B. Duffy, Water Director of the Environmental Protection Agency Region I Ken Moraff, Director of Harvard’s Edmond J. Safra Center of Ethics Danielle S. Allen, and Divest Harvard member Connor Chung ’23. Miles S. Rapoport ’71, Senior Practice Fellow at Harvard’s Ash Center, moderated the discussion.
+The panel examined several aspects of tackling climate change, including democratic reform, the role of the private sector, and partnerships with developing countries. The speakers emphasized the significance of public and private partnership and interdisciplinary approaches.
+For Moraff, “systems thinking in the climate change world is really important” and can lead to the integrated policy that Allen said she believes is a viable solution to climate change.
+The panelists also emphasized that climate change reform will require collaboration between scientists, researchers from other fields, and the government.
+“[Climate action is] not something that the scientific community can do alone,” Duffy said. “We work with other academic disciplines and folks in the real world to help flesh out those human consequences of climate change.”
+In particular, Moraff explained how designing a “green infrastructure resilience program” with multiple fields in mind can “unlock some real economic rewards and many solutions that you wouldn’t have found otherwise.”
+The panelists also expressed what they view as the need to frame international climate change partnerships as economically beneficial steps for developed countries, rather than as charity.
+“Nobody likes foreign aid,” Duffy said in an interview following the event. “This is not charity. This is an important step to ensure a viable future for ourselves.”
+Duffy said his approach to encourage collaboration with private corporations is “a little unusual.” He said he and the Woodwell Climate Research Center are attempting to appeal to the private sector’s self-interest and not “anyone’s altruism or civic mindedness.”
+Panelists also noted the disproportionate effects of climate change on racial minorities who have contributed “very little to creating the problem.” Duffy said that these groups, along with younger and unborn generations, often have “no voice” in the construction of policies meant to address these issues.
+Chung cited an open letter he helped organize that over one hundred economists signed. The letter described inequities the carbon economy amplifies.
+“We cannot avoid the fact that climate justice is economic justice, social justice, racial justice, and so on,” Chung said.
+The panel also addressed how the response to the climate crisis necessitates reforms in government representation. Allen, whose work centers around democracy reform, described the need for diversity and “giving space to the voice of young people” to advocate for climate issues.
+To conclude the event, the panelists urged Harvard affiliates to continue taking action through making conscious lifestyle choices, learning about community climate action plans, and voting.
+Philip W. Lovejoy — Executive Director of the Harvard Alumni Association, which co-sponsored the event — wrote in an email that the event aimed to “convene diverse voices to discuss the many dimensions of the existential threat of climate change.”
+“We hope these events spur further conversations that will lead to action in communities around the world,” Lovejoy wrote.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The City of Cambridge published a manual this month outlining its trauma-informed policing initiative and offering guidance on how to implement a similar program in municipalities around the country.
+In 2015, the City of Cambridge collaborated with the Cambridge Police Department to create peer support resources and training programs that emphasize mindfulness practices, improve interviewing skills, and promote a better understanding of trauma.
+Elizabeth M. Speakman, coordinator for the domestic and gender-based violence prevention initiative for the City of Cambridge, said the program first began when she and her team researched trauma-informed policing initiatives around the country. She said they found most departments focused on the impact of trauma either on the local community or within the police department, but none of them explored the intersection of the two.
+“There weren't departments who were holding both of those — and the intersection of how being traumatized by your job impacts your ability to support trauma victims out in the community,” she said.
+James W. Hopper, a teaching associate in psychiatry at the Harvard Medical School and an instructor in the program, said his teaching often draws on neuroscience to demonstrate a connection between police officers’ own experiences and the experiences of survivors of sexual assault.
+“I draw a lot of parallels between how the human brain responds to being attacked in a sexual way to how the human brain responds to being attacked on the battlefield or police officers involved in a shooting or a domestic violence call that spiraled out of control,” he said. “I'm just constantly saying like, ‘Hey, this is how evolution shaped our brains to respond to being attacked.’”
+Katia Santiago-Taylor, the advocacy and legislative affairs manager for the Boston Area Rape Crisis Center, who participated in the program, said the training also focuses on helping officers understand how the past traumas of a survivor of sexual assault will influence their response to a present incident.
+“Trauma is like a brick wall, and each incident is one brick, and my brick wall looks different than your brick wall,” she said. “Because my brick wall and your brick wall look different, my reaction is going to be very different than yours.”
+“That's what we want officers to understand — that many survivors are responding to the brick wall, not to just the one incident,” she added.
+The idea of outlining the program in a widely accessible guide stemmed from community interest, Speakman said.
+“Once there's a good idea, and people learn about it, there's no hesitancy in terms of reaching out and trying to mimic that idea or apply it locally,” CPD spokesperson Jeremy Warnick added.
+Alyssa Donovan, a victim witness advocate for the CPD, said the team often invites other police departments — including those from Boston, Somerville, Harvard, and MIT — and other organizations in an effort to achieve a more “well-rounded audience.”
+HUPD spokesperson Steven G. Catalano wrote in an emailed statement that several officers have attended training at the CPD and found it “meaningful.”
+Hopper said one of the primary goals of implementing this trauma-informed approach anywhere is to “change the culture of policing.”
+“It's to change the culture of policing, so it's more, quote, trauma informed,” he said. “That includes not just understanding the trauma of the people they work with — especially sexual assault victims who tend to be terribly misunderstood — but acknowledging and recognizing their own traumas and seeing the connections.”
+“I think all of our systems have a lot of work to do around supporting survivors of sexual assault and that is one of the focuses of the training,” Speakman said. “From the experience of offering this training several times and seeing service providers, officers, detectives, command staff go through the training and learn about how trauma affects the brain is really transformative.”
+—Staff writer Taylor C. Peterman can be reached at taylor.peterman@thecrimson.com. Follow her on Twitter @taylorcpeterman.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The Harvard police officer union and the University will meet in arbitration on Dec. 18 to discuss a forthcoming change in officers’ patrol schedule that the union alleges is a violation of its collective-bargaining agreement.
+In May, Harvard notified the police officer’s union — the Harvard University Police Association — that it plans to increase the number of consecutive days officers work to reduce the department’s expenses as a result of the financial strain caused by the coronavirus pandemic.
+Harvard University Police Department Chief Francis D. “Bud” Riley explained the University’s decision to increase the number of days officers work consecutively in a May 12 letter obtained by The Crimson addressed to HUPD officer Michael J. Allen, who serves as the union’s president.
+“The economic reality that the university faces affects every department of the university, including the Harvard University Police Department,” Riley wrote. “As a result of this reality, the department must look at all options in its effort to reduce operational expenses and to become more efficient in the delivery of our police and public safety services.”
+Per the union’s collective bargaining agreement, officers normally work four days in a row followed by two consecutive days off — a “4 & 2 schedule.” Either the union or the University can change the normal work schedule from four consecutive days to five consecutive days — a “5 & 2” schedule — upon 180 days’ notice if there is “reasonable cause,” the contract stipulates.
+Riley wrote in his May 12 letter that the change to a “5 & 2” schedule would take effect on Nov. 21.
+In a grievance filed against Harvard on June 3 that was obtained by The Crimson, the union claimed Riley’s rationale for changing the work schedule did not constitute reasonable cause. The union requested an independent arbitrator to resolve the dispute.
+According to four officers who spoke on the condition of anonymity for fear of retaliation, the change to the “5 & 2” will not reduce HUPD’s operational costs. HUPD’s expenses will not change because officers will receive the same salary, though they will work more days of the year, according to the union.
+In his letter, Riley wrote that the department would have to consider further cost-cutting moves that could affect members of the union.
+“You should also be aware that the department, notwithstanding this schedule change, must still find further efficiencies in order to comply with the budget direction given by the University,” he wrote. “This will no doubt cause further discussions regarding employment actions affecting HUPA membership.”
+If the department were sincerely committed to reducing expenses, officers alleged, it would trim other parts of its budget, such as the roughly 20 take-home vehicles it maintains. Previously, officers said they believed the department dolled out those cars to certain officers as a form of favoritism.
+What is more, union members claim that Riley is changing officers’ work schedule to retaliate against the union for filing labor relations complaints and for criticizing the department in The Crimson.
+Harvard spokesperson Jonathan L. Swain declined to comment for this article.
+Officers said the change in work schedule will significantly worsen their quality of life by preventing them from spending weekends off from work — unless they dip into their vacation time. As a result, they said they will have fewer moments to spend with their children and spouses. In a “4 & 2” schedule, the days in the calendar week that officers have on and off rotates. In a “5 & 2” schedule, however, officers who are scheduled to work weekends will always have to work those days.
+As a result, officers predicted the change in work schedule will further worsen department morale and may lead officers to leave HUPD.
+HUPD has not employed a “5 & 2” schedule for at least 20 years, according to current and former officers.
+The dispute is far from the first time the department’s leadership and the police officers’ union have clashed.
+In September 2019, the union condemned the department’s disciplinary handling of a violent and verbally-abusive incident between two HUPD officers. According to an internal investigation of the incident, a Black officer and a white officer engaged in a physical struggle after the white officer called the Black officer a homophobic slur. The union criticized the department’s leadership for suspending the Black officer and for not terminating the white officer’s employment at HUPD.
+More recently, the union’s executive board criticized an internal review of the department and called for an external investigation to objectively interrogate the department’s culture.
+HUPD leadership set in motion the review in response to an investigation by The Crimson that found repeated instances of racism and sexism within HUPD. The Crimson article cited nearly two dozen current and former department employees who held Riley responsible for creating a toxic workplace environment.
+—Staff writer Ema R. Schumer can be reached at ema.schumer@thecrimson.com. Follow her on Twitter @emaschumer.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The 2020 Nobel Peace Prize was awarded last Friday to the World Food Programme, where Stanlake J.T.M. Samkange ’82 serves as the Director of the Policy and Programme Division.
+The Norwegian Nobel Committee recognized the WFP with the honor in recognition of their work to combat world hunger and foster peace in conflict-affected areas.
+“It’s something you never really expect,” Samkange said in an interview Tuesday. “But it’s a great recognition for the work that we do, but more importantly for the issues and the people that we’re trying to help. I think it's a real boost especially in the 75th anniversary year for the UN.”
+Samkange oversees the WFP’s engagement with international financial institutions, such as the World Bank, Asian Development Bank, African Development Bank, and other sub-regional banks. He also oversees the program's Beijing office and the WFP’s relationship with the African Union.
+Former Minister of Agriculture of Liberia and Samkange’s colleague J. Chris Toe said Thursday that Samkange was instrumental in developing a strategic planning framework for the organization to improve conditions worldwide.
+Nell Scovell ’82, an author and television writer, attended Newton South High School and the College with Samkange.
+“If you would say, ‘who in the class of 1982 is going to be the first to win a Nobel Peace Prize?’ I absolutely, absolutely would have said Stanlake Samkange,” said Scovell, a former Crimson sports editor.
+“Stanlake’s too humble to say this himself but you know, there's this guy who has degrees from Harvard, Oxford, Stanford Law, and then takes all that knowledge and uses it to try to figure out how to solve global hunger,” she added.
+Much of Samkange’s work centers on the experiences of people living in areas where hunger and political conflict run high. During the decades-long conflict between the Colombian government and rebel groups, Samkange met a group of women refugees who traveled through areas controlled by rebels and militia groups to gain safety and education for their children.
+“Almost inevitably, it's about the people, though,” Samkange said. “What really sticks with me are the people that I met and come across, and just their stories, that are really often heartbreaking stories of people who end up being refugees, and how they got there.”
+In addition, Samkange said small farmers benefit from the WFP’s efforts: every year, the WFP buys $2 billion in food commodities to buy from local, smaller farmers to boost local economies. These interpersonal connections fuel his work, Samkange said.
+“Going and talking with people about what impact that's had, how it's helped to change their lives, how they're able to, without additional income, send kids to school, have a better house – this also really sticks with you,” Samkange said. “It gives you that boost you need to keep doing the difficult work that we do.”
+The number of people in extreme poverty has increased due to the coronavirus pandemic. According to Toe, the WFP has also directed attention towards transporting medical supplies on behalf of the World Health Organization.
+The WFP combats hunger and food insecurity directly for those in need of emergency assistance and develops long term sustainable goals, such as improving nutrition and sustainable agriculture.
+“Everywhere you serve, the one constant is working on behalf of people who are in need of what we often take for granted,” Toe said.
+With other WFP members, Samkange has returned in past years to the College, the Harvard Kennedy School, and the Harvard Business School to speak about the WFP’s work and mission.
+At the College, Samkange lived in Leverett House, fenced, and studied History. He said he developed an academic foundation and met a diverse group of people during his time at Harvard.
+“The exposure to people from everywhere, and a wide range of interests, I just found incredibly stimulating, so I enjoyed my time at Harvard very much,” Samkange said. “I look back on that as a very important period in my life, a very positive one.”
+Samkange said he believes that students can get involved with sustainability and help reduce issues of inequity and hunger in a myriad of ways, starting with gaining and spreading awareness about these issues. The WFP often recruits interns and volunteers from the College and the University, according to Samkange.
+“For me, I always feel that that's a very valuable investment for us,” Samkange said. “Because yes, we get somebody who can help do certain tasks at a particular time. But more importantly than that, we're getting somebody who is being educated about the issues, the challenges that we're facing, and hopefully will be somebody that carries that with them their whole life in whatever they do and hav[e] that spirit and that kind of engagement.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Following the suspension of in-person classes and clinical rotations in March due to the threat posed by COVID-19, instructors at Harvard Medical School — including Director of Faculty Development Barbara A. Cockrill — were given just under 24 hours to transition to online teaching.
+HMS instructors, many of whom are also clinicians, also faced the challenges of balancing the transition to online teaching and the rising number of COVID-19 cases. This resulted in a rising demand for physicians in hospitals to handle the influx of patients, Cockrill said.
+“I spent two weeks in the COVID ICU right after I finished my course. So there was a lot of strain, and still is on the faculty, navigating the needs of COVID and the needs of teaching,” Cockrill said.
+Maintaining the “Case Based Collaborative Learning” model unique to Harvard Medical School courses — which involves flipped classroom-style teaching — the instructors of first-year courses designed a Zoom class format where students discussed various case studies and hypotheses in small groups utilizing the breakout room feature. They have continued this model with new first years, who started their school year remotely in August.
+First-year medical student Abigail M. Kempf said she has found this style of virtual learning effective.
+“We can click buttons to ask for help if we need an instructor to come give us some suggestions,” Kempf said. “It's kind of like them circulating throughout the room in a normal year, and I would say that portion of it has worked really, really well.”
+Fellow first-year student Jack Ghannam also said he and his classmates have found they can still discuss course material with one another in class.
+“From my own experience and then also speaking to classmates, it doesn't seem like the actual content we're learning is being lost by the virtual conditions,” Ghannam said.
+Along with traditional coursework in the classroom, first year medical students at the Medical School also learn how to conduct patient visits, taking medical histories, measuring vital signs, and performing physical examinations in a course called "The Practice of Medicine."
+Associate Dean for Medical Education Quality Improvement John L. Dalrymple said he and other members of the clinical teaching staff recognized that while a large portion of clinical skills require in-person learning, some can be taught in an online format.
+“Much of that teaching and learning we realized could still be achieved with a virtual experience,” Dalrymple said. “You can still learn a lot of a lot of those clinical skills by interviewing a patient over Zoom or teaching how to do it over Zoom. You could certainly teach communication skills that way. The hardest part though is how to teach physical exam skills.”
+Kempf said the clinical aspects of the curriculum are challenging to learn online, even with the adjustments. The students are learning how to perform procedures such as eye examinations in mirrors and reading blood pressures by fastening the cuff on themselves. They are encouraged to practice on family members or housemates.
+“[The instructors] are doing the best they can, and they've adopted well, but there are some things you truly can't learn online for medicine,” Kempf said.
+Cockrill said course staff are aware of the difficulties in remotely teaching students about the techniques used in physical exams. As a result, instructors plan to focus on clinical skills upon the students’ arrival on campus — which the Medical School hopes will come in January 2021, according to a May announcement.
+“The clinical teaching of physical exam kind of skills will be prioritized for getting the students back on campus,” Cockrill said.
+While the incoming class of medical students began their first year remotely, second, third, and fourth year students have all returned, engaging in clinical rotations at Harvard-affiliated teaching hospitals.
+Nicholas P. Joseph, a third-year student at the Medical School, said the largest adjustment made to the curriculum was the shortening of the duration of each rotation to make up for lost time in the spring.
+“The capacity that we can be involved in is pretty much almost exactly the same as it was before,” Joseph said. “Harvard Medical School has done a truly phenomenal job trying to reintegrate its students back into the wards.”
+Second-year students at the Medical School starting their Principal Clinical Experience phase of learning — a series of clerkships in different disciplines of medicine including surgery and general medicine — also began learning in-person this fall.
+Second-year student Aldis H. Petriceks said additional weeks of training in performing physical examinations needed for their clinical experiences were added to their curriculum to compensate for missed practice from the spring when classes moved online during their first year.
+“Our clinical instructors did a really wonderful job of continuing to find creative ways to teach us about diagnostic reasoning and oral presentations and writing medical documentation, but we did miss a lot of time to practice things in person,” Pretriceks said. “They’re giving us more focused opportunities to practice physicals, things of that nature. I feel like that’ll be sufficient to build on for the rest of the clerkship.”
+If the pandemic situation heightens and COVID-19 cases begin to rise again, Dalrymple said he anticipates students would be a part of the effort rather than pulled from rotations again.
+“In the hospital, now that we have the advantage of knowing what that looks like and being ready to deal with that, I expect that we're going to be able to maintain student safety and their engagement on the team,” Dalrymple said.
+“We're all anticipating that whatever comes forward, we'll address it with students as part of that effort,” he added.
+—Staff writer Virginia L. Ma can be reached at virginia.ma@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Writer Jim Ottaviani and writer and illustrator Maris Wicks spoke about how science comics can be a powerful tool for storytelling at the Harvard-Smithsonian Center for Astrophysics’s final 2020 Observatory Night on Thursday.
+“We use comics to tell these stories because comics make science and history accessible,” Wicks said.
+Ottaviani and Wicks’s message ties in with the mission of the monthly Observatory Nights, which the Center for Astrophysics started in 1930 in an effort to make astrophysics accessible to the public, according to spokesperson Mariclaire O’Neill.
+“A big thing that we try and do with our public Observatory Nights is to package the science that people are interested in and then format it in a way that it is accessible for everyone,” O’Neill said.
+The Observatory Night webinar featured Ottaviani and Wicks’s latest graphic novel, “Astronauts: Women on the Final Frontier.”
+Ottaviani has written comics about science since his first graphic novel in 1997. He met Wicks through a project in 2007 that became the New York Times bestseller “Primates: The Fearless Science of Jane Goodall, Dian Fossey, and Biruté Galdikas.”
+“Astronauts” is the creative duo’s second project, chronicling how women fought sexism in the U.S. Space Program. It highlights the story of Mary L. Cleave, a pioneering astronaut in the early 1980s. Ottaviani and Wicks described Cleave as a perfect main character because she was an “eyewitness to and maker of history,” having started her career after the first women travelled to space but before female astronauts attained cultural acceptance.
+During the webinar, Ottaviani and Wicks walked through their creative process and described how comics can effectively communicate science.
+“Science and comics are really a natural fit because so much of science is visual,” Ottaviani said.
+Wicks added that comics are also powerful because so much of science is about wonder, something easily conveyed in cartoons. She walked the audience though a page in “Astronauts” on which Cleave looks out at the constellation Orion and explained how the visual and personal aspects of comics draw the reader into Cleave’s experience.
+The webinar concluded with a question-and-answer session, during which audience members asked Ottaviani and Wicks questions about comics and the authors’ love of science. While attendees asked questions, Wicks also began drawing a bookplate for the webinar, complete with doodles for each audience question.
+“This hopefully sparks a little bit of that wonder,” Wicks said of the event. “If this pushes you to go out and learn more about the space program or even what's going on currently in space, that’s awesome.”
+Sarah E. Hogan, an events manager for the Center for Astrophysics, said the webinar format has unique perks.
+“I am proud that now we've been able to bring it to folks that aren't just in the Observatory's neighborhood,” she said. “The internet has given us a real opportunity to spread that.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Five panelists discussed how design can fuel social change at a virtual event hosted by the Harvard Design Collective Thursday.
+The event, titled “Driving Social Change Through Design,” marked HDC’s first event open to not just Harvard-affiliated individuals but the public at large. The five panelists — Lee-Sean Huang, Ekene Ijeoma, May-Li Khoe, Jeffrey Schnapp and Mindy Seu — whose practices span art, entrepreneurship, and academia, spoke on a variety of different topics including inspiration, collaboration, and fostering social change through design.
+Wendy Yu ’21, one of the six co-founders of the Harvard Design Collective, emphasized in an interview the importance of collaboration to design.
+“Harvard is, as you may know, a very insular community,” she said. “And design functions best in the opposite environment. Every major breakthrough in design is a result of collaboration and unexpected people coming together.”
+The event, moderated by HDC’s co-founders, opened with the panelists reflecting on design’s role in fostering social justice.
+Schnapp, a professor of Romance Languages and Literatures and Comparative Literature at Harvard and founder of metaLAB (at) Harvard, spoke about design’s potential to encourage critical thinking.
+“A lot of us are interested in the disruptive, transformational, mutational, catalytic powers of design to shift the ground, to alter things, to ask questions, to provoke change,” he said.
+The panelists also reflected on the challenges of evaluating the efficacy of design.
+“Success of your design, I think it’s really hard to know,” said Seu, an assistant professor at the Mason Gross School of the Arts at Rutgers and critic at the Yale School of Art.
+“I think as we’re all saying here, the arts of attention, or the arts of listening, or the arts of catalysts is a nice way to rethink something beyond ‘the most viral campaign,’” she added.
+Huang, an educator and the co-founder and creative director of Foosa, a design consultancy group, also stressed the importance of moving beyond a narrow perception of success.
+“Design is not really a binary — it’s more of a spectrum,” he said.
+The panelists encouraged the audience to use design to make an impact on their community, however small.
+Khoe, an interdisciplinary artist, researcher, and designer, explained the importance of honing one’s target audience.
+“I would much rather touch a few people’s hearts than touch millions of lives badly. I think it’s a bit of a personal journey,” she said.
+Panelists then exchanged ideas about their current projects.
+Ijeoma spoke about how his project “A Counting,” a generative work he referred to as a “voice portrait of the U.S.,” challenges reductive ways of categorizing people living in the United States.
+“It was created in response to the Census, which misrepresented the ethnic and linguistic diversity of the U.S.,” Ijeoma said. “We crowdsourced phone recordings of people counting from one to one-hundred. We have over 500 calls in over seventy-five languages across the U.S.”
+In an interview prior to the panel, Seu noted the growing relevance of collaboration and interdisciplinary connections in design and the workforce at large.
+“With this panel, and with a lot of other conversations happening, this idea of hybridity between disciplines, between people, is really valuable,” she said.
+Ifeoluwani E. Omidiran ’22, an attendee and Crimson Arts editor, said she was grateful for HDC’s panel.
+“I am so appreciative of HDC for creating this space for this critical conversation on the potential for design to be a force for social change,” she wrote in a message after the event. “This conversation showed me how design must play a crucial role in the process of reimagining technology and shifting power.”
+To conclude, each panelist gave advice to audience members, many of whom were undergraduates. Schnapp emphasized the importance of following one’s personal passions rather than conforming to the status quo.
+“Don’t listen to your parents, and take risks. None of our parents told us we should become designers, but I don’t think any of us have major regrets,” he said.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Three professors spoke at a lecture Thursday on the effects of the April 1980 Mariel Boatlift — which brought more than 15,000 Cubans to Miami in a matter of weeks, and about 125,000 refugees by October of that year — on southern Florida's politics.
+Florida International University Associate Professor of History Julio Capó, Jr., George Washington University Associate Professor of English Antonio López, and Rowan University Associate Professor of History Chanelle N. Rose, discussed how the boatlift increased racial and political tensions in the region.
+Thursday’s lecture was hosted by Harvard’s Rockefeller Center for Latin American Studies, in collaboration with the Cuban Heritage Collection and the University of Miami Libraries.
+In 1980, the United States agreed to accept thousands of refugees from Cuba through a so-called “Open Arms Policy,” in part as a way to improve its international image.
+One of the policy’s effects was a more open stance toward immigration of LGBTQ individuals to America, according to Capó. Before 1980, the United States had largely prevented LGBTQ foreigners from entering the country.
+Many of the Cuban immigrants — known as marielitos — were LGBTQ individuals. In part to avoid appearing inequitable in its acceptance of refugees, the U.S. adopted a policy of “don’t ask, don’t tell” up until 1990, when it officially repealed the law making sexuality a consideration in immigration.
+Capó said that in response to the Boatlift, Fidel Castro developed a narrative regarding the mass exodus of civilians that worked to bolster a sense of elitist national pride, ordering criminals, prostitutes, members of the LGBTQ community, and the mentally ill to board boats to Miami.
+“Castro claimed, ‘If somebody wants to leave Cuba and the Cuban Revolution, there must be something wrong with them. They must be defective in some way,’” Capó said. “In this way, the marielitos themselves became counter-revolutionary. He claimed that they were criminals.”
+The Mariel boatlift exacerbated an already tense period in Miami’s racial landscape, according to Alejandro de la Fuente, a professor of Latin American history and economics at Harvard and the moderator of Thursday’s event. The murder of Arthur McDuffie, an unarmed Black man, by White and Latino police officers — who were subsequently acquitted — heightened racial tensions among African American, white, and Latino residents.
+“The historic mass migration of Cuban exiles first fostered what many local civil rights activists viewed as a kind of compounded racism, as the U.S. government adopted a Cold War policy that indirectly elevated the social and political status of Cuban refugees over native born Blacks,” Rose said.
+In an interview after the event, Rose highlighted the unique development of Miami’s racial hierarchy in the 1980s, in which African Americans — already beset by a lack of institutional and social support — felt diminished even further after the Boatlift.
+“I would say that in 1980, Miami was the only city that actually had that kind of racial unrest,” Rose said. “This kind of tri-ethnic, racial hierarchy that was developing where, historically, especially since the revolution, African Americans had begun to feel like not just second class citizens, but now almost third class citizens.”
+López encouraged students to explore Latinx studies courses in the Humanities and Social Sciences division at Harvard and elsewhere, particularly around Cuba and race contained in the archival holdings of the Boston area.
+“There are many materials waiting to be researched on this topic,” he wrote in an email following the lecture.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: October 17, 2020, 12:06 a.m.
+The Harvard Kennedy School’s annual report on diversity showed little to no change across various demographics in its student, faculty and staff composition. The school faculty and student body remain overwhelmingly white and male.
+The Kennedy School has seen a marginal increase in the racial diversity of its student body since last year. Fifty-four percent of students this year identify as white, whereas 58 percent did last year. For the first time since the initial HKS diversity report in 2018, the school reported one “American Indian or Alaska Native” student, as well as one “Native Hawaiian or Other Pacific Islander” student.
+The tenured faculty composition also changed for the first time since 2018. While professors remain 78 percent male, they are now 77 percent white — down 2 percentage points from prior years.
+The percentage of Latinx students increased by 3 percentage points, rising to 14 percent, while the percentage of Asian students increased by 1 percentage point, to 18 percent. The percentage of African American students remained the same, at 8 percent.
+Among faculty, meanwhile, there are now two tenured African American professors — one more than in 2019.
+During the COVID-19 pandemic, admitted Kennedy School students have been granted the unusual opportunity to defer enrollment for one year. That option has driven enrollment down from the school’s usual tally of around 1,000 students to about 900 students across its four master’s degree programs.
+Whether the enrollment numbers skewed this year’s data remains unclear. Kennedy School Dean Douglas W. Elmendorf said in an interview Thursday that no data is available on students who chose to defer, which made interpreting this year’s report challenging.
+“We don't know the demographic composition of the people who decided not to come this year because of the pandemic. That makes it more difficult to interpret this year's report,” Elmendorf said.
+Elmendorf added that the work of increasing diversity at the Kennedy School is not finished.
+“We have much more work to do at the Kennedy School to advance diversity and inclusion and belonging,” Elmendorf said. “Part of doing that work effectively is to measure some aspects of diversity that we have that data to measure. And that's why the task force that I commissioned some years ago recommended that we have an annual report of the sort, and why we have had one now for three years. And we'll keep having them in the future.”
+The Kennedy School has seen its share of controversy due to a lack of diversity across its student body and faculty. In recent years, affiliates have alleged that the school’s culture is not sufficiently welcoming for people of color, and that increases in diversity have not necessarily translated to increased inclusivity at the school.
+Elmendorf said inclusivity remains a priority for the school, citing a new required course on the history of race in America for students in the Master of Public Policy program.
+“This report is about diversity, and inclusion and belonging are at least as important. And they are more difficult to measure. So we are making a set of changes at the school to increase the sense of inclusion and belonging on the part of people who are underrepresented at the school,” Elmendorf said.
+Other affiliates have criticized the financial aid options available to students, citing their inadequacy as a factor in the school’s dearth of diversity. Students have called for the establishment a need-based financial aid system to replace the current merit-based system.
+Elmendorf said he recognizes the importance of financial aid and is constantly working to increase the aid available to students.
+“We are working all the time to try to increase financial aid for Kennedy School students because more aid would enable more outstanding future public leaders to get an education at the Kennedy School. And this is a constant topic of conversation between me and donors and potential donors of the Kennedy School,” Elmendorf said.
+Elmendorf emphasized the need for financial aid in his remarks in an Oct. 9 meeting with the Dean’s Council, a group of prominent donors to the Kennedy School.
+“As David Ellwood used to say when he was dean, the single most powerful tool for attracting superb students and propelling them into public service is reducing the cost of education. And so, I have continued David’s focus on raising funds for financial aid at the Kennedy School, and I am gratified that so many faculty, staff, alumni, and friends of the School have pitched in this year to help,” Elmendorf said at the meeting.
+Over the past two years, the Kennedy School has implemented a series of changes in order to restructure its hiring processes for faculty and its admission process for students. The changes include the hiring of a new assistant dean to oversee recruiting and admissions, as well as partnering with the Congressional Black Caucus and the Congressional Latinx Caucus in the U.S. House of Representatives.
+“These processes are continuing. Oliver Street, the assistant dean, started this. But he's only been here for one admissions round. And this coming year is the second admissions around. So I think it will take some time before his approach is fully in place. But we are committed to continuing that work and we see some progress in this year's entering class,” Elmendorf said.
+Nonetheless, Elmendorf said he is unsure how long it will take to see major changes in the demographics of the Kennedy School.
+“We're working very vigorously and I hope we make progress rapidly. But I can't predict the exact timing,” Elmendorf said.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Award-winning chef Marcus Samuelsson discussed race, class, and equity in food and art as part of a webinar series hosted by Harvard’s Graduate School of Design Thursday evening.
+Samuelsson was joined by two other panelists: Harlem Studio Museum Director Thelma Golden and Mark Raymond, the incoming director of the Graduate School of Architecture at the University of Johannesburg. Design School professor Toni L. Griffin moderated the event, which comes as the latest installment of the Rouse Visiting Artist Lecture Series.
+Each of the panelists discussed their experience with a different creative field: food, art, and architecture, respectively.
+Before transitioning to a panel discussion, Samuelsson, who was born in Ethiopia, discussed being raised by his adoptive parent in Sweden. Samuelsson said he initially wanted to build a career in Europe but encountered difficulties due to his race. As a result, he said, he moved to Harlem, in New York City, and started a restaurant he hoped would develop deep ties to the neighborhood.
+Samuelsson then discussed the challenge African chefs face entering the culinary world, which he argues is dominated by French cuisine. He also described the culinary contribution of the African diaspora and introduced his latest book, “The Rise: Black Cooks and the Soul of American Food,” which he said explores African cuisine and the impact of Black chefs on American food.
+Ending his solo talk, Samuelsson said he appreciated conversations in which he can connect with students and discuss complex issues of race and equality.
+“We constantly have to communicate with one another in forums like this but also encourage each other and push us into these spaces that, from the outside, might not look like they’re for us,” Samuelsson said.
+Griffin then opened up the discussion to the other panelists, asking them to reflect on Samuelsson's book and its theme of Black creatives taking pride in artistic innovations across creative disciplines
+“With ‘The Rise,’ what you see is not only a way in which Marcus is bringing together all the voices across the food spectrum with the sensibility and the wide range of Black food, Black cooks, Black chefs. What he's doing is creating a new sensibility around authorship and that sense of who defines our culinary tastes and our culinary ideals,” Golden said.
+Raymond said Samuelsson’s ideas connected with recent conversations related to studying the legacy of colonialism in the field of architecture. He explained that he felt drawn to the University of Johannesburg because he wanted to go beyond what he described as the complex and often misrepresented history of Black people in architecture.
+Samuelsson also argued that the contributions of Black people to society and culture are often completely erased from textbooks. He referenced the example of the recipe for Jack Daniel’s whiskey, which was first devised by the Black distiller Nathan “Nearest” Green. Samuelsson emphasized the importance of properly crediting the cultures and people that products derive from.
+“We're so programmed to understand that great stuff cannot come from Africa, and that's also one of the biggest challenges that we have to redirect, because we know it's not true,” Samuelsson said.
+Near the event’s conclusion, Samuelsson described how making his food accessible for those in his neighborhood has defined his purpose as a chef.
+
+“Unless you’re cooking for your teachers and neighbors, what are you cooking for?” Samuelsson said.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+The last time Charles A. Murray ’65 spoke at Harvard, a group of ten students raised signs calling him a white nationalist. Outside the venue, others said he should not have been allowed a platform on Harvard’s campus. Murray is best known for advancing widely discredited claims that there are differences in intelligence between classes partially attributable to race and ethnicity.
+At a faculty event aimed at countering Murray’s 2017 talk on campus, History and African and African American Studies professor Walter Johnson said he believes white men may wield free speech as an excuse to disrespect others.
+“The question of free speech on campus is defined as more-or-less equivalent to the question of the rights of white men and conservatives to disrespect, insult, bait, and degrade everyone else,” Johnson said. “The performance art of white instigation is indicative not of the embattled character of free speech (read: white privilege), but of its strength on college campuses, of the extraordinary support that a doughy mediocrity like Charles Murray can command.”
+This Friday, Murray will speak to Harvard students again, at the invitation of Government preceptor and Government 50: “Data” instructor David D. Kane. Several Harvard faculty and students have criticized the invitation, and the teaching staff has invited an alternate speaker, Sociology professor Jocelyn Viterna.
+The latest Murray dust-up resumes a long-running debate at Harvard: whether controversial speakers should be given a platform to speak at the University. Proponents say free discourse is essential to students’ learning and the events give students a chance to engage and critique controversial views, while critics argue such events can legitimize discriminatory or hateful views.
+The Faculty of Arts and Sciences Free Speech Guidelines, adopted in 1990 to govern events run by the school and student organizations, emphasize the importance of the “free interchange of ideas” and the “right to express unpopular views” as vital to the University’s teaching and learning mission.
+“We assume that the long term benefits to our community will outweigh the short term unpleasant effects of sometimes noxious views,” the guidelines read. “Because we are a community united by a commitment to rational processes, we do not permit censorship of noxious ideas.”
+The guidelines permit protests against speakers, but do not allow protesters to prevent audience members from hearing and seeing the event. They establish when Harvard police can eject or even arrest a protestor, and suggest penalties for those who prevent free speech.
+In an interview last week, FAS Dean Claudine Gay said she does not believe Murray’s work has has academic merit. She declined to comment, however, on a separate question on whether the FAS free speech guidelines are fit for the current moment.
+The 1980s saw some of Harvard’s most intense conflicts between liberal students and conservative speakers.
+In 1983, protestors dressed as Grim Reapers disrupted a talk by Caspar W. Weinberger ’38, President Ronald Reagan’s Secretary of Defense, by unfurling an upside-down American flag from the Sanders Theatre balcony. Two years later, anti-apartheid protesters blockaded South African consul general Abe S. Hoppenstein in the Lowell House Junior Common Room.
+Sometimes, those protests became physical.
+In 1986, protestors pelted Nicaraguan Contra Jorge Rosales with eggs and blood-like liquid after only three sentences of his speech in Boylston Auditorium. The following year, former Nicaraguan Contra leader Adolfo Calero was physically attacked by a Tufts student on his way to the podium at the Law School, prompting school officials to cancel the speech.
+In 1990, following those incidents and speculation that controversial speakers would avoid engagements at Harvard, the FAS adopted its current free speech policy.
+The guidelines allow free speech consistent with First Amendment standards and call for moderators to keep the peace if disruptions are expected at an event. Kennedy School professor emeritus and former dean Joseph S. Nye Jr., who chaired the committee that drafted the free speech guidelines, said the committee thought it was important for speakers of different views to be able to communicate their ideas uninterrupted.
+“There was a sort of a slogan that summarized our position, which was, ‘If there is offensive speech, one should censure, not censor,’” Nye said.
+“We felt that a moderator of a meeting should say to students, ‘You could hold a sign, you could stand up and turn your back, you could do a number of things to indicate your discontent, but you can’t prevent speech from a speaker to the other members of the audience. You can’t just assume that you have a right to prevent free speech,” Nye explained.
+New York University professor A. Michael Spence, who was dean of Harvard’s FAS at the time, wrote in an email that the faculty decided on the policy because they wanted to uphold a strong commitment to free speech while making sure that rights such as safety are protected.
+“Generally Harvard and other universities expect visitors with a wide range of views to be allowed to speak even when they express unpopular views or even views that are offensive to many,” he wrote. “The tricky part comes in trying to draw some lines. Presumably for example, saying things that are false is still protected speech. But it may do damage. But hate speech and incitement to violence probably is not.”
+In 2007, Harvard police arrested four students for disrupting an Institute of Politics speech by then-FBI Director Robert S. Mueller III, criticizing his agency for employing tactics it had employed.
+A Middlesex County judge later cleared the students of all charges after Harvard said it would handle the matter internally. Video footage from the event revealed inconsistencies in the police report filed after their arrest and showed that officers had failed to warn the protesters before removing them, which the FAS Free Speech Guidelines require. None of the students faced disciplinary action from the College.
+Michael A. Gould-Wartofsky ’07, one of the arrested students, said he feels the free speech guidelines “protect people who already have positions of power and authority.”
+“I think what has to happen is the free speech guidelines have to be rewritten with the people who are disempowered on campuses — the people who are disempowered in our community — in mind,” he said.
+Gould-Wartofsky, a former Crimson editorial editor, said giving speakers like Mueller and Murray a platform to speak at Harvard amounts to “moral relativism.”
+“That’s not why free speech exists — it exists for the opposite reason,” he said. “As I understand it, it exists because people are disempowered in our society and are silenced.”
+Still, Rani Kronick ’84, one of the students who protested Weinberger’s 1983 speech, said that while she and fellow protesters weren’t happy that the Defense Secretary had been given a platform, it also gave students an opportunity to express their opposition.
+Kronick said she sees a difference between a speaker being given a platform to present a “problematic point of view alone, without moderation,” as opposed to a debate where people can form their own view.
+Computer Science professor emeritus and former Dean of the College Harry R. Lewis ’68 said events with controversial speakers are an “educational opportunity” to teach students how to “recognize and analyze and refute ideas that are corrupted in some way.”
+“The Athenians put Socrates to death for being annoying — they were tired of listening to him,” he said. “Dealing with speakers whose ideas are annoying, and offensive, is one of the ways you learn to deal with annoying and offensive ideas, which you are going to have to do for the rest of your life if you are going to be a citizen of a democracy.”
+Lewis pointed to his 2001 dispute with Government professor Harvey C. Mansfield Jr. ’53 after Mansfield claimed that an influx of Black students to the College in the 1960s contributed to grade inflation.
+Lewis said he was “furious” with Mansfield’s comments, so he went into Harvard’s archives and found data to disprove the assertion, publishing an op-ed in The Crimson with the results.
+If Harvard cancelled Murray’s speech this Friday, Lewis said students would be left ill-equipped to deal with a future situation in which a colleague or friend promoted Murray’s views.
+“You’re not going to be equipped to actually give any argument except that the overlords said that I needed to be protected from listening to him, so he never came,” he said.
+Lewis said he did not know much about Murray’s views, but said that Murray’s critics could use the event as an opportunity to “humiliate him publicly by logic and evidence” in a way that the current polarized political environment often prevents.
+Despite the FAS’s longstanding policy, the debate around free speech at Harvard continues to resurface regularly.
+Perhaps no group has courted those arguments more intentionally than the Open Campus Initiative, a student organization founded in 2017 to “test” Harvard’s commitment to free speech. OCI invited several speakers to campus that year, including Murray and Jordan B. Peterson, a psychology professor who has drawn criticism for his stances on gender identity.
+Also in 2017, the Harvard Financial Analysts Club invited ex-pharmaceutical executive Martin Shkreli to speak on campus, drawing public criticism.
+Students also protested when Harvard College Faith and Action invited “ex-gay” Jackie Hill-Perry to speak in 2018. The College placed HCFA on probation the next year after the group pressured a female leader to step down for being in a same-sex relationship.
+The College announced in 2019 that student organizations wishing to bring controversial speakers to campus would have to notify the Dean of Students’ Office in advance and use a moderator for the event if the DSO deems necessary.
+Asked about the changes, Dean of the College Rakesh Khurana stressed the importance of free speech in a 2019 interview, saying that arguing different points of view is important for democratic society.
+Katie A. Roiphe ’90 — who was met with backlash for a 1994 speech she gave at Harvard criticizing mainstream feminism — said universities would ideally foster an atmosphere where anyone feels comfortable voicing their thoughts.
+“I feel like that ideal, which is that the university should be a place in which you can dispute ideas and people can have legitimately different points of view, is somewhat in danger right now,” Roiphe said. “That was something that I found very oppressive in the ’90s — I felt like I would sit in my classes and there were just things I wasn’t allowed to say so I constantly had that feeling like, ‘I can’t say this thing that’s in my head.’”
+“I’m a professor now at NYU, and I definitely think my most important value in my classroom is that everybody should feel like they can say what it is they are thinking,” Roiphe added.
+Spence, the former FAS dean, said he thinks the free speech issues universities face today are the same as those they faced in the past, but have been amplified due to the internet.
+“We have the same set of issues now with the internet, only on a much larger scale,” he said.
+—Staff writer James S. Bikales can be reached at james.bikales@thecrimson.com. Follow him on Twitter @jamepdx.
+— Staff writer Kevin R. Chen can be reached at kevin.chen@thecrimson.com. Follow him on Twitter @kchenx.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Vice Provost for International Affairs Mark C. Elliott denounced a recent U.S. Department of Homeland Security rule that would reduce how much time international students can spend inside the United States in an interview Thursday.
+DHS issued their rule on Sept. 25. It mandates “a fixed period of stay for international students,” citing the need to “reduce fraud and enhance national security.”
+Organizers for the Harvard Graduate Students Union-United Automobile Workers rebuked the rule and called on Elliott to take action against the policy in a publicly circulated petition.
+Elliott denounced the DHS notice in the interview Thursday, saying that it “seeks to fix a problem that doesn't exist.”
+“This is one of those classic cases where, you know, nothing is really broken here, [the] system is working fine,” Elliott said.
+A spokesperson for DHS did not immediately respond to a request for comment.
+In response to student backlash, Elliott said he communicated extensively with union organizers, agreeing to meet their request for an information session with a lawyer from the University’s Office of the General Counsel.
+“We had that information session last Friday — about 500 international students attended — including representatives of the Graduate Student Union, which we were very pleased to see,” Elliott said. “We had a lawyer from the office on general counsel explain how the comment process works and the more comments, the better, and that everybody, whether you are a U.S. citizen or not, you are entitled to make a comment on a proposed change like this.”
+Aayush Khadka and Francesca Bellei, both HGSU-UAW organizers who originally circulated the petition to Elliott and his office, did not respond to a request for comment.
+Elliott also discussed the University’s efforts to lobby Congress for more student visa protections, referring to University President Lawrence S. Bacow’s call with lawmakers in late September. He said the University’s Federal Relations Office has been in communication with other higher education interest groups like the American Council on Education and the American Association of Universities.
+“As President Bacow has said, if that means sometimes that he gets on the phone and calls the Secretary of State to make Harvard’s position known, he will do that,” Elliott noted. “I don’t see us shifting from that role, the President has made that clear.”
+Many Trump administration officials have long sought to restrict immigration. In one high-profile case last year, federal officials deported a Harvard freshman after finding allegedly anti-American social media posts on the student’s feed; the student eventually made it to campus.
+Elliott said that Trump’s pursuit of more restrictive visa policies is “not something that started with the pandemic.”
+“I think this is the result, and we see this in a variety of ways, of a fundamental policy position on part of the Trump administration that is opposed to immigration, really of any kind,” Elliott said. “That kind of an anti-immigration platform is one that the administration has advanced very aggressively and our international students and scholars have suffered, and Harvard has suffered, and all of American Higher Education has suffered.”
+Elliott could not provide any insight on international students' prospects of returning to campus for the spring semester, saying that the decision to bring more students back still remains uncertain and is left up to each individual school.
+Still, Elliott expressed his commitment to improving the remote experience for international students.
+“This is on everybody’s mind, I can guarantee you that,” Elliott said. “We understand that there are places where we might be able to do better and certainly that’s the goal that every school is to do the best we possibly can and address the needs of international students which, again, in some cases you pointed out, are really quite acute.”
+—Staff writer Kevin A. Simauchi can be reached at kevin.simauchi@thecrimson.com. Follow him on Twitter @simauchi.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+Dear Freshmen,
+This semester’s been a lot, and who better to hear from than the PAFs in Flyby! Without further ado, some words from the wise...
+Give yourself time. — Sarah M. Lightbody
+By now you’ve probably turned in your first midterm, had your first HUDS cookie bar, and had someone ask you what you planned to do after graduation as if you didn’t just get to college. Maybe you’ve also taken a ton of COVID-19 tests, had takeout HUDS food, and probably experienced some type of weird social distancing interaction. Or maybe you’re experiencing all of these “firsts” and more from home right now. College might be feeling more like home, or it might not. Give yourself time to get used to everything, the college parts, the coronavirus parts, the weird social parts that make Harvard sometimes lonely and sometimes the absolute best. It takes time to be about time, to make truly meaningful connections, but when you look back on this semester, there will be a million little memories that might not have felt special in the moment but will probably make you just a touch nostalgic. So if you can, savor the good moments, let everything not be totally okay if it’s not, and give yourself time.
+It’s okay! — Kiana Ziadkhanpour
+It’s easy to feel like you’re missing out on the “normal” Harvard first-year experience… but normal (whatever even that is) is out the window. This is a whole new adventure and no one really knows what to do. So it’s fine that you aren’t experiencing a party in the Igloo or LamCaf (and if you don’t know what those are or where they are — that’s OK!) because now you’re on a new adventure experiencing the inner workings of Zoom rather than the underground tunnels of Pfoho. But, it’s easy to say that we’re all in the same boat. Sure, we’re all missing out on new experiences, but this is all the more difficult for the newest Harvard students, and we all understand that. Stop sweating the small stuff and just take in what this semester offers you. If you’re on campus or off, embrace your situation and remember that this is temporary.
+Take off that ~emotional~ mask. — Rachel L. Reynolds
+“Help will always be given at Hogwarts to those who ask for it.” We may not *actually* be at Hogwarts (though the Berg can definitely feel like it), but Dumbledore had the right idea here. While at Harvard, it can feel like there’s this constant pressure to put on a brave face and get through any struggles you may face completely on your own. After all (you think), you’re here, so you’ve already been through the worst of it… right? Surprise! College brings with it all kinds of new situations — the good, the bad, and the ugly.
+At the same time that you’re finally meeting the incredible people you’ll be learning alongside for the next four years, you’re also stressing over finding your “group,” crying over a pset at 1 a.m., and wondering if you’ll actually make it through comping that club. And that’s just the school struggles! Especially in all the current covid chaos (say that three times fast), it can feel like the hits just won’t stop coming. But, there is 100 percent a bright side to what can feel like a never-ending shitshow — even though we’re all dealing with so many different circumstances right now, there are also so many people who want to support you. We might not always have that perfect advice to offer (honestly, do any of us actually know what we’re doing right now?), but we’ll be there to do the best we can to listen, support, and encourage you along the way.
+While you do have to keep a physical mask on pretty much everywhere right now, that doesn’t mean you have to keep an ~emotional~ one on too. We’re all cheering you on, and you never have to just trudge through all the stresses that college life throws at you by yourself. Even if we’re just as lost as you are, we’re happy to at least be a listening ear (or maybe just someone to scream with about That One Class™). Whether it’s your PAF, proctor, academic advisor, upperclassmen friends, roommates, literally anyone!, we all have unique perspectives and advice to offer — all you have to do is take that first step.
+Remember your goals for this year, and stay true to yourself. — Linda Lee
+The first year of college is a radical transition, different from anything else you’ve ever experienced. It can be incredibly exciting and fun, but it is also terrifying, which is completely normal. You are now in a completely new environment surrounded by new faces, new responsibilities, and new expectations. While it’s easy to let yourself slip into a daily routine of psetting, grabbing meals, and making it to the next day, take some time to take a step back and reflect on who you are and who you want to be. What are your goals for this year? For all 4-plus years? In what areas do you want to grow, and what steps can you take to get there? Who do you want to surround yourself with, and what do you need from both yourself and others in order to truly succeed and be happy? While the answers to these questions can and will change throughout your time here, reflecting on your goals can ground you amidst all the academic, social, and emotional chaos and remind you to stay true to yourself and your needs. Remember that college isn’t just about your GPA or the number of clubs you’ve joined. It’s also a time to make life-changing connections, explore yourself, and make the most of everything that’s out there. Prioritize yourself. You are the main character.
+Sending love,
+Your PAFs at Flyby
+Sections
+Zoom school is in full swing, and by now we’re (hopefully? maybe?) starting to move into the acceptance phase of the five stages of grief. Now that you’ve gotten the chance to hear some upperclassmen words of wisdom (*brief pause to let you go catch up on the rest of this feature*), we can’t forget about the freshmen of Flyby too.
+So how much are we really missing out on? — Alina A. Taratorin
+I know you’re probably tired of hearing this, but of course this year is far from the typical freshman-year experience. Instead of going through and listing every. single. damn. thing. we’re missing out on (Convocation video with all of last year’s pictures, we’re looking at you), I want you to think of it this way: a few days ago, I ran into a sophomore living in the quad, and we had a little conversation during which I asked him, “So how much are we really missing out on?” His answer was something along the lines of, “Honestly, freshman year is that awkward stage anyways and you guys kind of get to forego that.”
+And taking a step back, you realize that’s kind of true. Yes, maybe we don’t get Housing Day or in-person classes, and instead have to deal with the indisputable glamour of “speed-friending” over Zoom. But on the flip side, think of all the wonderful things we do get to experience. Anything from waking up five minutes before lectures and taking class from the comfort of your bed, to having all this extra space in the dorms (for those on-campus), not having to wear pants, full access to the mute and camera buttons when you just feel like *disappearing*… the list goes on and on. And in the future, we will always get the flex of saying we were THE freshman class that started college in the midst of a pandemic. No one else will understand the struggle of remembering our good ol’ friend Crimson Clear, being quadded as a first year, studying outside the library (because being allowed inside is an intangible prospect we can only dream of), or, you know, starting the whole college experience quarantined inside your single room and taping “HeLp” onto your window. If that’s not a bonding experience, I don’t know what is.
+Class of 2024, a.k.a. the class of future Zoom legends — Kate N. Guerin
+Even one year ago, nobody could have anticipated how this year would unfold. But, we have moved past the initial awkwardness of meeting friends virtually and learned to navigate this semester, which includes everything from trying to conduct a successful Zoom breakout room, to filling in the most elaborate and detailed GCal. I suspect the novelty of the semester will continue throughout this year, as we match this year to our clashing expectations of college; this novelty has become a source of never-ending small talk, a shared experience that our entire class can remember. It’s too easy to procrastinate starting that pset in favor of complaining about how that one class would be SO much better if it was in-person; however, we need to be grateful that the Harvard community is still alive, so reach out to your fellow incredible and talented peers! Many of the members of the freshman class are living on campus and (knock on wood) are healthy, a feat for which we should be thankful — even if it means foregoing that idealized college experience we have on replay in our minds. So say good morning to your favorite HUDS worker, go eat a socially-distanced lunch with that person that you think might be in your Tuesday 9 a.m., and sanitize your hands folks!
+We’re in a pandemic, so breathe — Alexandria T.Q. Ho
+Maybe you haven’t slept for the past two weeks. Maybe you are crying and wishing that you had taken a gap year when you had the chance. Maybe you keep falling asleep in class or feeling like you have nothing to contribute during discussions. Maybe you feel very socially inept seeing people posting pictures of Boston hangouts every weekend while you are stuck inside working on psets. Maybe, this is the first time you ever feel like you are not in control of things and this is driving you mad. Maybe, reading this long paragraph full of the word “maybe” is stressing you out and giving you a headache (sorry btw!).
+So, take a moment and breathe. Starting college is scary. Starting college online is freaking horrifying. For the past month, I have cried countless times as I struggled with schoolwork, homesickness, and making friends. Being Harvard students, we are used to staying on top of things, to setting the curves on exams. We are used to things coming to us so easily and maybe even effortlessly. And it is very scary to be confronted with the reality that things are not going as planned. However, be kind to yourself. We are in a global pandemic that has turned the world upside down. Everyone is coping right now in their own way. It is okay to feel overwhelmed. It is okay to feel scared. You are not any less of a Harvard student to feel these emotions. In fact, if anything, you just passed the “I am not a robot” test. So congratulations! Don’t feel the pressure to be in control of everything. We’re in a pandemic. So take a second to breathe and remind yourself that “Wow! I’m alive! Everything will be okay!”
+So just remember: things could be so much worse. At least we’re in it together! Think of the upperclassmen who don’t even get to be on campus this semester, after already having experienced everything Harvard has to offer. Our time will come, and we have three more years to go crazy. So take a deep breath, study for those Zoom midterms, and have a fantastic rest of the semester!

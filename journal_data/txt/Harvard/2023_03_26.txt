@@ -1,0 +1,98 @@
+Sections
+On a Wednesday morning on the fifth floor of the Science Center, 20 or so students mill about while Professor Joseph D. Harris ’72 draws on the chalkboard. Harris has sketched a “three-sheeted covering space,” a looping squiggle.
+Harris spends the next hour and 15 minutes of Math 55B: “Studies in Real and Complex analysis” lecturing on the classification of covering spaces. He draws arrows and circles and greek letters on the board. He discusses topologies and neighborhoods and endpoints.
+Thirty minutes in, Harris pauses drawing his diagrams, which by now take up the entire chalkboard, and turns to face the class. “Now we get to have some fun,” he says.
+Welcome to Math 55, the undergraduate course surrounded by what is perhaps the most intrigue and infamy of any class at Harvard.
+In 2006, the Crimson published an article on Math 55 called “Burden of Proof,” which characterizes Math 55 as a sort of “cult” or a mathematical bootcamp rather than a freshman lecture course. According to the article, students referred to the room where 55-ers completed their problem sets — the basement of Thayer Hall — as “the war room.”
+Even outside of Harvard, Math 55 has garnered outsized attention. The course has its own Wikipedia page and has inspired many TikToks, one of which has racked up over 418,000 views.
+And for a while, it seemed like the Math Department itself was in on the mythologization of the course. Until at least 2017, the Math Department’s website described Math 55 as “probably the most difficult undergraduate math class in the country.”
+But today, the math department takes a different approach to how they present the course. The very first search result that comes up for “Math 55” is now an article published by the department last year titled, “Demystifying Math 55.”
+The article debunks six purported myths about the class, including that “Math 55 is only for high school math geniuses” and that “homework takes between 24 to 60 hours per week.”
+Denis Auroux, a professor who has previously taught Math 55, says in the article, “Our slogan is, if you’re reasonably good at math, you love it, and you have lots of time to devote to it, then Math 55 is completely fine for you.”
+So, what changed?
+***
+When Preston C. Bushnell ’26 mentions that he takes Math 55, “people are shocked, they're absolutely floored,” he says.
+“My opinion is, I think it’s a hard class, but it’s also still just a class,” he says. “And there are plenty of other hard classes.”
+Zoe Z. Shleifer ’26, another current Math 55 student, also doesn’t get the hype.
+“It’s fun,” she says. “It’s just like any other class. You know, we go to lecture, and then we leave lecture, and then we do the problem set.”
+Math 55 is officially composed of two parts, Math 55A: “Studies in Algebra and Group Theory” and Math 55B: “Studies in Real and Complex analysis.” The department classifies the class alongside Math 22 and 25 as one of “three introductory courses for people with strong math interests coming into Harvard.”
+Even still, Math 55 differs from other math courses in its expectations for students’ prior coursework. Although preparation varies, all Math 55 students I spoke to had extensive experience with college- level mathematics.
+Shleifer took calculus as a freshman in high school. As a sophomore, she pursued college-level math, taking a real analysis and linear algebra course at Harvard Extension School. Bushnell had a similar path, taking calculus as a freshman and ultimately switching to math courses at a nearby college for his last two years of high school.
+Still, Ashvin A. Swaminathan ’17, a former Math 55 student and current Benjamin Pierce Fellow in the Math Department, cautions against the common conception that 55-ers are more intelligent than other Harvard students..
+“Most of the students who take 55 are not geniuses,” he says. “They’'re just interested in math, and they want to learn it at a high level.”
+***
+It might seem like the Math Department’s efforts to transform Math 55 are relatively recent. But in fact, they stretch back decades.
+The course was originally created in 1960, with the title “Advanced Calculus.” The class continued until 1983, when the Math Department decided to get rid of the course. Math 55 became Math 25, which then-department chair David B. Mumford ’57 described as having “the rigor without the abstraction, matching the preparation of students much better.”
+But in 1991, the department backtracked, adding Math 55 back to the course catalog. Students who wished to take 55 had to first enroll in Math 25 and “after two weeks, some students will be invited to join Mathematics 55.” Eventually, the Math Department again allowed students to start in Math 55 from their first day at Harvard.
+Until recently, Math 55 professors had great latitude with how they taught the course. There was no formalized syllabus passed down year-to-year, professor-to-professor.
+But that’s changed. “We wanted to avoid a situation where some students felt excluded because of the way the course was taught a particular year,” Harris says.
+Anastasia Yefremova, the Math Department’s publications coordinator who wrote “Demystifying Math 55,” says that the department chair brought the article idea to her attention.
+“I think there are very concerted efforts on part of CAs and faculty — especially these days — to address some of the issues that people may have had with Math 55,” Yefremova says.
+“To be as inclusive as possible is one of the things I was told before I walked in the classroom the first day,” says Harris, who first taught the course in 2018. “I think we’ve been pretty successful in that.”
+***
+When he arrived at Harvard earlier this year, Jonah C. Karafiol ’26, a Crimson News editor, planned to concentrate in math. He had a background in math research and hoped to explore it further. But his father, a high school math teacher, advised him not to take Math 55.
+“He told me that if I took it, I would leave the course hating math,” Karafiol says.
+Even so, Karafiol wanted to push himself by taking the course.
+“There was a sense of imposter syndrome,” he says. “I thought if I took Math 55, I would be proving to myself I belong here.”
+Karafiol says he spent about 30 hours each week completing problem sets, which limited his time for other classes that he enjoyed and kept his social circle to mostly other 55-ers. He felt like a “proof factory.”
+“You’ll be brushing your teeth, or showering or literally you’re going about any task throughout the day, and it’s kind of on your mind,” he says about Math 55 coursework.
+Ivan O.A. Specht ’24, who took the course in 2019, noticed a similar trend among his classmates.
+Math 55 students, he says, “were generally not terribly involved in extracurriculars because so much of their time and so much of their social interactions were being eaten up by Math 55.”
+Like Karafiol, Swaminathan was cautioned against taking the course while he was in high school.
+He’d read The Crimson’s “Burden of Proof” and reached out to one of the students mentioned in it, Daniel A. Litt ’10. The two met for coffee.
+“In no uncertain terms, he told me that I should never take this course,” Swaminathan said. “It would ruin my interest in math, and there’s so many better ways to approach the math concentration.”
+Litt, who now works as a math professor at The University of Toronto, doesn’t recall giving Swaminathan that advice, but says he trusts Swaminathan’s account.
+When Litt took 55, he “loved it,” but he realizes that the course is “definitely not for everyone.” He believes that “it should be somehow clear that that’s okay.”
+Swaminathan is grateful he eschewed Litt’s advice and took the course. He considers Math 55 to have “had the most significant impact” on him “as a student and as a mathematician.” But he also noticed it wasn’t a pleasant experience for everyone.
+“I never felt like I was at war in that class,” Swaminathan says. “Although I do know some students who did feel that way.”
+Litt compares the rigor and speed of the course to “drinking from a firehose.”
+“You’re not more advanced if you’re drinking from a firehose,” he says. “It’s not clear to me that in the end, everyone who drinks from a firehose actually ends up learning more math than people who take Math 25.”
+After a semester in the course, Karafiol is no longer planning to concentrate in math. In fact, he is not taking any math courses this semester.
+“It didn’t make me hate it,” Karafiol says regarding how the course changed his feelings about the subject. “But I don’t love it as much now as I did.”
+“Part of me does wonder,” he says, “would I still be a math concentrator if I’d taken Math 22 or Math 25?”
+***
+When Daniel Litt took Math 55 in 2006, there were no female students. During Swaminathan’s time in the course in 2013, there were only two. From 2012 to 2017, less than seven percent of Math 55 students were female.
+Now, Shleifer says that there are “at least nine or ten” female students out of the 45 students enrolled in the course.
+Dora Woodruff ’24, who took Math 55 during her freshman year and worked as a course assistant as a sophomore, says that the gender imbalance in the course can be “discouraging and intimidating for people who are just starting college.”
+While working as a course assistant for the class, Woodruff received comments saying some non-male students felt uncomfortable asking certain questions during office hours for fear that they would seem less prepared or capable. To counteract this, she started holding extra “chill, informal” office hours aimed at non-male students.
+But not all non-male students find the majority-male environment unpleasant.
+When I ask Shleifer how she feels about Math 55’s male-dominated culture, she says “It’s kind of like asking a fish if there’s anything they don’t like about water.”
+“I really don’t have any complaints,” she says about the majority-male environment. “I definitely have critiques of math culture, but I don’t think they’re about maleness.”
+In an email, Yefremova wrote, “The math department has been working hard to foster a more inclusive culture around Math 55.”
+“The overall feedback we have received from students about the last few iterations of the course suggests that this is beginning to bear fruit,” she continued, referencing reviews for Math 55’s Q guide reviews, which are overwhelmingly positive.
+“The math is beautiful and it goes at a fast pace, but not too fast to build good intuition for what is going on,” a student writes. “There is a large team of CAs to help out as well and office hours almost every day, so you won’t be left behind.”
+Still, the reason for the course’s low female enrollment isn’t entirely clear. Woodruff wonders if the course’s lore is a potential deterrent for female students. She believes its notoriety may “discourage people who could do very well and get a lot out of the course from taking it.”
+But she also thinks some of it is beyond Harvard’s control, stemming from a “pipeline issue.”
+“In general, fewer women than men come into college intending to major in math,” she says. “And there isn’t as much that Harvard can do about that.”
+But Swaminathan, who serves on the department’s Diversity Committee, says he doesn’t “think it’s just a pipeline problem.”
+“I think there’s a reputation of the department being sort of exclusionary,” says Swaminathan. “Getting rid of that reputation is going to take time. It’s going to take a lot of work. It’s going to take a lot of listening. But we’re well on our way to achieving that.”
+Part of these changes, Swaminathan reflects, might be altering Math 55’s legendary reputation.
+“As math teachers, our objective is to bring mathematics to a wider audience, not to preserve some sort of mysticism about the material that we teach,” he says. “If our goal is to teach more people math and broaden appreciation for math, then these changes are good.”
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard track and field traveled to Houston, Texas to compete at the Houston Spring Break Invite on Thursday, March 16. Six events were won by the Crimson, and three school records were broken.
+“Our men’s program is coming off of a historic indoor season, where we scored more than 30 points than any other men’s program has in Harvard history,” junior sprinter Lance Ward said. “Going into the first meet of the outdoor season, our coach said ‘Let’s continue that trajectory. Let’s keep chasing that Ivy Title.’”
+Senior Stephanie Ratcliffe started Harvard out with a win in the women’s hammer throw, scoring a mark of 67.16 m. The mark is the furthest an NCAA Division I athlete has thrown this year, putting the Australian native first in the nation. In addition, the mark also beat her previous school record in the event. Ratcliffe’s teammate, senior Cammy Garabian, joined her on the podium, taking fifth place in the event with a throw of 58.16 m, putting her third in the nation.
+Next, sophomore Anastasia Retsa broke a record for the Crimson in the pole vault, jumping at 4.16 m high to win the event. She also leads the event nationally, as her mark is just 0.11 m higher than any other female athlete in the event this season.
+Senior Estel Valeanu earned the gold medal in the women’s discus and shot put, with throws of 53.50 m and 14.44 m respectively. Her throw in the discus was enough to put her in first place nationally.
+On the track, Harvard’s sprint team had several standout performances.
+The Crimson women’s team earned gold and silver in the 100 m hurdles, with Sophomore Izzy Goudros and first-year Josefina Biernacki running times of 13.66 seconds and 13.81 seconds, respectively.
+On the men’s side, senior Samuel Bennett took gold in the 110 m hurdles, crossing the finish line with a time of 13.75 seconds.
+The men’s 4x100 m relay team, consisting of first-year Collin Fullen, Ward, sophomore Jaeschel Acheampong, and first-year Jonas Clarke added to the Harvard record book as well, running a 40.19-second relay time to put them first in the meet.
+“I think we were all really excited about seeing what we could do this week, we were all practicing with the 4x1 guys for a few weeks leading up to the meet,” said Ward about the anticipation surrounding the relay. “We knew that we had something special, and we’re really happy with the performance at this outdoor meet, but we also know that that’s just the beginning of what’s to come.”
+Senior Aaron Shirley won the 400 m hurdles, getting gold with a time of 51.62 seconds, a near two seconds faster than the second-place finisher. His time places him second in the national league.
+Ward also earned himself gold in the 200 m, running an impressive time of 20.90 seconds, putting him in sixth place in the NCAA standings.
+The men’s 4x100 m relay team, consisting of first-year Collin Fullen, Ward, sophomore Jaeschel Acheampong, and first-year Jonas Clarke made marks in the Harvard record book as well, running a 40.19 second relay time.
+Going forward through the spring season, the Crimson look to be on level with their competitors.
+“I think it’s mainly Princeton for the men’s team,” said Ward in reference to Harvard’s biggest competition going into the outdoor season. “They’re nationally ranked, and we are of the same caliber, and we’re looking to prove that we can hang with them and knock them off their pedestal. So stay tuned, because we’re coming for them.”
+The track and field team sent athletes to compete at the Raleigh Relays in N.C., with a few distance runners making it into the top ten at the meet. This weekend, the team will continue competition at the UMass Lowell Riverhawk Invite in Lowell, Mass., as well as at the Hurricane Invitational in Coral Gables, Fla.
+— Staff writer Nadia A. Fairfax can be reached at nadia.fairfax@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.

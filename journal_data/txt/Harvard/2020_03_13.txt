@@ -1,0 +1,373 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+I walked into Harvard Yard’s gates in the fall of 2016 as an eager, a-bit-too-annoying freshman completely set on studying Computer Science. When I attended the first lecture of Harvard’s world-famous Computer Science 50: “Introduction to Computer Science,” I sat in the front row and even volunteered to answer a question. It was a simple prompt about binary notation, and I totally rocked it.
+As the semester went on, I slowly began to develop less of a clue regarding what I was doing. Loading and reading files? Never heard of it. C++? What on earth is that? Why is compiling so...hard?
+I struggled a lot in CS50, pulling all-nighters in Lamont Library only to end up with more lines of gibberish code than I had started with. The final project, though, gave me hope. I figured if I harnessed my creativity and focused on learning concepts I was excited about, I could make something really cool.
+So I downloaded XCode, taught myself Objective-C, and watched YouTube tutorials on how to create an iOS app. Fifty hours later, “I’d Rap That”, a photo caption generator based on a library of over six hundred rap lyrics, was done and working smoothly.
+When I checked my final grades, I was horrified at the result of my CS50 efforts: a C. Here I was, expecting to become a software engineer, with a C in the first college coding class I’d ever taken.
+So, I said goodbye to the Computer Science department and waved hello to the world of Economics. I fit in better in economics classes, anyway. I used to be really into polo shirts.
+Regardless of my major switch, I actually thought “I’d Rap That” was a good project. I sent an email to my professor, sticking up for myself and for my work. After much back-and-forth, my grade was changed. My GPA went up by 0.2.
+Later, when I launched “I’d Rap That” onto the iOS App Store, it received two thousand downloads within the first month. It also, for some reason, became quite popular in China. It was a good project, and I wondered why my professor hadn’t seen that.
+The summer after my freshman year, randomly and with no prompt, I suddenly knew I had to go back to Computer Science.
+I had allowed CS50 to scare me away. The tech-bro culture it perpetuated, with its t-shirts and swag and hackathon, had made me feel like computer science was not a place in which I could thrive. Besides, at the end of it, my initial efforts had been given a C.
+I had wrongly concluded that an arbitrary letter grade, given to me by a professor who simply did not understand the worth of the product I’d created, was a determinant of my intelligence in a field.
+I decided that I was not going to let tech bros affect my future and the choices I made. I actually liked Computer Science, and I was just going to have to deal with not fitting in.
+Sophomore fall, I walked into Computer Science 61: “Systems Programming and Machine Organization” wearing a summer dress and carrying a tote bag. By contrast, the classroom was packed with over one hundred boys in hoodies and sneakers, who seemingly already knew everything there was to know about systems programming and machine organization.
+That semester, I was never able to find someone who wanted to partner up with me. The teaching assistants saw me come to office hours by myself, knew I was struggling grades-wise, and yet none reached out and told me: “You got this, stick with it.”
+Partner-less, I finished the semester with another GPA-lowering grade. I stuck with Computer Science, anyways.
+The rest of my time at Harvard played out similarly, although things did get better.
+My junior spring, I worked as a course assistant for Computer Science 20: “Discrete Mathematics for Computer Science,” a title I hold again this semester simultaneously with an Applied Mathematics course. It’s important to me to reach out to the girls I see come to office hours alone, and tell them: “You can do this, stick with it.”
+I’ve worked for several startups, completed a summer internship at a big-tech company, am conducting my own CS research, and will be joining a top consulting firm after graduating in May. The hard work I put into obtaining these opportunities outshone any ways in which I’d struggled — any ways in which I did not fit in as an engineer.
+I notice that people at Harvard don’t often talk about finding coursework difficult since, at a hyper-competitive school, people become wary of showing any weakness. Well, here I am, talking about it.
+I’ve struggled, cried, and nearly failed in Computer Science, and my life has still moved forward. My hardships, in retrospect, have taught me more than my successes, and are likely the reason why, three years after receiving that soul-crushing C, I am doing just fine.
+Madeleine L. LaPuerta ’20 is a Computer Science concentrator in Leverett House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Coronavirus has tremendous global implications. But as a slate gray sky moved over campus this morning, a pre-apocalyptic frenzy waxed introspective. As many continue to sort out the details of their departures, intimate and existential questions replace outright panic.
+How do we make sense of an experience which will fundamentally alter the fabric of our lives and the institution of which we are a part?
+What happens when everything you believe makes school meaningful gets packed away? What happens when the micro-moments — the unnecessary but essential intimacies — evaporate into the cloud? How do you deal with the indefinites — the postponements and cancelations, the maybe-soons and who-knows-whens, the let’s-grab-a-meals and how-’bout-this-weekends? What is college without the all-for-naughts of coffee-coma typing storms, the hallway nods to halfway friends — the touched and touching moments of life here together?
+At a time when statistics and headlines seem to mediate our collective experience, and after we have taken the opportunity to highlight the obligations of our University and the vulnerability of so many, we think it’s worth pausing to stitch together the stories, emotions, and questions that have characterized these past few days — these days where life has stood still, the surreal intersection of history and college life suddenly undone.
+Harvard’s Kuumba singers have spent months preparing for the organization’s now postponed 50th-anniversary celebrations. The men’s basketball team was denied a chance to enter the postseason on a hot streak. And even commencement itself seems in doubt. It’s not as if anyone has given up, but so much will just be left suspended, half-done — a petri dish of forced neglect.
+We are forced to reckon with what it means to pursue a process without an outcome — whether we value the experience of creating, of working hard, of working together, as much as the end result of a grade, a performance, or a graduation ceremony. Harvard is not truly Harvard when completed online.
+This sudden displacement forces us to confront who we have become in our time at Harvard and what it means for us to be that person elsewhere — at home for some, in more unfamiliar places for others. What privileges are we reminded of? And how do we return here again with generosity and selflessness?
+Despite the palpable presence of nihilism in the air — after all, what is Harvard without those with whom we live it — these past few days have also been marked by a tremendous showing of kindness, support, and love. When the University initially failed to provide our community’s most vulnerable members — those experiencing homelessness, from low-income backgrounds, and from outside of the United States — the support they needed, their peers began opening their homes, sending out “Emergency Housing Spreadsheets” through email lists and crowdfunding.
+Students paused to check in with one another. Student organizations are reaching out to their members, offering support and love in a time of shared distress. Some professors have offered them a place to store their belongings. Where the work of our everyday lives has been abandoned, a mythic human-ness — a transcendent camaraderie — has taken its place.
+We hope this spirit hangs on through the six long months ahead.
+This staff editorial solely represents the majority view of The Crimson Editorial Board. It is the product of discussions at regular Editorial Board meetings. In order to ensure the impartiality of our journalism, Crimson editors who choose to opine and vote at these meetings are not involved in the reporting of articles on similar topics.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+To our readers:
+On Tuesday morning, University officials announced that classes would move online and that undergraduates would be required to vacate their dorms by Sunday at 5 p.m. to prevent the spread of the novel coronavirus.
+We write to tell you what this means for The Crimson.
+As an organization staffed entirely by undergraduates — one that prints a daily paper in our press room on 14 Plympton Street — Harvard’s decision prevents us from carrying out daily operations as usual.
+Today’s paper, the 36th produced by the 147th Guard of The Crimson, will likely be our last print edition this semester. Starting today, we will transition to an online-only operation and will continue to cover how these events impact Harvard and its students, faculty, and staff.
+Despite the considerable difficulties this will present, we believe it is important to continue our work, if in a different capacity. It has become more, not less, vital to pursue our mission of covering and informing Harvard affiliates as they fan across the globe.
+As the only breakfast-table daily serving Harvard and the city of Cambridge, we have a duty to continue holding those in power accountable and to report the news, just as we have done for the past 147 years.
+During this transition, we ask again for your support, feedback, and trust. The Crimson’s first issue, printed on January 24, 1873, said “I will not philosophize; I will be read.” With your help, we intend to keep both of those promises.
+Sincerely,
+Aidan F. Ryan ’21
+President of the 147th Guard
+Shera S. Avi-Yonah ’21
+Managing Editor of the 147th Guard
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The Faculty of Arts and Sciences will pilot a remote work system for staff to prevent the spread of the coronavirus pandemic, FAS Dean Claudine Gay wrote in an email Thursday.
+The initial pilot will last from March 16 to March 20, after which FAS administrators will evaluate the success of remote work operations and decide on further steps.
+“Faculty and managers will need to lead efforts this week to think about how critical processes will be handled remotely and to support students, postdocs, and staff in their efforts to prepare for next week’s pilot,” Gay wrote. “Department administrators will receive additional guidance via Zoom conference.”
+The decision to begin transitioning staff away from in-person activities comes during a week of unprecedented change to Harvard’s operations as a result of the virus. On Tuesday, University President Lawrence S. Bacow wrote to the University that classes would move to remote instruction following spring break. Minutes later, Dean of the College Rakesh Khurana wrote to undergraduates that they would be required to vacate dorms by Sunday afternoon.
+Gay ended her message to staff by acknowledging the stress such changes put on students, faculty, and staff as they transition to a new way of working and living.
+“Please remember that we are a strong community. In addition to all the steps we are taking to safeguard our collective health and well-being, we must all support one another. Patience, kindness, grace, and empathy have never been more important than they are now,” she wrote. “And in a time when we don’t have all the answers, let’s give one another the benefit of the doubt as we move ahead together.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard College aimed to provide students with details on remote learning, academic requirements, and dining options ahead of Sunday afternoon’s move-out deadline, as the University looks to avert the impact of coronavirus.
+The Dean of Students Office is looking at alternative ways to continue working with students and student groups, according to College spokesperson Rachael Dane. They are, however, directing their immediate focus to move out and students remaining on campus.
+“In the short term, our attention is squarely focused on planning for student move out and engaging with students ahead of March 15 to ensure they have what they need to move out of their Houses, the Dudley spaces, and First Year dorms,” Dane wrote. “In the weeks to come, our attention will turn to supporting students who have been approved to remain on campus.”
+Dane added that initiatives such as ROTC and veteran student outreach — headed by newly appointed Program Manager for Military Student Services Craig Rodgers — will continue remotely.
+Faculty of Arts and Sciences Registrar Michael P. Burke notified College affiliates in a Thursday email of several developments regarding undergraduates’ “accelerated” move out.
+Burke asked affiliates to practice “social distancing” to help limit the potential transmission of the virus. He also encouraged students to leave as soon as possible, citing increasing travel restrictions.
+
+“The greater the density we maintain, the more everyone around us is at risk (and the more you take that risk with you as you travel home),” he wrote. “Please do your part to accelerate your move-out as quickly as possible. With new restrictions being placed on travel regularly, your ability to get to your destination could change if you wait too long.”
+The updates come after two days of confusion and shock on Harvard’s campus. Following the announcement that students must depart their dorms by March 15 at 5 p.m., DSO and House staff scrambled to address students’ needs regarding travel, storage, and moving. Dane wrote that the DSO and the College notified faculty deans and residential staff of the decision Monday night.
+The update also announced several academic extensions. According to Burke, the deadlines to drop courses and change grading statuses between letter-graded and Pass/Fail options have both been moved to April 13. He added that previous course withdrawals from this semester will be “automatically converted” to course drops. Dean of the College Rakesh Khurana notified students in an email Wednesday that all major academic deadlines — including senior thesis due dates — will be extended by at least a week for undergraduates.
+All undergraduate dining halls will remain open through Friday dinner, according to Burke. On Saturday and Sunday, Quincy, Eliot, Kirkland, Cabot, and Pforzheimer House dining halls will continue to serve meals.
+Burke wrote that, after Sunday, Harvard University Dining Services will serve meals to students who have received permission to remain in their dorms.
+Burke also noted that the University has yet to make a final decision on the fate of Harvard’s 369th commencement ceremony. He wrote in the email that the “magnitude of logistical issues” has prevented the University from making a call. If held, commencement — scheduled for May 28 — will feature Washington Post executive editor Martin “Marty” Baron as speaker.
+“Speaking with students throughout the week, it is clear that the status of commencement for the Class of 2020 is something that is on a lot of people’s minds,” Burke wrote. “When a determination has been made, it will be widely communicated to students.”
+—Staff writer Declan J. Knieriem can be reached at declan.knieriem@thecrimson.com. Follow him on Twitter at @DeclanKnieriem.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard College’s Financial Aid Office and student organizations like the Undergraduate Council are working to reimburse travel costs and provide storage and shipping options ahead of Sunday’s move-out deadline, which was implemented as the University attempts to mitigate the spread of coronavirus.
+Undergraduates with a financial aid package that does not require a parent contribution will be fully reimbursed for any costs required to return home, according to the Dean of Students Office. Other students who receive financial aid will be reimbursed up to $750 depending on how much aid they receive, with exceptions beyond that limit being made on a case-by-case basis.
+The University’s dedicated coronavirus-related planning information website announced that some students would receive support with unanticipated travel and storage costs. On Thursday, the College provided a more specific explanation of the guidelines and eligibility for receiving financial aid for travel.
+With the College’s Tuesday announcement asking students to leave campus as soon as possible and no later than Sunday, many students were uncertain as to how they would finance their way home or store their items over the next several months.
+The Dean of Students Office stationed staff in locations around the school — including in upperclassman houses, the Smith Campus Center, and Annenberg Dining Hall — for students to get assistance on making travel plans.
+Finding off-campus storage or shipping belongings back home was also a concern for many students. A day after the announcement that students must leave, the College announced that all students who receive financial aid are eligible for a $200 shipping or storage credit. Students not on financial aid will have costs charged to their term bill.
+The Undergraduate Council also worked to facilitate the move-out, announcing its “Storage Relief Program” in an email to students on Wednesday evening. The program aims to supplement the College’s $200 grant to cover the remaining $55 that is required for the first level of storage with Olympia Moving & Storage, according to the email.
+Throughout Wednesday and Thursday, other student groups and Harvard affiliates worked to arrange emergency aid and assistance including the Asian American Christian Fellowship, graduate school students, and Primus — an organization for first-generation, low-income students that disseminated a moving-out guide.
+—Staff writer Benjamin L. Fu can be reached at benjamin.fu@thecrimson.com. Follow him on Twitter @BenFu_2.
+—Staff writer Dohyun Kim can be reached at dohyun.kim@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Students at Harvard Law School organized protests and support resources in response to the University’s announcement Tuesday that students must vacate the campus due to the coronavirus pandemic.
+Law School resident advisors met with Dean of Students Marcia L. Sells and Director of Residential Operations and Student Life Systems Mel Saunders Wednesday to present a list of questions from students living on campus. At the same time as the meeting, students camped outside the Dean of Students office for five hours to demand answers from administrators.
+Law School student Felipe Hernandez — a resident advisor who organized the meeting — said the atmosphere on campus following the University’s announcement has been stressful.
+“That put a lot of students into panic, anxiety, emotional distress,” he said in an interview Wednesday. “Students couldn’t sleep overnight, couldn’t eat. People broke down crying because they thought that they had to move out as early as Friday.”
+Hernandez said the idea for the sit-in sprouted out of anxiety and fear prompted by the message to move off of campus, as well as a demand for more information about the logistics of moving out.
+“The point of the sit-in was to bring to light just how poorly the Law School has communicated its response to the coronavirus and particularly its response regarding evicting students from their housing — for on-campus housing — and the process of who can stay on, who can appeal, and the rationale and the strategy behind that,” Hernandez said.
+He said the sit-in effectively raised awareness of the issues low-income and international students face, noting that Sells sent an email to the student body answering many concerns about financial aid and housing after meeting with the resident advisors.
+Sells addressed housing concerns in her email to Law School students Wednesday. The email stated the school would work with students to provide financial assistance for the cost of travel and would not evict students without a place to stay.
+“It is important that you know that we care about every student at HLS and we guarantee that everyone will have a place to stay, whether off or on campus,” Sells wrote. “We would never leave any student without a home (however temporary it might be) or without the financial support they need to stay safe and secure.”
+The email also discussed the lack of information and difficulty in communication between students and administrators, explaining the urgency of the pandemic pushed administrators to act quickly rather than establish fully detailed plans.
+“We also recognize that the speed of the decisions that we’ve had to make during the past few days has often outpaced our ability to finalize and communicate our plans and processes for supporting students through these unprecedented circumstances,” it reads. “Even today, we still don’t have all the answers to all the questions.”
+Meanwhile, Lambda — a student organization at the Law School dedicated to supporting BGLTQ students — has stepped up to secure housing for BGLTQ students in need.
+Lamba Co-President Matthew P. Shields said the organization contacted BGLTQ students across campus in an attempt to provide support in moving and finding housing on short notice.
+“We reached out to various LGBTQ+ Harvard undergrad groups. We just pretty much cast a broad net to tell people to contact us and tell us what their needs were,” Shields said in an interview Tuesday.
+Shields noted that BGLTQ students may not feel safe returning home and struggle to secure safe housing. Lambda is aiming to match students in need with others on campus who can offer temporary places to stay. The group plans to create a spreadsheet of available resources in response to a recent survey of BGLTQ students.
+“There are definitely students at the Law School who don’t have a home to return to because of their identity,” Shields said. “It’s a huge factor in our community in terms of being able to find safe and affordable housing.”
+Shields said a lack of information from the administration presents an added challenge to Lambda’s efforts in fulfilling student needs, but he said he also recognized the unprecedented and evolving nature of the situation.
+To conclude her email, Sells assured students that the Law School aims to assist all students during the transition to remote learning.
+“Please know this: We care about you and are here to support you through this immensely challenging time,” Sells wrote. “Everyone who needs our help – including housing and financial support – will receive it.”
+
+—Staff writer Kelsey J. Griffin can be reached at kelsey.griffin@thecrimson.com. Follow her on Twitter @kelseyjgriffin.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Four years after the Harvard Corporation approved a request by a Harvard Law School committee to remove the school’s official seal because of its ties to slavery, the seal remained quietly on the front doors of a University building as recently as this week.
+The seal — adopted by the Law School in 1937 — features the crest of the slaveowning Royall family, whose donation funded Harvard’s first professorship of law in the 18th century. It depicts three sheaves of wheat over a blue background.
+In 2015, a student movement called “Royall Must Fall” campaigned for the removal of the seal, arguing its origin endorses a slaveholding legacy. Following an incident of racially-charged vandalism that fall, then-Law School Dean Martha L. Minow created a committee to decide whether to retire the crest.
+The committee released its recommendation in March 2016, calling for a change in the seal. It recognized the seal’s history offended many students of color, according to the committee’s report.
+Later that month, the Corporation — Harvard’s highest governing body — approved the request for the seal’s removal.
+The Law School quickly worked to remove the physical seal from around campus. Former Law School Dean for Administration Francis X. McCrossan informed students in a March 2016 email that the Facilities Office would remove or cover up the seal on all buildings.
+However, the seal remained on the front door of 10 Mt. Auburn St. as of Thursday morning.
+Law School alum and organizer for the “Royall Must Fall” campaign Mawuse “Oliver” Barker-Vormawor wrote in an emailed statement Thursday that he finds the presence of the seal on campus four years after the promise of its removal disappointing.
+“It can translate for some as symptomatic of the reluctance of university authorities to do the right thing of their own initiative unless pressed to do so by students,” he wrote.
+When asked for comment, Law School spokesperson Jeff Neal responded that the school had not been aware of the seal’s continued existence on University property.
+“When we became aware for the first time today that an image of the retired shield still existed on a University-owned building on the opposite side of Harvard’s campus, we asked the University to remove it immediately,” he wrote in an emailed statement Thursday.
+The Crimson previously reported on the seal’s existence back in 2018 — two years after the Law School’s decision to remove the seal.
+Neal also wrote that the Law School formed a working group of students and faculty this winter to select a new seal.
+Vormawor noted the campaign’s goal of atoning for the Royall legacy went beyond the shield’s removal. He said the students wanted to see substantive changes in the school’s culture, as well as increased discussions on race and injustice both in and out of the classroom.
+“It almost makes me wonder if the death threats we received just because we dared push the university to live by its values were worth it,” he wrote.
+—Staff writer Kelsey J. Griffin can be reached at kelsey.griffin@thecrimson.com. Follow her on Twitter @kelseyjgriffin.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard administrators directed all research laboratories affiliated with the Faculty of Arts and Sciences to wind down activities to only essential functions for up to two months, marking yet another major shift in University operations announced this week in response to the coronavirus pandemic.
+The announcement came by email Thursday evening, co-written by FAS Dean Claudine Gay, School of Engineering and Applied Sciences Dean Francis J. Doyle III, Graduate School of Arts and Sciences Dean Emma Dench, Dean of Science Christopher W. Stubbs, Dean of Social Science Lawrence D. Bobo, and Dean of Arts and Humanities Robin E. Kelsey. The shift in lab operations follows Harvard’s decision to move all courses to remote instruction beginning March 23 and ask undergraduates not to return from spring break.
+Principal investigators must develop a plan to “ramp-down” activities in their labs by March 18, with the expectation that operations will remain in a reduced state for six to eight weeks.
+“To minimize community interactions, we ask that each lab identify at most 2-3 key individuals, in discussion with the department chair, to manage issues such as animal husbandry or essential experiments—those that if discontinued would generate significant financial and data loss,” the administrators wrote. “During this period we urge you to devote your time to productive alternatives, such as writing grant proposals, reviewing articles and papers, writing thesis chapters, conducting analyses, compiling data and/or synthesizing important research.”
+Stem Cell and Regenerative Biology Professor Richard T. Lee ’79 — a former Crimson editor — said he does not believe his lab will be able to conduct any experiments during the suspension period. The Lee Lab uses biotechnology to study heart failure and metabolic diseases and develop therapies to combat them.
+“I’m sure that there are different kinds of research that can keep certain things going, but for us, the actual experiments require being in the lab and we won’t be able to do that,” Lee said.
+Lee said he will ensure that the mice in his lab are cared for, and he and his researchers can continue with planning, reading, data analysis, and writing remotely.
+“It’s certainly going to be a change in our daily activities, but it’s not going to be a shutdown of all of the things that we do,” Lee said.
+In addition to the reduction in operations, the undergraduates in Lee’s lab will not be able to return to their research after spring break due to the University directive issued Tuesday. Emma V. Stimpfl ’21 — who works in Lee’s lab — said she was disappointed with the effects that Tuesday’s decision could have on her thesis research, which she planned to complete by the end of 2020.
+“I have no idea what’s going to happen with my project,” Stimpfl said.
+Asked for comment in response to concerns about thesis research, Harvard College spokesperson Rachael Dane referred to administrators’ email on lab operations reductions.
+Stimpfl said Lee and her department advisors have been “super helpful” and “very flexible” with requirements.
+Her department, Stem Cell and Regenerative Biology, sent an email to students taking the SCRB 91R: “Introduction to Research” course — a lab research class — that it would change class requirements to focus on writing over experiments.
+“Students will be expected to provide a more in-depth and comprehensive review of background literature, expanding the introduction and discussion sections of their paper to compensate for missing time in the lab,” Amie L. Holmes, SCRB’s assistant director of undergraduate studies, wrote in the email to 91R students.
+Priya Veeraraghavan, a Medical Sciences Ph.D. candidate at the Graduate School of Arts and Sciences, said while the suspension was disappointing, it also gives lab members time to reflect on their research and spend more time reading and performing analysis.
+“Sometimes we get very much caught up in kind of the day-to-day experimental work, and we might neglect, and especially the early stage graduate students, reading a lot of literature or really thinking about the new or clever strategies for approaching the questions of their thesis,” Veeraraghavan said. “There’s more time to read and to do analysis without the pressure of like, working, you know, 12-hour days at the bench.”
+While many labs are consolidating operations to essential personnel to continue their ongoing projects, others — particularly computational labs — are shifting focus entirely to prioritize coronavirus-related research.
+Marc Lipsitch, the director of the Center for Communicable Disease Dynamics at the Harvard School of Public Health, said the center’s research is moving “twice as fast and twice as hard as usual” since the outbreak began. He said researchers have launched more than 20 new coronavirus-related projects since the outbreak began.
+School of Public Health epidemiology professor Michael J. Mina — who also works at the CCDD — said the outbreak has presented faculty, postdocs, and graduate students with a unique opportunity to see the direct impact of their research on the world’s population.
+“There are very few times when a researcher gets to apply their expertise in real time,” Mina said. “I think that we all feel very good about being able to use essentially our expertise and our knowledge and our own research that we’re now doing on a daily basis to really inform public health decisions in foreign policy locally and nationally and internationally.”
+Correction: March 16, 2020
+A previous version of this article incorrectly stated the date by which Emma V. Stimpfl ’21 planned to complete her research. It was at the end of 2020, not the end of the semester.
+—Staff writer James S. Bikales can be reached at james.bikales@thecrimson.com. Follow him on Twitter @jamepdx.
+—Staff writer Virginia L. Ma can be reached at virginia.ma@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Museums affiliated with Harvard University announced that they will close “until further notice” in response to the coronavirus outbreak that has shuttered much of the University’s campus.
+At least five museums, including the Harvard Art Museums, the Harvard Museum of Natural History, the Peabody Museum of Archaeology and Ethnology, the Harvard Semitic Museum, and the Collection of Historical Scientific Instruments, sent mass emails Thursday announcing the decision to close.
+“This decision has been carefully considered, as we know museums are community spaces,” the museums wrote.
+The email encouraged would-be visitors to explore the museum’s online classes in order “to continue to provide opportunities for learning and reflection.”
+In an unprecedented move, Harvard administrators announced in emails Tuesday morning that classes will be held online following spring break, beginning March 23. Most students will also be required to vacate campus by 5 p.m. on Sunday, March 15, unless they successfully petition to remain in residence.
+Governor Charlie D. Baker ’79 declared a state of emergency in Massachusetts on Tuesday in response to the ongoing outbreak. As of Wednesday, the Massachusetts Department of Public Health had confirmed at least 95 cases in the state.
+The Museum of Fine Arts in Boston also announced in an email to subscribers that it will remain closed after Thursday “for up to 30 days.” The Institute of Contemporary Art and the Isabella Stewart Gardner Museum — both also in Boston — will likewise close Friday.
+Paul D. Tamburro ’21, a senior guide at the Harvard Art Museums, wrote in an email that the museum’s closure “drove home the severity of the crisis we’re currently facing.”
+Tamburro, a former Crimson news editor who has worked at the museum for a year and a half, added that he supported the decision to close.
+“I am deeply sad that I won’t be able to give tours or see some of my favorite works for several months, but I think this is the right call in the end,” Tamburro wrote.
+—Staff writer Ellen M. Burstein can be reached at ellen.burstein@thecrimson.com. Follow her on Twitter @ellenburstein.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The Title IX Office has launched a new LGBTQ+ Resources page on its website as part of an ongoing initiative to improve gender equity at the University.
+The office developed the page in conjunction with a number of other campus partners, including the College Office of BGLTQ Student Life, the GSAS Office of Diversity and Minority Affairs, the Harvard Medical School Sexual and Gender Minorities Equity Initiative, and the Office of the President and Provost.
+University Title IX Officer Nicole Merhill said that the website’s Feb. 12 launch represented the culmination of more than a year and a half’s work.
+“The members of One Queer Harvard really expressed the importance of having a central resource tool around LGBT+ resources on campus and in the community,” Merhill said. “That’s when the conversation really started.”
+According to Rachel DiBella, the Assistant Director of Title IX Education Programs, the website was envisioned with the goal of creating a centralized resource for students. While there had formerly been a one-page resource guide available to LGBTQ+ students, the new website provides more comprehensive information.
+Students who visit the site may navigate resources by clicking on their University affiliation or by selecting a certain topic, such as “Career/Professional Development” or “Health and Wellness.” The website also features information about where students can access all-gender restrooms around campus.
+Jessica Halem — the LGBTQ Outreach and Engagement Director for the Medical School’s Sexual and Gender Minorities Health Equity Initiative — said the website represents an important partnership across the University.
+“Even though we here at Harvard like to live in our separate silos, and are separate campuses, and we have separate budgets, that’s not how LGBTQ people work,” Halem said. “We cross over lines, we find each other, we need each other. No matter if we’re faculty, staff or students, we have to work together, because for many of us it’s really life or death to be connected to one another.”
+Halem also said she believes that in a “massive” place like Harvard, an online hub for resources is “crucial.”
+“We’re hoping that this website is a place that you could get a lot of your questions answered, and find out where to go for more,” she said.
+In the month since the website went live, Merhill said the Title IX office has seen encouraging traffic.
+“One of the things we noted is that those visitors who are visiting the LGBTQ+ resource page are spending more time on that page than on other pages within the Title IX site,” Merhill said. “The length of time people are spending is almost more important than the number of visits.”
+Halem said that, apart from the resources, the website’s most important feature is the inclusive message it delivers.
+“I believe it sends a clear message that Harvard University wants you here,” Halem said. “I think that if you are applying for a job, if you’re applying for schools, if you’re looking to transfer, if you’re looking to find your next research home, you have to have a visual, on the web — a clear message at the highest level of a Harvard University website.”
+“It has to be crystal clear that Harvard University wants you here, that we have dedicated resources, and that we have created community,” she added. “The website is an important place where people look to see, ‘Is this a home for me?’”
+—Staff writer Camille G. Caldera can be reached at camille.caldera@thecrimson.com. Follow her on Twitter @camille_caldera.
+—Staff writer Isabel L. Isselbacher can be reached at isabel.isselbacher@thecrimson.com. Follow her on Twitter @IsabelLarkin.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The City of Cambridge announced the cancellation of all “non-essential” city meetings and the closure of all public schools in an attempt to curtail the global coronavirus outbreak Thursday.
+In a press release sent out by Mayor Sumbul Siddiqui and City Manager Louis A. DePasquale, the city announced that meetings for all public bodies are now canceled. The notice also said the city’s Special Events Committee would not approve any new permit requests.
+“The health and well-being of our City and its residents is our top priority during this rapidly-evolving public health crisis,” Siddiqui said in the release. “An event as unprecedented as this will test us all. I’m confident we will rise to the occasion, as our community has done before in difficult times.”
+Hours later, Cambridge Public Schools Superintendent Kenneth N. Salim announced that the city’s schools would be closed until March 27 following dismissal on Friday, March 13. Salim said that he would reassess whether the schools should reopen during the two-week break.
+There are no confirmed COVID-19 cases within the Cambridge Public Schools system, according to Salim’s announcement.
+Dozens of other schools around Massachusetts have announced their closures amid the outbreak. More than 100 people in the state have tested positive for the virus and more than 1,000 have been quarantined.
+Nearly three-quarters of confirmed cases of COVID-19 in the state of Massachusetts have been traced to a management meeting held Feb. 26 and 27 by the Kendall Square-based company Biogen.
+The city wrote that public city meetings that “transact official City business” will continue to be held as scheduled. The notice said that attendees should not attend if they are feeling ill, coughing, or have a fever.
+“I recognize that this rapidly evolving situation is extremely stressful and members of our community are anxious about potential impacts from COVID-19,” DePasquale wrote in the press release. “We are committed to keeping you informed and to responding to the questions and concerns we hear from members of the Cambridge community. The community’s safety and wellbeing is our highest priority.”
+—Staff writer Ellen M. Burstein can be reached at ellen.burstein@thecrimson.com. Follow her on Twitter @ellenburstein.
+—Staff writer Jasper G. Goodman can be reached at jasper.goodman@thecrimson.com. Follow him on Twitter @Jasper_Goodman.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Schools and administrative units across the University will pilot a remote work system for staff next week to prevent the spread of the coronavirus pandemic.
+The pilot for Faculty of Arts and Sciences staff will last from March 16 to March 20, after which FAS administrators will evaluate its success and decide further steps, FAS Dean Claudine Gay wrote in an email Thursday.
+“Faculty and managers will need to lead efforts this week to think about how critical processes will be handled remotely and to support students, postdocs, and staff in their efforts to prepare for next week’s pilot,” Gay wrote. “Department administrators will receive additional guidance via Zoom conference.”
+University spokesperson Jonathan L. Swain wrote in an email that Executive Vice President Katie N. Lapp asked central administration leaders to launch a similar program next week and to provide her with feedback after the initial pilots.
+“As the University continues to prepare for and manage the rapidly changing impacts of this public health emergency, these efforts will be critical to planning for any potential large-scale move to remote work in the future,” Swain wrote.
+The Division of Continuing Education will also pilot a similar program next week, according to DCE spokesperson Harry J. Pierre.
+Several other schools have not officially announced shifts to remote work, but are highly encouraging employees to work from home.
+Harvard Medical School Dean Lisa M. Muto ’79 wrote in an update to staff that unit and department leaders should shift nonessential staff to work remotely “as soon as possible.”
+“The reason we are providing this guidance is to follow University and public health guidelines around social distancing in order to deter the possible spread of disease,” Muto wrote.
+Harvard Graduate School of Design staff will attend meetings via Zoom “to the fullest extent possible” by Monday, per an update on the Design School’s website.
+Likewise, Harvard Kennedy School Dean Douglas W. Elmendorf and Executive Dean Janney Wilson wrote in an email to staff and faculty that they should prepare to work remotely for an “extended period of time.” If they are equipped to work remotely, he encouraged them to do so by Friday or Monday.
+Harvard School of Public Health Dean Michelle A. Williams encouraged affiliates to work from home next week in an online announcement.
+Harvard Law School Dean for Administration Matthew Gruber wrote in an email to staff that the situation is “fluid” and “subject to change.”
+“We expect that a large proportion of our staff will have no need to work on campus next week, and for that number to possibly grow beginning the week of March 23,” Gruber wrote.
+Harvard Union of Clerical and Technical Workers President Carrie E. Barbash said she supports the FAS pilot, adding she hopes it is continued for “as long as we need to do it.”
+“This is an unprecedented situation that I think needs to be taken really seriously and this is definitely a good step in that direction,” Barbash said. “I think it’ll be great to see every school sort of moving in this direction as soon as possible.”
+Under the University’s most recent policies, Harvard staff may apply unearned sick days if they become sick or quarantined due to coronavirus or if they have to take care of a family member affected by it. They may also exceed annual limits on dependent care days.
+Harvard will also guarantee pay to non-remote employees for a “a defined period of time (e.g., 30 days)” if their department is closed or quarantined, according to the guidance.
+—Staff writer James S. Bikales can be reached at james.bikales@thecrimson.com. Follow him on Twitter @jamepdx.
+—Staff writer Michelle G. Kurilla can be reached at michelle.kurilla@thecrimson.com. Follow her on Twitter @MichelleKurilla.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard freshmen expressed disappointment and frustration Thursday after their upperclassman housing assignments were delayed due to the global coronavirus pandemic.
+Housing Day — a spirited annual event during which upperclassmen storm Harvard Yard to tell freshmen where they will be living for the following six semesters — takes place each March. Faculty of Arts and Sciences Registrar Michael P. Burke announced Monday that the College would postpone Housing Day, which was originally slated to happen Thursday. Burke did not say when students would receive notices, leading some freshmen to expect them Thursday.
+“It’s obviously super disappointing,” Roderick P. Emley ’23 said. “This is just a huge tradition at Harvard, and it feels like we’ve been robbed of it.”
+In an emailed statement, College spokesperson Rachael Dane acknowledged the “disappointment” students felt on campus because of the cancellation.
+“We know the disappointment and frustration that our First Year students, HoCo Chairs and HoCo members, and other students are feeling over the cancellation of Housing Day,” Dane wrote.
+Freshmen also lamented the loss of other Harvard housing traditions. On the eve of Housing Day, many freshmen take part in River Run, a traditional evening activity during which students take shots at each of Harvard’s nine river houses in a superstitious bid to avoid being assigned to a house in the Radcliffe Quadrangle just under a mile from Harvard Yard.
+“The main word that sums up my housing day experience is disappointment, especially because I grinded hard on River Run,” Lucas P. Pao ’23 said.
+A number of students said that, even without the evening and morning festivities, they wished the Dean of Students Office sent housing assignments via email Thursday, the scheduled date.
+“An email from housing day would’ve just made my day,” Pao said.
+Others said they feared learning that they had been placed in a house in the Radcliffe Quadrangle via email.
+Andrew G. Van Camp ’23 said he thought an emailed assignment would dampen his experience, “especially if [he gets] quadded,” he said.
+“I’d be so sad if I got [Pforzheimer] via email,” Justin Chan ’23 said. “That’s a hot take right there.”
+Dane wrote that the Dean of Students Office “will seek to notify students in the near future of their housing assignments.”
+Dane wrote the DSO and House Committees are “seeking to brainstorm” a variety of “ways to bring that excitement and energy” to the experience of finding out their houses.
+“We will find a way to celebrate the strength of our communities and welcome its newest members,” Dane wrote.
+Despite the growing number of coronavirus cases in Massachusetts, Van Camp questioned the need to call off Housing Day.
+“Annenberg is still open, but Housing Day isn’t happening? It feels like infection could happen here just as easily,” he said, gesturing to the dining hall full of hundreds of students.
+Other freshmen, though, said they understood the decision.
+“I’m definitely upset. It’s a very big part of freshman year: the rituals, the tradition. I was very much looking forward to it,” Benjamin A. Landau ’23 said. “That said, given the circumstances, in the world right now and in the community right now, I understand the precautions they’re taking and I respect the decision the administration has made.”
+Despite the changes, Emley said the “expectation” of Housing Day still led to revelry among freshmen on Wednesday and Thursday.
+“People still kind of filled that void by doing things, just without the tradition of Housing Day,” he said. “People still had parties, people still drank, but there wasn’t the celebratory aspect of that because we still don’t know what house we have.”
+—Staff writer Camille G. Caldera can be reached at camille.caldera@thecrimson.com. Follow her on Twitter @Camille_Caldera.
+—Staff writer Jasper G. Goodman can be reached as jasper.goodman@thecrimson.com. Follow him on Twitter @Jasper_Goodman.
+Want to keep up with breaking news? Subscribe to our email newsletter.

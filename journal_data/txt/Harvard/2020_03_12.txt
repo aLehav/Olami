@@ -1,0 +1,367 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+On March 10, 2020, Harvard University decided to transition all classes online for the remainder of the spring semester and asked all undergraduate students to move off-campus in less than one week due to concerns over the outbreak of novel coronavirus, or COVID-19. There is little doubt that this decision has a great impact on students — from moving expenses and airline flights, to the cancellation of social gatherings and provocative speakers, to the possibility of leaving Harvard without an official in-person graduation ceremony. Students have responded with a mix of emotions — from frustration and confusion to elation and uncertainty about when they will see each other again. Some have raised rightful concerns over the safety and support for first-generation and low-income students. Others in the community have questioned the decision and mocked the administration for being too cautious and overstating the threat.
+Amid this uncertainty, and fair criticism, Harvard’s overall response is supported by history and public health practice.
+Consider the 1918 influenza pandemic and the deliberate choices made by two cities — Philadelphia, Pa. and St. Louis, Mo. Philadelphia allowed public gatherings while St. Louis chose to ban all public gatherings. As a result, there were dramatic differences in the mortality rate per day between the cities: St. Louis had a peak weekly death rate of 31 per 100,000 persons, while Philadelphia’s was 257 per 100,000 persons.
+St. Louis’s non-pharmaceutical interventions made the difference. NPIs are a class of public health interventions that do not involve a biomedical or pharmaceutical component, but also serve to help slow the spread of an infectious disease. School closures, shifting classes online, and banning public gatherings are all forms of NPI that fulfill two crisis management goals. First, they eliminate high-risk opportunities for mass infection. Second, they enforce the public health concept of “social distancing,” which intends to keep individual community members from engaging in activities that require close contact with one another for a sustained period of time.
+While the 1918 flu and COVID-19 are caused by different viruses, a rapid increase in cases of COVID-19, which is scalable with surge capacity, will similarly burden the healthcare system. Harvard School of Public Health Professor Marc Lipsitch’s study on the 1918 influenza pandemic found that NPIs can have a dramatic effect on public health and that the mortality rate rapidly spikes when NPIs are removed. His findings underscore the importance of maintaining NPIs throughout an epidemic.
+The goal of NPIs is to slow and eventually stop disease transmission, which is measured by its  effective reproductive number, “R.” R is the average number of people who will get infected by an already infected person. A disease with an R of 2 means that each case will infect on average 2 people, and an R of 1 means each case will infect on average 1 person. R is not a static number, so reducing a disease’s R  to be less than 1 is critical to stopping the spread. Therefore, the enforcement of NPIs is particularly important to help reduce R and diminish the likelihood of person-to-person transmission.
+NPIs reduce the density of people in a space, which significantly diminishes the likelihood of spread of an infection. Schools bring large groups of people together — a closure limits the opportunities for mass spread because one person has fewer interactions with groups of people. The decision to transition to classes online is an impactful public health intervention — it directly limits the propensity for the spread of this novel infection before it has a chance to establish a foothold at Harvard.
+Without school closure, it is likely that when the first COVID-19 case is detected in the Harvard community, the virus will have likely started circulating in the population and spreading without anyone’s knowledge — risking thousands of individuals. By reducing population density — in this case, by de-densifying student housing and ending in-person lectures — Harvard can prevent an outbreak from spiraling out of control. Given the growing number of cases in Boston, the majority of which stem from a Biogen conference where 1 undetected case has led to 70 cases in a matter of days, this decision is a wise public health choice.
+We recognize that the news of moving out of dormitories on such short notice cannot be easy. In particular, we realize that this situation places hardships on students who may not have a safe home to go back to or struggle to return home due to finances and travel restrictions. We urge the University to support these students as it goes forward with its plan to move classes online and to take actions as peer institutions have done to support these students by allowing them to remain on campus in de-densified dorms, or paying students who rely on on-campus jobs through the end of the semester. The University’s objective — to keep students safe — should include their financial and psychological well-being. But ultimately, we commend the University for taking decisive and appropriate public health actions toward reducing the spread of COVID-19.
+Lucas E. Buyon is a Ph.D. student at the Graduate School of Arts and Sciences. Sina Famenini is an MPH45 candidate at the Harvard School of Public Health. Jake R. Petrini is an MPH candidate at the Harvard School of Public Health.
+The writers are members of the Harvard Chan Student Association Executive Board: Lucas Buyon is President, Jake Petrini is a Vice President of Academic Affairs, and Sina Famenini is Vice President of Student Advocacy.
+A list of the members of the Harvard Chan Student Association Executive Board is available here. 
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+When Harvard University announced on March 10 that undergraduate students were to move out of their dormitories within five days due to escalating concerns surrounding the coronavirus outbreak, the student body responded with shock. While this decision had a wide range of consequences affecting all aspects of undergraduate life, I hope to shed some light on how the administration’s shifting and ambiguous policies over the past week have specifically impacted student performing arts organizations on campus.
+On March 6, the Office of the Executive Vice President announced that “non-essential meetings or events of 100 people or more” would be “strongly discourage[d],” a policy that resulted in the cancellation of numerous arts events across campus. In one of the most striking cancellations, the Harvard-Radcliffe Veritones, the Harvard Fallen Angels, and the Harvard Callbacks received only two hours notice from Sanders Theater that their spring a cappella concert could not proceed due to Harvard’s new policy. Meanwhile, sporting events with far more than 100 attendees remained unaffected that same evening, a painful discrepancy detailed by one of the concert’s organizers in a piece from the Harvard Political Review.
+Despite these difficulties, student arts groups were determined to continue with their productions and adapt as needed. On the afternoon of March 7, a group chat formed among the leaders of Harvard’s undergraduate performance organizations, consisting of over 150 members. We expressed our disappointment over the administration’s vague and inequitable policies while working towards solutions: how we could scale down productions, move performances outdoors, set up live streams, and restrict audience capacity to ensure no more than 100 people gathered for any single event. While the safety measures implemented for Harvard’s sports teams were largely determined by the athletics administration, student arts organizations are in charge of reserving their own spaces for rehearsals, placing more pressure on individual students to make the right decisions on behalf of their communities.
+Student dance organizations faced another challenge at 10 p.m. on March 7 when the Harvard Dance Center announced that all studio reservations within both of its facilities – the Office for the Arts and the Dance Center itself – would be suspended on March 8, “due to University recommendations.” We wondered why rehearsals within these studios would be considered dangerous based on the University’s policies at that point; outside of special events, the Dance Center rarely contained more than 100 people, and the singular studio located in the Office for the Arts already limited its capacity to 20. Confusion also arose as to why these suspensions were only in place for one day; if dance studios were truly dangerous, how would a single day of closure meaningfully protect students’ health? Regardless, student dance groups worked around these constraints. Rehearsals could be rescheduled and relocated to other available (though less accommodating) studios on campus.
+These studio suspensions ultimately remained. Shortly after 2 p.m. on March 9, the Harvard Dance Center announced that all studio reservations would be suspended indefinitely, and their suspensions effective immediately. Discrepancies over Harvard’s coronavirus policies also continued; just two hours following the Harvard Dance Center’s announcement, Harvard College reported that popular recreational facilities, such as the Malkin Athletic Center and Hemenway Gymnasium, would remain open and unrestricted. The inconsistent interpretations of Harvard’s policies across campus, particularly between the arts and athletics administrations, further frustrated student artists, but our organizations hoped that compromises could be reached, such as finding alternative methods to limit the number of people within studio spaces. Performing arts organizations continued to schedule rehearsals, coordinate production tasks, and develop their contingency plans.
+Our hopes weakened, however, when later that day, the Theater, Dance, and Media department suspended all upcoming thesis performances. While solutions such as restricting audience capacity could have allowed these productions to comply with University policy, the department determined that these performances were to be entirely canceled due to health concerns. We could not believe the department’s actions. We were heart-broken for the seniors who had invested countless hours into the capstone works of their academic and artistic careers, and while no version of these productions were allowed to be realized, the Harvard gyms remained open and unrestricted. It was not until the following day, on March 10, when we learned that students were not permitted to return to campus after spring break, effectively destroying any possibility for group student performances on campus.
+Between March 6 and March 10, student arts leaders worked tirelessly to support their organizations by complying with the vague and inequitably enforced policies presented by the administration, with no warning that these efforts would be futile within the week. I sympathize with the difficult decisions the Harvard administration faced, and I do believe sending students home was the safest possible decision, though perhaps poorly executed. Rather, the lack of transparency and unequal enforcement of unjustified policies resulted in completely unnecessary pressures being placed on hundreds of students, preceding what would in and of itself become one of the most stressful and destabilizing events in Harvard’s history. I have immense pride in the student arts organizations who have always advocated for students’ safety and the presence of the arts on campus, and I have no doubt that our communities will remain steadfast in the upcoming weeks. However, though these issues may only be a small fraction of Harvard’s current crisis, the damage they will inflict on the relationship between student artists and our administration may be irreparable.
+Cassandra J. Kane ’21 is a Computer Science concentrator in Adams House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The University carried out its announcement that students must move out and transition to remote instruction by this coming Sunday due to concerns over the outbreak of novel coronavirus in a manner that ensured only anxiety and chaos would ensue in its wake. The last two days — amid tears, parties that have overflowed into the streets, half-attended classes, and the panic of figuring out where to live and how to get there — have made that inevitability all too clear.
+A global pandemic is, no doubt, unpredictable. And it would be absurd to criticize the University for an evolving response to an evolving situation. But the University’s mixed messaging has left students to face the uncertainty of pandemic alone without the ubiquitous paternalism of the College.
+Students were informed on Friday, March 6, that all University-related air travel was prohibited, and that personal air travel was seriously discouraged. Travel, multiple emails warned, can increase the risk of exposure to coronavirus. This seemed to imply that students should cancel flights home to comply with the University’s suggestions.
+Evidently this concern expired just four days later. Suddenly — in a truly fantastic about-face — the University demanded everyone out by Sunday — by plane, by train, by foot … it didn’t matter. If you had canceled a ticket home, you’d better rebook it.
+The logistical demands this imposes are obvious. Expecting students to pack and store their things, make travel arrangements, and grapple with visa implications over five days — while somehow not canceling classes and only formally postponing assignments late the next evening — creates an impossible storm that disrespects student well-being.
+To be sure, additional support has slowly been revealed — $200 for students on financial aid to subsidize storage, travel booking assistance, and some clarification on shipping procedures. But the initial panic caused by the University’s choice to drop this announcement with only the sparest of details was undeniable. Overcrowded offices, FAQs with phone numbers as “answers,” and faculty deans only scantly more informed than their students served no one.
+Even the pathways that the University did initially provide for student support were on face ill-formed. Expecting distressed students to apply within 24 hours for University housing seems unrealistic — not least for those who lack a feasible place to go.
+Moreover, students have been left puzzling over any number of questions. Why, for example, when on-campus storage in the Houses is guaranteed under normal circumstances, has it been taken away when we have the shortest notice possible to pack our lives away? Is it any coincidence that the decision came the morning after the seventh Monday — the last day college students may withdraw from courses?
+Silence on these decisions — a lack of transparency, as we (with a hope that now seems sweetly naive) called for on Tuesday — makes them, at best, seem cruelly arbitrary and, to the more cynical, potentially ill-intended. Either way, it erodes faith at a time when faith is most needed.
+The stress this rollout put on low-income and international students, as we made clear yesterday, is shameful. Telling a student to book a last-minute plane ticket for potentially thousands of dollars without making clear a contingency plan or explicitly articulating whether Harvard will financially support them is irresponsible.
+Students from countries with lock-downs and travel restrictions are left particularly vulnerable, as they may be unable to return home but received no guarantee that they would be able to remain on campus. Even students that are not in these regions will be traveling into areas, both domestic and abroad, significantly impacted by the outbreak.
+And coronavirus isn’t the only boogeyman waiting at home. Nicholas T. “Nick” Wyville ’20 put it best. “Harvard prides itself on having a massive student body that is a large percentage on financial aid,” he said, “I think that they forget that those are the same students who often come from home situations that are uncomfortable.” While the University can’t ameliorate these situations, we can’t help but wish today’s announcements of additional supportive measures were there to reassure them yesterday.
+The administration’s call for undergraduates to “engage as a community” and “draw strength from each other” rings hollow when students lack support from the University itself. Even so, student organizations stepped up to fill the void left by the Harvard administration. The Undergraduate Council and Harvard Primus, a first-generation students community, compiled guides on essential details like returning books to the library and donating items to Habitat for Humanity. Groups organized crowd-funding drives to help mitigate the burden on low-income students. Others are offering to help move boxes.
+These efforts are inspiring but we just wish they were unnecessary. More than wishing to stay on campus, we wish that we felt more taken care of by the University.
+To our peers: good luck; take care of yourselves and each other. Our hearts go out to you, wherever your home for the next few months may end up.
+This staff editorial solely represents the majority view of The Crimson Editorial Board. It is the product of discussions at regular Editorial Board meetings. In order to ensure the impartiality of our journalism, Crimson editors who choose to opine and vote at these meetings are not involved in the reporting of articles on similar topics.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Two Harvard affiliates are currently being tested for the novel coronavirus, Harvard University Health Services Director Giang T. Nguyen wrote in an email early Wednesday afternoon.
+Nguyen wrote that there are currently no confirmed cases of coronavirus on campus, but the two individuals who are being tested are receiving “appropriate care.”
+“Harvard has established protocols for evaluating patients who have symptoms and concern for COVID-19,” Nguyen wrote. “The protocols are guided by the CDC and advice from local public health agencies. The University is prepared to respond in the event of a confirmed case of COVID-19. To date, there are no confirmed cases of COVID-19 on the Harvard University campus.”
+He also urged students, faculty, and staff to respect the privacy of the individuals currently being tested. He added that, if the tests are positive, the University has protocols in place for dealing with possible cases of coronavirus on campus.
+In an emailed statement to The Crimson, Nguyen outlined the steps HUHS takes in testing possible coronavirus cases.
+“Specimens are collected at HUHS, but lab processing is done through external facilities, such as the Massachusetts Department of Public Health,” he wrote. “We work closely with state and local Departments of Public Health to respond and provide advice to the patient and their contacts.”
+HUHS will also conduct contact tracing in accordance with health department recommendations.
+“Close contacts in the patient’s household are advised to self-quarantine while test results are pending,” Nguyen wrote.
+In his statement, Nguyen added that the results of the testing will likely be reported to HUHS in the next few days, but there is no “guaranteed turnaround time.”
+Nguyen laid out a series of preventative measures to take in the email to Harvard affiliates, including being “vigilant” in taking hygiene measures and contacting HUHS if they have a fever or respiratory symptoms.
+Nguyen also pointed students toward Counseling and Mental Health Services, and faculty and staff toward the Employee Assistance Program, if the current situation on campus causes “stress and anxiety.”
+News of the two tests comes a day after University President Lawrence S. Bacow announced students must vacate campus by Sunday at 5 p.m. After spring break, classes will move to an online platform.
+Additionally, Massachusetts Governor Charlie D. Baker ’79 declared a state of emergency on Tuesday after the number of cases in the Bay State doubled overnight.
+There are 95 confirmed cases of coronavirus in Massachusetts. More than 1,000 Massachusetts residents are currently being quarantined.
+Nguyen directed Harvard affiliates toward the University’s coronavirus website for further updates on the outbreak.
+—Staff writer Fiona K. Brennan can be reached at fiona.brennan@thecrimson.com. Follow her on Twitter @FionaBrennan23.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Many undergraduates are scrambling to find last-minute housing arrangements after Harvard’s announcement that students must vacate their dorms by Sunday to prevent the spread of coronavirus.
+University President Lawrence S. Bacow announced in an email Tuesday morning that all Harvard courses will move to remote instruction beginning March 23 as a result of a growing global coronavirus pandemic. Harvard has also asked undergraduates not to return from spring break.
+But for some students, returning home can be a dangerous option.
+Joseph Winters ’20, who hails from Washington state, said he believes going home would put him at greater risk of contracting coronavirus due to the disease’s prevalence there. As of Wednesday evening, the state had 267 confirmed cases of the virus, the highest tally in the country, according to the Centers for Disease Control and Prevention’s website.
+“My parents weren't sure that they felt comfortable with the option of me going home, given that the number of coronavirus cases in Washington is greater than in Massachusetts,” he said. “It doesn't feel like it makes sense to send you from where you are back here to this place of relatively greater risk.”
+Another student, who requested anonymity because of safety concerns, said an unsafe living situation prevents him from returning home.
+“Normally Harvard's super accommodating and honestly does a really good job handling my situation,” he said. “But this whole COVID thing has kind of flipped that.”
+The College has solicited student petitions to stay on campus, though administrators have said they will grant exceptions sparingly. It is unclear which students will be permitted to remain, though Khurana wrote in his email that students should consult their resident dean for more information if they hail from a country with a Level 3 travel warning from the CDC or one subject to a federal government travel ban.
+The unnamed student said he has yet to learn whether or not the College will accept his case to remain on campus. While the original email announcement left students with five days to make plans, he said the uncertainty has left him with even less time by delaying him from making other housing arrangements.
+“This isn't something where I can wait a while to get these answers. This is in four days. I will not have a place to live,” he said.
+Many undergraduates, graduate students, and alumni have taken ad hoc measures to financially support their fellow students who are unable to return home.
+More than 100 undergraduates signed up to provide housing on a spreadsheet that connects students seeking housing and those with available beds. Graduate students at the Harvard Kennedy School and others have also created their own spreadsheets listing people who have available living and storage space.
+The Phillips Brooks House Association has created a form where people can volunteer to host students unable to make alternative arrangements or return home or wish to stay on campus to keep PBHA’s Harvard Square Homeless Shelter and Y2Y youth homeless shelter open. Primus — a student group for first-generation, low-income students at the College — created a similar form for students.
+First Generation Harvard Alumni has also been soliciting donations to cover or subsidize the costs of students’ airfare, alternative housing, and storage, and to offset the impact of lost employment for students with term-time jobs.
+“It is an unprecedented time on campus in light of recent news that Harvard College is canceling in-person classes and requiring students to leave campus in less than a week,” the group’s GoFundMe page reads. “While this transition is beneficial to the health and well-being of students, it is causing extreme financial stress for our students to manage in such a short period of time.”
+Individual students have also been crowdfunding financial aid by connecting students with donors who can fund recipients’ costs via Venmo, PayPal, Cash App, and other mobile payment services.
+—Staff writer Amanda Y. Su can be reached at amanda.su@thecrimson.com. Follow her on Twitter @amandaysu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The executive board members of the Harvard University Police Association union said Monday that they are not confident in the ongoing climate review of Harvard’s police because of department leadership's involvement.
+The four officers who sit on HUPA’s executive board — President Michael J. Allen, Vice President Joseph E. Steverman, Treasurer Louis W. Favreau, and Secretary Michael E. Davenport — said in Monday interviews that they want an independent third party to carry out and oversee the review.
+“We as an e-board believe the department has the right to have a review,” Allen said. “We just feel and have heard from many union members that any such review should be done by external persons who then report to the University.”
+“We don’t believe anyone internal should be involved in the review,” he added.
+Harvard University Police Department Chief Francis D. “Bud” Riley began a review into the culture of his department at the beginning of February. In an email sent to department employees, Riley wrote that the review was prompted by a January Crimson investigation, which found repeated instances of racism and sexism within HUPD and cited allegations that the department’s leadership displays favoritism toward some and retaliates against officers who raise concerns.
+Two weeks ago, Riley wrote in an email to the department that he appointed a pair of outside law enforcement experts to oversee a review of the department’s culture and its dealings with the University more broadly.
+Riley also wrote that he had selected five HUPD employees and a Harvard Human Resources representative to serve on the review’s “working group,” which he tasked with reviewing HUPD’s procedures for handling internal complaints and employee morale, among other issues. Members of the working group will solicit feedback from HUPD employees and University affiliates outside of the department.
+The working group will report its findings to Riley as well as University Executive Vice President Katie N. Lapp, according to Riley’s email.
+University President Lawrence S. Bacow said in an interview last week that he supports the HUPD internal review. He deferred all questions regarding the review to Lapp.
+Harvard spokesperson Jonathan L. Swain declined to comment on the union’s concerns on Lapp’s behalf.
+When asked for comment, HUPD spokesperson Steven G. Catalano wrote in an email that the review will seek advice from outside experts and will share its findings at the end of the academic year. He added that the working group has begun conducting interviews.
+Steverman said a review of HUPD is “a step in the right direction” but cited concerns with the current review’s structure.
+Steverman said he does not believe the review will shed light on officers’ concerns because they are reluctant to speak openly to the working group. The working group consists of HUPD employees spanning the department’s ranks who are supposed to periodically update Riley on their findings.
+“I think that the level of trust is not the level of trust that's necessary to get an honest answer,” he said.
+Steverman also said he is aware that some officers have questioned whether the concerns they disclose to the working group would be kept confidential.
+Catalano wrote in his email that the working group has offered department employees channels for expressing concerns anonymously.
+Favreau said he believes Riley’s involvement in the review will prevent it from objectively interrogating his leadership.
+“It’s an internal review of the department,” Favreau said. “Shouldn’t that also include the chief?”
+Favreau also said the University should initiate a review conducted entirely by an independent party if it wants to accurately assess Harvard’s police force.
+“I would imagine any company — if they want to truly find out what's going on within — they get people from without to do the investigation,” he said.
+The ongoing review marks the fourth formal assessment of HUPD during Riley’s tenure.
+In 1999, criminologist and Harvard Kennedy School research fellow George L. Kelling wrote a report of the department that was commissioned by Harvard and Riley. Kelling cited poor morale inside the department and conflict between Riley and some employees in his findings.
+In 2008, former Harvard Human Resources representative Ann Dexter conducted the second review of the department during Riley’s leadership. The University declined The Crimson’s request for Dexter’s findings.
+The following year, prompted by a series of incidents involving HUPD officers and minority Harvard undergraduates, then-University President Drew G. Faust appointed former Suffolk County District Attorney Ralph C. Martin II to assess HUPD’s relationship with University affiliates.
+As a part of the current review, Riley tasked the working group with assessing the extent to which the department has implemented those previous reviews’ recommendations.
+Law enforcement experts Ronald L. Davis and Brenda J. Bond-Fortier will bring federal law enforcement experience to oversee the department’s review.
+Davis previously directed a branch of the United States Department of Justice that wrote policy regarding community-oriented policing. Former U.S. President Barack Obama chose Davis to direct a task force on innovative policing practices.
+Bond-Fortier, who is a professor of public service at Suffolk University, formerly conducted criminal justice research at the Harvard Kennedy School. She currently serves as a law enforcement adviser to the Justice Department.
+—Staff writer Ema R. Schumer can be reached at ema.schumer@thecrimson.com. Follow her on Twitter @emaschumer.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Several disgruntled parents of Harvard undergraduates, who were instructed to evacuate campus by Sunday, have started a petition lambasting the College’s “unfair” and “unilateral” mandate.
+Self-identified Harvard parent Olla Birman created the petition on Change.org Tuesday, which has since garnered more than 140 signatories as of Wednesday evening.
+“Parents of Harvard College students disagree with the College [sic] unilateral decision to close its facilities to students and to send them home. In these unprecedented times students should be allowed uninterrupted access to college education and college services,” the petition reads.
+The petition further demanded Harvard retract its “unfair” mandate for students to evacuate by Sunday.
+“It’s up to you to show leadership in hard times, and not to run for cover,” it concludes.
+Dean of the College Rakesh Khurana wrote to undergraduates Tuesday morning that dorms would not reopen after spring recess under the threat of a looming coronavirus pandemic.
+In the aftermath of the announcement, several parents expressed frustration with the College over what they characterized as sparse communication and sequestered decision-making during a time of crisis.
+Renée Wetstein, the parent of a senior, said she was “concerned” that the College did not engage students and parents in its policy-making.
+“I just question this decision — how it was made, how it was told, and is there any way to reverse it? Because if this is gonna end in two or three weeks or four weeks, why do people have to take their belongings with them? That, to me, is insanity in terms of the expense,” she said. “Why can’t belongings be left in houses? Decisions like that make no sense to me.”
+“I feel like whatever the decisions, the thinking has not been provided to students or parents,” Wetstein added.
+Other parents said the mandate lacked the nuance student and parent feedback could have supplied.
+Durga Kalavagunta, the parent of a senior, wrote in an email that the administration could have done better to consider “all sections of the population” in their decision-making.
+“I can only speak to the community of the class of 2020… who are Seniors and were very much looking forward to enjoying the last couple of months of their college experience,” she wrote. “I hope the administration will consider the Senior[s'] experiences more seriously.”
+Yun Shen, another Class of 2020 parent, wrote in an email that the decision to evacuate undergraduates was overly “dramatic” and a “man made disaster.”
+“This was an absolutely hasty and irresponsible as well as inconsiderate decision,” Shen wrote. “It was made without differentiating the real situation and different needs of different student communities.”
+“Obviously, we can take him in,” Wetstein said about her son. “But I’m sure there’s families that financially it’s going to really impact them to have a child back home that they didn’t expect to be home.”
+Beyond saying the College was not communicative or considerate in their decision making, parents further charged the College with actively endangering students and their families.
+Wetstein said the evacuation mandate could send potentially infected students home to vulnerable or immunocompromised family members.
+“These students are being sent out, getting on airplanes, potentially affecting more people that could be at a higher risk, going home, potentially infecting parents, affecting younger siblings, affecting grandparents,” she said.
+Vania Winters, who is also the parent of a senior, said a forced evacuation imperils students from high-risk areas.
+She added that since her family is based in Washington state — a current coronavirus hotspot — she instructed her son to stay with friends and not come home.
+“He has a choice. He has connections, and he can do that, and our thoughts go to the kids that don't have that,” Winters adeed.
+College spokesperson Rachael Dane wrote in a statement that, per Khurana’s email to students, Harvard’s commitment to the health of its affiliates and its responsibilities to the “larger community” guided the decision.
+“Public health experts have advised us that the best way to delay the virus transmission and to contain any breakout is to decrease the number of people on our campus, and as a result, the decision was made in a timely manner and communicated as soon as it could be,” Dane wrote.
+Winters said that, in this uncertain time, she is anxiously awaiting information about contingency plans for commencement.
+“What about graduation? The big celebration that we all have been waiting for for years,” Winters asked. “Not one word.”
+—Staff writer Juliet E. Isselbacher can be reached at juliet.isselbacher@thecrimson.com. Follow her on Twitter @julietissel.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A majority — 61 percent — of respondents to a Crimson survey of Harvard’s Faculty of Arts and Sciences said the University should review the circumstances behind its decision to deny tenure to Romance Languages and Literatures associate professor Lorgia García Peña, whose research engages with race and ethnicity.
+Hundreds of students and ethnic studies scholars have signed onto letters condemning the University’s decision to deny García Peña tenure. The denial prompted a surge in activism for a formalized ethnic studies program, for which Harvard affiliates have lobbied for nearly half a century.
+Sixty-five percent of faculty respondents agreed that Harvard should create a formalized ethnic studies program, whereas 35 percent disagreed.
+In December, more than 100 faculty members called on FAS Dean Claudine Gay to review tenure procedures in the wake of García Peña’s case. Gay agreed to initiate such a review during the 2020-2021 academic year — though she specified in an interview last week that the review will not examine individual tenure cases such as García Peña’s.
+The Crimson distributed its faculty survey to more than 1,000 members of the FAS in late February, polling Harvard’s flagship faculty on key University policy decisions, pressing issues on campus, and challenges they face as academics. Emeritus, tenured, tenure-track, and non-tenure-track faculty all received the survey.
+The 74-question survey garnered more than 400 responses, though not all respondents answered each question. The anonymous survey, a link to which was emailed to nearly every member of the FAS, was open from Feb. 20 to 27. The Crimson did not adjust the data for possible selection bias.
+The three previous installments of The Crimson’s 2020 faculty survey series explored faculty perspectives on national politics, the University administration, and Harvard’s campus culture. This final installment examines faculty opinions on academic and institutional matters, including tenure procedures, the admissions lawsuit against Harvard, and the graduate student union.
+While a majority of faculty respondents agreed that the University should review the circumstances behind its decision to deny García Peña tenure, opinions diverged by academic division.
+A large majority — 82 percent — of respondents from the Arts and Humanities agreed that the University should conduct such a review. In contrast, a slim majority of faculty from the Sciences and Social Sciences — 51 percent and 52 percent, respectively — disagreed that a review should take place.
+Opinions on whether the University should create an ethnic studies program also varied by academic division. While 79 percent of Arts and Humanities faculty respondents agreed, 62 percent from the Social Sciences did, compared to only 48 percent in the sciences.
+A large majority — 94 percent — of faculty respondents from all divisions said they support Gay’s decision to launch a review of the FAS tenure promotion process. Only 6 percent said they did not.
+Nonetheless, a majority — 57 percent — of respondents said they do not feel a colleague in their department has been unjustly denied tenure, whereas 43 percent of respondents said they do. The difference in opinions across divisions was not statistically significant.
+In addition, 56 percent of respondents agreed FAS provides enough support to tenure-track faculty in their department, including 17 percent in strong agreement. Twenty-seven percent said they neither agree nor disagree, and 17 percent disagreed.
+The faculty most likely to say FAS provides enough support to tenure-track faculty were the tenure-track faculty themselves, with 72 percent of tenure-track faculty in agreement. Meanwhile, 64 percent of tenured faculty agreed, and 40 percent of non-tenure-track faculty agreed.
+Furthermore, 54 percent of respondents agreed that their voices are adequately represented in tenure decisions, whereas 46 percent disagreed.
+Respondents overwhelmingly said that their research played the largest role in their own tenure decisions — though many disagreed that research is their primary role as a professor in a separate question.
+Out of respondents who said they are tenured professors, 97 percent said that their research played the largest role in Harvard’s decision to grant them tenure.
+A plurality — 40 percent — of total respondents said their primary role is research, but a nearly equal proportion — 37 percent — said their primary role is undergraduate teaching. The remainder chose a mix between graduate teaching and undergraduate and graduate mentorship, among other items, as their primary roles.
+Faculty generally agreed with the College’s defense of its admissions policies in the lawsuit brought against it by anti-affirmative action group Students for Fair Admissions.
+Filed against the University in 2014, SFFA’s suit alleged that Harvard College’s race-conscious admissions policies illegally discriminate against Asian Americans. While a federal judge ruled in favor of Harvard in October, SFFA submitted its appellate brief in February.
+Sixty-nine percent of faculty respondents said they agree with Harvard’s defense of its admissions policies, including 31 percent who strongly agreed. Twenty-three percent said they neither agree nor disagree, while only 8 percent disagreed.
+Faculty opinion on the University’s negotiations with the Harvard Graduate Students Union-United Automobile Workers was more mixed.
+Prior to HGSU-UAW’s decision to go on strike in December, the union met for 28 bargaining sessions after the University negotiations began in October 2018. Despite reaching 12 tentative agreements, the two sides did not agree on the three core issues for the union — compensation, healthcare, and an independent third-party grievance procedure for adjudicating sexual harassment and discrimination complaints — prompting the union to strike.
+Four weeks into the strike, the union announced it will end the strike without a contract and accepted a University offer to engage federal mediators.
+Half of survey respondents said Harvard should agree to HGSU-UAW’s demands for a third-party harassment and discrimination grievance procedure, including 30 percent who “strongly agreed.” Twenty-nine percent disagreed, and 21 percent neither agreed nor disagreed.
+The distribution of opinions regarding the strike itself were similar. A plurality — 48 percent — of respondents agreed with the decision of HGSU-UAW to go on strike last December, including 31 percent who strongly agreed, whereas 32 percent disagreed, and 20 percent neither agreed nor disagreed.
+For its 2020 Faculty Survey, The Crimson collected electronic responses through Qualtrics, an online survey platform, from Feb. 20 to 27, 2020. A link to the anonymous survey was sent to 1,341 FAS and SEAS faculty members through emails sourced in October 2019 from Harvard directory information. The pool included individuals on Harvard’s Connections database with FAS titles, including emeritus, tenured, tenure-track, and non-tenure-track faculty.
+Of those faculty, 476 accessed the link to the survey. A total of 416 participants answered at least one question, while 263 participants completed every question in the survey.
+To prevent participants from accidentally taking the survey more than once, The Crimson enabled Qualtrics’ browser cookie functionality to register unique survey sessions on each device. This device data is controlled by Qualtrics, and The Crimson does not retain information that could identify devices accessing the survey with anonymous responses.
+In an effort to check for response bias, The Crimson compared respondent demographics with publicly available information on faculty demographics provided by the University — information regarding gender, minority background, SEAS affiliation, and ladder versus non-ladder status. Overall, respondent demographics tracked with faculty demographics.
+Of survey respondents, 41 percent identified themselves as women and 20 percent identified themselves as minorities. Based on data in the 2019 FAS Dean’s Annual report, women and minorities make up 39 percent and 24 percent of FAS ladder faculty, respectively.
+According to the Dean’s report, 41 percent of the FAS were non-ladder faculty — a term synonymous with non-tenure-track faculty. By contrast, 39 percent of respondents to The Crimson’s survey identified themselves as non-ladder faculty.
+Of faculty who were sent the link to the survey, 127 — or 9 percent — are affiliated with SEAS. In comparison, of respondents who indicated their divisional affiliation on the survey, 7 percent reported an affiliation with SEAS.
+— Staff writer Kevin R. Chen can be reached at kevin.chen@thecrimson.com. Follow him on Twitter @kchenx.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A nationwide decrease in the number of high school seniors could contribute to this year’s seven percent drop in applicants to Harvard College’s Class of 2024, according to Dean of Admissions and Financial Aid William R. Fitzsimmons ’67.
+Fitzsimmons said additional factors accounting for the drop could include social disruptions such as natural disasters, school shootings, and a shortage of college counselors, as well as inexpensive public universities closer to applicants’ homes.
+States with large applicant pools, such as California, Florida, and Texas, showed declines in applicant numbers from the previous class pool – of 12, 10, and 8 percent, respectively – that surpassed the overall percent decrease.
+“In California, the ratio of counselee to counselor is about 750 to one in the public schools,” Fitzsimmons said. “But then, if you have wildfires and school closings, some shooter incidents, there were lots of things going on. So there was less time than ever for the one counselor to deal with the 750 average number of people.”
+Meanwhile, in light of the spread of coronavirus, Fitzsimmons spoke about how the pandemic could affect the incoming class, highlighting the difficulty his office has experienced in evaluating the yield for this year’s class.
+“This will be the most difficult I think in our history, because of coronavirus,” Fitzsimmons said. “There will still be a lot to learn about what happens from this virus.”
+Fitzsimmons said the coronavirus outbreak will also affect future applicants, especially international students who are planning to take standardized tests.
+With respect to the unpredictability of the situation, Fitzsimmons said he hopes the programs at Harvard to support international or low-income students will attract admits and future applicants alike.
+“Could it be, when, in times of uncertainty, people go to security?” Fitzsimmons said. “So will Harvard represent to them a certain degree of security? Strong financial aid program, great resources, will that make Harvard more attractive in a time like this?”
+“People might decide that the security is staying closer to home in uncertainty,” he added.
+Fitzsimmons also discussed a new financial aid initiative that eliminates the summer work expectation for students receiving aid from the College.
+“You want them to be able to have the time in the summer to explore future careers, for example,” Fitzsimmons said. “But if we're going to get more people to, which I hope, to go into the academic world or to do public service and community service, then I think what we've done now with this is we've opened up all the programs we have in the summer here.”
+The uncertainty regarding current global events prompted Fitzsimmons to question the possible logistics of international students of future classes matriculating at the College.
+“Will they be able to leave?” he said. “Will we end up having an increased number of people decide that they would come another year — so take a gap year?”
+—Staff writer Benjamin L. Fu can be reached at benjamin.fu@thecrimson.com. Follow him on Twitter @BenFu_2.
+—Staff writer Dohyun Kim can be reached at dohyun.kim@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+As Harvard’s Houses scramble to assist College students in their departures, Dean of the College Rakesh Khurana provided several updates regarding the upcoming move-out in an email to students Wednesday night.
+In the email, Khurana wrote that room and board charges will be partially refunded for students who depart by Sunday. He also explained that all “major academic deadlines” — including those for senior theses — will be extended by one week. In addition, University resources such as Urgent Care, Counseling and Mental Health Services, and the Title IX Office will “remain open and fully operational.”
+“I recognize how difficult the last 36 hours have been for all of you, and I sympathize with the frustration you are experiencing as you try to meet the challenges ahead,” Khurana wrote. “Please know the College is working hard to support you and respond to the needs of our community in the midst of this rapidly evolving situation.”
+This information comes one day after Harvard announced that students must vacate their dorms by Sunday, March 15th at 5 p.m., due to the ongoing coronavirus pandemic. This decision has resulted in confusion and concern among students, faculty, and staff across the University.
+Khurana’s update follows an earlier email from Faculty of Arts and Sciences Registrar Michael P. Burke that informed students that the College will provide up to a $200 subsidy for students on financial aid in order to offset the cost of off-campus storage or shipping.
+The move-out deadline has forced House staff to quickly mobilize. Beginning Tuesday, the Houses began distributing thousands of boxes purchased by the University for departing students.
+College staff and representatives from the Dean of Students Office congregated in dining halls across campus to help students finalize travel plans. According to Burke, the costs incurred from booking travel will be applied to students’ term bills.
+Burke also noted that students will receive financial assistance for their travel that reflects the overall amount of financial aid students receive.
+House faculty and resident deans have also stepped in to provide support to students as they transition off-campus.
+Mather House Faculty Deans Amala K. Mahadevan and Lakshminarayanan Mahadevan urged students in an email to remember the positive aspects of this year, including Mather’s top ranking for intramural rankings, and to keep in mind the graduating seniors who concurrently began their time at Mather with the faculty deans.
+Lowell Faculty Dean David I. Laibson ’88 wrote in an email to The Crimson that he and Faculty Dean Nina Zipser are especially focused on seniors in Lowell.
+“Nina and I have spent lots of time listening to Lowellians,” he wrote. “They have shared their concerns, their fears and their hopes with us. We have been particularly focused on connecting with and celebrating our seniors, who are experiencing an especially deep sense of loss.”
+Dunster House will implement its own drop-off service for library books, according to an email to students from Dunster House Building Manager Lucia Baldock. This system will allow the House to collect and return students’ borrowed items to the College library system.
+“We hope that this gives you one less thing to worry about as you prepare to leave campus,” Baldock wrote.
+Efforts to aid students span beyond the Houses as well.
+In an email to members, the Harvard Graduate Student Union and United Auto Workers announced they will volunteer their resources — cars, storage space, housing, physical labor — to assist students during move out.
+In an email to English concentrators, Professor Stephanie Burt ’93 — who also serves as the director undergraduate studies of the department — wrote that a number of departmental faculty are willing to store students’ belongings in their offices.
+“We know it's an emergency measure, but it's better than nothing,” Burt wrote.
+—Staff writer Sydnie M. Cobb can be reached at sydnie.cobb@thecrimson.com. Follow her on Twitter @cobbsydnie.
+—Staff writer Declan J. Knieriem can be reached at declan.knieriem@thecrimson.com. Follow him on Twitter at @DeclanKnieriem.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard athletes will not suit up for another practice or game this academic year as a result of Wednesday’s decisive decision by the eight Ivy League university presidents to cancel all athletics events due to the coronavirus outbreak.
+The league’s decision to stop athletics from proceeding marked an end to roughly 30 hours of uncertainty for many of Harvard’s student-athletes.
+Harvard administrators informed College students in a series of emails Tuesday morning that they must move out of their dorms by Sunday at 5 p.m. for an indefinite period of time to mitigate the spread of coronavirus. On Tuesday, the Ivy League also made alterations to its schedule — including canceling the Ivy League basketball tournament and imposing crowd regulations at competitions — but stopped short of axing all athletics events.
+As a result, Harvard athletes who are on spring sports teams or were slated to take part in postseason competitions lived in limbo, wondering whether the University-imposed deadline to move out applied to them.
+Though Wednesday’s decision offered answers to those questions, it also frustrated athletes who are now barred from playing their sport.
+Barred athletes include Harvard track and field athletes Anna M. Juul ’21, Kieran C. Tuntivate ’20, and Abbe E. Goldstein ’21 — all of whom qualified for but will not be allowed to compete in the NCAA Division I Indoor Track and Field Championship scheduled to take place in Albuquerque, N.M. this weekend.
+Juul, who qualified for the mile with a time of 4:37.50, said she was at Harvard’s track with her bags packed Wednesday afternoon ready to leave for the airport when her coach broke the news that she would not be allowed to race.
+“It was probably one of the more emotional days I've had. Of course this has been a tough week for everyone on campus,” she said. “For me and my teammates, we poured so much of our time and energy into this. It was something I was really looking forward to.”
+Tuntivate — who was scheduled to compete in the men’s 3000 meter race and the mile race — wrote in a text message that he felt “gutted.”
+Tuntivate also said in an interview that his absence from the championship meet could negatively impact his desire to run professionally. He explained that the tournament is an important barometer for talent.
+Tuntivate broke the Harvard all-time record in the men’s mile last month with a finish of 3:57.36, the second fastest time in Ivy League all-time records.
+The Ivy League’s decision left it up to individual schools to decide if their winter sport student-athletes could compete in postseason competitions. Harvard Athletics Director Robert L. Scalise wrote in an email to coaches and department staff that Harvard’s athletes would not partake in these games.
+“We understand the disappointment that will be felt by many of you and many in our community, but we must be guided by what is best for the health and safety of all,” he wrote.
+Juul said she did not understand Harvard’s decision to not let her run.
+“I do understand to a certain extent why the University and the Ivy League as a whole chose to cancel spring sports, as heartbreaking as it is,” she said. “I don't understand why they are not allowing us to compete one last time for the winter season.”
+Tuntivate said he had been emailing top administrators in the University and NCAA requesting they reinstate him. As of Wednesday evening, he said no one had replied.
+—Staff writer Ema R. Schumer can be reached at ema.schumer@thecrimson.com. Follow her on Twitter @emaschumer.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard Square businesses are preparing for an economic hit as University students — who make up a significant portion of the area clientele — are set to leave campus indefinitely due to the global coronavirus outbreak.
+Business owners from various Cambridge shops said they are planning to continue daily operations despite anticipating substantial economic blows. University President Lawrence S. Bacow announced Tuesday morning that students will finish the spring semester remotely via online coursework. Just after Bacow’s announcement, the College directed all undergraduates to vacate their dormitories by Sunday afternoon.
+John F. Schall, who co-owns the popular Mount Auburn St. Mexican restaurant El Jefe’s, said he is prepared for his business to take a hit.
+“It was crushing,” Schall said of Harvard’s announcement. “We have a spectacular relationship with Harvard University, with the Harvard athletic programs, and with especially the Harvard student body. Having them leave in what would have been our two biggest months of the year, it’s a real blow.”
+Students know El Jefe’s for its late hours; the restaurant is open until 4 a.m. every day. Schall, who co-founded El Jefe’s four-and-a-half years ago, said he has no plans to change the eatery’s hours.
+“We’re open ’til 4 a.m., and we will always be open ’til 4 a.m.,” he said.
+Schall estimates that students make up 35 percent of his clientele.
+Felipe’s Taqueria — which has been a staple in Harvard Square for more than 16 years and serves as the chief competitor to El Jefe’s — also is not planning on making changes to its operations.
+“We’re confident of our business, and we’ll be fine,” Felipe’s co-owner Thomas J. Brush said. “We’re not at risk or any danger of long-term effect. But it will certainly affect our sales for the next few months.”
+Harvard Square Business Association Executive Director Denise A. Jillson said her organization is “working on a response” to Harvard’s announcement.
+She said it would not be “unfounded or unprecedented” for property owners of local businesses to give their tenants relief of some sort.
+“So many of our property-owners are local,” Jillson said. “They’re right here in the Square, side-by-side with their tenants. And they have relationships.”
+“There’s a tremendously strong sense of community,” Jillson added. “I can think of 10 or 12 property owners who are in the Square every single day. They know exactly what’s going on. They know the foot-traffic patterns, they know the purchasing habits, they understand the Square down to the granular level. That’s really important as we all confront this crisis together.”
+Jillson also said the state of emergency declared by Massachusetts Governor Charlie D. Baker ’79 will provide area businesses with some support.
+“That allows our smaller businesses to access programs that are available through the state and federal government that will help them through these next few months,” she said of the declaration.
+George Papalimberis, who has owned the La Flamme Barber Shop on Dunster Street for more than 40 years, said he is preparing for significant losses with students leaving town and the state of commencement and College reunions unknown.
+“We’re going to get hurt badly,” Papalimberis said. “We have a lot of students here and we have developed a good relationship with our students. We try to keep our prices low for the students.”
+Papalimberis — whose list of clients over the years has included former United States President Barack Obama, U.S. Senator Ted Cruz (R-Texas), former Democratic presidential candidate Peter P. M. Buttigieg ’04, Facebook founder and former College student Mark E. Zuckerberg, ex-Massachusetts Governor Michael S. Dukakis, and the musician Yo-Yo Ma ’76 — estimated that Harvard affiliates represent “at least 40 percent” of his shop’s clientele.
+Victor Escajadillo, an employee at Asa Hair Design in the Garage Mall who works three part-time jobs, said University students departing town creates “a legitimate fear” for local workers.
+“If the richest school in the United States — and possibly the most famous school in the world — is telling their students to not come back, that to me is scary because even they don’t have the means to contain or to try to take all the precautions to make it the most safe or sanitary,” Escajadillo said.
+Schall, the El Jefe’s co-owner, emphasized that all area businesses will experience the fallout of the University’s decision.
+“The University plays a huge role in the businesses around Harvard Square,” he said. “It’s going to affect everybody.”
+—Staff writer Jasper G. Goodman can be reached at jasper.goodman@thecrimson.com. Follow him on Twitter @Jasper_Goodman.
+Want to keep up with breaking news? Subscribe to our email newsletter.

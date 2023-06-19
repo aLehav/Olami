@@ -1,0 +1,33 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Three Harvard School of Engineering and Applied Sciences affiliates explored digitized history and the intersection of astronomy and medicine at a Boston offshoot of the popular TED Talks on Tuesday.
+In its third year, TEDxBoston is one of several independent manifestations of the TED Talks, which feature researchers, entrepreneurs, and other leaders presenting innovative ideas.
+At this year’s TEDxBoston, colleagues Erez Lieberman Aiden and Jean-Baptiste Michel, both of whom received their Ph.D. from Harvard, presented a method of analysis they dubbed “culturomics.”
+The use of quantitative methods to study and analyze culture, culturomics was popularized through the Google Books Ngram Viewer, which plots word frequency in millions of books across centuries. Working with Harvard, Google, the American Heritage Dictionary, Encyclopaedia Britannica, and the Cultural Observatory, they publicized the use of this browser in Google Labs, where visitors can track historical ideas and trends.
+“The historical record is being digitalized,” Michel said. “It will transform our culture.”
+The team also published a paper in the journal Science detailing the uses and implications of this culture-tracking device.
+In their talk titled “A Picture is Worth 500 Billion Words,” Lieberman Aiden and Michel presented both humorous and serious results of the history available for exploration through n-grams.
+One amusing historical insight emerged from comparing the relative frequency of “beft” and “best.” Prior to 1800, the letter “s” was printed like an “f.” As a result, in the graph between 1675 and 1800, “beft” appears to have been used 30 times as often as “best.”
+The pair also identified a “hallmark of censorship,” as Michel described it, by locating a sudden, unexplained nadir in a given author’s frequency.
+They created a suppression index tool, which they then used to track which authors were suppressed in Nazi Germany, as well as who benefited from propaganda.
+In her presentation titled “Astronomical Medicine: Treating Heart Disease and Unraveling the Mysteries of the Cosmos,” Michelle A. Borkin ’06, currently a Ph.D. candidate in applied physics at Harvard, discussed the benefits arising from sharing information and methods across the sciences.
+Her interdisciplinary research has included implementing software originally developed by medical researchers to generate three-dimensional computer models of astronomical images.
+“We can both unravel the mysteries of the universe and save human lives at the same time,” Borkin said.
+Borkin presented one of her favorite “games” to the audience, asking them to identify, from two images, which was biomedical and which was astronomical. In the scans she displayed, they appeared as nearly identical balls of gray gas, despite one having a diameter of a few millimeters and the other billions of miles.
+“Aside from the fact that they look similar, the way the data comes from the machine or telescope is remarkably similar,” Borkin said.
+In the same way that an MRI machine captures “slices” of human anatomy to generate a three-dimensional rendering, similar software exists for telescopes to examine and reconstruct nebulae and galaxies light-years away, she said.
+Through interdisciplinary cooperation and sharing, Borkin improved an existing biomedical tool to diagnose heart disease. Borrowing an idea from astronomic engineering, which in turn had its roots in Darwin’s biological tree diagrams, she more than doubled the rate of accurate heart disease diagnoses.
+“It’s enlightening to share domains and information across borders,” Borkin said. “You really never know where your next great idea is going to come from.”
+—Staff writer Leanna B. Ehrlich can be reached at lehrlich@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+As we're sure you noticed, we took a bit of a break after putting out a massive collection of content on the year that was. Basically, 7,200 people got degrees, everyone left Cambridge, and we peaced too. That's not to say we didn't cover major news in the interim, but things have been a bit, well, slower.
+But now we're back! We may not be as prolific as we are during the academic year since we don't have as many hands on deck. (Apparently, there still are opportunities in journalism. Who knew?) Still, you should check Flyby and TheCrimson.com, where we'll have fresh content on a regular basis throughout the summer.

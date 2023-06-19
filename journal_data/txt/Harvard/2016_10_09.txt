@@ -1,0 +1,108 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Daniel Wakefield is the CEO, head writer, composer, and sound designer for Antagonist, an Oslo-based independent game company releasing its first game, “Through the Woods,” this year. Antagonist began production on this game in 2015 after successfully funding development through the crowd-sourcing platform Kickstarter. Their website describes the game as “a third-person psychological horror game set in a forest on the western shore of Norway about a mother and her missing son. Through dynamic narration, you play the mother’s re-telling of the events surrounding her son’s disappearance in a setting heavily influenced by Norse mythology and Norwegian folk tales.” Ahead of the release, The Harvard Crimson spoke with Wakefield about his studio and upcoming game.
+
+The Harvard Crimson: I want to start off talking a bit about your studio, Antagonist. You’re a relatively new studio founded a few years ago—why did your team decide to come together?
+Daniel Wakefield: This team has been put together actually over the last few years, and a lot of people who have come to the company have actually had to leave because of financial reasons. It’s really hard to start a games company and keep it going when there’s no money around—a lot of people couldn’t last. We’re making the game because we think there’s a huge lack of games such as ours. It’s not just a horror game; it’s a game full of Norse culture and Norwegian folktales and weaved together with Scandinavian mythology which is not that well known outside of Norway.
+
+THC: “Through the Woods” is a third-person Norse horror-adventure; so why Norse, why third-person, and why horror-adventure?
+DW: We’re Norwegian. I’m actually English, but the team is Norwegian. We’re based in Oslo, and we’d like to see and play a game that has Norse elements.
+Third-person: We’ve actually gone back and forth over this because it’s a deliberate decision. We’re not pretending that you’re the character, that you are witnessing and playing her story. Also, some of my favorite games, “Resident Evil” and “Silent Hill,” and indeed many of the greatest horror games are third person.
+With regards to horror, Norwegian folktales are scary. They’re frightening and dark and strange. The game isn’t really just horror—it’s not like “Outlast.” The more you play the game, you see these very scary parts with all kinds of creatures, but it’s more a story about a woman who loses a son and tries to find him, so there’s a lot of melancholy there. It’s a game about losing someone you care about very much in this terrifying place and trying to find them.
+
+THC: What should players expect from your game?
+DW: The game is a little bit like “Gone Home” and “Amnesia” crossed together. There’s lots of documents you find that drive the story; there’s lots of creepy characters that you meet along the way: these people on the island who seem to be immortal and can’t die. So you come across these people who shouldn't be alive but are, and they’re very gnarled and twisted by the time they’ve spent on this horrible island…. There’s a lot of exploration, looking around to find journals and advance the story. There are a lot of monsters in the game too. You can’t fight most of them, and mostly it’s just running and hiding, but you can also chase them away in some ways—like, they’re afraid of your flashlight. So most of the time you’re running and hiding, but there’s a little bit of flashlight-attacking too.
+
+THC: Overall what has the design process been like for “Through the Woods?” Take me through an overview of your design process.
+DW: So we’re using Unity to build the game. I find it a bit difficult to talk about the more technical parts of the game because I’m the sound designer and writer, more on the creative side. We’ve made a load of custom tools that have made it easier for me to work in the engine; all of my work had to be done through custom tools. All of the textures we’ve made ourselves through photos in Norway, all photographs that we’ve turned into textures. The same with the sound as well: Everything is custom except maybe a single crow cawing, but all of the trees, wind, water, footsteps, everything, all has been recorded by me in the forest by my house. You don’t see that too often, where everything is done custom for one game.
+
+THC: How did you come to that decision to make everything yourself?
+DW: In terms of the audio, for example, people usually outsource that, and usually they don’t have the luxury of working on the sound for three years like I have been able to, so I’ve been able to do everything from scratch myself. The thing with the artists is that they’re perfectionists; they’re super talented. The game looks super nice—one guy focused on the environments and the other on characters. He’s made it with these great real textures, and it just looks great.
+
+THC: Your site says you’re “attempting to capture the forest as they saw it as children, with all the frightening and mysterious feelings of roaming the woods alone” with “Through the Woods”—did you or other team members spend a lot of time in the forest alone as kids? If so, how did that influence your design decisions?
+DW: Yeah, we did. Norwegians are traditionally very connected to nature—to forests and mountains, for example—and it’s something they do a lot of. I mean, I’m in my house now 15 minutes from Oslo, and I can see a forest that’s hundreds of kilometers over to Sweden; there are forests all around Norway. You go on a short walk, and you can get to these beautiful lakes and forests, and Norwegians like to go on walks. They hike by lakes and go swimming and have picnics as part of their weekend life, so they spend a lot of time outside. And then, of course, it happens that sometimes it gets dark and you find yourself in these beautiful, creepy, strange places. I’ve been out there at night to record sounds, and I can see why, in the past, they’d make up stories of trolls and the creatures that live in the forest. The sounds you hear and think you hear and what you think you see—it’s very interesting, magical, hard to describe. I can totally understand how you can peer into the darkness under a tree and create stories about little creatures looking back at you.
+
+THC: You’ve received a number of awards at game shows over the last few years—could you tell me a bit about them?
+DW: They’re all very flattering. We had GDC [Game Developers Conference] best in play this year, and we won a pitching competition for investors. We got a couple of awards from Norway; like, I got one for sound design. But the game’s not out yet—people haven’t seen yet what we’ve really done—so I’ll feel more like we deserve these awards after we’ve released the game, and people like it, and the finished game gets some kind of recognition as well. These awards are very encouraging and flattering, but I’ll feel better once people get their hands on it.
+
+THC: What’s next for Antagonist? Have you planned something out, or are you focusing just on finishing this game?
+DW: Well, we’ve got a bunch of ideas for the next projects we’re going to do. Two of our artists have started a little bit of work on the next ideas. You know, often artists finish first and leave programmers to finish up and start working on the next project, but we’re so slammed by getting this done by when we have to get it finished by, so there are two projects where the stories are fully written, we can start work any day, but we haven’t actually started full production work on them.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Three years ago, the “Frozen” soundtrack captured hearts across the world. In addition to contributing to the soundtrack, the up-and-coming composer Leo B. Birenberg has worked on numerous films, including “Edge of Tomorrow,” “Ant-Man,” and “The Peanuts Movie,” and has scored TV series such as “Sing It!,” “Take My Wife,” and “Son of Zorn.” The Harvard Crimson sat down with Birenberg to talk about his work and influences.
+
+The Harvard Crimson: How did you get in the cinematic music industry?
+Leo B. Birenberg: That was always, like, my dream job. When I was little, I just wanted to be a little Steven Spielberg and direct movies. I used to make them with friends on, like, first generation iMovie. And then I became a band nerd extraordinaire—I played the saxophone and clarinet and flute throughout junior high and high school, and that was my passion. I decided to go to NYU to study music composition. I showed up on the first day, and my new roommate, who became my best friend, was studying film, and we were like, “We should collaborate on something!” and suddenly it became apparent that’s how I [could] combine everything I want[ed] to do: music, which is clearly my paintbrush in the artistic world, and my love of film from my childhood.
+Then I did this program at USC called Thornton, [where I studied] scoring for music and television. It’s one of the few programs that kind of focuses on that because it’s grounded in LA and has a lot of interactions with the film industry. And then I was introduced to my main mentor, Christophe Beck, who needed an assistant around the same time that I finished at USC. So I started working with him and then worked with him for about five years, which was on and off, and that’s basically where I learned how to score movies. We worked on everything—”Frozen,” “Ant Man,” “Red Army”—you know, this whole range of genres, and so he really taught me a lot. And then eventually some guys I know made a TV show for Comedy Central, and I started doing that, which opened up a lot of opportunities to do my own stuff.
+
+THC: What are some major influences for your work?
+LBB: Depends on the project. I like movies; I like TV…. My background musically is kind of orchestral, jazz, musical theater; that’s what I grew up doing. I listen to freaking everything under the sun—bluegrass, Taylor Swift, literally everything. For me it’s fun to just tackle any genre.
+
+THC:  What are some of the ways you think music affects a film? What do you strive to do with your music?
+LBB: I always think the most important service that music provides to a… film is just how it subconsciously connects with the audience but while they’re watching it. So you always have to keep in mind: “What is the emotion of this scene?” Is it funny? It might be emotionally sad; it might be nostalgic. You have to be constantly attuned to how you’re trying to make the viewers feel. Because if you lack that, you’re going to mess up the effect of the film or show. Everything won’t play the way it should.
+
+THC:  Have you considered scoring outside of Hollywood?
+LBB: Oh sure, absolutely. I mean, I’m very interested in musical theater both on Broadway and in opera. I think I would love to do something in that realm. One thing about writing for film is that from a composer’s point of view it gives you a lot of music to write, but you are always servicing a greater good. Like, you are writing for film, and it’s a collaborative experience, but sometimes it’d be nice to just be able to write music where the only limits on what you create are whatever limitations you decide to apply to that project. I love writing choir music specifically, and if I ever have some downtime in the near future I will probably write some choir music. I love folky hybrid music—I’m very interested in Celtic folky music. I actually play penny whistle and low whistle. When I have free time I kind of find other small musical outlets like that, but nothing too large scale yet.
+
+THC:  On the radar for the future though?
+LBB: Totally. It’s, like, good for your soul as a composer to do not film-related work to keep the engine running well. It’s like oiling your car.
+
+THC:  What has been your favorite film or TV show that you’ve composed for, and why?
+LBB: Picking favorites is sort of like picking favorites with your children… and I don’t have any children. But I assume that it’s pretty difficult. Right now I’m going to have to go with what I’m working on currently, which is “Son of Zorn” for Fox. Musically, it’s a joy to work on. I get kind of the best of both worlds when I’m working on animation and working with live action. The music is grounded in reality, but the process is a very creative one and a very collaborative one, which is what you get a lot in working with animation. Because, you know, you can change things.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A single guarantee defined the Harvard-Cornell football matchup this Saturday—that at the end of the afternoon, exactly one team would emerge as the lone unbeaten in the Ivy League.
+Buoyed by a come-from-behind win over No. 25 Colgate last weekend, the Big Red had all the momentum on its side. Meanwhile the Crimson had all the history, namely a 10-game win streak in head-to-head play.
+So what happened when an unstoppable force met an immovable object? The answer, which has now approached the level of cliché, is that Harvard football won. In this case, the defense grabbed three interceptions, junior running back Semar Smith recorded three touchdowns, and the Crimson (4-0, 2-0 Ivy) powered to a 29-13 victory.
+“I love playing Harvard because they’ve really set the bar, in my opinion, for Ivy League football for the last couple years,” Cornell coach David Archer said. “We love to play the best.”
+On an afternoon of long possessions, none was more important than the one that Harvard mounted at the start of the fourth quarter. Up 23-7, the Crimson needed an extended scoring push to pull away from the Big Red (3-1, 1-1 Ivy). And over five minutes, the hosts did just that.
+Starting from its own 40, Harvard pushed to the Cornell four over 11 plays. Then Smith plunged into the end zone for a three-possession lead.
+During the drive, senior halfback Anthony Firkser grabbed three passes for 37 yards, including a huge third-down conversion near midfield. He ended with 90 yards on eight receptions, showcasing the combination of sticky hands and 230-pound power that has made the senior a potential NFL prospect.
+“Guys are just working hard,” Firkser said. “Every play that they’re in, they’re giving their all for whatever their job is on the team. Things are just coming together well at the start of the season.”
+If Firkser headlined the passing game, then safety Tanner Lee headlined the defense. On Cornell’s first drive of the second quarter, the junior stepped in front of a third-down throw in Harvard territory for the interception. He repeated the feat in the third period, hauling in an end-zone pick.
+However, the most dramatic turnover came on the first play from scrimmage. Big Red quarterback Dalton Banks fired over the middle and could only watch as the ball bounced off the pads of his receiver and into the arms of sophomore linebacker Anthony Camargo.
+The Crimson started from the eight, and two plays later, Viviano found Firkser just across the goal line.
+“It’s tremendous momentum when you pick the first play of the game off down to your scoring territory,” Archer said. “I was proud of our kids [that] we fought back and tied it up.”
+Those opening points were the rare case of someone other than Smith recording the score. On 19 carries, the junior totaled 71 yards and, yes, three touchdowns.
+His second trip to the end zone came at the start of the second half, when Harvard restarted play with an 80-yard drive. On first-and-goal from the six, offensive linemen Larry Allen, Jr. and Tim O’Brien parted the Cornell defense, and Smith strolled in untouched.
+At times the Big Red front line demonstrated similar prowess, giving Banks extended amounts of time to throw. He averaged over 13 yards per completion.
+And as well as Lee otherwise played, he was on the losing end of the Big Red’s first score. Earlier that drive, which started at the Cornell 24, the junior had gotten away with a push on a long throw down the middle.
+But with three minutes left in the first quarter, karma came calling. As Banks pump-faked a screen to the outside, senior wide receiver Ben Rogers sprinted past Lee. The 41-yard throw arrived right as Rogers crossed the goal line to knot the score at 7-7.
+Harvard responded with grit—an 80-yard drive that took four minutes. Viviano rushed for 36 yards, and junior running back Semar Smith punctuated the march with a four-yard shimmy to regain the lead.
+“They run a lot of different defenses,” Viviano said. “Today they were bringing a lot of different pressures, so I was trying to get the ball out quick, get it to our skill guys who could then make plays.”
+The hosts had a chance to distance themselves further late in the third quarter, when Harvard marched into the red zone. Facing a third-and-six, the Crimson motioned two receivers across the line, clearing half the field for Firkser to beat his man and catch the ball in the end zone.
+Then a bizarre scene ensued. As the Harvard band celebrated, the umpires called back the score on the grounds of illegal motioning. Not even a furious Viviano could reverse the call, and the Crimson settled for a 31-yard field goal by Jake McIntyre, the longest of the freshman’s career.
+The missed opportunity hardly proved fatal. While Banks added a second touchdown toss to Rogers, those points came late in the fourth quarter. More, the Crimson regrouped by recovering the following onside kick.
+The only major mistake for Harvard came with 11 minutes left in the second quarter, when Murphy drew up a trick end-around pass. Sophomore wide receiver Justice Shelton-Mosley swept behind the line, Firkser slipped behind the secondary, but the surprise throw came out wobbly. Cornell safety Nick Gesualdi tracked the ball and leapt up for the interception.
+The fact that the Crimson didn’t commit more turnovers testified to the team’s blitz-stopping ability. While the Big Red brought pressure throughout the day, the Harvard offensive line—which returned senior left tackle Max Rich after a week of inactivity—mostly handled these waves of bodies.
+Only with three minutes left in the second quarter did the dam break. At that point, a blindside blitz from Gesualdi resulted in a brutal shin-level hit on Viviano.
+As it turned out, the pain was temporary: The quarterback remained in the contest, as mobile as ever. For the fourth straight week, nothing—not even a motivated Cornell program—could keep Harvard on the ground for too long.
+“We’ve established that we’re a gritty team,” Harvard coach Tim Murphy said. “There will be a lot of games like this. There will be games tougher than this. From a character standpoint, we’re really pleased.”
+–Staff writer Sam Danello can be reached at sam.danello@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.

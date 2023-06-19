@@ -1,0 +1,27 @@
+Students who recently used their NetIDs and passwords on the website
+GetStudyRoom.com
+may have had their Canvas and student email account information compromised, according to Information Technology Director Alex Campoe.
+
+
+The IT Department was made aware of the security breach around 3 p.m. Thursday.
+
+
+GetStudyRoom.com advertises itself as a way for USF students to communicate with their classmates about courses, get help on homework and share information such as where someone can find a cheaper version of a textbook.
+
+
+Campoe said the website stored students’ NetIDs and passwords when students entered them. The website used the information to access students’ Canvas accounts to view who was in the students’ classes. They then used the information to send out fake emails to students’ classmates to get them to create an account on the site.
+
+
+The IT Department has already identified approximately 600 affected students and forced them to change their passwords, Campoe said. According to GetStudyRoom.com, over 3,200 USF students have signed up for the website.
+
+
+“There’s really no difference between (the website) and a phishing scheme where people send you an email asking you to send them your credentials,” he said. “The only difference is that this was a website.”
+
+
+Campoe said students should not, under any circumstances, give out their NetID information to a third party.
+
+
+Students who have already set up an account on GetStudyRoom.com and have yet to be contacted by the IT Department are advised to change their NetID passwords.
+
+
+“There are certain things you just don’t share, and you can’t just assume, ‘Well, it’s just my USF password,’” Campoe said. “They could have just as easily gone and dropped everyone from their classes. … Don’t share your passwords; that’s all it boils down to.”

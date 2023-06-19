@@ -1,0 +1,40 @@
+Apple’s iPhone allegedly records and tracks when and where users have traveled over the past year, even if customers don’t provide the information, according to a report.
+
+
+The report, which was released April 20 by Pete Warden, a former software engineer for Apple, and Alasdair Allan, a senior researcher at the University of Exeter in England, is the basis of investigations by authorities in France, Italy, Germany and South Korea, in addition to a federal class-action lawsuit filed in Tampa against Apple.
+
+
+The lawsuit cites reports in the Wall Street Journal and other news outlets that claim Apple records the information even when location services are disabled.
+
+
+The allegations are disturbing, but even worse is that Apple hasn’t publicly disproved or denounced the claims, which, if true, must not be tolerated.
+
+
+The iPhone, like other companies’ phones, track users’ locations to help them find directions or nearby local points of interest.
+
+
+But as Aaron Mayer, the lawyer filing the suit, said to the Tampa Tribune, many users were unaware and disturbed to learn that Apple was tracking them for a year without their consent.
+
+
+It’s disconcerting to know there may be few barriers for a computer-savvy, obsessive stalker to cross to use the unencrypted information the private company saves about exact locations and times.
+
+
+The issue also brings up questions of whether a husband, wife or any other person sharing an account could find out the travel patterns of another member on the account.
+
+
+Apple could easily profit financially from this, providing valuable information to sell to marketing firms or other interested parties.
+
+
+But consumers already pay enough. It’s not right to make them walking consumer demographic studies, regardless of if they want to.
+
+
+Most troubling, however, is that Apple is doing something that the government must first obtain a warrant to do if it doesn’t receive consent from the involved party.
+
+
+Controversy surrounded the use of GPS tracking devices by Tampa police last year, when a federal judge ruled that such information requires a warrant.
+
+
+If Apple wants to do the same, it must first transform into a legitimate law-enforcement agency, and then apply for a warrant to prove there’s reasonable cause to obtain desired information.
+
+
+Until then, the company must either admit to the charges and comply with the ethical privacy standards that users deserve or prove that the highly researched and widely published findings are wrong.

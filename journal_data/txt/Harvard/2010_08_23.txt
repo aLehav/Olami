@@ -1,0 +1,5 @@
+Sections
+FAS IT announced today that a new software key is required to access Adobe products that they key-serve. This means that any Adobe software that you've previously downloaded from the FAS IT Software Downloads website (except for Adobe Reader) will no longer be functional. Bummer.
+The reason is that FAS IT is currently negotiating their licensing agreement with Adobe, according to Noah S. Selsby '95, senior client technology advisor for FAS IT. The products were first removed from the FAS IT website in late July when negotiations began. Until now, however, students were still able to access their previously downloaded Adobe products.
+But wait—there is hope for students already back on campus! There are keyed versions of the Adobe products still available for student use in the Science Center and the SOCH computer labs. That's just a short trek if you're an incoming freshman or Quad resident.
+Meanwhile, let's keep our fingers crossed that maybe we'll get free CS5, the latest version of Adobe, after these negotiations are over.

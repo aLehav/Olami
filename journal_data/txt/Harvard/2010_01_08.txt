@@ -1,0 +1,95 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Elderly assisted living facilities are disproportionally located in more affluent areas, with Massachusetts lagging far behind other states in terms of the number of assisted living units available, according to a recent Harvard Medical School study.
+After calculating the ratio of number of assisted living units per thousand of people over 65 years of age for every state, researchers found that the locations of the facilities showed a strong connection to the education levels, property values, and ethnic makeups of the areas. More facilities were found to be situated in areas with a lower proportion of black and Hispanic residents—a correlation researchers said they found “disconcerting."
+Since Massachusetts is comparatively affluent, the fact that most of the state’s counties fell below the national average ratio came as a surprise to the researchers, they said.
+“It appears that there are unmeasured factors at play, such as property taxes or local regulations, that influence our measure for the distribution of assisted living facilities,” said David C. Grabowski, associate professor of health care policy at HMS and the paper’s co-author.
+In a broader sense, the study's conclusions raise potentially troubling issues regarding the nation’s longterm care for the elderly, according to Grabowski.
+In contrast to nursing homes, which are primarily funded by Medicaid and Medicare, assisted living homes have traditionally been financed privately. As a result, “it makes sense” that they would naturally be found in areas of higher income, said David G. Stevenson, assistant professor of health policy at HMS and lead author of the paper.
+“This is not a criticism of assisted living,” Stevenson said of the study's results. “It’s a natural byproduct of how they’re financed, but it does raise a number of important issues.”
+Two issues could stem from the uneven distribution of assisted living units, according to Stevenson: capacity and efficient use of state funds. Residents of rural or lower income areas may face difficulty accessing assisted living units and be forced to relocate, and since nursing homes are generally more expensive for the state, this may mean that more money is used to pay for individuals living in nursing homes who could be better—and more inexpensively—served in assisted living facilities.
+The study also raises broader questions of equality and issues of financing elderly care, according to Grabowski.
+Currently, assisted living is not covered by most states and is paid out-of-pocket by individuals. Grabowski said the system “accentuates a two-tiered elderly health care,” in which people from lower income communities live in Medicaid-financed nursing homes,  while those who can afford the costs choose assisted living—the favored type of care.
+“There are many reasons why we don’t want to create Medicaid mills and segregate our Medicaid populations," Grabowski said. "Rather, we should opt for a more integrated model of care."
+Although the study suggests that residents of rural and low income areas may have difficulty accessing these facilities, Paul Williams—the senior director of government relations at Assisted Living Federation of America—said such issues do not exist.
+“We never get calls about lack of beds or space, and people who look for [assisted living] aren’t finding them only in places with rich people or big cities,” Wiliams said, pointing to homes in Wisconsin and Florida with only four or five beds as examples of care that “better fit the needs of small communities” that the study may not have considered.
+The study—funded by the Robert Wood Johnson Foundation—was published Tuesday in the journal Health Affairs. 
+—Staff writer Helen X. Yang can be reached at hxyang@fas.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In recognition for a lifetime achievement in financial economics research, Harvard Business School Professor Michael C. Jensen was presented the Morgan Stanley-American Finance Association Award for Excellence in Financial Economics last month.
+Jensen, the second recipient of the award since its creation in 2008, will donate the $200,000 cash grant to HBS, the National Bureau of Economic Research, and the Simon Graduate School of Business at the University of Rochester, where he was a faculty member from 1967 to 1988.
+The award's recipient is determined by a committee of five members of the American Finance Association, an organization that seeks to promote education and research in the field of financial economics, according to Executive Secretary and Treasurer David H. Pyle. The winner's research must have pioneered into new areas of inquiry and made a sustained and broad impact.
+“Jensen is one of the most acknowledged and most important financial economists in the past 30 or 40 years, which you can determine objectively simply by the number of his citations," said HBS Professor of Economics Jeremy C. Stein, who chaired the AFA selection committee.
+Jensen—who was a member of the faculty at HBS from 1985 to 2000—has authored more than 100 scientific papers, and written, co-written, or edited five different books. In 1973, Jensen co-founded the Journal of Financial Economics, and in 1994, he co-founded and eventually came to chair Social Science Electronic Publishing, Inc.
+Jensen is particularly notable as one of the early developers of agency theory, which analyzes the incentive problems between corporate members and the shareholders of an organization, according to Stein.
+Jensen, who could not be reached for comment, will donate $150,000 to the National Bureau of Economic Research, and $25,000 each to HBS and the Simon School of Business.
+In accordance with AFA's current agreement with Morgan Stanley, the Morgan Stanley-American Finance Association Award will be given a total of five times.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+ 
+A team of Harvard researchers have recently developed a novel way to pinpoint, with greater accuracy than ever before, genetic mutations that drive evolution—and the new method of examining natural selection’s footprint may have tremendous implications for biomedicine and studies of human evolutionary history.
+“This is a step towards identifying specific adaptations that have risen as humans expanded and faced new environments,” said Shari R. Grossman ’08, the lead author of the paper.
+
+For years, scientists have sought to differentiate mutations that actually lead to selective change in a population from mutations that simply arise by chance. But current methods can only identify large stretches of genome as potential selection markers, according to Grossman.
+ 
+Published online Thursday in the journal Science Express, the paper describes a new algorithm that can identify mutations with a much higher resolution. The method, called "Composite of Multiple Signals", assigns a score to every mutation in a region and then ranks the probability of each mutation influencing the selection of particular traits.
+
+Researchers hope that such knowledge could eventually lead to new drug therapies and ways to fight infectious diseases.
+
+CMS has shown potential for many applications before it saw full development, according to the paper's senior author Pardis Sabeti, a Harvard assistant professor of organismic and evolutionary biology and associate member of the Broad Institute of Harvard and MIT.
+
+Previously, using an approach similar to CMS, Sabeti’s lab had localized a mutation in a gene called EDAR that may be responsible for Asians having less body hair. Sabeti also cited genes influencing lactose intolerance and malaria resistance as areas her team has already researched and hopes to further shed light on with CMS.
+
+"If we keep pursuing these signals, we think we can identify a lot of mutations that can confer resistance to infectious disease,” Sabeti said.
+ 
+For years, scientists have sought to differentiate mutations that actually lead to selective change in a population from mutations that simply arise by chance. But current methods can only identify large stretches of genome as potential selection markers, according to Grossman.
+Published online Thursday in the journal Science Express, the paper describes a new algorithm that can identify mutations with a much higher resolution. The method, called "Composite of Multiple Signals", assigns a score to every mutation in a region and then ranks the probability of each mutation influencing the selection of particular traits.
+Researchers hope that such knowledge could eventually lead to new drug therapies and ways to fight infectious diseases.
+CMS has shown potential for many applications before it saw full development, according to the paper's senior author Pardis Sabeti, a Harvard assistant professor of organismic and evolutionary biology and associate member of the Broad Institute of Harvard and MIT.
+Previously, using an approach similar to CMS, Sabeti’s lab had localized a mutation in a gene called EDAR that may be responsible for Asians having less body hair. Sabeti also cited genes influencing lactose intolerance and malaria resistance as areas her team has already researched and hopes to further shed light on with CMS.
+"If we keep pursuing these signals, we think we can identify a lot of mutations that can confer resistance to infectious disease,” Sabeti said.
+For years, scientists have sought to differentiate mutations that actually lead to selective change in a population from mutations that simply arise by chance. But current methods can only identify large stretches of genome as potential selection markers, according to Grossman.
+Published online Thursday in the journal Science Express, the paper describes a new algorithm that can identify mutations with a much higher resolution. The method, called "Composite of Multiple Signals", assigns a score to every mutation in a region and then ranks the probability of each mutation influencing the selection of particular traits.
+Researchers hope that such knowledge could eventually lead to new drug therapies and ways to fight infectious diseases.
+CMS has shown potential for many applications before it saw full development, according to the paper's senior author Pardis Sabeti, a Harvard assistant professor of organismic and evolutionary biology and associate member of the Broad Institute of Harvard and MIT.
+Previously, using an approach similar to CMS, Sabeti’s lab had localized a mutation in a gene called EDAR that may be responsible for Asians having less body hair. Sabeti also cited genes influencing lactose intolerance and malaria resistance as areas her team has already researched and hopes to further shed light on with CMS.
+"If we keep pursuing these signals, we think we can identify a lot of mutations that can confer resistance to infectious disease,” Sabeti said.
+Currently, analysis with CMS has been limited to human genes, but judging from its potential usefulness, Harvard Biology Professor Daniel L. Hartl said he predicts the new method may soon be used to analyze other organisms’ genomes as well.
+“This represents significant progress on a very difficult problem,” said Hartl, whose research also focuses on how gene evolution affects organisms at the molecular level. 
+“[CMS] doesn’t solve all the problems, since there’s so much variation in the human genome," he said. "But it allows you to narrow down the field, and that’s a big improvement."
+Data used in the study was obtained from The International HapMap project, a collaborative project of scientists worldwide to develop a complete haplotype map of the human genome.
+ 
+The study was funded by the Packard Foundation, the Burroughs Wellcome Foundation, and Harvard University.
+
+The study was funded by the Packard Foundation, the Burroughs Wellcome Foundation, and Harvard University.
+The study was funded by the Packard Foundation, the Burroughs Wellcome Foundation, and Harvard University.
+—Staff writer Helen X. Yang can be reached at hxyang@fas.harvard.edu. 
+Want to keep up with breaking news? Subscribe to our email newsletter.

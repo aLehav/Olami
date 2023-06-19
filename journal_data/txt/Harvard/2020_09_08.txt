@@ -1,0 +1,228 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A few years ago, I had the opportunity to spend time as an exchange student in Germany, traveling with a group of students from across the United States. Part of traveling is a constant comparison between home and abroad: Public transportation? Germany wins. Sports? Toss-up. Food? Home. The reflex is natural for travelers, but some of my friends took it to extremes. Any positive experience they had had in America was dust in the Bavarian wind; Germany offered a superior alternative to every American system. The disposition, like our time abroad, proved temporary. But what was temporary among a bunch of Yankee tourists seems to have become a cultural default stateside.
+The current intellectual mode is critical analysis and re-evaluation of important American moments and figures. Recurring tragedies of injustice understandably dampen any celebration of our history. And so the pendulum has swung harshly away from American exceptionalism, rejecting the “city on a hill” mythos and adopting a more cynical narrative: American inferiority. It reaches from high-profile academic work to popular protests, and leaves little room for patriotism. In a jungle of political connotations, that sentiment has been identified as a clawed and aggressive predator of the same genus as savage nationalism.
+And yet — what if we need patriotism? American inferiority, while it rightfully points out some errors of the exceptionalist mindset, hides a dangerous nihilism.
+A revolutionary air hangs over the moment. The philosophy of American inferiority demands change, and its intellectual dissent has grown into physical revolt. There are two sides to any movement: the change and the ideal. The change is the force of action; the ideal is the goal. Each balances the other, change bringing ideal into actuality, and ideal keeping change from anarchy. Every movement skews one way or the other, never completely balanced. An overly philosophical movement is inert. But an overly aggressive movement is destructive. As protests sweep America, buildings burn down and bullets steal lives. Amid this frightening outbreak of violence, it is clear that this movement does not skew toward inaction. Yet without firm temperance, activism devolves into chaotic upheaval; focus upon the construction of a more just republic descends into rage against the ancien régime; societal progress becomes a euphemism for the tumbril rolling to the guillotine. “Rash enthusiast of Change, beware!”
+In every era, change has needed some guiding ideal to ascend to the height of progress. What ideal will guide this movement? The right of the people is a popular suggestion — symbolized by the anonymous raised fist of humanity, ubiquitous in Portland, Minneapolis, and Washington, D.C. A fine sentiment, but an unspecific assertion. Modern America, more mosaic than melting pot, responds, “Which people?” Our nation divides itself cleanly not even along political lines. With such diversity, the “right of the people” cannot possibly mean more than the right of each person; and the right of each person, carried to its furthest, is no more than anarchy. The people are the object, but are not the sort of thing — a right, a virtue, an idea — that can guide change.
+Past protests had patriotism to guide them. Dr. Martin Luther King, Jr. delivered his most famous speech beside an American flag, overlooking a sea of red, white, and blue signs holding America accountable to its founding dream. Likewise, the civil rights marchers followed a platoon of American flags into Montgomery. If patriotism is unpopular now, it is because we have misunderstood America. Our history has its flaws. Too often the flag has witnessed the oppression and suffering of its own people. But whereas other nations base identity on dates and bloodlines and locations, America is not, at heart, a history. What is America? More than anything, she is an idea — a dream of equality in the form of a republic. America is a social covenant, a commitment to the equality and unalienable rights written in the Declaration of Independence and applied through the Constitution. Patriotism is not a flag blindfolding the patriot to injustices. It is hope for this idea’s ever-increasing realization; it tethers change to the transcendent ideals that form America.
+Nevertheless, today one is as likely to find a flag flying as to find it upside down or burning in protest cities. Decrying an inherently corrupt America, the protests across the nation are all but void of national symbols. Consider athletes kneeling for the national anthem, a forerunner of today’s demonstrations. The players’ action is rooted in the fact of unjust killings at the hands of the law, but what does its symbolism mean? For the civil rights movement, the flag was a symbol of hope — they held onto that flag, letting go of equality for all men for nothing. Disregarding the flag or the national anthem, then, speaks to a nihilism about America. The nation will never be more than the worst of its history; there is no hope in a transcendent American ideal. Herein lies the danger of American inferiority. Far enough away to see the nation’s faults, it remains too close to see anything but the faults.
+Patriotism cannot solve our nation’s problems. It cannot fix a wage gap. It cannot stop unjust killings. It cannot abolish injustice. But we cannot realize the sublime idea of America without patriotic hope. Otherwise all we have is American inferiority’s nihilistic vision of a stumbling nation. Our eyes darkened, we may advocate and legislate, but we will be forever tossed upon the whims of the moment — always reacting, never progressing. Our untethered change will create the stumbling nation we feared, and America will mean nothing more than a history or a place. Without patriotism, we will lose America, for we will have given up on the idea.
+Joseph McDonough ’23 lives in Kirkland House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: Sept. 14, 2020 at 4:32 p.m.
+As part of its efforts to control COVID-19 on campus, Harvard piloted a Wi-Fi-based contact tracing system that collects datetime stamps, signal strength, and MAC addresses of mobile electronic device users. TraceFi would supplement Harvard University Health Services’ manual contact tracing efforts by linking infected individuals to those who have been in their vicinity, though it has not been implemented since the pilot.
+Digital contact tracing is a useful public health approach that has already been implemented by several governments to track infection routes and increase detection rates. In countries that have contained the virus, digital contact tracing has shown to be an effective measure, especially because testing alone can return a high chance of false negative results and inherently miss asymptomatic carriers who fail to get tested.
+TraceFi, therefore, would be an important addition to Harvard's community safety measures. Still, the right to privacy is an important ethical and legal consideration, and it must not be neglected in the name of effectiveness and safety. In today’s age, when digital tools expand the risk of misuse and oversharing, and the mission creep of invasive digital surveillance regimes is prevalent, it’s easy to be skeptical about the feasibility of legitimate privacy protections. However, the thought that Harvard may subsequently expand the scope and remit of location tracking is a clear call for caution. Our locational data provides a full, intimate picture of our daily lives and deserves to be protected accordingly.
+As a result, we expect Harvard to do its utmost in protecting rights and mitigating privacy violations. A choice to opt-out by switching off Wi-Fi is only a hollow and farcical excuse for justifying invasive data collection. Opting out would simply not be an option, not least in our digitized learning environment and particularly for students who do not have an independent cellular data plan because of various reasons. The University should therefore treat Wi-Fi tracing as a de facto requirement for on-campus students and provide robust protections to minimize its invasiveness. The only defense for collecting locational data is that the data is collected, stored, and used appropriately and in a clearly defined manner.
+First, this means that the trove of sensitive health and locational information should be used only for COVID-19 contact tracing purposes. It is justified as a public health measure only. Other purposes, such as punitive ones, are not permissible.
+Second, locational data should be assessed on a need-to-know basis only by those involved in contact tracing. Invasions of privacy must be justified by public health necessity.
+Third, the current scheme must have a fixed and announced end date that can only be extended if necessary to combat the current public health crisis. The possibility that Harvard refuses to relinquish its newfound power is dangerous, especially considering the sensitive information that our location can betray.
+Additionally, clear and open communication is imperative. Harvard has regrettably implemented TraceFi without prior consultation or notifications, and students were not given this information when planning for the fall and preparing for life on campus. Moving forward, any changes to the system must be transparently communicated.
+Finally, oversight on data usage and procedures for data breaches is required. Students deserve to know whether and how their location is being used, and we believe that Harvard should consider a third-party or student body oversight mechanism to reinforce trust in its collection, storage, and usage of data. In the case that any breach or misuse happens, Harvard must take complete responsibility.
+In recent memory, Harvard has, not once, but twice mishandled the privacy of its community members. On the second occasion, the former Dean of the College even violated Faculty of Arts and Sciences policy and misled faculty members on the scope of the searches. The reenactment of previous privacy scandals would be deplorable. We therefore demand that the University, if it moves forward with TraceFi, adopt the above measures and protect the privacy of its students. Anything less will weaken existing privacy protections, engender distrust and suspicion, and ultimately hamper important contact-tracing efforts.
+This staff editorial solely represents the majority view of The Crimson Editorial Board. It is the product of discussions at regular Editorial Board meetings. In order to ensure the impartiality of our journalism, Crimson editors who choose to opine and vote at these meetings are not involved in the reporting of articles on similar topics.
+Clarification: A previous version of this article stated that Harvard has implemented a Wi-Fi-based contact tracing system, TraceFi, to supplement Harvard University Health Services’ manual contact tracing efforts. In fact, Harvard used TraceFi in a pilot program that ran from July 9 to Sept. 9 and there are no plans to expand the service beyond the pilot. This article has been updated accordingly.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: Sept. 14, 2020 at 4:28 p.m.
+Within the past few weeks, a select number of our peers have returned to campus to begin their fall semester. To curtail a potential on-campus outbreak of COVID-19, Harvard piloted TraceFi: a Wi-Fi-based contact tracing system that would track these undergraduates’ locations. TraceFi uses the signal of personal electronic devices emitted to Harvard’s Wi-Fi to register “a datetime stamp” that’s linked to the MAC address, storing information about students' exact location on campus.
+Our colleagues on the Editorial Board have argued that while such data must be collected cautiously and responsibly, ultimately the benefits of such a system outweigh the encroachment upon student privacy. We are sympathetic to proposals with a clear public health objective and to creative ideas to safely give people on campus greater freedom of movement. However, we could not abide by this decision. TraceFi's promise of better contact tracing is not worth the privacy cost or the implications it has for the future of Harvard students. We call on Harvard to not reimplement TraceFi to preserve students’ right to privacy.
+We do not believe that TraceFi would hold up its commitments to anonymity or efficacy. TraceFi collects the datetime stamp of our devices, linking them to their MAC address (the "unique code assigned" to our phones). We worry that hackers could quite easily link these data points and use them to take advantage of our community members. Similarly, we’re unconvinced by the claim that it will be uniquely effective in combating COVID-19, particularly given the University’s already rigorous testing regime.
+The University touting that TraceFi has an "opt-out feature" for anyone who "does not want to be noticed at all" is similarly deceptive. Turning one's WiFi off while taking online classes is simply unsustainable, especially for low-income students.
+The implications of such a surveillance system can't be understated. Many already view privacy as a lost cause — those who point to how Facebook, Google, and others store massive amounts of our data. The comparison is inadequate: These corporations don't have the same direct control over our daily lives that Harvard does.
+But even if one embraces the comparison, it serves only to validate a staunch opposition to the proposed system, particularly when it comes to security. If anything, the Cambridge Analytica scandal and Google's attempts to conceal significant security breaches ought to increase our skepticism. The fact that too much of our private information is already out of our hands is a poor excuse to further erode our remaining privacy. Such a stance is defeatist. Harvard should help its students fight for better control over their data, not put it further at risk.
+But even without these concerns — even if our information were fully anonymous (it really isn't) and completely secure (unlikely) — there's still a good case to be made against the mass surveillance of our community. No matter who gets access to the data, or how rigorous the data security protocol, a public admission that the University is recording location information will have a chilling effect on community life and activities. Harvard Law School Professor Charles Fried makes the best case for privacy in his essay on the subject. Fried argues that privacy guarantees our ability to trust and be trusted, to build relations by controlling knowledge about ourselves. This ability to define ourselves — to choose what information exists in the public realm and what doesn’t, to move around campus without the concern of how those movements might be construed or misconstrued — is a crucial part of our basic dignity.
+While COVID-19 contact tracing may sound like a worthy cause, we need to decide where to draw the line. Is it appropriate to forfeit privacy for the sake of policing final club activity? What about illegal drug use or underage drinking? What else might one day warrant tracking and perhaps, in the University’s eyes, punishment? Our Editorial Board colleagues might warn against such overreach, but a warning is hardly enough.
+Harvard will always have an incentive to gather and use more data. Once we open the door to this invasion of privacy, there will always be new justifications to proceed with data collection. Implementing TraceFi beyond its pilot could set a harrowing precedent, one without proper transparency and without plausible means of opting out. Such authoritative abuses of power do not bode well for the future. Digital contact tracing is simply not worth the risk of creating and normalizing such a powerful surveillance framework.
+We are stumbling willingly into a dystopian future. We do not support the University — a body which holds considerable power over the lives and futures of its affiliates — tracking our every movement. We all have a right to privacy; we must defend it.
+Guillermo S. Hava ’23, a Crimson Editorial comp director, lives in Winthrop House. Romy Dolgin ’21, a Crimson editorial editor, is a Linguistics concentrator in Lowell House.
+Clarification: A previous version of this article stated that Harvard has implemented a Wi-Fi-based contact tracing system, TraceFi, to supplement Harvard University Health Services’ manual contact tracing efforts. In fact, Harvard used TraceFi in a pilot program that ran from July 9 to Sept. 9 and there are no plans to expand the service beyond the pilot. This article has been updated accordingly.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Researchers at the School of Engineering and Applied Sciences have invented a wool-like material that remembers shape and changes form when soaked in water.
+The biodegradable material — which might be safely inserted in the human body — can be 3D-printed into a variety of shapes, including clothing or medical device components.
+To develop the novel material, researchers extracted keratin — a naturally-occurring fibrous protein found in hair, nails, and shells — from leftover Angora wool used in textile manufacturing.
+Bioengineering and Applied Physics Professor Kevin “Kit” Parker said the researchers “did origami with the keratin sheets,” folding the recycled wool into many different forms.
+“We used a chemical trigger, hydrogen peroxide, to set the memory of these keratin sheets into an initial shape, such as a star,” Parker said. “Once the initial shape was set, we dunked it in water and the keratin sheet became malleable, which allowed us to roll the sheet into a compact tube.”
+“To reverse the process, we could dunk the keratin sheet back into the water, and it unfolds back into a star,” Parker added.
+Luca Cera, a postdoctoral fellow and first author on a paper about the substance published in Nature Materials, described the research as biologically inspired, exploring “what nature already does in terms of shape memory.”
+“Many materials we are dealing with in engineering nowadays are completely based on synthetic chemicals, synthetic materials,” Cera said. “But we often forget that nature is much better than us when it comes to engineering nanostructures.”
+“Nature has already engineered shape-memory material, and keratin is basically the protein which nature uses to take care of this,” Cera added.
+Parker — a co-author of the paper — described keratin as having a “hierarchical structure” which conferred the protein with its strength and ability to retain various shapes, similar to how human hair maintains particular wave patterns.
+“So a single chain of keratin is helical in shape, which is known as an alpha-helix,” Parker said. “And when there are two of these chains, they form a structure that is called a coiled coil. Then these coiled coils are assembled into a proto-filament, which brought together further can form a fiber.”
+Parker said one major potential application for the material could be medical innovations such as dressings that change their shape as the underlying wound heals.
+Cera also noted potential applications in the fashion industry, such as clothing that “physically adapts to the body, that basically is custom-fit.”
+Although the wool-like material currently requires water hydration in order to be reprogrammed and molded into new conformations, Cera said further research could unlock other mechanisms for shape-memory reversibility.
+“If the material is modified, and there are ways to do this, we could make the shape-memory material even more responsive to other environmental stimuli besides water, such as temperature or light,” Cera said.
+Opportunities for commercial application aside, Cera said he has enjoyed the process of seeing the project come to fruition in their lab.
+“On the one hand, you can read that something is feasible on paper, yet you might not know exactly how that will translate in your own work,” Cera said. “It has been very rewarding to see how the nanoscale conformational changes of the structure of keratin, as already described in the scientific literature, can now be visualized through macro-scale reconfiguration of our 3D-printed material.”
+—Staff writer Meera S. Nair can be reached at meera.nair@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+After the University announced last week it will require Harvard affiliates to undergo self-administered, unobserved COVID-19 testing, some contracted staff said they worry for their safety due to infrequent screening.
+Testing requirements vary according to how long, for what purpose, and in what capacity affiliates are visiting campus. They will pick up testing kits at a designated spot, conduct the tests in the privacy of their own home, and drop them off at collection sites across campus.
+In addition to mandatory COVID-19 testing, University guidance requires on-campus affiliates to complete an electronic Crimson Clear attestation each day, affirming that they are not experiencing symptoms of the virus.
+The announcement follows U.S. Food and Drug Administration approval for more streamlined testing procedures. Previously, the University required students and staff to complete coronavirus tests under professional observation.
+Undergraduate students living on campus began the new protocol on Friday, and Harvard said it would be phased in for all other authorized affiliates over the next two weeks.
+However, some privately contracted employees are raising concerns they have not been getting tested as frequently as directly hired Harvard employees — even though the University makes no explicit distinction in testing provisions.
+Aryt Alasti, a Harvard security guard employed by multinational contractor Securitas, wrote in an email that he had not received any communication about testing requirements, even as Harvard broadens testing requirements.
+“Private-contractor workers have not been getting tested,” Alasti wrote. “Whether those of such workers who have tested positive are reported to Harvard is unknown to them, as there has been no communication on the subject.”
+Still, the University affirms that whether employees are directly hired or privately contracted has no impact on who gets tested for COVID-19.
+According to University spokesperson Jonathan L. Swain, COVID-19 testing continues to be phased in across all students and personnel authorized to live on campus or be on campus for a work or academic purpose — including contract workers — for more than 4 hours per week.
+Roxana Rivera, the vice president of branch 32BJ of the Service Employees International Union — the union that represents much of Harvard’s custodial and security personnel — said all of the union’s employees have been endangering their health while working for Harvard amid the crisis.
+“Throughout this pandemic — including at its height in Massachusetts this Spring — the 1,000 janitors and security officers we represent at Harvard have been risking their lives to keep the community safe, regardless of whether they’re employed directly by Harvard or by a contractor,” Rivera said.
+She added that Harvard should work to ensure safety for all of its workers — contracted or not — especially as the fall semester begins.
+“It’s crucial for these workers’ safety, the health of their families, and the entire Cambridge community that the university provides accessible testing for all, and that contractors fully support that,” Rivera said. “We are committed to ensuring that our workers are as safe and respected as possible during this unprecedented time.”
+—Staff writer Davit Antonyan can be reached at davit.antonyan@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Katie Daily, a former United States Military Academy professor and associate dean, began her appointment as Leverett House’s resident dean on July 1, according to an email sent to House affiliates by Faculty Deans Brian D. Farrell and Irina P. Ferreras.
+Prior to coming to Harvard, Daily received undergraduate and master’s degrees from Columbia University and earned her Ph.D. in English at Boston College. In addition to her role as resident dean, Daily will teach courses about immigration in the English department.
+Leverett House has seen frequent turnover in its resident dean role over the past year, as Daily becomes the third person to hold the position.
+Bilal A. Malik — who served as the Leverett resident dean from 2015 until September 2019 — stepped down from the role mid-year to move closer to his family in Pakistan.
+Senior Resident Dean Catherine A. Shapiro temporarily replaced Malik at Leverett following his departure. In their email, Farrell and Ferreras praised Shapiro for her work during the chaotic spring semester.
+“We owe a great debt to Dean Catherine Shapiro who has been an extraordinary and indispensable support for all of us during this spring semester,” they wrote. “Catherine is passing her experience and knowledge of Leverett and the College to Katie over these next weeks and beyond.”
+Prior to her role as resident dean, Shapiro was a freshman resident dean for Crimson Yard.
+Daily will begin her tenure a year after Leverett residents aired frustrations with the house administration over a public Google document. The students complained that Farrell and Ferreras had restricted social spaces and offered few House-wide events. In February, the deans announced that Leverett’s dining hall would be closed from 2 a.m. to 6 a.m., spurring more disappointment from some students who used the space as a late-night study spot.
+Correction: September 8, 2020
+A previous version of this article incorrectly stated that Katie Daily's Ph.D. is from Boston University. In fact, it is from Boston College.
+—Staff writer Sydnie M. Cobb can be reached at sydnie.cobb@thecrimson.com. Follow her on Twitter @cobbsydnie.
+—Staff writer Declan J. Knieriem can be reached at declan.knieriem@thecrimson.com. Follow him on Twitter at @DeclanKnieriem.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Despite pandemic-related limitations, Cambridge will proceed with its annual round of participatory budgeting, City Manager Louis A. DePasquale said in a press release last week.
+The announcement said this year’s cycle of participatory budgeting — a process in which local citizens decide how to allocate a portion of the city’s budget towards residents’ proposals — will operate in an “abbreviated” time frame due to limitations on in-person events.
+Residents will decide how to spend $500,000 of the city’s budget — half the amount normally allocated for the process — and any current Cambridge resident over the age of 12 is eligible to vote on the capital projects. DePasquale also promised that a future “expanded level” of participatory budgeting would compensate.
+Like past years, residents will be given time to submit proposals to the city, which will then be further developed and whittled down by committees based on feasibility and cost after the month-long September submission period. The final list of projects will then be put to a vote beginning in December.
+In the statement, DePasquale touted the success of the initiative in past years and said it ensures the city’s budget “reflects the priorities” of Cambridge residents.
+“Participatory Budgeting has become a vital community-building tool that directly involves residents in the City’s budgeting process,” he wrote. “Even with the current economic uncertainty, I believe the City must continue this important community engagement initiative.”
+Last year, Cambridge voted to divide $1.125 million — the highest allotment ever — among eight public space improvement initiatives — including $200,000 for planting new trees, $150,000 for public water-filling stations, and $350,000 to install a “Portland Loo” outdoor public restroom. The city received over 1,600 individual proposals during the collection cycle, and approximately 7,600 residents participated in the voting process.
+Cambridge Budget Director Taha Jennings said in the statement that the participatory budgeting process will necessarily differ from past cycles — including with a condensed timeline — due to the pandemic.
+“As we continue to adapt to the evolving impact COVID-19 is having on society, we have had to shorten the timeframe for the process,” she said. “We felt it was important to make every effort to continue the Participatory Budgeting process this year and we are looking forward to an expanded community-driven process once we can safely resume in-person engagement and events.”’
+According to the press release, the participatory budgeting initiative has put more than $4.75 million towards resident-chosen projects since its first cycle in fiscal year 2016.
+—Staff writer Declan J. Knieriem can be reached at declan.knieriem@thecrimson.com. Follow him on Twitter at @DeclanKnieriem.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard College’s social distancing guidelines have proved an initial success, administrators say, after returning students completed a rigorous testing process and two-staged quarantine last week.
+In a Friday email to students, the Harvard College Housing Office praised those living on campus for taking the College’s COVID-19 rules “seriously.”
+While students were previously only permitted to gather in groups of two while in the second phase of quarantine, the office announced that Harvard has since expanded this to groups of up to five students. They attributed the decision to the “success” of undergraduates’ first few weeks on campus.
+Starting Tuesday, all undergraduates who have received three negative coronavirus tests may begin socializing in groups of up to 10 while maintaining at least six feet of separation. While eating, they may gather in groups no larger than four students
+Harvard announced in July that all undergraduate classes would be taught virtually, welcoming freshmen — in addition to certain upperclassmen — to spend their fall semester on campus. Those invited to live in residence began trickling into campus last Sunday, completing an initial COVID-19 test and initial 24-hour quarantine in their dorm room upon arrival.
+Once students received a negative test result, they entered a slightly more liberal stage of quarantine, which allowed them to leave their residences for 30-minute intervals. After two additional negative tests, they were allowed to move freely about, though expected to abide by the College’s social distancing and masking rules.
+Harvard’s guidelines appear to have brought relative success compared to other universities.
+Unlike schools which backtracked reopening plans shortly after students arrived, such as the University of North Carolina at Chapel Hill, Harvard’s protocols have initially proven effective at limiting transmission among students. As of Monday, the University has only logged three positive cases among undergraduates, though it anticipated — and prepared for — up to 50 positive results as students returned.
+Other institutions have disciplined students for violating residential guidelines. On the other side of the Charles River, Northeastern University announced it had dismissed 11 students who violated school and public health guidelines by gathering in a crowded hotel room. Harvard has so far not publicly announced any disciplinary action for similar violations.
+Harvard’s newly formed Community Council — partially composed of student volunteers — will adjudicate alleged violations of the community compact, a set of guidelines to which all residential students agreed before accepting their Harvard housing.
+—Staff writer Juliet E. Isselbacher can be reached at juliet.isselbacher@thecrimson.com. Follow her on Twitter @julietissel.
+
+—Staff writer Amanda Y. Su can be reached at amanda.su@thecrimson.com. Follow her on Twitter @amandaysu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: September 10, 2020, 10:44 a.m.
+Senior running back Devin Darrington, Harvard’s leading rusher from last season, announced his transfer to the University of Virginia.
+Darrington, a Maryland native, will be playing his future college football games closer to home, the former Crimson running back announced on Twitter. He will graduate from Harvard in the spring and be eligible to play as a graduate transfer for Virginia immediately in the fall of 2021.
+Following the Ivy League’s decision to cancel fall sports in July, Darrington announced his intention to transfer. At the time, schools in multiple Power 5 conferences had reached out, and Darrington will now find a home with the Cavaliers in the ACC.
+The Crimson standout earned All-Ivy second team honors for last year’s performance. Darrington finished his junior year with 734 yards and seven touchdowns on the ground, both good for fifth in the Ancient Eight. Before this season’s cancellation, he was named to the All-Ivy preseason second team.
+Darrington will look to bolster the rushing attack of the pass-first Cavaliers when he steps onto the field in Charlottesville in the fall of 2021. Virginia’s 2019 high-powered offensive attack was headed by recently departed star quarterback Bryce Perkins. The standout set the Cavaliers’ record for career total offense in just two seasons, and broke the school’s single-season passing record in 2019 with 3,538 yards through the air. Perkins’ most recent campaign, in which he accounted for 7,910 total yards and 33 total touchdowns, earned him All-ACC second team honors. His leadership will likely be missed, as Perkins was recently signed as a member of the Los Angeles Rams' practice squad.
+The Virginia rushing attack, however, tells a different story. Despite ranking fourth in the ACC in 2019 in total yards, passing yards, and points per game, the Cavaliers’ run game finished second-to-last in rushing yards per game, trailed only by the hapless Miami Hurricane offense.
+Even if Virginia replicates its strong passing attack without Perkins this fall, Darrington will look to aid a 2021 Virginia ground attack that saw its quarterback pace the team in rushing with 769 yards. Darrington joins junior Wayne Taulapapa in the backfield, who rushed for 473 yards and 12 touchdowns in 2019.
+Virginia football finds itself in its best position in recent memory. From 2008 to 2017, the Cavaliers posted losing records in 9 of 10 seasons and lost its only two bowl appearances. Following a Belk Bowl victory in 2018, however, Virginia put together an impressive run in 2019. The Cavaliers finished the season with a 9-5 record and won its first-ever ACC Coastal division title en route to earning its first-ever New Year’s Six bowl game appearance.
+While Harvard does not yet know when it will play its next college football game, the Crimson now officially knows that it will have to do so without Darrington in the backfield. The Harvard backfield will likely find itself anchored by both a new up-and-comer and a familiar face when play resumes.
+Sophomore Aidan Borguet, the reigning Ivy League Rookie of the Year, rushed for 645 yards and seven touchdowns in his debut campaign, highlighted by a dazzling 269-yard, four-touchdown performance against rival Yale in the final game of the season.
+While a new teammate to Borguet, the young running back will likely be joined by a household name to the Harvard faithful: Aaron Shampklin. The junior led the Crimson with 1,053 yards and nine touchdowns in 2018, earning the nod to the All-Ivy first team. He led the Ivy League on the ground as the only 1,000-yard rusher of 2018. Shampklin was named to the All-Ivy preseason first team prior to the 2019 season, however, the running back sat out the 2019 campaign. He was added to the 2020 Crimson roster before the 2020 fall season’s cancellation.
+Shampklin and Darrington formed an explosive running duo in 2018, as Harvard was one of only three teams in the Ivy League to average over 200 rushing yards per game. With Darrington now suiting up in the ACC, Shampklin and Borguet will likely serve as the two-headed rushing attack for the Crimson whenever Ivy League football eventually returns.
+—Staff writer Joseph W. Minatel can be reached at joseph.minatel@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+Alright, alright, alright! The fall semester is officially underway, and it sure is different from the good ol’ days. And, yeah, we have a long list of complaints about the pandemic and remote learning, but there are a few bright sides to having your academic life turned upside down. In attempt to practice gratitude (apparently it’s “good for you” and a “healthy coping mechanism”), here’s a list of #stressful things about the normal college experience that we don’t miss one bit.
+Feeling Like the Weekends Aren’t a Break
+Ever end a week of grinding only to feel, like, a weird amount of pressure to have fun? One upside to the virtual and geographically dispersed semester is that social scoreboarding has been effectively eliminated. It’s time to let your FOMO go, because there’s really nothing to fear missing out on. Work Hard / Play Hard is a thing of the past — in the Zoom era, it’s Work Hard / Do Whatever You Want To Do (Like Maybe Those Self-Care Things You Said You’d Do If Only You Had Time!).
+Figuring Out Meals With the New Time Schedule
+While the HUDS-Cookie-Bars-shaped void in your life may be huge, this semester’s mealtimes are a welcome change of pace. Gone are the days of fruitlessly coordinating G-cals just to have a 10-minute meal overlap with a blockmate, or feeling the pressure to whip out your laptop and look busy instead of eating alone. And for the chronically overbooked, sometimes bagged lunches eaten on the way from one lecture to the next just didn’t cut it. While quality time with friends in the dhall is irreplaceable, a semester of meals on your own schedule is definitely something to appreciate. Additional bonus: you never have to hear the perfunctory “Let’s catch a meal sometime!” (fingers crossed that the phrase will be permanently retired from the campus lexicon).
+Battling It Out For the Best Seat in Class
+Finding the optimal spot for learning in a lecture or section is a seriously underrated component of in-person learning. Trying to claim the one seat in a section where you can angle your laptop away from the TF, rushing into a massive Science Center lecture hall so that you can claim a place close enough to the professor to deter yourself from getting distracted, or snagging a spot with an optimal view of your dhall crush are just a few examples of how picking a seat in class is a task both delicate and essential to learning. Of course, even if you do manage to find the perfect spot this time, you have to do it all over again next class. One of the great pains of on-campus student life is sliding into class a little late, HUDS paper cup in hand, only to find that your niche has been taken. Luckily at Zoom University, there’s no jockeying for spots! Stay in bed, take your classes outdoors, hang out with your dog during class, etc. — the seating options are limitless, so get creative with it!
+Wearing Pants
+Self-explanatory, and a strong contender for the best silver lining of virtual classes. Bonus points if you can start a competition with your blockmates to see who can avoid wearing pants for the most consecutive lectures. Mandatory disclaimer on behalf of our TFs, profs, and classmates: make sure that you remember to cover up / turn your camera off / do something to avoid flashing your ass(ets) to your section before getting up to grab a snack mid-lecture!
+It’s going to be a long year of missing your friends and wishing for a normal campus life, but, in the meantime, try to appreciate the reduced pressure of virtual academia. Stay in bed, take care of yourself, don’t wear pants, and stay healthy!

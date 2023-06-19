@@ -1,0 +1,339 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+“Please step aside sir, I don’t believe you. I thought you were Hispanic, but after hearing your Spanish I don’t believe you are who you say to be, Mr. Arenas.”
+This summer, the guards at the Adolfo Suárez Madrid-Barajas Airport thought that I was an imposter — simply because of my Spanish. An airport officer even tried to convince me that I was trying to smuggle something past airport security. It wasn’t the first time someone had questioned my last name after hearing my Spanish, but this time was different. I had spent the past eight weeks living in Madrid completing a Spanish immersion course, hoping to improve my speaking skills. But on my way home, I was once again reminded that to some people who I am does not match who I should be or how I appear on paper.
+I did not grow up speaking Spanish at home. I had taken Spanish classes since elementary school, but never found an interest in learning the language. Perhaps this was because I felt I had nothing in common with my teachers, of which almost all were non-Hispanic. Often times in class discussions I felt as if my story was incorrect because it did not mesh with the PowerPoints displayed on the whiteboard. I felt as if Spanish was supposed to be reserved for people who looked different from me, people other than my own family. My identity as a descendant of Mexican-American culture was shrouded in a back and forth between Caucasian and Spanish teachers and family histories bestowed to me through helping my grandmother cook enchiladas and sopaipillas.
+My family’s transition through American society has seen a rapid transformation over the past two generations. My father and his siblings were given American names because at the time, my grandparents believed it would get them “farther” in life. The truth is that it did get my father and his siblings much farther than what many would think is possible for the time. Growing up in a small town in southern Ohio I lived what was likely a pipe dream to my grandparents. In my home growing up I had basic necessities such as running water and electricity. I had a fridge with food in it to come home to everyday after school for a snack. But I have also been privileged with more luxurious freedoms like family vacations and weekend shopping trips.
+My ancestors did not have these freedoms. They struggled against poverty in hopes of more freedom, for people like me to live a life with more choices and less fear. They organized alongside other Hispanic citizens in the United States, fighting for basic rights during the Chicano movement of the 1960s. My ancestors’ self determination helped to make my current lifestyle possible, even though at the time there were thousands of Americans who did not want for them to become part of a higher society, or anything more than people who lived in adobe homes along the border.
+I’d like to think that my family’s better standard of living was possible without the rejection of our first language and culture, but to say that would be a lie. The “American Dream” that my family achieved for my generation came with a heavy cost. Some call it “assimilation.” But assimilation implies that it was voluntary, and I’m not so sure it was. Sacrifices were made to fit in. Spanish stopped being spoken. My father pronounces our last name differently so it can be written in English correctly. Family members will say that these habits were the only way “out” or “up.” According to Pew Research, this side-effect of assimilation appears to be common in other Spanish-speaking families too, as those with Spanish-speaking ancestry have stopped speaking the language in the U.S.
+During the past few years, I’ve made a conscious effort to improve my Spanish and recover what was involuntarily lost. Through this I have come to understand my family’s story — my own story — and the types of people that my ancestors were. I’ve come to realize that the ability to speak with my grandmother and other family members in their native language reveals identities that previously were unknown to me. I’ve been able to meet two new family members that I didn’t know even existed. Before becoming comfortable with Spanish, I neglected the power that it holds in my family. It contains the stories and memories of my ancestors. It contains a truth that I am still working to understand fully. A truth that can’t be explained on a whiteboard.
+We should not neglect the power that our own family histories hold. My journey through what some may call my “latinidad” has made me realize my responsibility as a gatekeeper of history — a family history that could easily be forgotten and shrouded under the pan-ethnic label of “Hispanic” or “Latino” in classrooms across the United States. These labels used out of convenience aren’t fair to my ancestors, and I am working to define a more truthful identity when people ask where my family is from and the types of people that they were.
+As “Hispanics” or “Latinx” we should strive to characterize ourselves as something more than a label. We should be mindful of how we name ourselves, regardless of where we come from, regardless of ethnicity. Because if not, the histories of our own families — our own people — will be rewritten for us down the line. Or worse, it will be as if they never even existed.
+George A. Arenas ’22, a Crimson Editorial editor, lives in Dunster House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+It’s no question that technology is a core driver of today’s society. We use technology to conduct financial and commercial transactions, maintain friendships, and even find love. Every day, innovators dream up new business models that leverage the latest breakthroughs, including “Uber for dog walking” or yet another way to share photos or book a place to stay while on vacation. Perhaps less flashy and less profitable, but just as newsworthy, is technology’s ability to do real good in the world. Examples include expanding access to social safety net benefits and automating record clearances for tens of thousands of individuals convicted for possessing now-decriminalized substances.
+However, it’s hard for Harvard students to envision pathways in social impact careers like nonprofit work and public service when our gateway computer science course — Computer Science 50 — is sponsored by some of the biggest companies in tech. CS50’s own website acknowledges support from Facebook and Google, and previous reporting has also named Amazon and Microsoft as financial backers. Company employees and recruiters are visible — often in brightly-colored company shirts — at recommended and required course events, including “Puzzle Day,” the CS50 hackathon, and the course’s final project fair.
+CS50 is perennially one of Harvard’s most popular fall courses and it feeds a fast-growing Computer Science department. As such, it would better serve Harvard students and the broader community if it reframed its focus from being a class with a high production value made possible by corporate sponsors to one that builds a focus on social impact and the ethical use of new, innovative technology.
+Four years ago, another writer in these pages argued eloquently: “What if Ec10, Harvard’s introductory economics course, gained corporate sponsorships from the biggest investment banks and held an annual ‘bankathon’ for financial modeling? My bet is the Harvard community would go berserk.” In the intervening years, many of the industry’s largest companies (and CS50 sponsors) have been held to account — whether for lax privacy settings that enabled the Cambridge Analytica leaks or for less-than-ideal responses to serious employee concerns of sexual harassment and misconduct. It is time for our campus community to reconsider whether these relationships are still “mutually beneficial,” as course head David J. Malan ’99 once stated.
+Whether intentionally or not, CS50’s relationships with tech companies have reinforced the peer pressure and prestige effects that drive students to pursue roles in Silicon Valley. By rethinking CS50’s cozy relationship with tech companies and reframing its curriculum to emphasize social impact and civic applications of technology, the Computer Science department would better prepare its graduates to fulfill Dean of the College Rakesh Khurana’s frequent charge to become “citizens and citizen-leaders” in society. Doing so would fall squarely within Harvard’s liberal arts focus and according to research, would also likely increase the proportion of women in computing at Harvard — which was a dismal 25 percent in the graduating class of 2016.
+In recent semesters, I have been heartened to see the growth of the Embedded EthiCS collaboration between the departments of philosophy and computer science to “bring ethical reasoning into the computer science curriculum.” Just this week, I have seen two Computer Science professors dwell on the EthiCS discussion planned out on their syllabi as they provided the usual shopping week overview, reminding students in one case that, “just because we have data doesn’t mean we should use it.”
+Though a small change — one class session over the course of 12 or 13 weeks — Embedded EthiCS is a positive step in urging all computer science students to consider the potential risks and harms of what they learn in the classroom. Especially in an age where algorithms are introducing sexist biases into recruiting processes and where facial recognition and mass surveillance threaten civil liberties at home and abroad, ethics should play a more and more central role in classroom discussions about these technologies.
+As my peers and I move through Harvard Yard and its surrounding buildings this week in hopes of finalizing our schedules, we will consider many factors — student feedback in the “Q guide;” the timing of midterms, papers, and other key deadlines; concentration and General Education requirements — before making our decisions. For more and more students in the Computer Science and related departments, I hope that considerations of ethical and social use of the technologies taught will also be one such consideration.
+Chris Kuang ’20 is an Applied Math concentrator in Lowell House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Jeffrey E. Epstein, Arthur M. Sackler, Glenn R. Dubin, Saudi Arabian Crown Prince Mohammed bin Salman — the list of controversial donors to Harvard goes on and on. Students have long protested against the University accepting donations from ethically-dubious individuals. Occasionally, the University has conceded. United Arab Emirates President Sheikh Zayed bin Sultan al-Nahyan’s $2.5 million dollar gift to the Divinity School in 2004 was returned amid immense pressure over the anti-Semitic agenda espoused by the Abu Dhabi-based Zayed Center. More often than not, however, the University has not bowed to pressure. Despite protests, the University has not returned Epstein’s, Sackler’s, or Saudi gifts.
+So how does Harvard decide which donations stay and which few are returned or turned away? These important ethical questions are handled by the Gift Policy Committee — a group chaired by University Provost Alan M. Garber ‘76 and made up of faculty members and administrators who review gifts. Earlier this year, University spokesperson Jonathan L. Swain declined to provide The Crimson with a copy of the gift review policy or disclose members of the committee. It is unclear how the review process is structured and which gifts are under review. Only one thing is certain: These decisions are made with no transparency.
+Though no official gift policy is publicly available, University President Derek C. Bok wrote an open letter in 1979 stating his views on the ethics of accepting controversial gifts. The open letter was cited in 2006 when Harvard decided not to return Epstein’s gift after he was indicted for solicitation of prostitution with a minor. The letter claims that only in “extreme cases,” contributions should be refused from donors who have earned their money immorally. Bok continues: “... on the whole, I would be inclined to accept such donations on the ground that the tangible benefits of using the money...should overcome the more abstract, symbolic considerations that might lead us to turn down such benefactions.”
+The Gift Policy Committee must be more vigilant and assertive. Dubious donations present real challenges, not just “abstract considerations.”
+Firstly, keeping problematic donations validates the Epsteins of the world, showing them that despite their gross moral misdeeds, one of the most prestigious institutions in the world will maintain ties with them. The Prince Mohammed bin Salman bin Abdulaziz Foundation (MiSK) previously sponsored a summer leadership development course held at Harvard Extension School where 100 spots were allocated to students sponsored by MiSK. Though the partnership ended in July, other ties to Saudi Arabia may encourage the country to continue perpetuating a genocide in Yemen and assassinating journalists knowing that he can whitewash his evil acts with donations to prestigious institutions.
+Secondly, large donations are often transactional; The donors receive as they give. A glowing 2003 Crimson profile details Epstein “networking with the University’s greatest and most well-known minds.” Once multiple underaged women accused him of molestation, his donations should have been returned to demonstrate that Harvard wouldn’t tolerate being “the perfect staging ground for his intellectual pursuits.” Accepting corrupt donations thus benefits and empowers immoral patrons. If students must maintain a certain standard of integrity to be given the opportunity to access the resources provided by the University, donors that benefit from the same resources should meet those same standards.
+Furthermore, even if returning donations is purely symbolic, the philosophical value surely outweighs the tangible benefit derived from the donation. After all, isn’t a pristine liberal arts education tainted when financed by a serial child molester or through the oppression of millions of people?
+The gift processing committee must be reformed in a few concrete ways to be updated to our “woke” times. Students should have a voice in deciding who funds our education. Students in each undergraduate and graduate school should be elected by the student body as representatives to the gift processing committee to weigh in on donations to their school. Regarding the lack of transparency, publicly-available guidelines for controversial gifts must be set as a metric for the gift review committee to judge. The committee should create a report after each gift review that explains why or why not the gift fits the guidelines and should be accepted. These reviews need not be a thorough investigation into the private lives of donors as a simple investigation would bring to light any known egregious offenses.
+One could charge that my opinion expresses financial naivete and a lack of gratitude to the donors that make my education possible. However, a more proactive review process would benefit the vast majority of upstanding donors and incentivize more gifts. A stringent review process would make the donor status a more prestigious, sought-after title. Not only would being a major Harvard donor be a symbol of wealth and a generous heart, but also a token of ethical virtue.
+Many days, one does not have to go further than the front page of the newspaper to read about another moral misdeed of a major Harvard donor. That should make us think twice about who we’re getting into bed with.
+Jonathan L. Katzman ’22, a Crimson Editorial editor, lives in Dunster House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard is launching a review of the “culture” and “structure” of its athletics department, Dean of the Faculty of Arts and Science Claudine Gay announced in an email to athletes, coaches, and other athletics staff Thursday.
+“Rooted in the Harvard College mission and our Ivy League principles, this study will engage our community to learn about our student athlete experience, the culture of our programs, and the structure of our department," Gay wrote.
+The email leaves details of the nature of the audit and its motivations largely unexplained. FAS Spokesperson Anna G. Cowenhoven declined to provide further information about the study.
+Gay wrote in the email that Athletics Director Robert L. Scalise and Dean of the College Rakesh Khurana, among others, will serve on an “advisory committee” overseeing the review of the athletic department. The group plans to solicit input throughout the study using surveys and interviews, and will conclude its work by releasing a public report sometime this spring.
+FAS has also enlisted the help of Mercer, a consulting firm with “deep expertise in the study of culture” and “organizational best practices” to conduct the study, according to the email.
+Though Gay did not explicitly state what prompted the review, she wrote it comes during “a moment in higher education when the role of athletics is the subject of much discussion and review.”
+“We engage in this study to set our aspirations for the support of athletics at Harvard,” she wrote.
+In March, dozens of wealthy parents and college athletics coaches across the country were arrested in a scheme to fraudulently secure admission for their children to top universities through bribes and falsified standardized test answers. Though Harvard was not implicated, individuals at other elite universities, including Yale and Stanford, have already pled guilty to charges.
+But controversy over athletics and admissions practices has not completely evaded Harvard. In July, the University dismissed its head fencing coach Peter Brand after an independent inquiry found that his real estate transactions with the family of current and former athletes violated Harvard’s conflict of interest policy. A federal grand jury is also currently investigating Brand.
+“We are motivated to join this discussion by a desire to reinvigorate our Ivy League principles for a new generation of Harvard students,” Gay wrote.
+— Staff writer Jonah S. Berger can be reached at jonah.berger@thecrimson.com. Follow him on Twitter @jonahberger98.
+—Staff writer Molly C. McCafferty can be reached at molly.mccafferty@thecrimson.com. Follow her on Twitter @mollmccaff.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Marianna K. Linz ’11 has returned to Harvard this fall as an assistant professor of Environmental Science and Engineering at the School of Engineering and Applied Sciences, and will serve as one of only two female faculty members in the field.
+ Linz’s research focuses on understanding the physics of the current climate system and “the interaction between geophysical flows and the substances they are transporting,” according to the SEAS website. She also holds a joint appointment in the Earth and Planetary Sciences department.
+A number of faculty members said they were excited about her research and the potential for collaborations.
+“She is a tremendous talent, and I can imagine lots of different ways in which I might collaborate with her,” said Daniel P. Schrag, area chair of Environmental Science and Engineering.
+Peter J. Huybers, a professor who holds joint appointments in Environmental Science and Engineering and in Earth and Planetary Sciences, said he learned “a good amount” from her research looks forward to her joining the faculty.
+“We need to continue to develop a more diverse faculty — there’s no doubt about it — and this is an additional reason that I’m excited that Marianna has joined our faculty,” Huybers said.
+Linz graduated from the College as the first joint concentrator in Earth and Planetary Sciences and Chemistry and Physics. She said in an interview that it felt great to be back on campus. She also said her undergraduate experience greatly informed her teaching style and work as a faculty member.
+“As a student, I learned a ton from my peers,” she said. “Now that I’m teaching and as a faculty member, I am trying to encourage and, sort of indeed require, that sort of collaboration.”
+This semester, Linz is teaching E-PSCI 129: “Climate and Atmospheric Physics Laboratory,” which provides students with a hands-on, active learning experience using basic tools and models important for research in the field — something she said her students said fills “a bit of a void” in the Environmental Science and Engineering curriculum.
+“My course is a science course, but it’s not just bio. It’s not pure physics. And it’s not just all math,” she said. “Today, from a couple different students, I heard that that was something that they really appreciated, and why they were excited to take my course is that it’s a science course for engineering students that is quite different from what’s on offer.”
+Linz said the skills she wants to teach are ones that she didn’t learn in school but found to be important when doing research internships in the field. She added that she hopes her course can help prepare students for that transition.
+“Those internships will go better if they have seen it beforehand, and you shouldn't have to get one of those positions in order to be able to learn these things,” she said.
+—Staff writer Ruth A. Hailu can be reached at ruth.hailu@thecrimson.com. Follow her on Twitter @ruth_hailu_.
+—Staff writer Amy L. Jia can be reached at amy.jia@thecrimson.com. Follow her on Twitter @AmyLJia.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Passing around a platter of pancakes, roughly 20 members of Divest Harvard rallied for fossil fuel divestment outside of University President Lawrence S. Bacow’s home early Thursday morning.
+Divest Harvard — a group that advocates for the University to withdraw its endowment holdings from the fossil fuel industry — sang songs, read poems, and chanted in front of Elmwood, the University president’s historic residence. The group stayed for two hours before walking to Massachusetts Hall, which houses Bacow’s office.
+Divest Harvard member Ilana A. Cohen ’22 said the rally was inspired by their goal of bringing “creativity, artwork, and life” to their activism.
+“Thinking about climate change a lot of the time can be depressing,” Cohen said. “Ecological grief is a very, very real concept.”
+Georgia K. Bowder-Newton ’21, another Divest Harvard member, said she participated in the rally because she was excited to take part in “joyful” activism, even if she noted its eccentricism.
+“I was really excited about the prospect of absurdity in this event,” Bowder-Newton said.
+“We’re at the richest university in the world, one of the most powerful spaces in the world. That we’re still continuing to invest in the destruction of our own planet and our own people and that we’re outside of Bacow’s house right now, with pancakes and orange juice, it was just really exciting,” she added.
+University spokesperson Jonathan L. Swain wrote in an emailed statement that the school concurs with the urgency of climate change and the need to eliminate the use of fossil fuels in the world but does not support divestment.
+“While we agree on the urgency of this global challenge, we respectfully disagree with divestment activists on the means by which a university should confront it,” Swain wrote. “Universities like Harvard have a crucial role to play in tackling climate change and Harvard is fully committed to leadership in this area through research, education, community engagement, dramatically reducing its own carbon footprint, and using our campus as a test bed for piloting and proving solutions.”
+Several freshman who recently joined Divest Harvard attended the protest and said they were eager to participate in the early morning event.
+Jeromel Dela Rosa Lara ’23 said he was impressed by group members’ “passion” and was excited to be a part of the demonstration.
+“With this group, I kind of felt more empowered, emboldened to challenge the administration, to challenge the status quo, and to bring forward this important issue that they need to hear about,” Lara said.
+The group dedicated part of the summer to recruiting interested incoming freshmen for the rally and other start-of-semester events, including Freshman Convocation.
+Connor P. Chung ’23 said he participated in the Thursday rally because he believes climate change is an issue for his generation and generations after him.
+“When we’re running out of time to make a difference, it’s essential that students all around the country and world speak up to say, ‘Hey, this is something that really matters to us,’” Chung said.
+Cohen said Divest Harvard plans to continue its activism as long as the climate threat looms.
+“We can’t just go about our lives going to class every single day,” Cohen said. “We can't just be university presidents living in our very nice houses and going straight into our offices and Mass. Hall. We all have to take responsibility as active participants in building a more just and stable society.”
+—Staff writer Alexandra A. Chaidez can be reached at alexandra.chaidez@thecrimson.com. Follow her on Twitter @a_achaidez.
+—Staff writer Aidan F. Ryan can be reached at aidan.ryan@thecrimson.com. Follow him on Twitter @AidanRyanNH.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+It’s been ten months since lawyers sparred over Harvard’s admissions policy in a heated three-week trial last fall. Nearly a year later, the winner has yet to be named.
+Judge Allison D. Burroughs, an Obama appointee overseeing the case, hasn’t released her verdict yet. Her decision — almost certain to be appealed regardless of the outcome — could prove pivotal in an ongoing legal battle that could shape the future of affirmative action at private colleges and universities nationwide.
+The dispute began in 2014, when anti-affirmative action advocacy group Students for Fair Admissions sued Harvard, alleging that the College’s famously selective admissions process discriminates against Asian American applicants.
+Experts say it’s difficult to know when she will decide.
+“Federal district court judges typically have hundreds of cases on their dockets,” said A. Benjamin Spencer, a visiting professor at Harvard Law School, who is an expert in civil procedure. “Although a given case is important to the litigants involved, it is not the only matter before that judge.”
+Unlike criminal cases — in which defendants have the right to a speedy trial — judges overseeing civil disputes don’t have to meet specific deadlines.
+Federal court judges also have to prioritize criminal over civil cases when they have both on their dockets, according to Peter F. Lake, a higher education law professor at Stetson University.
+“This could drag on for years, and people should be prepared for that reality,” Lake said.
+Spencer and Lake both said case's complexity is likely contributing to the delay.
+“This would clearly require the highest level of attention,” Lake said, nothing that the case is “incredibly complicated fact-wise and legally.”
+“The judge and her law clerk may have to engage in extensive research and review a voluminous record to ensure that each issue is addressed appropriately,” Spencer said.
+Lake also said Burroughs could also be taking her time to craft a meticulous and airtight verdict, given that it will almost certainly be challenged and could ultimately be reviewed by the Supreme Court.
+“It’s almost inevitably going to be appealed,” Lake said. “It’s unlikely that any decision could actually satisfy both sides, so somebody will likely push this up the chain of command.”
+A thorough decision can make it harder for attorneys find substantive issues on which to base their appeal, he said.
+Though Burroughs has not yet decided the case, attorneys for Harvard and SFFA are likely already preparing for her ruling.
+“In the meantime, each side is likely preparing post-trial motions in the event that the decision is adverse to them,” Spencer said. “Such motions are based on things like trial errors or erroneous legal determinations.”
+Robert M. Farrell, the clerk of the U.S. District Court of Massachusetts, declined to comment on the timeline of Burroughs’s decision.
+Edward Blum, the president of SFFA, also said he has no information on the status of the case.
+“Wish I knew something but I don’t,” he wrote in an email. “Damn.”
+—Staff writer Camille G. Caldera can be reached at camille.caldera@thecrimson.com. Follow her on Twitter @camille_caldera.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+As awareness about climate change has grown rapidly in recent years and brought about calls for change, Harvard Economics Professor Martin L. Weitzman forged a path of environmental scholarship in the field of economics.
+“Combating climate change is the race of our lifetime. That much, at least, is clear,” wrote Weitzman in his co-authored 2015 book “Climate Shock.” “Indeed, while the danger is grave, climate change also provides opportunities to act, and yes, to profit.”
+Weitzman, who died by suicide on Aug. 27 at the age of 77, assured his readers that the climate crisis could be resolved if only people took a serious look at the economics behind it. He published three books and more than 90 articles, turning his research focus to environmental issues in the second half of his career.
+In “Climate Shock” — which he co-authored with fellow economist and former student Gernot Wagner ’02 — Weitzman formulated what came to be known as the Dismal Theorem. He hypothesized that normal economic principles do not apply to cases involving unlikely but catastrophic events. Using climate change as his example, he explained that possible environmental disasters could be so cataclysmic that, even if their probability was rather low, they should still be taken into account.
+“His contributions to the once-emerging and now mature global scholarly discipline of environmental economics were unprecedented,” wrote Robert N. Stavins, a professor of energy and environment at the Harvard Kennedy School. “He was there during the formative years of environmental economics, and he continued to shape the field for nearly five decades.”
+Weitzman, who earned his Ph.D. in Economics in 1967, taught first at Yale University and MIT before landing a Harvard professorship in 1989. In 2018, Weitzman retired from his teaching position and went on to become a research professor until his death.
+Weitzman’s works also shaped some of the national political discourse around climate change, even though he himself did not involve himself in the political arena, according to Kennedy School Professor James H. Stock. President Barack Obama’s administration has cited Weitzman in materials about climate change.
+“He was very influential at the highest levels,” Stock said.
+Coworkers and friends say they will miss Weitzman, noting his generosity and thoughtfulness. Weitzman leaves behind his wife, Jennifer Brown Baverstam; his daughter, Rodica Weitzman; his stepchildren, Kristian, Madeleine, Sebastian, and Oliver Baverstam; his sister, Babara Sherman; and two grandchildren.
+From his time collaborating with Weitzman on their book, Wagner said he got the impression that Weitzman was honest, logical, and a fast thinker.
+“He might have been the most rational human being I have ever met,” Wagner said. “There was hardly anything he did that wasn't deeply thought.”
+
+The two spent hours on the phone together, multiple times each week, as they planned out the contents of their book.
+“He's a very good, clear writer, also very technical writer,” Wagner said. “‘Climate Shock’ doesn’t have a single equation in it, so in many ways there was a process of 'translating' the book into English, as it were.”
+Throughout their meetings, Wagner and Weitzman would bounce ideas off of each other, sharing hypotheticals and possibilities, with Weitzman often repeating the phrase “I don’t know.” Weitzman was not at a loss for knowledge, Wagner explained, but had simply thought through hypothetical solutions so quickly that he had already spotted their negative ramifications.
+“He was five steps ahead of you all the time, so he'd thought through the implications long before you got there yourself,” Wagner said.
+Wagner first met Weitzman in 1998 when Wagner was a freshman at Harvard. The two conversed for an hour — which Wagner said was an unusually long amount of time for a professor to devote to a freshman — when Wagner first popped into Weitzman’s office hours.
+Stock also said that Weitzman was generous with his time. As a relative newcomer to environmental economics, Stock often looked to Weitzman for guidance.
+“As I was just learning, as I was miles behind where he was, he was always willing to talk with me, to talk about my work, talk about other people’s work,” Stock said.
+Weitzman’s research and writings won him a number of accolades, from being an elected fellow of the American Academy of Arts and Sciences to winning three awards from the Association of Environmental and Resource Economists. His colleagues expected him to win the Nobel Prize last year, which instead went to New York University professor Paul M. Romer and Yale professor William D. Nordhaus.
+The New York Times reported that the Nobel decision ushered Weitzman into a period of emotional distress, and that the famous economist wrote a note doubting his ability to make further advances in the economic field.
+Though the Nobel prize brings prestige and renown, Weitzman had something more valuable, according to Stock — important ideas.
+“What really matters is the work you do, and the way you influence people, and the way your ideas progress,” Stock said. “And Marty accomplished all of that in his career.”
+—Staff writer Rebecca S. Araten can be reached at rebecca.araten@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+United States Representative William B. Hurd (R-Tex.) spoke about national security issues facing the nation at the Institute of Politics Thursday, kicking off this semester’s speaker series.
+The event — moderated by Harvard Kennedy School professor Juliette N. Kayyem ’91 — was attended by scores of College students, graduate students, and faculty. Hurd, a former Central Intelligence Agency officer, sharply criticized President Donald Trump’s plan to construct a wall along the border between Mexico and the United States.
+“Building a 40 foot high concrete structure, from sea to shining sea, is the most expensive and least effective way to do border security,” Hurd said.
+He instead proposed that the United States should construct a “smart wall” that utilizes natural elements such as lakes and digital technology to bolster border security. He also called for greater attention to the humanitarian crisis at the southern border.
+“People are still coming because the environments in which they’re living are so terrible,” Hurd said. “And if the United States of America snatches children out of their mothers’ arms as a policy, we need to rethink that.”
+In addition to the crisis at the border, Hurd discussed the threats posed by other countries such as China and Russia. He said he acknowledged the dangers of Russian interference in American elections and was concerned about Chinese intellectual theft, rapid economic expansion, and human rights abuses.
+“China is the next big threat to the United States of America,” Hurd said. “It is no longer guaranteed that the United States can maintain economic or military dominance in the world.”
+Though Hurd was critical of China, he said that the United States is “frenemies” with the country and that its economy is linked to China’s. Hurd also said the United States should work with other countries such as Japan and Vietnam to strengthen trade.
+“The only way to deal with an existential threat like China is to strengthen our alliances,” Hurd said.
+During the conversation, Kayyem said Hurd’s criticisms of the Trump administration put many of his viewpoints at odds with the rest of the Republican party.
+“You don’t sound like what we hear from the party,” Kayyem said. “That’s not the Republican talking points.”
+Hurd responded that the Trump administration’s policies do not reflect his conception of the values of the Republican party.
+Hurd — the only black Republican U.S. representative — announced in August that he will not seek reelection in the next cycle. His imminent departure adds to a wave of resignations from Republican lawmakers as the party seeks to maintain its majority in Congress. Hurd became the sixth House Republican and the third Texan to announce his retirement this summer, though he said Thursday he hopes to help other Republican candidates win seats in Congress.
+“I want to go and help Republicans in primaries,” he said. “Let’s make sure you get a good Republican coming out of the primaries.”
+Law School student William A. Greenlaw ’17, who attended the talk, said he found Hurd’s perspective insightful.
+“I think it was interesting to hear an inside look from the congressman on how he views the current sin of the Republican Party, how he views Congress and his job,” he said. “I find his commentary, although sometimes guarded, potentially more truthful than he would normally be able to say if he were rerunning for Congress.”
+IOP Executive Board Communication Director Grace K. Bannister ’21 said she was enthusiastic about beginning this year’s programming with Hurd.
+“Congressman Hurd was fantastic to have the opportunity to speak to everyone before the forum started,” Bannister said. “I just really think he's very much on the edge of what politics is today and has some great ideas about what is going on.”
+Correction: Sept. 10, 2019
+A previous version of this article misstated Grace K. Bannister's title. 
+—Staff writer Isabel L. Isselbacher can be reached at isabel.isselbacher@thecrimson.com. Follow her on Twitter @IsabelLarkin.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard College’s Advising Programs Office has instructed Peer Advising Fellows to not offer directive academic advice to freshmen and to instead refer students to their freshman advisers — a change some veteran PAFs say limits their ability to help freshmen.
+PAFs are upperclassmen who advise freshmen about life at Harvard. Advising Programs Office Director Anne Marie E. Sousa and Assistant Director Brooks B. Lambert-Sluder ’05, who oversees the PAF program, announced the change to returning PAFs during their pre-semester trainings in May and to new PAFs in August.
+Sousa told PAFs the shift comes in conjunction with plans to pilot more intensive training for freshman advisers, according to Brandon M. Martinez ’20, a PAF.
+Freshman advisers are typically Harvard faculty and staff who meet with freshmen to discuss academics. Some freshman advisers are otherwise unaffiliated with the College — they may work in the University’s other schools. In past years, their varying backgrounds and limited knowledge of the College’s curriculum faced student scrutiny.
+Several of those present at the May training said a contentious question-and-answer period followed Sousa’s announcement. Some PAFs questioned whether academic advisers would be able to provide sufficient guidance to freshmen and said they did not think PAFs gave directive advice.
+College spokesperson Aaron M. Goldman declined to comment on Sousa and Lambert-Sluder’s behalf.
+Martinez said he thinks many PAFs responded negatively to the change because they believe the change had been made without their input.
+“The biggest [concern] was that there would be a net loss for students who, despite the changes that people made to the advising network, wouldn’t have a strong adviser,” he said. “[Sousa and Lambert-Sluder] said that’s valid, and it could happen, but we don’t expect that it will. I don’t think that necessarily satisfied people.”
+Claira Janover ’20, who works as a PAF, said she thinks PAFs previously served as a central resource for freshmen confused by the array of resources available to them.
+“There was a very big pushback from returning PAFs,” she said. “It’s very hard for first years when they don't know anything to not have a streamlined resource, which is supposed to be your PAF.”
+Janover and other PAFs said the APO directed them to point freshmen with academic concerns toward their freshman advisers or individual academic departments. Several PAFs said they worry some advisers may not be as well-equipped as PAFs to answer questions about day-to-day academic concerns.
+Kaitlyn M. Greta ’20, said she believes her fellow PAFs’ experiences as Harvard students may help them advise freshmen better than other advisers.
+“I worry because academic advisers are notoriously not knowledgeable about the nitty-gritty of the academic system in a way that students are because we've gone through it,” she said.
+Despite the pushback, Jenna D. Lang ’21 — a current PAF — said she does not think the change will significantly impact how she interacts with her advisees.
+“I don’t think the advice I’ve given has really changed,” she said. “But I think I’ve added into my little course spiel the importance of getting multiple perspectives, especially because I know that academic advisers have a wide range of experience and knowledge about the curriculum.”
+—Staff writer Shera S. Avi-Yonah can be reached at shera.avi-yonah@thecrimson.com. Follow her on Twitter at @saviyonah.
+—Staff writer Delano R. Franklin can be reached at delano.franklin@thecrimson.com. Follow him on Twitter at @delanofranklin_.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard University Police Department assisted Cambridge police officers as they arrested 12 protesters on trespassing charges at Amazon’s Kendall Square office Thursday evening, according to Cambridge Police Department spokesperson Jeremy Warnick.
+The protest, organized by Jewish activist group Never Again Action, drew hundreds condemning Amazon’s business ties with United States Immigration and Customs Enforcement. The group has organized similar protests around the country aimed at forcing various businesses to sever their ties with ICE.
+Amazon and similar companies have faced criticism due to their business relationships with federal law enforcement agencies like ICE, which are responsible for implementing the Trump administration’s “zero-tolerance” immigration policy.
+Amazon’s public relations office did not immediately respond to a request for comment early Friday morning.
+Warnick wrote in an email Thursday night that both Harvard and MIT police provided “mutual aid” due to the volume of protesters.
+“The mutual aid was primarily due to the volume of people involved in the protest (approximately 300) and the possibility of extended traffic impacts if the protestors continued further into the city,” Warnick wrote in an email.
+HUPD occasionally collaborates with other local police departments to ensure “the most appropriate response” to incidents adjacent to campus, according to its annual security report.
+HUPD spokesperson Steven G. Catalano and MIT’s public affairs office did not immediately respond to requests for comment Thursday night.
+Warnick added that officers attempted to escort the protesters from Amazon’s premises without making arrests.
+“This followed multiple attempts to peacefully escort the protestors outside the Amazon building without having to proceed with making arrests,” Warnick wrote.
+Harvard affiliates were involved in the protest, but it is unclear if any were among those arrested because CPD has yet to release their names and ages. Warnick added that the agency will do so after they book arrested protesters.
+The protestors marched from the New England Holocaust Memorial in Boston to the Kendall Square office, where they crowded in the lobby bearing signs with slogans like “#NoTechForICE.”
+Never Again Action member Blair Nodelman said her group targeted the Amazon location because of the company’s role in supporting ICE’s infrastructure.
+“The reason that we are targeting Amazon in particular is that their software and their capabilities are being pulled to ICE to make it operate quicker and more effectively, in deporting and detaining immigrants and asylum seekers,” Nodelman said.
+—Staff writer Shera S. Avi-Yonah can be reached at shera.avi-yonah@thecrimson.com. Follow her on Twitter at @saviyonah.
+—Staff writer Delano R. Franklin can be reached at delano.franklin@thecrimson.com. Follow him on Twitter at @delanofranklin_.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Defending Ivy League champions Princeton remain the side to beat in the Ancient Eight heading into the 2019 season. With eight starters out of eleving returning, including seven All-Ivy Selections, it’s going to take some doing to dethrone the Tigers. Led by 2018 Ivy League Offensive Player of the Year Kevin O’Toole, Princeton boasts some real firepower up top. Despite these positive signs, the Tigers remain mortal. Last year, Princeton came within inches of choking away their Ivy League title on the last day, as it lost 1-0 to eventually fifth-placed Yale. Cornell’s defeat of Columbia in overtime allowed Princeton to clinch anyway, but the episode showed the extremely open nature of the Ivy League.
+Prediction: 1st (Followed by a first round exit in NCAA Tournament)
+Dartmouth finished third in the Ivy League last season, but its season was marked by stretches of hot and cold. Dartmouth took seven games to record their first victory, but made up for it by immediately going on a seven game win streak. With four All-Ivy selections returning, Dartmouth look good on paper, but are set to face three ranked opponents in their first four games, including opening day at No. 1 Wake Forest. If it can compete during this tough start, the Big Green might give Princeton a real run for its money later on in the season.
+Prediction: 2nd
+Cornell look strong coming into 2019, as four All-Ivy picks return to Ithaca for the upcoming season. While its eleven wins overall in 2018 was the most of any team in the Ivy League, it had its lapses, such as its 1-0 loss to Yale in October. While the Big Red has steadily improved for the last three seasons, it retains five seniors from the 2016 team that went 1-14-2. Although the program’s turnaround has been remarkable overall, this may be the season where continued improvement requires a real step up.
+Prediction: 3rd
+To the untrained eye, Harvard’s 2018 season was a pretty clear disappointment. Its 3-13, 1-6 Ivy League record was far from impressive. But sometimes the record doesn’t tell the whole story. Harvard went toe to toe with nationally ranked programs almost every time it matched up against them. The Crimson dominated the opening 20 minutes against No. 22 UMass in a 2-0 loss in September, while their 4-2 loss vs. No. 24 Cornell in October was a highly back and forth affair. A 3-minute lapse in concentration cost Harvard two goals, and the game, vs No. 5 Denver in a 3-1 loss. While its Ivy League performance was somewhat lackluster, the Crimson beat Yale, who was the only Ivy League team to beat champions Princeton. And despite losing thirteen games, only three of these losses were by more than two goals. Small improvements might make a huge impact for a team which seemed to come so close in almost every game last season.
+Harvard enters the 2019 season with an almost entirely new look and feel from that of last season. With only 13 players returning to the 25 man roster, there is a lot of room for change for the Crimson. The team will undoubtedly suffer from the loss of midfielder Sam Brown, and goalkeeper Matt Freese, who are both trying their luck in the MLS, as well as midfielder Paolo Belloni-Urso, who is taking a year off. To offset these big losses, Harvard has brought in some exciting talent. First-year midfielder Willem Ebbinge of New Zealand may prove to be a huge boost to Harvard’s midfield in the long-term. The Queensland native is the youngest ever player to appear for the Wellington Phoenix, who play in the Australian First Division, and has represented his country at multiple youth levels, including at the U-20 World Cup. The middle of the park will be further bolstered through the return of midfielder Cornelius Bencsik, who also boasts top-division experience, his coming in the Norwegian First Division. Bencsik returns to Harvard for his second season after playing abroad in 2018, and will help to balance out the loss of Brown and Belloni-Urso. Harvard has also added a forward with international experience, as first year Martin Vician joins the front line for Harvard. The Bratislava, Slovakia native spent nine years in the youth academy of SK Slovan Bratislava, Slovakia’s most successful club, in his time before Harvard. He has also represented Slovakia at the U17 and U19 levels. Harvard has brought in eight other first-years, including three goalkeepers, and will have plenty of options to experiment with as the season moves forward. If Harvard can click, it will be able to cause problems for anyone in the Ivy League, and maybe anyone in the country.
+Prediction: 4th
+While Colombia had a strong season last year, coming within inches of stealing the Ivy League title from Princeton on the last day, there is reason to believe that this season will be a different story. Columbia enter 2019 without three-time All-Ivy League goalkeeper and 2018 Ivy League Defensive Player of the Year, Dylan Castanheira. Castanheira makes a case for the Ivy League’s best ever goalkeeper, holding the record for the best career goals against average, (0.513) as well as Columbia’s all-time shutout record (25.) Losing a superstar is always tough, but the loss of a goalkeeper who has led the program for four years might prove to be catastrophic for Columbia.
+Prediction: 5th
+Yale enters 2019 as a huge question mark. While it punched above its weight at times, handing Princeton its only conference loss and downing Cornell, its big wins were offset by big losses, namely to Harvard and Brown. Yale will suffer from the loss of first team All-Ivy midfielder Nicky Downs, although Second Team All-Ivy forward Paolo Carroll will continue to be a menace for opposing defences. Although the program has improved every year in recent memory, Yale’s 7-6-3 overall record was their best since 2011, which isn’t great. Though some signs are there, Yale seems too inconsistent to cause any real trouble.
+Prediction: 6th
+With only two All-Ivy’s returning, Penn look to be in about the same spot it was in last season. The Quakers did not win a conference game in 90 minutes last year, as both of its conference wins came in double overtime. While its strongest asset was its defense, Penn struggled to score when it mattered. Despite this strong defense being bolstered by the return of All-Ivy First Team Alex Touche, the offense doesn’t look like it has improved enough to carry Penn to any significant success in 2019.
+Prediction: 7th
+Coming in last is Brown, whos decent 8-8-1 overall record in 2018 was negated by its poor 2-5-0 Ivy League record. With two All-Ivy selections returning, the Bears might challenge for the middle of the table, but mid-low looks more likely. Their only conference wins in 2018 came against Harvard and Yale, the latter being when both teams were out of tournament contention. While Brown added some talent, it lost their rock in defense, Second Team All-Ivy Gabe Welp, and unless it can make up for this loss, there is a tough season ahead.
+Prediction: 8th
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+Everyone knows that Boston has two seasons: construction and winter. Harvard is no exception. Lowell House is the latest in the effort to renovate undergraduate housing, so (naturally) Flyby had to get the scoop for you. Read on for the lowdown on new Lowell!
+The Basement
+There’s so much new stuff waiting to be explored in the basement of new Lowell that it’s hard to know where to start. Enter through the main gate and go through the door on your right, which is right across from the building manager’s office. You’ll be able to take the stairs down to the basement’s main hangout space and the grill (but it isn’t a true “grille” like Winthrop or Phorzheimer — we’re not really sure why people insist on the confusing name, but we’ll respect the precedent). It has pool tables, couches, bench seating, two TVs, and a kitchen area. It looks cozy enough for a “Bachelor” watch party with homemade cookies or just a night of p-setting with elevated aesthetic surroundings.
+If you head toward the dhall, you’ll run into the screening room, which hosts lectures and movie nights by request. 
+ Keep going (yeah, the hallway goes forever) and you’ll hit the dance studio, squash courts, and gym. For some reason, the two rowing machines inside are facing each other, so you can look straight into your bro’s eyes as you get started on swole season. If you keep wandering around the labyrinth, you’ll walk past the Makerspace, which is home to a 3D printer, drones, and other funky things to explore. There’s also a fully-stocked art studio nearby, for those of you whose version of creativity is less engineering-oriented. Long story short, if you head to the basement, you won’t be disappointed — but you might never leave.
+The Library
+We’re not entirely sure what this thing in the glass case is or why it lives in the library, but it seems to ooze some deeply cursed energy.
+Otherwise, it definitely seems like a cozy place to hole up in once the snow starts falling. It’s also on the second floor, so you’ve got a sweet view of the tutors taking their kids and dogs out to play on the lawn, or students picnicking before Harvard turns into a slushy snow globe.
+The Courtyards
+New Lowell has double the sweet summer views (at least as long as the summer weather lasts here). With not one, but two, courtyards, there’s plenty of space for playing some cornhole on the Lowell-themed boards or maybe just basking in the glow of the belltower. 
+ One of the real stars of the show is the giant bell in the northwest corner of the courtyard right outside the library, a great spot for some un-bell-ievable pictures! Go enjoy the nice grass and warm sunshine while this lovely weather lasts.
+The Dhall
+As much as we loved the Inn’s temporary dhall, new Lowell’s dining area might just have it beat. Golden yellow and decked out with some pretty expensive looking chandeliers, it’s definitely worth a visit. The dhall was basically Lowell’s only common space while the house was under renovation, and became a super popular gathering place for the House and Harvard community in general. Even though there are a few more spaces to hang out in new Lowell, it looks like people are making the Inn proud by still flocking to the dhall in between classes and late at night. Also, shoutout to having matching checkerboard pattern floors with Leverett and Winthrop!
+The Rooms
+The only thing you need to know is that there are adjustable speed ceiling fans. That’s literally it.
+Now that Lowell is somehow a real place and not just a construction site, time to go explore! But maybe bring a friend or some breadcrumbs a la Hansel and Gretel, so you don’t get lost in the basement.

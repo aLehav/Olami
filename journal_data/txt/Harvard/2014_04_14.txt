@@ -1,0 +1,429 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+I’ve been thinking a lot about the suicides that have occurred during my time at Harvard. They challenge everything I think I know. 
+Before Wendy Chang died two years ago, I thought she was happy. Instead, she must have been so unhappy that giving up seemed like the best option. And the fact that Wendy’s life must have been so radically different from the life I assumed she had is deeply frightening. 
+These deaths make me wonder what I don’t know about my friends. They make me realize that people who seem okay might actually be struggling. And they make me aware of how little of our lives we share with one another. 
+Harvard doesn’t always make it easy to talk about ourselves. It’s a place that demands perfection, and as a result, we feel compelled to present perfect versions of ourselves. We don’t talk about what’s really going on. And we get away with that by feigning trivial imperfections, by pretending we didn’t spend enough time on some paper, or telling a friend about the embarrassing thing we said to some boy. 
+But those aren’t real problems. Or at least, they’re not the problems that really matter. And it’s the real problems that we don’t talk about: the things that scare us, the things that make us doubt that we’re good enough to be at Harvard, the things we hide from everyone else and even ourselves.
+We’ve got to stop doing that. We can’t keep buying into the idea that we need to be perfect in order to fit in. Because no one here is perfect. We’ve all struggled. Yet, if we keep those struggles to ourselves, we deny ourselves the chance to give and receive support. We create a culture in which giving up is easier than speaking up. 
+At various points in my life, I’ve struggled with depression and severe anxiety. These issues started at a young age. I remember having to check out of school when I started crying uncontrollably after misspelling the word “address” on a spelling test. I remember being so upset that I threw up when a teacher asked me to stop talking. At age eight, I saw my first therapist. 
+At the time though, things didn’t seem bad. My issues started so young that getting physically sick over a grade was completely normal to me. I actually kind of liked my anxiety. It comforted me because I could rely on it. It never let me misbehave. And it always ensured that I did my work and made an A.
+And for much of my life, I was able to confuse being academically successful with being happy. I knew I had “anxiety” and that, from time to time, I was “depressed,” but I was functional. I was coping. And that seemed like enough. It never occurred to me that things could be different. 
+But when I got to Harvard, I stopped functioning. Without the constant presence of parents checking in on me, my anxiety spun out of control. This time it was not only academic but also social. I grew terrified of being alone. I was certain my friends would just disappear. 
+By the beginning of sophomore year, I was having four or five anxiety attacks a week. Almost nothing in my life felt like it was functioning correctly. I felt incredibly fragile and was certain that the slightest bad thing—a B on a paper, a fight with a friend—would send me over the edge. And, more than anything, I knew, without a doubt, that these feelings would never end. 
+It took my mom getting on a 4 a.m. flight to calm me down from a particularly bad anxiety attack to make me realize that things had to change, whether or not I believed they could. So I started talking to my mom. I started going to therapy. And the more I talked—the more I was forced to deal with my anxiety, to acknowledge that it was not making me successful, but rather miserable—the happier I started to feel. 
+Of course, talking isn’t the only reason things eventually got better. It took me two years, three breakups, a year of anti-anxiety medication, and a lot of tears to get here. But talking is what got me on started on the right path. It opened me up to getting help from others.
+And I can finally say that I’m in a really good place. I don’t have anxiety attacks anymore. I’m in control of my thoughts and feelings. I’m not just functional: I’m happy. 
+I want you to be happy too. And I believe you can be. So I’m sharing this part of my life with you so that you might consider sharing parts of your own lives. I know it’s scary to make yourself vulnerable. I’m personally terrified of writing this article, of the consequences of putting my life out there for anyone with Google to find. But I think it’s worthwhile. And it’s the only way to get and give the support that we all need.  
+I can’t pretend to know why people commit suicide. And I don’t want to make any claims about what will or won’t make you feel better. But I know that if we start talking, we could create a place in which sharing our struggles is an option—a place in which we don’t all have to be so perfect. 
+So let’s start talking. Let’s tell people that we want to listen. And let’s make sure that no one else feels like their only option is giving up. 
+Lanier Walker ’14 is an English concentrator in Currier House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+In his new book “Flash Boys,” Michael Lewis explains how high frequency traders are rigging the American stock market. It was an instantaneous hit; according to Malcolm Gladwell “in the hands of Michael Lewis, anything is possible.” Indeed, Lewis has accomplished the impossible task of mistaking the great financial revolution’s protagonist for its antagonist.
+“Flash Boys” follows Brian Katsuyama, a Canadian trader in New York who has found it harder and harder to trade for his mutual fund clients. He believes high frequency traders and their compliant stock exchanges are “rigging” the stock market. Katsuyama then starts his own exchange, IEX, which promises a “fair playing ground” for investors and shuns high frequency traders.
+The book and its attendant publicity remind me of Ezekiel 25:17, with its Manichaean dualism. In Lewis’s narrative, High Frequency Trading is the evil man, Katsuyama’s mutual fund clients are the righteous and the weak, and Katsuyama’s new exchange is the shepherd that protects the righteous from the evil.
+Spell-binding this may be but true it is not. Michael Lewis depicts the high frequency trading industry as a monopolistic, rent-seeking entity called “Scalpers, Inc.” He talks about a particularly unsavory market practice, “latency arbitrage,” implying that high frequency trading is all about hoodwinking the common folk. In actuality, latency arbitrage is just one of dozens, if not hundreds, of high frequency trading strategies, most of which make it cheaper, not more expensive, for investors to trade. High frequency trading is also neither monopolistic nor large. Michael Lewis places an upper bound estimate of total industry revenue at $22 billion, a rounding error compared to the $1.2 trillion American financial sector. By contrast, the “small investors” in Lewis’s narrative include hedge fund manager David Einhorn, whose personal wealth exceeds the market value of even the largest high frequency trading firm.
+High frequency traders are making relatively little despite their massive market impact; they are the stock market’s new middlemen, and they charge a fraction of what the old middlemen did. If a small investor wanted to buy 100 IBM shares in 1994, he had to pay around $10 in brokerage fees, and at least six dollars in bid-ask spread costs to a specialist on the floor of the New York Stock Exchange. Today, the same trade will cost $1 in bid-ask spread thanks to the tight spread that high frequency traders provide, and the investor may not have to pay commission at all. High frequency traders provide low-cost trading options to small investors by adopting better pricing models and charging more for large orders from large investors. David Einhorn and Katsuyama’s clients might feel indignant that high frequency traders won’t allow them to trade at the same cheap price that the old middlemen provided, but their frustration is merely the indication of a more sophisticated and responsive market.
+Michael Lewis believes that the stock market is rigged because an increasing number of new exchanges have amended their rules to appeal to high frequency traders. Lewis neglects to mention, however, that this healthy competition for high frequency trading volume directly results in a lower trading cost for investors, as the exchanges compete to lower the exchange fees. From this perspective, Katsuyama’s IEX is a retrograde enterprise. His exchange charges traders 18 cents per 100 shares, whereas NYSE and NASDAQ, two of the largest exchanges, charge between four and five cents. This can make trading on IEX more expensive than trading on NYSE and NASDAQ for retail investors.
+Whether or not Katsuyama’s IEX brings value to small investors, he will be an innovator, and innovation is great in the nascent industry of electronic trading. The quality of our markets won’t suffer when innovators like him present alternative, though outdated, ways of doing things. Rather, our markets suffer when a popular writer like Michael Lewis reduces a complex phenomenon into a simplistic morality tale of good versus evil. Those who read his book without prior knowledge will pressure the SEC to adopt rules that will hurt the market and investors. Reality-free regulation has often flopped: Look at the Canadian experiment that made trading harder and more expensive for small investors by levying fees on order flow. 
+I venture to present my own simplistic morality tale: the small investors are the righteous and weak. Bad regulation, encouraged by Lewis’s misinformation, is the evil. And the high frequency traders will lead the righteous through the valley of darkness that is the stock market.
+
+Jonathan Z. Zhou ’14 is an applied mathematics concentrator in Eliot House. His column appears on alternate Mondays.
+
+Jonathan Z. Zhou ’14 is an applied mathematics concentrator in Eliot House. His column appears on alternate Mondays.
+Jonathan Z. Zhou ’14 is an applied mathematics concentrator in Eliot House. His column appears on alternate Mondays.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+The winter snows have finally receded, the temperature has risen from miserable to mildly tolerable, and the earliest salmon-colored shorts can be spotted in the Yard. Spring is here. For many, the season of new life brings a renewed interest in creating new life. In Tennyson’s words, spring is when “a young man’s fancy lightly turns to thoughts of love.” In more modern vernacular, it is a time of conscious coupling. But for those of us spending the season single, there’s an alternative activity where getting to third base is a regular occurrence: baseball.
+Allow me to explain.
+Baseball offers the full range of emotional experience. April in the major leagues, just like the heady first days of love, is full of hope. Old veterans promise career revivals, rookies promise breakout seasons, and everyone is in the best shape of his life. Baseball even offers something for those who have been burned in the past. George Bernard Shaw once said that second marriage was the triumph of hope over experience; the same phenomenon might explain the existence of Cubs fans.
+There is hope, yes, but there is uncertainty as well. As April gives way to May and then June, the specter of doubt begins to cast its shadow over the halcyon days of spring. “Will they”s and “won’t they”s tug at the mind. Will the bullpen hold it together? Will the lineup stay healthy? Are the Mets for real this year? (Maybe, maybe, no.)
+As the adrenaline and dopamine of the initial excitement wear off, the prospect of continued commitment begins to loom large—after all, it’s a 162-game season. But baseball has something for people of all commitment levels, from the relationship-averse to the overly attached. Looking for a cheap hookup devoid of real emotional content? Wait till October and hop on the Bronx playoff bandwagon, along with millions of other “Yankees fans.” Truly committed? Stay true for the whole season, and you may get to experience the euphoria of seeing your team in the World Series.
+Even if your team of choice flounders in the regular season, baseball offers another emotional experience—the anguish of true loss. Few of love’s wounds can match the heartbreak of a called third strike with the bases loaded, or a playoff run that falls one game short. But to paraphrase Tennyson again: ‘Tis better to have loved and lost in the pennant race than never to have loved at all.
+Perhaps we’re getting too far ahead of ourselves. Regardless of the standings or even the team, there is a romance in baseball that isn’t present in the other major American corporate sports. There is a simple aesthetic pleasure to the tantalizing arc of a curveball, the crack of a bat making good contact with a ball, and the low thump as a throw to the plate finds its way into the catcher’s glove. (Freudians can have a field day with that last sentence.) Baseball moments also have a way of sticking in the mind like photographs—as the saying goes, you never really do forget your first inside-the-park home run.
+ 
+So next time you mope about yet another Valentine’s Day spent in solitude, cheer up—Spring Training is just around the corner. While spring’s lovebirds deal with all the messiness of miscommunication and all the foibles of fidelity, you can always tune in to the latest broadcast, 162 days a year—barring rain-outs, of course (and when baseball gives you a rain check, at least it’s actually raining).
+ 
+Springtime may be for lovers, but for the rest of us, there’s baseball.
+ 
+Oliver W. Kim ’16, a Crimson editorial writer, is an economics concentrator living in Leverett House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+Early last week, Brandeis University announced they would be withdrawing Ayaan Hirsi Ali from the pool of honorary degree recipients who will be recognized at the university’s commencement this May. Hirsi Ali, in addition to being a noted activist for women’s rights, is well known for her fierce condemnation of Islam. The decision to rescind her degree came after outrage in both the Brandeis student body and the greater global community over her selection: A petition on Change.org demanding that the Brandeis administration revoke Hirsi Ali’s degree invitation recieved over 6,800 signatures.
+ 
+Given how strongly Hirsi Ali’s global reputation has been linked to her anti-Islamic comments, we find it surprising that Brandeis administrators were not aware of the controversial nature of her work. Since the presentation of an honorary degree is normally seen as praise of the recipient's entire career, Brandeis should have more thoroughly vetted potential candidates to ensure that all of the recipients’ views were in line the university’s values.
+ 
+Further, to claim that the issue is one of free speech—as some members of the media have done—is wholly inaccurate. Rather, by reconsidering its offer, Brandeis has made the right decision to not lend the imprimatur of an honorary degree to a controversial scholar who would likely be an uncomfortable presence for Muslim students at the commencement ceremonies. Regardless of her personal struggles and opinions, Hirsi Ali’s tendency to use hateful rhetoric is not a characteristic that should be condoned by any institute of higher education.
+ 
+It is one thing to condemn certain cultural practices that infringe on women’s rights. Hirsi Ali’s childhood in Somalia—a childhood that was marred by genital mutilation and an attempt at arranged marriage—has given her first-hand experience of the unique difficulties faced by girls in certain parts of the world. But even while acknowledging Hirsi Ali’s experiences, we (and Brandeis) should not disregard her unilateral condemnation of a religion which many people practice peacefully.
+ 
+Brandeis’s decision was appropriate in light of the circumstances, but we especially commend the fact that Brandeis has encouraged continued dialogue on the subject of Hirsi Ali’s work and of Islam. “In the spirit of free expression that has defined Brandeis University throughout its history,” President Frederick Lawrence of Brandeis noted in his statement, Hirsi Ali would be “welcome” at Brandeis to discuss her work in the future. This decision rightly allows controversial opinions to be aired without necessarily promoting them in the way an honorary degree would have.
+ To say that rethinking Hirsi Ali’s honorary degree discourages academic discourse could not be further from the truth. In fact, the push to revoke Hirsi Ali’s degree was organized by students at Brandeis, and we commend these students for opening discussion their school’s administrative choices. Hirsi Ali was still able to deliver her speech via a published op-ed on the Wall Street Journal. Brandeis’s decision shows the power of a united student body demanding that their voices be respected. It shows that a forum for free discussion can exist without compromising the values of a college community. 
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+Recent research by Piero Anversa, a Harvard-affiliated professor and leading figure in cardiovascular science, has come under fire after an article he co-authored was retracted from a major medical journal.
+Anversa's recent work, the subject of an ongoing investigation by Harvard Medical School and Brigham and Women’s Hospital, concerns the regenerative potential of stem cells in the cardiovascular system. That work has resulted in two notable papers, one published in 2012 by the journal Circulation and another published in 2011 by the journal The Lancet.
+In late March, the Medical School notified The Lancet that it was investigating the “integrity of certain data generated in a laboratory at BWH and included in [Anversa’s] paper.” On April 12, editors at The Lancet posted an “expression of concern” regarding the paper on the journal’s website.
+Earlier this month, the American Heart Association retracted Anversa’s 2012 article from Circulation, also citing a Harvard investigation into the article’s central research.
+While Anversa was not the only contributor to either paper, much of the foundational research took place under his watch at Brigham and Women’s Hospital. Generally regarded as a leader in his field, Anversa has received almost $60 million in grants from the National Institutes of Health since 2000.
+“I continue to believe that the data show improved heart performance in most patients who participated in the study,” Anversa wrote in an email to the Boston Globe last week.
+Roberto Bolli, a researcher at the University of Louisville and a named author of the 2011 paper in The Lancet, told the Globe that the questions raised to date do not concern his own research.
+“I am of course as anxious as anyone else to see the results of the ongoing investigation by the BWH,” Bolli wrote in an email to the Globe. “The data in question were generated by Dr. Anversa’s lab independently of us in Louisville; we in Louisville have nothing to do with the issues cited in the Expression of Concern.”
+On their website last week, editors of The Lancet said that they believed that the Medical School had indicated that investigation into Anversa’s research will take a number of months.
+ 
+—Staff writer Matthew Q. Clarida can be reached at matthew.clarida@thecrimson.com. Follow him on Twitter @mattclarida.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+ 
+
+
+UPDATED: April 16, 2014, at 5:22 p.m.
+The Responsible Investment at Harvard Coalition held a rally Friday afternoon on the steps of Widener Library and Massachusetts Hall to protest the University’s management of timber plantations it owns in Argentina. The rally comes after much debate over the plantations, including allegations of mismanagement in the fall and the announcement of the independent recertification of the plantations last week.
+Throughout the afternoon, students and community members chanted, marched, and held signs, which read “Harvard be transparent,” “Faust: no more land grabs,” and “We’re yelling timber, you better move.”
+After several members of the Harvard community, including the Undergraduate Council President and a Harvard alumnus working on the City Council, spoke to the protesters gathered in front of Widener, the group marched to Massachusetts Hall, which houses the University’s central administration and President Drew G. Faust’s office. A delegation from the group entered Massachusetts Hall with a petition containing 1,150 signatures, formally asking Faust to change the University’s management of its plantations.
+The protests were a part of Responsible Investment at Harvard Coalition’s week-long SHAME Tour, which seeks to “stop Harvard’s Argentine mismanagement and exploitation,” according to the organization’s website. As part of the demonstration, the coalition flew two leaders from local communities in Argentina, Adrian Obregon and Emilio Spataro, 4,884 miles to Harvard’s campus.
+Responsible Investment at Harvard is a coalition of students, alumni, faculty, and community members dedicated to changing the way the University manages its investments, according to its website. Members of the coalition argue that Harvard’s unjust practices on the Argentine plantations include devastating local farmers, harming workers, and destroying wetlands.
+According to Responsible Investment at Harvard member Gabriel H. Bayard ’15, the coalition’s three basic demands are that “all new planting [has] to stop until an environmental impact study has been done in a participatory manner, all planting [must] be stopped within two kilometers of populated areas, and the Harvard Management Company [must] oblige by all legally required labor practices.”
+Harvard Management Company has denied those accusations in past memos and statements. And in an April 16 op-ed, HMC’s head of alternative assets, Andrew D. Wiltshire, wrote that claims made by Responsible Investment about the plantations “show a clear pattern of deliberate misrepresentation.” Wiltshire specifically contested claims that the Harvard-owned companies harm workers, the wetlands, or, in any significant way, the environment. He also reiterated that HMC is working with locals to implement recommendations that the Forest Stewardship Council certification process requires.
+UC president Gus A. Mayopoulos ’15 spoke at the rally, voicing his support for the coalition’s efforts. The UC will be hosting a forum on responsible investment with Obregon and Spataro on Tuesday.
+“It is unfortunate, it's sad, and it's embarrassing that Harvard is choosing to fund these efforts by damaging a community," Mayopoulos said.
+Cambridge City Council Member and Harvard Kennedy School graduate Leland Cheung also spoke at the rally.
+"I'm proud to be a Harvard grad, but there's so much that is making me ashamed," Cheung said, citing both the campaign for divestment and the recent unionization movement of DoubleTree hotel employees.
+"It's not enough to try to educate students to go out and change the world when Harvard is going out and damaging the world," he added.
+In addition to the protest, Responsible Investment at Harvard has already hosted several events, including one in New York and an event with the Harvard Kennedy School Progressive Caucus.
+—Staff writer Kristina D. Lorch can be reached at klorch@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+Janelle Monáe’s headlining performance at Yardfest, the College’s annual spring concert, on Sunday addressed diversity at Harvard and elicited praise from students, particularly in the wake of last year’s controversial artist selection.
+Concertgoers characterized Monáe as a significantly less polarizing choice than last year’s selection of the rap artist Tyga, whose lyrics were slammed by some students as misogynistic and whose performance sparked an alternative concert option for students.
+Yardfest attendee Elizabeth K. Leimkuhler ’15 called the Grammy-nominated American R&B and soul musician “the hottest woman in the game right now,” adding that she believes Monáe was “the greatest choice for Yardfest because she’s completely uncontroversial, and her music inspires dancing and great feelings.”
+The student bands Semi-Serious and Hot Breakfast took the stage to open for Monáe, playing a medley of original songs and popular covers. Michael J. Senter-Zapata ’14, a member of Hot Breakfast, said his group’s performance was “everything we could have hoped for,” and multiple members of the band noted that the crowd appeared more energized and more engaged in the performances than last year’s attendees did.
+Lowell House Co-Master Diana L. Eck, who attended the concert with Co-Master Dorothy A. Austin, also commented on the large size of the crowd and described the atmosphere as “fabulous.”
+“Everybody’s having a great time,” Eck said.
+Monáe first entered the stage dressed as “Patient 57821,” wearing a strait-jacket that she danced out of during the beginning of her performance. After several songs, she addressed the crowd to acknowledge that some students may have been wondering, “Who is Janelle Monáe?”
+“I am here to answer your question,” she said, stating that she considers herself an advocate for equality for all, regardless of one’s gender, sexual orientation, or ethnicity.
+In an interview after the show, Monáe said that she feels she can relate to the recent “I, Too, Am Harvard” movement and supports the type of dialogue it encourages.
+“When I got into the music industry, there were not a lot of African-American girls wearing tuxedos [and] rocking natural hair on a mainstream level,” Monáe said. “I was not status quo, and I can relate to the students here who come, and they may be the minority.”
+She also described Sunday’s show as “electric” and “memorable,” adding that she appreciated the opportunity to present herself as a unique artist.
+ 
+“I know you guys have other artists who come that may not be in the same vein as me,” she said. “I took that as an opportunity to share my story and to get people familiar with my message and what I’m about as a human being and as a woman, and as a daughter, and as a sister, and as a black woman, and as an artist who’s redefining what it means to be an artist,” she said.
+Alexandra S. Grimm ’17 said that she enjoyed seeing both the student bands and Monáe, and said that Monáe was a “great dancer and entertainer.”
+ 
+“This is my first [Yardfest], and it’s been a really good experience,” she said.
+Students already familiar with Monáe’s work said that they have enjoyed following her success.
+ 
+“It’s really amazing to see her rise to fame,” concert attendee Omolade O. Sogade ’16 said. “I think I first heard about her with Fun., but seeing her have her own album is really inspiring and awesome.”
+—Staff writer Nikki D. Erlick can be reached at nikki.erlick@thecrimson.com. Follow her on Twitter @nikkierlick.
+—Staff writer Brianna D. MacGregor can be reached at brianna.macgregor@thecrimson.com. Follow her on Twitter @bdmacgregor.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+Students danced, sang, and performed spoken word during the annual Faces of Africa show in Lowell Lecture Hall on Friday.
+The event, which was organized by the Harvard African Students Association, marked the conclusion of Africa Week, a week-long celebration of African culture.
+The theme for Faces of Africa this year, “Living History,” evoked an attempt to “reimagine and reinterpret what African history means to us,” said Princess Daisy M.A. Akita ’15, president of the Harvard African Students Association. She emphasized the significance of the event in furthering the conversation on Africa at Harvard.
+Throughout the night, hosts Chisom M. Okpala ’15 and Olumakinde A. Ogunnaike ’17 kept the energy levels high, and the room often filled with laughter.
+“That was one of the best nights of my time at Harvard,” Okpala said. “There were so many good performances, and people really went in to have fun and learn more about Africa.”
+The event revolved around a competition between nine undergraduates representing various regions of Africa, who vied for the “Face of Africa” title. The contestants individually displayed their talents and then participated in a question-and-answer session in front of a panel of three judges, who provided feedback and determined the winners.
+Udodiri R. Okwandu ’17 and E. Steve Moundou-Missi ’15 were named the winners of the competition. Okwandu ’17 shared a spoken word piece with the audience on her hair, and how her mother taught her to embrace it and love it as part of her African heritage.
+Moundou-Missi also spoke about the importance of family during the question-and-answer session, when he said that his greatest accomplishment is making his parents proud.
+Student groups like the Tufts African Dance Collective and PADAME, the Harvard Pan-African Dance and Music Ensemble, also performed during the event.
+Other students individually recited excerpts from pieces such as “How to Write About Africa” by Binyavanga Wainaina and “Long Walk to Freedom” by Nelson Mandela.
+Moundou-Missi said that he felt the Faces of Africa event brought the Harvard African community together and allowed him to reflect on what it means to be African.
+“I think it’s a way for us to get together and to learn from each other,” he said.
+Raynor J. Kuang ’17, one of the audience members brought onstage to dance during an interactive portion of the show, said that everyone who performed during the show did a great job.
+ 
+—Staff writer Yasmin Moreno can be reached at ymoreno@college.harvard.edu.
+ 
+ 
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+As the spring racing season gets underway, both the Harvard men’s heavyweight and lightweight crews posted strong showings this weekend against local and Ivy League competitors.  The No. 1 heavyweights travelled to the Seekonk River on Saturday to challenge Brown in the Stein Cup, capturing the first varsity race but falling to the Bears in the second varsity race by a close margin.  The No. 4 lightweights defeated MIT and Dartmouth at home on the Charles River on Saturday to win the Biglin Bowl.
+HEAVYWEIGHTS
+The Harvard heavyweights captured their fourth-straight Stein Cup on Saturday despite some tough competition from the Bears. The Crimson’s first varsity boat defeated Brown in the championship race, posting a time of 5:46.3, almost five seconds ahead of the Bears.
+“Coming off a long winter’s training, the whole squad [was] in great shape physically for [Saturday’s] race with Brown,” captain Andrew Holmes said. “Today was our second race of the season, coming off a good first race against Cornell. There are still improvements to be made, but I feel that the whole team has had a strong start to the season.”
+The 2V race was the closest of the morning, with Brown edging out the Crimson by less than a second.  In the freshman eight, Harvard dominated the Bears, finishing in 6:02.6 with a 5.9-second margin of victory.
+“Against Brown, every boat races really hard and showed good speed,” Holmes said. “The standout performances came from the freshman eight and the second Varsity boats. Both boats showed that they were capable of going fast in the last quarter of a high-paced race, which is a great sign for the next few races in the season.”
+Harvard fell to Brown in the third varsity, fourth varsity and second freshman races, but the winning races were promising for the Crimson heavyweights.
+“Going into this race we just wanted to have a solid performance and focus on our own rowing and not worry too much about anything else,” Holmes said. “The team is really benefiting from the younger classes, especially the juniors and sophomores. In terms of their work ethic and focus, they are really pushing the limits and raising the bar for the rest of the team.”
+LIGHTWEIGHTS
+The Harvard lightweights bested competition on Saturday, sweeping all four races in the morning.  The Crimson first varsity boat had strong results against MIT and Dartmouth, securing the Biglin Bowl for the sixth-straight year, and 51st time overall.
+“It was a good progression, a good improvement on last weekend,” captain Alexander Bonorris said. “Obviously we were hungry, we wanted an opportunity to show we’re making improvements week to week and I think we did that today.”
+The first varsity posted a time of 6:18.0, finishing with an open-water lead over second-place finisher MIT and third-place finisher Dartmouth.
+“I thought this weekend went really well,” Bonorris said. “It was sweet. The 1V won with a four-second margin on MIT, and MIT beat Dartmouth by a few seconds, so we got clear water, which is good.”
+The freshman eight competed in the second varsity race, posting a 5.1-second lead over their Crimson teammates and more than a 10-second lead on the Big Green crew, showing the strength of the young Harvard rowers and the bright future of the heavyweight program.
+“The freshmen raced the second varsity, and they did really well,” Bonorris said. “It’s always nice to see a competitive inter-squad race like that.”
+The Crimson third varsity boat finished in 6:40.3, posting nearly a 20-second lead over Dartmouth and an even greater one over the Engineers.  The second freshman boat raced as two fours, with the Harvard 'B' crew finishing in 7:52.9, the Harvard 'A' crew posting a time of 8:10.6, and the Dartmouth 4V crossing the line in 8:15.3.
+“The crew is also happy with the step we made,” Bonorris said. “It’s always good to race hard and do well on your own course, so we were really happy with that.”
+With the fast start to their season, the Harvard lightweights are looking forward to continued improvement and tough competition down the line.
+“We saw some more results today from other teams in the league,” Bonorris said. “It’s very clear that the competition is really tight this year, really strong. I’d say it’s anybody’s race, anybody’s season. It’s exciting, we’ve got a lot of youth in our boat, and each week we’re getting a lot better. We’re making the improvements to prove that we can be a championship crew in the weeks to come.”
+—Staff writer Alexa N. Gellman can be reached at agellman@college.harvard.edu.
+—Staff writer Tanner Skenderian can be reached at tskenderian@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The Harvard men’s volleyball team (15-7, 11-3 EIVA) closed out its regular season this weekend with wins over NJIT (9-16, 2-10) and Rutgers-Newark (9-15, 1-11). The victories clinch the No. 2 seed for the Crimson in the EIVA postseason tournament, which begins in two weeks.
+Despite playing the bottom two opponents in the EIVA, Harvard won neither game as smoothly as expected. Both matches went to four sets, and the Crimson collectively suffered a dip in form. Sophomore outside hitter Branden Clemens said that the weekend was a wake-up call for the team as it heads into postseason preparation.
+“[The weekend] was kind of a reality check,” Clemens said. “We can’t take any team lightly and we can’t take any point lightly because we always need to be focused and pumped up for every point, no matter who is on the other side of the net.”
+HARVARD 3, RUTGERS-NEWARK 1
+Rutgers-Newark has only won one conference game this season but came out swinging on Saturday afternoon, stunning the Crimson by taking the first set. The Scarlet Raiders led throughout the set, spearheaded by freshman phenom Jose Mendez, who led both teams with 17 kills on the day. Harvard managed to keep it close early on, but with the score at 22-21 in its opponent’s favor, errors cost the Crimson dearly. Freshman Casey White had two attack errors at the wrong time, and the underdogs clinched the first set.
+“We struggled a little bit on Saturday,” co-captain Nick Madden said. “We should not have dropped a game to them.”
+Harvard was still not playing the volleyball it was accustomed to through the next two sets. The Crimson hit only .176 in the second and .286 in the third, unable to get into the rhythm which has defined the team at its best.
+Ultimately, when it came down to the wire in each set, the Crimson prevailed. Tied at 22 in the second, two clutch kills by Clemens tied the match at one set apiece. The third was even tighter, going all the way to 25-25 before Harvard’s offensive stalwarts, Caleb Zimmick and DJ White, spiked a kill apiece to put the Crimson within one of victory.
+The fourth game was when Harvard finally separated itself from its opponents, putting the home team away and clinching the match.
+“It took us a little while to figure out our attack and our defense,” Madden said. “When we figured it out in that fourth game, we just rolled over them. It took us a while but we put it together.”
+The offense jumped up a gear in the fourth—hitting .448—and the defense held the Scarlet Raiders to an anemic .061. Accordingly, the Crimson ran away to win it, 25-15. Co-captain Chris Gibbons had a strong performance on the day, notching 20 digs amidst what was overall an average Harvard performance.
+HARVARD 3, NJIT 1
+NJIT was yet another team that the Crimson would have expected to blow by, but that was not the case on Friday evening.
+Harvard hit well throughout the match, including a strong performance by DJ White, who hit 16 kills at an efficient .500 clip.
+However, a lack of energy on the defensive side of the net proved to be an early equalizer, with the Highlanders able to hang with Harvard’s high-flying offense.
+“[Against NJIT] we started off slow,” Clemens said. “We realized that we needed to get things together.”
+The teams traded the first two sets, with the Crimson claiming the first and NJIT grabbing the second. According to Madden, the Highlanders were initially playing at a high level—but once Harvard cracked the code, the dynamic of the match shifted.
+“We had a couple of lapses, we dropped one game, [and] they were planning really well,” Madden said. “They were passing really well but as soon as we started stopping them on defense, we started pulling ahead.”
+The third and fourth sets were not close. NJIT hit at a .421 clip in the opening two games before regressing to only .153 in the latter two. The Crimson was led on both sides of the net by Madden. The senior put together 17 kills to go along with 10 digs, leading both teams in these categories for his eighth career double-double.
+Under Madden’s leadership, Harvard closed out the match, 25-19, 25-19. However, all in all, the weekend’s performance was one that the Crimson will look to improve on going into postseason play.
+“Overall this weekend wasn’t our best volleyball,” Clemens said. “We are definitely better than how we performed.”
+—Staff writer Julian Ryan can be reached at jryan01@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The postseason fate of the Harvard women’s water polo team is out of its hands, as the team dropped two out of three games this weekend at the Collegiate Water Polo Association (CWPA) Southern Championships.
+On Saturday at Blodgett Pool, the Crimson (14-18, 3-3 CWPA South) won its first round game against George Washington, 12-3, before falling to No. 9 Princeton, 14-3, in the division semifinal. On Sunday, Bucknell beat Harvard, 9-6, in the third-place consolation match.
+The Crimson still has the opportunity to play past this weekend’s matchups. The team will learn on Monday whether it will finish with a high enough seed within its conference to compete at the CWPA Eastern Championships, which will be held at Bucknell on April 25-27.
+“This weekend’s games didn’t go as well as we were hoping considering we lost two of the three games,” Balding said. “We wanted to go 3-0 and get that first place seed for Easterns, but hopefully these weren’t our last games, and in two more weekends we can come out and do better.”
+Bucknell 9, Harvard 6
+In the second matchup between the two teams this season, the Bison (12-12, 3-2) once again came out victorious and took away the Crimson’s hopes of an automatic bid to the CWPA Eastern Championships.
+The game was close throughout, with neither team ever leading by more than three goals. The first quarter of the game showcased each team’s defense. Bucknell came out of the first eight minutes with one goal, while Harvard was able to muster two past senior Bison goaltender Rena Heim, who made 7 saves.
+Each defense proved itself in the second quarter of play as well, as the score was knotted at three going into halftime. The Crimson saw its offense in the first half come from sophomore attacker Yoshi Andersen, who had two of Harvard first three goals, and senior Jelena Cyr who added one.
+Andersen led the team’s scoring on the day after registering another goal in the second half of play.
+Bucknell’s offense went on a run late in the game to seal the win, with three goals coming in the fourth quarter. A goal from co-captain Shayna Price with 15 seconds remaining in the game could not save Harvard, and as time expired, the team saw its season slip away.
+“It was a battle,” freshman attacker Melissa Balding said. “We fought really hard and even though we didn’t execute in all phases of the game, there were a lot of things we did well.”
+Princeton 13, Harvard 4 
+Facing off against the No. 9 team in the country for the third time this season, the Crimson could not pull off the upset in its first loss of the weekend.
+The Tigers (28-1, 5-0), the top ranked team in the CWPA South, jumped out to an early lead by scoring five unanswered goals in the first quarter.
+Harvard’s offense could not match the speed and physicality of Princeton’s attack. The Tigers’ lead grew to 7-0 before the Crimson could put a goal past their keeper.
+“Princeton played really well,” Harvard coach Ted Minnis said. “They scored more goals than we did, which is the bottom line. We saw them last weekend but, I don’t know how much of a difference a week of preparation is going to make.”
+The Crimson went on to score two more goals throughout the remainder of the game but was outmatched by Princeton’s addition six scoring drives.
+Junior co-captain Ariel Dukes saved five shots.
+Harvard 12, George Washington 3 
+The opening game of the weekend proved to be the Crimson’s lone win of the two day tournament.
+Harvard’s offense started early against the Colonials (12-15, 2-3), rallying together to establish a four-goal lead in the first eight minutes of play. Strikes from freshman attacker Michelle Martinelli and Price added on to the Crimson’s lead, making the score 6-2 going into the half.
+The scoring was spread out for Harvard, with sophomore Charlotte Hendrix, Balding, freshman Zoe Osborne, and Cyr tallying two goals. Martinelli and classmate Jillian Dukes each had one goal, along with juniors Kalina Grabb and Victoria Frager.
+Despite the team’s success against George Washington, the two losses this weekend put the Crimson in a precarious position. Minnis hopes his players will have another opportunity to prove themselves in 2014.
+“This team fought the whole time,” Minnis said. “They were a great group of girls to work with and it was a joy coaching them…. We are going to hope and pray that we get in tomorrow.”
+—Staff writer Ariel Smolik-Valles can be reached at asmolikvalles@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+After losing the first tilt of each doubleheader on Saturday and Sunday, the Harvard baseball team responded with a lopsided inning in both rubber games to even the series.
+Playing against Brown (8-17, 2-10 Ivy) in a doubleheader at O’Donnell Field, the Crimson (8-20, 3-7 Ivy) exploded with a six-hit, seven-run seventh inning on Saturday and a seven-hit, eight-run first frame on Sunday to split the weekend’s games.
+But despite these breakout innings, Harvard’s offense often struggled throughout the weekend. The team could not get the bats going in the first and third games and fell by a one-run margin in each.
+“From an offensive standpoint, we had some runners in scoring position and it’s our responsibility, whoever is in that batter’s box, to produce,” Crimson coach Bill Decker said.
+HARVARD 13, BROWN 3
+After failing to score in Sunday’s opening game, the Crimson wasted no time putting runs on the board by batting around to open the second contest.
+In the first inning, singles by co-captain infielder Kyle Larrow and junior outfielder Mike Martin set up a three-run home run from junior outfielder Brandon Kregel. A series of walks and singles continued the rally and Harvard seized an 8-0 lead after the first.
+The Crimson scattered runs throughout the game to build on this early lead, while senior pitcher Daniel Moskovits and a trio of Harvard relievers held the Bears to only three runs.
+Despite surrendering a two-run home run to Brown’s senior outfielder Daniel Massey in the seventh, Moskovits notched seven strikeouts over six-and-one-third innings to record his first win of the season. The senior has posted a 1.53 ERA so far this year.
+The first two hitters in the lineup for the Crimson, senior utilityman Carlton Bailey and Larrow, combined for six hits and four runs on the afternoon.
+Two doubles off the bat of junior co-captain catcher Ethan Ferreira in the fifth and seventh innings capped off the Harvard offense, which totaled 16 hits in the victory.
+BROWN 1, HARVARD 0
+In a pitching duel that came down to the final at-bat, Bears junior Dave St. Lawrence edged out Crimson freshman Nick Gruener to notch Brown’s second win of the weekend.
+Two leadoff singles in the seventh inning gave the Bears its first scoring opportunity of the game. Brown wasted no time as junior outfielder Will Marcal hit a single to left to knock in what proved to be the decisive run.
+After surrendering a hit in the first, Gruener threw five hitless innings and struck out six to keep Harvard locked in a 0-0 tie with the Bears.
+But a lifeless Crimson offense, which managed just four hits off St. Lawrence, spoiled Gruener’s efforts.
+HARVARD 10, BROWN 8
+Facing a four-run deficit in the seventh inning, the top of the order came to bat for the Crimson. After the first three hitters loaded the bases, an RBI single by Kregel and a two-RBI double by Ferreira cleared the bases to bring Harvard within one.
+After going 0-for-4 in the first game, Ferreira went 3-for-5 with three RBIs in the latter contest.
+“We decided to stay with [Ferreira] in the second game,” Decker said. “He’s an upperclassmen, and he’s one of our captains, so we decided to give him a chance. He relaxed and refocused himself and worried about the moment. He came up big for us.”
+After the Bears’ second pitching change of the inning, the Crimson reloaded the bases with an infield single that trickled up the third-base line. Junior first baseman Nick Saathoff brought home two with a single to left that put Harvard back on top, 8-7.
+Bailey closed out the seven-run seventh with a two-RBI double to right to give Harvard a 10-7 lead.
+The Crimson seized a 3-1 advantage early in the game, but Brown battled back by belting four home runs off junior pitcher Matt Timoney.
+After Harvard retook the lead in the seventh, senior pitcher Sam Dodge came in and notched a two-inning save to give the Crimson its first win of the weekend.
+BROWN 5, HARVARD 4
+The Crimson had the potential winning run only 90 feet away in the bottom of the seventh, but ultimately the team could not convert.
+Down to its final out, two singles by Bailey and Larrow set Harvard up for some late-inning heroics. Martin, who already had a pair of hits in the game, hit a towering fly ball that was misplayed by the Brown right fielder to score Bailey and tie the game at four.
+“All we needed was baserunners to get back in the game,” Martin said. “We didn’t need to do it all with one swing. We got clutch two-out hits, which is what we’ve really, really been struggling on all year.”
+But Kregel struck out to strand the runners at second and third.
+Harvard could not maintain its early 3-0 lead, as sophomore pitcher Sean Poppen surrendered five hits and four runs in the fifth inning. Poppen gave up just one hit and struck out seven in five other innings of work.
+After the Crimson pushed the game to extras, senior Zack Olson replaced Poppen on the mound. Despite loading the bases, he managed to give up just a lone run on a sacrifice fly by Massey.
+This run proved enough, however, as the Crimson went down quietly in the home half of the eighth to lose a tight opening game of the series, 5-4.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+It was a weekend of Ivy League competition and local opponents for the No. 14 Radcliffe women’s heavyweight crew, as the team competed on both Saturday and Sunday.
+On Saturday morning, the Black and White faced tough opposition and lost to Ancient Eight rivals Princeton and Cornell in the Class of 1975 Cup. Then, on Sunday, Radcliffe rowed to victory against Northeastern and Boston University in the Beanpot Regatta.
+RADCLIFFE VS. BOSTON UNIVERSITY/NORTHEASTERN
+On the heels of Saturday’s races, the Black and White got set to take on local Boston opponents in the Beanpot Regatta on Sunday.
+“Today’s race was important because it’s out of conference,” said sophomore four seat Lauren Tracey. “These out-of-conference races help rank us in the NCAA and help us get to the tournament.”
+The regatta against the Huskies and Terriers was held in the familiar waters of the Charles River, and the Radcliffe women looked right at home as they swept the competition away, winning all five of the day’s events.
+In the varsity eight race, the Black and White finished with a 6:50.6 mark that put them well ahead of Northeastern (7:01.6) and BU (7:09.3).
+“We had a big move around the 1000 meter mark,” junior stroke Eliza Flint said. “Once you’re out ahead by that much, you can just keep going. Mentally, you’ve sort of overcome all the other boats.”
+The Radcliffe crew picked up some hardware with the win, as the successes of the crews secured the Beanpot Trophy, the Rowlands Trophy (Radcliffe vs. Northeastern), and the Allen-DeWolfe Trophy (Radcliffe vs. BU).
+“It’s always nice to win; can’t deny that,” Tracey said. “It was definitely a good race too. Across the board, I think everyone’s happy with their races.”
+The other two varsity eight races ended with similar outcomes. In the second race, the Black and White left the Huskies (7:07.6) and the Terriers (7:23.7) more than 10 seconds behind, crossing in 6:56.0.
+Radcliffe had two boats in the third varsity eight event. The first squad came in with a time of 7:13.9 to beat out Northeastern (7:17.2), and the B squad followed behind at 7:32.0, leaving BU to finish fourth at 7:52.5.
+Solid performances by the varsity four boats rounded out the clean sweep for the Black and White. In the first race, the Radcliffe crew took 7:38.0 to finish, putting it nine seconds ahead of the second-place Huskies.
+The second varsity four run saw the Black and White race past the Terriers, as its time of 7:42.8 was more than 25 seconds faster than the 8:08.6 put up by BU.
+“It was just get out there, get ahead, and do the best we possibly can,” Flint said. “And I think we did that. It’s definitely a step in the right direction. Great progress.”
+RADCLIFFE VS. PRINCETON/CORNELL
+In the 38th Class of 1975 Cup, Radcliffe played host to conference opponents Princeton and Cornell on Saturday morning. The Black and White came into the contest as defending champions, having edged out the Tigers last year in Ithaca to notch their 12th title in the showdown.
+“For the Ivies, it’s nice to see where we are within our own league,” Tracey said. “These races count towards where we’re ranked in the Ivy League and how we’re ranked going into the final Ivy Tournament.”
+The Radcliffe squad hoped to mimic that performance this time around as it competed at home, but the day would yield mixed results for the Black and White.
+In the day’s marquee matchup between the three schools’ varsity eight boats, the Radcliffe crew’s time of 6:57.2 was not enough to carry it to victory. The Black and White were outshined by Princeton’s 6:47.7 finish, and the team crossed just a few seats behind the Big Red boat which came in at 6:54.6.
+“We weren’t in that solid base, and we sort of lost it,” Flint said. “Everyone was trying so hard, and we were all fighting. But unfortunately we were all fighting against each other to fix it.”
+Other events fared better for Radcliffe. In the first varsity four, the Black and White crossed in 7:47.9 to down Princeton and Cornell with almost seven seconds to spare.
+The second varsity four race ended in similar fashion. The Radcliffe boat matched the first varsity four’s time exactly at 7:47.9, and the Tigers (7:52.8), the Big Red (8:08.6), and Princeton C (8:33.2) followed behind.
+“Those fours are such strong, competitive, phenomenal rowers in those boats,” Flint said. “They’re all kind of at the same level, and they’re just such strong, strong athletes. It’s a huge credit to them to come out on top.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+ 
+ ’Twas the night of Yardfest, and the clock had just struck 5:30 p.m. when the crowd of students began to really thicken around the HUDS buffet. The sun beamed through the clouds, and it was just beginning to feel like the promised 66 degrees. Groups of ever more intoxicated and adventurous students formed a bobbing crowd in front of the stage while Semi-Serious played their set. Here are a few gems overheard during evening of riotous revelry.
+From the line of people attempting to get ahold of freshly-made HUDS pulled chicken:“You watching your figure? Are you on a diet? Why are you only eating salad?!" asked a guy in a red bro tank, accusingly. His friend, the salad-eater in question who was wearing a blue bro tank, mumbled something about ladies liking men who can hold their greens down.This conversation dug deep into the topic of body image in today’s society.
+Elsewhere, a conversation was getting conspiratorial:“Do you think that Battle of the Bands competitions were invented for movie plots? Like, how often do you say, ‘It’s Friday night, let’s go to a Battle of the Bands!’”Yet another Hollywood construct meant to create unrealistic expectations for young people, no doubt. Also, good question.
+A different conversation was distinctly less full of intrigue:“I love selfies. And, I mean that in the most heteronormative way possible.” Shrieks of laughter from his fellow students.This doesn't make sense, and I mean that in the most confused way possible.
+As Hot Breakfast took over the stage from Semi-Serious:Cries of “Flamingo!” echoed across the mob in front of the stage as someone brought out a bird and waved it above his head.Everyone was bringing out their inner party animal. Literally.
+As Janelle Monáe entered the stage with her band:“I love you Janelle!”  (overheard more times than could be counted).It seems like we all know who Janelle Monáe is now.
+As the post-concert student body heaved a booze-reeking sigh of contentment:“She was great! I think this year’s was bigger than Tigger,” one man said to the person walking next to him. “I think it’s pronounced Tegaire,” responded the other.Yes, we’d hope that Janelle would be better than an overzealous bouncing tiger.
+And, with that, Yardfest 2014 came to a close.
+Want more? Like Flyby on Facebook and follow us on Twitter @crimsonflyby!
+Sections
+So everyone’s still obsessed with 2048, right? Even once you think you've won, the even more elusive 4096 keeps you playing playing. We've made our very own Harvard version of the game which includes some of the people we see every day.
+So next time you’re bored in class or need a diversion while studying, procrastinate while also burning these important people’s faces into your brain. Sorry for all the hours you're about to lose!
+Want more? Like Flyby on Facebook and follow us on Twitter @crimsonflyby!
+Sections
+ 
+ Happy Monday, Harvard!
+We hope you had an excellent weekend, and a fabulous time at Yardfest. Semi-Serious, Hot Breakfast, and most of all, the incredible Janelle Monáe absolutely rocked it (in our objective opinion), and hopefully that put all of you in a great mood for the upcoming week.
+ IN THE ATMOSPHEREToday’s high is 77 degrees! There’s a 10% chance of rain, and it’ll probably be windy, but any of that matter? It’ll be 77 degrees!
+IN THE D-HALLSLunch:Maple and Chipotle ChickenPork Sausage Sub with Peppers and OnionsAfrican Jollof Rice with Seitan
+Dinner:Roast Turkey BreastFive Cheese Tortellini with Spinach and MushroomVegetable Dumplings
+ON FLYBY1) #Beef for Hot Breakfast: Read all about one of the Yardfest openers, a student band who could maybe just be called Hot.2) Yardfest Opener Semi-Serious Wants You To Know That They Do Not Run A Drug Cartel: Title says it all.3) What Your Concentration Says About You: Freshman, read up. With all the advising events happening this time of year, know that you’re not only picking a concentration, but a reputation.
+IN THE NEWS1) Students Praise Monáe’s Yardfest Performance. Tyga who?2) Students Rally Against Harvard’s Management of Timber Plantations in Argentina. The Responsible Investment at Harvard Coalition held a rally Friday afternoon to protest the University’s management of timber plantations due to allegations of mismanagement in the fall and the announcement of the recertification of the plantations last week.3) Study by Harvard-Affiliated Heart Researcher Retracted from Scientific Journal. Recent research by Piero Anversa, a Harvard-affiliated professor and leading figure in cardiovascular science, has come under fire after an article he co-authored was retracted from a major medical journal.
+EVENTSStop by the JFK Jr. Forum at the Institute of Politics at 6 p.m. tonight for A Conversation with Mike Huckabee, former governor of Arkansas and Republican presidential candidate.
+The 20th Annual Celebration of Black Women Gala, hosted annually by the Harvard Black Men’s Forum, is tonight at 7 p.m. in the Gutman Conference Center. They will be honoring Janelle Monáe, as well as prominent female student leaders on campus.
+PHOTO OF THE DAYJanelle Monáe is absolute perfection during her Yardfest performance, which was organized by the College Events Board.
+ 
+Sections
+ 
+Embracing all social media options of the twenty-first century, we will now be posting photos to our newly created Flyby Instagram account! Follow us at @crimsonflyby for real time photo updates of Harvard happenings. Stay plugged in to campus scenes, events, and people on the go with everyone’s favorite app.
+ Use #crimsonflyby on insta photos of campus and Harvard-related functions you think the world needs to see, and we’ll repost our favorites.
+ Keep on ‘gramming… we know we will!

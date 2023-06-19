@@ -1,0 +1,219 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Halfway through last semester, I had a freak injury and wound up in the emergency room. It was my first time living away from home, my first time living on campus, and I was experiencing intense pain under my rib cage, which would tighten and spasm whenever I moved. The pain had developed without a clear cause, so I waited for three days before my friends — observing that I, contrary to my repeated assurances, was not fine — finally dragged me to a hospital.
+Three months later, I’m physically healed: with the help of Harvard University Health Services’ Sports Medicine Department, I was able to fully breathe again two weeks after the onset of the pain, and I’ve (thankfully) retained all of my organs. These days, the experience has become a dinner-table anecdote, a quirky story that I reference and laugh about whenever the conversation shifts to the universal bizarreness of freshman fall.
+But while greater distance from the situation has allowed me to approach it with more levity, it has also given me time to reflect on the parts of the story that I don’t often share. Like the fact that I broke a mug because I dropped it on the floor when the pain got too intense, but still was reluctant to ask for help; or the way that I, typically a stoic person, called my parents hysterically because I was so nervous about seeking medical attention. They say everything is clearer in retrospect, and I see it in this case too: I was in pain, but I was more worried about causing a disturbance than getting the help I needed. Somehow, I’ve learned to equate the idea of asking for attention when I'm hurting with being bad — something that I should be ashamed of, and that I should avoid doing at all costs until I find myself halfway over the edge.
+I wish I were the only one with this problem, but I know without question that I am not. It’s endemic to a society where young girls, especially girls of color, are taught that they should aspire to be likeable above all else, which includes not “causing problems” even in the face of direct threats to our well-being. Part of this is a survival instinct — like the calculated angle of our gazes and the stillness of our bodies when being catcalled at the bus stop — and part of it is the knowledge that if we do advocate for ourselves, we may just be dismissed as “hysterical” or receive lower-quality care along standards that were not created with us in mind. So we learn to hold our tongues, to bargain with self-denial, to convince ourselves that we can bear just a little more pain, a little more weight before we need to cause a disturbance.
+But when is enough, enough? When will we stop punishing ourselves for being in pain? When will we learn that the choice between being bad and dying shouldn’t be a choice we have to make at all?
+By no means do I intend to characterize women as passive victims. I’m surrounded by strong female figures, young and old, who will fight to support one another in causes ranging from the personal to the political. But it’s possible to be a fearless defender of your community and to simultaneously find it difficult to play offense for your own needs. We all have blind spots when it comes to ourselves.
+Last semester, I came back from the emergency room at 4 a.m., then spent the rest of the day finishing a problem set and an essay that were both due the next day. It didn’t occur to me to ask for an extension. Or maybe it did — but I decided that I’d rather just deal with it than bother my professors. I write this not because I am proud of my persistence, but because I am ashamed of my silence. There are some who may view this stubborn self-sufficiency as a model, but I know now that it’s an extension of something more pernicious: A socially-ingrained tendency to be too good, to equate taking up space with being bad.
+So this semester, I need to get good at being bad like my life depends on it. Because maybe, someday, it will.
+Eleanor V. Wikstrom ’24 is a Crimson Editorial comp director.
+Have a suggestion, question, or concern for The Crimson Editorial Board? Click here.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+This past week, the Harvard community witnessed the rightful cancelation of Kevin K. “Kit” Parker’s course, Engineering Sciences 298R: “Data Fusion in Complex Systems: A Case Study.” The course planned to have undergraduates examine the “efficacy” of policing criminal activity in Springfield, Mass. using a policing tactic modeled after how troops in America's wars in Iraq and Afghanistan conducted counterinsurgency.
+Examining Springfield’s Counter Criminal Continuum Policing program — C3 for short — has become something of a pet project for Parker, a bioengineering professor. A personal connection helps explain why.
+Parker and Matthew M. Cutone, the state trooper that trademarked C3, connected over the idea of bringing wartime tactics home in 2011 while in the same National Guard training unit. The “army buddies,” as Parker puts it, have had a working relationship for over a decade, which has included collaborating on a Harvard course in 2012.
+During this 2012 class — the canceled course’s predecessor — undergraduates developed intelligence collection software that Springfield cops used to create a database of suspected gang members to target based on information including an individual’s tattoos. Cutone, the cop who invented the C3 strategy, gave undergraduates a tour of Springfield as a part of the course to determine if, after their intervention, “any of the symptoms of that failed community had been alleviated,” according to the 60 Minutes interview on the project Parker used to promote this year’s failed iteration of the course.
+To be clear, thinking critically about police tactics is not inherently wrong. Responsibly studying difficult and controversial topics matters, perhaps more so for their difficulty. However, Parker’s approach and personal ties to C3’s creator deeply alarm us.
+Parker’s course was never chiefly about data; rather, it seems clear that ES 298R was meant to serve as a “laboratory,” as he puts it, for justifying the use of military tactics in Springfield, Mass.
+Parker has indicated support for C3: Cutone, its creator, says Parker's eyes lit up upon hearing the idea. In a 2013 interview, Parker described insurgents in Afghanistan and “gangs in the inner city” as operating “off the same business model,” and expressed confidence that military counterinsurgency belongs in U.S. policing. On the subject, Parker, a veteran, said “I do want to win one war in my life. I didn't fight in Iraq, I fought in Afghanistan. I want to win one counterinsurgency.” To do so, the bioengineering professor has made the majority-minority neighborhood of Springfield his battleground and enlisted Harvard undergraduates as foot soldiers.
+Cutone, Parker’s decade-old friend and collaborator, appears to profit off of C3 policing. In addition to creating the tactic, Cutone runs a consulting company that exports it, lending weight to the question of whether Parker has improper financial connections to C3, which Parker denies, raised in the petition that led to ES 298R’s cancelation. Publicity-driven incentives could have also led the bioengineering professor to revisit his interest in policing. The last time Parker taught his C3 policing course (which, again, allowed untrained undergraduates to direct police operations), a flurry of press followed: a 60 Minutes interview, a profile in Nature, and a New York Times piece, all of which he used to promote this year’s botched iteration of the course.
+Yet our issues with the course go well beyond the instructor’s background and potential conflicts of interest. ES 298R was also a course about policing that declined to wrestle with the inherent racial dynamics of its field of study; a course that, though predicated on studying the institution that helped unleash months-long protests over the deadly mistreatment of minorities, took the time to make clear that racial disparities were not the “focus” of its work.
+One cannot sideline ethics for the sake of teaching a data-driven course, nor, by the use of buzzwords like “data-driven” alone, banish the racial biases that permeate debates about policing and infect police data. Parker’s own attempt to teach ES 298R with an emphasis on “criminal gangs” and “gang activity” without proper acknowledgement of the racial character and history of such terms (what makes one group a gang and another a right-wing militia?) is a brutal display of ignorance. Objective analysis that ignores historical and social backdrop is hardly objective.
+You cannot have a class on policing without conversation on race — especially not one based in a majority-minority city like Springfield, where only 29 percent of residents self-identify as white. We know that the American police system is racist. Its practices disproportionately target Black, Latinx, and indigenous communities in the United States; tactics like stop-and-frisk have even codified this terrorizing. Sidelining these disparities in a class centered on police tactics is to teach a tone deaf and painfully inaccurate view of American policing. To examine C3’s effect on “quality of life,” as ES 298R’s course description proposes, while carpeting over equity is absurd. Under Parker’s framework, we doubt the crucial fact that, in 2020, the Justice Department found Springfield police engaged in an unconstitutional pattern of excessive force would even factor into quality-of-life considerations.
+That Parker’s course, a seeming ploy to use students to prop up literally militaristic policing, was ever offered is a nightmare. Harvard must urgently commit to ensuring that such glaringly immoral and ill-conceived coursework is never offered again. Courses that task students with coding away deep societal issues obviously and especially warrant scrutiny.
+This staff editorial solely represents the majority view of The Crimson Editorial Board. It is the product of discussions at regular Editorial Board meetings. In order to ensure the impartiality of our journalism, Crimson editors who choose to opine and vote at these meetings are not involved in the reporting of articles on similar topics.
+Have a suggestion, question, or concern for The Crimson Editorial Board? Click here.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The American Academy of Arts and Sciences named University Professor Henry Louis “Skip” Gates, Jr. a recipient of its Don M. Randel Award for Humanistic Studies on Wednesday, making him the seventh honoree since the award’s inception in 1975.
+The Don M. Randel Award was established to recognize intellectuals for “superior humanistic scholarship,” according to the Academy’s website. Previous recipients include University of Chicago Law School professor Martha C. Nussbaum and Harvard English professor emerita Helen H. Vendler, who is also a University Professor.
+The Academy plans to honor Gates with an in-person ceremony in Cambridge this fall, virus-permitting.
+Gates said in an interview that he does not consider winning this award a personal achievement, but instead a “recognition” of the field of African and African American Studies.
+“I was completely surprised by this award. It’s a great honor,” Gates said. “I see it as a recognition of the field of African and African American Studies, and that’s why I don’t see it as being about me — I see it as being about our field.”
+An accomplished scholar and public intellectual, Gates has authored or co-authored 25 books and has been the recipient of the MacArthur “Genius” Grant, the National Humanities medal, and 58 honorary degrees. In addition, he has served as the director of the Hutchins Center for African and African American Research since 1991.
+Gates’ scholarship primarily focuses on African and African American history and culture. His critically acclaimed work includes the books “The Signifying Monkey,” “Stony the Road: Reconstruction, White Supremacy, and the Rise of Jim Crow,” and the Emmy Award-winning miniseries “The African Americans: Many Rivers to Cross.”
+African and African American Studies chair Tommie Shelby described Gates’ work as “distinctive,” citing his ability to bring scholarship to the public eye through film, digital formats, encyclopedias, and numerous anthologies.
+“I think it’s a combination of those things — both his own distinction as a creative literary scholar and public historian, and also the energy and boldness of his vision in trying to bring work that was largely confined to the academy to a much broader public,” Shelby said.
+Shelby added that Gates has “indelibly shaped” the African and African American Studies department since joining Harvard’s faculty in 1991.
+“It’s clear that the department of African and African American Studies, as we’ve come to know it, has been indelibly shaped by his hand, vision, energy,” Shelby said. “He’s not only helped to shape us into a leading light in the field, but also maintained very high standards and tried to have the best scholars and teachers available.”
+Gates — who served as the department's chair for 15 years — said he created a “fantasy list” of faculty to help build “momentum” for the department.
+“It was very exciting how each appointment built on the one before it,” Gates said. “We created a great sense of momentum.”
+Shelby said he admires the “freedom of expression” and “independent thought” championed by Gates.
+“I think one of the things that I’ve admired most about Skip is sort of his deep commitment to freedom of expression, independent thought,” Shelby said. “He’s always the person who wants to have an open forum about our past, or present, or future without it being overly driven by whatever the favorite ideology happens to be.”
+“That spirit, that range in our department — much of that is due to him,” he added.
+— Staff writer Felicia He can be reached at felicia.he@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Cambridge Police arrested a Boston man Friday in connection with the armed robbery of a Harvard Square bank that occurred this past November.
+Juan Cruz, 48, was arrested on one count of armed robbery for holding up the TD Bank on 1270 Massachusetts Ave., following a two-month investigation by CPD.
+During the bank robbery, which took place on Nov. 23, Cruz allegedly passed a note to a teller claiming to be armed, and fled the scene with an undisclosed amount of cash. Cruz did not wield a weapon, however, according to CPD spokesperson Jeremy Warnick.
+Cruz could not be immediately reached for comment.
+The incident in question was the first in a string of four robberies that struck Cambridge during a three-week period in late November and early December of 2020, two of which occurred in Harvard Square. In response, both CPD and the FBI opened an investigation into the crimes.
+All four robberies involved the passing of a note or a verbal threat claiming to be armed.
+In a December interview, Warnick said CPD believed the robber who held up TD Bank’s Harvard Square location also was behind the robbery of Cambridge Savings Bank in Inman Square two days later.
+Investigations into the Cambridge Savings Bank robbery and the other two robberies that occurred at the end of 2020 remain ongoing, though, Warnick wrote in an email Friday.
+Cruz is scheduled to face arraignment Monday at Cambridge District Court, Warnick added.
+Prior to Nov. 23, Cambridge had not witnessed a bank robbery since 2018.
+Overall, compared to 2019, violent crime decreased 3 percent in Cambridge in 2020, while property crimes increased 9 percent with 174 additional crimes.
+—Staff writer Raquel Coronell Uribe can be reached at raquel.coronelluribe@thecrimson.com. Follow her on Twitter @raquelco15.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard Applied Physics professor Federico Capasso was awarded the 2021 Frederic Ives Medal and Jarus W. Quinn Prize, the Optical Society announced Thursday.
+The award, which recognizes overall distinction in optics, is often considered among the field’s highest forms of recognition. Capasso will receive the award for his work on quantum electrodynamical forces known as Casimir forces, as well as his contribution to the invention of quantum cascade lasers, which are used to identify and examine molecules found in explosives and drugs.
+Capasso’s recent work has utilized the Casimir effect – defined by the Optical Society as “attraction between metal surfaces in vacuum due to its zero point energy” – to analyze motion in microscopic electrical systems.
+Born in Italy, Capasso received his Ph.D. from the University of Rome in 1973. After two years of research in fiber optics at Fondazione Bordoni in Rome, he joined Bell Laboratories in 1976.
+Before joining the School of Engineering and Applied Sciences faculty in 2003, Capasso spent more than two decades at Bell Labs, where he headed quantum phenomena and device research, as well as semiconductor physics research. In 2000, he became vice president of all of physical research at Bell Labs.
+Much of Capasso’s research has involved creating artificial materials by rearranging physical composition of matter at the microscopic level. Applications of Capasso’s findings have included collaborations with atmospheric scientists at Harvard, including one project in which the laser was used to measure greenhouse gases on a high-altitude plane.
+In a press release, OSA president Connie J. Chang-Hasnain called Capasso “a true pioneer and distinguished leader in the field of optics and photonics.”
+Capasso credited the “very collaborative environment” at SEAS for enabling him to branch out into other fields and collaborate across a “broad base” rather than being constrained to one field.
+“We don't have too many artificial distinctions,” he said. “So this allowed me to branch out to areas that I hadn’t really touched on when I was at Bell Labs.”
+Ahmed H. Dorrah, a postdoctoral fellow in Capasso’s group, said he admired Capasso’s constant “renewable energy.”
+“From the bottom of my heart, I can say that no one can ever wish for a better mentor than Professor Federico,” Dorrah said. “He's always motivated. The excitement he has throughout teaching gives an impression it's the first class he would teach, ever.”
+Ileana-Christina Belea-Chelmus, another postdoctoral fellow, said she has greatly enjoyed working in Capasso’s lab and under his tutelage.
+“It’s a great atmosphere, and he has been a great mentor and a pool of ideas,” she said.
+Several past recipients of the Ives Medal and the Quinn Prize have gone on to win Nobel Prizes.
+Dorrah said he hopes that Capasso will soon be able to achieve the same professional accomplishment.
+“I really wish from the bottom of my heart that we see Federico flying to Sweden very soon,” Dorrah said.
+—Staff writer Natalie L. Kahn can be reached at natalie.kahn@thecrimson.com. Follow her on Twitter @natalielkahn.
+—Staff writer Simon J. Levien can be reached at simon.levien@thecrimson.com. Follow him on Twitter @simonjlevien.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+As undergraduates embark on their second week of the spring semester, Dean of the College Rakesh Khurana commended on-campus students for a safe and smooth move-in process in a Friday interview.
+The College announced in December it would welcome back seniors, juniors, and students with challenging learning environments to live on campus for the spring semester. Similar to the fall, students arrived on campus in the week before classes began this semester and were required to undergo Covid-19 testing and a quarantine period.
+Khurana said he was heartened to see the relatively low positivity rate of Covid-19 among students moving in. The positivity rate among Harvard affiliates during the last seven days was 0.24 percent as of Sunday morning, per the University-wide Covid-19 Testing Dashboard.
+“We had relatively few students infected upon arrival, which I really think speaks well to the students adhering to our suggestions and recommendations of quarantining,” he said.
+Khurana said local circumstances surrounding Covid-19 influenced the College’s approach to move-in.
+“Unlike in the fall where we had low infection rates generally in the country, as students were coming back, we had much higher infection rates in the United States and obviously around in some parts of the world,” he said. “As a result, one of the changes we made was a double testing that happened on move-in.”
+As part of the double-testing regimen, students were administered both an antigen test and a PCR test upon arrival, Khurana said.
+“There was an antigen test that was given, and it’s a quick test, and the results can come back within a couple of hours or less,” he said. “That allowed us to identify people who potentially may have been carrying an infection of Covid-19, and they were also given the Broad [Institute] PCR test, which takes a day to turn around or so.”
+Alexandra P. Grayson ’22 said the move-in process was “really streamlined.” She said the mandated quarantine period “passed by pretty quickly” as she set up her room and prepared for the coming spring semester.
+“We were ramping up for the semester so I wasn’t just sitting around bored,” she said. “It felt pretty supportive and the housing administration was definitely reachable.”
+Khurana said the College stocked dorm rooms with food, water, masks, and several weeks' worth of Covid-19 tests ahead of students’ arrival.
+Melody M. Wang ’22 said her move-in experience was “pretty smooth.” Wang, who also lived on campus in the fall, said the provision of two days’ worth of food in her dorm room was an improvement over last semester, when she only received enough to last her one day.
+“I think maybe one thing they could have thought out slightly better was maybe utilizing more spaces,” she said. “I saw a lot of people waiting outside in very cold temperatures with their suitcases.”
+Some freshmen who successfully petitioned to live on campus are living in Harvard Yard, while all upperclassmen are residing in their assigned house, according to Khurana.
+“Some of our first-year students who before had been distributed in the houses are actually getting an opportunity to now be in the Yard and our upper-class students all went back to their respective houses,” he said.
+Though he acknowledged “it’s not easy” for students to live within the constraints of current campus life, Khurana said he has enjoyed seeing students reunited back on campus and socializing safely.
+“I’ve just been really tickled to see people back and students greeting each other,” he said. “It’s so great to see students — even though it’s cold outside — to be outside socializing with each other and seeing them laughing.”
+—Staff writer Alex Koller can be reached at alex.koller@thecrimson.com.
+—Staff writer Taylor C. Peterman can be reached at taylor.peterman@thecrimson.com. Follow her on Twitter @taylorcpeterman.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In advance of the Cambridge City Council meeting on Monday, a group of housing advocates distributed flyers to more than 1,200 households on Sunday urging residents to give public comment in support of “non-congregate” shelters.
+The Council will vote on Monday on a policy order instructing the city to “investigate renting space” from the New England School of English to aid people experiencing homelessness. Project Right to Housing — the event organizers — coordinated the “Lit Drop” Sunday to encourage Cambridge residents to support the policy by attending and speaking in favor of it during the Council meeting.
+Project Right to Housing’s mission is to support and create awareness about ongoing efforts led by other housing advocacy groups in the city, according to Piper W. Winkler ’21. Winkler, one of the group’s organizers, is also the co-chair of Harvard College Young Democratic Socialists of America.
+The policy order states that the New England School of English could serve as a potential non-congregate space due to the fact that the boarding school contains single-room dorms.
+“A non-congregate shelter is one in which people have more individualized spaces, as opposed to congregate shelters, which feature people sleeping in a very close capacity often in a large single room with a number of beds in it,” Winkler said.
+The school “reached out” to the City Council and began discussions about trying to “open it up for unhoused residents,” according to Councilor Jivan Sobrinho-Wheeler. The city has yet to complete a contract, though the state government has already transformed one of the school's dormitory spaces, located at Green Street, into a temporary shelter.
+“The [state] contract is going to run out in the next few weeks, so now it's more about, 'can the city keep it going?'” Sobrinho-Wheeler said. “But the other piece of it that I think we're going to try to add to the policy order is to make clear that the Biden administration has now made clear that they're going to reimburse cities who are doing this.”
+“Having sites that help house homeless folks during the pandemic, they're going to reimburse them at 100 percent, so there's, in my mind, no excuse not to do this anymore,” he added.
+The group’s efforts to mobilize Cambridge residents in support of the needs of homeless residents stem from a petition signed by 121 individuals experiencing homelessness that was sent to the City Council and City Manager on April 19, 2020. It called for the city to “provide hotel rooms and/or vacant apartments” in lieu of the shelter space that the city then offered at the War Memorial Recreation Center.
+John Chute, who started the petition, said he and other homeless individuals met with the City Manager, City Councilors, the city police commissioner, the chief public health officer, and a representative from the Cambridge Department of Human Service Programs about their demands. The process “took a long time” to address their concerns, he said.
+Chute said that he hopes that the efforts by Project Right to Housing and other groups to get the city to fund non-congregate shelter spaces will transition to a push for long-term, stable, and affordable housing for the homeless.
+“Why not put the money towards permanent housing?” Chute said.
+—Staff writer Jeromel Dela Rosa Lara can be reached at jeromel.lara@thecrimson.com. Follow him on Twitter @jeromellara.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+For the second year in a row, a slate of candidates backed by Harvard Forward — a student and alumni organization working to call attention to climate action and racial justice issues within the University’s governance boards — will appear on the election ballot for the Board of Overseers, Harvard Forward announced Monday.
+The candidates nominated by petition for the Board of Overseers — the University’s second-highest governing body — include global health and gender specialist Yvette O. Efevbera, Indigenous activist Megan H. Red Shirt-Shaw, and Brazilian climate policy expert Natalie Unterstell.
+In order to secure spots on the election ballot as petition candidates, the three needed to garner at least 2,987 signatures — one percent of eligible voters — by Feb. 3. They will now contend with the eight candidates put forward by Harvard Alumni Association’s Nominating Committee in the Board election, which will take place from April 1 to May 18.
+“By running for the board, we hope to inspire Harvard alumni to vote for change and join the fight for climate and racial justice,” Unterstell said in a press release.
+According to Harvard Forward, its petition campaign succeeded despite a “complicated” online nominating process, which it said prevented “hundreds” who wanted to support the candidates from signing a petition.
+University spokesperson Christopher M. Hennessy declined to comment Monday morning.
+Efevbera, Red Shirt-Shaw, and Unterstell, who all received Harvard degrees within the last five years, intend to promote Harvard Forward’s platform of committing the University to divestment from fossil fuels and the prison industry, racial justice, and greater representation among younger alumni.
+“I care deeply about this university and the current and future leaders it develops,” Efevbera said in the release. “That’s why I'm thankful to have the support of thousands of alumni who know how important it is to have bold and inclusive leadership to tackle the biggest challenges of our time, like racial justice and climate action.”
+Harvard Forward also successfully nominated five petition candidates for the Board via petition last year. Three of those candidates — Margaret “Midge” Purce ’17, Jayson U. Toweh, and Dorothy “Thea” L. Sebastian ’08 — were elected to the Board in August.
+With a September 2020 change in the Board’s policies, the number of members nominated by petition that can serve on the governing board at any given time was reduced to six of the 30 total seats at any given time. If Efevbera, Red Shirt-Shaw, and Unterstell are all elected in May, petition candidates will not be able to run for the Board of Overseers until 2026.
+“As one of the founding institutions of higher education in the country, Harvard can continue to lead the way, but only if it’s willing to change and support new leadership,” Red Shirt-Shaw said in the release. “Each nomination we received is one more step forward, and we’re grateful to all the alumni who placed their trust in us.”
+—Staff writer Kelsey J. Griffin can be reached at kelsey.griffin@thecrimson.com. Follow her on Twitter @kelseyjgriffin.
+—Staff writer Kevin A. Simauchi can be reached at kevin.simauchi@thecrimson.com. Follow him on Twitter @Simauchi.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+There are some undeniable benefits to online learning, such as not needing to change out of your pajamas for class or being able to wake up five minutes before class and still look presentable (or just have the camera off and no one will know if you still have the blanket wrapped around you like a burrito); however, for a perpetually sleep deprived college student, one has to wonder how beneficial Zoom classes are for one’s sleep schedule. Clearly everyone’s coping differently with this online semester, so here’s a field guide to all the different sleep schedules of Harvard students during a Zoom semester.
+The nonexistent nine-hour sleep
+This person is adjusting well to college and the demanding workload. They do not procrastinate on their work and go to bed at the same time every night. While you are toiling away at psets at 2:00 a.m., they are already sound asleep in bed, probably dreaming about taking over the world or congratulating themselves on the good sleep schedule. Let’s be real, though, this is Harvard. This sleep schedule is either nonexistent or will vanish as soon as midterms start.
+The actually existent but regretful nine-hour sleep
+They procrastinate their homework until 10:30 p.m., but their brain stops working at 11:00 p.m. The solution? Go to bed early and then wake up early to do homework. The reality? They keep hitting snooze on their phone and then wake up half an hour before their first class of the day, feeling full of regret.
+All-nighter squad
+They live off coffee and Red Bull and look perpetually sleep-deprived (which they are). All-nighters are smart with planning and management, as they finesse their schedule to find the optimal schedule to pull an all-nighter. Cons: the sleep-deprivation and stress and pain and the coffee bills. Pros: they’re done with homework in one sitting; they’ll be the dependable friend who people come to for advice and all the hottest tea in the middle of the night.
+Sleeping during lecture with camera off
+After pulling an all-nighter, your 9:00 a.m. Gen Ed lecture doesn’t sound exciting at all; however, because of Zoom, professors can now keep attendance of whoever shows up to class. The solution? Join the Zoom, and then turn off your video to sleep. As long as you set an alarm to wake up at the end of class to leave the Zoom, your attendance record will still be as perfect as ever. This is the sleep schedule for students who still care enough to get that 15 percent of attendance, even if they no longer have the energy for the class.
+Skipping Zoom classes altogether to sleep
+This is the sleep schedule for students who no longer care for their attendance. Sleep is all that matters now. It is a vicious cycle of spending all your waking hours on psets and essays and then sleeping during the actual classes. Disclaimer: This is only a good schedule for lecture classes, not small sections or discussion seminars. Pros: they actually get to sleep. Cons: the professor’s surprise in seeing them actually show up to class one day.
+What is sleep?
+The most ambitious crossover since Infinity Wars: procrastination meets a good student. They stay up all night to finish psets and essays and will attend every lecture (not even for the grades but genuinely for the knowledge). Sleep comes to them in the form of naps during the 15-minute interval in between classes. They are actually getting something out of their education. Bravo. However, one can’t help but ask the questions: “At what cost?” and “Will they survive?”
+We’ve finished one Zoom-ester already, but don’t worry if you still haven’t found the perfect sleep schedule for Zoom yet. As people say, college is where you try new things. Although we do not 100 percent recommend this, feel free to try out all of these methods to find which one works best for you. Maybe you’ll learn that sleep is for the weak and that naps (and coffee and Red Bull) are enough to sustain your body or that you really just don’t care for that perfect attendance anymore. (It is but a relic of your glorious high school past. You’re at Harvard now!)

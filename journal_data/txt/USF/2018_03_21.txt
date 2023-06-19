@@ -1,0 +1,39 @@
+The reports of Cambridge Analytica using Facebook to target people during the 2016 election are raising questions about where the social media site's priorities rest. SPECIAL TO THE ORACLE
+
+
+
+
+Facebook is no longer a simple social media outlet to share pictures or connect with friends. With its recent, large-scale data breach where the data analytics firm. Cambridge Analytica harvested over 50 million Facebook profiles to curate personalized political advertisements, Facebook has proven it is an exploitative, multinational corporation with fixed interests.
+
+
+Christopher Wylie, current whistleblower and former Cambridge Analytica employee, confirmed that the firm used data from Facebook profiles to construct algorithms to predict and influence voters in the 2016 presidential election without notifying any of the users they targeted.
+
+
+In a statement to The Observer, Wylie said, “We exploited Facebook to harvest millions of people’s profiles. And built models to exploit what we knew about them and target their inner demons. That was the basis the entire company was built on.”
+
+
+Copies of the harvested data have become publicly available and can be found online, according to the New York Times.
+
+
+This breach of data is also a breach of privacy and consent. While Cambridge Analytica used models to comb through data in order to predict voter traits and behavior, Facebook should have more regulations in place to protect their user base from having their information targeted for propaganda. It is unsurprising that Facebook allowed a data analytics firm to harvest their users’ profiles to influence voter behavior; the website itself uses user information to curate advertisements based on “likes.” For example, when a user updates their ad preferences, Facebook says: “This won’t change how many ads you see, but because we’ll know about what you like, they should be more relevant.”
+
+
+The model used was an app created by Aleksandr Kogan, whose company Global Science Research (GSR), partnered with Cambridge Analytica to pay users to take a personality test and agree to collect their data for academic purposes. However, GSR and Cambridge Analytica utilized this app to collect data from unconsenting Facebook profiles that were “friended” with the paid survey takers leading to the 50 million compromised profiles where data was breached. The Observer reported that Facebook was informed about the data harvesting in 2015, but failed to notify the targeted users.
+
+
+Facebook is not a harmless social media platform. It is becoming a monopolizing conglomerate, using its users as the product rather than the customer. Private data is becoming a commodity. Revenue is dependent on the exploitation of this data as advertisements are selected based on personal information. Informed consent must be required if Facebook allows a data analytics firm to predict voting behavior, even at the expense of losing users, and consequently, losing revenue.
+
+
+According to The Guardian, Facebook said that while Kogan “gained access to information in a legitimate way and through the proper channels, [he] did not subsequently abide by our rules” – meaning Facebook does not consider the profile harvesting a data breach, but rather a violation of their policy by giving the data to third parties that circulated the personalized political advertisements.
+
+
+Facebook was complacent in the exploitation of user information and subsequent data breach. Already having a system in which advertisements are catered from Facebook likes and not notifying users of their harvested profiles in 2015 suggests that Facebook played a more contemptuous role in the data breach than what is ethically or legally responsible. Privacy and protection should be ensured for Facebook users; people should be free to use social media without being subject to data mining for commercial or political agendas. If a breach does occur, users deserve to be informed.
+
+
+Even if the data harvesting itself is not technically illegal or in violation of Facebook’s policy, the reasoning Facebook allowed Cambridge Analytica to collect this data should be called into question. Why did Facebook not question why Cambridge Analytica collected and processed user data on such a large scale? The website is no victim to Cambridge Analytica’s deceptive practices, but rather a contributing actor. Facebook was complicit in influencing the results of the election. Users should have agency in their voting without impeding political influence from advertisements specifically engineered to impact their vote. It is time Facebook’s power is honed in to ensure information is secure and free from political propaganda.
+
+
+
+
+
+Paige Wisniewski is a junior majoring in interdisciplinary science.

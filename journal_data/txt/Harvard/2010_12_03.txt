@@ -1,0 +1,555 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+While I was in Paris last summer, I stumbled upon videos in which “Sex and the City” and “He’s Just Not That Into You” author Liz Tuccillo ecstatically interviewed French women on their approach to love and relationships. She kept repeating, “How do you know all this? I mean, you didn’t even read my book! If only American women were more like you…”
+This online series in which the still-single Tuccillo teaches American women how to get guys like French women do, since “they have it all figured out,” bothered me on some level. There is a common American stereotype that French women have something alluring about them that other women, especially American ones, don’t have. There are books out such as “French Women Don’t Sleep Alone” and cheesy articles such as “10 Ways to Connect with your Inner French Woman.” Reflecting on the stereotype, I wondered why it is that some of the most charming French guys I know have American girlfriends and wives. There was some kind of a disconnect here—if French women were the best in the world, then why was it that French men themselves didn’t always think so?
+Inspired by this question, I decided that I was in the right place to investigate. I interviewed some French men and women who knew both cultures well. I asked them whether it is true that French and American women are so different, what the difference is, and where they think it stems from.
+I found that the way that these women act in relationships generally comes from different cultural upbringings and life philosophies. I was told that French girls are pessimists. They grow up knowing that things probably ultimately will not turn out the way that they want them to. Consequently, they find American movies with happy endings quite bizarre. The French tend to have the overall sense that life will take its own course, and that since what happens will depend on chance anyway, they might as well relax and enjoy the moment. According to my interviewees, French women turn relationships and seduction into a kind of game, which they see as light and pleasant. They tend to think that getting dinner or coffee with a guy does not really mean anything, that it is normal to date three or four men at a time, and sometimes fun to keep them all confused. When something does not work out, they do not try to control or fix the situation; instead, they let it go. They claim that when a guy with whom they went out a few times no longer calls them, it does not upset them, because nothing was ever planned or serious in the first place.
+American girls, on the other hand, are idealists. They generally grow up believing that they can get what they want as long as they are focused and try hard, and that they will inevitably have the fantastic relationship that they have always imagined. When dating a guy, they keep the big picture in mind, asking questions like, “Do I need this,” “Is this actually what I am looking for,” and “Is he really a good match for me?” Instead of seeing where things go and taking them lightly, they tend to be more concerned about the future, and because of this, they stress out about the relationship.
+At the same time, there is a upside to this attitude: some of the French men that I spoke to were telling me that they see American women as more responsible and predictable than
+French ones and so more desirable for a long-term relationship. They value American girls for being honest about the exclusivity of a relationship and for always trying to be cheerful and positive through bad times.
+While a French girl may have a playful glance and mysterious air as she walks down the street, an American one may be more straightforward. Romance is famous for being stimulated by uncertainty. As Maria Elena says in Woody Allen’s film “Vickie Christina Barcelona,” “Only unfulfilled love can be romantic.” However, certainty and stability can also be attractive for someone who wants a relationship. It seems that “A what you see is what you get” approach is highly valued by men from around the world, more so than American women themselves probably think. Maturity and spontaneity are both great, but do not necessarily go together, and when it comes to real relationships, regardless of what Tuccillo says, Americans women do have something figured out.  But, in the end, it is of course, all a matter of timing and tastes.
+Elizabeth D. Pyjov ’11, a Crimson arts editor and columnist, is a Romance languages and literatures concentrator in Adams House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard generally doesn’t respect “teen comedy” stereotypes. Jocks also play for the chess team, debaters and newspaper editors are received like rock stars, and family money is treated like a terrible secret. But despite all the culture-defying norms on campus, computer nerds are still consigned to the short table at the activities fair. The Harvard College student group directory doesn’t even have a category for internet or computing organizations, probably because there are more martial arts clubs than computing clubs.
+Sure, there’s the Harvard Computer Society and political websites run by students like VoteGopher. Facebook started as a site run by Harvard students. But the culture of the university does not support these endeavors as though they have equal validity to political, athletic or performing arts programs. There is no institutional advocate for computing like the Office for Arts. Even on the Crimson, most editors are not taught how to update the website and significant changes are made by a dedicated IT staff. There is a campus-wide attitude that worrying about how computers work is someone else’s job.
+The explanation must be cultural. Worrying about how computers work certainly pays well, even in comparison to the investment banks or hedge funds that so many undergraduates are dead-set on joining. Many of Harvard’s most successful alumni, especially if you include Mark Zuckerberg and Bill Gates, have been computer programmers. Seven of the top 15 richest Americans made their wealth in computing. With Wall Street reduced to a shell of its former self, there is more reason than ever for Harvard students to consider computer skills as a ticket to the Silicon Valley.
+Plus, computer and web proficiency isn’t just for those who want to get rich quick. Scientists in all fields use computer analysis and simulations for research. Teachers and aid workers need to understand computers well enough to spread computer literacy to those who don’t have it. The internet in particular provides the world’s underprivileged with opportunities that were historically unthinkable, but that opportunity can only be realized if someone proficient can show them the way.
+Moreover, every Harvard graduate benefits from knowing how to make a website, which has become a necessary marketing skill. It’s also extremely helpful to understand how RAM functions or the difference between a CRT and an LCD monitor. Harvard graduates are especially likely to be alone in some foreign locale with their laptop as their only lifeline. If something goes wrong, they will need to know how to fix it. Students who will be publishing anything in the future, be it academic or creative, need to understand how online publishing differs from print and what rights they have over their material uploaded to the web.
+Some changes in the Computer Science department are encouraging. In the past few years, CS 50 has included lessons on XML and PHP, which are used in websites, and class enrollment has been growing dramatically, especially among women. However, CS students do nearly all of their work using Unix, an operating system from the 1970s, rather than Windows or MacOS. There are no undergraduate classes in managed languages like C# or Java, which are widely used by corporations to develop software quickly, and the one undergraduate class on the internet, CS143, is really intended only for concentrators.
+Harvard has never been a pre-professional university, and students expecting to slide down a greased path into a stable career would be best served at another school. In this respect, the Computer Science department is no different from other departments like Economics or Music. But a set of computer skills that were almost unheard of a decade ago are now vital in the marketplace, and not just for technical careers.
+I’m also not saying Harvard has to make a course in intermediate computer literacy part of the General Education curriculum. But Harvard is obliged to encourage the cultural notion that computer and internet proficiency is a good thing, if not a necessary or even a cool thing. More funding should be allocated towards speakers, seminars and programs that educate Harvard students about computers and reinforce the notion that it’s not geeky to understand them. The Berkman Center for Internet and Society, a law school center which focuses on the internet, should be just as important to undergraduates as the Institute of Politics (IOP) is now.
+There are a few signs of extracurricular progress. Even The Lampoon, a semi-secret Sorrento Square social organization that used to occasionally publish a so-called humor magazine, has a technical board. Harvard Undergrad TV (HUTV) is expanding and now includes videos from the Crimson designed for the web. But more progress has to be made to extend opportunities for computer learning.
+Until then, to paraphrase Bill Gates, quit looking down on the computer nerds. You might end up working for one of them.
+Adam R. Gold ’11, a Crimson editorial writer, is a physics concentrator in Adams House. His column appears on alternate Fridays.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+This fall, much attention has been paid to resources for lesbian, gay, bisexual, and transgender students on college campuses across the country, and Harvard is no exception. Recent student activity has called attention to Harvard’s embarrassing lack of institutionalized LGBT resources. Currently, the University only has the Queer Resource Center, a privately funded room in the basement of Thayer that is staffed by volunteer students. This makes Harvard, according to Harvard Queer Students and Allies Co-Chair Marco Chan ’11—who is also a member of the College’s BGLTQ Working Group—the only Ivy-league institution that lacks either a University-funded LGBT resource center or LGBT coordinator. It is unacceptable that Harvard has gone so long without sufficient resources for LGBT students. In light of recent hate crimes—including one at Harvard—and suicides on college campuses across the country, as well as the immense burden that is placed upon LGBT student groups to maintain the current resource center, the risks and needs are too great to ignore this issue.
+Indeed, Harvard should begin providing funding for the QRC as quickly as possible. In addition, Harvard should hire a full or part-time coordinator to staff the center, organize queer events, and serve as a point person for queer issues on campus—responsibilities that until now have often fallen to students. The current lack of a clearly LGBT-focused administrator has led to dissatisfaction among many members of the LGBT community over the handling of the hate crime on campus earlier this semester. An official coordinator is also necessary because the QRC, which offers movies, an extensive library, pamphlets, safe-sex supplies, and a place for students to talk, should not rely on student volunteers to remain open. The center should be available for students regardless of other students' commitment to staff it. Placing the burden of providing support for the queer community upon students is unfair.
+But beyond shifting the onus away from students, institutionalized University LGBT resources would send an important message to the Harvard community and would work to create a more welcoming, inclusive climate for all students. Like the Women’s Center, the QRC should, with University support and a hired coordinator, begin sponsoring events and hosting dialogues on campus. Further, like the Women’s Center, the QRC need not serve as a political organization, but rather should be a resource for students. Political activism should remain in the domain of the QSA and other LGBT groups on campus—the purpose of institutionalizing LGBT resources is to support a diverse and respectful campus culture.
+It is important that these steps to create a more queer-friendly atmosphere on campus are taken quickly. Although we are sympathetic to the unfortunate compactness of the current center, finding a larger space could delay the process. Thus, right now, moving the QRC should not be the priority. Although the administration has shown interest by creating a working group to review LGBT resources, it is disappointing that any decision is unlikely to be made until after March, when the working group is set to submit its report. Harvard should put a lesser emphasis on reviewing resources and a greater emphasis on allocating them immediately; the aim should not be to discuss, but rather to implement. Ultimately, this is not an issue that just merits discussion—it is a necessity.
+Sadly, this is an aspect in which Harvard must learn from its peer institutions. The University of Pennsylvania, for example, has had an LGBT center and coordinator since 1982. Harvard also is not included in Advocate Magazine’s guide to LGBT-friendly colleges. Indeed, we hope that Harvard will move quickly and, with the support of a coordinator and a funded resource center, catch up to its peers in institutionalizing safe spaces on campus.
+CORRECTION: December 4, 2010 
+ 
+ 
+An earlier version of the Dec. 3 editorial "Institutionalize Safe Spaces"  incorrectly stated that Harvard is the only Ivy-league institution that lacks  both a University-funded LGBT resource center and center coordinator,  and attributed this information to Marco Chan '11. In fact, Chan had said that Harvard is  the only Ivy-league institution lacking either a University-funded LGBT  resource center or LGBT coordinator, and was misquoted in a Crimson news article. The Crimson regrets the error.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Africa is in. This summer that message rang loud and clear, all over the world, because of the 2010 World Cup in South Africa. Far from being exceptional, however, the World Cup represents a larger trend of interest in African culture. As consumers, we are more ready than ever to buy African-influenced fashion, art, and music. Gucci and Balenciaga recently showcased batik-style prints similar to those worn by West African women in their 2010 collections. The current Broadway show “Fela!” pays homage to the music of Fela Kuti, a Nigerian-born artist considered to be the father of the Afrobeat movement. And these are just two of many similar examples.
+This pattern is at once troubling and promising. The lumping together of diverse African cultures and the highlighting of “African” art that largely does not come from African natives indicate our society’s ignorance regarding this region. However, our newfound interest in African culture also demonstrates the potential knowledge we have to gain and the willingness we have to do so. At the crossroads between appreciation and ignorance, Africanism has become the Orientalism of the 21st century.
+In the 20th and 21st centuries, the large influx of Asian immigrants and the rise of Asian nations in political and economic power led to an increased cultural interest in the region, termed Orientalism. In the words of the post-colonial scholar Edward Said, Orientalism is “a manner of regularized writing, vision, and study, dominated by imperatives, perspectives, and ideological biases ostensibly suited to the Orient.” Said writes that this perception of the area did not originate in the countries associated with the Orient but was “willed over the Orient because the Orient was weaker than the West.”
+However, while Orientalism was paternalistic and heavily based in colonialism, our modern appreciation for all things Asian is, in many ways, the product of Orientalism. Though the images it portrayed were largely inaccurate, it fueled a movement to collect authentically Asian art. For instance, due to its influence the Boston Museum of Fine Arts has Himalayan, Chinese, Korean, Japanese, and Southeast Asian wings, which together fill close to a quarter of the museum. The presence and study of these objects contributed to a more accurate cultural perception of Asian society.
+Today Africa is situated at a similar point that Asia was a hundred years ago. According to the Population Reference Bureau, the population of Africa had passed 1 billion, 41 percent of whom are under the age of 15. Africa is the second largest continent in size and possesses the greatest amount of undeveloped land of any continent. Foreign governments and investors are beginning to take notice. According to Bloomberg News, China’s investment in Africa rose 77.5 percent in the first nine months of 2010 to $875 million. The Washington D.C-based private equity firm Emerging Capital Partners has invested an estimated $1.2 billion in African funds since 1999.
+Unfortunately, the cultural end of this interest, Africanism, does not accurately or astutely portray the continent. Like Orientalism, Africanism is heavy handed in its understanding of different cultures and deft in creating stereotypes. Much of today’s “African” art is only a rough interpretation of African themes, reproduced by non-African artists. A recent New York Times article on Africa’s growing cultural influence showcased the African themes of “Avatar,” the afro-centric design in Marc Jacobs Spring 2010 collection, and the music of ethnically Sri Lankan singer M.I.A as examples “African” art. The MFA’s single African wing is a fraction of the size of the Chinese wing. Before African culture can influence the non-African world in an honest manner, it needs to be represented by individuals who are African natives.
+Our knowledge of Africa right now is on par with our knowledge of Asia several generations ago. It remains to be seen how quickly and diligently we can act on our willingness to learn. However, as the path of Orientalism has shown us, under-informed cultural interest can provide the means for authentic, well-founded appreciation.
+Nataliya Nedzhvetskaya ’13, a Crimson editorial comper, lives in Quincy House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Crystal Y. Coser ’12 and Randa S. Dreznick ’12 will lead the College Events Board as chair and vice-chair next year, promising to increase student input and develop more creative events for the student body.
+As veterans of the Harvard-funded organization tasked with holding events for the College community, Coser and Dreznick, residents of Lowell House and Adams House respectively, said that they are eager to encourage student involvement in events.
+“I believe that obviously, Harvard lacks school spirit, but I think when we do have more school spirit is when the student body is one,” Coser said. “I think that when the student body is together as a whole, you get a lot better feel of community, and that’s something we should achieve next year.”
+The first major undertaking that the new CEB board will tackle will be Harvard Thinks Big 2. Modeled after the popular lecture series “TED Talks,” Harvard Thinks Big allows faculty members to speak on a topic of their choosing.
+Following a high level of interest this past year, the Feb. 17 event will be ticketed, Coser said.
+And to address some complaints of being too humanities-focused, Dreznick said that organizers will be soliciting more faculty speakers from the sciences, having confirmed physics professor Lisa J. Randall ’84 to appear at the event.
+To complement its existing lineup of staple CEB events, which include Yardfest, the Harvard-Yale pep rally, and the fall welcome back event, next year’s executive board will seek ideas for events from the student body.
+“We’re really interested in expanding the brand of the College Events Board to include these nontraditional events,” Dreznick said. “Our overarching goal is to appeal to a greater number of students—a greater proportion of the student body—and to foster a greater sense of community on campus.”
+Coser said that she is interested in developing an interactive website that allows students to submit ideas for new events while working to increase student participation in the CEB’s more established festivities.
+Coser said she was enthusiastic about working with the new CEB executive board.
+“I’m just so excited to start this new year on the CEB. I love the CEB,” Coser said. “I think everyone on the new board is really great.”
+Joining Coser and Dreznick on the executive board, Ngoc “Michelle” B. Nguyen ’13 and Michelle Y. Luo ’14 will serve as publicity directors. Beau M. Feeny ’13 will be recruitment director, and Ece Erdagoz ’14 will be the organization’s secretary.
+—Staff writer Naveen N. Srivatsa can be reached at srivatsa@fas.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+300,000,000,000,000,000,000,000—that is the latest estimate of the number of stars in the universe, a number three times larger than scientists’ previous approximations, according to a new study published in the journal Nature on Wednesday.
+By analyzing red dwarfs—the most common type of star in the vicinity of the Milky Way—the researchers found that there are about ten times as many of these stars as astronomers had previously thought, which has led to the new estimate of the existence of 300 sextillion total stars.
+Charlie Conroy, a junior fellow at the Harvard-Smithsonian Center for Astrophysics, and Pieter van Dokkum, professor of astronomy at Yale University, measured the strength of certain light given off by red dwarfs in eight nearby elliptical galaxies to draw a direct estimate of their abundance. Elliptical galaxies are older celestial bodies and tend to contain larger numbers of red dwarfs.
+Due to red dwarfs’ relatively small mass and dimness compared to larger stars like the sun, they emit longer wavelengths of light that are difficult for astronomers to detect. But using advanced telescopes at the Keck Observatory in Hawaii, scientists were able to more accurately detect these stars, Conroy said.
+Since the eight elliptical galaxies measured by the researchers are located between 50 million and 300 million light-years away from the Milky Way the results do not directly impact the way we think about our own galaxy, according to Conroy. Our own galaxy, the Milky Way, is a spiral galaxy, and red dwarfs tend to cluster in elliptical galaxies.
+But the discovery of abundant red dwarfs in elliptical galaxies indicates that there may be less dark matter—a mysterious substance detected by its gravitational effect—than scientists had previously estimated.
+Because dark matter gives indirect clues to star formation activity over time, the new findings will significantly challenge the way astrophysicists had previously expected the way stars and galaxies form, Conroy said.
+Furthermore, because planets capable of supporting life orbit stars, the findings could suggest that there is a higher possibility of finding other inhabitable planets, van Dokkum said in an interview with the Keck Observatory.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Former Secretary of State Condoleezza Rice invoked her own life story and family in calling attention to and criticizing the state of American education, which she said threatens to damage the United States’s power in the world, in a speech yesterday at the Harvard Graduate School of Education.
+Addressing education in the U.S., she said that the system continues to fail its students, and that there is a distinct difference in the quality of education students receive.
+“Today, I’m concerned about this [inequality] when I can look at the zip code and tell whether or not you’re going to get a good education. This is terrifying,” Rice said.
+Rice said that she is concerned that inequality in education threatens to have deep, serious ramifications for the U.S., including its position on the world stage and its economic competitiveness.
+“As an educator, it’s the lost potential, as a former secretary of state, it’s the loss of leadership, but as an American, I worry about one other thing,” she said. “The great national myth—to come from humble circumstances and do great things—is what unites this country.”
+Rice invoked the concept of the “Talented Tenth,” a term coined by W.E.B. Du Bois, that refers to the need to provide educational opportunity for talented black men in arguing that education today must target the underprivileged to ensure equality among talented minorities. Du Bois was the first black man to receive a Harvard Ph.D.
+Rice said that her family had placed an early emphasis on education—forgoing vacations to national parks for trips to college campuses—and for that reason she said “I should have ended up where I did... becuase a long time ago in the history of [her family] people believed that education was transformative.”
+As a Presbyterian minister in Birmingham, Ala., Rice’s father had conducted social work educating underprivileged children, some of whom, Rice said, went on to become university presidents and Pulitzer prize winners.
+Rice spoke for the third and final time yesterday in a lecture series sponsored by the W.E.B. Du Bois Institute to a crowded room of about 200 people.
+Earlier this week, Rice spoke about United States foreign policy in Africa and multiethnic democracy in America.
+According to Vera I. Grant, the Institute’s executive director, Professor Henry Louis “Skip” Gates, Jr. invited Rice to speak, and her appearance had been planned for a long time. Gates directs the institute.
+Speaker invitations, Grant said, are “up to Dr. Gates and his intellectual interactions with high profile people.” In addition, she said speakers must deliver talks which reflect Du Bois, a prominent black leader in the early 1900s. Grant said that Rice’s discussions of “African Americans in conjunction with foreign policy” did just that.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard students and faculty joined University President Drew G. Faust and the greater Cambridge community yesterday evening outside the Holyoke Center to raise awareness about shopping opportunities at local businesses at the second annual Crimson Shops Local event.
+The day featured food and drink options from local vendors—including free Oggi’s pizza and hot apple cider—and a holiday music performance from the LowKeys, one of Harvard’s co-ed a capella groups,
+Coordinators hoped the event would raise the Harvard community’s awareness about the wide range of shopping available in the square.
+The Harvard community forms approximately 40 percent of business for Harvard Square merchants, according to the University.
+“We want people to spend more money locally,” said Jim Gray, a board member of the Harvard Square Business Association and assistant vice president of the Harvard Real Estate Service.
+“There are so many unique and interesting businesses,” Gray said. “We want [the Square] to keep its unique character.”
+Executive Director of the Harvard Square Business Association Denise Jillson stressed the importance of maintaining independently owned businesses in the area.  “There are over 400 businesses in Harvard Square,” she said. “Eighty percent are locally owned.”
+Upon making her appearance, Faust was welcomed with a Low Keys song dedicated to her. Following the performance, she headed over to some local shops to do some shopping of her own.
+“I’ll do a lot of it in the Square,” she said.
+Attendees of the event casually wandered through the festivities.
+“It’s very nice to have something like this,” Sakura Huang ’13 said.  “It’s fun to enjoy the holiday spirit ... with great food and great performances.”
+But Huang, who learned of the event through a friend and performer, said there was little word among students about the event beforehand.
+“If only there was more publicity,” she said.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Consultant and businessman Jeffrey R. Williams ’78 was selected late last month to serve as the first executive director of the Harvard Center Shanghai, a facility that supports interactions between the Harvard community and China.
+The Center, which opened in March of this year, provides resources to Harvard faculty and students pursuing academic work in China and also serves as a location for executive education programs hosted by the Harvard Business School.
+According to Todd Washburn, an assistant provost for international affairs at Harvard, Williams is particularly well-suited for the job given his experience working in East Asia.
+Williams—who is fluent in Mandarin—has spent the majority of his professional life working in the region for various financial companies, including Citibank and American Express company. Most recently, he worked as a private consultant in China.
+“I think we’re very lucky to have him. His qualifications for the job are really all we could have asked for when we started the search,” Washburn said.
+The role of executive director extends beyond overseeing the staff and programs of the center. According to a press release announcing Williams’s selection, the director also serves as a representative of Harvard to organizations within China and throughout the world.
+In the press release, Harvard’s vice provost for international affairs Jorge I. Domínguez highlighted the ways in which Williams’s experience will allow the center to effectively strengthen Harvard’s relationship with the world’s most populous nation.
+“The center will be the key locus of support for the University as we continue to build relationships with Chinese colleagues and institutions,” Domínguez said in the release.
+Washburn said that in addition to Williams’s knowledge of the region, his experience as an active alumnus was a positive factor in his selection. A graduate of both the College and the Business School, Williams has served as the president of the Harvard Club of Beijing and the Harvard Club of Hong Kong.
+Washburn said that he believes Williams will use his position to reach out to the many different schools at Harvard and encourage their engagement with the center.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Two Harvard Law School students filed a lawsuit against the Transportation Security Administration for its use of “intrusive” full body scanners and pat down procedures late last month.
+Jeffrey H. Redfern and Anant N. Pradhan, both second year Law School students, allege that the scanners—which generate images of travelers’ bodies—and the TSA’s “enhanced pat down” technique which requires “the touching of their genital areas” are a violation of the Fourth Amendment protection against unreasonable search and seizure, according to the complaint filed on Nov. 29 at a U.S. District Court in Boston.
+Currently, passengers are permitted to opt out of a full body scan, but upon doing so must submit to an enhanced pat down.
+Both Redfern and Anant opted out of the full body scan while traveling on separate occasions and found the pat down “highly intrusive,” according to the complaint.
+In an interview with the Harvard Law Record, Pradhan said an agent put his fingers inside the waistband of his pants, lifted his buttocks, and felt his groin. “They’ll go all the way up until—well, they go all the way up,” he said, according to the Record.
+In the complaint, Redfern and Anant said the TSA should be required to have reasonable suspicion of travelers in the pursuit of the “prosecution of suspected terrorists” before subjecting them to the new security procedures.
+According to the complaint, the enhanced pat down “if done non-consensually, would amount to a sexual assault in most jurisdictions.”
+But the lawsuit may not be easy to win.
+“I’m glad that our students are learning how to be lawyers, but I wouldn’t bet on their winning this lawsuit,” wrote  Law School Professor Mark V. Tushnet in an e-mailed statement to the Record.
+“It might survive a motion to dismiss, but once the TSA puts forward something about the technology and the threats it’s dealing with, the lawsuit’s chances will drop precipitously,” he wrote.
+The TSA’s procedures became the focus of national controversy as the holiday travel season kicked off last week.
+Travelers organized a protest for Nov. 24—the day before Thanksgiving—that encouraged people to opt out of the full body scans, in favor of the more time-consuming pat downs.
+The HLS students’ lawsuit is one of several filed across the country that claim that screening procedures violate passengers’ privacy.
+—Staff writer Zoe A. Y. Weinberg can be reached at zoe.weinberg@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard Business School professor John A. Quelch has been selected as the next dean of the China Europe International Business School, a major privately operated business school in Shanghai.
+Quelch’s area of expertise is global marketing, and he has devoted much of his research to examining how business practices relate to a variety of societal issues, including well-functioning democracies. He will assume his new position in February of 2011.
+Quelch declined to comment for this story, but his colleagues at the Business School enthusiastically commended his work and his contributions to Harvard.
+Veteran Business school professor Stephen A. Greyser ’56, one of Quelch’s former teachers, praised his former student for his writing expertise and described him as a pioneer in business pedagogy.
+Quelch has written extensively about marketing and branding, and his case studies have sold over 3.4 million copies, according to his web-site. That number is the third highest in Business School history, according to the Financial Times.
+“He was somebody who was a high productivity guy and someone who had an excellent sense of pedagogy on how a case is going to work in the classroom,” Greyser said.
+“He encouraged us to use our academic disciplines to understand real business problems because he believes that better businesses can produce better outcomes for society”, Business School Professor Jason Riis added.
+Greyser said he believes that Quelch’s international experience will prove a valuable asset to CEIBS and that he anticipates even more institutional collaboration between the Business School and the CEIBS.
+CEIBS has grown rapidly in recent years and has campuses in three locations in China—Shanghai, Beijing and Shenzen.
+“John is a prolific scholar and a leader with global vision,” said Sunil Gupta, a marketing professor at the Business School. “CEIBS is lucky to tap such a person to lead its institute at a time when China is becoming the focus of attention for the whole world.”
+Quelch was born in London and holds degrees from Oxford University, the University of Pennsylvania, the Harvard School of Public Health, and Harvard Business School. He is also the former dean of the London Business School.
+Members of the marketing unit widely praised Quelch’s foresight and pleasant personality.
+“He has an uncanny sense for what the trends are and has an impatience to make a contribution at the frontier,” said marketing unit colleague Professor V. Kasturi Rangan. “His research on the business implications of the formation of the European Union appeared before the Union was formalized. His work on globalization preceded the actual wave.”
+“He will be missed,” said Professor Rajiv Lal, “Lunches used to be a delight!”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Stone Hearth Pizza Co., a local family-style restaurant chain that recently leased a Harvard-owned property in Allston, may have received approval for a beer and wine license to which it was not entitled, according to some Allston residents and Boston officials .
+After initially granting Stone Hearth’s application for a beer and wine license, the City of Boston Licensing Board is reconsidering its approval after Boston City Councilor Mark S. Ciommo informed the Board of a concern with the application.
+Stone Hearth applied for a beer and wine license reserved for businesses in “urban renewal areas,” special zones that the Boston Redevelopment Authority designates in need of revitalization.
+But according to a map on the BRA’s  website, the restaurant’s new location on 182 Western Ave. is not included in the nearby urban renewal area encompassing a public housing complex across the street.
+BRA Spokesperson Jessica Shumaker confirmed in an e-mail that the Stone Hearth  is not located in an urban renewal zone.
+Stone Hearth co-owner Jonathan Schwarz said that he and his partner, Christopher Robbins, had no intention of deceiving the Board if Ciommo’s concerns are true.
+“There’s not something rotten in Denmark here,” said Schwarz. “If [applying for] this [urban renewal zone license] was a mistake, it was just a mistake.”
+Allston Civic Association President Paul Berkeley said he alerted Ciommo to this discrepancy after reviewing the BRA map.
+Ciommo then sent a letter to the Licensing Board requesting that it delay issuing the license until receiving confirmation from the BRA that 182 Western Ave. is in an urban renewal zone.
+“After reviewing BRA Map 7B/7D it has come to my attention that this property may lie outside the boundaries of this district,” Ciommo wrote in his letter. “Pending [the BRA’s] evaluation, I respectfully request the Licensing Board hold the license until an adequate determination is made.”
+In October, the Allston Civic Association recommended against Stone Hearth’s proposal to occupy 182 Western Ave. in an 8-6 vote that hinged on residents’ concerns regarding Stone Hearth’s plan to request a beer and wine license.
+Several community members said that there was no need for a family restaurant to serve alcohol.
+Harry Mattison, an Allston resident, said that had Harvard consulted residents before leasing the space, the current tension might have been avoided.
+Harvard’s decision to lease to Stone Hearth, Mattison said, highlights the dearth of collaboration between the University and residents.
+“Someone is sitting in Holyoke Center in Harvard Square and deciding what would be good for Allston,” said Mattison. “Instead of treating us this way, Harvard should sit down with the ACA and community members and talk about our neighborhood’s future.”
+But University spokesperson Lauren Marshall emphasized Stone Hearth’s potential to reinvigorate Western Ave.
+“Stone Hearth is the kind of vibrant, community facing locally-owned business that we’ve consistently heard the community wants,” Marshall wrote in an e-mail to The Crimson.
+Schwarz said that if Stone Hearth’s application is denied, he and Robbins will continue to seek a license as they prepare to open the restaurant.
+—Staff writer Tara W. Merrigan can be reached at tmerrigan@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Like many undergraduate premeds at Harvard, both Matthew D. Henriques ’13 and Brian L. Butler ’12 are intrigued by research in cutting-edge biological fields.
+And in their own way, both Henriques and Butler are themselves “guinea pigs,” having each chosen one of Harvard’s two newest science concentrations.
+Butler is studying Human Developmental and Regenerative Biology, a concentration officially implemented in the fall of 2009 which focuses heavily on the potential for stem cell research.
+Henriques, meanwhile, is studying Biomedical Engineering, Harvard’s first subject-specific engineering concentration, which was announced last spring and introduced this past fall.
+Though these two concentrations ostensibly share many qualities—both engage with timely and well-publicized scientific issues, and both have strong appeal for  premeds—they have produced extremely different results in their debuts.
+HDRB has attracted 95 concentrators from the sophomore and junior classes, making it one of Harvard’s more popular biology majors.
+Biomedical Engineering, by contrast, is a more intimate group this year. Despite initial faculty opinions that BME would be a “popular option,” the concentration attracted only thirteen sophomores, making it the smallest concentration offered by the School of Engineering and Applied Sciences.
+According to some within SEAS, Biomedical Engineering may have drawn fewer students simply because it is similar to an existing track within the engineering sciences degree. HDRB, by contrast, offers a more distinct option for students to study a field previously unavailable to them.
+As these two concentrations grow from infancy, administrators within both programs say that they hope to smooth out logistical issues—such as departmental advising—while offering students the opportunity to study cutting-edge fields within engineering and science.
+ON THE CUTTING EDGE
+Faculty involved in both HDRB and Biomedical Engineering say that they believe their concentrations offer unique opportunities to students.
+HDRB provides a chance for students to actively engage with the widely publicized and controversial issue of stem cells.
+Butler says he enjoys the hands-on approach of the concentration.
+“I like actually witnessing a lab as opposed to reading a textbook,” he says.
+Students also say they are drawn to a certain novelty that can only come from an issue that is as recent a scientific development as stem cells.
+“It’s exciting to be in a field that is really up-and-coming,” says Ava C. Carter ’13. “Instead of throwing information at us, there is a lot of creative thinking.”
+Carter says she has also likes the sense that much of her course work covers scientific issues that are not yet very well understood.
+“It’s nice [that] there is no definite answer,” she says.
+Theresa G. Feng ’13 says she was interested in the field because stem cell research has “the potential [to] help a lot of people.”
+Feng adds that it is “cool to have teachers reference papers that came out yesterday.”
+Despite the discrepancy in concentrator numbers, Henriques says that Biomedical Engineering is also a field which is generating excitement among both students and teachers.
+Henriques said that taking Life Sci. 1a: Introduction to Life Sciences as a freshman rekindled his interest in the biological sciences, though he had previously planned on studying mechanical engineering.
+The nearly simultaneous introduction of the BME concentration offered Henriques a unique opportunity to study a field which melds both of his interests.
+For Tunc C. Kiymaz ‘13, another BME concentrator, the new concentration allowed him to pursue all of his academic passions at the same time.
+“My two favorite subjects were math and science. They’re combined in Biomedical Engineering,” he said.
+GETTING OFF THE GROUND
+While Biomedical Engineering may have attracted fewer students than anticipated—and is certainly much smaller than HDRB—professors involved within the concentration say they are not worried about size.
+Addressing the similarity to the Biomedical Sciences and Engineering track of the Engineering Sciences concentration, SEAS Area Dean for Biomedical Engineering Robert D. Howe notes that BME offers students “a more focused education” in a unique field.
+He adds that administrators “certainly don’t view [the concentration’s size] as a problem.”
+Many students in the concentration say they actually see the small size as a beneficial aspect of their experience, rather than a burden.
+“I like that it’s small—there’s camaraderie,” says Henriques. “And it’s a lot easier to get help when you need it.”
+But even though HDRB is larger than Biomedical Engineering, students still say they do not feel that the concentration has become so large as to become less personalized.
+“[The professors] will meet with us anytime about anything,” Carter says. “They’re really willing to spend time with us.”
+One issue raised by several newly-declared BME concentrators is a sense of confusion with regard to departmental advising.
+“There’s lots of ‘okay, I’ll get back to you on that,’” Kiymaz says, adding that he believes the uncertainty “is just part of the new program process.”
+Ainsley E. Faux ’13 echoed Kiymaz’s sentiments, especially regarding the advising process.
+He says that it is unclear to him when BME concentrators will be assigned individual advisors.
+“They were not really sure how things would go,” Faux says of administrators within the concentration.
+SEAS Assistant Dean for Academic Programs Marie D. Dahleh writes in an e-mail that SEAS is planning on hiring “a dedicated adviser for [the Biomedical Engineering] concentration who will participate in the life science advising as well” in order to help address some of these confusions.
+LOOKING TOWARD THE FUTURE
+Both Human Developmental and Regenerative Biology and Biomedical Engineering have had relatively smooth introductions, according to students and faculty—and both concentrations remain open to student feedback.
+“They are very receptive [to] things that we say,” says Carter of the HDRB faculty.
+Kiymaz says he is “really excited” to take more technical classes in Biomedical Engineering, while Butler says he looks forward to “doing research you hear about in the news.”
+These types of research opportunities might be part of the reason why HDRB has accumulated such a substantial student base so rapidly. But administrators involved with Biomedical Engineering are also looking to add such opportunities.
+“We want to integrate more hands-on lab experience,” Howe says.
+But despite the potential “tune-ups” the concentration will undergo, Howe says he feels that, overall, everything is going well.
+“So far, so good,” he says.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A research team at the Harvard-affiliated Massachusetts General Hospital has devised a new treatment model to identify Chinese immigrants suffering from depression and to help them to overcome the stigma associated with mental illness in order to obtain necessary psychological care.
+In a report on their findings in the December American Journal of Public Health, the MGH team wrote that the implementation of their model led to a sevenfold increase in the percentage of depressed patients seeking treatment.
+The team, which was led by Dr. Albert S. Yeung, assistant professor of psychiatry at Harvard Medical School, sought to overcome the cultural and language barriers that Chinese immigrants often face when interacting with their primary care physicians.
+According to Yeung, these obstacles often lead Chinese immigrants with depression to go undiagnosed.
+“Many Chinese immigrants rarely seek out help for any problems beyond physical symptoms. The primary reason is that many Chinese immigrants do not understand the nature of depression,” Yeung said.
+He added that depression is often  construed as being a sign of insanity in immigrant communities, and those suffering from the disease therefore often ignore their symptoms.
+To combat these problems, the team developed a four-step model to identify, diagnose, and treat Chinese immigrants with depression.
+They tested the model at the South Cove Community Center Hospital, where Yeung is on staff.
+In the first step, patients are asked to fill out a short bilingual form in order to gauge their emotional state.
+Patients are then informed of their results, and at-risk individuals are asked to participate in a “culturally sensitive interview.”
+In this interview—which is conducted in Chinese—doctors explain the symptoms of depression to immigrants while trying to remain aware of the negative Chinese cultural view on depression.
+In the final step, psychiatrists work with the patient’s primary care physician to set up a treatment plan—which may include medication—in order to assist the patient’s recovery.
+“The hope is that one day this model can not only be used for Chinese immigrants, but also for other minority groups...to get them the help they need beyond physical symptoms,” Yeung said.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Patrick J. Wolfe, an associate professor in electrical engineering, has been using statistical models to find new ways to reduce noise and improve sound quality in audio tracks.
+Wolfe’s research examines specific audio imperfections—for example, the hissing of an analog tape, or the crackles and pops in a vinyl recording—and how the human mind perceives those imperfections.
+Wolfe uses a special statistical technique called Bayesian methodology to model what people expect when they listen, classifying sounds by whether they are “signal” or “static”—in other words, whether they seem natural or jar the ear when heard.
+By utilizing such statistical models, audio engineers can better determine the signal behind an audio recording and thus filter music from noise when restoring old tracks.
+The applications of Wolfe’s research extend beyond remastering recordings. The same principles can be applied to improving hearing aid technology and developing better speech-recognition tools, as well as reducing background noise in situations as ubiquitous as cell phone conversations, according to the Harvard School of Engineering and Applied Sciences website.
+Wolfe, who came to Harvard in 2004, has spent his career integrating diverse academic fields, including engineering, applied mathematics, statistics, and music.
+Currently Wolfe is researching a wide range of topics, including signal processing in visual data, network interactions (including social networks), and the functioning of vocal mechanisms in humans.
+Even though Wolfe teaches electrical engineering at SEAS, he is also affiliated with the statistics department and in 2004 founded the Statistics and Information Sciences Laboratory at Harvard.
+“I’ve been doing [interdisciplinary research] for so long I kind of take it for granted. Even in college I had to shuttle between singing in class and taking tests on topics like electromagnetism,” Wolfe said, referring to his undergraduate years at University of Illinois Urbana-Champaign where he majored in both electrical engineering and music.
+Wolfe also credits the structure of SEAS as a major boost to his interdisciplinary approach.
+“The fact that we do not have separate departments is very important. We’ve very firmly retained that culture of not having siloed or stove-piped different fields.”
+In his faculty profile, Wolfe cites another reason for joining the Harvard community six years ago.
+“The chance to join Harvard is like what they say about the Mafia: It’s an offer you can’t refuse.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A recent collaborative study by the Harvard-affiliated Dana-Farber Cancer Institute and the Broad Institute of Harvard and MIT has provided researchers with key insight into how particular forms of melanoma—the most deadly form of skin cancer—can become resistant to certain cancer drugs.
+In identifying why B-RAF mutant melanoma tumors, a type of tumor with a mutation in the B-RAF enzyme, become resistant to current medications, the researchers may have opened the door to drugs that could potentially prevent relapse.
+The team identified a particular enzyme naturally existing in the body, called COT, that can cause cell proliferation even after drug treatment, said Levi A. Garraway ’90, an assistant professor at Harvard Medical School and a co-author of the study.
+In a cancerous B-RAF mutant melanoma cell, the traditional drug treatment—a B-RAF inhibitor—would force the cancer into remission. But COT, unaffected by the currently-used drugs, can cause a relapse of the cancer.
+“The cancer cells that we were working with have a growth light switch in the on position and when you put the drug in, it turns it off,” said Cory M. Johannessen, a researcher at the Broad Institute and a co-author of the study. “But these cells gain resistance to the drugs and COT turns that switch back on,” he added.
+Up to this point, said Johannessen, COT’s functional role in human cancers has been relatively unknown.
+But the recent study sheds new light on the function of COT in cancer relapse and allows scientists to look beyond the B-RAF enzyme to find another mechanism to stop the proliferation of cancerous cells.
+“There is no reason in principle, that one could not design a COT [enzyme] inhibitor. But the ones that are available this far are not very potent. ” Garraway said. “There are some cases where we understand the biology really well but we have no good drug to hit that biology.”
+Cancer relapse has proven a major obstacle in discovering cures for most cancers.
+Keith T. Flaherty, a lecturer at Harvard Medical School, said researchers must continuously find drugs to target cancerous cells that have developed resistance to previous medications. He said the process is sometimes described as “whack-a-mole.”
+The study was published in the November 25 issue of the journal Nature.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Researchers at Harvard Medical School have discovered that sex-specific behavior plays a significant role in the interactions between male and female fruit flies.
+Neurobiology Professor Edward A. Kravitz, along with post-doctoral fellows Yick-Bun Chan and Maria de la Paz Fernandez, genetically altered either the sex of the cells that make the flies’ pheromones or the sex of the nerve cells in the brain, or both, in order to determine the effects of these changes on the sexes’ interactions with each other.
+Normally, the interaction between two male fruit flies is characterized by aggression—particularly if food, light, or a potential mate is present at the scene. In turn, a male fruit fly will attempt to court a female fly by signaling with his wing and singing.
+Throughout these interactions, male and female flies determine the other’s sex by employing different senses.
+The “transformer gene”—which is only active in female tissues—can be turned on or off in either gender to manipulate the sex-specific taste and smell of the fly.
+The researchers observed that when a male fly encountered a female genetically manipulated to exude a male “taste,” he would attempt to fight—instead of court—her.
+A similar interaction was witnessed when a male fly met a female exhibiting male behavioral patterns as a result of a brain cell alteration—even if the female did not have other male tissues.
+Kravitz said that he and his team had expected the change in taste and smell to alter the flies’ interactions.
+What they did not expect, however, was the significance of behavioral change in the interactions.
+“It makes the important point that the way an animal behaves is equally important as the way an animal looks, touches, and smells,” Kravitz said about his research. “It also shows you can completely switch the normative behavioral profiles so that males will court males or males will fight females.”
+Kravitz said that the recent discoveries serve as evidence of the “complexity and biological unity that exists.”
+When asked if this study could be extended to other types of animals in the future, Kravitz said that flies are unique because “the genetic tools are so powerful.”
+“We can do manipulations in flies now that can’t be done in other species yet,” he added.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+For many athletes, an ACL tear can mean the end of a career. But for Dr. Mark Drakos ’98 it was just the beginning.
+Drakos, a former four-year varsity wide receiver for the Crimson, saw his fair share of injuries while in uniform. He also noticed that he and his teammates would be especially sore after games and practices held on different surfaces.
+Now an orthopedic surgeon, Drakos has turned these observations into one of the field’s most progressive and unique research programs.
+Using a custom-built machine called the ACL Dominator, Drakos and his team analyze the strain placed on the knee ligaments under certain conditions and movements. While many injuries are caused by heavy-hitting contact (especially in football), the project is focused on non-contact ACL tears. Drakos admits his program is far from perfect, but his team’s new developments are still on the cutting edge of orthopedic research.
+The method and the machine are especially unique for two reasons. One is that the ACL Dominator allows for the control of the many variables researchers believe can influence ACL injuries, including variations in playing surfaces and athletic gear. The other is that rather than creating a mechanical model of the human leg, Drakos uses actual legs from human cadavers.
+While the severed legs may conjure images of Dr. Frankenstein, Drakos’ work is producing real results with the potential to bring about substantive changes in the treatment and prevention of athletic injuries.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+“We got Tommy! We got Tommy!”
+So cheered the sell-out crowd three years ago at Lavietes Pavilion, as it witnessed the Crimson’s 62-51 upset victory over Michigan. It was only Tommy Amaker’s eighth game as Harvard men’s basketball coach after being dismissed from the same post with the Wolverines just nine months earlier.
+Forty-four more tallies in the win column later, the Crimson (5-1) remains very happy to have Amaker, whose squad will attempt to earn him a second win against Michigan (4-2) tomorrow afternoon at Crisler Arena, in Harvard’s first televised game of the season.
+“From the way he talks...he’s going to treat it a lot like any other road game, except there could be more people that he knows around,” said Michael Rothstein, who covers Wolverine basketball for AnnArbor.com.
+Amaker has repeatedly downplayed the inevitable emotions accompanying his return.
+“Honestly, because we’ve already played Michigan once since I’ve been here at Harvard, we’ve had the chance to work through a number of those kinds of feelings [of facing a team he once coached],” the former Duke star said yesterday. “It seems like it’s been a lifetime ago.”
+After leading last year’s Harvard team to the best season in school history, Amaker now appears to be leading a program turnaround similar to the one he instituted in Ann Arbor, where he accumulated a record of 109-83 during a six-year tenure.
+Amaker’s Wolverines went to three NITs and won the tournament in 2004, but they failed to reach the NCAA tournament—a key factor in his firing.
+“I’m not really sure what the reception will be,” Rothstein said. “I think there’s a group of people that realize what Tommy had accomplished here...and I think there are people who are just going to always want to win...but I don’t think Tommy will be booed. I don’t think Michigan fans will do that.”
+Now Amaker is trying to accomplish in Cambridge what no Crimson coach has ever done before: capture an Ivy League title.
+Meanwhile, current Michigan coach John Beilein has had an up-and-down time as Amaker’s successor, and this season has been no exception.
+The Wolverines enter tomorrow’s contest coming off their best performance of the season—a 69-61 win at Clemson Tuesday night, the team’s first victory in the ACC/Big Ten Challenge since 2005.
+The success was a bit of an upset for Michigan, which rebounded from two straight road losses against Syracuse and UTEP in the Legends Classic two weeks ago.
+“It looked like they were very confident and shot the ball well,” Amaker said. “It’ll certainly be a handful for us.”
+Sophomore point guard Darius Morris had a near triple-double against the Tigers, scoring 13 points and grabbing seven rebounds to go along with eight assists.
+His efforts were accompanied by freshman forward Evan Smotrycz’s 18 points, a game-high.
+The Wolverines, which lost Manny Harris and DeShawn Sims—their top two scorers and rebounders in 2009-10—were predicted to occupy the cellar of their conference, during a clear rebuilding year for a team that features no seniors.
+But as Amaker knows all too well, taking down a Big Ten team on its own floor will be a tall task for the Crimson, which arrives in Ann Arbor on a tear of its own.
+Fordham visited Lavietes Pavilion Wednesday evening and left on the wrong end of a 80-57 blowout. The rout was the fifth consecutive victory for Harvard, which was buoyed by 15 three-pointers and 56 percent shooting from behind the arc in the contest.
+The long-range accuracy will need to continue against a stingy Michigan defense that has allowed its opponents to shoot just under 25 percent from three—good for ninth-best in the nation.
+Look for Amaker to rely on big man Keith Wright, especially early in the game. Currently sixth in the nation in shooting percentage, the junior co-captain will have to make his presence felt in order to free up space for perimeter shooters—of which the Crimson has plenty.
+Junior co-captain Oliver McNally, freshman Laurent Rivard, and sophomore wing Christian Webster have combined to drain 36 three-pointers on the year.
+With no players Amaker recruited or members of his coaching staff remaining with the Wolverines, tomorrow afternoon’s contest will be a chance for the visitors to take a clean slate and make a lasting statement—not about Amaker but about his budding program.
+“We’re all thinking about it; we’re not dumb,” McNally said. “It’d be awesome to be able to get it for coach. He won’t admit it...but there’s going to be an extra something because he came from there. But essentially it’s still about us making strides, doing what we’ve been doing, and trying to get another tough road win.”
+—Staff writer Dennis J. Zheng can be reached at dzheng12@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In last year’s match against Boston College, the then-No. 6 Harvard women’s hockey team cruised to an easy 5-0 victory over the unranked Eagles.
+But this year, the tables have turned. No. 6 Boston College (10-2-4, 6-1-2 Hockey East) comes in as the favorite against the unranked Crimson (4-4-2, 4-2-2 ECAC), as the two Boston teams face off Sunday afternoon at the Eagles’ Conte Forum.
+“BC has a really strong team,” tri-captain Kate Buesser said. “It’s going to be a challenge.”
+After a rough 2009-10 campaign, Boston College has emerged as one of the best teams in the country. Part of the Eagles’ resurgence can be attributed to the return of a powerful senior duo: forward Kelli Stack and goaltender Molly Schaus. Last year, the pair shed the maroon and gold in favor of red, white, and blue, as they played for the U.S. Olympic Team in the Vancouver Games.
+Back in college, the two now form perhaps the best forward-goaltender combination in the nation.
+“Both [Stack] and [Schaus] coming back from the Olympics has been great for us,” said Boston College coach Katie King. “They’re leaders on and off the ice for the team.”
+Stack leads the nation in goals and was Hockey East’s Player of the Month for November, tallying 13 points in just eight games.
+“[Stack is] an excellent goal scorer,” Busser said. “Clearly, it’s going to be a challenge in the defensive zone to shut her down.”
+Schaus is also among the elite at her position. Her .941 save percentage is the fifth-highest mark in Division I.
+“Schaus is at the top of her game,” Harvard coach Katey Stone said. “There’s no question about it.”
+The former Olympian is not the first top-notch goalkeeper that the Crimson will face. In a two-game series last weekend, Harvard squared off against another top collegiate stopper, Minnesota’s Noora Räty. The Crimson was able to muster only two goals against the Golden Gophers.
+Harvard may have an even tougher test in Schaus.
+“We’re going to have to put a lot of shots on her and see [what] we can do,” Stone said. “It’s going to be a great challenge for us.”
+Even without the Eagles’ Olympic tandem, the Crimson has problems of its own. Harvard has successfully killed only 67.4 percent of penalties, worst in the nation. Of the seven goals that the Crimson allowed in the series with Minnesota, four came on Golden Gopher power plays.
+“It’s a little frustrating,” sophomore forward Jillian Dempsey said. “On penalty kills, we’re working hard, and the puck’s just not bouncing…the way that we would like.”
+To combat the problem, the team has practiced supplying more pressure to the opposition in penalty kill situations.
+“We’re going to start working on a much more aggressive penalty kill,” tri-captain Liza Ryabkina said.  “We’ve been pretty passive up until now.”
+Another issue for the Harvard defense comes from between the pipes. After losing goaltender Christina Kessler ’10, the NCAA’s all-time leader in career save percentage, the Crimson has yet to settle on one keeper, with freshman Lauren Joarnt and sophomore Laura Bellamy splitting time in the net. Stone and her coaching staff decide who will start on a week-by-week basis—a stark contrast to the Eagles’ consistency in goal.
+But Harvard has its share of strengths as well.
+At times, its offense can be potent. In a three-game stretch earlier in the season, the Crimson scored 10 goals. And after Minnesota shut out Harvard in the first match of the series, the women from Cambridge showed some life at the end of the second game, scoring two goals in a 23-minute span.
+Unlike the Boston College offense—for which Stack has scored twice as many goals as any other player—the Crimson has a balanced attack. Three seniors—Buesser, Ryabkina, and Katharine Chute—are tied for the most goals on the squad with four apiece.
+“We’ve got plenty of weapons,” Stone said. “It’s just a matter of putting it all together.”
+According to the Eagles, Harvard also has another strong point—its determination.
+“They’re going to work extremely hard [on Sunday],” King said. “That’s been a common trait for Harvard teams.”
+Despite these strengths, the Crimson faces an uphill battle this weekend. But even though it’s the underdog on paper, Harvard remains confident in its ability to keep close with Boston College.
+“We have a great opportunity to take advantage of their high ranking,” Buesser said. “Hopefully, [we’ll] throw some pucks into the back of the net and really show what we can do out there.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Few areas are ruled by cold rationality like sports. If your ideas make sense, eventually someone will listen.
+In his book Moneyball, Michael Lewis describes the long struggle of ambitious statisticians seeking to have their baseball theories heard. Pioneers such as Bill James were seen as threats to the traditional system of management and were ignored for many years. But eventually reason won out.
+While James didn’t start working for a professional baseball team until he was 53 years old, two Harvard undergrads, sophomore John Ezekowitz and junior Jason Rosenfeld, have wedged their way into the world of professional basketball at a much younger age.
+Through their involvement with the Harvard Sports Analysis Collective and their academic work as statistics concentrators, both have had the opportunity to work with professional basketball teams while still in college, an achievement neither thought possible while in high school.
+Rosenfeld began as a high school graduate, eager to find a niche in the sports world.
+“Growing up, I liked basketball, baseball, football,” he recalls. “So I did a lot of web surfing, and emailing, and networking, and I was looking into any of the sports. I didn’t have a lot of leverage.”
+While on his gap year, Rosenfeld had the opportunity to read about the statistics revolution in sports and took a liking to the discipline.
+“I was kind of planning on studying statistics even before I got to college,” he says. “I was originally interested in finance. I started reading books about randomness and uncertainty. I started falling in love in with the idea of making decisions under uncertainty...Then when I found out it could help me get a job in sports...it seemed like the obvious major to do.”
+For Ezekowitz, meanwhile, the statistics turn was less planned.
+“I’ve always been a really big sports fan,” the sophomore says. “When I got to Harvard, in a statistics class, Stat 104, I thought, ‘Wow, this is really cool.’ It just started with Stat 104. I liked stats; I liked sports. This [HSAC] is a club where I could do both.”
+The decision to join HSAC gave Ezekowitz the opportunity to be read by high profile figures in professional sports.
+“It’s funny because the club has a higher profile in sports analytics than it does on campus,” Ezekowitz says. “Last year the focus shifted to our blog...I sort of got to be there as the blog took off.”
+It was on the blog that Ezekowitz made his name. In what became his best-known study, Ezekowitz analyzed situations in which basketball teams leading by three points late in the game decided whether or not to foul their opponent. He found the decision to have no significant impact on the game’s outcome.
+Ezekowitz’s research was cited by ESPN Magazine, Sports Illustrated, and the Wall Street Journal.
+“I was particularly impressed that he not only wrote a smart article but that we was willing to roll up his sleeves and collect a lot of data,” says Daniel Adler ‘10, now a first year student at Harvard Law School and a graduate advisor to the club.
+Adler was so impressed that when asked to recommend a statistician to the Phoenix Suns’ general manager, he suggested Ezekowitz.
+“I knew John was a hard worker and had done a bunch of things for HSAC,” Adler says. “After hearing what they were looking for, I thought John sounded perfect.”
+Phoenix seemed to agree and decided to hire the statistician, who was recently elected HSAC president for the 2011 calendar year.
+“It’s an absolute thrill,” he says. “To be able to have this opportunity while I’m still in college. I’m blessed, and I’m looking forward to trying to make the most of it.”
+Similarly enamored with the industry, Rosenfeld took last year off from Harvard to work for the Shanghai Sharks, a team in the Chinese Basketball Association. Originally hoping to travel to China in order to work on his language skills, the then-president of HSAC saw an opportunity to work in basketball when Houston Rockets center Yao Ming purchased the Sharks.
+“I can’t imagine doing anything more satisfying or more gratifying,” Rosenfeld says of working in sports. “By far the most touching thing is being able to do something where you’re really affecting the outcome, being able to to see games and to know [you’ve impacted them]. It’s the most magical feeling.”
+But Rosenfeld and Ezekowitz both know that magical feeling would not have been possible were it not for a relatively recent change in the culture of professional sports.
+What began as an unpopular concept in baseball turned into a movement that eventually attracted the attention of basketball executives.
+“It’s pretty well known in the NBA,” Rosenfeld says of the statistical revolution. “At least half of the teams have someone doing analytics work.”
+The move has opened the door for sports lovers, like Ezekowitz and Rosenfeld, whose talents are better suited in the classroom than on the court.
+“There’s always going to be a surplus of people who love sports and have a math background,” Ezekowitz says. “It’s a really exciting time for basketball and basketball analytics. It’s starting to hit a critical mass and take off.”
+—Staff writer Christina C. McClintock can be reached at ccmcclin@fas.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+This year, Zachary M. Frankel ’11, Daniel E. Lage ’11, and Baltazar A. Zavala ’11 and first-year Medical School student Aakash K. Shah were selected as Rhodes Scholars. We caught up with Frankel and Zavala to ask them about their time at the College and their thoughts on spending the next year and maybe more at the University of Oxford.
+Video by Kate Leist, Andrew J. Petschek, Benjamin M. Scuderi, and Bran S. Shim/The Harvard Crimson.

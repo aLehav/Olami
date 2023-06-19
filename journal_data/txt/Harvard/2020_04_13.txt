@@ -1,0 +1,264 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+By the time I confirmed that I had coronavirus, it had been 13 days since I started experiencing symptoms. Between my first fever and my positive test result, I saw multiple doctors, took multiple unrelated tests, and learned first-hand the incoherence of the coronavirus testing and tracking process.
+Within the span of three days, University President Lawrence S. Bacow and his wife experienced symptoms, got tested, and got their results. I wish them well. I know how awful it is to get the novel coronavirus, and I imagine only more so with Bacow’s autoimmune condition. But my story is much longer than his, and I hope its details reveal the institutional shortcomings in the initial response to the outbreak.
+It took me nine days of illness to get tested and 13 days to find out it was COVID-19, and I had to do that outside of Harvard University Health Services. Our cases run parallel in that we presented similar symptoms and likely contracted the virus through community spread, but the divergence in our timelines raises questions about how testing is distributed and reflects the deeper inequalities in our society’s healthcare system laid bare by this pandemic.
+THE FIGHT TO NAME AN ILLNESS
+I started feeling ill on March 8. It started with back pain and a massive headache, but I thought little of it, believing that it was related to bad posture and stress. My body told me otherwise. During the first two nights, I woke up every two to three hours drenched in sweat.
+On the morning of March 10, I went to Urgent Care at HUHS because I realized that I had been in contact with someone who worked at Biogen, the company whose conference was an initial source of the outbreak in Boston. The person did not immediately respond to my text message when I asked if they had attended the conference, so I was concerned that I might have been exposed.
+By that time, I had a persistent fever of 100 degrees or higher, chills, muscle aches, and an occasional dry cough. I relayed my concerns to the attending doctor at Urgent Care. Since I did not travel on an airplane from a country with a Level 3 travel warning (then Italy, Iran, South Korea, and China) and/or had not been in contact with a confirmed positive, I did not qualify for a COVID-19 test. Instead, the doctor gave me a flu test and his personal number in the event that my Biogen friend had attended the conference and been exposed. When it turned out that this was not the case, I texted the doctor. He said it was great news: It meant my chance of having contracted COVID-19 was low. I felt some relief from that message, but I was still nervous, because medical experts on the news were already warning of community transmission and I still did not have an official diagnosis to name what was happening to my body. For that reason, I decided to begin self-quarantining, but as a graduate student worker at the University, I continued to virtually attend classes and fulfill my teaching fellow duties amid the tumult of transitioning to online classes as best I could.
+But when my flu test came back negative, panic arose. My landlord, who lives downstairs in my shared house, had a heart attack last year. One of the housemates who lives upstairs is 75 years old. If I had COVID-19 and gave it to either of them, it could potentially be fatal. So on March 12 I went back to HUHS to try to figure out why I was still sick. I relayed my concerns to the nurse. She empathized, but said that I still did not qualify for a COVID-19 test. Instead, I was given a chest x-ray and urine test. I called back on Saturday to get my results, but they were not ready. My stoicism broke, and I spent the entire day in bed crying.
+On Monday, March 16, the urine results came back normal. By that time my symptoms had remained unchanged for eight days. Even Tylenol bottles warn that you should consult a doctor if a fever gets worse or lasts for more than three days. Given that previous medical tests eliminated the possibility of other illnesses, the likelihood that I had COVID-19 seemed to be increasing, so I called HUHS again. They said there was nothing they could do, but that if the fever persisted, I should come back on March 19 for another chest x-ray.
+Luckily, the following day, I received a tip from a friend that Somerville Hospital was beginning drive-through testing on Wednesday. I called to see if I could qualify. Fortunately, the doctor said I could go in that day to get tested, and so I high-tailed it to the hospital. They gave me a nasopharyngeal swab, and then prescribed medicine for the fever and the loss of appetite. By then, I had been sick for nine days, but there was hope. There is a power and relief in being able to put a name to an illness.
+THE POSITIVE TEST
+On the morning of March 21, at around 8:30 a.m., I got a call from the hospital that I tested positive for COVID-19. I immediately called HUHS to inform them of the diagnosis, concerned that I might have endangered the healthcare workers during my visits there. Then I texted all of my housemates. One had developed cold symptoms and a bad cough the weekend prior. I gave them the phone numbers for Somerville Hospital and HUHS. An hour after I called HUHS to update them, they sent an email asking whether I had a physical copy of the results that I could share. But when I got the call from the hospital that I was positive, my first thought was who I might have exposed, not whether they had proof.
+HUHS public guidance on contact tracing refers University affiliates to the Department of Health, and the Department of Health only tracks people who I would have been in contact with after symptoms presented, which I had managed to limit to my housemates. When I tested positive, I did not have any legal obligation to inform anyone of my diagnosis. While the average incubation period is around five days, as many as 14 days can pass between being infected with COVID-19 and feeling sick. Scientists believe that one can still be contagious during that time. Knowing this, I spent the next several hours messaging all of my classes, my department, relevant institutions, and my friends on and off Facebook about the situation and urged them to get tested if necessary. Doing so, I felt, was an ethical imperative, not merely a courtesy.
+There is a debate to be had over balancing privacy considerations and public health, and I do not claim to have a good answer. However, it strikes me as unsettling that in a pandemic, mass information dissemination about potential exposure is not an institutional prerogative, but instead relies on individual choice.
+Despite fitting the criteria, such as presenting with symptoms and being in contact with someone who tested positive, the housemate with the cold found it somewhat difficult to get tested. Somerville Hospital was no longer accepting walk-in cases like mine, requiring permission from a primary care physician. HUHS Urgent Care wanted to speak with me before granting permission to my housemate, asking for a timeline of my illness and how I got tested. My housemate was finally tested that afternoon. My name was added to an internal database, but I have not heard from HUHS since, not even to check on the status of my health.
+On the other hand, I received daily phone calls from the Cambridge Department of Health to monitor my symptoms and check on my wellbeing. My housemates received the same call daily too since they were at risk of exposure. A positive diagnosis requires self-isolation, which entails separation from the household. I was not to leave my room. If I stepped into common spaces, I had to wear a mask and gloves. Anything I was near had to be sanitized. If I wanted food, I needed to ask a housemate to leave it at my door. Due to potential exposure, my housemates were also impacted, and had to begin self-quarantine.
+To be cleared, the housemate with the cold had to test negative, and I had to have no symptoms for at least three continuous days without the use of medicine. The other method of clearance was for me to have two negative COVID-19 tests taken 24 hours apart, but given the shortage, this was not an option. Five days after my housemate got tested, the result came back negative. I was cleared on March 27.
+THE PRICE OF LUCK 
+I am incredibly lucky that I was able to get tested when I did, even though it was nine days into my illness. If I had a serious pre-existing condition or if I was much older, that 13-day period between getting sick and hearing my test results might have been fatal. But that word conveying gratitude — lucky — also masks the emotional toll this process took. Throughout this ordeal, I was constantly anxious that I could be responsible for someone’s hospitalization or death. After confirmation of COVID-19, I constantly wondered if I had done everything I could to make sure that I reduced the possibility of making a colleague, a housemate, or a stranger sick during the previous 12 days of uncertainty. The counterfactual haunts me. Since the coronavirus was never presented as a possibility until I got tested, what if I had subsequently attended classes on campus, acting in good faith but endangering lives?
+As I watched the news in horror at the rising death toll and the dire situation in hospitals, I often felt guilty about my insistence on naming my illness, because I might have taken away a test from someone who needed it more. But I have also realized that naming the illness provided much-needed clarity. The symptoms were no longer incoherent and recovering became my priority, rather than pushing through and completing work. More importantly, the diagnosis also forced those around me to confront the dangers to personal and public health and respond accordingly. I shouldn’t have to feel guilty about receiving a necessary test; systemic failures should not be a psychological burden to individual patients in need of care.
+This clarity both concealed and revealed emotional pain. Given the reports of increasing vitriol against Asians and Asian Americans, I feared that people would approach me with stigma or hatefulness because I tested positive. While I projected calm in my daily phone calls with my parents in California and Taiwan, my heart ached for them. Since I became sick, my mom frequently thought about the reality of COVID-19 patients dying alone. Might that have been me, her daughter? This knowledge, coupled with the fact that she lives with my cousin, an EMT, compelled my mom to tell my sister and me that she loves us and that we had to continue living should the worst-case scenario happen to her.
+It would be convenient to blame individual doctors or nurses for my experience, but the reality is that this is a consequence of structural faults in our society and our healthcare system. There is something wrong when ordinary people find it difficult to get care, when they must sleuth and fight their way to a diagnosis while the wealthy, powerful, and connected have an easier time. While the federal government bears the biggest responsibility for the failures to adequately prepare for and respond to the crisis we are living through, healthcare institutions also need to make efforts to re-evaluate their administrative policies to ensure that inequalities are not being exacerbated and public health is not being endangered — especially when the lack of resources is taxing and threatening our healthcare workers. Harvard, unfortunately, is another microcosm of this larger systemic problem. These inequalities, across the institutional scales of our lives, should be the target of our anger and efforts to call for policy change.
+In terms of combatting this pandemic, I would encourage anyone who has recovered from COVID-19 to consider donating plasma for antibody research or for compassionate treatment. The National COVID-19 Convalescent Plasma Project, established by physicians and scientists from 34 institutions, hosts a platform to register and match potential donors.
+We have an obligation to help ease the pressures for our doctors and nurses wherever we can. We will get through this together, and hopefully through our actions, both collective and individual, build a more benevolent and egalitarian world.
+Catherine Tsai is a fifth-year graduate student in the Graduate School of Arts and Sciences.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Male final clubs are one of the oldest, most recognizable, persistent staples of Harvard’s social culture. Their parties — held in decadent houses lining Mt. Auburn St with girls spilling out the front door as they queue to join the DJ-led, alcohol-infused, dimly-lit happenings inside, amongst the Picasso paintings, taxidermied animals, and signatures of famous alumni decorating the walls — are not just the fodder of many a dining hall conversation, but also contribute substantially to the depiction of our college in movies like “The Social Network."
+Although I can only guess how final clubs are discussed outside of our Harvard bubble, within it, they are often charged with counts of elitism, exclusivity, and a lack of diversity. The obscure punch process, listed parties with highly unbalanced ratios of more women than men, and token minority members are common complaints. To be clear, there are many other grievances raised against final clubs — some valid, some not. I will never condone misogyny or sexual assault, and so it feels like a waste of column inches to make the obvious argument that predatory behavior should be rooted out wherever it manifests.
+Nonetheless, as a South Asian American woman of Virginia’s middle class, you can most likely understand why I never anticipated finding myself in the throes of such a social scene by joining a female final club. Surprisingly, what I found amidst it all convinced me that final clubs can in fact be a good force on our campus.
+Despite the aforementioned complaints, there are indeed redeemable qualities for both the members and the social scene. Through my own experience, I have met and mingled with people I never would have known otherwise; I have found solidarity in a female community; and I have been able to tangibly work towards increasing diversity in this scene from within it.
+But there is still improvement that can be made. Perhaps the real question is not whether final clubs should exist, but rather what final clubs can learn — especially from one another — to have a healthier presence on campus.
+Hosting more open parties, making the first round of punch open, and instituting a leadership position on board dedicated to promoting diversity can go a long way in making these outlets more inclusive and more diverse. But, it is also important to have supplementary and accessible social spaces led by students on campus to ensure that everyone finds their own community. Some of this is on the final clubs to improve; some of it is not.
+Though students have long shunned final clubs due to their elitist nature, I do not believe the clubs are entirely culpable for their own elitism. Because of limited physical space and administrative restrictions on social gatherings, final clubs often seem like the only college parties happening on a given weekend. The Mather JCR and Pfoho Igloo frequently host themed parties, but they seldom feel like independent college gatherings because they are automatically housed under administrative purview. Students desire the freedom for independent spaces to socially gather, and the only physical ones available seem to be the final clubs, hence the status they are gifted for the autonomy they have.
+However, I would be remiss to not mention that the elitism spoken of in regard to Harvard final clubs also points to the long list of influential alumni whose names are still revered on the walls of the clubhouses today. Franklin D. Roosevelt, Class of 1904, was a part of the Fly; the Fox had Bill Gates and T.S. Eliot, Class of 1910; and Theodore Roosevelt, Class of 1880, was in the Porcellian. Just as being a Harvard student grants us access to an unparalleled alumni network, so too does being a member of one of these final clubs. I believe it is hypocritical to simultaneously benefit from Harvard’s prestige and legacy as a student admitted here, yet scoff at the same inheritance for members of the final clubs.
+To address the contention of exclusivity, it is important to acknowledge that there are multiple clubs with open punch processes. Similar to applying to Harvard or to a job, having previous familiarity with members or even the “application” process itself is helpful and can improve your chances of getting in. But, there is no guarantee. In this way, I do believe the final club punch season reflects similar selection processes for high achieving students and individuals, if just on a smaller scale with different criteria.
+As opposed to the charges of elitism and exclusivity, I agree with those who critique finals clubs for lacking diversity. As a person of color, I distinctly and immediately noticed how not diverse the final club scene is. But, I also think it is equally as important to recognize that this contention has not been lost on the leadership of all final clubs. I cannot speak beyond the administration of my own club, but we recently established a Diversity Chair position on board because the club wanted to make it a priority to diversify the membership and hopefully encourage other clubs to do the same. This past year, our incoming class was majority-minority. It is impossible to say if all clubs will prioritize diversity in the same way, but it does speak to the potential for a better iteration of the final club scene down the road — one that prioritizes and indeed reflects more diversity.
+Final clubs are quintessentially Harvard. Thus, most complaints of the social scene should not be geared towards eradicating the final clubs. Rather, we should focus on how we can improve them to be more accepting, diverse, and inclusive spaces, and how we can better supplement them to reach everyone’s social needs. After all, no one ever said final clubs have to be the only clubs.
+Reshini Premaratne ’21 is a joint concentrator in Social Studies and Near Eastern Languages and Civilizations in Currier House. Her column appears on alternate Mondays.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The Cambridge Health Department will partner with the Broad Institute of MIT and Harvard on a pilot project to test for COVID-19 in nursing homes, the City announced Friday.
+The one-week project will facilitate “surveillance testing,” in which all residents and healthcare workers in Cambridge nursing homes and assisted living facilities will be tested for coronavirus at least once — regardless of whether they are symptomatic.
+Surveillance testing aims to create an “early warning system” that will give the City officials “rapid information about infection rates among those who are at most risk for serious illness upon contracting COVID-19,” according to the City’s announcement.
+According to the City’s announcement, the Broad Institute will supply tests to Cambridge’s seven nursing homes — Cambridge Rehabilitation & Nursing Center, Neville Center at Fresh Pond for Nursing & Rehabilitation, Sancta Maria Nursing Facility, Cadbury Commons, Neville Place, The Cambridge Homes, and Youville House Assisted Living. EMTs from Pro EMS, Cambridge’s contracted ambulance service, will collect samples, and the Broad Institute will process the tests at its state-approved lab.
+Cambridge Commissioner of Public Health Assaad J. Sayah said in an interview that caring for the City’s nursing home residents is a crucial priority during the coronavirus pandemic.
+"We are faced with an unprecedented public health emergency, which calls for unprecedented action in taking care of those who are most vulnerable to disease and death caused by COVID-19," Sayah said.
+"This rapid testing program has the potential to protect Cambridge residents living in our nursing homes and effectively and efficiently determine positive cases, care for and quarantine our loved ones and their caregivers, and mitigate further spread of this virus by isolating all other home residents," he added.
+In a joint statement released Friday, Cambridge Mayor Sumbul Siddiqui and City Manager Louis A. DePasquale said that the project could become a model for rapid testing procedures in nursing homes during the outbreak.
+“The research institutions in our City are at the forefront of the global effort to contain the coronavirus, and we have an extraordinary opportunity to partner with them to help protect our most vulnerable citizens,” Siddiqui and DePasquale said.
+“This pilot program will hopefully become a model for testing in nursing facilities and eventually the broader community, allowing us to better identify and contain outbreaks before they impact these facilities and the community-at-large,” they added.
+—Staff Writer Maria G. Gonzalez can be reached at maria.gonzalez@thecrimson.com. Follow her on Twitter @mariaagrace1.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Jane T. Haltiwanger Fischer fell in love with her husband, Kurt W. Fischer, for his mind.
+“He was a brilliant, brilliant man,” she said. “I fell in love with him for his mind, but as the years went by, and certainly in the last years, it was very clear that what I loved the most about him was his heart.”
+Fischer was a professor at Harvard’s Graduate School of Education and the director of its Mind, Brain, and Education Program prior to his retirement in 2015. He died on March 30 at the age of 76. His cause of death remains unclear; he had Alzheimer’s disease and had come into contact with a staff member at his care facility who tested positive for COVID-19.
+Fischer spent 27 years of his career at the Graduate School of Education.
+One of his most notable academic accomplishments was integrating concepts from neuroscience and psychology with the study of education, creating a field he later called Mind, Brain, and Education.
+Howard E. Gardner '65, a professor at the Graduate School of Education and longtime friend and colleague, said the idea to connect the three fields made Fischer a “visionary.”
+“Not only was that unique at Harvard, it was really unique in the world,” Gardner said. “There was nobody else yet who had coupled this stuff together.”
+Fischer also created the dynamic skill theory, a scale to analyze the complex manner in which humans construct knowledge and develop skills, depending on individual factors like mood, age, previous experience, and environmental factors, like level of support.
+Mary Helen Immordino-Yang, who studied under Fischer and is now a professor at the University of Southern California, said that after founding the interdisciplinary field of Mind, Brain, and Education, dynamic skill theory is his “most powerful legacy.”
+“Rather than trying to reduce the complexities of human beings to statistics or simple averages, or group level metrics that are sometimes true on the whole, Kurt developed ways to appreciate the systematicity in the variation,” Immordino-Yang said.
+In addition to his theoretical work, Fischer was a proponent of expanding access to educational research for teachers and administrators. In 2006, Fischer helped develop the Usable Knowledge Program, a digital publication of education research that allows professionals to “connect research to practice,” according to its website.
+Seth Fischer, his son, recently read through much of his father’s work, searching for the common theme.
+“I think that the through-line was that he wanted people to understand that children matter. Their circumstances matter. Listening to them matters. Their emotions matter,” he said.
+Dean of the Graduate School of Education Bridget Terry Long lauded Fischer’s “lasting legacy” as a cognitive psychologist in a remembrance published by the school.
+“From spearheading programming in neuroscience and education to his steadfast commitment to his students, we are a better community due to his influence and contributions,” Long said.
+Graduate School of Education lecturer Joseph Blatt said Fischer, for all his accomplishments, always remained “generous and gentle.”
+“Generous in the sense that he was always willing to do the extra bit to support me as a colleague,” Blatt said. “And gentle in that he always did it in a collegial and friendly way, not in a dictatorial way that he could have done as a tenured professor holding an endowed chair.”
+On top of his academic contributions, Fischer’s colleagues praised his patience and skill as a teacher and mentor.
+“He was very good with students whether they were brilliant and didn't need any help at all, or whether they had real learning challenges,” Gardner said. “He attracted, over the years, hundreds and hundreds of students who wanted to understand more about how to help kids.”
+Bryan Mascio was one of those students. Prior to his time at Harvard, he had worked as a teacher with students who struggled in traditional classrooms. Mascio said he felt out of place at Harvard until he worked with Fischer.
+“I honestly didn't feel like I really fit in. But Kurt made it very clear that that didn't mean that I didn't belong,” Mascio said. “He was very much embracing of teachers and the experience and the expertise that we bring to the table.”
+Like Mascio, Vanessa Rodriguez was a teacher before she came to Harvard. She was not originally in Fischer’s program, but after she explained her teaching philosophy to him, he invited her to study Mind, Brain, and Behavior.
+“He said to me, ‘You're in the wrong program. You belong here,’” Rodriguez said. “That was really powerful for me. As a Latina, it's not something anyone ever says to you.”
+At first, she was skeptical.
+“I said to him, ‘No, I don't. I don't know anything about the mind, I don't know anything about the brain. I'm just a teacher,’” Rodriguez recalled. “And he said to me, ‘Of course you know about the mind and brain because you're a teacher. That's what you're an expert in.’’’
+Rodriguez and David B. Daniel, a professor at James Madison University, both said Fischer advocated for academics from underrepresented backgrounds.
+“He invited me to be a visiting scholar at Harvard. And in my mind, people like me just didn't ever get that opportunity. He gave me an opportunity,” Daniel said.
+Fischer’s mentorship was not limited to students and colleagues at Harvard. Students from across the world sought his guidance, and he readily gave it.
+“He was just the kindest, most generous,” Daniel said. “He gave his time to his students. And all these people in the field from all over the world who would just reach out to him and instead of blowing them off, he took an interest in them.”
+Seth Fischer said his father simply loved to help people.
+“He would want to help people, not because he thought he would get something out of it in the end. Not because he was trying to play some game of chess. Because he really just loved helping people,” Seth Fischer said.
+Kurt Fischer helped those around him through his humor, too.
+When he was a graduate student at Harvard in the 1960s, one of his professors jokingly challenged his students to adopt a Rhesus monkey and take notes on its life. Fischer took him up on it.
+“He wanted to name it Frodo. But then he figured out that she was a woman, a girl, so he changed her name to Frodi,” Seth Fischer said. “He took care of it for as long as he safely could, raising her kind of as his child in graduate school, taking her everywhere with him, even once to Grand Central Station in New York.”
+Everyone around campus knew about Frodi and enjoyed Fischer’s “whimsy,” according to Gardner, who went to graduate school with Fischer.
+Above all else, Seth Fischer called his father “a champion of kindness.”
+“In his work, in his family, that was sort of his core guiding principle,” he said. “He just also just loved ideas so much.”
+In the end, Fischer had more ideas than he had time to see through in his lifetime.
+“I know that he had more work that he wanted to do when he became ill and couldn't continue,” Haltiwanger Fischer, his wife, said. “That was very hard on him, but he also had very strong faith that his students are going to carry on.”
+His students did, in fact, carry on. Today, Mascio is a teacher educator and instructs his students on Fischer’s theories. Rodriguez is set to publish a major study on teacher wellbeing.
+“I'm using Kurt's legacy. It's all grounded in dynamic skill theory,” Rodriguez said. “And that's all based on the confidence and love and support and just undying belief in me that Kurt gave me.”
+Still, Seth Fisher wishes his father were around to see his legacy for himself.
+“He was just full of life and excitement about ideas and life and loving people. And I just feel like the world could really use him right now,” he said.
+—Staff writer Camille G. Caldera can be reached at camille.caldera@thecrimson.com. Follow her on Twitter @camille_caldera.
+—Staff writer Kavya M. Shah can be reached at kavya.shah@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+As government and public health officials implore people to stay home, serious crime in Cambridge declined 17 percent in March compared to the previous month, according to the Cambridge Police Department’s monthly crime report.
+Violent crime decreased 38 percent—from 24 incidents in February to 15 incidents this past month. Property crime decreased 13 percent, from 130 incidents to 113. Those numbers are also lower than they were at this time last year, when 16 violent crimes and 153 property crimes were reported in March 2019.
+Last month’s decrease in crime more or less coincided with the outbreak of the novel coronavirus and a series of precautions taken to curb its spread. By late March, university campuses had largely closed and non-essential businesses had shuttered. Governor Charlie D. Baker ’79 announced a stay-at-home advisory, which took effect on March 24.
+As of April 12, Cambridge reported 256 confirmed cases of COVID-19 in the city and one death from the disease.
+Local police and courts have also shifted their operations in response to the crisis.
+CPD moved many of its services over the phone and restructured officers’ work hours, while courts throughout Middlesex County transitioned to remote hearings for emergency matters and postponed hearings that were already underway. The Middlesex District Attorney’s office also oversaw the release of prisoners to reduce crowding.
+While CPD’s crime report notes it is too early to determine how the public health crisis will affect crime in Cambridge, Middlesex District Attorney Marian T. Ryan said in a March 27 interview that she believes social distancing guidelines are responsible for a drop in crime throughout the county.
+“Arrests and criminal activity are down,” Ryan had said. “People are not out and about in ways that just lead to lots of interactions that might go awry.”
+As many Cambridge stores closed their doors, shoplifting plummeted by 46 percent with only 21 reports of theft in March compared to 39 in February. Person-to-person theft also reached its lowest yet in 2020, with only two cases in March.
+Though CPD’s domestic violence unit has prepared for an increase in domestic assault incidents as a result of people staying in, CPD received nine reports of aggravated assault this past month — down 44 percent from 16 in February 2020.
+Despite a decrease in overall crime, unattended bikes and packages left on doorsteps were frequent targets of theft. The number of bike thefts rose from 10 thefts in February to 22 in March — a trend that CPD spokesperson Jeremy Warnick explained is common when the weather gets warmer. Theft from residences increased 50 percent from 16 to 24 cases, which Warnick attributed to a rise in package thefts.
+—Staff writer Ema R. Schumer can be reached at ema.schumer@thecrimson.com. Follow her on Twitter @emaschumer.
+—Staff writer Charles Xu can be reached at charles.xu@thecrimson.com. Follow him on Twitter @charles_xu_27.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+After Harvard transitioned to online classes last month, Divinity School students said they are finding ways to maintain spiritual and religious engagement off-campus.
+The Divinity School Office of the Chaplain and Religious and Spiritual Life has provided several resources for students to “use the coming days as an opportunity to deepen our spiritual and religious practices,” according to its website. These include daily “inspirational” postings — such as suggested lament prayers and compilations of spiritual tips — from Divinity School students on the “HDS Religious and Spiritual Life” Facebook page and Instagram.
+The office has also linked tips from Harvard University Health Services to manage feelings of anxiety and fear that may have resulted from the COVID-19 pandemic, advising students to “keep connected” and “practice mindfulness and acceptance.” It also links to a website listing contact information of Harvard's more than 30 chaplains, who represent a variety of religious traditions.
+Religious student organizations are also continuing to maintain a sense of community for their members and other Divinity school students.
+The Harvard Unitarian Universalist Ministry for Students has transitioned to online gatherings, continuing their Friday weekly meetings for fellowship and worship on Zoom, according to Lore M. Stevens, HUUMS’s Communications Chair.
+Stevens said students have adjusted their regular “joys and sorrows” ritual for online worship.
+“Where we normally light candles, we’ve changed the ritual now, so that when someone shares a joy or a sorrow that's going on for them, after they are done talking, instead of lighting a candle, we all take a sip of water, sort of to mark that we are connected to them,” Stevens said.
+“We’ve changed our ritual a little to fit the format — we can’t all be lighting candles in our houses and in our apartments,” she added.
+Stevens also said that despite the difficulties of conducting worship through Zoom, the group has worked to maintain a sense of togetherness.
+“One of our hymns, we’ve found that if actually we do sing it unmuted, it’s totally cacophonous, it doesn't work, but something about it is so funny that it just feels better to sing it unmuted, even if it’s bad and messy, because we’re singing it together,” she said.
+HUUMS is also planning alternatives to the graduation-specific service third-years usually receive, possibly providing personalized gifts for the graduates instead. The group is also considering using its independent funding to financially support members as part of a mutual aid or grant network.
+The Divinity School’s religious and spiritual life calendar lists a number of upcoming events that are continuing over Zoom on a weekly basis, including the HDS Presbyterians’ worship, the HDS Lutherans’ morning prayer, the Disciples and United Church of Christ’s worship, and the Tuesday Morning Ecumenical Eucharist.
+Other events, such as the Episcopal/Anglican Fellowship’s weekly worship event, have been canceled.
+The Harvard Buddhist Community was well-poised to adjust to online spiritual gatherings, according to the Venerable Xianfeng Shi, one of the co-leaders of the Harvard Buddhist Community. Starting last semester, the Buddhist Community hosted daily morning online sitting meditations, along with hosting a longer sitting meditation in-person on Thursdays.
+Shi said the move to exclusively online sittings has improved the structure of the gatherings and encouraged more people to attend more regularly.
+“We did improve a lot of online community — we made it more structured,” she said. “Every day we have a separate style of meditation practice. And we also expanded the community that we were open to, even beyond the Harvard community, to those around us who might find the support of community helpful. So it’s kind of like a mix of Harvard and non-Harvard students.”
+Sarah M. Fleming, another leader of the Buddhist Community, also said the online events have strengthened the Buddhist Community.
+“It's no longer like a separate Harvard Buddhist Community as functioning in-person and Harvard Buddhist Community as functioning online. So it's kind of like a blending of the two,” Fleming said.
+Ultimately, Stevens said students across the Divinity School’s religious and spiritual groups will continue thinking of ways to practice their beliefs in their daily lives and support their members — even as the pandemic, online learning, and social distancing mandates change them.
+“A lot of folks in the Divinity School are trying to think of ways to be useful, even though we can’t really be out in the world right now,” Stevens said.
+—Staff writer Brammy Rajakumar can be reached at brammy.rajakumar@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The First Generation Harvard Alumni board will distribute $500 relief grants to over a hundred first-generation, low-income undergraduates after an application review process, the organization announced this week.
+After the College mandated that undergraduates evacuate campus last month to prevent the spread of the coronavirus, many FGLI students expressed anxieties over steep costs associated with storage and transport home, unearned income from obsolete on-campus jobs, and lost food and housing.
+Just days after the College’s initial announcement, FGHA’s board held an emergency meeting to brainstorm methods to support financially burdened students.
+The group launched a GoFundMe page soliciting donations to finance the immediate costs of students’ storage, shipping, and transportation, raising $65,000 in 11 days, according to FGHA board member Viviann Anguiano.
+FGHA President Daniel “Dan” Lobo ’14 said the donations through the GoFundMe page “ran the gamut” both in size and source.
+“We had awards ranging in size or donations ranging in size from $10 to like $5,000,” Lobo said. “Alumni of all different means gave, alumni from all different regions of the world gave, alumni from all different class years gave. It was really just such a collective community effort that we're really proud of.”
+FGHA announced the opportunity fund on their Twitter on April 4 and invited students to apply over the following seven days.
+Since most students have now successfully covered the immediate costs of transportation home and storage, Anguiano said she expects students will use the opportunity fund to foot the costs of food, rent, laptops, and internet connection.
+“First gen-low income students are going to be greatly impacted by this crisis far beyond just this month or the next few weeks,” she added.
+Lobo said FGHA collaborated with PRIMUS, a group for FGLI undergraduates, as well as First-Year Retreat and Experience, a pre-orientation program for incoming FGLI freshmen, to publicize the fund. The group also solicited applicants through its alumni mentor program.
+The application asked for key indicators that act as “proxies” for economic need, according to Anguiano. The metrics included students’ financial aid status and their parents’ education histories. The form also featured a “narrative” section that asked applicants to detail how the coronavirus crisis has affected their family life.
+Anguiano added that the opportunity fund’s evaluation rubric also includes an “equity weighting” that considers additional factors such as race, gender, and other identity markers of “historically marginalized” students.
+“We're taking a comprehensive review of the application and we're trying to be thoughtful about ensuring that this money gets to students who absolutely need it the most,” she said. “And I think one thing that I was really hoping that this scholarship opportunity would be based on is equity.”
+Anguiano said nearly 300 students ultimately applied to receive a grant by Saturday when the form closed. She added that FGHA expects to allocate the funds to students within the next two weeks after reviewing the applications.
+Lobo said he anticipates the review process will present challenges because the relief fund is not large enough to accommodate all applicants.
+“We're a volunteer board. We're not admissions people. This is not what we're used to doing,” Lobo said. “These are very heartbreaking stories, and we're very much not looking forward to a situation where we have to say no to the stories that we're seeing.”
+“We are committed to going out and raising more funds to be able to meet full student need,” he added.
+Nicholas T. “Nick” Wyville ’20, a senior who applied to the fund, said the $500 grant would serve as a “safety net” for him and his fellow FGLI students seeking long-term employment in a hostile job market.
+“I, as well as other friends, are thinking about how to keep maintaining monthly payments on our credit card,” Wyville said. “People are worried about making a deposit on apartments when we start working hopefully in a few months.”
+Lobo said FGHA has engaged a “two-pronged strategy” to respond to Harvard’s management of the COVID-19 pandemic. The first prong is to provide “immediate relief” to students in need, and the second is “a longer-term advocacy effort” urging administrators to foreground the interests of vulnerable students.
+University spokesperson Christopher M. Hennessy wrote on behalf of the Office for Alumni Affairs and Development that philanthropy like FGHA’s provides “critical support” for Harvard’s mission.
+Charlene S. Kim, director of the Harvard Office of Admissions and Financial Aid’s First Generation Program, wrote in an email that the College has also been working to support FGLI undergraduates.
+“In our conversations with the FGHA board about their fund, and about helping our FGLI students more broadly, they were very heartened to learn that students have been receiving a large amount of financial support from the College during this unprecedented time,” she wrote.
+Kim wrote that the College has prorated student room and board and maintained financial aid levels. Harvard has also increased the grant aid of students on financial aid to replace half of the spring semester’s term-time work expectation, resulting in an additional $875 of scholarship funding for the semester. Students applying for reimbursement of their travel expenses to return home last month can cover those costs with grant aid from the financial aid office.
+Kim added that the College has been pleased to witness alumni mobilizing on behalf of current students.
+“COVID-19 has brought both troubling health and socioeconomic consequences, but it has been heartening to see support for our FGLI students coming from this group of alumni, and from across the Harvard community,” she wrote.
+Wyville said he was grateful to FGHA and the alumni who donated to the opportunity fund. He added that he hoped their mobilization would inspire his peers to similarly support future undergraduates.
+“I think it also sets the groundwork for a lot of current students to also know that, when the time comes, that we will also step up to help students,” Wyville said.
+—Staff writer Juliet E. Isselbacher can be reached at juliet.isselbacher@thecrimson.com. Follow her on Twitter @julietissel.
+—Staff writer Amanda Y. Su can be reached at amanda.su@thecrimson.com. Follow her on Twitter @amandaysu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+From celebrating with your blockmates to surprising a friend in their dorm room, birthdays in college are one of a kind. While the full Harvard birthday experience might not be possible in quarantine, there’s no reason you shouldn’t celebrate. Whether you’re making plans for your own birthday or trying to plan a friend’s, here are some tips to make sure that even a birthday in quarantine is unforgettable.
+Self-care
+Birthdays are about celebrating you! Take some time to appreciate yourself, whether that’s with your favorite snacks, skincare routine, or even just skipping your recorded 9 a.m. lecture and sleeping in. Alternatively, if it’s a friend’s birthday, ship them a care-package with all their favorite things and a handwritten note telling them how much they mean to you.
+Birthday Photoshoot
+Just because quarantine life is quiet doesn’t mean your Instagram feed should be. Find a blank wall at home, hang up a background or tapestry, and get some pro-lighting going. Change into your favorite outfit and recruit a family member to be your photographer. If you want to go the extra mile, use that free Adobe Creative Cloud subscription to enhance your results!
+Free Food Scavenger Hunt
+Wherever you are, there is a restaurant nearby that promises free food on birthdays. Capitalize on free delivery options that many restaurants now offer and get a birthday meal sent to your front door. If it’s a friend’s birthday, surprise them and send food to their house! We’ll help you get started — free birthday drinks at Starbucks, ice cream at Baskin Robbins, and pancakes at IHOP are just a few to choose from.
+Virtual Birthday Party
+Invite your friends to a virtual birthday party over Houseparty or Zoom. Blast your birthday playlist and pick some classic birthday party activities like charades, Cards Against Humanity, or karaoke. Spend your birthday hanging out with the people you love most. Even if they aren’t right next to you, video chatting will make you feel like your best buddies aren’t too far away.
+The list of indoor birthday festivities isn’t limited to what’s above. Making easy microwave mug cakes, watching old movies (High School Musical, anyone?), and spending quality time with family are just a few more. Whether they are with you right now or not, there are people who love and appreciate you. Just remember, we’re celebrating your birthday because you’re special and you deserve it!
+Sections
+The novel coronavirus has rapidly spread across the world, including New York City in particular. Governor Andrew Cuomo confirmed the first reported case in New York — a women who returned from Iran on March 1, 2020. The next day, a second confirmed case of COVID-19 surfaced — an attorney who lived in Westchester, N.Y. The cases soon skyrocketed, resulting in Cuomo declaring a state of emergency on March 7. All New York City schools closed as well as nonessential businesses in order to promote social distancing. Currently, there are more than 250,000 cases in the tri-state area, and more than 10,000 deaths. Photographer Allison G. Lee ventured to New York City to capture the scenes Saturday afternoon.
+A lone jogger runs in Battery Park, located in lower Manhattan.
+Outside the Oculus in Lower Manhattan, the streets are barren.
+In Lower Manhattan, the Oculus, part of the World Trade Center and home to many shops as well as the PATH, the commuter rail to New Jersey is empty.
+The streets of Lower Manhattan had few cars and people covered in protective gear from masks to gloves.
+Fulton Street Subway Station, usually bustling with commuters, is now empty except for New York Police Department officers.
+The “Fearless Girl” statue by Kristen Visbal stands in front of the New York Stock Exchange under the American Flag. The economic impact of coronavirus has caused the financial market to dip to levels close to the global financial crisis of 2008 and rise again.
+In Chinatown, residents stand in line to buy food at NB Wing Wong, a classic Cantonese restaurant that currently provides only take out food.
+In Little Italy, located in Lower Manhattan, painters continue to work outside.
+Outside Hong Kong Supermarket, an Asian grocery store, a worker controls the number of patrons allowed to enter the store.
+People stand in line waiting to enter the Hong Kong Supermarket.
+Washington Square Park, a public park in Greenwich Village is crowded with those who want to enjoy the beautiful day.
+Times Square, usually busy with tourists and employers, now empty.
+6th Avenue, Avenue of the Americas a major street that transports people from downtown to uptown and lively with traffic is now empty.
+Grand Central Terminal in Midtown, a transportation hub to the MTA- Metro North as well as the 4,5,6,7, and S subway lines is barren.
+Another major street, 42nd street is only occupied by some bikers.
+People stand in line waiting to enter a Whole Foods Market, located across Bryant Park.
+New York City, known as the city that never sleeps, is sleeping.

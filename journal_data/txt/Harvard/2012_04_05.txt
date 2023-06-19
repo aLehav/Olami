@@ -1,0 +1,664 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Every summer, starting from age ten, I went to computer camp. For someone whose previous campy experience had been entirely outdoors, this new routine was a strange change of pace. It felt weird to call something a “camp” if it didn’t involve picking ticks off your skin and taking midnight trips to a sketchy latrine. And the college cafeterias where we ate seemed like royal banquet halls to my 10 year-old self. Plus, I learned a lot of things I loved at computer camp: some Java and C++ programming, how to build a computer, the basics of Photoshop and Flash animation, and so on. But mostly, computer camp taught me how to break the rules.
+During the school year, I was the furthest thing from a rule breaker. I kept quiet during class. I turned my homework in on time. If I wasn’t paying attention to the teacher, it wasn’t because I was pelting my neighbors with spitballs or hacking away at my desk with a pair of safety scissors; it was probably because I was just engrossed in a good book.
+But at computer camp, the rules changed. Just about everyone there was a “good kid” during the school year—math geeks who aced every test, technology-savvy preteens who helped fix the teacher’s computer when it broke, and other young “gifted” types. I might’ve assumed they were just as law-abiding as I was. But they were just sneakier rule breakers.
+For computer campers, simply being disruptive was too easy, too predictable. Anyone could pick a fight or act obnoxiously. What was really fun was finding subtler, more creative ways to spark mayhem. One night I was wandering around the computer lab, dying to play some Unreal Tournament, but all the computers were taken. My friend David asked what I was doing, and I explained my plight: “None of the computers are free!”
+Kevin laughed. “Never stopped me. Which of these computers do you want?”
+“What?”
+“How about that one over there?” he asked, pointing to one of the nicer machines in the lab. I still wasn’t sure what he was getting at, but I nodded in assent. Then I watched as, while sitting at his own computer, David took remote access of another kid’s machine—hijacking the kid’s mouse and controlling it with his own from afar. He logged the kid out of Unreal Tournament, then gave the control back.
+The kid blinked, puzzled, swore under his breath, and logged back into Unreal. David logged him back out, and the cycle repeated a couple more times until the kid, muttering something about the “stupid broken computer,” stormed away. David was grinning. “Hey, that computer’s free now.” I didn’t even care about Unreal anymore; what I wanted to know was what the heck had just happened. “How’d you do that?” I sputtered.
+I think David was in a rather indulgent mood—rather than blowing off my query, or refusing to reveal the secrets of his computer magic, he started explaining to me exactly how he’d pulled it off. He probably shouldn’t have—by the end of the week, I was the one signing him out of his computer, much to his chagrin. But it was too late: the knowledge was mine, and I went on to troll the network every year thereafter.
+That wasn’t the only instance of such hackery, of course. One of the most memorable hacks was the year some kid found out how to enter “PRICE SET MODE” on a campus vending machine. I was there when he hacked it; he just stared at it mutely for a few moments, surprised at what he’d just managed. “Well, I do love M&M’s,” he said at last—and set the snack’s price to zero dollars. “And I hate pork rinds,” he added. Bam! Pork rinds were now 65 dollars.
+Some other campers had noticed what we were up to, and soon a small crowd formed, calling out prices. Pop-Tarts for a nickel! Doritos for a dime! It was only a matter of time before we drew a staff member’s attention—soon enough, a counselor sauntered toward the crowd, and everyone turned quiet very quickly.
+The counselor wasn’t an idiot—he looked at the panel on the vending machine that still read “PRICE SET MODE” and the fistfuls of M&M’s half of us were holding, and he put two and two together. But rather than reprimand us, the counselor said instead, “Hey, that’s neat. How’d you do that?”
+So, yes, at camp I learned to break rules—but it was never just being a rogue or causing trouble. It was a way of experimenting and showing off your knowledge, and if your hack was smart enough, even the staff would approve with a wink and a nod.
+—Columnist Julia E. Hansbrough can be reached at jhansbrough@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The whole is always more than the sum of its parts, but sometimes it’s also altogether different. So I shouldn’t have been surprised when—at chef Dave Arnold’s  New York bar Booker and Dax—I ordered a drink with the component parts of a Bloody Maria (a variation on a Bloody Mary made with tequila in lieu of vodka) but received a clear, herbaceous drink more reminiscent of a mouthful of red pepper flakes.
+Post-structuralist philosopher Jacques Derrida coined literary deconstruction, and now many chefs employ a culinary equivalent of the technique. To deconstruct a text is to highlight how the meaning of its words is determined by experience, reference, and context, and how those words have no intrinsic meaning. To deconstruct food is to take its component parts and reassemble them in an unexpected or novel way, challenging our assumptions about the proper way to prepare a dish or a drink. To deconstruct food is to play tricks on the taste buds.
+The world of modernist cooking is rampant with this sort of “food-play,” a way to undermine culinary authority—for example, the authority to define “tortilla espanola” as just this or just that—with a smirk. Booker and Dax is no exception. To really deconstruct Arnold’s Bloody Maria required specific tools, analytical or otherwise, and he had plenty: a custom-built 1,500-degree-Fahrenheit poker to caramelize sugars, a rotary distiller to make tomato juice into “tomato water,” and plenty of liquid nitrogen for herb muddling. Arnold and similar tech–savvy chefs play with food as a young child might—by questioning absolutes, thereby reinventing culinary art with an eye to the counter-intuitive.
+The close association between particular food names and the dishes they are meant to represent encourages easy and repeat consumption, but it shirks real creativity. The combination of centrifuged tomato juice, rotary-distilled horseradish, and reposado tequila at Booker and Dax left something to be desired, but that was the point. Making a thick vegetable cocktail into a light, sippable drink is not meant to satisfy our conventional expectations, but rather to stress culinary imagination over sameness and repetition. It repurposes the act of cooking from the mere fulfillment of hunger to the creation of art with a personal touch.
+Who is to say that a Caesar salad requires more lettuce than bread? We could resign ourselves to reproduce the work of strangers, but this challenge to deconstruct can provide inspiration even when we believe a dish to be complete. Descended from Mexican-Italian heritage, I was taught from a young age the proper way to assemble pasta and the appropriate fillings for a taco. But why shouldn’t we do otherwise?
+The annual guacamole-making competition Guactacular in Brooklyn, New York, provides the perfect opportunity for playing with your food. I entered last year with my brother, a Brooklyn Heights resident, and we began a weeklong trial-and-error process of determining the best guac recipe. After the fourth batch—seasoned with lemon, diced cucumbers, and perhaps too much mint—it was clear that any guacamole deserving an award or at all worthy of a prize ought to be something new, inviting us to think in novel ways about form and flavor.
+My favorite contender of the Guactacular 2011 fought the urge to mash the avocados and swapped in fruit and chocolate for the traditional vegetables and peppers. They topped a chip with an avocado slice, strawberry, kiwi, and shaved chocolate: simple, delicious, unrecognizable.
+For our part, we ended up going with our Mediterranean take on the dish­—a hummus sandwich sans the chickpeas, instead with avocado. It lacked the potent and citrus-based overtones of cilantro, instead with a hit of minty freshness. We didn’t win, but the result of our food-play was something all our own, and it made the result that much more flavorful.
+—Columnist Natalie C. Padilla can be reached at npadilla@fas.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+My punk-rock years were unexpected. I grew up an hour away from Manhattan and decades away from the mid-seventies, and there was a time when these circumstances seemed the greatest tragedy of my life. That was when I spent all of my money on records and CDs, when I spent days listening to Patti Smith and Richard Hell, when there was a thrilling sense of danger in the band names “Dead Boys” and “Sex Pistols.”
+Punk was about disaffection, but I loved it with unfettered and unironic enthusiasm. Every band had something distinctive to listen to, and every band was amazing for it. It was during this manic stage of exploration that I discovered the Dictators, a short-lived group of Noo Yawk punks who cheerfully endorsed hamburgers, cheesy pop hits, and the suburban lifestyle. Fourteen years after they broke up, I was born, and fourteen years after that I discovered and soon fell in love with their debut album, “Go Girl Crazy.”
+I had purchased the record on vinyl during my freshman year, which meant I could only listen to it in my family’s living room, where my mother’s record player was permanently installed. It was not the finest of arrangements. I didn’t mind. I loved the Dictators.
+Though their sound was less up-tempo than most contemporary punk rock, it was blunt, spare, and muscular. Most importantly, their songs were defiantly catchy. “(I Live For) Cars and Girls” seemed to have as many hooks as any of the Beach Boys songs whose lyrics it parodied. “The Next Big Thing” featured their most propulsive riff, a hard-rocking gem that backed up the song’s exaggerated air of confidence.  “Weekend,” via one of the most anthemic choruses in all of punk rock, managed to encapsulate every teenager’s desire, including mine, for it to be a lazy Saturday afternoon.
+That sounds hyperbolic now, but I recall that the sound of the Dictators blew me away from the very first listen. A great deal of this effect had to do with the abundance of hooks, which meant that the Dictators didn’t come across as a self-consciously confrontational group. For me, “Go Girl Crazy” exemplified an extraordinarily friendly sort of music. Listening in my living room, I considered it an appealing ideal.
+If that welcoming nature was hinted at by the record’s catchy punk sound, it was wholly evident in the humor and the personality contained within its grooves. The Dictators had two lead singers, the smart-alecky Andy Shernoff and the force of nature Handsome Dick Manitoba. Between the two of them, the band had enough charisma to make silly songs like “The Next Big Thing” and “(I Live For) Cars and Girls” into what I considered stone-cold classics.
+Shernoff had a knack for sounding simultaneously chipper and sarcastic. “Who’s that boy with the sandwich in his hand?” he asks at the beginning of “Teengenerate,” singing in a way that both mocked and praised his adolescent subject. Manitoba was simply overwhelming, delivering absurd lyrics with self-assured bombast. It was impossible for me to listen to the album’s highlight, “Two Tub Man,” without chuckling at Manitoba’s self-mythologizing outbursts. My personal favorite was the immortal couplet, “I drink Coca-Cola for breakfast / I’ve got Jackie Onassis in my pants.”
+This is juvenile stuff, to be sure. But stupid humor has its place, and “Go Girl Crazy” is exactly that place. I was able to laugh when I listened to the Dictators, which was crucial: punk rock made me feel elated, but it also elicited occasional feelings of inadequacy. I wanted to mosh when I listened to Black Flag, to riot when I blasted the Clash, to pogo when I heard the Ramones. In those days, I didn’t really have people who might have gone along with that, which was part of why the punk era seemed so much more attractive. But I could laugh with the Dictators in my living room, alone but in stitches.
+My punk rock days are over. I no longer listen to the Dictators obsessively, but I cherish “Go Girl Crazy.” There is no vast significance in a bunch of songs about cars, girls, and television, but there is some in an old friend. Legs McNeil, founder of the epochal Punk Magazine, said that he created the publication so that he could hang out with the Dictators. That sort of desire, I suppose, was why I listened to them.
+­—Staff writer Petey E. Menz can be reached at menz@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Between 1976 and 1980, the Navy Mechanics School of Buenos Aires—better known as ESMA, its Spanish acronym—was a site of unspeakable terror. Its red-tile roof and unassuming stucco walls concealed a sprawling prison and elaborate torture facilities, all maintained with chilling precision by the military dictatorship of that era. Of the nearly 5,000 Argentines detained at ESMA, a mere 150 survived. The rest were “desaparecido”—a form of the Spanish verb “to disappear” that continues to conjure nightmarish images here—by government operatives who murdered their victims by drugging them, flying them over the Atlantic, and dropping their bodies under the cover of night. Meanwhile, in speech after speech and interview after interview, the regime denied the existence of anything but classrooms and dorms at ESMA.
+Today, visitors who pass through ESMA’s doors are greeted by a set of glass doors that muffle the thumping rhythm of a subwoofer. Inside, a cavernous white chamber houses a makeshift jail cell dotted with steel-barred windows. Feel-good music from the 1970s blares from a speaker system overhead, and pulsing neon lights shoot from corner to corner. Overhead, a projector beams out a single word in bolded, multi-colored script: “Indifference.”
+This exhibit is the first in Buenos Aires’ new Space for Memory and the Promotion and Defense of Human Rights, a collection of visual art and film that engages Argentina’s painful past.  It makes a powerful opening statement: that the military dictatorship that oversaw the so-called Dirty War of the 1970s came to power because the vast majority of Argentines wanted it to. It also suggests that, when evidence began to mount that the regime was responsible for horrific human rights violations, too many Argentines remained indifferent. While nightclub goers may not have looked out over political prisons as they danced, the analogy is rather apt. ESMA itself is located on Libertador Avenue, the most prominent of Buenos Aires’ promenades. Thousands of porteños would have walked within just a few hundred yards of its torture chambers on their way to work every day, utterly unaware of the building’s true purpose.
+But while this opening exhibit and others address the way that indifference abets political evil, other exhibits at the Space for Memory engage the more interesting question of how human memories of traumatic political events can be warped over time. In a long hall of documentary screening rooms, one film shows a series of interviews with members of an extended family who recall the imprisonment and torture of their now-deceased male relative. For how long was he imprisoned? His son, a toddler at the time, insists it was five years. His nephew is sure that it was just two. His granddaughter wonders if perhaps there were two separate imprisonments, one for two years and the other for three. These and other questions dominate the simple film, which ends with the entire family gathered around a dinner table, heatedly debating the facts of their beloved relative’s past. Human memory, these films remind us, is a feeble tool, and any attempt, however well-intentioned, to understand the past should be governed by that humbling observation.
+Humility, though, is a quality that is lacking in some of the Space for Memory exhibits. Impressive as much of the facility is, its displays are tainted by several instances of jarring politicization. For example, some exhibits have clearly been designed to portray the current president, Cristina Kirchner, and her now-deceased husband, former president Néstor Kirchner, as the democratic saviors of Argentina. One wall is dominated by a now-famous photo of Néstor Kirchner overseeing the removal of a portrait of a former Argentine general from the Ministry of Defense. “Thank you, Nestor,” the captions reads. “By taking down one painting, you inspired a thousand more.”
+The truth is that no Argentine government—Kirchnerista or otherwise—has successfully reckoned with the legacy of the Dirty War, and the question of what to do with ESMA has dogged the country for many decades. In 1998, President Carlos Menem ordered the entire complex destroyed, only to be overruled by the Supreme Court three years later. In 2007, the military at long last abandoned the space, but not before vandalizing many of the buildings. Slowly, non-profit groups and NGOs began agitating for various types of memorials and exhibits—modeling their proposals on those in place at the Auschwitz-Birkenau complex in Poland and the well-received Museum of Memory and Human Rights in Santiago, Chile. But the result thus far is a work in progress. Ultimately, a successful “Space for Memory” should gain full autonomy from the Argentine administration, allowing a variety of artists to construct new understandings of a challenging past.
+—Columnist Benjamin B. Wilcox can be reached at bwilcox@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Nuestra Señora de las Nubes
+April 5-6, 7:00 p.m.
+April 7, 3:00pm, 7:00pm
+The Adams Pool Theatre
+Directed by Enzo E. Vasquez Toral ’14
+Produced by Rebecca F. Elliott ’14
+Students at Harvard are rarely exposed to artistic enterprises that are not in English, and it is always interesting when one of these works is brought to campus. In this light, the latest production by TEATRO!, a Spanish-language theater company that promotes Latin American drama on campus, promises to be a refreshing break from the norm. They will bring Aristides Vargas’ play “Nuestra Señora de las Nubes”—which in Spanish means ”Our Lady of the Clouds”—to the Adams Pool Theatre on April 5.
+Directed by Enzo E. Vasquez Toral '14, “Nuestra Señora” revolves around two political exiles with a shared past, Bruna (Vanessa D. L. C. Martinez '15) and Oscar (Adrian Arteaga '14), who one day find each other in an unspecified Latin American country. “Nuestra Señora” features themes characteristic of Latin American art such as corruption and male hegemony, and these tropes will be accentuated in Toral’s production in interesting ways. For example, the show employs cross-dressing as a means of providing a broad critique of the socio-political conditions of the little town that serves as the show’s backdrop. By keeping genders in flux, not only does Toral unfetter tyranny from its exclusively male connotation—which is how it is usually portrayed in art—but he also attempts to distill it in its purest form through an exploration of its true meaning.
+Aristides Vargas is the director of a politically active theater called Malayerba in Quito—the capital of Ecuador—which specializes in theater that is critical of the Ecuadorian government. Just like Vargas, Toral believes that art is important in generating political discussion in its audience, and he hopes that his production will be able to heighten his fellow students’ sensibilities about Latin American politics. “People tend to think that the political situation in Latin America is really bad, and should not be talked about,” says Toral. “With my play, I want to show them a different angle of Latin American politics.”
+The cast has taken special measures to make sure the play is comprehensible for audience members who don’t speak Spanish. “We really tried amplify the characters, and make them big,” says assistant director Miriam E. Psychas ’13, who also plays the part of Hermano 1. Toral says the play’s language actually encourages the cast to give more emphatic, bodily dynamic performances. “In Spanish, words have more power,” he says.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+To the Editor:
+I am writing in response to your editorial published on March 29, 2012, “What Does Junior 24 Stand For?”
+I disagree with a lot of what was said in this article. First is the view, perpetuated by this article, that Phi Beta Kappa or any other system of distinguishing students, is naturalized and objective. According to the article, the process of selecting students who take diverse classes helps to separate the truly brilliant from the rest. However, PBK is still, as this article itself indicates, fundamentally based on extremely high grade point averages. To uncritically equate the highest levels of brilliance and intellectual growth to this number is to ignore the vast genius and competency of those who knowingly forgo these GPAs for growth outside of formal courses. The most thoughtful and intellectually intrepid students I know do not get into PBK precisely because their education moves them away from the pedantry of academic work. These students can write and articulate their ideas just as well as PBK students but they choose to act on their education, to be involved in improving the social realities they learn from it. To declare the PBK 24 as the most naturally intelligent is to ignore those of that group who knowingly sacrifice GPA and those who arbitrarily get disregarded because of the quirks and politicking within this system.
+Ultimately, PBK identifies a very particular type of student. The student must, generally speaking, be willing to place their own academic self-interest beyond everything else. The PBK student is focused on detail and unwilling to remove themselves from their work to engage in out of classroom learning. They must, on average, be more immersed in academia than other students. When our systems of selection elevate the individualist, action-neglecting students what exactly is our society valuing? I do not see honor societies for the most dedicated activists or the most able public servants. These should exist and these should be venerated as the PBK is in your article.
+Sincerely,
+Mihir J. Chaudhary ’12
+Cambridge, Mass.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Last Friday, after a year-long effort to standardize its drinking regulations, Harvard issued a new, improved, and College-wide alcohol policy. From clarifying specific old policy terms to universalizing alcohol guidelines throughout upperclassmen houses, this comes as a much-needed step for the College, whose previous policy was filled with nebulous wordingthat allowed for frequent inconsistencies in its enforcement. While some tighter restrictions will be placed over private parties—students will be required from next fall to meet with their resident tutor before holding their first room party—the ban on hard alcohol at house formals has been relaxed. That being said, the new policy is not without its faults, as a few aspects of alcohol enforcement still remain largely ambiguous.
+The College’s position on drinking games, for instance, continues to be particularly vague in that it fails to specify whether or not these games constitute the sort of high-risk, excessive drinking that is universally prohibited on campus. It will also remain to be seen how different house tutors and administrators interpret what is to be deemed “competitive” drinking. This gray area will likely leave the consequences of drinking games and other forms of competitive alcohol consumption to the discretion of individual house tutors, one of the very situations that the new policy attempts to combat. In addition, the position of administrators also seems to be lacking in clarity, leaving students to question their level of authority and ability toenforce certain guidelines.
+It is therefore important that the College further clarify their policies so as to establish definitive boundaries for the undergraduate student body. Failure to do so will likely resort in students feeling unsure as to whether or not their actions are acceptable, thereby driving them toward off-campus parties. Furthermore, increased clarification on the degree of administrative enforcement will surely prove beneficial for the administrators themselves by making them less liable for student action.
+In addition, while we are glad that the College has made excellent progress by universalizing and clarifying its alcohol policies, student input again seemed to be somewhat lacking. Although it is commendable that the College enlisted the help of students in the initial drafting stages, the relative lack of turnout at the policy-related dialoguesheld at the end of last year was partly the result of a failure to publicize them around campus. Moreover, this extremely low rate of attendance was likelyalso the resultofa widely held beliefthat the administration would be unwilling to consider seriously theideas and proposals that come from the student body. If administrators were truly interested in the degree of student participation, they should have made explicit the fact that student input would be seriously taken into account through increased publicity and a greater appeal to students on campus.
+On the whole, however, this newly released policy seems to respond to many of the central concerns raised by students over the past few years. Clarity has been something the Crimson has argued in favor of for some time. A solid understanding of alcohol policy is something that was largely lacking up until this point, and the fact that the policy is now clearly defined and universalized is certainly a significant improvement. With consistent enforcement of these new policies, students will hopefully feel more comfortable partying in safely regulated on-campus locations rather than resorting to potentially unsafeoff-campus ones. We hope that now that these long-overdue clarifications have been provided, it is time more than ever for the Office of Student Life to shift their focus from alcohol-related concerns to other important issues on campus.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Come May 24—barring an act of God—I’m due to be one of the last students to graduate from the Core Curriculum.  Lamentably, I will only have been exposed to the various “ways of knowing,” whereas my compatriots currently enrolled in the Program in General Education will have successfully prepared to “connect in an explicit way what students learn in Harvard classrooms to life outside the ivied walls and beyond the college years.”
+Hey, that’s not fair! Only seven of the seven courses I’ve used to satisfy my Core requirements have since been relisted as Gen Eds. What’s more, it’s already apparent that my more forward-thinking classmates’ newfound pragmatism escapes me. For instance, Tuesday afternoon I paid five dollars for J.P. Licks ice cream (thanks to my Core requirement in Moral Reasoning) even though it was Free Cone Day at Ben & Jerry’s (which I believe would be the ethical choice, as per the Gen Ed program’s Ethical Reasoning requirement).
+Despite myobvious disadvantages, I do think I’ve nonetheless stumbled upon an important failing that plagues Harvard College and perhaps the liberal arts more generally. It’s one that the Faculty of Arts and Sciences also seem to have identifiedgiven their stated goals for the Gen Ed program: If Harvard wants to stay in the business ofmass-producing graduates prone to unusual levels of prominent societal impact (or employment in financial services), it must prioritize universal,practical, and in-depth education in the natural and physical sciences.
+Putting aside for a moment its laughably poor execution, the Gen Ed program definitely has more congruentintentions than the old Core. In theory, since 2009 the College has sought to expose all its students to an interdisciplinary and even vaguely technical program that “links the arts and sciences with the 21st century world that students will face.”
+The 21st century. Even now, the term still implies a mystical place where technology, science, and globalization are the defining aspects of society. It’s already true that participating intelligently in contemporary civil and social discourse requires an increasing facility with science and technology—one that would have been superfluous just a few decades ago. It’s a trend that will only accelerate over our lifetimes as we rely increasingly upon science to justify universal solutions to immediate and complex global problems such as climate change, informationflow, energy, and health.
+As such, it’s particularly disconcerting that the departments that can best provide an education in thechemical, biological, and physical principles that underpin these essential issues retain concentrations and secondary fields that seem almost purpose-built to be inaccessible. Introductory classes penalize and weed out the less dedicated and the less diligent, let alonethose committed—God forbid—more to the liberal arts ideal of free inquiry than to intense competition. With such huge disincentivesbarring enrollment inprerequisite courses, higher-level courses—the ones that might actually allow graduates to make their own informed and objective decisions about society’s hot-button scientific issues—are out of the question. Going forward, the best college in the universe would be doing its students and this nation a huge disservice if it doesn’t find a way to enhance deeper scientific literacy among all its graduates.
+Perhaps Gen Ed courses are meant to do this, but they aretoo superficial to satiate undergraduate intellectual curiosity. Students who take themoften go on to search for courses that would help further develop their scientific understanding, butthey run into a horde of intense pre-med students and aspiring Ph.Ds.with whom they must compete. The ability to spend 25 hours a week in Lamont memorizing slides and mastering arbitrary problem types might help you ace the MCAT, but it shouldn’t be a precondition for meaningfully engaging with as much science as one wants to without sacrificing a pristine grade point average.
+The fact that a huge percentage of eager first years who do take Life Sciences 1a and similar introductory science courses are so turned-off by their experience as to give up on science altogether is indicative of the same problem. Students across disciplines who have an interest in the natural sciences—those who want and, indeed, need to know more—should be given a pathway to explore them. Within reason, a historian ought to be able to walk into a higher-level chemistry class just as easily as a chemist might walk into a history class.
+This is especially essential in an era when politicians and commentators either willfully mislead the public or are themselves bewilderedby complex scientific issues. Increasingly, ignorance in the political sphere is becoming a virtue. Places like Harvard are meant to shine a beacon of veritas through the darkness. Unfortunately, truth is only too easy to conceal when the public believes it exists beyond an impenetrable layer of science that must be interpreted by an expert. Though true science always strives for objectivity, in practice, it isn’t communicated that way.
+The media’s equivocation on whether climate change exists at all is an apt example. One or two voices out of a few hundred can still sound pretty loud, especially if they happen to be backed by well-funded interests. Even the best-intentioned citizens who lack reasonable expertise are thusforced to rely on biased, secondhand voices rather than draw their own conclusions from empirical evidence. This problem will only change once higher-level science has been made more accessible.
+Karthik R. Kasaraneni ’12, a former Crimson editorial executive, is a chemistry concentrator in Lowell House. His column appears on alternate Thursdays.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+This spring, members of the Class of 2012 will be reflecting on our time here at Harvard, and looking forward to the adventures and opportunities which lie beyond Commencement.  During the next seven weeks, we will experience a mixture of emotions, including excitement, wistfulness, nostalgia, and joy; so much has happened since that power outage welcomed us to campus.
+The Co-Chairs of the Class of 2012 Senior Gift have thoroughly enjoyed our four years at Harvard.  Like many of our classmates, we tremendously value the opportunities we have been given as undergraduates, which have instilled in us a profound sense of gratitude for the College.
+We are grateful for professors who have enlightened us; coaches who have pushed us; and friends and roommates who have supported, encouraged, and challenged us.
+We cannot reminisce about our own experiences without pausing to thank the Harvard students who preceded us and have chosen to give back to the College. Their generosity supports many parts of undergraduate life and has helped make our Harvard careers possible.
+Over the next four weeks, seniors will have the chance to continue this tradition of giving back to Harvard by donating to the Class of 2012 Senior Gift.
+Every year, gifts to the Harvard College Fund contribute to the immediate use funds available to the College. Immediate use funds are separate from the endowment—whose funds are restricted to, and designated for, specific purposes—and are not invested.  Donations to senior gift are used right away to support College programs: student life; sophomore advising in the Houses; the Office of the Arts; the Office of International Programs; Lamont Café; athletics; wireless internet; and funding for summer programs like PRISE. Gifts to the Harvard College Fund also fund fellowships, scholarships, and financial aid, ensuring that no worthy student is denied access to a Harvard education.
+Harvard needs our support if it is to continue to play a leadership role among universities and as a training ground for future world leaders.
+This year, in conjunction with senior gift, we are running a campaign called “My ’12.”  As Commencement approaches, we are asking seniors to think about 12 things they have loved about their time at Harvard: blockmates, favorite professors, summers abroad, artistic endeavors, student groups or clubs, etc.  Because so much of the undergraduate experience relies on immediate use funds, we are asking seniors to then consider giving one dollar for each reason on their lists.
+After donating to senior gift, each senior will have the chance to anonymously submit his or her list.  In May, we will compile all the My ’12 submissions to create a larger picture of what made Harvard special for the Class of 2012, and will pass this data along to the administration so they know what our experience has been like, what we have loved about our time here, and what our hopes are for future students.
+We, the Co-Chairs of the Class of 2012 Senior Gift, hope students will support many meaningful causes.  Senior gift and future gifts to Harvard should not preclude other philanthropy, but we ask our classmates to donate in order to directly impact current and future undergraduates, who, like us, desire a robust Harvard and will benefit from the resources of the College.
+As Commencement approaches, the senior gift team encourages the Class of 2012, inspired by all that has made Harvard great for us, to give back. We ask each senior to think about what has made his or her time at Harvard special, and to consider donating to help guarantee that future generations of Harvard students have just as much to enjoy. We hope that in the weeks ahead, seniors will reach out and engage with house agents and members of the senior gift team, learn about the impact and import of their gifts, and give at least $12 for ’12.
+Alex Karabasevic is an economics concentrator in Kirkland House, Maya Peña is a history concentrator in Adams House, Elihu Reynolds is a government concentrator in Adams House, Elliott Rosenbaum is a history concentrator in Quincy House, and Rishabh Sinha is an economics concentrator in Pforzheimer House.  They are the Co-Chairs of the Class of 2012 Senior Gift.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+This past week, the Harvard-Radcliffe Christian Fellowship hosted a screening and discussion entitled “Why the Bible Doesn’t Condemn Homosexuality.” The speech was the product of two years of research and writing by Matthew R. Vines ’12, who left Harvard after his sophomore fall to investigate the Bible’s references to homosexuality. FM sat down with Vines to discuss his research, his findings, and his vision.
+Fifteen Minutes: What led to your decision to leave school and start researching this issue?
+Matthew R. Vines: Personal necessity, really. My sophomore fall—the fall of 2009—I came to terms with being gay. I grew up in a conservative Christian church in Kansas, so that is not a good thing to be because the teaching within most of conservative Christianity is that to act upon being gay is a sin. I didn’t know that much about the theology issues back in my sophomore year, so I didn’t know for sure: did the Bible really condemn all same-sex relationships? Because I am a Christian and because I love Christianity, I didn’t feel like that should be the case. The Bible is not going to be promoting injustice, and it’s not going to be promoting oppression and hatred. The only way it could be right is if the Bible is fundamentally not a good thing. There are too many things that I learned and grew up with about Christianity and about the Bible that I think are incredibly beautiful and uplifting and inspiring to just give them all away because of people’s interpretation of just a few verses out of thousands.
+FM: What are the goals of your research?
+MRV: I want to win LGBT equality and reform Christianity to make it much more genuinely Christian. As long as people believe that [homophobia] is not a prejudice but is something that is divinely ordained, then you will never be able to effectively get at its roots and overcome it because people will not be able to reconsider or reevaluate their views so long as there is this scriptural cover over them. So that’s why I wanted to spend all my time studying these few passages that are used to create this protective shield over homophobia in order to really try to understand them.
+FM: Is there an especially prevailing misconception that your findings combat?
+MRV: The most prevailing misconception is that the Bible condemns even loving committed same-sex relationships, which it doesn’t. In the Biblical texts, a main misperception is the meaning of the terms “natural” and “unnatural” in Romans 1, and how Paul actually uses these terms and what they actually mean—they refer to customary gender roles and active versus passive roles. [That passage] is the main reason people believe that the Bible condemns homosexuality categorically, because they say, “Well, he calls it unnatural.” But he’s just using it in a very different way than they’re interpreting him to be using it.
+FM: Do you have plans to further disseminate your findings?
+MRV: My goal is to get this video out there as widely as possible. I made it from the standpoint of somebody who grew up in an anti-gay church and is aware of the intensity of the pain and the fear that that causes and knows how many people are still caught in that vise. Videos can have quite a uniquely subversive and pervasive impact. It’s hard to stop people from watching videos. My actual goal is to get this video into the hands of every LGBT person in every anti-gay Christian church in the world. I want to give [straight Christians] something that if they want they can simply say “Yes, I agree,” and that’s all they need to say. That’s the point of the video.
+FM: What can people do to support your efforts?
+MRV: I’m trying to help people realize that, even if they don’t like religion, this still matters. Even if you don’t believe in the Bible, it still matters. How people interpret it matters. Should people’s religious views be able to lead to civil discrimination? Of course not, but they do. I want people at Harvard to get educated about the Christian theological issues here even if they aren’t Christian and even if they don’t learn anything else about the Bible. Even if people aren’t Christian, I want them to know enough to say, “That’s a bad interpretation. Even on your own biblical grounds, that’s a bad argument.” If we get to that point, we’re going to be able to stamp out homophobia in a much more enduring way.
+Sections
+A man holding his wife’s elbow ushers her down the aisle. “It’s over there,” he shout-whispers, tilting her arm up and back to point at the organ. They settle noisily into the middle seats and look around the hall, their eyes landing on the monumental instrument housed on the balcony. “There are over 3,000 pipes,” the man says to his wife.
+It is Thursday, March 29, and two brothers are playing, one on the organ and the other on the trumpet. The balcony wall stands higher than the musician’s seated bodies, and as they begin playing, we surrender ourselves to the music. The melancholy tones rise and fall, filling the hall and the spaces between us. For 30 minutes, we listen.
+This is the Lunchtime Recital Series, hosted by the Harvard Organ Society on Thursdays during October, November, March, and April. The recitals are held in Adolphus Busch Hall in the Center for European Studies.
+James E. Goldschmidt ’09, the Recitals Coordinator for the Harvard Organ Society, has been with the group since 2005, first as an undergraduate and now as a student at the Law School. He knows the Thursday crowd intimately. “It’s really a cross-section of the community that shows up. Staff on their lunch breaks, students in between classes with Flyby meals, and others, some just locals,” Goldschmidt said.His tone softened as he described one of the regulars. “There’s one man, he always sits in the same place. Back, left, on the stairs...It’s almost like, if he didn’t come, I’m not sure what I would do.”
+Beyond regular attendees, the organ itself draws musicians and audience members from afar. Christian M. Lane, Assistant University Organist and Choirmaster, explains that E. Power Biggs, a prominent American organist, commissioned the organ in the fifties to be built into that very space. Once completed, Biggs began hosting weekly, half-hour national radio broadcasts during which he played the instrument.
+“Many people of a certain generation heard those broadcasts and know the organ only because of those broadcasts,” Lane said. “We don’t pay anything to our recitalists. People come because they want to be here and want to play this important instrument—this instrument that they’ve heard.”
+For 30 minutes every Thursday, from 12:15 – 12:45 p.m., musicians and listeners alike make a small escape. Worried about skipping lunch? Don’t be. Bagged meals are encouraged.
+Sections
+It’s been a long semester and it’s time to blow off some steam. Flower buds are blooming, final project deadlines are approaching, and—projected snow fall notwithstanding—spring is in the air. To celebrate all of our hard work and achievement, the upper echelons of the administration have decided to throw us a wee party. I know. I know what you’re thinking. Is this going to be any fun? Will red velvet cake be involved? Will it be raining? But no: no occasion will ever achieve a level of absurdity to surpass that of Harvard’s 375th anniversary. This is a festivity of a different stripe.
+Farewell to elitist pomp and circumstance! Yardfest is a jamboree in which the whole student body can take part. The third act of the concert that serves as its centerpiece was, after all, democratically elected at “Battle for Yardfest.” According to organizers of the shindig, even the Fest’s celebrity guests are chosen with student input. But ye of Vineyard Vines apparel fear not: Yardfest is also a party for the one percent. That’s the fraction of the student body that recognizes the names of the people performing.
+Among various members of the Ivy League, including Penn, Harvard, Yale, and Columbia, the concept of a weekend-long festival has become essential to the second semesters. Many offer such tantalizing diversions as free food, arcade-style games, and inflatable fun houses. Most provide the academically-minded with an excuse to revel in the culmination of another year and, inevitably, to day drink. Harvard’s take on the prototype is Yardfest—now in its seventh year.
+These baby Coachellas vary in size, nature, and general appeal, but each features a large-scale musical event. When the University of Pennsylvania sold floor seat tickets to its hotly-anticipated Spring Fling concert, undergraduates camped out overnight to secure tickets. Now in its 39th year, the largest student-run festival on the East Coast boasts over 10,000 attendees to its concert alone. Never mind that at Penn, Friday night’s musical performance is merely one component of the weekend-long extravaganza. “The school pretty much shuts down for Fling,” notes Josh Oppenheimer, executive secretary of the Social Planning and Events Committee at Penn, estimating that “99.8 percent of students participate, in some way, in Fling activities.”
+According to Yale College Council’s events manager, Katherine Donley, 71 percent of undergraduates attended the school’s Spring Fling 2011. Of those who did not make an appearance, only four percent were able to go, but chose not to.
+In 2007, fewer than 2,000 students showed up to Yardfest to listen to the musical stylings of Third Eye Blind. Afterwards, the grounds were said to be studded with litter and the memories of awkward middle school haircuts. In 2010, a respectable 4,500 students turned out to see the rapper Kid Cudi. And in 2011, bolstered by a population of farmed-in pre-frosh, that figure nearly doubled. After the concert was over, its entertainers capped off the night by partying at the Owl. (Stars: they’re just like us!)
+Eager to maintain continuity, the Office of Student Life tapped an act best known for its supporting role on Far East Movement’s “Like A G6,” to play in Yardfest 2012. If it ain’t broke, don’t fix it. Amiright?
+This year, Tiesto will take the stage on the University of Pennsylvania’s Franklin Field. The international DJ, who performed at the opening ceremony of the Athens Summer Olympics, will be joined by electro-pop idols and would-be-Urban-Outfitters-icons, Passion Pit. Even our friends at Yale will feel the glow of moderate star wattage when T-Pain heads to New Haven for its annual concert. The rapper has been nominated for 11 Grammy Awards and won two of them. He’s collaborated with Lil’ Wayne, Ludacris, Kanye West, Ciara, and Jamie Foxx, among others. Let’s put things in quick perspective: The Cataracs—who were recently confirmed as Harvard’s headliners—don’t have a photo on their Wikipedia page.
+Reception on campus for Yardfest’s performers has been mixed. Some expressed excitement for the somewhat underground choices. Others were less enthused. “Who are they?” said Vidal U. Ekechukwu ’12.
+Kenneth A. Parreno, a fellow at the Office of Student Life, submits his impression that “while the artist selection matters, the event itself is about much more than that.” Parenno highlights the event’s larger purpose: to bring the College together with good food and good friends. Good food, good friends, and the dulcet tones of Das Racist.
+Sections
+When I curl up in my fluffy comforter each night, I fall asleep to the meandering chatter of the couple next door. Their whole relationship has transpired in her bedroom. It began there nearly six months ago as she gabbed on the phone with friends, gushing about her first date ever. It unraveled through late nights of confessions and fears revealed, through Valentine’s Day and weekend movie nights. And it continues there now as the nightly banter and hiss of soda cans interrupt my rest and lure me to eavesdrop on their discussions.
+I’ve never met this girl. I don’t know whether black bangs graze her nose, whether her shoulders roll forward when she sits, or if her glasses sparkle under the florescent glow of dorm lights. Yet from listening to hours of her conversations I’ve figured out the basics. She speaks Chinese at home and has a tenuous relationship with her family. She’s spends her afternoons reading George Eliot and Jane Austen. She has a boyfriend.
+He’s a senior, as is she, and has dated a few girls long-term. This is her first relationship. She has some confidence issues; he has some control issues. All in all, nothing too out of the ordinary.
+Fall semester they applied to jobs, fellowships, and grad schools. In the spring they started receiving offers. That’s when things began to fall apart. He got a job in Boston. She was accepted to elite grad schools far away. He encouraged her to stay nearby because, as he said, seniors in love always move in together after college, and they were in love. So, following his advice, she started considering Boston schools, apartment hunting on Craigslist in her spare time.
+Two months later she learned that she was granted a traveling fellowship for a year. He told her not to go, that leaving would be selfish. The conversation escalated into a passionate screaming match; she broke it off.
+In ending the relationship, she realized, for a glimmering instant, that he saw his career as more important than a compromise. She understood that, unlike the heroines in her Austen novels, she needed to keep her own career in mind. Maybe I imagined it, but even through the fire door I could see that the one-sided love of the nineteenth century did not apply in her more complex reality.
+But complexity is intimidating and love can dominate rationality. Two days after breaking up, the girl and her boyfriend got back together. He called her on the phone, saying that he was sorry and that he was waiting in the courtyard. She said that she didn’t want to see him, but he coaxed her downstairs. Within minutes they were back in her room, talking out their issues over bubbly Diet Cokes.
+They’re still together, and I remain privy to their conversations. As they speak, I imagine her head tilted against his collarbone, her nimble fingers circling his knuckles as she talks about when they can go look at some of the apartments she’s picked out in Jamaica Plain.
+When he tells her he loves her I want to rap on the fire door. I think about going over to her entryway and slipping an anonymous note across her threshold: The world is changed because you are made of ivory and gold. The curves of your lips rewrite history (Oscar Wilde). I would tell her that she is intelligent and capable, that she should listen to herself. I would tell her that she shouldn’t be too afraid to prioritize her own future. I would tell her that her eyelids and fingernails flicker with flames of love, that she should warm the whole universe with her energy, even in her boyfriend’s embrace.
+Sections
+Andrew Berry, Lecturer in Organismic & Evolutionary Biology
+I’m giving my life story to the Crimson. No, I’m actually talking about my relationship with my wife, which is more or less my life story because I can’t remember anything before that.
+She was, at that stage, doing a lot of fieldwork in Australia. She always needs cheap labor—free labor, basically. One of the groups of insects she works on is ants. Often what she wants is an ant colony.
+Now an ant colony is not an easy thing to get. To get the colony, you need to get the queen. With the species we were working with in Australia, those were often a meter or two down in the topsoil and very heavily defended. That basically is a lot of spadework. She would sit there, eagle-eyed, waiting for the queen, but I’m the one in the tropical sun [doing the spading]. So that was the first trip we did.
+We flew to Australia for four or five months. I was there as the ant dirt shoveling guy—that was my function. I guess it was during that trip, you would say, that we started dating.I’m inert in terms of a domestic vision.
+Before we had kids, we lived in a small kind of townhouse-y house. Which was great. Lovely house. Great neighborhood. I loved it. Then we had kids. She decided—and I kicked and screamed—that we needed a bigger house, that we should move. She bought this house that we currently live in. It was in a state of dilapidation. I called it “The Dump,” and I was incredibly unhelpful. And she restored it; and it’s a fantastic place.
+The other thing, and it’s annoyingly domestic, but it’s important: She loves to cook, and she’s really good at it. So she’ll come back from a full day at work and cook up a great meal, often incredibly fast and efficiently.
+This is very sweet, actually: She learned to cook some of my favorite English dishes, so she cooks a fantastic Shepherd’s pie.I think it’s a fairly standard parenting shtick. We do a slightly good cop, bad cop routine. The kids are now smart enough to know if they want something, they go and ask mum.
+I would definitely say she’s more “mommish” than I would have predicted. She really likes to do mom-like things. You know, she was a woman making it in a scientific world. She was one of the first women tenured at Harvard in biology. So she was very much a career woman.
+Eighteen months ago, I was knocked off my bicycle and woke up in the hospital. I was fairly badly beaten up. So I called Naomi and said, “Don’t come.” But she came immediately. Basically they had to reattach a large part of my ear, and she was fantastic. She was great, because she was actually fascinated by what they were doing. And [the doctors] were all expecting, this is a wife, she’s going to be fainting and so on. But she was being so cool about it.
+Naomi E. Pierce, Hessel Professor of Biology
+We met on an elevator. I got on the elevator in the basement of the zoology building at Oxford. It stopped on the first floor, and this guy got on and I thought nothing of it. I got off on the second floor, and as I walked out of the elevator, this guy who had gotten on said, “Next time, why don’t you take the stairs?” And I turned around and looked at this guy and thought, “What a jerk!” Then that afternoon I was in a friend’s office, and she turned to me and said, “Have you met Andrew Berry?”
+We were just friends. We were in India [en route to our first trip to Australia], and I got sick. There’s an Indian drink called Limca, and he appeared at my doorway holding these two bottles after I’d been deliriously sick for almost a day, and having not really had any interest in this guy, I looked up and saw him standing in the doorway. I don’t think I’d ever seen anything quite so good in my whole life. So I certainly noticed him at that point.
+We really got married for the green card. I guess we’re of a generation where we might have just lived together, but it became an issue with the green card. It was literally a decision taken almost overnight. We got married in an office of a justice of the peace located over a laundromat in East Cambridge. It was a civil ceremony carried out by this very nice fellow, and I remember he left the phone off the hook during the actual ceremony, so it started beeping very loudly…. So no, it wasn’t a traditional wedding.
+He’s a wonderful father. He’s kind of the cool parent. He takes the girls on hikes pretty much every Sunday. In the summertime we always go to Colorado, and they’ve been busy “collecting peaks.” So Andrew takes them on the hikes up the mountaintops.Andrew will often teasingly say things that are rude and outrageous—there’s nothing he likes more than to be rude and outrageous in some way.
+He says things that just sound terrible. He’ll say to people, “I can’t see any reason at all why people should have children. It takes up too much energy, it’s a waste of time.” But what he actually does is be a fantastic father.
+My sister passed away a few years ago, and he was fantastic through all of that. She died of ALS, so she was in a wheelchair for the last year of her life. I remember he took her to a place no nurse would ever try—up on the side of a cliff in a wheelchair overlooking the ocean. And we just had a great day, and she loved it. He just makes everything seem fun.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In an effort to draw attention to the prevalence and danger of Hepatitis B, the Hepatitis B Virus Team has launched a week-long awareness campaign that includes jade-colored cupcakes, make-your-own plushie toys, and a forum discussion.
+"Hepatitis B is a really important disease worldwide affecting 350 million people, and one in four of those affected will develop liver cancer or another liver disease,” said Carol Tran ’14, co-vice president of community outreach for the HBV Team. “The problem is that it is asymptomatic, so if you have the virus, you will not feel any pain. It’s really important for people to get their blood screened.”
+The HBV Team organized Harvard’s Hepatitis B Awareness Week in the hopes that students might take steps to prevent or identify Hepatitis B, a virus that infects the liver.
+“Our short term goal is to make people more aware. A lack of knowledge is the reason people get this disease,” President David D. Yang ’13 said. “This is a disease that affects millions each year, yet people don’t talk about it.”
+The HBV Team lined up a series of activities throughout the course of the week. On Monday, Annenberg and other dining halls served cupcakes with jade-colored frosting—a nod to the Jade Ribbon Campaign, which seeks to spread awareness about the virus.“
+It got people talking, I think. I thought it was pretty good,” said Jean J. Shiao ’13, vice president of political advocacy for the HBV Team.
+On Thursday, the HBV Team will host an event where students can make their own HBV plushie toys while snacking on ice cream sundaes and listening to music.“
+It will be a fun event where students can engage in something for a good cause. We’ll provide all the kits and materials,” said Matthew G. Yung ’13, the HBV Team’s other co-vice president of community outreach.
+The week will culminate on Saturday with the Jade Forum, which will feature a number of speakers and discussions. Students from the Massachusetts Institute of Technology and other groups that helped to organize the event will also participate.
+Representatives from the Massachusetts State Department will discuss public health approaches to tackling Hepatitis B  at the Forum, according to Shiao.
+The HBV Team hopes to become “more integrated...on campus in future years,” Shiao said. But for now the group has focused its efforts on spreading awareness that Hepatitis B is a “totally preventable” silent killer, according to Yang.
+“Our long term goal with HBV and other focus groups is to eradicate the disease. It shouldn’t exist because we have vaccines and people should know their status [whether or not they are a carrier],” Yang said.
+—Staff writer Laya Anasu can be reached at layaanasu@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The erection of a steel garage Tuesday marked the first visible sign of progress in the construction of the new Charlesview Housing Complex, a mixed-income housing development in Allston-Brighton. But while advancement on the new site has been met with enthusiasm from both residents and University officials, this progress has raised questions about Harvard’s nebulous plans for the property that holds the soon-to-be-replaced Charlesview complex.
+Jeffrey J. Beam, the Charlesview project director for The Community Builders Inc.—the developers tasked with building the new Charlesview complex—said that the construction of the garage visibly demonstrated progress for the Allston community.
+“Psychologically, I think it just really helps people to feel good about their community when they can physically see the progress that is being made,” Beam said.  “That really increases excitement among the community.”
+According to Beam, the new housing complex will be comprised of 240 mixed-income units in 22 buildings of varying size.
+Discussing the rapidly advancing construction in an email, University spokesperson Lauren M. Marshall wrote, “It is welcome news that the families who live in Charlesview, many of whom have been Allston residents for many decades, may have the opportunity to move into their new homes ahead of schedule.”
+Harvard-Allston Task Force Chair and Allston resident Ray V. Mellone echoed that sentiment. “For us to see development happen sooner rather than later is not a bad idea,” he said. “It can only lead to good things later down the road.”
+But while the new complex rises, Allston residents have recently criticized Harvard’s vague plans for the new use of the current Charlesview site. Harvard obtained the land, which abuts other University-owned properties, in a 2007 swap with Charlesview’s Board of Directors.
+Mellone said that the advancing progress on the new Charlesview site makes him more anxious about the University’s currently unclear plans surrounding the site it now owns.
+“I think a lot of Allston residents will be more relaxed when Harvard begins to give us some more tangible—and hopefully community-friendly—ideas about their plans for the [current] Charlesview site,” Mellone said.
+Task Force member and Allston resident Harry E. Mattison shared Mellone’s sentiment, saying that the progress on the new complex puts more pressure on Harvard to create a detailed plan for the new Charlesview site, which the University has said it will reserve for “institutional use.”
+Though Marshall did not provide specifics, she said that the University has laid out a plan for developing a vision for the land.
+“We have publicly committed to providing an update on site assessment, academic planning and timeline for this site when the new Charlesview Residences are occupied, and prior to demolition of the existing structure,” Marshall wrote.
+In the 2007 land swap, Harvard traded a six-acre parcel it owned near the Brighton Mills shopping center for the current Charlesview site, which is located on a five-acre plot next to Harvard Business School.
+—Staff writer Mercer R. Cook can be reached at mcook@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Two Harvard undergraduates will contend for seats on the Massachusetts Democratic State Committee in an election on April 14. David H. A. LeBoeuf ’13 and Will F. Poff-Webster ’14 will compete against two other college candidates for the two seats set aside for undergraduate males registered in the Democratic Party.
+“Will and I have worked on the UC...and other issue-related stuff together,” LeBoeuf said. “I know that he would be a really good candidate.”
+The Democratic State Committee, the state-level division of the Democratic Party, is involved in campaign efforts, determining party strategy, fundraising, and other forms of political organizing.
+LeBoeuf said that his two main goals are reinforcing party values and reaching out to parts of the Democratic base that have been disengaged in recent years.
+“There is a reason why we tend to have a strong base—because we have particular values: interest in social justice, clean elections, efficient government, civil rights,” LeBoeuf said. “We as a party need to be stronger on those values and push back against the challenges we are facing.”
+LeBoeuf pointed to conservative pockets—including Worcester and the surrounding area in central Massachusetts—where the Democratic base can find room for improvement in party participation.
+“I feel that there is no reason why these communities should be aligning with Republican interests because it comes down to issues that should actually be in their favor if they sided with the Democratic Party,” LeBoeuf said. “This is a message that I would love to bring forward, to help rebuild our base.”
+As a transfer student from Clark University, LeBoeuf has been politically active for several year, serving as Ward 6 Treasurer for the Worcester Democratic City Committee in addition to volunteering for local campaigns and promoting immigrant voter turnout.
+LeBoeuf was regional coordinator for the “No on 2 Campaign” during the 2010 election cycle, working in the Worcester and Boston areas to support affordable housing legislation.
+NARAL Pro-Choice Massachusetts Executive Director Megan Amundson, who has worked extensively with LeBoeuf, cited his active role in the “No on 2 Campaign,” contacting allied organizations, working with elected officials, and reaching out to community members.
+“David was an invaluable member of the campaign—his knowledge and understanding of relationships in Worcester were key to us being able to talk about affordable housing with a number of key opinion leaders in the area,” said Amundson. “David was a fearless organizer, which was one of [his] greatest qualities.”
+Poff-Webster is the current vice president of the Harvard College Democrats and is also running for vice president of the College Democrats of Massachusetts, the official college branch of the Massachusetts Democratic Party.
+Poff-Webster could not be reached for comment.
+—Staff writer David Song can be reached at davidsong@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Although students in U.S. in the World 18: “Thinking About the Constitution” usually learn about the concrete applications of the Constitution during University Professor Laurence H. Tribe’s lectures in Harvard Hall 104, a dozen students saw constitutional law in action on a field trip to hear the oral arguments about the Defense of Marriage Act on Wednesday.
+The group attended the oral arguments in the U.S. Court of Appeals for the First Circuit for two cases challenging the constitutionality of the 1996 Defense of Marriage Act that defines marriage at a federal level as the union between a man and a woman.
+For the teaching fellows who organized the trip, the opportunity to see how the Constitution figures in current events is a central part of the class’s philosophy.
+“The focus of this class is to understand the world around us by teaching basic constitutional law, and going to these trials teaches [that] better than we ever could,” said Joshua A. Matz, the course’s head TF.
+Matz and fellow TF  Marco P. Basile ’08, both students at the Law School, led and organized Wednesday morning’s trip.
+Anticipating a packed court room, the group arrived at the court house two hours before oral arguments began. Matz gave students an introduction to the details of the case, outlined the arguments that would likely be made, and described the political leanings of the three judges sitting on the panel—Chief Judge Sandra L. Lynch and Circuit Judges Juan R. Torruella and Michael Boudin.
+Most students watched lawyers deliver their arguments from the packed courtroom, but a few latecomers had to observe the hearing on flat screens in overflow rooms.
+For Matz, the oral arguments gave students exposure to “one of most important constitutional law cases seen in this country, debated by some of the best lawyers.”
+Many of the arguments presented by the case’s lawyers cited the legal concept of rational basis, arguing that all law must be founded on logical rather than arbitrary criteria. For Tribe’s students, these arguments touched on many of the approaches to constitutional law presented in the course.
+“Professor Tribe logically explains law.” Jacob S. Miller ’15 said, adding that Tribe often asks students, “Is that the way it should be?”
+Students on the field trip, many of whom aspire to careers in law, said the trip gave them a better sense of how these issues can play out beyond a classroom discussion.
+“I was surprised by how much emotion the lawyer representing the state of Massachusetts showed,” Taonga R. Leslie ’15 said. “Going to this hearing really reinforced the fact that this is a government made up of the people.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Hip-hop music played a central role in the formation of a cohesive Afro-Brazilian identity, Jaqueline L. Santos contended in a presentation of her research on the rise of the genre in Sao Paulo, Brazil as part of the W.E.B. DuBois Institute’s Spring Colloquium Series on Wednesday.
+Santos, who currently holds a fellowship at the Hiphop Archive at Harvard University, spoke about how funk and soul music from the United Sates and later hip-hop music imported from New York City helped unify Afro-Brazilians.
+“Sao Paulo and New York have a similar history of population growth, and hip-hop had a similar effect among marginalized populations in both cities,” she said.
+Santos explained the spread of trends in Afro-Brazilian popular culture, including hip-hop, during the late 20th century from Sao Paulo to neighboring cities through social pathways she called “black corridors.”
+Even though Brazilian hip-hop took its inspiration from its American counterpart, Santos noted some differences in the places the two occupy in their respective societies today. For instance, Brazilian hip-hop does not have the widespread airplay in Brazil that its American counterpart does.
+“In Brazil, hip-hop and rap music [are] protest music,” said Santos.
+But Santos said that, despite its lack of mainstream appeal, hip-hop has done much to empower the marginalized contingent of Afro-Brazilians in Sao Paulo. As evidence of the degree to which the hip-hop movement has gained political significance, Santos showed one photograph of a meeting between a delegation from the hip-hop movement of Brazil and then-president of Brazil Luiz Inacio Lula da Silva.
+Her presentation focused on the hip-hop movement’s spread from New York to Sao Paulo, but Santos stated that she believes the genre now has a significance that extends beyond the United States or Brazil. She said that hip-hop has forged connections among young hip-hop enthusiasts in Brazil to like-minded individuals as far away as Europe and Africa.
+“I think hip-hop connects black youth in every country of the world,” she said.
+The lecture attracted both students and other scholars in the field.
+“I think it was wonderful to see the connection between African-American hip-hop and Brazilian hip-hop, but especially to see what is unique and political and creative and historical about this movement,” said Dr. Lorelle D. Semley, a W.E.B. DuBois Institute fellow and professor at College of the Holy Cross who attended the event.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In a departure from the usual message about drinking on campus, Santander Visiting Scholar Susan Gauss told an audience at Harvard to “drink more beer.”
+Gauss, the latest lecturer in the ongoing Mexico and Central America Program Speaker Series, discussed recent growth in the Mexican beer industry during an event humorously titled, “Drink More Beer, but Drink Modelo”—a reference to an early 20th century slogan for the major Mexican brewery, Grupo Modelo.
+Gauss discussed the advent of beer in Mexico during the 20th century and its implications for the country’s economic and cultural identity, a subject which has “not garnered enough literature or discussion,” according to Gauss.
+Gauss, who is also a history professor at the State University of New York at Albany, said she hopes to change this.
+Gauss said that there has been a radical shift in the Mexican attitude toward beer drinking. While in the past, it was viewed as a largely foreign and immoral activity, it has steadily gained popularity in recent years. One advertisement claimed that beer “has vitamins and minerals, brings energy, fortifies the nerves, preserves the body, and improves lifestyle.”
+Gauss displayed a chart that showed that the annual per capita consumption of beer in Mexico in 1900 was under 1 liter; by 2004, this number had risen to 51.8 liters.
+Gauss used the term “Mexicanization” to describe the efforts of breweries to make beer “a mass consumer item associated with Mexican nationalism and modernization.”
+Members of the audience frequently interjected with personal anecdotes, creating a lively discussion throughout the event. When Gauss emphasized the broad cultural implications of beer in Mexico, one member of the audience mentioned that most primary schools organized field trips to “cervecerias,” or breweries, where young students were given free samples, a comment which was met with laughter from the other audience members.
+“The lecture was a really interesting glimpse of the intersection between the history of industrialization, nationalization, and medicine in Mexico,” said Susan R. Thomas, another Santander Visiting Scholar, a program which is sponsored by the David Rockefeller Center for Latin American Studies.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Reid Hoffman, co-founder of business networking website LinkedIn, spoke about networking and entrepreneurship on Wednesday at the Institute of Politics’ JFK Jr. Forum.
+Hoffman’s talked centered on an idea he called “Network Thinking,” which calls for people to view relationships as intangible assets and to make better use of these connections to solve business problems.
+“People don’t confine themselves to silos to work...and this sort of idea sharing is what made Silicon Valley such a powerhouse,” said Hoffman.
+Though renowned for his achievements as an entrepreneur, Hoffman originally wanted to be an academic and pursued graduate studies at Oxford University. Hoffman said that his academic experiences taught him to think simultaneously about “how individuals think and operate, and how entire ecosystems operate”—which he said is one of his most useful tools as an entrepreneur.
+Hoffman also discussed what he views as the ongoing transition from the “Age of Information” to the “Age of Networks.” He described the internet as ushering in an “explosive exponentiation of information” that is often unintelligible and difficult to navigate. Hoffman said that this will lead to increased use of networks to contextualize information.
+“The question is, how do we navigate it, how do we make sense of it, how do we come to judgements of truth, how do we make judgements about action,” he said. “And the answer is that information is being much more centrally framed within networks.”
+Hoffman also spoke about the importance of “Network Literacy”—a term he used to describe the ability to utilize a network to achieve one’s goals. Though networking sometimes receives criticism for being exploitative or selfish, Hoffman said, this negative image should be disregarded. He suggested that networking should not be perceived as using individuals as a means to an end and  instead as a way to develop a mutually beneficial relationship.
+“We should be asking questions like, ‘How can we dance together?’ rather than, ‘How can this person be a useful asset to me?’” said Hoffman.
+When the discussion shifted to the topic of entrepreneurship, Hoffman advised that following one’s passions may not be the best course of action for a budding entrepreneur.
+“Passion is an important part of the equation [for success], but it is incomplete...and radically insufficient,” he said, adding that would-be entrepreneurs must complement passion with a keen eye for market trends and opportunity.
+Economics professor David I. Laibson ’88, who attended the talk, echoed Hoffman’s sentiment.
+“You don’t want to let the herd drive you, but you can’t ignore the herd either,” he said.
+Audience members said that they appreciated Hoffman’s advice and were struck by the impact a successful entrepreneur can make.
+“He offered a lot of great advice to future entrepreneurs,” said Jacob T. Morello ’15. “It’s inspiring to think that someone can have an idea entirely on their own and it can grow into something so huge.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Daniel H. Yergin, an award-winning author on energy and international policy, commanded the attention of over 400 attendants in Science Center B for a talk about his latest book, “The Quest: Energy, Security, and the Remaking of the Modern World,” on Wednesday night.
+“I speak today from the vantage point of ‘The Quest’ and also [as] someone who owes a great deal to Harvard for what I’ve been able to do in the energy field,” Yergin said.
+Yergin, who taught as a lecturer at Harvard Business School from 1977 to 1980 and at the Harvard Kennedy School until 1983, is the author of the Pulitzer-Prize winning book “The Prize: The Epic Quest for Oil Money and Power.”
+In “The Quest”, Yergin said that he addresses three major issues: growth versus scarcity, energy security, and the balance between using energy and preserving the environment.
+Yergin described how his book uses a variety of characters to illustrate the extent of innovation and progress in the energy sector.
+According to Yergin, the book’s characters include Ronald Reagan as a spokesperson for General Electric and Albert Einstein as the discoverer of photoelectricity. Yergin said that he uses Einstein’s character to illustrate the time required to translate ideas to projects.
+Geologist Roger R. D. Revelle, who pioneered the study of carbon levels and later joined the Harvard faculty, features prominently in “The Quest.”
+“He had an impact in ways he couldn’t see at the time. One of the students in his class was Albert Gore, Jr.,” Yergin said, alluding to Revelle’s “Natural Sciences 118: Human Population and Natural Resources” course.
+Yergin said that much has changed since the publication of “The Prize,” including the rise of the climate change movement and increased use of diverse resources such as shale gas.
+Corey E. Clapp, a teaching fellow for Physical Sciences 11, attended the lecture on the recommendation of Atmospheric Chemistry professor James G. Anderson.
+“Having it recommended by a science professor, I expected it to be more technical, but it was a great way to connect to the course material,” Clapp said. Other audience members also said they appreciated Yergin’s talk.
+“He’s one of those people who are worth listening to,” said Harish Mukundan, a MIT graduate. “For the energy sector, his words are predictive. He’s like Steve Jobs in the information sector. He leads the pack and knows the inside.”
+Yergin’s lecture marked the conclusion of the year’s Future of Energy lecture series presented by the Harvard University Center for the Environment.
+“We found this one to be top quality, a very nice summary of his book,” said Marion B. Reine of Cambridge, who attended many of the lectures this year and last year with his wife. “It was huge treat to have him here.”
+—Staff writer Kerry M. Flynn can be reached at kflynn@college.harvard.edu
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+At the end of one of the longest and most contentious elections in recent memory, current President Cammi N. Valdez, along with a slate of other incumbent candidates, maintained control of five of the six contested positions on the Graduate Student Council on Wednesday night.
+Valdez beat Andrew J. Pope with a vote of 34-27 in a four-hour meeting that included accusations of breaches of election protocol and a debate over the role of the GSC in political debates on campus.
+Over the past week, candidates have publicly raised concerns over the late submission of candidate statements by several of the incumbents.
+In an email to the delegates from each department in the Graduate School of Arts and Sciences—the group of eligible voters in Wednesday’s election—Valdez refuted these accusations.
+“No candidate, incumbent or otherwise, has had an unfair advantage during these elections,” she wrote.
+Amidst this controversy, the turnout at Wednesday’s meeting, at about 100 delegates, was nearly triple the usual at a GSC election.
+At the meeting, the Election Committee—which had only been officially appointed earlier that night—took up the question of the eligibility of the candidates who had submitted their blurbs past the March 16 deadline. After the Election Committee presented the details of the submissions of each candidate, a general vote of the delegates decided not to disqualify the candidates in question.
+But even with the questions of election protocol put to rest, the controversies of the night continued.
+A pattern of conflicting ideology emerged between the incumbent candidates and their more activism-oriented opponents, many of whom were involved in this fall’s Occupy Harvard movement, during the speeches and question and answer session. Candidates for the top three positions of the GSC—Pope for President, Summer A. Shafer for Vice President, and Rudi Batzell for Secretary—have continued to be active in the movement after the dismantling of the camp in the Yard in December.
+In the question and answer session, a delegate, noting the number of Occupy affiliates on this year’s ballot, asked each candidate to expand on their political affiliations.
+In response, Pope emphasized that he thought political affiliation should not be tied to ability to be an effective leader of the graduate student community.
+“I was shocked that the challenging candidates were required to disclose our articipation in activism on campus,” Pope said in an interview after the election.
+By 9:45 p.m., the pool of delegates had dwindled to 65 voters. At the end of the meeting, the incumbent candidates, led by Valdez and Vice President Cynthia P. Hsu, maintained their positions on the Graduate Student Council.
+Despite the controversy of the previous hours, the leadership of the Council emerged from the meeting with a positive outlook for the coming year.
+“I felt this was a great meeting. I was really happy with the Elections Committee. We had a fair election, irregularities aside. I look forward to a reinvigorated GSC,” said Jennifer A. Sheehy-Skeffington, the at-large representative for international students and an Occupy affiliate.
+Overall, leaders, delegates, and graduate students who sat in on the elections agreed that the controversies had created unprecedented room for discussion.
+“This meeting has done more to advance the GSC’s cause representing grad students than any other meeting this year,” said Michael A. Cox, publicity manager for the GSC.
+—Staff writer Laya Anasu can be reached at layaanasu@college.harvard.edu.
+This article has been revised to reflect the following correction:
+CORRECTION: April 11
+An earlier version of this article incorrectly stated that incumbent candidates won all six contested races in the Graduate Student Council elections. In fact, Steven Lydon, a challenger involved in the Occupy Harvard movement, won the position of at-large representative for humanities.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Yesterday, we released our Harvard athletics trivia challenge. Now, we reveal the answers:
+1. Which offensive tackle who played in the famous 1968 Harvard-Yale game roomed with Al Gore '69 freshman year?
+Answer: Tommy Lee Jones ’69. Of course, the O-Lineman went on to have a pretty notable career off the gridiron in his post-college days.
+2. Name the two teams that the Harvard men’s basketball team played in its 1946 and 2012 NCAA tournament appearances.
+Answer: Ohio State (1946) and Vanderbilt (2012). In its first trip to the Big Dance, the Crimson fell, 46-38, to the Buckeyes. This year, a late Harvard comeback fell short in a 79-70 loss to the Commodores.
+3. The 1998 Harvard women’s basketball team defeated which No. 1 seeded opponent in the first round of the NCAA tournament?
+Answer: Stanford. No. 16 Harvard pulled off the unprecedented 71-67 upset over the Cardinal. The victory remains the only time in either NCAA basketball tournament when a No. 16 seed has topped a No. 1 seed.
+4. What is the first and the longest-running American intercollegiate sporting event?
+Answer: The Harvard-Yale Regatta. The competition first took place in 1852 and became an annual event 12 years later.
+5. This season, both junior Colton Chapple and senior Collier Winters tied a single-game Harvard record by throwing how many touchdowns?
+Answer: Five. Chapple and Winters tied the all-time mark in back-to-back weeks and became the second and third players in Crimson history to record five passing touchdowns in a single contest, tying Carroll Lowenstein’s ’54 record.
+6. Harvard Stadium is one of four athletic venues in the country that is also a National Historic Landmark. What are the other three?
+Answer: The Yale Bowl, the Los Angeles Memorial Coliseum, and the Rose Bowl. Of the four arenas, Harvard Stadium, constructed in 1903, is more than a decade older than the rest.
+7. Which golfing legend is a Harvard grad?
+Answer: Bobby Jones ’24. Jones, considered the greatest amateur golfer in US history, won the Grand Slam in 1930 with victories in the US Amateur Championship, the US Open, the British Amateur Championship, and the British Open.
+8. Tennis star James Blake lived in which Harvard house?
+Answer: Mather House. Blake didn’t graduate from Harvard, though, and like some other famous dropouts, left Harvard following his sophomore year.
+9. Which spouse of a current Harvard coach has won an Olympic gold medal as a competitor?
+Answer: Kathy Keeler, the wife of men’s crew coach Harry Parker. Keeler earned her gold rowing on the US women’s eights at the 1984 Olympics in Los Angeles.
+10. Which current NHL player was part of the first trio of brothers to play for the Harvard hockey team at the same time?
+Answer: Dominic Moore ’03. The center, who currently plays for the San Jose Sharks, suited up with brothers Mark ’00 and Steve ’01 in the Crimson’s 1999-2000 season.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+On the first pitch of the Harvard baseball team’s home opener, Tom Bourdon of Boston College hit a pop up to short left field. But before the ball could hit the grass, sophomore shortstop Carlton Bailey, who batted one-for-three and had a run and two double plays on the day, caught the ball to give the Crimson its first out on O’Donnell Field for the 2012 season.
+Harvard (4-19, 1-3 Ivy) ended up beating the Eagles, 5-3, in its first home-opener victory since its 16-6 decision over the  University of Vermont in 2004. The win over Boston College (13-16, 4-8 ACC) also brought a halt to a 15-game losing streak against the Crimson’s cross-town rival.
+“We came into the game just thinking we have to hold it down, have to hold our turf,” Bailey said.
+Senior Marcus Way started the game and gave up no hits or runs in his pitching debut, but the win was credited to freshman Jacob Kremers, who had two strikeouts in his two innings on the mound.
+Senior second baseman Jeff Reynolds and sophomore catcher Steven Dill were prolific with the bat, notching two hits and two RBIs apiece in only four at-bats.
+But the Harvard players were not the only ones who put on a show at the game: close to one hundred elementary school students made an appearance at O’Donnell Field, a few even holding signs, to cheer on the home team.
+The children came from Cunniff Elementary School in Watertown, Mass. where a core group of six Crimson players visit every Friday morning to tutor and play with the students. The eager kids filled two buses to come see their favorite mentors play baseball.
+“One of the teachers I spoke to said that in her 30 years [at Cunniff] this has been the most fun that the kids have had,” Harvard coach Joe Walsh said. “They look up to these guys.”
+The Crimson did not disappoint its mentees, taking the lead in the third inning and never relinquishing it.
+After freshmen first baseman Nick Saathoff and center fielder Mike Martin walked to put Harvard on first and second in the third inning, Bailey stepped up to the plate. He bunted down the first base line and hustled to first, advancing Saathoff and Martin and loading the bases.
+Having already recorded a hit in the first frame, Reynolds grounded out to second, but Saathoff made it home on the play and both Martin and Bailey advanced into scoring position.
+Next up, Dill hit a blooper to right field that dropped in front of the Eagles’ outfielder, allowing both Martin and Bailey to score without giving up an out.
+The inning came to a close after Dill was caught trying to steal second.
+Boston College responded with one run in the top of the fourth. Kremers, who replaced Way in relief, was on the mound with the bases loaded and one out.
+The Eagles’ John Hennessy grounded out, knocking in the runner on third and giving him the RBI, good for his team’s first run of the game.
+With two on and two out, Kremers fielded a comebacker to the mound and tossed the ball over to first, getting himself, and the Crimson, out of the jam.
+Harvard’s next run came as the result of three hits and some heads-up baserunning by freshman pinch-hitter Ethan Ferreira in the fifth inning.
+Starting the inning off with a single to short, Ferreira was on second after a single by Martin when Reynolds made contact with the ball, sending it down the left field line. Getting the signal from Walsh, Ferreira rounded third base and headed for home.
+The ball reached the upright catcher just as Ferriera neared the plate, but the freshman deftly scooted around the Eagle before tapping on home plate to put the Crimson ahead, 4-1.
+Boston College pulled within its narrowest margin of the game in the seventh inning. After the visitors got a walk and a double to put runners on second and third, senior Conner Hulse came in from the bullpen looking to close.
+“I was thinking I needed to minimize the damage and keep it where it was—keep the lead,” Hulse said.
+Hulse ended the inning doing just that—keeping the lead—and Harvard headed into the eighth inning up by one run.
+Two hits, two walks, and a stolen base for the Crimson resulted in another run for the home team that gave it an added cushion heading into the ninth.
+But Harvard took the victory early in the ninth, retiring the first three Eagle batters.
+“I’m happy for the guys,” Walsh said. “We’ve been playing a lot of tough games and losing some close ones, and to see them win a close ball game, especially at home, means a lot to everybody.”
+—Staff writer Taryn I. Kurcz can be reached at tkurcz13@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The first half of the 2012 season was a frustrating one for the Harvard women’s lacrosse team.
+The Crimson entered the year with high expectations. Returning all but one contributor from its 2011 squad that finished two goals short of an Ivy League championship, Harvard opened play this February ranked No. 19 in the country.
+But the Crimson (4-6, 1-2 Ivy), which will host Brown (5-4, 1-2) at Harvard Stadium on Saturday afternoon, hasn’t exactly played like one of the country’s top teams so far this season.
+Struggling to find consistency and facing one of the toughest schedules in the nation, the Crimson stands one game under .500 with only five regular-season contests left on its schedule.
+But Harvard, at times, has shown it possesses the talent to compete with the nation’s best. In one three-game stretch in March, the Crimson fell to No. 8 Penn, No. 19 Johns Hopkins, and No. 20 Boston College by a combined four goals. Against No. 2 Syracuse last Saturday, the Crimson kept even with the Orange in the second frame after being outscored, 6-2, in the first half.
+Putting together those stretches of strong play into a complete game is the next step for a Crimson squad hoping to make its first NCAA tournament appearance since 1994 this May.
+“I don’t think we’ve had our best game yet, far from it,” junior midfielder Danielle Tetreault said. “But I think that we’re still working hard every day and getting better at the things we need to get better at. Hopefully we’ll be able to put two halves together and show teams who we really are.”
+Luckily for Harvard, it still has time to alter the course of its season. With four games left on its conference schedule, the Crimson has a number of opportunities to move into the top four spots of the Ancient Eight standings and earn a berth in the Ivy League tournament. The winner of the four-team, single-elimination tournament receives the conference’s automatic bid to the NCAA tournament.
+“To get into the Ivy tournament, we need to win every single one of these games,” Tetreault said. “Each of these games is going to be the most important.”
+The Crimson’s quest for a spot in the league’s upper half will begin in earnest this weekend when it takes on the Bears, with whom Harvard currently sits in a tie for fifth place.
+Coming off a 14-8 loss to Dartmouth on Saturday, Brown represents a beatable opponent for the Crimson. The Bears, who fell to Harvard, 12-9, in Providence a year ago, are led by senior attacker Kaela McGilloway, who is ranked fourth in the conference in points per game, averaging 2.0 goals and 2.11 assists per contest.
+But McGilloway is not Brown’s only offensive threat; the Bears boast five other players averaging at least one score per game and as a team average 11.44 goals per game—good for fourth in the conference.
+Brown has had less success on the other end of the field thus far, as the Bears are sixth in the league in average goals allowed. Brown goalkeeper Kellie Roddey has struggled at times in the cage, stopping just 37 percent of the shots she’s faced.
+For the Crimson offense, then, Saturday’s contest might be exactly what the doctor ordered. Averaging a league-worst eight scores per game, Harvard has struggled to find the back of the net. In its past six games, the Crimson has reached double figures just once.
+While Harvard has struggled to score as a team, co-captain Melanie Baskind has come into her own offensively this year, leading the Crimson in both goals and assists with 17 and six, respectively. Tetreault has also proven to be a threat, posting 15 goals thus far, while her classmates Jennifer VanderMeulen and Micaela Cyr have added 12 apiece.
+But the individual perhaps most important to the Crimson’s success this weekend is freshman goalkeeper Kelly Weiss. In the first 10 games of her career, Weiss has been strong in the cage, stopping 46.3 percent of the shots that come her way, good for second best in the league.
+If the Crimson is to come away with a win Saturday and improve its chances of securing an Ivy League tournament berth, it will need another strong performance from Weiss.
+“We have high expectations for ourselves,” VanderMeulen said. “This is the most important part of the season right now.”
+—Staff writer Martin Kessler can be reached at martin.kessler@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+For many individuals here at Harvard and outside its gates, the mention of the sport of fencing is likely to conjure up images of Pirates of the Caribbean, swashbuckling pirates, high stake duels to defend honor between European nobles, and a masked fighter named Zorro. However, for Crimson freshman Alexander “Sasha” Ryjik, fencing is something greater than  its modern media portrayal; it is a grueling sport “like a chess game and boxing match put together,” Ryjik said, that has become a defining part of his life.
+As an early entrant into the sport, Ryjik, who began fencing at the age of eight, has nearly a full decade of training and experience under his belt—experience that has served him well on the national, club, and collegiate fencing circuits.
+But this week, Ryjik will be given a unique opportunity that few student-athletes are ever given in their athletic careers: the opportunity to compete while wearing his nation’s colors at the international level. Ryjik will be  representing the United States at the 2012 World Cadet and Junior Fencing Championships in Moscow, Russia.
+As one of the premier events in international fencing, the Junior World Fencing Championships, is held every year in the spring and serves as the headline fencing competition for young fencers across the globe. Each year, approximately 1300 under-19 athletes from roughly 80 nations take part in the championships. Fencers are broken up into age groups: entrants between ages 17 and 19 form the junior class while those under 16 form the cadet class.
+Having participated in two previous world championships in the cadet class, Ryjik this year will enter into the Junior World Championship for the chance to bring home international glory. But Ryjik’s international aspirations do not end with this year’s world championships in Moscow.
+Historically, the Junior and Cadet World Championships have been instrumental in  the rise of a number of future stars of international fencing. Amongst the alumni of the event are a number of Olympic and World Cup medalists.
+And as an ambitious and already accomplished fencer himself, Ryjik hopes to do the same. Ryjik, the current number one fencer in the 19-and-under age group for the United States, sees his fencing career eventually passing through the sunny beaches of Rio de Janeiro.
+“People often ask me if I’m going to make the Olympics,” Ryjik said. “I definitely can’t make the London Olympics this year, but I’m hoping to make the 2016 Olympic team in Rio.”
+But even with a little over four years before the Rio games, Ryjik is firmly aware of the sacrifices involved in attaining Olympic glory.
+“I still have a lot of decisions to make for [the Olympics], though,” Ryjik said. “I’ll probably have to take a year off from school in order to focus on making the Olympic team, so I’m not sure how everything will play out.”
+Though the presence of an Olympic fencing aspirant on Harvard’s campus may come to many as a pleasant surprise, a quick look at Ryjik’s personal background and history reveals that in many ways his life story has been building up to a potential Olympic berth.
+For Ryjik, fencing is not just a sport he casually stumbled into.  Rather, it is a sport that runs deep in his veins. Sasha is the son of former Soviet national champion fencer  Alexandre Ryjik.
+“Those days were not the easiest days to be a Soviet athlete and he left Russia and came here in 1991, right after the fall of the Soviet Union,” Sasha said. “Today, my father is probably one of the most patriotic individuals [I know], to this country of course.”
+However, Alexandre not only inspired his son to take up fencing, but also molded Sasha into the fencer that he is today. As Sasha related humorously, his father’s involvement in his fencing career was probably planned upon his birth but truly began at the age of eight, when he first picked up the sport.
+“Although I’ve worked with several people ever since I started, including my current coach Peter Brand, my father has essentially been my permanent coach,” Sasha said.
+In addition to training his son, Alexandre’s fingerprints on his son’s fencing
+career are found even on the weapon in his son Sasha’s hands. Alexandre, during his time as a Soviet athlete, fenced with the sabre, one of three weapons used in competitive fencing along with the foil and epee. His son, Sasha, fences the sabre as well. Asked about his weapon, Sasha attributed his choice of the sabre to his personal taste.
+“I originally started with the foil, but I didn’t like it,” Sasha said. “I thought that it was a little too slow paced. Foil is the regular starting weapon for all fencers, but if a fencer feels that the foil isn’t their fit, then a fencer branches off to either sabre or epee. I chose sabre around nine years old, and I’ve stayed with it ever since.”
+“But yes, it could also be genetic,” Sasha conceded with a laugh.
+After just one year at Harvard, Ryjik has already made a mark in his collegiate career. In his freshman season,  Ryjik took fourth place in the sabre at the Garret Open hosted by Penn State,  finished 10th at this year’s Ivy League Championships, and qualified for the 2012 NCAA Championships following a 12th-place finish at the NCAA Northeast Regional event held at Boston College.
+“This season I’ve fenced a lot, and I’ve made a lot of contributions to the team,” Ryjik said. “So far though, I’m not entirely pleased with my results in competitions this year. But it is my freshman year.”
+One of the difficulties Ryjik feels that he faced in his first year of collegiate fencing was the struggle to adjust to a new competitive format. Unlike the international, national, and club circuits, which feature 15-touch bout matches, collegiate fencing format centers around five-touch bout matches.
+“The competition style is different, and that takes time adjusting to,” Ryjik said. “But this year, I’ve definitely started adjusting to the change in format and I think that by next year, I’ll be ready to take it to the next level.”
+Despite the challenges faced by the future Pfoho resident in his rookie season, Ryjik has already won the respect of many of his current Harvard teammates, including current Crimson captain and 2012 NCAA Fencing Championship runner-up, Valentin Staller. For Staller, Ryjik has already emerged as a leader on the team.
+“Sasha is a really great fencer,” Staller said. “He works extremely hard at it. He’s thoughtful about his fencing. So he’s fantastic to have around practice. Sasha keeps everyone accountable, which is really invaluable for a team.”
+“Sometimes, individuals on teams are reluctant to give constructive criticism to teammates, but Sasha definitely has the interest of the team on his mind constantly,” Staller adds. “I think he could very well become a captain one day, but that obviously depends on how he conducts himself for years to come.”
+While looking towards the immediate future and the Junior World Championships, Ryjik expressed his excitement and the deep honor he felt to have the opportunity to fence for the United States.
+“What I really love about world championships is the opportunity to represent your country,” Ryjik said. “You feel great, you get those USA warm-up clothing, you walk around with your team, you think that you are hot stuff, and then you get to have fun with your teammates. Also, what I really love is the mutual respect that each of the national teams have for one another. Everyone understands the work that everyone has put in in order to make it there.”
+“Even if I don’t do well, it won’t be the end of the world,” Ryjik adds. “Because I have next year. But this year, I’m definitely looking to have a strong finish. I’m going to put 100 percent of effort into it.”
+—Staff writer Oluwatoni A. Campbell can be reached at oluwatoni.campbell@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+Many of us may feel cramped in the tiny twin beds that reside within our dorm rooms, but not Alexander J. P. Kunkel '12. Kunkel has overcome this problem by combining two twin beds together to form a huge king-sized bed in the corner of his Pforzheimer House bedroom.
+"It's kind of a temple to laziness. I can control the lights and the fans without every leaving the bed," Kunkel said. His room is a testament to the beauty of senior singles. In response to the awe expressed over his dorm room, Kunkel simply said, "Quad life."
+The room not only demonstrates the joys of being a senior, but also Kunkel's personality. The enormous snack collection, including a stash of Cheez-Its underneath his bed, and various seating options reflect that his room is a place to hang out and relax. "I like to think of it as a sort of a safe place to come home to. I've always been more productive studying in here and having people over and having snacks. It's a place you can talk out loud."
+With scented candles on the dresser, throw pillows placed on the bed, and paintings adorning the walls, you can see that different things mesh together well in Kunkel's eclectic collection of items. As for the general theme of the room, well, according to Kunkel, there really isn't one.
+If you want to prepare for your senior single next year, or you just want tips on how to make your room as nice as Kunkel's, then follow some of his suggestions.
+1. "Plan things out in advance. Visit the room before you get it, and pay attention to detail."
+2. "If there's anything that is going to be worth your investment, it's convenience. You want your room to be a place where it doesn't take you a lot of effort to become comfortable and focus."
+3. With a smile, Kunkel added some parting advice. "Have a place to put your key, or you will lose it all the time."
+Sections
+In this series, we showcase creative and delicious recipes that can be made using only food found in dining halls.
+With the weather heating up here in Cambridge, you'll find yourself craving deliciously refreshing—if far too expensive—cool drinks from places around the Square. Head to your dining hall instead and use this installment of Dining Delights to make your own chilled beverages.
+Iced Coffee
+1 cup ice
+1 cup coffee
+1/2 cup milk
+Sugar
+ 
+Fill a cup with ice and hot coffee. Add milk and stir. Add sugar to taste.
+ 
+Tropical Punch
+ 
+1/3 cup orange juice
+1/3 cup cranberry juice
+1/3 cup fruit punch
+1 tsp lemon juice
+1 orange
+ 
+Mix orange and cranberry juices with fruit punch. Add lemon juice. Garnish with orange slice.
+ 
+Milkshake
+ 
+1/2 cup milk or chocolate milk
+1/2 cup chocolate frozen yogurt
+Whipped cream
+Chocolate syrup
+ 
+Mix milk and frozen yogurt in a cup. Top with whipped cream. Drizzle chocolate syrup.
+Sections
+From the Arts Board, tips to help get you through that paper.
+Russia had its first influx of classical music in the Romantic period of the 1800s. Given the tourtured-artist motif that charactarized many Romantic writers and composers, including Tchaikovsky, it seems fitting to turn to the Russian repertoire as a response to crippling writer's block. The somber and often harrowing moments of the music only add to the sublime, manic joy interspersed throughout the repertoire. The Arts Board hopes you enjoy indulging in Russian classical music while dealing with the the destabilizing mood of writer's block.
+Korsakov's Flight of the Bumblebee
+In the early phases of writer's block, there is still hope of salvaging your essay/thesis/short story, and perhaps a nice energizing song is just what you need to nip this thing in the bud. Iconic and frantic, this classic captures the anxiety and vigor of initial panic as well as the fickle and flighty nature of inspiration.
+Shostakovich's String Quartet No. 8, Allegro Molto
+An hour into staring at a blank Word document, anxiety slowly becomes tinged with despair. As Shostakovich was devastated by the sight of his former hometown in ruins before he composed this piece, you are also now gaping at what seems to be the ruin of your academic career.
+Tchaikovsky's Symphony No. 6, Allegro moderato
+A couple sentences start flowing, and you begin to see hope. The night is young, and perhaps you can express yourself after all. The process is tragic and emotional, of course, but at least it's happening. Take solace in knowing that the often afflicted Tchaikovsky was able to express himself through his Symphony, "Pathétique."
+Rachmaninoff's Piano Concerto No. 2, Moderato
+Rachmaninoff dedicated this piece to his shrink just after he had gotten over his depression about his inability to write acclaimed pieces. Now, Rachmaninoff's Second Piano Concerto is one of the best-known pieces in the world. There remains hope that you, too, can write a masterpiece.
+Prokofiev's Cello Sonata in C Major, Op. 119
+You stumble into a sentence, quite accidentally. It comes to you as a surprise, as something you have written. It's beautiful. It's sublime. Birds chirp along to the triumphant and velvety low notes of the cello.
+Borodin's String Quartet No. 2, Notturno
+You return, of course, to the classical beauty of Borodin. The notturno is a reminder that there’s something in the past worth fighting for and writing about. And in recognizing beauty, you find once again the motivation to write.
+Sections
+On April 2, The Harlem Globetrotters accepted a basketball challenge proposed by The Harvard Lampoon, a semi-secret Sorrento Square social organization that used to occasionally publish a so-called humor magazine. If you missed the showdown, check out our video highlights.
+Sections
+Would the Delphic benefit from a rebranding effort? Somebody seems to think so.
+On April Fools' Day, a number of paper slips were found in Currier House informing residents that the Delphic was to be renamed "The Dolphin"—apparently at the behest of the final club's Graduate Board. The prankster (or pranksters) also included in the note that further inquiries were to be directed to a mysterious personage only known as "Ms. Adele Finn."
+Although this writer was unable to reach Finn for comment, unmasking the identity of the aforementioned might be best accomplished by a simple joke: What do you get when you cross a Delphic with a dolphin?

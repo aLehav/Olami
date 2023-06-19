@@ -1,0 +1,96 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A Department of Justice investigation into alleged discrimination in Harvard’s race-conscious admissions policies remains ongoing, according to a Freedom of Information Act request filed by The Crimson last month.
+In a Dec. 10 letter of response, Kilian B. Kagle — who heads the FOIA Branch of the department’s Civil Rights Division — wrote that records “pertaining to the investigation into the equity of the admissions process at Harvard College [...] pertain to an ongoing law enforcement proceeding.” As a result, Kagle denied access to any relevant documents.
+“Disclosure thereof could reasonably be expected to interfere with law enforcement proceedings,” Kagle wrote.
+The Justice Department first declined to provide documents related to the probe in Oct. 2017 in response to a FOIA request filed by the nonprofit organizations American Oversight and the Lawyers’ Committee for Civil Rights Under Law. At the time, Justice Department officials also wrote that the requested documents pertained to an ongoing investigation.
+James Peyton McCrary — a law professor at George Washington University who retired from the Civil Rights Division in 2016 — wrote in an email that “noteworthy” investigations often span multiple years.
+“Investigations of noteworthy matters can be ongoing for several years,” McCrary wrote.
+Harvard’s admissions practices have separately become the subject of high-profile litigation over the past several years. A lawsuit — originally filed against Harvard by anti-affirmative action advocacy group Students for Fair Admissions in 2014 — has since passed through a discovery period and a three-week trial in federal court that ultimately brought a decision in favor of Harvard. SFFA quickly filed to appeal that ruling.
+Samuel R. Bagenstos — a law professor at the University of Michigan who served in the Civil Rights Division from 2009 to 2011 — speculated that SFFA’s ongoing lawsuit may have affected the Justice Department’s decision to continue the investigation.
+“It's not at all uncommon for the Department of Justice to watch and wait,” he said. “If there is ongoing litigation going on involving an issue that they're investigating, they might want to see what emerges from the trial from the litigation that is going on.”
+In addition to its investigation, the Justice Department filed an amicus brief in the SFFA case calling for the unsealing of admissions data related to the lawsuit in April 2018. They also filed a “statement of interest” in the case in August 2018 claiming that Harvard’s admissions policies perpetrate “unlawful racial discrimination” against Asian American applicants.
+Bagenstos said the Justice Department may also seek to participate in the appeal of the case.
+“They could file an amicus brief on appeal, or participate in oral arguments as amicus. That seems to me quite likely,” he said. “The Justice Department does tend to participate in that way in cases that raise important issues that are central to the policy agenda of the current administration, and this fits that, so they could do that.”
+“I suppose there's some very small possibility they can try to intervene as a party on appeal,” he added.
+University of New Mexico law professor Vinay Harpalani wrote in an email that he believes the mere existence of the Justice Department investigation supports SFFA.
+“SFFA knows that the Trump Administration is sternly behind eliminating race-conscious admissions policies, which the Obama Administration was not,” Harpalani wrote. “This emboldens SFFA to continue.”
+Harpalani said he believes the “real purpose” of the investigation is to pressure other universities with race-conscious admissions policies.
+“Just by conducting the investigation, the Trump Administration is showing that it is willing to challenge race-conscious admissions and to use its resources to do so,” he said. “This puts pressure on universities to voluntarily reduce or eliminate the use of race as an admissions factor, lest they be subject to federal investigation.”
+The Department of Education and the Department of Justice are also concurrently investigating allegations of discrimination against Asian-American applicants at Yale University.
+Harvard spokesperson Rachael Dane declined to comment on the Justice Department's investigation.
+—Staff writer Camille G. Caldera can be reached at camille.caldera@thecrimson.com. Follow her on Twitter @camille_caldera.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Computer Science 50: “Introduction to Computer Science I” released a report about the long-term efficacy of its “regret clause,” an academic honesty policy that stirred controversy upon its induction in 2014 for allegedly bypassing the Honor Council, last week.
+The “regret clause” is one of several interventions the course has deployed to combat cheating among its students, which has been on the rise for over a decade, according to the report. CS50 “has the unfortunate distinction of referring to the university’s honor council, most every year, more cases for disciplinary action than any other at the university,” according to the report, which course instructor David J. Malan ’99 co-authored with two senior preceptors.
+Beginning in 2014, a CS50 student who cheated on a problem set could invoke the “regret clause” within 72 hours. Though the course may levy “local sanctions” — such as a failing grade for the work in question — course staff pledge not to refer the student to the Honor Council, which may administer far harsher penalties, including compulsory withdrawal from the College.
+“We instead advise students on how best to move forward and connect them as needed with support structures on campus for academics and mental health,” the report reads.
+“All too often were students’ acts the result of late-night panic, a combination of little sleep, much stress, and one or more deadlines looming,” it continues.
+The report adds that the Honor Council did not initially welcome the “regret clause” warmly. At the time, the Council’s members expressed concerns that the provision would allow repeat offenders to evade detection.
+Eventually, the Council and course staff reached a compromise, wherein CS50 could keep the clause if they modified its language so that it could not be invoked by a student more than once.
+89 students have availed themselves of the clause since 2014, according to the report. This figure represents “between 1% and 3% of the course’s student body each year.”
+Malan wrote in an email that the majority of these 89 students ultimately had their plagiarized problem set — or the plagiarized subset of their work — “zeroed.”
+Such sanctions typically do not severely lower a student’s overall grade, he added.
+“Problem sets' weights have varied over the years, but this year, one problem set represents approximately 5% of one's final grade,” he wrote.
+The clause has proven “most impactful” of all the course’s anti-cheating interventions over the years, according to the report. Ultimately, though, it has not succeeded in deflating the percentage of students referred to the Honor Council.
+“Instead, we seem to have identified via our regret clause a demographic previously unidentified and, thus, unsupported: students who, to their credit, after submitting work not their own, wished to take responsibility therefor,” the report states. “Remarkably, among the dozens of students who have come forward under that clause since 2014 to admit some act of dishonesty, few of those acts were even detected by software.”
+The authors wrote that the clause not only failed to reduce the number of cases referred to the Honor Council but actually “contributed to an uptick.”
+“We now feel more comfortable referring cases after students have had an opportunity to take ownership themselves but have chosen not to do so,” they explain.
+Asked in an email why he thinks the demographic who commits more detectable offenses does not take advantage of the clause, Malan declined to comment.
+“I'm afraid that one's perhaps best answered by those in question,” he wrote.
+Though the number of CS50 students referred to the Honor Council is trending upward — reaching five percent this past fall — Malan wrote in the report that he still thinks the clause provides value to students.
+“Invocations of that clause have led to heart-to-heart talks, referrals for mental health, and, ultimately, teachable moments for an otherwise not-previously-reached demographic,” the report reads.
+—Staff writer Juliet E. Isselbacher can be reached at juliet.isselbacher@thecrimson.com. Follow her on Twitter at @julietissel.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Nearly 200 Harvard affiliates and supporters have signed onto an online petition calling for Harvard University to stop displaying, publishing, and selling the rights to the images of two enslaved people.
+The daguerreotypes — believed to be some of the oldest extant photos of American slaves — depict an enslaved man named Renty and his daughter, Delia. Harvard biologist Louis Agassiz commissioned them in the 19th century to support his theory of white superiority.
+Tamara K. Lanier, who says she is Renty’s great-great-great-granddaughter, filed suit against Harvard in March, alleging that the University unlawfully possesses and profits from the photos.
+In her lawsuit, Lanier argues that University should the hand daguerreotypes over to her, which she alleges the school has refused to do. She also requests that Harvard cede any profits made from the photos and pay punitive damages to her, and that Harvard officials acknowledge the University “was complicit in perpetuating and justifying the institution of slavery.”
+The images are currently housed in the Harvard Peabody Museum of Archaeology and Ethnology. The museum is named as a defendant in Lanier’s lawsuit.
+The recent petition addresses the concerns raised in the lawsuit and urges Harvard to refrain from using the images for profit.
+“Representatives of Harvard claim the present-day context in displaying them aims to highlight Africans’ humanity,” the petition reads. “However, the deep and true context for the slaves, for Renty and Delia, will never change.”
+The petition also argues that the context of the photos is “frozen within the faces of each frame,” and that Renty and Delia should be laid to rest with their descendants.
+“This is not an issue of law, this is an issue of persistent institutional and cultural violence perpetuated by Harvard University aimed toward African slaves,” the petition reads.
+University spokesperson Jason A. Newton declined to comment on the petition.
+Meredith N. McKinney, who is a degree candidate at Harvard Extension School and wrote the petition, was working on a project for one of her classes when she found the images of Renty and Delia and their connection to Harvard.
+She said that she assumed the student body had developed a coalition to communicate students’ positions with regard to Harvard’s administrative decisions. She added that when realized there was a “lack of awareness” on campus, she decided to advocate for Lanier.
+“My hope is to shine a bright light across campus and student networks on this issue to enable the student body to have a voice in this matter,” McKinney said.
+McKinney said her intention is not to create an “us vs. them” environment when it comes to administrators and those who disagree with the school’s position on the images.
+“The intention is to really spread awareness about the position Harvard is taking now,” she said. “I honestly believe the more students that understand this story, the more students would disagree with the way that Harvard is pursuing this ending.”
+University President Lawrence S. Bacow said in an April interview that Harvard’s possession of the images was not illegal and that the Museum displays them in order to illustrate the slaves’ humanity.
+“The way in which the University displayed the images of daguerreotypes, my understanding from President Faust — and you may wish to speak to her — was designed specifically to call people's attention to the fact that these were not chattel,” Bacow said at the time. “These were real people.”
+Harvard’s role in the slave trade has become a topic of increasing campus debate in recent years.
+Bacow and a representative from the island of Antigua and Barbuda are exploring educational partnerships after the country’s prime minister penned a letter to Bacow requesting reparations for the school’s ties to slavery.
+In November, Bacow launched a new University-wide initiative to address and further research the school’s ties to slavery. The announcement of the initiative came approximately a month after Bacow publicly apologized for using the 13th Amendment to compare the University’s wealthy donors to slaves at an Alumni Affairs and Development staff meeting.
+Before Bacow’s tenure, former University President Drew G. Faust, along with United States Representative John R. Lewis (D-Ga.), dedicated a plaque to four enslaved persons who lived and worked on campus in the 18th century.
+Faust also accepted a Harvard Law School committee’s recommendation to remove the Law School’s seal, which included the Royall family crest, whose family owned slaves in the 18th century. Isaac Royall, Jr., a plantation owner and slave trader, helped endow Harvard’s first law professorship in 1815.
+—Staff writer Michelle G. Kurilla can be reached at michelle.kurilla@thecrimson.com. Follow her on Twitter @MichelleKurilla.
+Want to keep up with breaking news? Subscribe to our email newsletter.

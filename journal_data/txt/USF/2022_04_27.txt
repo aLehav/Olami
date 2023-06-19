@@ -1,0 +1,48 @@
+John Papa, current Microsoft employee and former Disney employee, will teach students in the College of Engineering about various web technologies on Wednesday. ORACLE PHOTO/MYA BEAUVAIS
+
+
+Principal Cloud Advocate at Microsoft John Papa will bring his passion for storytelling to USF when he presents to students Wednesday.
+
+
+Hosted by Google Developer Student Clubs (GDSC), the talk will be about WebApp Scaling and Security. It will take place in Engineering Building II, room 116 from 5-6:30 p.m. with a capacity of 40 attendees and a budget of $200 to cover the cost of catering.
+
+
+Papa, who is speaking for free, was invited to talk about Angular, a Google framework for building user surfaces, but also hopes to expand into other web technologies such as Reach by Facebook and Vue by Open Source Group.
+
+
+“I am going to show how no matter which one you choose, you can deploy to the cloud quite easily,” Papa said.
+
+
+Reach is a service that allows users to view how many people saw their ads and Vue is used for building user interfaces, according to Flatlogic.
+
+
+Papa has used his love for storytelling in his roles at Disney, working in developer relations, as well as his blog writing and other virtual content creation. Thanks to this passion, he has grown to be well-known and has a following of over 100,000 on Twitter.
+
+
+Originally from Albany, New York, Papa moved to Florida and attended the University of Tampa (UT) for his first two years of college. However, he felt that UT didn’t focus on software development enough so he switched to Siena College.
+
+
+Since graduating in 1995, Papa has had jobs at General Electric (GE), Disney and Microsoft, as well as being self-employed.
+
+
+“Back in the day, the internet was still kind of a foundling and a lot of the training was in person, so I could travel around and do training classes,” Papa said.
+
+
+After working for himself for a while, he went back and forth between Disney and Microsoft. At Disney, Papa was a leader of the reference architecture team that helped build some of its websites and apps.
+
+
+His time with Microsoft was spent in developer relations. At first, he had to move to Seattle, Washington, but later in his career he worked remotely from Florida.
+
+
+He would host presentations with Microsoft, but also write books, articles, blog posts and even take part in podcasts to help people solve problems in technology, which helped grow his following.
+
+
+Wednesday’s event is available to anyone interested in building websites or web applications. Registration is open until the start of the event and is available via
+BullsConnect
+.
+
+
+Papa said he looks forward to talking about technology and giving career advice, especially to the students in the College of Engineering with a whole career ahead of them still.
+
+
+“I really enjoy interacting with people and telling stories,” he said. “To me, the reason technology exists is [to make] great user experiences and making people’s lives better. I think that’s what I tried to keep in the heart.”

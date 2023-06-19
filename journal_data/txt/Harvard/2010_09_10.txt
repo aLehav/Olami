@@ -1,0 +1,398 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Nothing gets me excited during the baseball season like poring over baseball statistics. I used to obsess over simple stats on the backs of baseball cards, batting average, home runs, and runs batted in, but today I keep up with the newest metrics out there, too. It seems like every year baseball analysts are coming up with new ways to measure a ballplayer’s ability: value over replacement player, on-base plus slugging, wins above replacement, player empirical comparison, and optimization test algorithm, to name a few. This trend has not caught on in other major sports, like basketball or football, and it is unclear why. American professional sports ought to embrace the advanced statistics revolution that has become an integral part of baseball.
+Most of these metrics, like VORP, are very hard to derive but have transformed the way that the eager fan understands the game. Advances in baseball stats in the past decade have done wonders for enhancing the experience of the baseball season. Instead of comparing New York Yankee Alex E. Rodriguez’s home-run totals from year to year, fans can now discuss his “win shares” in each season. One is hard-pressed to find similar, flashy new stats in basketball and football. A few exist, but none has the recognition of its baseball counterparts.
+Teams can gain an edge on the opposition by embracing statistics. In baseball, the general manager of the Oakland Athletics, Billy L. Beane, revolutionized the game in the late 1990s through his statistics-driven “Moneyball” approach to finding the most valuable players at the cheapest price out there. The Athletics flourished under Beane, and soon the rest of baseball was scrambling to learn his numbers-based analysis of talent. The rest is history. Today, a stats guru is just as vital to a baseball team’s front office as the players themselves. Even the Boston Red Sox have the father of all baseball statistics, G. Bill James, on their payroll.
+If professional teams in other sports have already developed advanced statistics, then they guard their secrets jealously. There’s evidence that National Basketball Association teams have been compiling advanced stats for a while now, but they have yet to release the data to the general public. Only when stats become available to the public can the major sports fully embrace the statistics revolution the way baseball has.
+It will not be hard for professional sports to emulate baseball’s great success in this field. While baseball has the advantage of simple one-on-one matchups that are easy to quantify, inability to record plays in the age of computers and instant replay is a poor excuse for a lack of statistics. At the average major league baseball game there is an army of statisticians whose job it is to record every aspect of the game, every pitch, swing, and throw.
+Statisticians should cover other sports the same way. With enough manpower and technology, countless unexplored parameters could be measured. In basketball, the percentage of successful fast-break baskets or pass/dribble rates could be explored. For football, measures of how long an offensive tackle keeps a defensive lineman in front of him or how often a receiver catches a pass in tight coverage could easily be recorded and analyzed. As new stats are developed all the time, the possibilities for new ways to analyze these sports seem limitless. Sports have everything to gain from a greater emphasis on gathering statistics.
+Steps can be taken to make this change happen. All that is needed is an enterprising company to take up the challenge. Private organizations need to publish new, innovative stats for the common fan to use. It makes business sense, too: There is a market for advanced statistics. Many fantasy sports fanatics would be willing to pay for access to these stats. Gamblers who bet on sports would be happy to pay for access to stats that improve their chances of winning. Whether people are drawn to the sport for money or pleasure, all would welcome a wave of new statistics.
+Leagues would benefit from better public access to statistics. Releasing groundbreaking metrics would only increase fan involvement and interest in professional sports. Teams might be afraid of giving away their competitive edge, but common knowledge of the available statistics today could jumpstart a new generation of more effective and predictive statistics tomorrow.
+The age of advanced statistics in sports has arrived, and many leagues are being left behind. These leagues lose not only the utility of more effective player analysis but also neglect a key area of fan interest. If the leagues refuse to evolve on their own, then private businesses must take up the task of developing modern era stats to complement these modern era sports. There is nothing to lose and everything to gain by embracing the statistics revolution. The numbers say so.
+Jackson F. Cashion ’13, a Crimson editorial writer, lives in Adams House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+At first—or even second and third—glance, wind farms appear to be an optimal solution to our growing climate and energy crisis. They produce entirely domestic, self-sufficient power, they are frequently built in underemployed, rural areas, and they emit not a drop of pollution. It would seem as though the target of producing 20 percent of our electricity from wind energy by 2030 should be only the starting point. And yet, wind energy is not as perfect as it might appear; a closer inspection reveals that it does not meaningfully reduce our reliance on non-renewable energy sources. As such, we must be very careful in considering how to best pursue a push toward “green” electricity.
+The question of efficiency is critical to any informed discussion of wind energy. Wind turbines produce less energy than their “maximum capacity” rating would have us believe. Due to the fluctuation of wind currents—not exactly a novel discovery—turbines actually produce around 26.9 percent of the energy they could in theory generate. This is known as their “capacity factor.” By contrast, conventional power plants tend to have a capacity factor of 40 to 80 percent. This has one obvious ramification: Wind farms are less efficient and cost-effective than non-renewable sources of energy.
+Although this conclusion is hardly shocking, the unpredictability of wind power presents a much more serious problem. Because wind power can never be completely reliable, we will always need other, more reliable forms of energy to serve as a backup for “wind reliant” buildings and infrastructure. According to Eon Netz, a grid manager in Germany and subsidiary of E.ON energy, the amount of backup power required for wind energy stands at around 80 percent, roughly in line with wind's aforementioned capacity factor. This means that wind energy will actually sustain, not replace, our reliance on non-renewables and even lead to further proliferation of conventional power plants. Indeed, as the world increasingly becomes reliant on gas as opposed to coal and oil, the ability to turn gas supply 'on and off' at will complement perfectly the exponential use of wind energy, which cannot be stored for later use. Promoters of wind energy estimate that the backup power issue will not become serious until wind energy accounts for 20 percent of our electricity, yet this is precisely what many in the U.S. are aiming for right now. Of course, the capacity factor of wind energy will likely improve over time with advances in technology, but due to its reliance on wind currents, a scenario in which turbines are ever able to rival the reliability of a coal plant is hard to envisage. If we are, indeed, so desperate to become a green economy, then wind power is not a viable solution right now.
+Aside from the problems with wind energy's output, wind farms frequently end up being a blight on nature. Many farms are situated in remote and rural areas. In the United Kingdom, one of the world's most aggressive pioneers in this field, major wind farms are disproportionately found in the countryside. More specifically, an unfortunate correlation appears to be developing between the positioning of sites and their proximity to national parks or official “scenic areas.” Northern and eastern England, Wales, and Scotland, all of which contain some of the most wild and picturesque scenery in Europe, are all home to a large number of wind farms. This is no accident: Scotland is easily the “windiest” place in Europe. Its Highlands, where many wind farms are either already built or being proposed right now, have a population density of eight inhabitants per square kilometer. By contrast, the south and Midlands of the U.K. (two areas which help make England the most crowded country in Europe) are practically bereft of wind farms. A wind turbine is also no laughing matter; industrial models are over 300-feet high and cause not only serious noise pollution but also damage to both the surrounding terrain and wildlife (including birds).
+Fervent environmentalists are good at laughing off such complaints as trivial compared to the need to reduce our use of destructive fossil fuels. But this objection actually cuts to the heart of the issue of why we invest in wind energy. If our intent is to protect nature and the environment for future generations, then building massive turbines in some of the truly unspoiled areas left in the world makes little sense. In short, wind farms mar beautiful places but, as we have seen, do little to actually help save nature in the long run.
+This is not to suggest that we turn our backs on wind power. Clearly, the technology of turbines will improve over time. But until the capacity factor of turbines comes closer to rivalling that of conventional power plants, we ought to seriously consider putting their proliferation on ice. Until then, they really won't do much to reduce our reliance on fossil fuels. Meanwhile, governments must do everything they can to hinder the spread of wind turbines to remote areas, where local people are either motivated to make a huge profit by having the turbines erected on their own land or mistakenly hope to reduce their fuel bills. Above all, wind energy is far from the sole renewable. While solar energy enjoys similar capacity factor issues, other sources, such as hydropower, biofuels, and even clean coal, remain viable, less obtrusive, and potentially more efficient forms of clean power. Wind farms are simply not what they are cracked up to be.
+Eli B. Martin ’13, a Crimson editorial writer, lives in Lowell House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Salmon may soon be the first genetically modified animal to enter the American food supply.
+AquaBounty Technologies of Waltham, Mass. has replaced the salmon gene that allows it to produce growth hormones solely during the warm seasons of the year with genes from another fish so that it grows all year round. The modified fish reach maturity in 16-18 months, compared to the 30 months it currently takes farmed Atlantic salmon to reach maturity.
+After years of pushing the FDA for approval of its salmon, AquaBounty’s goal now seems within reach. The FDA has reviewed the genetically modified salmon and released an analysis that deems the product “as safe as food from conventional Atlantic salmon” with “a reasonable certainty of no harm from consumption.” It is anticipated that the FDA’s recommendation will lead to official approval of the salmon.
+While the FDA has so far reacted positively to the AquaBounty salmon, it seems the research done is insufficient to make a final decision. The FDA analysis was largely based on data submitted by AquaBounty, in which the company used surprisingly small sample sizes to conduct its research. More research done on the genetically modified salmon, particularly by institutions that do not stand to gain as a result of a certain outcome, should be conducted before the FDA allows the introduction of this salmon into the American food supply.
+History shows us that the FDA has a disappointing track record when it comes to making decisions about food on the market in the U.S., often approving products without sufficient research or transparency. In order to regain the trust of the public, the FDA must be revamped to include more measures of ensuring transparency and public reporting.
+Yet beside the concern about the quality of AquaBounty salmon and its impact on the health of consumers, there are also environmental concerns to be considered. A coalition of 31 consumer, animal welfare, environmental, and fisheries groups announced opposition to the approval last week. They cited, in particular, the concern that the salmon could escape and possibly outcompete wild salmon for food or mates. To assuage this concern, if the FDA approves the genetically modified salmon, we hope that they would make efforts to support biodiversity as well.
+The role of the U.S. in the world market is so large that very few countries are impervious to its influence. That being the case, there is a great possibility that other countries that do not want genetically modified salmon will be forced to accept it if salmon mix, as history shows they likely will. It is unfortunate that a decision made by the FDA will have a global impact without consent from the rest of the world’s salmon consumers.
+Yet, despite the environmental and public-health concerns, genetically modified salmon may be an option worth pursuing if the FDA conducts further, public testing. Genetically modified foods such as corn and soybeans provide cheaper alternatives at a large scale. Due to its health benefits, a safe introduction of genetically modified salmon would be even more commendable.
+AquaBounty may have come a step closer in its aim to win approval for its salmon, but for the best results of this new technology, we hope that the FDA will hold off until more research and transparency is available.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+When I shop for science and math cores, it always feels like I’m back in elementary school. I scan the course catalogue and ponder what my parents might say when I tell them I’m taking “Science of the Physical Universe 22: The Unity of Science: From the Big Bang to the Brontosaurus” or “Empirical and Mathematical Reasoning 14: Fat Chance.”
+“Is that a real class?” I imagine they’d ask.
+These ridiculously named classes are a manifestation of a general bias within the Core and General Education programs that all students who choose to concentrate in the humanities are both incapable of doing math and science and completely uninterested in those subjects.
+There’s nothing particularly objectionable about science and math cores being easier than departmental offerings. When I’m trying to get through 600 pages of reading a week and write five papers a semester, I simply don’t have time for a four-hour chemistry lab and lengthy lab reports. However, having taken science courses throughout grade school, I have enough science background to know that DNA contains genetic information and that yes, everything is made of atoms. These ideas really shouldn’t be new to anyone at this school, and it baffles me how often they are presented as such.
+Humanities concentrators come from a range of science backgrounds, so it is appropriate to review certain science and math concepts for those of us who haven’t touched a calculator in a few years. But reminding humanities students that everything is made of atoms is rather like reminding science students that America used to be a set of British colonies.
+It seems odd that as a history concentrator, I would easily consider taking a Societies of the World or History B class to satisfy a concentration requirement, whereas none of my science-concentrator friends has ever considered taking a Core or Gen Ed to satisfy theirs. I think the disconnect has less to do with the dumbed-down science of many of these courses, and more to do with the dumbed-down attitude that these courses have toward their students.
+A course that could easily have been called “Concepts and Case Studies in Biology” gets dubbed “The Molecules of Life” instead, as if non-science students couldn’t possibly find the actual science intrinsically interesting. The material explored in some of these Cores or Gen Eds might very well be worthwhile and engaging, but nothing suggests “joke class” more than a nebulous moniker.
+Science and math concentrators often find humanities courses just as challenging or uninteresting, but at least they get treated like adults. “Western Ascendancy: The Mainsprings of Global Power from 1600 to the Present” sounds just as respectable and intellectually fulfilling as anything I could find in the history department. It isn’t called “The West: Why We’re Awesome” just to attract the attention non-history buffs.
+Even though I’ve done my fair share of complaining about the Core, I still believe it is valuable for students to venture outside of their academic corners and acquire knowledge in other important fields. All I’m asking for is a Core that is interesting, manageable, and doesn’t treat me like I’m five years old.
+If you find a Science A that meets those requirements, let me know.
+Adrienne Y. Lee ’12, a Crimson associate editorial editor, is a history concentrator in Quincy House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard’s endowment grew to $27.4 billion in the fiscal year that ended June 30, 2010, an 11-percent investment return that comes a year after the endowment plummeted in value by 27.3 percent to $26 billion.
+Though the fund—the largest in higher education—posted a marked gain, it underperformed a theoretical benchmark portfolio that includes 60 percent stocks and 40 percent bonds by about 2 percent, according to Harvard Management Company’s annual report, issued today.
+While markets have broadly begun to recover in the wake of the financial crisis, the second half of fiscal year 2010 saw much market volatility, due in large part to turmoil in the sovereign debt market as a result of concerns about Greek debt. But according to HMC President and CEO Jane L. Mendillo, the University endowment is better equipped to handle market turbulence than in the past.
+“It has been a productive year,” Mendillo wrote in a report announcing the investment results. “In comparison to one year ago, our portfolio and our organization are significantly better positioned to continue to deliver strong long-term returns as well as actively manage our risks.”
+According to the report, University money managers have continued to retool the portfolio to increase its liquidity, a move that gives managers more flexibility after the recent financial crisis left the University with a need for cash but unable to sell off illiquid assets.
+HMC had previously invested heavily in alternative assets, which resulted in sizeable gains in the run up to the financial crisis, but quickly dropped in value in the aftermath of the housing market’s crash.
+“Senior management at HMC has been working closely with the University this year, and I believe all would agree that we have achieved deeper understanding of appropriate risk parameters and better alignment of the endowment’s risk/return profile with the University’s goals and needs,” Mendillo wrote.
+Over the past two years, the University has decreased its uncalled capital commitments from $11 billion to $6.5 billion, a change that further increases fund liquidity by decreasing the amount of money pledged to external managers in the future.
+The past year has also seen HMC strengthen its risk management division, an effort that included hiring Neil Mason as Chief Risk Officer.
+While emphasizing that HMC has taken strides to align its priorities more closely with the University’s, Mendillo’s letter sounded a note of caution.
+“We also need to be mindful that our portfolio, while large, still operates under liquidity constraints and spending demands that are greater than they were 5-10 years ago,” Mendillo wrote, adding that the endowment spending now accounts for 35 percent of Harvard’s budget.
+Despite the scare two years ago, the endowment has continued to invest in unusual asset classes, including natural resources like timber and agricultural land, a sector which continued to outperform its benchmarks.
+Notwithstanding August media reports that HMC was considering selling a large chunk of its real estate investments, managers are focusing on this sector as an area with room for growth. Harvard’s real estate portfolio underperformed its benchmark, today’s report said, but HMC has strengthened its team in the area to prepare for future opportunities.
+“The repositioning of our real estate portfolio will take several years, but it began in earnest this year with several new investments outside of the traditional LP fund structure,” Mendillo wrote.
+The global financial crisis and increasing government regulation of financial firms have also had peripheral benefits for HMC.
+The endowment has hired a number of managers seeking refuge from Wall Street as banks trim staff.
+“The environment for attracting investment talent and experience to HMC has been favorable over the last two years, and we have taken advantage of this opportunity,” Mendillo wrote.
+—Staff writer Elias J. Groll can be reached at egroll@fas.harvard.edu.—Staff writer William N. White can be reached at wwhite@fas.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The Harvard Chaplains, the umbrella organization of chaplains at the University, announced their support on Wednesday for the proposed Park51 mosque and community center—which would be built two blocks away from Ground Zero—in a statement posted on their website.
+The chaplains also sent a copy of the statement to the Harvard Islamic Society, whose members said the message was well-received.
+“I was appreciative and glad that the faith community at Harvard was willing to take what I think is the right stance and to support religious freedom in America, which is what I think America is all about,” said Rashid M. Yasin ’12, the  Islamic Society’s director of external relations. “It means a lot to hear so much positivity, especially for Muslims when we hear so much negativity across the nation.”
+While students in the organization said they were grateful for the outreach, Andrew N. Shindi ’13—secretary of the Islamic Society— said he “didn’t expect anything different from the University,” given Harvard’s diversity.
+Shindi added that the controversy surrounding the proposed Park51 mosque has been personally troubling. He grew up in New York City, and he and his family knew people killed in the terrorist attacks on Sept. 11.
+He said he was surprised that people would be so opposed to the community center in a place as diverse as New York.
+Several religious leaders echoed this sentiment.
+“I am outraged at some of the pushback against this and how it is being linked to religious extremism,” said Reverend Robert J. Mark, a Presbyterian minister who serves as the chaplain of graduate students at Memorial Church.
+The President of the Harvard Chaplains, Lutheran Reverend Donald Larsen, spoke to the political implications of the backlash against the proposed community center.
+“I’m concerned about the tendency to fan fears in our society,” Larsen said. “We believe quite strongly that the right of religious people to gather and assemble is a fundamental right guaranteed by our Constitution and Bill of Rights.”
+According to Shindi, the members of the Harvard Islamic Society want to continue to spread awareness about Islam by “combating prejudice and anger with knowledge”—teaching the Harvard community about the religion and about what it means to be Muslim in America, he said.
+The Muslim community center, which received support from New York City mayor Michael R. Bloomberg, has drawn national media attention. Many Republican candidates from across the nation have used the issue to attract voters leading into midterm elections this fall.
+—Staff writer Julia R. Jeffries can be reached at juliajeffries@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Mathematics Department Chair Shing-Tung Yau hopes to make analytic geometry and string theory accessible to a wider audience with his new book, “The Shape of Inner Space,” which he co-wrote with science author Steven J. Nadis.
+The book, released this month, explores how Yau mathematically proved the existence of a theoretical structure known as a Calabi-Yau manifold, in which dimensions other than the three spatial dimensions and time could be contained.
+Yau and Nadis began writing nearly four years ago, and crafted the book to be a blend of first-person narrative, mathematical history, and scientific explanation.
+“Once you start getting into the details of the geometry and topology developed here, it gets pretty complicated,” said Nadis, who was recruited by Yau to help make the book more accessible to lay readers. “It’s the first book that is trying to reach a broad audience that is about [these topics].”
+Yau said that he wrote the book not only to share his research with others, but also to explain the ways in which mathematicians help contribute to the understanding of the universe.
+“We [mathematicians] are just normal scientists, sometimes more quiet than physicists and biologists,” Yau said, adding that he wanted to explore “how mathematicians think about nature [and] how we contribute to understanding nature.”
+The book also focuses heavily on the importance of collaborations between mathematics and other disciplines. Yau and Nadis trace the history of how physicists used the idea of Calabi-Yau manifolds to develop string theory, which posits that the universe is composed of single-dimensional strings vibrating in higher-dimensional spaces. Calabi-Yau manifolds help account for the extra dimensions.
+“I think it’s an inspiring story about how progress in science is made by breaking traditional boundaries in disciplines,” said Physics Professor Andrew Strominger, who has used Yau’s work in his own string theory research. “I think it’s really the only book of its kind—and, of course, written by someone who not only witnessed but also inspired and produced some of the major developments [in this field],” Strominger said.
+Following this book, Yau said that he intends to continue writing with Nadis in the future. They have already completed several chapters of a book on the history of Harvard’s Department of Mathematics.
+—Staff writer Gautam S. Kumar can be reached at gkumar@college.harvard.edu.—Staff writer Evan T.R. Rosenman can be reached at erosenm@fas.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard Asian-American alumni from around the world are slated to fly to Cambridge this fall for the first-ever Harvard Asian American Alumni Summit, an event sponsored by the Harvard Asian American Alumni Alliance.
+The summit, which is scheduled to run from Oct. 15 to 17, aims to bring together Asian-American alumni, faculty, students, and staff from Harvard’s schools for a weekend of panel discussions, networking events, and informal social gatherings.
+Among the scheduled speakers at the event are University President Drew G. Faust and William F. Lee ’72, the first Asian-American to be elected to the Harvard Corporation.
+The summit’s main event will be the 2010 Elevate Pitch Competition, which will invite alumni, students, and faculty to pitch “game-changing ideas” demonstrating creativity, innovation, or potential for social change before a panel of judges. Three successful pitches will each win $2,500 cash prizes.
+According to summit co-chair Jeannie Park ’83, the event grew out of efforts by several Harvard graduates who took issue with the lack of Asian alumni involved in reunion events.
+Jeff C. Yang ’89, Park’s co-chair, said he found it surprising that although Asian-American students constitutute the largest ethnic minority group on campus, Asian-American alumni have historically been less involved in giving back to the University.
+He added that his generation, born in the late ’60s, was the first to reach adulthood and start thinking about their legacy after caps on Asian immigration were lifted.
+“We are not just thinking about ourselves, but in a larger sense regarding what Harvard means for ourselves and our community,” he said.
+During the summer of 2008, Park—the former executive editor of People magazine and founding president of the New York chapter of the Asian American Journalists Association—met up with fellow journalists Yang and Jennifer 8. Lee ’99, a former Crimson vice president, when they began planning for what would become the summit.
+As networks expanded, what started out as a half-day Saturday luncheon evolved into a full three-day affair.
+Melissa Lee ’95—the host of CNBC’s Fast Money and a member of the Elevate Pitch Competition judging panel, who was also a Crimson associate managing editor—said that encouraging entrepreneurship is especially important for Asian Americans, who often come from households in which creativity is not emphasized.
+“I hope [the competition] encourages them to think outside the box for themselves and for their careers,” she said.
+Other notable Elevate Pitch Competition panel judges include the head writer of “The Office” and the president of AOL Media.
+—Staff writer Adrienne Y. Lee can be reached at aylee8@fas.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The coming academic year will pose the greatest budgetary challenges the Faculty of Arts and Sciences has faced since the Great Recession struck in 2008, as FAS Dean Michael D. Smith has predicted over the past few months.
+The University’s largest school made considerable progress since early 2009, closing nearly $185 million of a $220 million deficit. Now Smith pledges to eliminate the remaining $35 million deficit by the summer of 2012.
+“Dean Smith has often stressed that this year would be the most challenging financially,” FAS spokesman Jeff Neal wrote in an e-mail yesterday.
+Yesterday’s announcement that the University’s endowment increased 11 percent in the past year, bringing the overall endowment to $27.4 billion, could offer sought-after relief for next year’s budget.
+But this year, FAS is working with a 12-percent reduction in the annual endowment payout—around 50 percent of its budget—determined by the Harvard Corporation, the University’s highest governing body.
+Departmental budgets could face further strain as a result of a two-year contract agreement struck between the University and the Harvard Union of Clerical and Technical Workers in July. The contract provides many staff members a $1,000 raise this fiscal year.
+FAS is now planning for what it has labeled “phase three” of its financial recovery process, involving cost-cutting measures with structural, long-term ramifications. Indeed, department leaders said in interviews with The Crimson that after two years of incremental cuts, the discourse has steered away from budget-slashing to larger restructuring.
+“Two years ago, almost every week, every day, we were meeting about how to cut the budget,” said Math Department Chair Shing-Tung Yau. “Now we are talking about how to serve the students better.”
+Yau said that his department is once again discussing the possibility of hiring more professors—a development he regards as a welcome change from the past two years, when the department operated under the FAS-wide slow-down on faculty searches.
+In the wake of the financial crisis in the fall of 2008, when the University endowment fell by 30 percent, FAS found itself $220 million in the red. The school responded to the crisis with 15-percent budgetary reductions in academic departments and an early retirement package for staff workers. Those measures “generated immediate savings,” according to Neal.
+In continuing its emphasis on budgetary oversight, FAS introduced last year the “first dollar principle,” through which Smith aimed to spend FAS’ restricted funds—money with limitations on how it may be spent because of donor specifications—before spending the school’s unrestricted funds.
+More details about the current state of the budget, FAS’ approach to the cuts, and Smith’s priorities in the coming year will be announced at the next Faculty meeting on Oct. 6, according to Neal.
+For now, departments are coping with whatever they can get. Gennaro Chierchia, chair of the Linguistics Department, said his department was granted a part-time replacement to fill in for a departed staffer.
+“And that is a big help, especially in a small department, because every little thing counts,” he noted.
+—Staff writer Noah S. Rayman can be reached at nrayman@fas.harvard.edu.
+—Staff writer Elyssa A.L. Spitzer can be reached at spitzer@fas.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+An appeals court opened the door for federal funding for research on human embryonic stem cells to continue yesterday after a lower court had prohibited the government from funding such research.
+A United States Appeals Court issued a stay to the earlier ruling by Royce C. Lamberth while the case moves through the court system.
+The decision by Lamberth, which restricted the National Institutes of Health’s ability to fund research that involved the destruction of human embryos, has elicited disappointment from scientists in the field who by and large believe that such research holds great promise for medical breakthroughs.
+But the case in question is unlikely to be won by proponents of stem-cell research. Yesterday’s stay gives legislators time to consider a law that would allow funding for such research while maintaining funding in the interim.
+Proponents of the suit argue that it is immoral for the government to participate in the destruction of human embryos.
+University President Drew G. Faust issued a statement earlier this week in support of Harvard’s stem cell scientists and urged Congress to take action on the matter.
+“We hope that the temporary injunction will soon be lifted and that Congress will take the steps necessary to ensure that stem cell scientists can carry on their work vigorously and responsibly, in the interests of the millions of people who may someday enjoy its benefits,” Faust said.
+The University filed an amicus brief in favor of a stay that argued that research would be irreperably harmed if funding was halted.
+The Dickey-Wicker Amendment, the basis of Lamberth’s ruling, was passed in 1995, about two years before scientists discovered the potential medical benefits of human embryonic stem cell research. But that amendment prohibited the government from funding efforts that involved the destruction of human embryos.
+This year the government provided $131 million in funding for such research. If funding is cut off, ongoing research projects may be threatened.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard University will not sell a portion of its real estate holdings to China's sovereign wealth fund after efforts to broker a deal with the $300 billion fund broke down, according to a report in Bloomberg this afternoon.
+The University had been seeking to unload a portion of its real estate portfolio since at least February, and the Chinese Investment Corporation had been rumored as a potential buyer.
+The University has declined to discuss the deal, but according to media reports the assets sold would have been valued at several hundred million dollars.
+During the recent financial crisis, the endowment suffered heavy losses on real estate, a portion of the portfolio that became difficult to convert to cash as many market players sought to increase their liquidity.
+After heavy losses in fiscal year 2009, the endowment grew in value by 11 percent according to a report released yesterday by the University. Last year, though, the fund continued to be weighed down by its real estate holdings, which did not meet Harvard Management Company's internal benchmarks.
+—Check TheCrimson.com for more updates.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Sophomore forward Brian Rogers secured The Crimson’s nod for Athlete of the Week—and deservedly so. After a game-winning goal against No. 13 Stanford under the lights last Saturday, Rogers struck again on Monday against UMass to once again break the 1-1 deadlock. But in other contests across Cambridge, a few Harvard competitors issued reminders that they too can put up noteworthy performances.
+Seniors Chloe Keating and Alex Thompson also earned player of the week awards—Keating as the Ivy League’s top field hockey standout and Thompson for the CWPA Northern Division’s best water polo effort.
+Keating amassed nine points (four goals and one assist) over the past weekend, as the forward propelled the Crimson to its highest two-game scoring total since 2003.  The senior’s hat trick against Holy Cross proved particularly valuable, with Harvard topping the Crusaders by a three-score margin to start the season, 2-0.
+This blistering start is nothing new for Keating, who earned Ivy League Athlete of the Week honors a year ago after netting five goals in her first three games.
+Thompson, on the other hand, was a first-time award winner this week after stepping into a more prominent role for the Crimson offense. The senior totaled seven goals and an assist during the three-game MIT invitational, leading his squad in scoring twice. This standout performance from last year’s leading scorer was undoubtedly a good sign for Harvard, which graduated another of its top offensive threats in Egen Atkinson ’10. According to gocrimson, Thompson may be filling the role more directly than anticipated: the senior driver switched from wearing No. 3 to Atkinson’s No. 2.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+After taking the first two games of the season, Harvard field hockey looks to carry its preconference-play success into the weekend in the Sheraton Catamount Classic.
+University of Vermont will host the tournament on its Burlington campus. The Crimson (2-0) will play twice, once against Maine (2-2) tomorrow and against the hosting Catamounts (1-3) on Sunday.
+The last meeting between Harvard and Vermont came in 2008, and these two teams have only faced off twice since the 2005 season, splitting the contests. The Black Bears have not met the Crimson in the same period.
+Harvard has outscored its opponents so far by a margin of 11-3, with five or more goals in both its games. Neither Maine nor the Catamounts have scored more than three in any game this year, though both have yet to allow more than four scores.
+But the relatively easy wins so far have been far from flawless. In particular, the Crimson has made a small percentage of its shots, especially in the first half.
+In last’s Saturday’s game against Holy Cross, Harvard converted only once in eleven first-half shots. In its second game, the team made just one of 14 in the first 35 minutes.
+“Offensively, [our point of focus is] making sure we’re using our space very well and we’re working on our attack from the midfield up,” sophomore Cynthia Tassopoulos said.
+The team has also struggled on penalty corners, scoring just three times in 20 such chances. In the first half against Bryant, Harvard failed to score on its ten chances from corners.
+“Converting on penalty corners is always a goal of ours, and we work a lot on it in practice,” junior Georgia McGillivray said. “I think just keeping a forward moving [front]… will generate a lot of good goal opportunities.”
+The Crimson’s performances have been stronger in the two game’s second halves, scoring on about half of such shots in both games.
+“I think it’s a matter of warming up,” she said. “It’s taking a little bit of time to get into the feel of the game, so that’s really a goal for this weekend, to have that intensity… in the first half. “
+So far, the defensive strength has been enough to compensate for a team that has not been able to capitalize on many of its chances. Two of the three goals that Harvard has allowed so far came early in the first half, and the third had little consequence, coming late and after the Crimson had already built a four-goal cushion.
+“We’re just going to keep with our solid defensive structure and we’re working a lot on communication and making sure that everyone is on the same page to make sure that our defense stays solid,” McGillivray said.
+Senior Chloe Keating has been Harvard’s leading scorer player so far with four goals—including a hat-trick against Bryant—and an assist. Sophomore Emma Keller has two goals and two assists in the early going.
+In the 2009 season, Keating led the team with ten goals. Keller tied for second in the team lead with five.
+Poor shooting on the part of its opponents has made the Crimson’s defensive success more attainable so far. Holy Cross and Bryant took a combined 25 shots, of which only nine were on goal. The two teams converted on a third of its on-target opportunities.
+Vermont has fared better than Harvard’s competition, scoring seven times on 26 shots. Maine also has seven goals in its four games, though it has taken the team 47 shots to do so.  But its opponents have been even worse—to reach the seven goal mark, the Black Bears’ competition needed 65 shots.
+“What we worked on [Tuesday] at practice was a lot of our circle defense,” Tassopoulos said. “We already know that Maine has an aggressive style of play, so we’re trying to transition that into our practices.”
+But McGillivray commented that scouting won’t affect how the Crimson practices or plays this weekend.
+“We do a bit of scouting on both of the teams, but we’re looking to go into the weekend and play our own game and not let the other team affect what our strategy is too much,” she said.
+—Staff writer E. Benjamin Samuels can be reached at samuels@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The Harvard men’s soccer team is back to its previous peak.
+After starting the season with a No. 10 ranking, the Crimson convincingly defeated then-No. 13 Stanford and UMass last week to gain four spots in the National Soccer Coaches Association (NSCAA) National Poll. The last time the team claimed a No. 6 ranking was last year, when Harvard, led by top Crimson goal-scorer Andre Akpan ’10, captured the Ivy League title and reached the Sweet 16 of the NCAA tournament.
+This time around, the underclassmen are having a huge part in the rise towards the top. But the young Harvard squad faces another big test this weekend—a duel with No. 10 Connecticut on the road.
+The last time the two teams met, the Crimson had the same ranking, but the Huskies humbled Harvard with a 4-0 score.
+Even though the upperclassmen know what the Huskies will bring to the table, many of the young faces on the team have shown so far that they are eager to make their own mark.
+Sophomore Brian Rogers, second on the team in goals scored last year with six tallies, already has two goals in as many matches—both tiebreakers.
+Another sophomore, Scott Prozeller, has played every minute thus far while a handful of rookies have gotten big minutes.
+“Three freshmen came in off the bench and gave huge lifts,” Crimson co-captain Robert Millock said after the Stanford game. “Guys stepped up who haven’t started in the past. We have five new starters this year, so I think it was a great team effort and testament to the coaches.”
+In Monday’s matchup against UMass, Prozeller was able to tie the game at one off of a ricocheted shot from freshman Connor McCarthy. This came as a result of a corner kick by freshman Kyle Henderson, who had another assist later on in the match. Henderson crossed the ball from the right side of the field over to classmate Ross Friedman. Friedman had no trouble connecting his head with the ball, putting Harvard ahead for good.
+This underclassman emergence is not altogether surprising. The Crimson returned only seven starters from last year, allowing the freshmen to take advantage of the opportunity.
+Last year’s team started the campaign 6-0, and Harvard hopes to make it 3-0 at Storrs, Conn.
+Connecticut will pose a stern test for the Crimson, though, demonstrated by the fact that the Huskies have a perfect 3-0 record, outscoring their opponents 11-1 so far.
+Rookie Mamadou Diouf, who already has 11 points thanks to five goals and two assists, has been spearheading Connecticut’s offense thus far. Three of his teammates each have three assists, an indication that this team’s arsenal of players can set up a dangerous offensive attack.
+But the Huskies have yet to beat a ranked opponent, and the Crimson will set out to justify its high ranking.
+So far, Harvard has exhibited a potent offense, outshooting opponents 32-22, 16 of them on goal. Crimson coach Carl Junot is specific about his tactics, wishing that his team not only control the ball and but also make it matter every time.
+“What we focus on is possession with a purpose, and I thought that’s what we were most effective at,” Junot said in reference to the Stanford game. “We possessed the ball with the purpose of going behind their defense and that’s where we were better than they were, being more direct at goal…We are willing to concede some [possession] to be a more dangerous attacking team.”
+In goal, junior Austin Harms has not had a clean sheet yet, owning a 1.50 goals-against average. Connecticut’s Josh Ford has only allowed one shot past him in three games and will be finally tested by a top-10 attack.
+Ford’s top threats to a clean sheet will be Rogers and junior Jamie Rees, who leads the team with eight shots.
+—Staff writer Brian A. Campos can be reached at bcampos@fas.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+As the saying goes, “To be the best, one must play the best.”
+That’s why the players on the Harvard women’s soccer team pulled out their tickets, I.D.s, suitcases, and sunscreen yesterday as the Crimson (1-0-1) headed off to Florida for two weekend match-ups against University of Central Florida and University of South Florida.
+“These are very good teams,” Harvard coach Ray Leone said. “UCF was the conference champion and they went to the Elite Eight last year which is incredible, and South Florida is one of the up-and-coming-teams of the Big East, so they have a strong conference too. It’s going to be a huge challenge for us.”
+“Hopefully my Floridians will step it up in their own backyard,” Leone added.
+His team never having played against the UCF Knights (3-1-0) or the USF Bulls (4-1-0), Leone developed this trip as a way for three of his six seniors to showcase their skills in front of family and friends.
+“This is really exciting for me to go back home,” co-captain and Florida native Gina Wideroff said. “My family will be able to drive there and I know a lot of players on both teams, so it’ll be exciting to play against them in a college atmosphere instead of just club soccer.”
+Senior Kerry Kartsonis, another Florida native, agrees with Wideroff’s statement, especially since very few of her high school and club teammates venture into the New England area.
+“We’re all from Florida and we play games in the northeast and we don’t know any other players in the northeast so it’ll be great to have some fan support from friends who go to those schools,” she said.
+The weather and palm trees don’t hurt either.
+“I checked [the weather] last night,” Wideroff said. “Hot. I think the toughest part will be the recovery, being able to recover after that 7pm game and then turning around to play at noon on Sunday in the heat of the day. As far as the soccer goes, we’ll try to work on whatever went wrong in Friday’s game, but mainly just the recovery process in this heat.”
+The Crimson’s first face-off Friday night features an opponent that’s on a three-game winning streak and has outscored its opponents 7-3 in four matches this season. The last time Harvard met UCF on the field in 1981, the Knights grabbed a 2-0 victory in its first season as a varsity sport.
+“We haven’t been focused as much on them as we are about what we’re trying to do, and we’re just continuing to try to improve our style of play and move the ball a lot faster than we’ve been moving because the games we’re going to be playing this weekend are going to be fast,” Leone said.
+Less than two days later, the Crimson takes on the Bulls for the first time in school history. USF, which lost to Notre Dame in the quarterfinals of the Big East tournament last year, packs an aggressive offensive punch led by junior Chelsea Klotz, who scored seven goals in the last five games, three of which were game-winners.
+“UCF is pretty strong as is USF so it’ll be exciting,” Leone said. “A good test for us, a good challenge.”
+“They’re just like any other team,” Wideroff added. “Hopefully we’ll do well. It’ll be a good game but we’re treating them just like any other opponent.”
+Coming off of a win last Sunday against a more northern opponent, New Hampshire, the Harvard squad isn’t just excited about the southern weather but about continuing the momentum as well.
+“We’ve just been trying to maintain a fluid system and work on different formations and how to defend and attack set pieces, just trying to tie everything together,” Kartsonis said. “I know everyone from Florida is excited, but the team is excited too. We have two games under our belt now so I think we’re ready to get the ball going.”
+—Staff writer Alex Sopko can be reached at sopko@fas.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Each Thursday, The Crimson will compile a series of unique statistics about Harvard's sports scene. Welcome to the Magic of Numbers—without the problem sets. We'll do the math for you.
+Let the countdown begin!
+10 - the ranking of the Harvard men’s soccer team at the start of the year.
+9 - the number of players on the Harvard women’s tennis team as it kicks off its season at the William & Mary Invitational this weekend.
+8 - the number of goals the Harvard men’s water polo team scored in a one-goal loss to the Boston Metro Elite...
+7 - the number of goals netted in each of the Harvard women’s field hockey team’s first two games, with the Crimson winning 6-1 over Holy Cross and 5-2 over Bryant.
+6 - the number of consecutive wins the women’s soccer team has recorded over the University of New Hampshire.
+5 - the number of sets it took for the Crimson women’s volleyball team to defeat Bryant in Saturday’s Harvard Invitational.
+4 - the total number of goals scored in a 2-2 tie for Harvard women’s soccer versus Long Island last Friday.
+3 – total goals tallied in the soccer game as Brian Rogers scored in the 80th minute and the Crimson won its first game of the season.
+2 - the number of victories thus far for the Harvard men’s soccer team.
+1 - the number of wins the Harvard men’s water polo team has so far this season.
+0 - percent chance Crimson Editor Martin Kessler has in beating former Harvard wrestler and NCAA champion JP O’Connor in the Crimson faceoff.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+Seems like it. We've spotted two of these so far: one glued to the  sidewalk outside the New College Theatre and another at the Yard  entrance between Wigg B and C.
+Photo by Kane Hsieh/The Harvard Crimson.
+Sections
+As the semester is now starting to get going, so too will most habits of Harvard undergrads—including the necessary excursions to find cheap late-night sustenance.
+But if you head over to Pinocchio's Pizza & Subs for a slice, you may find that it's hitting your wallet just a little bit harder. While the prices have always been some of the best in the Square, owner Adam DiCenso recently raised the cost of the Noch’s special—a combo of any two pizza slices—from $4.25 to $4.40.
+“It’s the cost of cheese, just so much cheese!” DiCenso said. “The cost of everything, all the ingredients, just goes up and up and up.”
+However, DiCenso said he doesn’t think that the small price change will discourage or upset many customers, adding that no one has complained thus far.
+“After all, we are the cheapest deal in town,” DiCenso said. “Am I right, am I right?” he added, addressing the line of nodding and smiling customers in the restaurant.
+"It's all about the pizza," said one customer, adding his own voice to the chorus of approval.
+Yes, college students are stingy. But when it comes down to it, paying $4.40 instead of $4.25 seems like a small fee in return for the gift of a full-stomach and late-night refuge that Noch’s provides.
+Photo by Nami Sung '09/The Harvard Crimson.
+Sections
+In August, Jonathan Lee Riches, a federal inmate who described himself as "also known as Bernard Madoff," filed an appeal to a case first dismissed in October 2009.
+In a handwritten complaint, Riches alleges that Harvard Business Review and 22 of its editors, whom he names personally in the suit, are, among other things, responsible for Riches' cruel and unusual punishment at Federal Medical Center in Lexington, Ky., where he is held.
+"I face imminent danger and Bodily, economic harm from Defendants collectively who are Media Editors who have continued to write articles of defamation of my character and they are violating my copyrighted trademarked name under the U.C.C. Uniform Commercial Code," Riches wrote.
+He continued, "Defendants labeled me as a cyber Terrorist and wrote on their website that I was involved with the financing of the Mumbai Massacre in India at the Motel and that I hacked into the casino vault at MGM grand, they published in a Avon mail Catalog that I stole Identities of the Fortune 500 companies CEO’s and that I had secret links to Bernard Madoff where I hid millions in funds in Switzerland."
+But a web search of HBR's website reveals no mention of Riches, though Madoff pops up more than a few times.
+So really now, who the heck is this guy?
+From prison, Riches has filed suit against numerous celebrities, politicians, and even entities that no longer exist. In addition to Steve Jobs, George W. Bush, and Perez Hilton, "Adolf Hitler's National Socialist Party" and the Roman Empire have faced suits from Riches, according to Wikipedia. He once sued NFL quarterback Michael Vick for "63,000,000,000 billion dollars"—a sum orders of magnitude greater than the worldwide GDP.
+Though the appeals court has yet to rule, there's good news for Harvard; not surprisingly, many of Riches' previous suits have been dismissed. Plus, according to the original judge in the case: "Jesse Jame's motion to intervene [is] DENIED."
+Photo courtesy of Creative Commons.

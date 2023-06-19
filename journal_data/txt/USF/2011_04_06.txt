@@ -1,0 +1,35 @@
+The Internet marketing research company comScore announced the surprising results of a new study this week that showed one-third of U.S. mobile smartphone subscribers use Google’s Android operating system on their mobile devices. This constituted a 7 percent increase from November of last year and makes Android the market leader for mobile operating systems.
+
+
+Android OS now has a solid 4 percent cushion ahead of the second most popular operating system RIM. The maker of the popular Blackberry fell 4.6 percent from last year’s No. 1 spot in just three months.
+
+
+While Apple’s iOS market share for mobile operating systems increased slightly, it has not matched Android’s explosive growth and remain in the third place spot. Yet, Apple did see a nearly 1 percent increase in mobile phone hardware market share, no doubt bolstered by the release of the Verizon iPhone earlier this year.
+
+
+While the Verizon iPhone was the most purchased phone in February, the verdict is still out on whether tech journalists were correct in their preliminary praise for it. A new survey from ChangeWave Research shows that while Verizon iPhone users experienced less dropped calls than AT&T users (1.8 percent vs. 4.8 percent), their level of satisfaction is about the same.
+
+
+Despite the bad news indicated by comScore’s survey results for Windows-based phones, a 1.3 percent loss of market share, many industry leaders are confident in future growth.
+
+
+In February, Microsoft announced its future partnership with Nokia that would replace Nokia’s Symbian OS, once the most popular operating system in the world, with Windows Phone OS on all Nokia devices.
+
+
+“The new alliance brings together Nokia’s hardware capabilities and Windows Phone’s differentiated platform,” Ramon Llamas, senior research analyst at tech firm IDC, said to
+PCWorld.com
+. “By 2015, IDC expects Windows Phone to be No. 2 operating system worldwide behind Android.”
+
+
+ComScore’s survey results also show a 3.2 percent increase in U.S. mobile phone subscribers who have used downloaded apps. But this may be an area where Apple takes points from the now-dominant Android OS.
+
+
+New survey results released this week from Robert W. Baird & Co. show that many app developers are unhappy with certain aspects of Android development.
+
+
+While 71 percent of those surveyed developed apps for Android OS, a majority of the developers were concerned about certain technical problems Google’s mobile OS is currently facing, as well as the “level of ‘junk'” apps in the Android Market, according to
+PCMag.com
+.
+
+
+Apple still remains the top source of revenue generation for third-party smartphone application developers, according to the Baird & Co. survey results.

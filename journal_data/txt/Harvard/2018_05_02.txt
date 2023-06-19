@@ -1,0 +1,469 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+BGLTQ students of faith will soon have a new home at Harvard. Recently, Director of BGLTQ Student Life Sheehan D. Scarborough ’07 announced that the Office of BGLTQ Student Life will create a new group centered around the religious needs of queer students of faith. The decision comes following the controversies surrounding Christian group Harvard College Faith and Action earlier in the spring.
+We are optimistic that the new student group can be a welcoming place for BGLTQ students of faith. This type of multi-religious, affirming affiliative community has been sorely lacking at Harvard. Nevertheless, the actions of Harvard’s Office of BGLTQ Student Life—which is technically under the purview of the Office of Student Life—do not make up for the OSL’s previous mistakes as it relates to queer individuals of faith at Harvard, such as its insufficient probation.
+We stand by our opinion that the OSL’s “probation” of HCFA is completely insufficient. This probation seems to be in name only, carrying no apparent punitive weight. This is an effort to provide alternate spaces for BGLTQ students without also ensuring that existing spaces make them feel fully at home. Such an effort is inherently incomplete. We consider it somewhat hypocritical of the administration to on one hand provide a platform for BGLTQ students of faith and then continue to support a group that has made mistreatment of those students a characteristic of its leadership.
+This is not to discount the potential benefit of this new student group, and we sincerely hope that it serves as a source of comfort, solidarity, and healing for BGLTQ students of faith who are grappling with their identities. We appreciate Scarborough’s effort to create this intersectional new organization, and stand as allies with members of our community who are attempting to reconcile their faith with their sexuality. We simply hope that these students feel equally supported in all communities on campus, including HCFA.
+We also want to clarify our opinion on HCFA’s probation, and why we strongly feel that it has not gone far enough. Harvard has a duty first and foremost to protect all of its students. It is imperative that all students have equal access to every part of College life, and therefore that leadership decisions are made based on qualifications, not on the intrinsic parts of a student’s identity.
+Harvard must promote tolerance and diversity in order to protect its students. This case may seem particularly thorny because, many argue, part of promoting religious tolerance is allowing HCFA to set leadership policies as it chooses. However, as we have written previously, HCFA’s actions violated this broader principle of tolerance by explicitly removing a student from leadership after finding out about her decision to date another woman. Punishment is then an appropriate response. It is not discriminatory to require an organization to not discriminate.
+It is also important to note that while part of our case for harsher terms of probation hinges on this principle of tolerance, HCFA also broke other College policies. OSL policies dictate that no student organization can make leadership decisions based on pressure from or the influence of an outside group. HCFA is affiliated with and receives funding from the Christian Union, a Christian organization with branches on numerous college campuses. HCFA removed this student leader after of the actions and decisions of Christian Union’s ministry fellows, who are paid by Christian Union and requested the student leader step down. The initial decision to put HCFA on probation also comes from this rule violation.
+Thus, with the largest Christian fellowship on campus discriminating against BGLTQ students and on probation for violating College rules, a new space for BGLTQ students of faith cannot come fast enough.
+This staff editorial solely represents the majority view of The Crimson Editorial Board. It is the product of discussions at regular Editorial Board meetings. In order to ensure the impartiality of our journalism, Crimson editors who choose to opine and vote at these meetings are not involved in the reporting of articles on similar topics.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The recent arrest of Joseph James DeAngelo Jr., the suspect in the Golden State Killer investigation, is remarkable for the striking success of finding this suspect by searching a genealogic database. Use of public genealogy databases for forensic purposes is not yet widespread and some may be concerned about such uses. Even in light of recent privacy breaches involving companies like Facebook and Cambridge Analytica, Californian authorities did the right thing here in the interests of justice and public safety and, against the odds, hit the jackpot.
+Searching a DNA profile against a publicly or privately held genealogical database will typically yield a very large number of possible biological relatives who may be widely dispersed across the globe. This is because these genealogic and ancestry databases contain profiles from tens of thousands of volunteers and test for types of DNA variation known as SNPs. They also sequence maternally inherited DNA along with Y-chromosome-specific DNA in males. Many individuals, who may be quite distant relatives, are thereby identified. It is quite remarkable, almost stunning, that searching a genealogic database was successful in the Golden State killer case, as it was only by chance that someone related to DeAngelo had voluntarily uploaded their own DNA profile to a public online website to try to find their relatives. Doing the same thing with the DNA profile of biological evidence from one of the Golden State Killer crimes, Californian authorities eventually sorted through the list of possible relatives and eventually focused their investigation on DeAngelo.
+Several web sites allow anyone to perform such searches on their own DNA or that of those for whom they have guardianship. Once a list of possible relatives is obtained, law enforcement could easily use “meta-data,” such as geography and age, to focus attention on specific individuals most likely living near the crime scenes who have certain relevant characteristics. For example in the California case, as the crimes occurred sometime in the 1970s or '80s, the perpetrator must have been at least 50 years old. DNA technology is now rapidly evolving to predict many physical characteristics about someone simply from analysis of a DNA sample. New tools and technologies now developed can be used for both humanitarian purposes and for solving crimes and, accordingly, public officials will undoubtedly be asked to look closely at their use.
+While concerns may loom large for some about data mining methods it is important to understand that the arrest in the Golden State killer case was not accomplished by the more focused protocols using the DNA kinship searching methods that my colleagues and I described over a decade ago. Such kinship searching methods, known popularly as familial searching, involve a multi-step search of local or state databases containing only DNA profiles of convicted offenders, collected under state law. In this approach the offender DNA profiles are ranked in decreasing likelihood of being derived from a close relative of the crime scene DNA. The DNA from a small number of closely matching profiles, along with the crime scene evidence, is then subjected to further testing, known as Y-STR testing, to winnow out non-relatives. When successful, a familial search yields a single DNA profile. The name of the convicted offender associated with that DNA profile can then be released to authorities for further investigation, in order to determine whether a close relative could be a viable suspect in the particular investigation. Because it is quite common for criminals to have a relative whose DNA profile in the offender database, such familial searching methods have now led to arrests and convictions in several U.S. states and other countries, including success on very first attempts in several states including California and Arizona.
+While the California Department of Justice did attempt this familial searching method several times in this Golden State killer case, each without success, overall these more focused formal kinship searching methods are far more likely to resolve crimes, with minimal intrusion on privacy, than are searches of public datasets which now include hundreds of thousands of individuals. As we continue to freely give up our private information in so many ways clever government organizations and big-data companies may choose to leverage these data. These choices require us to weigh the delicate balance between competing interests of privacy and public safety.
+Frederick R. Bieber is Associate Professor of Pathology at the Medical School and a published author and expert on forensic DNA.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Two-thirds of Harvard sophomores, juniors, and seniors live in a food desert. According to the Department of Agriculture, every River House except Adams House lies in what is defined as a “low-income census tract where a significant number or share of residents is more than a half mile ... from the nearest supermarket.” Three such census tracts exist in Cambridge, and the campus of MIT also includes one, as does Boston University’s East Campus across the river.
+Most Harvard students experience this area quite differently. As sociology graduate student Caitlin Daniel noted in an interview on the topic, “even people living in the same neighborhood can experience access very differently, depending on where their daily routines bring them … depending on whether they have reliable access to a vehicle, depending on what their budget is.” The river isn’t a “low-access zone” for anyone with a Harvard meal plan when dining halls are open, and it makes sense that we don’t buy enough food to support a local supermarket. It is not the fault of individual students that these food deserts exist on and near our campus, but the fact remains that around the city, living next to university students correlates with a lower level of access to affordable food.
+The purchasing power of Harvard students plays a substantial role in shaping the businesses around us, but it is often easier to diagnose and bemoan this problem than to change our behavior. This is particularly true in Harvard Square. Residents, including Harvard affiliates, petitioned developers to spare the Curious George store and sought to block the proposed &pizza location across the street. The Crimson’s Editorial Board has cited both of these debates in  placing responsibility for changes in the Square broadly outside of the control of students. The piece blames the growth of expensive cafés on tourists seeking “high-end food to supplement their sightseeing” and the closure on Schoenhof's Foreign Books on “high rents,” only briefly mentioning Tatte’s popularity among many Harvard students and completely ignoring that Schoenhof’s paid their rising rents to the Spee Club.
+One notable point is missing from campus discourse about Square business: The outsize role that Harvard affiliates play in determining the business landscape here. A student seeking high-end food to supplement their p-setting in Tatte is no less culpable, and far less hypothetical, than the Editorial Board’s imagined tourist. Our patterns of consumption drive El Jefe’s to stay open until four in the morning, and businesses spend substantial time and money competing for market share among undergraduates. As uncomfortable as it may be to acknowledge, Harvard students are a powerful base of customers for many businesses in Harvard Square, and bear substantial responsibility for its composition.
+The new—and high-priced—Blue Bottle Coffee site illustrates many of these dynamics. In the same editorial condemning rising prices in Square business, the Editorial Board wrote that “Blue Bottle Coffee, a cafe specializing single-origin coffee, announced its arrival in the Square last December; one undergraduate described the news ‘yet another bougie addition to Harvard Square.’” While the Ed Board portrays this undergraduate as a powerless onlooker to a changing Square, the full quote from the student states, “I’m excited for yet another bougie addition to Harvard Square.” This enthusiasm is mirrored by the excitement of undergraduates who flocked to Blue Bottle on its opening day and the glowing review published three days later.
+We can’t change every consumption pattern that makes the Square less accessible. Harvard’s mandatory meal plan makes it impossible for almost everyone to switch all of our purchasing to local grocery stores and aim to eliminate our food desert. But we can acknowledge the power and privilege that students have to shape Harvard Square. There is absolutely nothing wrong with purchasing and enjoying expensive food, but people who do so should be cognizant of the economic power they wield. By and large, Harvard students are drivers, not observers, of the Square’s gentrification.
+If we truly believe that more businesses should be locally owned and operated and that their proprietors should reflect the diversity of race, gender, and disability of the city that hosts us, we should shop according to the Cambridge Diversity Directory, which includes a supermarket and several restaurants, bakeries, and cafés within one T stop of Harvard Square. If we believe that businesses should treat their workers fairly, we should shop more at local businesses dedicated to this practice, like the Just Crust pizzeria that was forced to close last year, and less at online retail giants with documented labor abuses. We should even be willing to boycott businesses that don’t meet our moral standards, as students did with the Just Crust’s predecessor in 2011. If the students who live here part-time believe that year-round Cantabrigians should have affordable retail choices, then they should actively support them, for even existing affordable supermarkets that support residents living near college campuses are vulnerable to low demand.
+Consumption choices are a reflection of buyers’ values, and Harvard Square is largely a reflection of such choices made by Harvard students. If you’re uncomfortable with what you see, don’t blame tourists. Buy from local, ethical, and affordable businesses, ask at the counter whether that business donates unused food, and join the Student Labor Action Movement’s boycotts of irresponsible businesses. Align your consumption with your values.
+Will H. MacArthur ’20 is a Social Studies concentrator living in Currier House. His column appears on alternate Wednesdays.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: May 1, 2018, at 4:31 p.m. 
+Harvard will collectively bargain with its newly formed graduate student union, University President Drew G. Faust said in an interview Tuesday.
+The University’s move to bargain marks the final and full validation of the organizing effort, ensuring Harvard will see a student union for the first time in its history. The decision comes roughly a week after eligible students voted to unionize in the University’s second-ever election on the issue; the final tally saw 1,931 ballots cast in favor of unionization and 1,523 against.
+The move to recognize Harvard’s fledgling union breaks with recent precedent set by several other schools. In the past few months, multiple peer universities—including Columbia, Yale, University of Chicago, and Boston College—refused to open negotiations after student assistants on their campuses similarly voted to unionize.
+University Provost Alan M. Garber ’76 announced Harvard plans to bargain with the union in an email sent to University affiliates Tuesday afternoon.
+“In light of the outcome of the vote and the existing NLRB precedent, Harvard is prepared to begin good-faith negotiations, guided by our fundamental commitments as an academic institution,” he wrote.
+In an emailed statement, HGSU-UAW organizer Andrew B. Donnelly wrote that the union looks forward to future negotiations with the University.
+“We commend the administration for doing the right thing and agreeing to bargain with our union,” Donnelly wrote. “We're excited for our next steps as we elect our bargaining committee and prepare for bargaining.”
+Across Harvard’s second unionization election, held April 18 and 19, just under 56 percent of students who cast ballots voted to allow Harvard Graduate Students Union-United Automobile Workers to begin collectively bargaining with the University on their behalf. Around 5,000 graduate and undergraduate teaching and research assistants were eligible to vote, the same number of students the union now represents. In total, 3,454 eligible students cast ballots.
+National Labor Relations Board officials certified the election results Monday.
+[Curious why students voted to unionize? Take a look at who voted, how they voted, and why they voted with this series analyzing the results of The Crimson’s 2018 unionization election exit poll.]
+The seven-day deadline to file objections regarding the conduct of the election passed last week without challenges from the University or HGSU-UAW, prompting the NLRB to officially confirm the ballot count. Union organizers called the election process “smooth” in interviews last week, commending University officials’ handling of logistics.
+In the interview Tuesday, Faust said the University plans to negotiate “with a continued emphasis on our responsibilities to all our students.”
+“We will be very adamant about differentiating between matters that are appropriate for academic decision making from matters that are concerns of a labor or employment situation,” Faust said.
+Faust last offered public comment on unionization in Sept. 2015, calling the unionization effort “not appropriate.” At the time, she said she disapproved of the effort to unionize, arguing a union would change the nature of the “mentoring relationship” between graduate students and faculty.
+Faust said on Tuesday she maintains her previous position.
+“As I’ve said before, I do not think that the relationship between graduate students and faculty is an employment relationship primarily, and I think that unionization poses challenges to some of the fundamental aspects of that relationship,” Faust said. “But we will endeavor to bargain in a way that preserves and maintains the essential academic quality of that set of interactions.”
+[The Crimson maintained an online article constantly updated with voter interviews throughout the 2018 unionization election. Look back on the two historic days here.]
+Harvard’s decision to bargain with HGSU-UAW comes amid multiple challenges to the legal precedent legitimizing graduate student unionization. The NLRB—which previously affirmed and overturned decisions on graduate student unionization—set the most recent precedent in 2016 when it ruled to allow a unionization election at Columbia to proceed.
+Labor experts widely believe the current Republican-led NLRB will overturn graduate students’ right to unionize if the board hears a viable case on the matter.
+Several of the universities that have declined to bargain with their student unions appeared to bank on this prediction, appealing their case to the labor board in Washington, D.C. Campus unions have staged demonstrations and protests in response. A handful of unions have withdrawn representation petitions altogether to prevent their universities’ cases from reaching the NLRB.
+Administrators at Columbia recently appealed their case to the Second Circuit Court, arguing student unions compromise the academic environment on campus. Student organizers at Columbia concluded a weeklong strike Monday in response to the university’s refusal to bargain and are circulating a petition to garner support for another strike this fall.
+Immediately after the election, HGSU-UAW began soliciting nominations for its bargaining committee, the main body which will negotiate on behalf of students. The window for nominations closes May 1 at midnight.
+—Staff writers Kristine E. Guillaume and Jamie D. Halper contributed reporting for this story.
+—Staff writer Shera S. Avi-Yonah can be reached at shera.avi-yonah@thecrimson.com. Follow her on Twitter at @saviyonah.
+—Staff writer Molly C. McCafferty can be reached at molly.mccafferty@thecrimson.com. Follow her on Twitter at @mollmccaff.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Glenn R. Magid, director of the Advising Programs Office, stepped down from his post in March after almost six years at the College.
+Magid, who began as director in August 2012, oversaw pre-concentration and concentration advising for freshmen and sophomores at the College. During his time at the helm of the undergraduate advising office, Magid also launched several programs and initiatives, according to Brooks B. Lambert-Sluder ’05, assistant director of the APO.
+These new initiatives included a revamped APO website, new informal sessions for students to meet with faculty members called “Professors and Pastries,” and “Advising Corner”—a program that allows academic departments to book lunch tables in Annenberg Hall to connect with interested freshmen.
+Dean of Undergraduate Education Jay M. Harris commended Magid’s commitment to undergraduate advising support in an email to College staff following Magid’s departure.
+“We want to thank Glenn for his devotion to undergraduate advising, and we wish him well,” Harris said.
+College spokesperson Rachael Dane declined to comment on Magid’s reason for leaving the position.
+Harvard is currently searching for candidates to replace Magid, who also served as an assistant dean of the College, and Lambert-Sluder said other administrators, including Noël Bisson, associate dean of undergraduate education, is leading the office until a successor is selected.
+“In the interim, everybody’s chipped in,” Lambert-Sluder said. “Noël Bisson, who’s the Associate Dean of Undergraduate Education, who oversees the APO, has now stepped in with more hands-on leadership, over the past month or two.”
+Harvard’s job posting for Magid’s position describes the primary purpose of the APO being “to maintain and improve the quality of academic advising at Harvard” by working with staff from academic departments, student affairs offices, and the 12 upperclassman residential Houses. The APO trains roughly 460 faculty members and staff who serve as freshman advisers and around 280 House affiliates who work as sophomore advisers.
+Magid stepped down immediately before the College’s “Advising Fortnight,” one of the APO’s busiest times of year where concentrations host open houses and panels for freshmen to learn more about their prospective fields. Lambert-Sluder said that after the term ends, “it’s a different pace” since students are mostly off-campus and require fewer advising resources.
+“There might be some new staffing that would come in over the summer, but I don’t have a sense of any actual plans there,” Lambert-Sluder added.
+Lambert-Sluder called next August—before the beginning of the fall semester—“a reasonable time frame” for finding Magid’s replacement, but said it may take longer.
+“These things do definitely take time, I think it’s much more important to get the right person,” Lambert-Sluder said. “I don’t think anyone wants to rush it just for the sake of the calendar.”
+Magid is not the only College advising administrator to depart in the last year. In May 2017, Sue E. Brown, the APO’s associate director, also stepped down from her position after serving as a faculty member and administrator at Harvard since 1997. She left for Roanoke College to become the school’s director of academic services.
+—Staff writer Cecilia R. D’Arms can be reached at cecilia.d’arms@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+President-elect Lawrence S. Bacow delivered an update about the ongoing search for the next dean of the Faculty of Arts and Sciences at the last Faculty meeting of the semester Tuesday.
+Outgoing FAS Dean Michael D. Smith announced in March that he planned to step down from his position but would continue to serve as dean until Bacow, who is leading the search, named a successor.
+Bacow updated meeting attendees on the search and said he is still collecting input from faculty members and meeting with department chairs. Bacow also said he and University Provost Alan M. Garber ’76 have already met with the Faculty Council—FAS’s highest governing body—the divisional deans, the Graduate Student Council, the Undergraduate Council, and various faculty members. In March, Bacow announced to FAS affiliates the composition of a committee that would advise him on the search.
+“This is probably the most important appointment I will have to make as president. I don’t have to tell you that the Faculty of Arts and Sciences is the heart of the institution. It’s far more important we do this right than to do this with some artificial timeline,” Bacow said.
+Tuesday’s meeting was the last Faculty meeting over which University President Drew G. Faust will preside before she steps down in June. Smith thanked Faust for “more than a decade of visionary leadership” near the beginning of the meeting and presented her with a hand-bound copy of her book, “This Republic of Suffering.”
+“Fittingly, for all you have done to bring together art-making and scholarship these past 11 years, this book—your book—is now both deep scholarship and a piece of art,” Smith said as he presented Faust with the volume.
+Following Smith’s presentation, faculty members rose and gave Faust a standing ovation. Faust called the book “beautiful,” thanking Smith, the librarians, and the Faculty.
+The Faculty also unanimously voted to approve the creation of a new Ph.D. program at the Business School. The new program will grant students a Ph.D. in Business Administration and replace the existing doctor of business administration degree currently offered by HBS.
+Government professor Dustin Tingley presented a new syllabus tool for the faculty, which would allow faculty and students to search for syllabi by keywords in a centralized web interface. Tingley said current syllabi for classes can often be hard to find, and this tool would allow for students pursuing research or senior theses to find “curated reading lists.”
+Dean of Undergraduate Education Jay M. Harris, who will also be stepping down this June, presented plans for revamping the current course evaluation system, known as the “Q Guide.” A new subcommittee evaluating the Q Guide will start its work in fall 2018.
+The Faculty also voted unanimously to approve courses of instruction for the upcoming 2018–2019 academic year in both FAS and the Extension School.
+—Staff Writer Angela N. Fu can be reached at angela.fu@thecrimson.com. Follow her on Twitter @angelanfu.
+—Staff writer Lucy Wang can be reached at lucy.wang@thecrimson.com. Follow her on Twitter @lucyyloo22.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: May 1, 2018 at 10:35 p.m.
+University administrators say they plan to draw and enforce a strict line between academic and labor issues in coming negotiations with Harvard Graduate Students Union-United Automobile Workers.
+Harvard committed to bargain with its newly formed graduate student union Tuesday, days after students voted to unionize in an election held April 18 and 19. That election saw a final tally of 1,931 ballots cast in favor of unionization and 1,523 cast against.
+Both University President Drew G. Faust and University Provost Alan M. Garber ’76, when announcing the University’s decision to bargain, underscored Harvard’s “responsibility” to maintain the academic relationship between students and the University.
+Garber wrote in an email to Faculty of Arts and Sciences affiliates Tuesday afternoon that he believes “the relationship between students and a university is, above all else, an academic one.”
+Garber’s email also laid out three “fundamental principles” that he wrote the University will adhere to at the bargaining table: maintaining the “integrity” of the University’s teaching, “protect[ing] academic freedom,” and “serv[ing] all of its students” independent of whether they are included in the bargaining unit.
+“Decisions such as who is admitted, how teaching occurs, and who teaches, are academic judgments to be made by the University,” Garber wrote. “We are not under any obligation to negotiate with the United Auto Workers about academic matters, and will not do so.”
+[Curious why students voted to unionize? Take a look at who voted, how they voted, and why they voted with this series analyzing the results of The Crimson’s 2018 unionization election exit poll.]
+In an interview Tuesday morning, Faust said administrators “will be very adamant” in maintaining the divisions between academic and employment matters. Faust did not specify which specific issues administrators would consider negotiable during bargaining sessions.
+Faust and Garber both said the University would continue to serve students regardless of their position on unionization. In the days following the vote to unionize, some graduate students said they were concerned the union would not represent their interests.
+“We will [bargain], however, with a continued emphasis on our responsibilities to all our students: those who voted for the union, those who voted against the union, those who didn’t vote at all,” Faust said.
+Union organizer Andrew B. Donnelly, a Ph.D. candidate in English, said the union shares the University’s commitment to maintaining "academic freedom" at Harvard.
+“As students here and aspiring academics, we share Provost Garber’s values of academic freedom,” Donnelly said. “So, I’m not worried about bargaining for things like more stable wages and protections and better protections against sexual harassment as impinging on academic freedom.”
+University administrators have yet to provide details about the negotiating process, including who will represent Harvard at the bargaining table.
+HGSU-UAW is currently in the process of electing a 13-person committee of students hailing from different academic schools and divisions to represent the bargaining unit in negotiations. The deadline for nominations passed Tuesday night. Bargaining committee elections will take place May 9 and 10.
+—Staff writer Shera S. Avi-Yonah can be reached at shera.avi-yonah@thecrimson.com. Follow her on Twitter at @saviyonah.
+—Staff writer Molly C. McCafferty can be reached at molly.mccafferty@thecrimson.com. Follow her on Twitter at @mollmccaff.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The committee University President Drew G. Faust formed to examine the lead-up to the forcible arrest of a black undergraduate on April 13 is not a direct response to a student group’s open letter demanding reform, Faust said in an interview Tuesday.
+Faust on Monday announced she was forming a “review committee”—chaired by Law School professor Annette Gordon-Reed—to determine the exact “sequence of events” leading to the arrest and to undertake a “systematic examination” of a wide variety of Harvard policies.
+The committee’s creation came a few days after Black Students Organizing for Change—a new student advocacy group working to ensure student safety—published an open letter demanding Harvard reform certain structures and policies some say led to the arrest. The letter also called on the University to acknowledge and commit to a list of 10 demands via written statement by May 1. As of Sunday, the letter had garnered more than 320 signatures from Harvard affiliates and student groups.
+Faust’s Monday email met the group’s deadline, though it did not address BSOC’s specific demands.
+“I’ve issued a statement of a really major action involving leaders from across and beyond the University and that will be the foundation for moving forward on this matter and trying to address the range of concerns that have come from so many different corners of the University,” Faust said in the interview Tuesday.
+Faust also said one of the motivations for the committee was to understand “what can we do differently to make sure that we don’t have such an incident and disturbing event happen again.” This is not the first time Faust has called the arrest “disturbing”; on April 17, she sent an email to the student body similarly denouncing the incident.
+“What are the lessons learned here? I think was clear from the outset: that this was an outcome that no one on this campus wanted or ever wanted to see again,” Faust said Tuesday.
+Faust said she is aware there are many “conflicting versions” of the sequence of events April 13. She noted the fact the incident coincided with Yardfest, the College’s annual outdoor spring concert, and mentioned Harvard University Health Services saw “three times as many transports as they had anticipated” that night.
+HUHS was first contacted about the student, but referred the call to the Harvard University Police Department, per internal policy. HUPD then transferred the call to the Cambridge Police Department, who had jurisdiction given the student was not standing on campus property. In the wake of the arrest, some have questioned why Cambridge Police were called.
+The forcible arrest took place roughly two weeks ago, when three CPD officers and one Transit Police Department officer responded to calls about a naked man standing on Massachusetts Avenue around 9:09 p.m. on April 13. The student was likely under the influence of narcotics, according to tweets from CPD following the incident.
+The officers involved tackled the student to the ground before arresting the undergraduate on charges including indecent exposure, disorderly conduct, assault, and resisting arrest.
+A later CPD police report states the student clenched his fists and began making aggressive moves toward the officers, spurring them to tackle the undergraduate. But eyewitnesses—including members of the Harvard Black Law Students Association—have stated that CPD’s version of events is incorrect and that the officers acted “without provocation.”
+A video of the incident later published by CPD shows the student standing still, surrounded by four officers, while the officers talk to him for at least several seconds. The student turns around and takes two steps towards one officer before taking a step back and raising his arms to chest-level. Another officer then tackles the student from behind.
+While the student remained on the ground, at least one CPD officer punched the undergraduate in the stomach five times in an “ineffective” attempt to unpin the student’s arms and handcuff him, according to the CPD police report.
+BLSA has called the incident an instance of police brutality, and Cambridge Mayor Marc C. McGovern and Faust later called the incident “disturbing.”
+Faust said Tuesday she is interested in “the whole factual basis of what had occurred.” She said she wants to understand “the pattern of communication” and the “kinds of issues” that might have “alerted us to some of these concerns earlier.”
+Faust also raised questions about the “larger implications for how we might understand the responsibilities of students, of staff, and others at HUHS, of officers at HUPD, University protocols.”
+The student remained in police custody in the hospital as of late April. He was being treated in part for mental health concerns. Partly because of these concerns, charges may be dropped. Police Commissioner Branville G. Bard Jr. has said CPD is considering whether it makes more sense to pursue the student’s case via a path outside the criminal justice system.
+Law School professors Ronald S. Sullivan Jr. and Dehlia I. Umunna, who lead the Harvard Criminal Justice Institute, are now legally representing the student.
+Faust said the University is “concerned” about the student and said she personally has not been in contact with the arrested student’s legal team.
+“We want to support him in his desire to finish his work here,” she said. “That’s what we would see as our role is to help him get his work done as a student and to accomplish his goal of graduating from Harvard.”
+BSOC formed in the days following the arrest. In an open letter addressed to the “Harvard Community,” the group wrote its mission is “to hold Harvard University accountable for the safety of community members, particularly Black and Brown students.”
+A week after the arrest, more than 200 Harvard affiliates encircled University Hall with red duct tape over their mouths to protest the incident as part of a rally organized by BSOC. The rally served as BSOC’s first public action in response to the incident; the open letter is the second.
+Asked about student activity and campus discussion surrounding the arrest, Faust said concerns from BSOC and other Harvard affiliates “underscore that in the minds of all of us” questions and issues of “wide concern.”
+Dean of the College Rakesh Khurana and John S. Wilson Jr, recently-appointed senior adviser to the University president on diversity initiatives, have been meeting with students about the incident, according to Faust. She said she has been in “close communication” with the pair.
+“That was very important to me as a foundation for understanding the wide range of questions that were raised,” Faust added.
+—Staff writer Kristine E. Guillaume can be reached at kristine.guillaume@thecrimson.com. Follow her on Twitter @krisguillaume.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: May 3, 2018 at 2:40 p.m.
+President-elect Lawrence S. Bacow will be “very much focused” on the pending reauthorization of the federal Higher Education Act, University President Drew G. Faust said in an interview Tuesday, though she said the bill's future is uncertain.
+The Higher Education Act, originally enacted in 1965, authorizes the federal student financial aid program and includes provisions that fund and structure programs like Pell Grants, the Federal Work-Study Program, and loan repayment plans for undergraduate, graduate, and professional students.
+Republican House lawmakers’ proposed overhaul, called the PROSPER Act, would restructure loan repayment plans and eliminate Federal Work-Study and public service loan forgiveness for graduate and professional students, among other changes. The legislation passed a House committee 23–17 in Dec. 2017, but has yet to move to the full House or Senate for a vote.
+Faust has said she is concerned by the PROSPER Act in its current form, specifically regarding the threat it poses to student financial aid and to the Federal Work Study program. She has met with several lawmakers on both sides of the aisle to discuss these provisions.
+At the moment, Harvard’s priorities are not under immediate threat; the bill is stalled in the House and the outcome of the Nov. 2018 midterm elections will likely have significant bearing on whether the PROSPER Act progresses.
+“It’s hard, though, to know how far that bill is going to go, if anywhere, and what might happen if it got into the Senate,” Faust said. “I think it would be a quite different bill.”
+Still, Faust said it will be imperative to “keep a close eye” on the legislation. She referenced the fact that the same lawmakers who personally promised her they would not support an endowment tax proceeded to vote for the legislation in Dec. 2017.
+“We were so reassured by everybody’s statements that there would never be an endowment tax, that I don’t want to take anything for granted,” Faust said.
+Faust said she thinks Bacow—who will take office in July 2018—will keep a watchful eye on the PROSPER Act. More generally, she said she thinks her successor will be a powerful and needed advocate for higher education in Washington in coming months.
+Terry W. Hartle, senior vice president of the American Council on Education—a major lobbying group for American colleges and universities—said he doubts the Higher Education Act will be reauthorized within the year.
+Hartle said the PROSPER Act was pushed through the House committee on an entirely partisan basis at a time when Republicans had decisively seized the helm.
+“The challenge in reauthorizing the higher education act is that this is a large, complicated piece of legislation that sooner or later requires bipartisanship and they don’t have much bipartisanship on Capitol Hill at present,” Hartle said.
+The Senate has begun deliberations over the reauthorization of the Higher Education Act through a committee chaired by Senator Lamar Alexander, Republican of Tennessee. Alexander said in February he hoped to produce a Senate version of the current reauthorization legislation “by early spring.”
+Alexander has said he wants to pass the bill in a bipartisan manner—an approach that would set him apart from some other House Republicans.
+Democratic Senator Patty Murray, who is also on the committee, has warned of streamlining loans and grants without preserving the total amount of aid. Hartle noted, though, that “early spring” has passed and the Senate committee has yet to release any updates.
+“We are at the end of April,” Hartle said. “Nothing has yet emerged from those deliberations and as every day goes by the chances of a bipartisan bill coming forward diminish further.”
+The PROSPER Act also contains a provision that could imperil Harvard's ability to enforce its social group penalties; pending some alterations, the legislation would force the University to choose between the sanctions and millions of dollars of federal research funding. A group of final club alumni have recently stepped up efforts to advocate for this provision in Washington.
+This article has been revised to reflect the following correction:
+CORRECTION: May 3, 2018
+Due to an editing error, a previous version of this article incorrectly indicated President-elect Lawrence S. Bacow will take office in June 2018. In fact, he will begin his term in July 2018.
+—Staff writer Kristine E. Guillaume can be reached at kristine.guillaume@thecrimson.com. Follow her on Twitter @krisguillaume.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Buried beneath “Northwest Labs,” stored in rows of sliding white compartments and secure cabinets, lie millions of mollusks, thousands of birds, and even a platypus.
+These specimens are part of the collection of the Museum of Comparative Zoology, which contains more than 21 million specimens, making it the largest university-based natural history museum, according to James Hanken, MCZ director and curator of herpetology.
+Centuries old, the Museum of Comparative Zoology collections have accumulated diverse specimens from research expeditions, hunters, zoos, and even the voyage of Captain Cook. Today, the collection spans 10 research collections across buildings on and off Harvard’s campus, including a defunct missile site which currently houses whale skeletons and flesh-eating beetles.
+The museum serves a dual role for both the scientific community and the broader public. Many specimens are on display at the Museum of Natural History and help to educate a wider audience. Yet the extensive collections also attract researchers from other institutions and countries, who use the collections to study everything from concussions to nano-structures.
+“Our collections are historically and scientifically very important so we have people from around the world who want to look at our material,” Hanken said.
+Famous naturalist Louis Agassiz founded the museum in 1859, with the hope of creating a repository of specimens on par with European natural history museums.
+“He had very grand ambitions. He was trained in Europe and was familiar with the great natural history museums in Europe, and he envisioned that we would be that for the United States,” Hanken said.
+The museum consists of collections of insects, reptiles, fish, ancient and contemporary invertebrates, mammals, birds, shells and mollusks, and ancient vertebrates.
+In the early days of the museum, professional collectors brought specimens from around the world back to the museum.
+Speaking about the ornithology collections, Scott V. Edwards ’86, a professor of Organismic and Evolutionary Biology and ornithology curator, said, “Most of our specimens, the big bulk of them came in the late 19th century, early 20th century, and in many cases we were buying collections from professional collectors.”
+These professional collectors generally brought back whatever they could find.
+“A hundred years ago, or even 75 years ago, museums would send out these expeditions that would kind of sweep up the forest floor and bring back tremendous large numbers of specimens of all kinds,” Hanken said.
+Edwards said most of the specimens today are acquired through research projects throughout the world. Hanken explained that these modern research projects and collection practices are more targeted to specific species and more conscious of conservation.
+“There’s a much richer conservation ethic and knowledge these days of endangered species and the threats to the environment and we’re very sensitive of that,” he said. “And in fact a lot of our people are leaders in conservation, so I would say it’s targeted collecting, that is ethically defensible and doesn’t threaten existing natural populations.”
+However, a small fraction of the museum’s collections have more unique origins.
+“The division of wildlife will give us specimens,” said Mark D. Omura, a curatorial assistant in the mammal collection. “We can get specimens just from regular people that find an animal.”
+The museum also occasionally acquires specimens from zoos when the animals are less represented in the museum’s collections, according to Hanken.
+In exceptional instances when information about the animal’s origins is carefully recorded, the museum may also accept donations from retired hunters.
+“There’s one collector, J.C. Phillips, and he is part of the family that founded Phillips Academy,” said Omura.“It seems that he was a hunter of some sort, and so he actually donated a lot of specimens to us.”
+Boston-born hunter Ernest J. Milani also donated more than 10 of his hunting trophies from Africa to the museum, according to Omura.
+“We ended up taking them because there is actually data associated with the specimens, so we know when they were collected, where they were collected, who collected them,” Omura said. “We don’t necessarily seek out people like this, but when something like this turns up, we’re not necessarily against taking specimens, provided that they have associated data.”
+Other parts of the collection date back centuries. Many of the approximately 400,000 birds in the Ornithology Department—the fifth-largest in the world—come from the 18th and 19th centuries.
+“I would say our oldest specimens are probably from the 1700s,” Edwards said. “We have a couple of specimens from the voyage of Captain Cook, some of his specific voyages, and then we have other specimens from the 18th century made by European collectors.”
+The immense number of species require special care and conservation. Occasionally, pests and diseases can affect the collections, though this has posed less of a problem since a number of the collections moved from the MCZ building on Oxford Street to the new storage facility in Northwest Labs.
+Harvard also maintains an off-site facility in Bedford, Mass., where the museum stores its larger specimens and “skeletizes” some of the specimens. The Concord Field Station, located at a defunct Nike missile site, is the holding site for marine mammal specimens, such as whales.
+Biology professor Andrew A. Biewener, who studies animal physiology and the mechanisms of of movement using X-ray video technology, bases his lab out of the Concord Field Station.
+“So basically through the ’70s, as long as Harvard had and operated the facility as Concord Field Station, we never knew there were missiles on site until about six years ago,” Biewener said. “We saw this aerial jpeg that showed that there were in fact missiles there for the two to three year period that the [missile site] was in operation.”
+The station also features a dermestidae beetle colony. These beetles are used to prepare skeleton models.
+“You would take a specimen and you would remove the skin and then put the skeleton in with the beetles that remove a lot of the flesh,” said Hopi E. Hoekstra, curator of the mammal collection and professor of zoology. “Then you would do the final cleaning of the bones, and then each bone gets labeled with a specimen number, which is a painstaking process as you can imagine.”
+In addition to preparing the specimens for preservation and storage, curators also must deal with the organizations challenges that come with working with collections as large as that of the MCZ.
+Adam J. Baldinger, a collection manager in the malacology department which focuses on mollusks, said the millions of specimens in the collection necessitate thorough cataloguing, which has recently been shifting towards a digital platform.
+“If a researcher inquires about our collection and we can’t find it, it’s a problem,” Baldinger said. “So maintaining order in a collection like this is the important thing, but for dried shells, it’s maintaining humidity, temperature, light exposure, dust exposure but also insects, so insects will eat labels, and the specimens are not that good for us if we don’t know where they were collected, who collected them, and when, and so forth.”
+In order to facilitate student access to specimens, the MCZ has also developed an online database, called “MCZbase,” where students can search through the collections, though, some collections are not fully digitized yet.
+All the collections of the MCZ are open to researchers both at the University and beyond. Researchers coming from a range of fields, including anthropology, history, and art, take advantage of this resource. Occasionally, the museum will also loan out parts of its collections to other institutions.
+Baldinger noted that a team of Russian researchers plans on visiting the malacology department to study a specific species of freshwater mollusk. He also said that visitors to the collections include artists and those interested in the history of science.
+“To see that researcher come and be able to look at something they’ve never seen, or they’re excited because it’s very important for their research, to me, that’s the really satisfying thing,” he said.
+Most researchers using the mammal collections are interested in using the primate specimens in their studies of human evolution, Omura said. Edwards emphasized the possibility of interdisciplinary use of the collections for research extending beyond evolutionary biology, phylogeny, or anatomy, though.  He specifically said he wishes more chemists and physicists applied the collections to their own work.
+“We’ve had people looking at woodpecker skulls to study the effects of repeated pounding and to help design better football helmets and things like that,” Edwards said.
+He also added, “There’s a lot of interest these days in some of the nanostructures that make up feathers and how they produce interesting colors. So we’re getting a lot interest from physicists in these biomaterials and optical properties.”
+The long time-range of the collections also makes them useful for researchers studying evolution and climate change, according to Hoekstra.
+“We have samples through time, so the museum is becoming more and more important in the sense we’re learning new ways to use the specimens,” she said. “So for example, we already talked about getting DNA from old specimens, so you can look at genetic changes through time.”
+Other research projects led by the MCZ include 3-D scanning and printing specimens and using cryogenically frozen tissue samples for DNA sequencing.
+Though graduate students and outside researchers use the collections most frequently, specimens are available to all Harvard undergraduates. Students may access the collections for research projects and the MCZ also employs several undergraduates as workers and volunteers. The museum offers a grants program for undergraduate researchers as well.
+Nina Morales ’18, who received one of these grants and currently takes Organismic and Evolutionary Biology 190: “Biology and Diversity of Birds,” said she was impressed by the variety of the ornithology collection.
+“You’ll see these really, really small hummingbirds, they’re really delicate, super iridescent and beautiful,” Morales said. “Then on the other end of the table, you’ll have an enormous black-backed gull, and you just have those two sitting on the table at the same time which is really exciting.”
+Morales suggested students take classes related to zoology to gain more insight into the collections of the MCZ. She also recommended taking trips to the Harvard Museum of Natural History, which has an abundance of species on display.
+“It’s a tremendous resource that we’re really, really lucky to have,” Morales said. “Since our museum is super extensive and people have been collecting for a long time, students are really able to see how the collections have changed over time.”
+Selena J. Zhao ’20, who is pursuing a secondary field in Organismic and Evolutionary Biology, volunteers in the collections.
+“I think it’s just a really fun way to destress and stay in touch with my interest in OEB while I’m not taking classes in it,” Zhao said.
+Zhao added that the collections offer a unique opportunity to see rare species up close.
+“There’s just so many animals that you feel like you would never be able to touch their pelts cause like, they’re alive, but yeah there’s an entire bear skin, there’s snow leopard pelts, lion pelts,” Zhao said.
+In addition to research, professors and students use the collections in classes and often tour the facilities. Additionally, students may also use the collections for more unconventional purposes.
+“We’ve loaned specimens to students,” Hoekstra said. “Recently there was some manatee day, we gave a manatee skull to a group of students.”
+Looking ahead, Edwards said he hopes more students will take advantage of the MCZ collections.
+“I think we have some amazing stuff here at Harvard, and students shouldn’t think, well, I don’t think it’s really for me,” Edwards said. “Any time a student wants to come in, look at stuff, we encourage it. These are very valuable and we of course would show you how to handle them without compromising them, but they’re meant to be used.”
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard students organized a benefit concert Tuesday evening for Campaign Zero, a campaign that advocates for police reform in the United States.
+Organizers for the event, titled “No More Names,” wrote on their website that they support Campaign Zero’s goal to “tackle the systemic issues behind incidents of police violence.”  The Campaign’s website lists a 10-point policy checklist, which includes calls for re-examining police use of force policies and increasing civilian oversight at law enforcement agencies around the country.
+Organizers said all of the show’s proceeds will go to Campaign Zero. Rapper and songwriter Vic Mensa headlined the event, which also featured several student performers.
+Christopher E. Egi ’18, an organizer for the event, cited the 2014 fatal police shooting of black teenager Michael Brown in Ferguson, Mo., as a source of motivation for his advocacy.
+“Michael Brown was 18 like me. Michael Brown was a big black guy like me—as you can see I’m a little bit big. And Michael Brown was about to go to college like me,” Egi told the audience at the opening of the event. “And that’s always stuck with me because I’ve always wondered what it would have felt like if my mom got that call instead, that her baby boy’s body was laying on the street, and they didn’t even bother to move it.”
+Egi said the concert’s name points to the goal of ending deaths from police shootings.
+“I don’t think I’m that different from these people and I very much share in their pain, and their family’s pain, and the community’s pain at large. In between these two events there are a list of names,” Egi said. “So I think it’s time that we say no more names, that’s the premise of the event.”
+Mensa said in remarks prior to his performance that racial disparities in policing can be attributed to broader societal trends.
+“We’re treated as if we are criminals from our first societal experiences, beginning a chain of overrepresentation in misconduct conviction that would lead one in fifteen black men to see the inside of a prison cell,” Mensa said. “Black girls are particularly at risk and comprise the fastest growing section of the juvenile justice population.”
+“This criminalization of black children is one of the ugliest and most destructive reverberations of slavery in America. Its strong foothold in pervasive racism is sown into the fabric of our nation,” he added.
+Participants in the concert also referenced the forcible arrest of a black Harvard undergraduate by the Cambridge Police Department on April 13. The Harvard Black Law Students Association and several other campus student groups, including Black Students Organizing for Change, have called the arrest an incident of police brutality.
+“On April 13, a Harvard student called for medical help and was met with police violence,” said Hilda M. Jordan ’19, an organizer for BSOC. “As a member and organizer of BSOC and a concerned black woman, I implore you to help hold your local community, your local institutions, and your local police forces accountable for the ways that they respond to calls for help.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard spent $610,000 on lobbying Congress in 2017, a figure $60,000 higher than the amount the University spent in 2016.
+The uptick in lobbying fees came during a year in which Harvard—and higher education more broadly—faced a number of legislative challenges. Despite the University’s efforts to convince lawmakers to preserve its tax-exempt status, Congress passed a 1.4 percent excise tax last December on university endowments worth more than $500,000 per student—a category that includes Harvard.
+Apart from the endowment tax, the University lobbied lawmakers in 2017 on issues including federal research funding, student aid, and immigration reform, according to lobbying disclosure records.
+“Harvard’s advocacy efforts have been primarily focused on advancing our position within Congress on issues of federal research funding, student aid and higher education policies such as the PROSPER Act, immigration policies, and the impact of the tax on university endowments and other investment income on philanthropy and higher education,” University spokesperson Melodie L. Jackson wrote in a statement.
+Harvard maintains a federal relations office in Washington, D.C. less than a mile from the Capitol. The office employs four staff members, and reported lobbying expenditures include salaries and expenses of these employees as well as membership fees for higher education associations, according to Jackson.
+The 2017 figure exceeds the $550,000 Harvard spent in 2016 on its lobbying efforts. The University also spent $160,000 in the first three months of 2018—a number consistent with money spent during the same period of time in 2017. The office hired a new legislative research assistant over the summer, which could explain the uptick in lobbying expenditures.
+University President Drew G. Faust has also continued her own advocacy efforts, which she “ramped up” after the 2016 election. In March, Faust traveled to Washington to meet with lawmakers to express “deep concerns” about a proposed overhaul of the Higher Education Act, which structures loan repayment plans for students and funds programs such as Pell Grants.
+The legislation in question—dubbed the PROSPER Act—would eliminate the Federal Work-Study Program and public service loan forgiveness for graduate and professional students.
+According to public record filings, the University’s lobbying efforts included immigration reform issues on a number of bills, including the Dream Act of 2017 which would bring paths to citizenship for undocumented immigrants. In March, Faust met with lawmakers to discuss providing protections for undocumented immigrant youths.
+Earlier this month, Faust met with two members of Congress to push for a bipartisan proposal to repeal the endowment tax. If the tax had been in effect in 2017, it is estimated it would have cost the University $43 million.
+—Staff writer William L. Wang can be reached at william.wang@thecrimson.com. Follow him on Twitter @wlwang20.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+UPDATED: May 3, 2018 at 1:45 p.m.
+This is the second installment in a five-part series analyzing the results of The Crimson’s survey of the more than 1,000 members of the Faculty of Arts and Sciences, Harvard’s flagship faculty. Read the first installment here, the third installment here, and the fourth installment here, and the fifth installment here. 
+An overwhelming majority of surveyed members of the Harvard Faculty of Arts and Sciences—88 percent—believe that President Donald Trump’s job performance to date has been “very poor,” according to a survey conducted by The Crimson.
+The faculty survey also revealed that the vast majority of respondents identify as “liberal” or “very liberal,” and a similarly large majority voted for Hillary Clinton in the 2016 presidential election.
+The Crimson conducted a survey of Harvard’s flagship faculty over the course of two weeks in mid-April 2018. The results paint a picture of how the more than 1,000 members of FAS think about key University policies, life at Harvard, the national political climate, and pressing issues of sexual harassment both on campus and nationwide.
+The 54-question survey garnered roughly 500 responses, representing more than 43 percent of the Faculty, though not all respondents answered each question. The anonymous survey, emailed to nearly every member of the FAS, was open from April 17 to April 30. The Crimson did not adjust the data for possible selection bias.
+The 2016 presidential election saw a large shift in the political climate nationwide, spurring controversy, shock, and debate on Harvard’s historically left-leaning campus. The second installment of The Crimson’s faculty survey series delves into the political and activist tendencies and beliefs of Harvard professors.
+Some Harvard faculty members had a visceral reaction to Trump’s surprise win in the Nov. 2016 presidential election; certain professors canceled exams and others warned of instability in the political system. Two months later, a growing number of faculty vowed to speak out against Trump’s policies.
+Two years later, not much has changed, according to the results of the survey.
+In total, 88 percent of respondents indicated they believe Trump’s performance in office has been “very poor.” Only 8 percent indicated they thought his performance was “poor,” while 2 percent evaluated his tenure so far as “okay.” Only 1 percent reported they believe Trump has done a “good” job, and 1 percent indicated they had “no opinion.”
+No respondent indicated they believe Trump has done a “very good” job.
+Respondents who evaluated Trump’s job performance as “very poor” were distributed roughly evenly across the four divisions of FAS. In all, 89 percent of professors who identified themselves as affiliated with the Arts and Humanities division also selected “very poor,” as did 90 percent of those affiliated with the Social Sciences, 86 percent of those affiliated with the Sciences, and 83 percent of those affiliated with the School of Engineering and Applied Sciences.
+Negative views of Trump remained consistent along gender lines. Ninety-three percent of female faculty respondents selected “very poor,” as did 86 percent of male faculty respondents.
+These numbers appear to match with how respondents voted in the 2016 presidential election. Of the survey-takers, 73 percent reported for Hillary Clinton, while just 2 percent reported voting for Trump. Only 2 percent indicated they voted for Jill E. Stein ’72-’73.
+The remaining 25 percent of respondents indicated they either voted for Gary Johnson, wrote in the name of the candidate, or did not vote at all.
+The Crimson’s survey also asked faculty about their politics, allowing respondents to select label ranging from “very conservative” to “moderate” to “very liberal.”
+In total, 83 percent of faculty respondents identified themselves as either “liberal” or “very liberal.” Roughly 15 percent identified themselves as “moderate,” while just 2 percent selected “conservative” or very “conservative.”
+These percentages are consistent with the long-running popular perception that FAS is liberal-dominated.
+Conservative detractors have at times called Harvard “the Kremlin on the Charles,” a label applied to both students and faculty. The politics of Harvard’s professors—falling left of center—have sparked concerns over what some call a lack of ideological diversity and the impacts this may have on teaching, undergraduate life, and research.
+A 2015 Crimson analysis of FEC filings showed that 96 percent of donations from FAS affiliates to federal campaigns and political action committees went towards Democratic groups.
+For some FAS affiliates, Trump’s election meant new or increased commitment to activism, according to the survey.
+Harvard’s faculty have historically remained mainly on the sidelines of political protests. But the action-packed events of the past two years—ranging from the 2016 dining workers’ strike to the 2017 Women’s March to protests against Trump’s travel bans—may have changed that.
+A majority of survey respondents—59 percent—reported they had engaged in a protest at least once since Trump was elected president. On the other hand, 37 percent indicated they had not done so and 4 percent reported they preferred not to answer the question.
+Faculty desire to protest appeared to fall along political lines.
+In total, 96 percent of faculty who reported protesting also indicated they thought Trump’s performance was “very poor.” Around 65 percent of respondents who reported voting for Clinton in 2016 also indicated they had joined in at least one protest since Nov. 2016.
+No respondents who reported voting for Trump or Johnson indicated the same.
+Women respondents were more likely to engage in protests than were men with 72 percent of female respondents indicating they had participated in a protest, compared to 53 percent of male respondents.
+Across the past year or two, faculty have chosen to engage in activism in a number of ways—ranging from petitions to special lectures to protests. Once, faculty activism even led to a jail cell.
+In Sept. 2017, 31 professors from Harvard and other Boston-area universities were arrested during a demonstration meant to protest Trump’s decision to rescind DACA, an Obama-era program that gave legal protections to young undocumented immigrants.
+When Trump released his proposed budget for 2018 in March 2017, faculty and University officials swiftly decried the proposal as “devastating” and “unprecedented.” Since the election, professors had openly worried Trump would decrease funding for federal programs key to Harvard research agendas—like the National Endowment for the Humanities and the National Endowment of the Arts.
+More than a year later, though, survey results indicate most faculty respondents either did not know or had not seen any tangible dent in funding for their field under Trump as compared to previous administrations.
+Asked if their department has seen more cuts under the Trump administration than under other administrations, 21 percent of respondents answered yes. By contrast, 33 percent answered no.
+A majority of faculty respondents—56 percent—indicated they did not know whether their department has received greater cuts to federal research funding under Trump. A Crimson analysis of the data revealed no statistically significant correlation between answers to this question and respondents’ self-identified academic divisions.
+At the April iteration of the  monthly Faculty meeting, University President Drew G. Faust said the latest federal budget bill had “favorable” results for Harvard’s research “in science and beyond.” The bill included an 8.8 percent increase in funding allotted to the National Institutes of Health and a 16 percent increase in funding allotted to scientific research conducted by the Department of Energy. In total, 71 percent of all federal funding Harvard received in fiscal year 2017 came from the NIH, according to the University’s annual financial administration report.
+The NEH and the NEA each saw a $2 million increase under the bill.
+The Harvard Crimson collected electronic responses through the Qualtrics survey platform from April 17 to April 30, 2018.  A link to the anonymous survey was sent to 1,173 FAS and SEAS faculty members through emails sourced from Harvard directory information and departmental websites.
+Of those faculty who received emails, 516 accessed the link to the survey.  A total of 498 participants answered at least one question, and 296 participants completed every question in the survey.  To prevent participants from accidentally taking the survey more than once, The Crimson enabled Qualtrics’ browser cookie functionality to register unique survey sessions on each device.  This device data is controlled by Qualtrics, and The Crimson does not retain information that could identify devices accessing the survey with anonymous responses.
+In an effort to check for response bias, The Crimson compared respondent demographics with publicly available information on faculty demographics provided by the University—information regarding gender, minority background, divisional affiliation, and ladder versus non-ladder status. Overall, respondent demographics tracked with faculty demographics.
+Of survey respondents who identified themselves as ladder faculty, 34.5 percent were women and 16.2 percent were minorities. Based on data in the 2017 FAS Dean’s Annual report, women and minorities make up 29.9 percent and 21.9 percent of FAS ladder faculty, respectively.
+The Crimson previously reported that, in May 2015, 28.9 percent of the FAS were non-ladder faculty. By contrast, 42 percent of respondents to The Crimson’s survey identified themselves as non-ladder faculty.
+Of faculty with known divisional affiliations who were sent links to the survey, 317—or 28.5 percent—are affiliated with the Arts and Humanities, 341—or 30.6 percent—with the Social Sciences,  316—or 28.4 percent—with the Sciences, and 140—or 12.6 percent—with SEAS.  In comparison, of respondents who indicated their divisional affiliation on the survey, 39.9 percent reported an affiliation with the Arts and Humanities, 27.8 with the Social Sciences, 28.26 percent with the Sciences, and 7 percent with SEAS.
+Broadly, the distribution of responses among each category tracked with the overall distribution of responses for the three central questions examined in the story.
+Reweighting all responses by ladder status and divisional affiliation—the two demographic categories which saw the most significant areas of response discrepancy—did not produce any changes greater than plus or minus 1 percent from the unadjusted percentages reported in the main body of the story.
+Separately adjusting by gender yielded no changes greater than plus or minus 0.8 percent to the percentages reported in this story.
+Editor's Note: This article has been updated to include a Methodology section discussing The Crimson's data-gathering procedures as well as the paper's understanding of the collected data, including corrections to the raw data made using publicly available information regarding the demographics of the Faculty of Arts and Sciences.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ This weekend marked just one of two series losses Harvard softball suffered all season. On March 26, the Crimson dropped the rubber match against Cornell, and this time around Brown easily handled Harvard in its final regular season game.
+However, the Crimson didn’t need a series win as it traveled to Providence, R.I. All it needed was one single victory, and it accomplished that task. On Saturday, Harvard (21-16, 14-7 Ivy) beat the Bears (11-25, 5-13) in the opener to officially clinch a spot in the Ivy League Championship Series for the third consecutive season.
+“We’ve had this opportunity two times before, and now we’re just really focusing on playing our game and doing what we can to be the best team we can be,” said junior second baseman Meagan Lantz. “So it’s really exciting that we get an opportunity to extend the season and keep playing with our seniors.”
+Lantz collected six hits in nine at-bats and stole three bases. The junior led the team with 16 steals on the season and was only caught twice. Sophomore Olivia Giaquinto also had an impressive weekend at the plate—the first baseman went 5-for-8 with two doubles and two RBI.
+BROWN 11, HARVARD 3, (6 INNINGS)
+This game was not a fitting conclusion to Harvard’s season. The Crimson held its own in its preseason tournaments against tough competition, and it proved to be one of the best Ivy League teams from the very outset of conference play. However, Harvard suffered its most lopsided loss of 2018 in the season finale, and it was the only time this year that the Crimson lost a game by the eight-run mercy rule.
+“It was definitely a tough weekend,” junior shortstop Rhianna Rich said. “We didn’t want to drop two, but I think it’s going to inspire us to work even harder these next two weeks and kind of give us the motivation that we’re not just going to walk into the Ivy Championship and win.”
+Brown scored 10 runs in the game’s first two innings and batted around in the second. Power hitting and walks both allowed the Bears to score in double digits. Harvard’s pitching staff walked five batters, and Brown notched two doubles and a home run. Sophomore Raquel Blanchard notched a pair of two-RBI doubles, and senior Annie McGregor launched a three-run homer in the bottom of the first.
+Bears pitcher Grace Ladd stifled the Crimson’s offensive attack in relief, as she tossed 3.2 scoreless innings.
+BROWN 3, HARVARD 2
+In the most tightly-contested game of the series, Brown prevailed in a classic pitchers’ duel in which Harvard right-hander Sarah Smith matched up against the Bears’ Meghan Wimmer. Ultimately, Wimmer prevailed by bouncing back after a rough first inning in which the Crimson scored twice on an RBI single from Rich and a sacrifice fly from sophomore Lindey Kneib.
+Smith shut down Brown’s offense in the first three innings. The junior walked the first hitter she faced and then proceeded to retire the next nine, eight of which were groundouts. In the fourth, Wimmer helped her own cause by singling to center and setting up a second and third situation. Before smacking her RBI doubles in the final game, Blanchard accomplished the feat in this spot as well, knotting the score at two with a poke into the left-center gap.
+The deciding run crossed the plate in the Bears’ next trip to the plate. In the bottom of the fifth, back-to-back singles set up an opportunity for third baseman Cat Seitz, who went to the opposite field for a sacrifice fly.
+The loss was just the first of the season for Smith. The junior finished her regular season campaign with five wins, a 2.13 ERA, a 1.08 WHIP, and 26 strikeouts.
+HARVARD 6, BROWN 1
+Harvard officially punched its ticket to the championship series with a sound game one victory. Junior Katie Duncan pitched all seven innings, allowing five combined hits and walks and striking out five. The complete-game effort was Duncan’s ninth of the season, and it marked her 14th win.
+“It feels great,” Rich said. “It’s definitely been an up and down season. I think after dropping the series to Cornell it was a bit of a down feeling for us, but being able to come back from that and continue to do well every weekend after that and be able to clinch a spot is really huge for us.”
+The Crimson jumped on Brown starter Emily Waters early as it plated three runs in the top of the first. Harvard used a bit of everything to gain this early lead, drawing a walk, lacing two singles and a double, and manufacturing one of the runs on a double steal where freshman Aubree Muse stole second and Lantz raced home.
+Lantz was on fire in the first game, going 4-for-4 at the plate and scoring half of Harvard’s runs. She also drove herself in with a blast over the left-field fence to add to the visitors’ lead.
+Though the team lost this series, consistency has been key in 2018 for the Crimson. It won five of its seven Ivy League series, and it did not suffer a sweep.
+“We knew nothing was going to be handed to us,” Rich said. “It was about coming out each series and working hard to earn our spot in the championship. And we knew that every other team in the Ivy League had strong players, so we never took anyone else for granted, and I think that’s really what helped us get the job done.”
+—Staff writer Jack Stockless can be reached at jack.stockless@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ In the penultimate series of 2018, the Harvard baseball team dropped two of three to Cornell in Ithaca, N.Y., to fall a game behind Columbia for the second Ivy League spot with just one series left in the regular season.
+The series against the Big Red concluded a grueling stretch of nine games in eight days for the Crimson. Harvard (20-19, 10-8 Ivy) got off to a great start in that stretch, winning five of the first six, including a sparkling sweep over Princeton to vault into Ivy contention, but couldn’t put away an upstart Big Red (11-18-1, 6-9) team to cap it off.
+Visiting Hoy Field over the weekend, the Crimson burst out of the gates hot in all three matchups against Cornell, jumping out to leads of 4-0, 4-0, and 3-0, but fell prey to the Big Red offense in disappointing 10-8 and 7-4 losses in games one and two. Harvard avoided a sweep by holding on for a 6-2 victory in the series-capper on Sunday, staying within striking distance of Columbia, which took two of three from Penn to inch ahead in the table.
+“Everyone on the team doesn’t think that we played as well as we have been playing in the past, and as we could play,” said junior first baseman Pat McColl. “It was good to come out on Sunday with a win to finish off the weekend, but we’re definitely pretty disappointed with Saturday.”
+In the race for the top Ivy League spots, in which the top two finishers in the conference standings will play a winner-take-all championship series in mid-May, the series was a crucial one. Cornell doesn’t have a shot at winning the Ivy, but taking two of three from a high-flying Crimson team hoping for more certainly altered the race.
+“It definitely wasn’t the result that we were looking for,” said junior center fielder Ben Skinner. “Thought we put up a decent effort, ran into a team that was hot. We’re definitely a little disappointed, but we’re trying to have a short memory with this one, and we’re looking forward to the series against Dartmouth.”
+The race is now one entirely for second place—preseason favorite Yale is now untouchable in first with a 14-4 conference record, while Columbia and Harvard sit a game apart at 11-7 and 10-8 in the Ancient Eight, respectively.
+If both falter, Dartmouth (11-20-1, 7-6-1) in fourth can overtake both teams with a stellar run to end the season. The Big Green control its own fate—the Crimson takes on Dartmouth to close the season in two weeks.
+“[My body’s] a little beat up from a lot of games, but we have two weeks here, with finals, to get ready and prepare for Dartmouth and finish off the season strong.” McColl said.
+HARVARD 6, CORNELL 2
+Harvard held onto an early lead for the first time all weekend, making single tallies in the first, second, and third hold up for a 6-2 victory on a Sunday afternoon in Ithaca that featured light snow and rain.
+Junior designated hitter P.J. Robinson provided an RBI single and a solo shot in the first and third and Skinner lifted a sac fly in the second to account for the Crimson’s 3-0 leading coming out of the third inning.
+Junior righty Simon Rosenblum-Larson put up scoreless innings after each time Harvard scored, one of the most important things a pitcher can do. The team leader in K/9 and second-leading pitcher on team in innings pitched was effective through the first three, giving up no hits, despite walking three and hitting a batter. Rosenblum-Larson’s final line was 6.1 IP, two hits, one earned run, and five walks with nine punchouts.
+Sophomore Keiran Shaw and sophomore two-way player Hunter Bigge combined to pitch the final 2.2 and bring home the W.
+Cornell made it close with a two-run seventh to cut the lead to 3-2, but senior second baseman Matt Rothenberg, Skinner, and Bigge all knocked in RBI hits to swell the lead to 6-2 in the eighth and ninth.
+Robinson finished the day 3-for-4 with two runs scored and two RBIs, while Skinner also posted two RBIs in a 2-for-4 showing.
+Robinson is now third in the Ivy League with a .444 on-base percentage in conference play and sixth in both batting average and slugging percentage. Skinner is third with 27 hits in Ivy competition.
+Sunday’s snow and rain came after Saturday featured both a sunny, bright morning and a colder, rainy afternoon. The weekend’s weather didn’t contribute to ideal baseball-playing conditions, but McColl downplayed the effects they had on gameplay.
+“The weather conditions definitely weren’t great all weekend,” McColl said. “I think it affected [gameplay] a little bit, but we definitely didn’t play as well on defense as we should’ve, regardless of the weather.”
+CORNELL 7, HARVARD 4
+Five of the top six hitters in the Cornell lineup posted an RBI each to lead the Big Red to a comeback win over the Crimson, 7-4, in the second Saturday game.
+Freshman pitcher Buddy Hayward pitched 4.1 stellar innings of one-hit, seven-strikeout ball in relief of junior starter Kevin Stone, who got the loss after giving up 10 hits and three earned runs in 3.2 IP, but the rookie’s hold couldn’t do anything about an offense that was held scoreless after the second inning.
+Big Red righty Seth Urbon defanged the Harvard attack after giving up four runs through the first two innings. The sophomore settled in for 7.0 IP and worked several short scoreless innings as his offense started the rally behind him.
+Led by senior offensive heavyweights Dale Wickham and Ellis Bitar, the Cornell offense scored twice in the second, once in the third, and put up a decisive four-spot in the fourth to take a 7-4 lead that lasted for the remainder of the game.
+The Crimson’s best chance to get back into the game was when it had runners on first and third with two outs in the fifth, but the opportunity was quickly snuffed by Urbon.
+The Big Red ended up outhitting Harvard, 11-5, despite making four errors to the Crimson’s two.
+CORNELL 10, HARVARD 8
+Riding on a stretch of five wins in six games, Harvard may have been caught off-guard in game one by a feisty Cornell squad that came back from a 4-0 deficit and took a surprising 10-8 offensive-brawl victory.
+Defensive mistakes came back to bite the Crimson in full force on Saturday. Harvard made four costly errors in the field accounting for five unearned runs.
+The miscues forced the team’s ace, senior righty Noah Zavolas, to stay out on the mound after the inning should have been over. Zavolas, having already pitched in all three series in the grueling nine-game stretch, extended his pitch count to 103 before bowing out after 5.0 IP, six hits, six runs, and only one earned run.
+“Defensively, we didn’t do a good job,” Skinner said. “We didn’t give Noah the support that he needed. Unfortunately, that ended up costing us—we made some errors that ended up having a significant impact on the game. We definitely want to play solid defense, and that’s not something we were able to do [in game one].”
+Cornell did its part with timely hitting, making the Crimson pay for giving away free outs.
+Led by the middle of the order—Big Red hitters two through five in the lineup did huge damage, going 8-for-16 on the day with five RBIs and eight runs scored—the Cornell offense put up a three-spot in the third and two more in the fourth to take a 5-4 lead.
+After Harvard knotted it up at 5-5 on a sac fly from senior outfielder Austin Black, the home team pulled away with a four-spot in the sixth against Crimson freshman reliever Jack Mahala. The damage done, the 9-5 lead was insurmountable for Harvard, even with seventh- and eighth-inning rallies to bring it back to 10-8.
+Errors on defense have been weakness the squad has had all year long, as the Crimson is tied with Princeton for the Ivy League lead in most errors made in conference play at 54.
+Sophomore outfielder Jake Suddleson staked the Crimson to an early lead, lacing an RBI double down the left-field line to score two in the first inning and coming around to score on a wild pitch to make it 4-0. Bigge knocked an RBI single through in the third to make it 5-1, setting the stage for Cornell’s comeback.
+—Staff writer Bryan Hu can be reached at bryan.hu@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.

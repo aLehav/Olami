@@ -1,0 +1,40 @@
+Xiaopeng Li and his team have built two driverless cars in five years. SPECIAL TO THE ORACLE/USF
+
+
+Xiaopeng Li, assistant professor in USF’s Department of Civil and Environmental Engineering, is taking matters into own hands by building a driverless car.
+
+
+This project has been in the works since 2015 and is funded by the National Science Foundation. Li said he was inspired to
+begin this project by observing rapid changes in the automotive industry, and he also wanted to target outdated
+transportation management systems.
+
+
+“We need to have such a testbed to create, test and evaluate emerging autonomous vehicle technologies and also advise transportation managers on how to cope with these new technologies,” Li said.
+
+
+In the five years since the project started, Li and his team have built two driverless cars. The car he is currently working on is a hybrid 2016 Lincoln MKZ.
+
+
+
+“We have built two full-scale connected and autonomous vehicles and developed relevant algorithms and models,” he said.
+
+
+Currently, models are able to drive around cones in an empty parking lot. In order to drive itself, Li said the car uses light detection and a remote sensing method to create a 3D map of its surroundings.
+
+
+Li and his team will continue to showcase this development to government transportation services such as the U.S. Department of Transportation (USDOT) and the Florida Department of Transportation (FDOT).
+
+
+“We have showcased the development to stakeholders such as high-level officials from USDOT and FDOT, and legislators. We will continue to showcase new development,” Li said.
+
+
+Li said this is not the only project he has been working on.
+
+
+In addition to driverless cars, he has been studying alternative ways to improve current transportation systems.
+
+
+Li also said that although there have been setbacks, his team continues to persevere.
+
+
+“There will be occasionally technical difficulties. We have to go through strict procedures to make sure that the technical difficulties are overcome before doing field experiments to make sure the field experiments are safe and successful,” Li stated.

@@ -1,0 +1,532 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The Computer Science 50 Fair last Friday displayed an impressive array of novel ideas and innovations, as students showcased their final projects to the public in a celebration of the course’s culmination. Among the many projects that have been taking the Harvard community by storm are websites, mobile applications, and tools to improve student life. As we saw and continue to see, CS50 is a course that teaches students valuable skills and that benefits the greater community by creating conveniences that ease our daily challenges. In that sense, we congratulate CS50 for encouraging innovation through computer programming, even despite potential controversy and security threats. In a day and age when the Internet represents the future, it’s imperative that Harvard students make use of this opportunity. That a significant amount of students is eager to acquire skills offered in a rapidly expanding CS50 is heartening in light of Harvard’s status as a liberal-arts school. We hope this upward trend continues and that CS50 attracts increasing numbers of students, improving Harvard as a whole.
+That said, as we take advantage of the CS50 projects, we must bear in mind potential vulnerability and security issues. Excellent an introduction as CS50 is into the field of computer science, students should take precautions when supplying personal information to student-made websites or other projects. Students should be most wary about providing passwords or other login information, as many student projects store passwords in plaintext, which can present vulnerabilities. However, these concerns extend beyond password protection to other fields of information that could be sensitive or personal. We urge students to exercise their common sense in providing this information by using different passwords or by simply sharing less information, as much of it could potentially be accessed by people with sufficient programming experience. This risk is particularly present in student projects rather than in established websites, since the former have less experience ensuring security than do their professional counterparts.
+On that note, we would encourage the CS50 staff to help students employ better security measures for their final projects and p-sets, as this can help both creators and users alike. Teaching fellows and course assistants can urge their students to take rudimentary precautions when creating their projects and can warn the general community, as well, about being vigilant in their use and sharing of information.
+Improving safeguards should be a priority of Hack Harvard, an initiative started by the Undergraduate Council and the I3 Innovation Challenge that chooses student projects it believes will significantly contribute to Harvard life and promotes them to the rest of the community. Those projects chosen by Hack Harvard, especially, should receive extra attention to ensure security, given these projects’ popularity and potential for growth.
+CS50 and its affiliates have consistently produced some of the most useful and valuable tools on campus, ranging from Shuttleboy, an SMS application that allows students to track the shuttle’s progress, to HarvardCourses, a website that greatly simplifies the process. Just as these ideas have come from the teaching staff of CS50, we look forward to seeing similarly inventive efforts from students themselves as they continue to gain proficiency. Initiatives like Hack Harvard are vital in bringing out student ideas and marketing them to the community. We applaud efforts like these that create the opportunity for large-scale promotion of student innovation and that work toward serving the community in the long term.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Whether the incident at Lamont had absolutely anything to do whatsoever with hate or bias, the initial reporting of the event, as such, incited a particular dialogue on campus that is often overlooked in favor of other issues. The most ironic aspect of this matter for me personally was just that day, at lunch, I had been inarticulately trying to explain to my straight friend why I still find it difficult to straightforwardly define myself as gay, lesbian, or bisexual. “Those words have so many ugly connotations,” was the best I could come up with. She didn’t entirely understand.
+“But we’ve come so far in 80 years!” she said.
+It’s true, “we’ve” definitely come “far” in 80 years—80 years being an arbitrary number meant to soothe me. I completely agree that society as a whole has made almost inconceivable strides in advancing equality for all disempowered people since the early 1900s. But what makes it difficult for me to define myself as gay is that I can see the other side so clearly, having been there myself. When you’ve never really thought about gayness except as something that is absolutely not you, is it really that surprising that to some people it seems strange, and almost willful? I’ve been asked by people close to me if lesbianism is really just about a desire for a “really intimate and close friendship with another girl.” It’s a legitimate question, because isn’t love about intimacy and closeness? The only problem with the question is that it misses the point that gayness is real. It’s not a stance you assume because you’re lonely or bored.
+So when a bottle from someone’s personal urine collection just somehow finds itself being poured on a row of books with LGBTQ themes, I feel degraded. At Harvard, we’re privileged to live in an environment that is comparatively open and accepting. But the reality is that acceptance is still only partial. It’s the same feeling I get when I hold my girlfriend’s hand in the street and I sense people’s double takes. It’s sad when a simple gesture of affection loses its innocence. Even I look twice when I see gay couples walking around, although usually my curiosity is out of a sense of solidarity.
+It’s so easy to look away from things you don’t want to understand. Whatever did or did not happen at Lamont leaves us with two possible solutions. The path of least resistance is to look away in distaste. The other is to confront the difficult truth of intolerance. The Queer Students Association has recently been protesting the lack of funding and the lack of space at Harvard for LGBTQ students. While I applaud the energy and community building these protests engender, I personally am not looking for a space or the University’s resources to be “empowered” to be separate and unequal. I instead am looking for common human dignity.
+Catherine A. Morris ’10, a Crimson arts writer, is a history and literature concentrator in Quincy House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+I Saw You Privilege, the latest spin-off of the fun-spirited Internet procrastination staple I Saw You Harvard, recently made its rounds on email lists around campus before its deletion. The site, whose first post was published on Dec. 2, professed to represent “a group of VERY privileged Harvard students seeking to unpack and publicize the privileges that we and our fellow students don’t always notice.”
+The mission statement was undeniably judicious; privilege graces every student lucky enough to be here, and it too often goes unappreciated.  And there certainly were a handful of posts that drew attention to genuinely disreputable behavior on the part of some Harvard students, such as “yelling sexist things” outside a final club. Yet despite how positive the creators’ intentions may have been, in practice the site was a forum for identity-based attacks that do far more to divide students along the lines of all of the wrong criteria than to raise awareness of hidden inequality.
+Many posts blatantly leveled attacks agaisnt students whose crimes began and ended with their race, class, or sexual orientation.  One particularly baseless post simply ridiculed a girl for her appearance, sexuality, and (perceived) socioeconomic status.  The post read, “I saw you white straight girl in section…[who talked] about people who are starveing [sic] in Africa when you’ve never even been there.  You shouldn’t even talk about poor people when you’ve never even left you’re [sic] gated community with your perfect blond friends.”
+The post’s author opened by targeting a girl for two factors utterly out of her control.  Whiteness and straightness are certainly markers of privilege, but they are not appropriate grounds for ridicule.   No inherited trait can be wrong.  Just as there is nothing wrong with being gay, there is also nothing wrong with being straight. The tenet that no one deserves chastisement for being of a certain race, ethnicity, or sexual orientation is universally applicable.  While I see the value in reminding those with inherited privilege of their luck, there is a fine line between reminder and ridicule, and many I Saw You Privilege posts ended up on the wrong side of that line.
+Furthermore, the notion expressed in the above post that one must have personal experience with an issue in order to comment on it is utterly antithetical to both education and social progress.  If only the starving are allowed to discuss famine relief, the enslaved allowed to discuss abolition, and the impoverished allowed to discuss the eradication of poverty, then we can say goodbye to the notions of empathy and altruism, let alone intellectual pursuit.
+The misguided nature of the website was encapsulated in one particular entry that targeted a “private school” graduate for defending her or his right to attend said institution.  The post said, “When everyone has that ability, I’ll agree that you have it too.”  Such a statement came with the unfortunate irony that it was written by a student at the most prestigious “private school” in the world.  Without even acknowledging that incongruity, the post’s author betrayed his or her own lack of self-awareness, easily trumping that of the subject.
+There was another post that described an instance of a student spilling milk in an elevator and not cleaning it up.  The post said, “i [sic] hope one day whiteness means you have to clean up after yourself just like all of us people of color do.”  Perhaps white people are less likely to clean up after themselves than other groups, but I seriously doubt it. I do know one thing, however: If someone made the exact same claim about another race, I would be utterly disgusted.  I’m not denying the privileges that white people don without knowing it, but any sort of thinking that immediately ascribes undesirable behavior to a person’s race has no place at Harvard.
+Since I can’t hope to discuss every single post on the website, I’ll stop there.  The website, throughout its brief existence, was misdirected, to say the least. If the posts really portrayed belligerent or ignorant behavior that could be rightly attributed to unacknowledged privilege, then I would have no qualms.  But instead, it was a forum for the harmful misattribution of actions to people’s identities.  There is no place for racial, sexual, or socioeconomic ridicule on this campus, regardless of the target.
+Michael F. Cotter ’14, a Crimson editorial writer, lives in Matthews Hall.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+If you told liberals a few months ago that they could pass a bill that would keep two million Americans out of poverty, we would have wondered where and how quickly we could sign up for this deal. President Obama’s tax-cut deal does exactly that, providing much-needed help to the poor and middle class. While liberals’ concerns about the bill’s giveaways for the rich are justified, they should grudgingly accept them and pass the bill, because the welfare of the hardest-hit Americans depends on it. This imperfect legislation will provide much-needed stimulus to a sluggish economy and help to alleviate economic suffering across the nation.
+The most important thing this bill does is help to protect the poor and middle class during the ongoing unemployment crisis. The Center of Budget and Policy Priorities has reported that the tax provisions of the bill, namely an extension of the Child Tax Credit, the Earned Income Tax Credit, and the temporary payroll tax cut, “would keep more than 2 million Americans above the poverty line and reduce the severity of poverty for 19 million more.” This alone is reason enough to support this bill; the poverty rate has already risen to the unpalatable level of 14.3 percent, and we have a moral duty to support the hardest-hit during the worst times.
+The CBPP’s calculation does not even include the good that will come from the extension of federal unemployment benefits for the next 13 months. Unemployment benefits are the most substantial part of the weak safety net we have for the poor, and they are also an enormous source of demand for businesses. A sizable amount of the money right now spent on food, warm clothes for the winter, Christmas gifts, and other basic purchases comes from unemployment benefits. This is why the Council of Economic Advisers estimated that ending the benefits would result in a loss of 600,000 jobs and decrease economic growth by 0.6 percent.
+This deal will significantly boost economic growth and reduce unemployment. The provisions for the low-income Americans that stimulate demand combined with tax cuts for businesses will have a meaningful impact on hiring and growth. Mark Zandi of Moody’s has estimated that the package will increase gross domestic product growth from an expected 2.8 percent to an increased 3.9 percent in 2011 and decrease unemployment to an average of 8.7 percent in 2011 as compared to a previous forecast of 9.9 percent. These are meaningful changes that will improve lives across America on a large scale.
+The only stumbling block left for this bill is the House of Representatives, where liberals have some fair critiques of the legislation. Their strongest argument against the bill is that the provisions for the rich, notably the two-year extension of the Bush tax cuts and the two-year estate-tax decrease, are unfair and do not benefit the greater economy. These arguments are accurate, and it’s a shame that Republicans refuse to help the poor unless they can also help the extremely wealthy. However, including these provisions was the only way to get 60 votes in the Senate to pass the bill. Democrats have tried passing standalone stimulus for a year with no success, and need Republicans on board to get to 60 votes. Because of the enormous good the bill does for the poor and middle class, liberals should grudgingly accept this compromise and then fight hard against the extension of these provisions for the wealthy in 2012, as President Obama has vowed to do.
+Many are also worried about the bill’s impact on the deficit. It is true that, at $900 billion over two years, the legislation is costly. However, in times of low growth and high unemployment, the government must take advantage of low borrowing costs to make up for the lack of spending in the private sector. Most of this bill consists of giving money to those who most need it and, thus, are most likely to spend it. In the short term, this will help boost growth and spending. The legislation has a two-year lifetime, and those serious about deficit reduction should aim to boost growth now to get the economy growing quickly again and then decrease long-term deficits through a medium to long-term fiscal consolidation plan.
+Liberals have been outraged over this tax-cut deal. The Huffington Post has been covered with shrill and angry articles against the legislation, and many liberals claim that it validates their disappointment in President Obama. These criticisms are misguided. President Obama’s entire term has focused on the lives of working-class and poor families. The health-care bill expanded coverage to those in need, the stimulus bill helped alleviate suffering for the unemployed, and the financial-regulation bill helped protect Americans against the excesses of the financial system. Low-income households need all the help they can get during tough times. That’s why the President made the difficult compromises necessary to get this deal, and that’s why liberals, a group that prides itself on looking out for America’s poorest, must vote for this bill.
+Ravi N. Mulani ‘12, a Crimson editorial writer, is an applied mathematics concentrator in Winthrop House. His column appears biweekly.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Nearly a month after Cure Lounge management shut down a party attended mainly by black Harvard and Yale graduate students and alumni for fear of “local gang bangers” in the crowd, students have taken action to ensure that the club suffers the consequences of its perceived act of racism.
+Students and faculty interviewed for this article also expressed the concern that important questions raised by the incident have yet to be resolved. Conflicting reasons for the club’s decision to shut down the party have been in circulation, and it remains unclear why the club managers did not call the police upon perceiving a threat to its patrons’ security.
+Law School student Natalia N. Pearson-Farrer, who had attended the event at Cure, said that she and fellow students have been working to make sure that Cure is properly reprimanded for its actions.
+“This wasn’t an issue of Harvard students being offended,” Pearson-Farrer said. “We as black people were being unfairly, [and] something needed to be done.”
+Law School students have appeared on radio shows, written opinion pieces, and contacted and filed complaints with groups like the Massachusetts Better Business Bureau and the Alcohol Licensing Board, according to Pearson-Farrer. Even Laura Snowdon, dean of students at the Graduate School of Design, sent an e-mail to students asking them to reconsider patronizing Cure.
+Upon the urging of some Law School students, the Civil Rights Division of the state Attorney General’s office is working with the Boston Licensing Division to investigate the club’s decision to shut down the party. The Attorney General’s Office declined to comment.
+Harvard Law Professor Charles J. Ogletree, who studies race and criminal justice, said that the Civil Rights Division will speak to all the witnesses at the incident, examine the related statutes, and decide whether the patron’s civil rights had been violated, upon giving Cure a “full and fair” opportunity to defend itself.
+The Massachusetts General Laws, as provided on the Attorney General’s website, states that no place of public accommodation—a bar, for example—shall make “any distinction, discrimination, or restriction on account of race.” Perpetrators are liable to aggrieved parties and must compensate the state by paying a fine or serving time in prison.
+Ogletree, who is an adviser for the Harvard Black Law Students Association, said he believes the Attorney General’s office will likely determine that Cure had infringed upon the rights of the event attendees.
+“It is absolutely clear that the people in line were Harvard and Yale students, not causing disturbances, or creating danger,” he said. “It’s another indication of an individual presuming guilt based on race.”
+Lauren A. Rivera, a sociology professor at the Kellogg School at Northwestern University, said that her research indicated that club security generally fears that African Americans will attract the wrong crowd and that “being African American is associated with being a threat.”
+Rivera, who once studied the sociology of nightlife security as a graduate student at Harvard, said that these perceptions of African Americans are rooted in the history of the United States’ intricate relationship with race.
+“Through our unique history, race has come to be associated with a number of positive things and a number of negative things,” Rivera said.
+Though she declined to draw conclusions on the specifics of the Cure incident, Rivera said that the club’s history may have informed the management’s decision. Two years ago, a black male brought a gun into the club, opening fire on the crowd and starting a brawl. The club was forced to close and open under a new name.
+Upon receiving criticism for shutting down the party on Nov. 20 for fear of attracting potentially “the wrong crowd,” Cure denied allegations of discrimination against the black Harvard and Yale students in attendance, calling them “absolutely baloney.”
+George Regan, the spokesperson for Cure, said that he is “tired of dealing” with the fallout from the incident and “sick of” discussing the matter, adding that the event promoters are playing a “game” with an agenda in mind in the aftermath of the incident.
+Event promoters Michael Beal ’06 and Kwame Osuwu-Kesse ’06, both second-year students at Harvard Business School, have not returned calls or e-mails requesting comment. The pair has not made any official comments for other publications as well.
+—Staff writer Caroline McKay can be reached at carolinemckay@harvard.college.edu.
+ 
+This article has been revised to reflect the following correction:
+CORRECTION: December 15, 2010
+An earlier verison of the Dec. 15 news article "Harvard Law Students Take Action Against Cure  Lounge" incorrectly stated that Mohsen Mostafavi, the dean of the  Graduate School of Design, sent an  e-mail to students asking them to reconsider patronizing Cure. In fact,  GSD Dean of Students Laura Snowdon sent the e-mail.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Nancy M. Cline, who has led the Harvard College Library for nearly 15 years, will be retiring at the end of this academic year, according to an e-mailed message to faculty from Michael D. Smith, dean of the Faculty of Arts and Sciences.
+Cline, who came to Harvard from her position as dean of University Libraries at Pennsylvania State University, has been Roy E. Larsen Librarian of Harvard College since 1996.  In that time she has been responsible for overseeing and managing Harvard’s libraries.
+“It’s been a very rewarding career,” she said.
+Cline’s guidance has been rewarding for Harvard’s library system as well.  Under her leadership, Widener Library went through a comprehensive renovation which modernized the building, improved preservation techniques of library materials, and created more open space for library patrons. Cline said she was especially proud that the library was kept “open and operational” throughout  construction.
+Her tenure was also marked by the beginning of Harvard’s Library Digital Initiative, an effort to expand Harvard College Library’s digital collections.
+But Cline’s initiatives have had more intimate impacts on the libraries as well. She said she wanted to make the libraries at Harvard more “approachable”—to students and faculty.
+In Lamont, for example, she tried to foster a more accessible and social atmosphere by leading the installation of a café, 24-hour service to students five days a week, and an open house at the beginning of the year.
+Collaborations between librarians and faculty in support of teaching and support services for international graduate students have also increased—a focus which Cline felt was lacking when she first arrived at Harvard.
+“That’s been one of the most rewarding parts of a job like mine; we can take these vast libraries like Widener and Houghton and make them a part of undergraduate life.”
+Continuing in her role through this academic year, Cline is also actively involved in Harvard College Library’s current structural changes.  Earlier this month, the Library Implementation Work Group, established by the Task Force on University Libraries last fall, developed an oversight board as part of administrative changes in the library system.
+“The goal is broadly to have the sense that there is a library at Harvard and to make sure that we draw together the power of the many parts that we have,” Cline said.  “It’s an exciting period of time; it was a hard choice to decide when to retire.”
+Cline said she will miss watching students coming into the library with one research question and leaving with a whole stack of books, but she anticipates coming back to use the libraries herself.
+“I don’t think I’ll feel detached.”
+She said she hopes to help in the library restructuring process in whatever way she can, but also has a “to-do list” of her own.  She wants to travel to Scotland and England, and also Japan and China, where she has heretofore only traveled for library business.
+But ultimately, Cline will remain a librarian at heart.  “I have so many books that I’m really looking forward to reading!” she said.
+-Staff writer Radhika Jain can be reached at radhikajain@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+With projects ranging from documenting the personal stories of World War II survivors in France to researching how HIV/AIDS has affected the spread of tuberculosis in Botswana, six graduating seniors will travel abroad next year as recipients of the Michael C. Rockefeller Memorial Fellowships, the fellowship’s Administrative Board announced Monday.
+The fellowships, in honor of Michael C. Rockefeller ’60, contribute $18,000 toward “a year of purposeful postgraduate immersion in a foreign culture for candidates at critical stages in their development who feel a compelling need for new and broadening experience,” according to a press release.
+This year’s awardees are Ama R. Francis ’11; Benjamin H. French ’11; Laura Jaramillo ’11; Catherine C. Ntube ’11; Oliver D. Strand ’11; and Lauren M. White ’11.
+Both Jaramillo and White, who had friends apply last year, decided to apply after attending an information session earlier in the semester.
+“The Rockefeller sounded like a fantastic opportunity to see the world, take some time to think, grow, and hopefully figure out what the next steps are going to be,” Jarmillo said.
+Jaramillo will spend the year in Vichy, France, collecting personal stories of people who lived through the German occupation. She said she hopes to create a portal to share the stories—both written and in film—so that they can be preserved for future generations.
+White, will live in Buenos Aires, where she will explore art as “a vehicle of expression and upward mobility in distinct populations in the city.” She added that she also plans to make her own art to document her experience.
+Another recipient of the award, French, will assist a doctor from the Centers for Disease Control and Prevention in his research to examine the HIV and tuberculosis co-epidemics in Botswana.
+French, who has lived in South Africa for five years, said he wanted to combine his interests in sub-Saharan Africa and healthcare.
+“I wanted to do something after graduating before possibly going to medical school,” he said. “The Rockefeller was the perfect fit.”
+Thousands of miles away, Strand will focus on woodwork and carpentry in Japan, while Francis will work with a dance choreographer in Brazil. Ntube will explore spoken word poetry and art culture in Jamaica in terms of issues of identity and protest.
+Most fellows chose to live in a country they have never been to. Jaramillo, who attended a bilingual French school while growing up, said it has always been her dream to live in France. Likewise, White has never been to South America and said she thought Buenos Aires would provide a great locale in which to carry out her proposal.
+—Staff writer Jane Seo can be reached at janeseo@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ConnectU founders Cameron S. H. Winklevoss ’04 and Tyler O. H. Winklevoss ’04 are continuing to pursue legal action against Facebook founder and former Harvard student Mark E. Zuckerberg, according to court documents that surfaced on gossip website Radar Online.
+Dated Aug. 10 of this year, the partially redacted documents are part of ConnectU’s ongoing lawsuit filed against the young billionaire in 2008. In the court filing, Facebook’s legal team respond to ConnectU claims that Zuckerberg inaccurately reported the valuation of Facebook during the first lawsuit.
+The twins—whose legal battle with Zuckerberg was made famous by the 2010 film ‘The Social Network’—claim that they are entitled to more than the $65 million in cash and stock that they were awarded in the original settlement.
+“The filings referred to in recent articles are simply the filings by Facebook and the Winklevosses in the Winklevosses’ now two-year old, thus far unsuccessful, attempt to undo their 2008 agreement to settle the parties’ dispute,” Facebook wrote in a statement.
+The court date for the trial is set for Jan. 11, 2011. If the California courts uphold the Winklevosses’ appeal, the original settlement will be reversed, and all claims that were originally asserted against Facebook will go back to the original litigation.
+In a recent interview with “60 Minutes,” the Winklevoss twins said that their newest legal action is not about the money, but about the “principle.”
+The Winklevosses first sued Zuckerberg in 2008, claiming that he stole the idea for Facebook after the twins recruited him to code their own social networking site—known as Harvard Connection and later called ConnectU. The brothers say that Zuckerberg purposefully postponed working on ConnectU so that he could develop a competitor website based upon the same idea.
+According to the leaked documents, Facebook believes that the Winklevosses’ most recent legal attempt will prove unsuccessful. The court filing states that the twins’ claims of fraud are based upon faulty arguments, such as the idea that Facebook should have offered information more openly during the original trial.
+“They insist that their sworn enemy had some special duty to pen its books and volunteer any information that bears on the value of this closely held company,” the document reads.
+In the same “60 Minutes” episode, the Facebook founder said that he did not assign the entire lawsuit much merit: “I’ve probably spent less than two weeks of my time worried about this lawsuit at all,” Zuckerberg said.
+—Staff writer Hana N. Rouse can be reached at hrouse@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In an effort to shed light on stereotypes and anxieties about people in the LGBT community and their perceived effects on children, the Ford Foundation has awarded a $730,000 grant to fund a two-year research project by the Face Value Campaign in collaboration with the Harvard Kennedy School’s Carr Center for Human Rights Policy.
+Face Value’s winning project, one of six to receive an award from the Ford Foundation to examine youth sexuality in the US, will examine public perceptions of LGBT sexuality with a focus on how the public thinks contact with LGBT adults affects children. The research will be overseen by Harvard Kennedy School Lecturer Timothy P. McCarthy ’93 along with Renee R. Gosline at MIT and Patrick Egan at NYU.
+“This grant allows us to really understand what is it about children in relationship to gay people that translates into a perception of harm, and investigate how can we translate that to positive association,” said the Executive Director of Face Value Julie R. Davis, adding that this specific area has not been adequately studied in over 30 years.
+Face Value, started by McCarthy and Davis in the spring of 2009, aims to connect critical academic studies with social movements and activism, focusing on developing research plans that look at prejudices against LGBT sexuality in order to create public education campaigns.
+“We’re trying to bring together the expertise of academia and the experience of activism,” said McCarthy, who cited three goals to this approach. “We aim to challenge existing stereotypes around sex, sexuality, and gender identity; to change the public discourse with respect to how people relate to, talk about, and act towards LGBT people; and to create a world in which LGBT people are fully recognized and embraced as equal human beings.”
+Roberta Achtenberg, a member of Face Value’s advisory board and former Assistant Secretary of the U.S. Department of Housing and Urban Development—the first openly lesbian or gay U.S. public official to be appointed by the president and confirmed by the Senate—said that the project’s goal of both conducting research and putting its findings into application will be a significant service to the LGBT movement.
+“The thing that’s most important about Face Value’s work is that it will do research and craft messages that will change attitudes for public policy,” said Achtenberg. “The LGBT movement has never undertaken that kind of approach before, and it is much needed and long overdue.”
+Davis said that Face Value’s research for this two-year project will include interviews and focus groups as well as qualitative research to examine the messages being used about LGBT people, adding that the organization plans to connect with 10 to 15 LGBT organizations who will participate in developing research questions and types of interventions.
+“This is something we have been fighting and combating for years but no one has ever taken the time or the opportunity to get to its underlying root causes,” she said.
+McCarthy added that research of this nature is particularly significant in light of the anti-LGBT bullying leading to a series of suicides early in the fall.
+“Homophobia is the thing that harms children, not homosexuals,” he said. “We’re confronting a reality where homophobia is literally killing some of our youth, and a financial commitment of this amount from a leading international foundation is a game-changer.”
+—Staff writer Alice E.M. Underwood can be reached at aeunderw@fas.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Skipping church might mean more than missing out on a dose of spirituality, according to a recent study published in the American Sociological Review.
+The study—authored by Government Professor Robert D. Putnam and Chaeyoon Lim, an assistant sociology professor at the University of Wisconsin-Madison—found that the social experience of religious congregations promotes a sense of happiness and life satisfaction that is stronger than what religious activity alone fosters.
+Even occasional attendance at religious venues increases a sense of happiness, the study showed.
+According to Putnam, church friends are “super-charged,” offering shared spiritual connections and demonstrating greater “bonding, acceptance, and social belonging.” These “super-charged” friends were also found to be “nicer” in general, and were more likely to volunteer.
+Putnam and Lim interviewed over 3,100 Catholic, Protestant, Jewish, Muslim, and other non-Christian congregants to determine which aspect of the religious experience explains why spirituality correlates with higher levels of life satisfaction, which other studies have found. The interviewees were asked about various factors of happiness and life satisfaction.
+According to the study, 28 percent of people who attended religious services where they had three to five close friends reported being “extremely satisfied” with their lives, whereas 20 percent of people who were not churchgoers said the same.
+According to Putnam, some interviewees said they were shocked with many of the findings associated with their responses.
+“While many other studies have argued that it is the sense of happiness from the introspective nature of religion itself that makes churchgoers more likely to have greater satisfaction in life, our findings were different,” Lim said.
+Factors such as praying, having strong faith, and holding religious services at home appeared unrelated to happiness because they lacked what Putnam believes is the “key ingredient”—social interaction.
+Rather, active participation in religious congregations—not mere physical presence in a religious venue—“helps foster a structure of relationships with the highest indication of happiness, behind general health,” Lim said.
+Putnam added that he plans to explore whether having friends in “non-religious contexts” promotes similar effects as “super-charged” friends.
+—Staff writer Meghan M. Brockmeyer can be reached at mbrockmeyer@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The Cambridge City Council discussed a petition from Education First—a for-profit company that offers a range of programs centered around language learning and cultural exchange—that would expand its Cambridge offices.
+Councillors at Monday night’s meeting made recommendations about the benefits Education First might bring to the community if it expanded.
+The original petition submitted by the company to the city’s Planning Board expired Dec. 13 and was transferred to the City Manager’s office. The City Council first discussed the company’s petition at a meeting on Sept. 14.
+Education First is seeking approval for its 300,000 square-foot office expansion project in the North Point region of Cambridge, according to City Councillor Kenneth E. Reeves.
+Education First has committed $914,000 to Cambridge as part of mitigation for the changing of zoning ordinances its building project would require.
+Richard McKinnon, an Education First representative, submitted a letter to the City Council and City Manager Robert W. Healy formally stating its commitment of the amount to the city. This money will be used for initiatives supporting the local community and will be allocated through a process determined by Healy, according to the letter. A portion of this mitigation money will be used to fund scholarships for Cambridge residents.
+“In exchange for the right to build, we are putting together a mitigation package,” Reeves said. “The only people who should be left out should not be the people of Cambridge.”
+Education First has agreed to pay $457,000, or half of the mitigation money, to the City Council within 90 days of being issued a building permit for their expansion project, according to the letter. The second half is expected to be paid to Cambridge upon receipt of a permanent or temporary certificate of occupancy for the project.
+According to Reeves, however, the mitigation amount is still unsatisfactory. “Nobody got robbed here,” Reeves said. “But the citizens are not benefiting by any means.”
+For other councillors, however, the promised package was sufficient.
+Councillor and Chairman of the Ordinance Committee Sam Seidel said that he was excited about the jobs the expansion of Education First’s offices is going to bring to the city.
+Councillor Marjorie C. Decker agreed.
+“I am excited about the additional profits and EF’s potential expansion,” she said. “I feel comfortable, at this point, putting it in the manager’s office.”
+Healy is expected to report back to the Council early in 2011.
+—Staff writer Rediet T. Abebe can be reached at rtesfaye@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A male Harvard Extension School student was the victim of an attempted unarmed robbery on Francis Ave. on Monday, according to a community advisory released yesterday afternoon by the Harvard University Police Department.
+The student reported to HUPD yesterday that two unknown men approached him, grabbed him, and demanded his money as he was walking on Francis Ave. at about 8:30 p.m.
+The two offenders then fled as a vehicle drove on a street nearby, the advisory stated. The victim was left uninjured and no property was taken.
+According to a message from HUPD spokesperson Steven G. Catalano, the incident is currently under investigation and further details could not be provided at the time.
+This incident marks the third robbery or attempted robbery of a Harvard affiliate in the past week, for a total of more than 10 robberies near Harvard campus since Nov. 1.
+During this time, two robberies occurred within the vicinity of Francis Ave, which runs north-south near Harvard Divinity School.
+On Nov. 1 at 11:11 p.m., a Harvard affiliate was robbed a knife point near the intersection of Scott St. and Kirkland St.
+Six minutes later that same night, another Harvard affiliate was robbed at knife point at the intersection of Bryant St. and Scott St., just one block away. The student suffered a minor stab wound.
+Both victims on Nov. 1 described suspects as African-American males, one “very heavy set” and the other “tall and thin.”
+The victim in the latter incident resisted handing over his property after asked by the suspect, at which point he was stabbed in the upper arm by the tall male while the heavy offender assaulted him.
+Francis Ave. is not on the map of designated safety pathways released by the Harvard University Police Department.
+—Staff writer Xi Yu can be reached at xyu@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In October, while his peers were busily cramming for upcoming midterms, Eric Westphal ’14 had something else on his mind. “I wanted to surprise my wife for our one-year anniversary,” Westphal says.
+E. Hillel Z. Nadler ’11 does not consider himself a very good cook, so he does most of the housework—washing dishes, sweeping and mopping floors, and cleaning the bathroom—to help out his wife, he says.
+And after attending a day’s lectures and sections, Loren S. McGinnis ’11 comes home to an apartment in Cambridge for his after school “extracurricular activity”: being with his family. “Having a family is like being involved in clubs or athletic teams,” McGinnis says, as he picked up his giggling two-year-old daughter Sophie and put her in his lap.
+These three young men are both students and husbands, a dual responsibility undertaken by 7 percent of American college students, according to the 2003 United States Census. But at Harvard, the number of married students is far below the national average. Here, only 27 undergraduates identify themselves as married, according to Karen Pearce, director of operations for the Faculty of Arts and Sciences Registrar’s Office.
+Though many undergraduates have romantic attachments while on campus, few of them choose to marry while students. And unlike relationships that end with graduation, these students married with the understanding that their relationship would last the duration of their lives.
+“We believe that...marriage is an eternal commitment,” McGinnis says.
+Whereas some say they choose to marry for religious reasons, all of them say they did it for love.
+GETTING TO KNOW YOU
+To hear Westphal, McGinnis, and Nadler talk about how they met their future spouses sounds more befitting a romantic comedy than the mundane happenings in the real world.
+Westphal met his wife in their high school’s graphic design class. He was a sophomore, and she was a senior. After dating for eight months, Westphal says he was ready to pop the question, so on the day of his wife’s birthday, Westphal organized a scavenger hunt that led her to his house.
+“I was hiding in the little side of the backyard,” Westphal says, “and she found me with a ring.” At the time, he was 19.
+Nadler, who took a year off to study abroad, met Tova S. Weiner Nadler ’10 at the beginning of their freshman year at Harvard Hillel. Within a few months they were dating, and by the next summer, Nadler says he was thinking about marriage.
+The two visited Toronto for the marriage of one of Nadler’s family friends. While strolling around downtown, Nadler led Weiner to a music store, where Nadler sat down on a piano nearby and played Sam Cooke’s love song, “You Send Me.”
+“Now I find myself wanting to marry you and take you home,” Nadler sang.
+The couple tied the knot in a traditional Jewish ceremony in Los Angeles last January.
+McGinnis, a member of the Church of Jesus Christ of Latter-day Saints, was hanging out in his room when his roommate had some friends from Wellesley over—among them was Erica H. Hawkins. “When I met her, basically the thinking was, ‘This is the right person. I want to marry her,’” McGinnis says. The two dated all of freshman year, and in June 2008, they flew to the mountains in Utah, Erica McGinnis’ home state. While they walked along the path near Salt Lake, stopping at a bridge over the waterfall, McGinnis bent down on his knee and proposed.
+“It was picture perfect,” Erica McGinnis recalls.
+They married two months later in Kaysville, Utah.
+A RELIGIOUS AFFAIR
+For both McGinnis and Nadler, religious beliefs played a role in their decision to marry young.
+McGinnis, who was born in Colo. and attends church every Sunday, says that on average Mormons marry earlier than the population as a whole.
+McGinnis, who is interested in software design, says that the early marriage age could be attributed to the high value that Mormons place on family and marriage.
+“I can go to Harvard and get as many prefixes as I want,” McGinnis says, “but the most important title I’d have in my life is fatherhood.”
+McGinnis also says that marriage is a practical response to Mormonism’s rules against premarital sex—the result is that Mormons tend to have a shorter “courtship process,” he says.
+Nadler, an Orthodox Jew, says that some who share his religious beliefs also tend to marry young. According to the US Census Bureau, the median age of a first marriage in the United States was 28.2 for men and 26.1 for women in 2010. Nadler says that based on his experience, he thinks many Orthodox Jews marry earlier in their 20s.
+Many of Nadler’s friends were already married when he married, Nadler says. As a result, Nadler, who hopes to attend law school or graduate school in philosophy, says he was “very familiar and comfortable with having this traditional responsibility.”
+A BALANCING ACT
+But married students says that married life has proven to be a balancing act. One of the toughest challenges Westphal says he faces as a married undergraduate is feeling like he is precluded from opportunities at Harvard.
+Westphal has joined clubs on campus, including Harvard Christian Faith and Action, but he says that he does not plan on studying abroad.
+“It’s not very plausible,” he says, “because I want to dedicate time for [his wife] Cheryl.”
+Aside from the personal difficulty of balancing the worlds of home and school, McGinnis and his wife says that they have experienced a lack of institutional support for married undergraduates from the College.
+“We can’t live on campus and can’t be a part of the campus community,” says Erica McGinnis, who is now a senior at Wellesley.
+According to the Harvard College Handbook for Students, “Harvard College does not offer undergraduate housing in the Houses or dorms to married undergraduates and/or undergraduates with families.”
+Students with children, however, “may be eligible for Harvard-affiliated housing through Harvard Real Estate Services,” according to the Handbook.
+McGinnis also says that because he is not on the dining plan, which comes along with living in a dorm, “I’m excluded from a lot of academic and social activities,” he says.
+McGinnis says he remembered one incident in his sophomore year when he had to meet with his academic advisor to declare his concentration. But, his advisor held his office hours in a dining hall, a location inaccessible to McGinnis, who does not have swipe access because he does not live in a House. Instead of meeting with his advisor like all the other students did, McGinnis had to make arrangements to meet elsewhere.
+But Westphal, now a freshman, has seen the College make accommodations for him as a married student. Prior to this academic year, Westphal says he spoke with Freshman Dean Thomas A. Dingman ’67 about whether he should commute to campus each day or whether he could live in a freshman dorm with his peers. After the conversation, Westphal and Dingman decided that Westphal should live on campus—marking an exception to the College’s policy.
+This year, Westphal makes his home in a single in Matthews on weekdays. On most weekends, however, he goes to see his wife, who lives in her parents’ house in Everett, Mass.
+JUST THE WAY YOU ARE
+Before he married, Westphal says he was unsure how he would adjust to the married lifestyle. McGinnis and Nadler says they had similar initial concerns. But even with the challenges that marriage brings, all three says they have no regrets about their decision to get married.
+They also says people at Harvard have welcomed their decision to marry young. Although some people were surprised, Nadler says, “most of our friends were accepting and excited for us.”
+“At Harvard, people find it cool that I’m married,” Westphal says. “But in high school some people were judgmental.” But he would respond, “It’s my life, it’s none of your business.”
+The primary challenge McGinnis says he has faced while married has been the stress associated with raising a child. This month, McGinnis’ daughter will turn 2. In raising her, McGinnis says he and his wife sacrificed friendships and countless nights of sleep.
+But both parents agreed that having a daughter changed their lives for the better.
+“Just watching her run around brings joy to my heart,” McGinnis says.
+—Staff writer Jane Seo can be reached at janeseo@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+After conducting an investigation in response to a recent police report that 36 books treating LGBT topics had been damaged with what appeared to be urine in Lamont Library last month, the University determined Monday morning that the incident was an accident and will no longer be treated as a hate crime, according to a statement sent from College Dean Evelynn M. Hammonds to the Harvard community on Monday.
+On November 24, library staff at Lamont discovered the damaged books—on subjects including lesbian and gay issues and same-sex marriage—along with a bottle assumed to have contained what investigators believed to be urine. This past Friday, library personnel reported the incident to the College and Harvard University Police Department as vandalism, and the affair was subsequently investigated as a hate crime for the “focused nature and related topics” of the affected books, according to Hammonds.
+But upon an investigation by HUPD, it was revealed Monday morning that “our own library personnel” had accidentally spilled a bottle, containing what was reported to be urine, that had been found on the shelf, according to Hammonds. Harvard College Library plans to replace all 36 damaged books as soon as possible, she added.
+“I believe this is an important new fact in the investigation and warrants my sharing it with you immediately. While we should not minimize the seriousness of this incident, HUPD is no longer classifying this incident as a hate crime,” Hammonds wrote in her statement. “This nuance in the facts in the case also explains why library personnel did not immediately report the incident and treated it instead as a prank.”
+Faculty of Arts and Sciences spokesman Jeff Neal wrote in an e-mail that it remains unclear why a bottle of urine was stowed in the library, adding that the spill was reported by the library employee—the same person who caused the spill, according to his understanding—and cleaned up the same day that it occurred.
+In response to the initial appearance of the incident as an act of homophobia, Neal reiterated the significance of an inclusive and diverse community as highlighted in Hammonds’ statement.
+“Dean Hammonds has repeatedly emphasized the importance of creating a welcoming environment for all students and all affiliates of all backgrounds throughout the Harvard community,” Neal wrote, adding that sexual orientation and gender identity are included in Harvard’s non-discrimination statement.
+Harvard College Library spokeswoman Beth S. Brainard declined to comment, referring all questions regarding the incident to Neal.
+Though Harvard College Queer Students and Allies Co-Chair Marco Chan ‘11 expressed relief that the damage was the result of an accident and not a targeted act of homophobia, he said that he remained concerned by facts of the incident that remain unexplained.
+“On the one hand, I feel relieved by the news—but on the other hand, I’m still holding breath on questions that are still unresolved,” Chan said. “Why was there a bottle of urine on the shelf? Why did it take two weeks for library or HUPD to figure out that this was just an accident? Did someone suddenly come forward?”
+QSA Co-Chair Emma Q. Wang ’12 said she was disappointed that Hammonds is only now speaking out about LGBT issues, and that her statement does not address problems faced by the community beyond the incident at Lamont. Wang described Hammonds’ e-mail regarding the books as “poor timing,” considering the series of LGBT suicides across the nation and the two hate crimes—one an assault on an undergraduate by people shouting homophobic slurs, and the other anti-gay graffiti in a graduate dorm—that occurred at Harvard earlier this semester.
+“I don’t think this issue was handled with the degree of sensitivity and care it could have been,” Wang said, noting that while the incident is no longer being characterized as a hate crime, it still had an impact on the LGBT community. “It is the College’s responsibility to treat everyone in the community as an equal and to shoulder equal responsibility for incidents that affect that community.”
+While Hammonds did not release a statement in response to the incidents affecting the LGBT community earlier in the semester, today’s statement does stress ongoing attempts to foster inclusion and diversity on campus. She wrote that these attempts reflect the College’s desire “to uphold important community values of civil engagement on moral and ethical questions in a diverse world,” naming both the ongoing BGLTQ Working Group and the Sustained Dialogue Program as striving to fulfill these missions.
+Hammonds convened the BGLTQ Working Group in October with the purpose of evaluating the needs and resources of LGBT students and allies. She wrote in the statement that she has asked the Working Group to consider the Lamont incident in formulating their recommendations to the Dean, to be delivered in March, regarding LGBT needs at Harvard. The Sustained Dialogue Program is part of a nationwide network with the aim of creating venues for discussions on issues of diversity and was also adopted at Harvard at the start of the fall semester.
+With this emphasis on encouraging conversations within the campus community, Hammonds concluded her statement on a positive note: “In the end, I am heartened by the chorus of support that this incident has elicited for all students, faculty, and staff within the Harvard College community, and value the important conversations it has prompted.”
+In the e-mail containing the link to Hammonds’ official statement, the Dean addressed students at the College with the hope that the incident would reaffirm the integrity of the College’s diverse community.
+“This is an important moment to reiterate our shared values and to note that Harvard College mandates that everyone show respect to all members of our community,” Hammonds wrote. “I hope you will join me in espousing and practicing these shared principles.”
+—Staff writer Alice E.M. Underwood can be reached at aeunderw@fas.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Though the damage of 36 LGBT-related books in Lamont Library is no longer being characterized as a hate crime, the incident has brought to light the issue of homophobia on campus and left the LGBT community at Harvard feeling confused and frustrated.
+The University’s response to the Lamont incident initially disappointed many members of the Harvard College Queer Students and Allies because of the lack of information, seemingly contradictory facts, and failure to explicitly address the problem of homophobia on campus, according to Co-Chair Emma Q. Wang ’12.
+“We first felt on the alert because it was reported as a hate crime, and the LGBTQ community remains sensitive, as issues of homophobia must be comprehensively reported and commented on, especially by those in positions with the most information and influence,” said Wang, who participates in the BGLTQ Working Group that currently explores LGBT life and needs at Harvard.
+Upon an investigation in response to a police report that 36 books treating LGBT topics had been damaged with what appeared to be urine in Lamont last month, the University determined Monday morning that the incident was an accident. A library staffer had spilled a bottle of what was reported to be urine on the shelf, according to a statement made by College Dean Evelynn M. Hammonds.
+Wang, who received several e-mails from strangers expressing their support for the LGBT community in light of the recent incident, said that the College must be forthcoming with clear information to prevent future incidents of this nature, as consistent information is crucial in dealing with sensitive issues. Wang added that the administration is taking steps to further address the lingering concerns of the LGBT community, but she was unable to provide details.
+History and Literature Lecturer Timothy P. McCarthy ’93 expressed concern about the handling of the Lamont affair and its effects on the LGBT community.
+“At this point, this peculiar incident has produced many more questions than answers, especially in the LGBT community. Until that changes, I think it’s premature to downgrade this from a ‘hate crime’ to an ‘accident,’” McCarthy wrote in an e-mail. “I’m no expert on bodily fluids, but it takes an awful lot of urine to destroy 36 books. Are the bathrooms not working in Lamont?”
+QSA Political Co-Chair Sam J. Bakkila ’11-’12 echoed the frustration with the hazy explanation of the incident. He said that the accidental urine spill may be plausible, but wondered why it took over two weeks for the issue to be brought to public attention, why the story changed, and why the initial police report interpreted the issue as vandalism. As a member of the Harvard LGBT community, he said he felt put off to have found out about the issue from the press and not the administration.
+“It’s quite unfortunate that so much attention has been given to this incident that was likely an accident, when there were two confirmed anti-LGBT hate crimes on campus earlier this semester,” he said. “Even if this incident was an accident, the fact is that homophobia is an issue that many LGBT students struggle with, even here at Harvard.”
+Though pleased with the dedicated LGBT-friendly administrators on campus, Bakkila said that the Lamont occurrence, whether a hate crime or an accident, reflects the rift in communication between the College administration and the queer community and highlights the need for an LGBT center or office with professional support—resources enjoyed by other Ivy League schools.
+Some of the media coverage of the story—though highlighting the issues faced by the LGBT community—has “gotten out of hand” since several news sources have expressed skepticism about the accidental nature of the urine spill in Lamont instead of accepting Hammonds’ explanation of the incident.
+“Dean Hammonds has been a strong advocate for the LGBTQ community, particularly this year with the BGLTQ working group, and I fully trust her analysis of the incident,” he said.
+Though most of the suspicions of a hate crime have been dispelled, the incident has shed light on the ongoing concerns facing the LGBT community, according to QSA Co-Chair Marco Chan ’11, who participates in the BGLTQ Working Group.
+“At the end of the day, the incident does bring to mind that we too can be vulnerable to homophobia,” he said. “Going beyond relationships between LGBT students and the rest of the community, I believe that in thinking about inclusion and support, we need to think about how we’re actively supporting each other.”
+On Nov. 24, library staff at Lamont discovered a group of damaged books that covered subjects including lesbian and gay issues and same-sex marriage, along with a bottle assumed to have contained urine. On Friday, library personnel reported the incident to the College and Harvard University Police Department as vandalism, and the affair was subsequently investigated as a hate crime due to the subject matter of the affected books.
+Hammonds revealed on Monday morning that given the accidental nature of the incident, it will no longer be treated as a hate crime. She added that Harvard College Library plans to replace all 36 damaged books as soon as possible.
+“I believe this is an important new fact in the investigation and warrants my sharing it with you immediately. While we should not minimize the seriousness of this incident, HUPD is no longer classifying this incident as a hate crime,” Hammonds wrote in her statement.
+In a written statement to The Crimson, Hammonds elaborated saying that the library personnel only reported the incident to the police for insurance purposes.
+“As a result, the filing did not need to be immediate,” Hammonds wrote on the two-week delay.
+—Staff writer Alice E.M. Underwood can be reached at aeunderw@fas.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+After serving 10 years as the University’s top academic officer and spearheading major interdisciplinary initiatives. University Provost Steven E. Hyman will step down at the end of this academic year.
+Hyman arrived at Harvard during Lawrence H. Summers' presidency and oversaw an arguably turbulent time in the University's history—a period that saw Summers' abrupt departure, the recent precipitous drop in the University's finances, and a resulting decrease in spending that included dramatic belt tightening in certain areas of Harvard's budget.
+But with those issues at least partly in the rear view mirror, Hyman announced Wednesday that he would leave the post, saying that now was a good time both for himself and for the University.
+"I think the University is in very good shape," Hyman said. "I had agreed on five years, but then, as we know, life at Harvard got complicated. But I think that right now the University is doing very well. We have a stable, excellent leadership team, we have great deans, and it was time to make a getaway."
+After stepping down, Hyman—a neurobiologist by training—will take a one-year sabbatical at the Broad Institute, a collaborative genomic research center. He said that he plans to teach a general education course in neuroscience, ethics, and policy. A search process to find a successor will begin next year and will be led by University President Drew G. Faust.
+During Hyman's tenure as provost, the University has made a point of emphasizing and prioritizing interdisciplinary work, the implementation of which has often fallen to Hyman. Under his watch, the University has taken several strides forward to improve collaboration across its famously independent departments. Harvard now has 30 ongoing inter-faculty initiatives, according to Hyman.
+He cited the establishment and strengthening of the Broad Institute, the Mahindra Humanities Center, and the Wyss Institute for Biologically Inspired Engineering—a joint venture of the Faculty of Arts and Sciences, the Medical School, and the School of Engineering and Applied Sciences—as ways that the University has furthered its goal of enabled interdisciplinary work.
+"[Departments and schools] are not intended to create intellectual barriers but at a decentralized place like Harvard one of the most important things we can do is not let ourselves be constrained by structures that may or may not be fully useful," Hyman said.
+But he also acknowledged that questions remain about how interdisciplinary work will take shape in the future and how to balance a commitment to interdisciplinary work while at the same time maintaining departmental and school strength.
+The Allston Science Complex had been touted as a potential breakthrough for such work, but it was announced in Dec. 2009 that the project would be put on hold following the financial crisis. It remains unclear exactly how the University will develop the project, which had originally been designed as an ambitious work space bringing together University scientists from several, albeit often disparate, areas of Harvard.
+Hyman called the project's halt and the fact that he would not be able to oversee the Science Center's completion his greatest disappointment during his time as provost.
+"The charm of Allston is, from the point of view of the sciences, it’s sort of Harvard’s Switzerland: neutral location, equally convenient or inconvenient, depending on your temperament, to the FAS, to the Medical School, to Mass. General," he said.
+The University has created a working group to examine the development's future that will deliver preliminary recommendations by mid-2011.
+Hyman also leaves at a time when the University library system is in the midst of considering how to reform and improve its practices to adjust to a new fiscal and media environment.
+But while the University has halted its Allston expansion, it has also moved forward on several other scientific initiatives during Hyman’s tenure, including the establishment of the Department of Stem Cell and Regenerative Biology and the founding of the Harvard Stem Cell Institute.
+Hyman also supported the ongoing renovation of the Fogg Art Museum and the revamping of the American Repertory Theater, which has in recent years increased its collaboration with undergraduates.
+Faust praised Hyman, the University's longest serving provost in recent memory, in a statement Wednesday.
+"He has spurred fresh thinking and important initiatives in areas ranging from the sciences to the humanities, from the museums to the libraries," she said. "In all of these areas and more, he has approached his role with intelligence, passion, and wit, and with a devotion to the highest academic standards."
+Hyman has occupied administrative positions for the past decade and a half, first as director of the National Institute of Mental Health and then as provost beginning in 2001, and said that he looks forward to returning to teaching.
+In a letter accompanying the announcement that he would step down, Hyman thanked his colleagues and undergraduates, who he said "have forgiven the sometimes slow pace with which I return their papers."
+—Staff writer Elias J. Groll can be reached at egroll@fas.harvard.edu.
+—Staff writer Zoe A. Y. Weinberg can be reached at zoe.weinberg@college.harvard.edu.
+—Staff writer William N. White can be reached at wwhite@fas.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Riding on the airplane flight from South Africa for his freshman year,  Nicholas J. J. Kogl ’13 says he did not know what to expect. He wasn’t  sure his style would fit into Harvard’s undergraduate community  considering what he had read online and seen in the movies.
+“I didn’t know how they would take the smoking,” he says. “I have nine piercings and I dyed my hair black.”
+Kogl, the only male South African in his class, says he did not know of a campus community to which he could relate.
+“I didn’t know how accepting of me people would be.” He says he thought, “I’m going to be an outcast.”
+Today,  Kogl is on the social board of the Woodbridge Society of International  Students, where students can recall the common fears many of them faced  journeying to Cambridge.
+An entire community of Harvard students—695 undergraduates or  approximately 10 percent of the student body—arrive from abroad to study  at the College.
+For these students, there are the usual adjustments  to the new social environment. But many create their own community on  campus with other international students who understand what it means to  come with significant cultural differences.
+A COMMON EXPERIENCE
+For many of the incoming international students,  the Freshman International Program—a three-day pre-orientation workshop  sponsored by the Woodbridge Society—is their first experience on campus.
+The information taught in FIP regarding documentation and how to adjust  to a different school system will follow international students  throughout their college careers. Already, most of them have passed  through the lengthy process of securing a visa, been required to  demonstrate sufficient motive to go back to their country of origin, and  secured a sufficient amount of money to pay for the college they plan  to attend.
+But for many, the relationships formed during this period with fellow  international students provide the lasting impression on students.
+“It all starts with FIP,” says Nina C. Buchmann ’13 from Germany.
+Buchmann,  a member of the Woodbridge Outreach Committee, says that FIP  establishes a community even before the entire freshman class arrives on  campus.
+According to Dominik Nieszporowski ’12, president of Woodbridge, the  organization is concerned that FIP limits international students’  interaction with their non-participating peers.
+“It might be more of an issue for FIP than other pre-orientation programs,” he says.
+Buchmann says that international students are drawn together because of  their shared experience arriving in the new environment.
+“One of the reasons we stick together is because we have such different experiences than Americans,” she says.
+Buchmann’s experience is particularly unique because her entire blocking group includes only international students.
+“We didn’t realize what had happened until our House Master pointed it out to us,” she says.
+“If  internationals have something in common it’s that we’re not American so  we want to learn about each other,” says Mahum Shabir ’11 from India.
+Because of their common experiences and traditions, Americans share a  popular culture of music, sports and other social aspects, says Shabir.
+Among international students, “you don’t assume anything about each other,” she says. “You start off with a clean slate.”
+Lacking that common ground, says Shabir, international students bond over learning about each others’ cultures.
+“My closest buddies are all internationals. It wasn’t a conscious effort—it just happened,” says Omer Aftab ’11 from Pakistan.
+BRANCHING OUT
+Nieszporowski says, however, that he hopes to expose internationals students to the broader community earlier.
+He says that Woodbridge will plan mixers “for the future” between FIP participants and other pre-orientation programs on campus.
+Woodbridge is not reserved only for international students, says  Nieszporowski, noting that the Society has a similar numbers of  Americans and international members.
+International students often bring their American friends, who are welcomed to join, to events hosted by Woodbridge, he says.
+“I feel most internationals reach out to Americans,” he says.
+The organization is trying to build a similar cross-cultural environment with FIP.
+“We try to reach out to Americans as FIPpers, and we always have group leaders who are Americans,” he says.
+Kogl says he skipped FIP because he wanted to reach out to Americans as he acclimated to the new culture.
+“I  had no support structure, so I didn’t want to lean so much on  internationals,” he says. “So I needed to get associated with  Americans.”
+But at Woodbridge, to which he was introduced by friends, he too has gravitated to the international community on campus.
+He says those students “provide international perspective that bursts the Harvard bubble at times.”
+In the upcoming break, Woodbridge hopes that a virtual community for the  international students abroad can serve the larger student body.
+This  January, says Nieszporowski, Woodbridge will provide an online map  indicating where in the world its members will be residing. The tool,  traditionally updated only during the summer, will offer traveling  members and Americans alike an opportunity to meet up and find housing  with Woodbridge members around the world.
+“We have friends all over the world,” says Tsering L. Sherpa ’11 from Nepal. “We get free housing to go to those countries.”
+POST COLLEGE CONNECTIONS
+While  international students like Kogl often arrive on campus with few  student connections, they leave with a guaranteed support network.
+Nieszporowski says that the criterion for membership in Woodbridge’s alumni network is registering for the e-mail listserv.
+The  organization draws members back to campus to lead information sessions,  and has created its own medical school application guide. For students  like Kogl, the Woodbridge support is an improvement from the days when  he was applying to Harvard with the Common Application.
+“I didn’t know what a GPA was,” he says. “I just circled it.”
+For  many of the Woodbridge students, the connections formed in college  outlast graduation because they end up working in a common location,  here in the States.
+Woodbridge provides workshops for these students, informing them of  Optional Practical Training in which students can stay in the U.S. for  12 months working in a field directly related to the students’ area of  study.
+“It’s hard to tell my mom and best friend that I might end up working here,” says Buchmann.
+—Staff writer Nathalie R. Miraval can be reached at nmiraval@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Junior defensive tackle Josué Ortiz can bench the more than a sumo wrestler, throw quarterbacks to the ground, and block punts.
+This afternoon, the Associated Press acknowledged those abilities and named the Crimson standout a third-team All American. Columbia tight end Andrew Kennedy was the only other Ivy Leaguer to make the cut, notching a second-team award.
+The honor comes after a season in which Ortiz finished second in the league in sacks and tied for first in tackles for loss. Ortiz finished the season with 34 tackles, including 14 solo tackles, and 7.5 sacks.
+But the stats don't tell the full story of Ortiz's dominance. Offensive lines struggled to contain the dynamic pass rusher all season, and the junior often forced quarterbacks to make hurried throws or opened holes for teammates.
+"It makes playing linebacker a lot of fun," rising captain Alex Gedeon has said of playing with Ortiz and graduating senior Chuks Obi. "You know, it opens up a lot of gaps that we can run through and make plays, because they’re taking on double teams and they’re so destructive up front. Those two guys have made my job a lot easier this year."
+Prior to his selection as an All American, Ortiz was named All New England and first team All Ivy. Ortiz and graduating captain Collin Zych were the only defensive players in the league to be unanimously named to the first team.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+Harvard students gathered in Harvard  Yard on Wednesday evening to light eight candles for the final night of Hanukkah. University President  Drew G. Faust helped light the menorah after offering some words to the crowd.
+Sections
+Now  that finals are in full swing, many Harvard students are undoubtedly  staying up all night, trying to learn what they were supposed to have learned throughout the fall term. As a result, most will likely turn to coffee, the  quintessential source of caffeine, to fuel their late night study sessions.
+ 
+But according to a recent article published in the journal Neurology, drinking coffee "transiently increases the risk of ischemic stroke onset, particularly among infrequent drinkers."
+ 
+ 
+Don’t worry, though—it’s not as bad as it sounds.The  study "Coffee and Acute Ischemic Stroke Onset," conducted by researchers  from the Harvard School of Public Health, Harvard Medical School, and  the University of North Carolina School of Public Health, examined the  coffee drinking habits of stroke survivors. Subjects were interviewed  within several days of their strokes and asked whether they drank coffee  during the last year and if they had consumed coffee in the hour  before stroke onset.
+ 
+The results demonstrated that, compared to subjects that hadn't consumed coffee in the hour before stroke onset, the transient risk of a stroke was doubled among subjects that had consumed coffee within the last hour. Cola and tea consumption was also examined, but no  associations between the two drinks and ischemic stroke onset were found. The  article cites the lower caffeine content of such beverages as a  possible explanation.
+ 
+However,  according to Elizabeth Mostofsky, an author of the article and a doctoral  candidate at the Harvard School of Public Health, Harvard students have  nothing to fear. 
+"A young college student in good health is not at  risk," she said.
+ 
+Coffee  consumption would mostly negatively impact those already at risk for  stroke, especially those who are infrequent coffee drinkers. "People who  are regular coffee drinkers aren’t at risk," Mostofsky said. Eventually, according to Mostofsky, people "adapt to coffee."
+ 
+Among  infrequent coffee drinkers, the sharp increase in coffee consumption  around the time of stroke is what was found to increase risk.
+ 
+So, is it safe for us to drink coffee?
+ 
+"Go ahead, drink as much of it as you want," said Mostofsky.
+Photo courtesy of Wikimedia Commons.
+Sections
+Our neighbors at The Back Page recently completed the third installment of their Crimson Faceoff series. This time, sportswriter Martin Kessler '13 seeks the help of fellow writer B. Marjorie Gullick '13 in a two-on-two battle against varsity volleyball players Matthew C. Jones '12 and Taylor A. Docter '13.
+Video by B. Marjorie Gullick, Martin Kessler, Andrew J. Petschek, and Xi Yu/The Harvard Crimson.
+Sections
+Earlier this semester, we brought you the news of an unknown drunken partygoer who left his soiled underwear outside a door in Quincy House. Now, it seems that the putrid post-party pooping trend has spread downriver to Leverett.On Friday, Leverett House Building Manager Paul J. Hegarty sent an e-mail to the residents of Leverett’s A entryway, informing them that someone had defecated in a third floor custodial closet in the entryway earlier in the week.
+"I don’t care how much you imbibed, but you should seek help if you think this is even remotely funny," Hegarty wrote.
+How could this have happened? A student, who did not wish to be identified in order to preserve relationships with those involved, told us a bit more of the story. Here's the gist of it: according to our source, the culprit attended a party on Tuesday night with friends who live in Leverett. The student, who had become very intoxicated, was brought by his friends back to their room in Leverett. After waking in the middle of the night, he inadvertently left the room. When he tried to get back in to use the bathroom, his friends didn't hear him knocking on their door. He tried knocking on all the other doors on the floor, but when no one answered, he decided to use the closet as a privy. After doing his business, he knocked on doors again until encountering a friend who readmitted him to their room. Apparently, none of the students involved took the initiative to clean up the mess.
+The student responsible, who did not wish to be identified to avoid possible disciplinary action from the College, confirmed the details of the account and said that he has since delivered a letter to Hegarty stating that "there was no humor in this incident, only a shocking lack of maturity [and that he] cannot express the profound disappointment [he] feels in [himself], especially knowing that a hardworking member of the Leverett House staff had to clean up [his] mess."
+Photo courtesy of Wikimedia Commons.

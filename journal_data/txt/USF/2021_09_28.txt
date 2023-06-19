@@ -1,0 +1,58 @@
+Student and faculty concerns about Proctorio led to the switch to Honorlock for online proctoring. SPECIAL TO THE ORACLE/UNSPLASH
+
+
+USF has switched to remote proctoring service Honorlock this semester after considering questions faculty and students raised about Proctorio, the extension used for the past six years.
+
+
+Although most classes returned to full in-person activities this semester, many professors are still offering proctored online quizzes and tests. To ensure academic integrity, they now use Honorlock to monitor students’ activities on their computers while they’re completing a test.
+
+
+The contract with Proctorio ended in summer and the Information Technology (IT) Governance Committee saw it as an opportunity to explore other remote proctoring options, according to Cynthia DeLuca, associate vice president of Innovative Education at USF. Honorlock costs $210,000 per year for all the campuses, according to DeLuca, who said it’s similar to what USF paid for Proctorio. The funds for this service come from the distance learning fees charged to some students.
+
+
+The IT Governance Committee spoke with students, faculty, IT experts and other Florida universities to gather feedback before choosing Honorlock. DeLuca said questions were raised about privacy, how quickly the company supported students and faculty when there was an issue and if it assisted in protecting exam questions and answers from being shared on websites.
+
+
+“We listened to students and faculty about their experiences with online proctoring and the solution we were using,” DeLuca said. “We benchmarked all the product options against our list of requirements, we talked to our State University System (SUS) colleagues and based on all of those conversations and with the support of our governance groups, we chose Honorlock.”
+
+
+Lindsey Mercer, associate director of training and support of Innovative Education Digital Learning, said many institutions in the SUS were also using Honorlock to proctor their online tests, which weighed heavily in the decision.
+
+
+“Nearly every institution within the SUS was already on Honorlock,” Mercer said. “So it was time for us to make that transition to be in alignment with the other institutions in the SUS. By doing that we share the wisdom across the SUS as opposed to being an outlier.”
+
+
+Over the summer, there was a pilot test of Honorlock in three courses for about 4,000 exams to see if it was the best fit for USF’s expectations. The pilot validated what the IT Governance Committee expected, according to Mercer.
+
+
+“We’ve heard very good things about Honorlock, about their support, about the solution itself and the findings ultimately were the faculty really liked the user interface,” Mercer said. “They felt that it was much easier to navigate … than our former proctoring system.”
+
+
+Besides the more minimalistic interface, Honorlock has a tool called Search and Destroy that automatically requests websites such as Chegg or Course Hero to take down questions and answers from exams that students might have uploaded. Mercer called it a “home run,” because before the tool, faculty had to search for the exam content and make the requests themselves.
+
+
+Honorlock provides faculty options to monitor students during tests such as recording the screen, verifying identities and closing other tabs. They can choose which ones to apply in their classes according to their needs, such as they did with Proctorio.
+
+
+The experience with Honorlock is very similar to Proctorio for students, especially since both companies use a Google Chrome extension for their services, Mercer said. One of the benefits the change brings, according to Mercer, is Honorlock can detect students even if they are in rooms with bad lightning.
+
+
+“Some of the other proctoring platforms, essentially the automated [ones have] issues with detecting students, finding students in dark rooms and things like that,” Mercer said. “So that was another area where we [use] Honorlock to be a little more student-centric.”
+
+
+To prepare faculty for the transition to Honorlock, there were 12 live workshops via Microsoft Teams and an online training course available that had best practice tutorials. Professors can also request one-on-one live support or personal training sessions with IT.
+
+
+“We also had a very targeted outreach campaign where we reached out to our faculties and made sure they had Honorlock installed [and] that everything was good to go,” Mercer said. “So it was a combination of training and messaging and outreach.”
+
+
+Students can complete a module, which is provided to faculty to put in their classes, that walks them through the process of downloading the extension and using it. There is also an FAQ and a practice test they can take an unlimited amount of times to become familiar with Honorlock. Before or during exams, students can also access a 24/7 support chat from Honorlock in case any issues or questions arise.
+
+
+Mercer said the preparatory module has allowed for a smooth transition to Honorlock. The IT Governance Committee will be surveying faculty to find out how everything is going with the new service, he said, because students usually tell professors if they are having issues.
+
+
+Services like Honorlock help ensure academic integrity since, according to DeLuca, there is research that indicates academic misconduct in online courses is rising. She said having quality online courses and equitable experiences across all class modalities is very important.
+
+
+“We have invested in Honorlock to provide a secure and equitable learning environment for students, making sure that students taking an online course do not have an unfair advantage over their peers taking a face-to-face course,” DeLuca said. “As always, we want to provide our students with the highest level of academic quality regardless of the modality.”

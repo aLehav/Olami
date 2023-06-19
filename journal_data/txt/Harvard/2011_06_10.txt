@@ -1,0 +1,6 @@
+Sections
+Waiting for the MBTA bus just got easier.
+Google Maps has teamed up with public transit agencies in Boston and five other cities to provide live transit data with departure times and alerts, according to the Official Google Blog.
+The information is available on all Google Maps supported browsers on desktops and mobile devices as well as the Google Maps application for Android phones. Just click or tap a bus transit station to see when the next bus will arrive based on live data.
+The real-time predictions will also be available for San Diego, San Francisco, Portland, Madrid, and Turin. MBTA subway and commuter rail predictions on Google Maps are next, The Boston Globe reported, though a target date has not yet been announced.
+Hopefully the wait won't be too long.

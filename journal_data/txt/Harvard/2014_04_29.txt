@@ -1,0 +1,778 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+Why do period novels attract such poor writers? The period piece has an inherent gimmick, a novelty to attract the reader, and so if such a work fails on the level of art, it can at least succeed on the level of spectacle. If a writer is aware of the fact that he cannot transcend spectacle, he or she may at least devote himself to it without distraction and so produce a work of significant entertainment value. It is when such a writer essays forth to say Deep Things About the Universe that serious problems arise; such is the case in Francine Prose’s “Lovers at the Chameleon Club, Paris 1932.”
+ Prose has written her novel around the Bohemian scene of pre-war Paris, particularly on the figure of Louisianne “Lou” Villars, a transvestite singer and athlete who becomes a spy for the Germans in World War II. Although one mark of the mediocre historical fiction author is a penchant for characters with absurdly diverse skills and talents, Prose has actually based her character off a historical figure: Violette Morris, who discovered and relayed the plans of the Maginot Line to the Nazis. In her introduction, Prose dwells on the fascinating aspects of this person, a reflection that raises the question of why Prose is not satisfied with writing a biography of Morris. She nevertheless dismisses this possibility and presumes to improve on history, stating, “I soon decided that I would have more liberty, and that I and my readers would have a lot more fun, if I wrote [Morris’s life] as a novel.”
+ This decision, although questionable, could have been vindicated in execution, especially in the structuring of the novel. However, Prose does not seem to have the capacities to deliver on her promise of fun. She embraces one of the most precious and hackneyed devices in literature, the nonlinear narrative. The story is dripped to the reader in poorly strung-together lumps, variously from sources contemporary with Villars/Morris—for example, letters written by the fictional Hungarian photographer Gabor Tsenyi—and from different faux-memoirs and biographies written after her death. Prose’s use of this device is unsuccessful. Other novels that showcase it effectively, the classic example being Stoker’s “Dracula,” do so by ensuring the clarity of temporal and thematic links between individual “sources.”
+ The intolerably pretentious scope of Prose’s ambitions especially aggravate this structural weakness. In addition to the stereotypical exploration of gender issues one would expect from a book about a transvestite written for a middle-brow bourgeois audience, she claims to write truths about human nature. In her introduction, Prose states, “I started off writing about a woman in a tuxedo and wound up writing about art, love, evil, money, auto racing, espionage, insomnia, seduction, and betrayal—and the way that history changes, depending on who tells it.” In one place in the book proper, one of Villars’s/Morris’s biographers states, “Without claiming too much for my little book, I will only say that I have tried to make my humble contribution to the literature of the mystery of evil.” This sentence is without the clear context that would cast this as irony; the reader is led to believe that Prose takes the claim seriously and at face-value, that her character is actually saying something profound—an inexcusable bit of embedded self-flattery. As are shallow appeals to cultural and moral relativism: in her introduction, Prose states that “each person has his or her version of the truth in the bright and glorious days of Paris in the ’20s, the theatrical spectacle and intrigue of Berlin in the ’30s, and the darker era that began when those two worlds came together.” 
+ This sort of silliness might be forgivable if Prose could summon up a style that would rise to the standard set by her name. Unfortunately, the overwrought oozing that is the signature of the popular fiction of this era, and which will certainly earn this literary generation a reputation for the rankest sort of decadence in the eyes of posterity, permeates practically every sentence of the book. One of Villars’s/Morris’s biographers, after reading about her betrayal of France to the Nazis, describes her reaction in true soap-opera fashion: “I shivered, just as I used to in my great-aunt’s apartment. The chill lowered my defenses, and I caught a fever. A fever to understand. And so was planted the mutant seed that has grown into [the biography] ‘The Devil Drives,’ my message in a bottle.” The reader will note that, like most of the book, these lines become infinitely more bearable when read in the voice of Christopher Walken, which is a special sort of indictment.
+ In short, “Lovers at the Chameleon Club, Paris 1932” is memorable only as an exemplar of the particular aesthetic badness that plagues so many novels produced today, even by decorated and commercially successful writers. In spite of her awards and the comic coincidence of her name, Prose cannot progress beyond the blandeur in which she becomes entrapped.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+Amidst a desolate landscape, a man crouches low to the ground on his hands and knees. His back is turned but his face is probably filled with shock and awe. Against the perfectly flat horizon line, a mountain transforms from slopes into steep, angular pillars in a matter of seconds. The man is perfectly still as he watches the stunning transformation before him rapidly repeat from beginning to end. 
+ 
+This hypnotic repetition shows no signs of stopping, but with a few clicks, the man and the mountain disappear. The scene is actually an animated Graphics Interchange Format (better known as GIF) entitled “Day 4: Hallucination” by illustrator Clay Rodery.
+
+
+ 
+Rodery’s creation represents a unique development in the file format: original GIF art. Most GIFs I have previously encountered are extractions from pop culture, television, or movies. Thanks to websites like BuzzFeed and Tumblr, I’ve enjoyed GIFs of grumpy cats that resemble me on a Monday morning and embedded cartoon GIFs in emails in order to grab people’s attention. 
+ 
+The popularity of these mainstream GIFs lies in their universal recognition and their user-friendly status. Original GIF art does not have the benefit of familiarity but instead illustrates the merits of GIFs as a medium, such as the allure of motion. “It’s that much closer to walking around with the rest of us, you know,” Rodery says of his animated GIFs. “When you see something that you’ve made that actually does have even a little twitch, you instantly become aware of the possibilities within it to do other stuff; you become aware of the emotional potential it has not just for you but for other people.”
+ 
+The emotional potential of GIFs is not solely dependent on artistic intent but is also engendered by the technical aspects of the file format. The same seemingly banal characteristics that contributed to the GIF’s recent rise in popularity—such as continuous looping, brevity, and lack of sound—are also responsible for the file format’s artistic merits. 
+ 
+GIFS AS ART 
+ 
+“I used to think of GIFs as those annoying things that are usually attached to a website, and they [bumped] back and forth and did silly things,” artist Ken Brown says. Brown’s initial opinion makes sense given the genesis of the 27-year-old file format. One of the first image formats to be compatible with all browsers and to feature color and looped animation, the GIF became popular in the early ’90s. Consequently, the internet became oversaturated with cheesy images such as waving American flags and opening and closing mailboxes.
+ 
+Since that awkward phase, the GIF has experienced a renaissance. Brown, whose work in film, photography, cartoons, and design spans over 30 years, is a recent convert to GIF art. He learned how to make them only four months ago from his daughter, and has since made nearly 30 of them. “When I started making them, I came to realize this is essentially a very short animation,” Brown says. “The flourishing I’ve had with making GIFs has reintroduced me to basic animation because it’s essentially frame by frame construction.”
+ 
+For illustrator James Kerr, who has been making them for two years, GIFs were his first foray into animation. After learning how to make short animated videos using Photoshop, a friend recommended that he turn them into animated GIFs in order to avoid pressing play. “I gave it a shot, and I fell in love with it almost immediately,” Kerr says. 
+ 
+Though Kerr creates high-end GIFs featuring intricate animations, he acknowledges that one of the draws of the GIF form is the ease of creation. Video capture apps and other developments have made GIFs fairly easy to make and facilitated the proliferation of viral internet content.
+“The GIFs that are out there for the most part [and that] most people see are Justin Bieber GIFs or GIFs from Harry Potter or cats,” Kerr says. “I think now people are more creative with it, more expressive with it, creating GIFs that are truly original pieces.”
+ 
+Inventive GIFs such as Kerr’s blur the boundaries between the file format and traditional artistic media. Kerr’s work, which is showcased on his Tumblr, “Scorpion Dagger,” consists of digital collages made mostly from northern Renaissance and early Italian Renaissance paintings. But in spite of their motionless roots, these digital collages tell stories. One of Kerr’s GIFs features two horrified little girls looking at their drunk father, who lies under the Christmas tree, surrounded by beer bottles. All the figures are extracted from paintings; the father is from “The Last Judgment,” a triptych by German painter Hans Memling. “In that scene, he is very tortured,” Kerr says. “I thought it would be funny to throw him under the tree and make him a bad, drunk dad, and that was the reason he was being tortured.” The reference adds a layer of meaning to the collage, but it is Kerr’s carefully timed motion that gives the GIF a semblance of a narrative arc. The girls’ grief-stricken faces quiver to accentuate their horror. The Christmas lights on the tree flicker occasionally like a visual punch line. 
+ 
+By virtue of their shared file format, works like Kerr’s technically have more in common with clips of SpongeBob SquarePants dancing than they do with traditional collages or stories. But original GIFs expose how the medium lies at the intersection of multiple artistic media, from a philosophical standpoint if not from a technical one. “Essentially they are like visual haikus,” Brown says. “I think the word ‘semi-poem’ is accurate because you can make a whole mini concept in a short piece.”
+ 
+SHORT AND SWEET 
+ 
+Though the brevity of GIFs allows the file format to occupy a unique place on the art form spectrum, their short duration also gives them a reputation for being easily digestible. “I think GIFs fit the national attention span of probably about eight seconds,” Brown says. “Maybe 10 max.” Brown wittily refers to some of his creations as “Giffy-Pop,” a spin-off the stovetop popcorn product with a homophonic name. This comparison of the file format to the snack item speaks to the widely held opinion that GIFs are a fleeting form of entertainment and not an art form to be taken seriously.
+But for GIF artist Andrew Fandango, who showcases his work on a Tumblr entitled “illustrography,” the immediacy of GIFs is part of the appeal. According to Fandango, GIFs are technologically optimized for quick consumption. This is especially true on Tumblr. Since the platform has a one megabyte file limit, GIFs are able to load quickly, and each GIF is 500 pixels wide—small enough to be viewed on a mobile phone. “It’s very, very immediate,” Fandango says. “It doesn’t waste too much of people’s time.” The convenience of GIFs allows the files to rapidly reach wide audiences but also raises questions about the art form catering to the ADHD mindset, as well as the ability of the art form to sustain a viewer’s attention.
+Dennis Hlynsky, head of the Rhode Island School of Design’s film, animation, and video program, believes that while the GIF may be a condensed form of expression, it is able to prompt reflections that lasts longer than the actual sequence of frames. “If it were short attention spans, you would look at it and look away,” he says. “I think sometimes people do that, but there are interesting GIFs and uninteresting GIFs…. I think it actually takes a longer period of time to just sit and understand what the moment is.”
+Hlynsky’s words underscore what is perhaps the most striking ability of the brief medium: the ability to put a moment under a microscope.
+THE GIF THAT KEEPS ON GIVING
+ 
+The looping nature of GIFs not only allows for an automatic viewing experience but also for a contemplative one. “Repetition is a way of amplifying something,” Hlynsky says. “A lot of times things go past us, and we think we know what’s happening in our minds because we have preconceptions, but when you repeat it over and over again, that repetition reveals details. And as you reveal more and more details, you begin to be able to study the gesture in depth.” 
+ 
+Hlynsky’s words provide an apt description of what it is like to view the GIF art of creative director and artist Christina Rinaldi, who in 2014 won the first-ever Motion Photography Prize, awarded by Google+ and London’s Saatchi Gallery. Rinaldi’s prize-winning GIF features a New York City window washer rapidly cleaning a window. According to Rinaldi, the GIF captures the vibrancy of the washer’s movements in a way that a still photograph cannot. “When you shoot in photography, you are trying to capture one specific moment,” Rinaldi says. “I feel like what he was doing, it was so much more important to capture a series of moments. The still image wouldn’t have as much of an impact as the rhythm in showcasing how quickly he was working.” Indeed, the washer in Rinaldi’s GIF wipes so quickly that it takes several repetitions to fully appreciate the intricacy of the suds on the window before they vanish in a matter of seconds.
+ 
+Though Rinaldi’s motion photography and Kerr’s irreverent digital collages both fall under the category of GIF, they are united on a more nuanced level by their focus on gestures whose demand for contemplation outstrips their duration. For Hlynsky it is this concern, and not the file format of the GIF, that makes the form worthy of artistic consideration. “The file format isn’t the art form,” Hlynsky says. “The art form is finding that slice of time, a moment, in locating a moment that has meaning.”
+ 
+The moment and its meaning is up to the GIF’s creator. Visual artist Kayla A. Escobedo ’13 (who goes by Kayla E. professionally) examines the tension between the infinitely looping nature of GIFs, and the brief actions depicted in the GIFs she creates. “One of the things that originally drew me to GIFs was the loop. The idea that this medium is designed to repeat endlessly, forever, is something that seems to be in dialogue with the cyclic nature of everything—specifically pointless, arbitrary things that manage to become the center of our focus and routines,” Escobedo writes in an email. “A spectacle such as a joke or reference (the most popular subject of GIFs) is repeated over and over within culture because it delivers some sort of gratification for the viewer that makes them feel connected to this culture.”
+BIT-SIZED EMPATHY
+ 
+Escobedo’s comment on cultural connectedness underscores another tension at the heart of GIFs. Even though the GIF is a visual language that consists of gestures, the interaction seems to take place between a viewer and a screen. This raises questions about how GIFs might contribute to the social isolation that some believe modern technology can produce.
+ 
+But the work being done at the MIT Media Lab suggests that it would be a mistake to dismiss GIFs as incapable of soliciting a valid emotional response. At this lab, MIT graduate students Travis Rich and Kevin Hu aim to map the emotional language of GIFs. Hu and Rich have created a website called GIFGIF, which presents a user with two GIFs and asks which GIF better expresses one of 17 emotions, including pleasure, disgust or surprise. “The emotive content of GIFs is very powerful, and people in our age group use them a lot, but they haven’t been approached scientifically,” says Hu, a first-year graduate student in the Media Arts and Science program. In Hu’s opinion, empathy is an essential component of the GIF’s unmeasured emotional potential. “How do we know that GIFs are an empathetic medium? Partially because people wouldn’t use [them] if they weren’t,” Hu says.
+ 
+Rich, also a first-year doctoral student at the Media Arts and Sciences Program, concurs with his colleague about the potential of GIFs to bring empathy to the internet. “GIFs are great for that because there are sites like ‘What Should We Call Me?,’ which let you realize, ‘Oh there is another human who at some point felt this way,’” Rich says. 
+ 
+The pair’s first goal is to create a text-to-GIF translator using their data, but their work already shows signs of promise with regard to exposing the potential of GIFs to tap into fundamental human emotions. One of their latest projects, MirrorMirror, created in collaboration with MIT Media Lab researcher Sophia Brueckner, is an expression-to-GIF translator that uses data from GIFGIF and a facial-feature-tracking library to analyze people’s facial expressions and respond with a GIF that imitates them.
+Hu and Rich let me play with the aptly named MirrorMirror. The desktop screen is mirrored so that until I make my first facial expression in front of the web camera, all I can see is my own reflection. I decide to make a surprised expression and find myself face to face with Cookie Monster, who has just been surprised with a giant chocolate chip cookie. I laugh, and MirrorMirror responds with a laughing cartoon character from its database. “If you tilt your face down it will think you’re angrier,” Rich tells me. But all I can do is laugh at my animated reflections.
+ 
+Perhaps to an outsider this would resemble a haphazard, piecemeal exchange between a human and a screen. It certainly doesn’t resemble how audiences used to interact with their media and each other. “There was a feeling during the ’60s and ’70s before cable hit that…when you were watching television in your own home, what you were watching was being seen by millions and millions of people at the same time,” Hlynsky says. “You could look out the window, and your neighbor’s window was flickering at the same frequency as the light in your living room. That doesn’t happen anymore.” 
+ 
+But projects like MirrorMirror and GIFGIFs seem poised to magnify the power of the file format to simulate real human connection. Hu and Rich have found through color analysis that most of the GIFs at the top of the emotional categories are brown and pink in tone––in other words, flesh-colored. “The guess and hypothesis that we made from that was that the reason that the ones towards the top are more human is because humans more easily relate to another human in that GIF,” Rich says. “Whether it’s egotistical or not, we are wired to like ourselves and things that remind us of our species.”
+Additionally, the way that GIFs portray gestures makes them inherently social. Most GIF artists say that their GIF art leads to unique exchanges with their audience. “There’s a little bread crumb trail with Tumblr and with GIFs so you can actually see who’s seeing it and see who’s liking it and appreciate it,” Fandango says.
+ 
+For Brown, who has spent years making and producing graphic products, GIFs have provided a novel platform for sharing his artistic experiments with others. “I don’t know what to do with them except share them with friends,” Brown says. “I spent years [in] a business making and producing graphic products, and I can't figure out how you sell something that’s basically free once you put it on the internet.”
+But Brown has another idea that will put his GIFs on a screen that is at once more and less private––one that seems to cast him as a traveling artist for the technological age, broadcasting a new and valid art form to the public. “I thought of taking a wagon around downtown New York with a generator and a projector and just showing them on walls.”
+—Staff writer Hayley C. Cuccinello can be reached at hayley.cuccinello@thecrimson.com.
+ 
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+Ever since the first missionaries set sail from home, Westerners have been obsessed with observing, civilizing, and writing about the “natives” they encounter. We all know the story in its modern form. White boy goes to Africa, films the lives of locals, and returns home to tell his story. His documentary goes viral online, telling the story of desperate need and issuing a cry to viewers for salvation. But in the process, films like his blur the relationship between observation and activism. From positions of power and privilege, how do we engage with the people of developing nations without falling into the cliché of the Western savior? In her documentary “The Al-Hadji and His Wives,” Harvard professor Jie Li attempts to do just this. I picked up the DVD on a whim last weekend, popped it in the computer, and munched on dhall pretzels as Li’s camera turned me unwittingly from a spectator into an armchair anthropologist, from an observer into an activist, and back again.
+Her film captures the life of a Mbororo Fulani family in Cameroon. As the camera pans around the family compound, we get to see polygamy as a normal part of everyday life. The Al-Hadji is a cattle-herder and has three wives, each of whom lives in her own house, takes turns cooking meals, and owns her own cattle. As I watch, I find myself suspending my own sense of right and wrong, trying to inhabit instead this new moral system, one in which a woman can be both a property owner and owned as property.
+ 
+The film soon introduces us to the Al-Hadji’s daughter, Amina. She’s quiet and stands straight, with long hands like cornstalks. We learn that she doesn’t like her fiancé, but before the plot can move forward, the camera wanders through other snippets of everyday life. A colorful cloth is wound around a head, a baby crawls towards a bowl of water, a woman tends to her cows.
+ 
+One year later, Li returns to the village to find that Amina has been married off and that she has tried—and failed—to escape after being beaten by her husband. When she sought shelter back home, her father gave her another beating and carried her back to her husband’s village. The whole episode is recounted by the Al-Hadji and his first wife. Young people are too free these days, they tell us. The Al-Hadji gives a shrug, with a gentle chuckle that could have come from any father concerned for his daughter. But this time, the activist in me isn’t so ready to embrace my earlier stance as an armchair anthropologist. Instead, my first instinct is to search for ways to save Amina from her plight. 
+ 
+When Li goes to visit Amina, she slips her the crucial question: “Are you happy here?” Amina doesn’t give us a straight answer, but the camera does. We see her long cornstalk hands grasping at the colorful cloth of her dress, but nothing more is said. We cut to the threshold, where two drops of rain have fallen and are quickly being absorbed by the dust. The camera wanders and we find ourselves outside, where a sheep’s throat is being cut by a long knife.
+As I watch, the activist and the anthropologist inside me are at war, and I can’t reconcile them just by swallowing another dhall pretzel and ejecting the DVD. Li’s film has been criticized for failing to show how Amina could have resisted the patriarchy. According to one reviewer, we expect a narrative of female empowerment, and we are left woefully betrayed. In Amina’s world, there is no campaigning, no fundraising, no humanitarian intervention.
+ 
+Just as Amina carries on with the routine of her daily life, the only thing we can cling to are the images that Li has wrought for us. Amina’s pregnant silence is like the silence of the heroine in Chen Kaige’s 1984 film, “Yellow Earth,” about a young Chinese peasant who is forced into an unwanted marriage. The sheep’s slaughter is not only loaded with religious allegory, but is also a reference to Zhang Yimou’s 1987 epic, “Red Sorghum,” in which the flaying of an ox is used as a stand-in for the actual flaying of humans during the Japanese occupation. As a Chinese cinephile, Li is of course aware of all of these references and their powerful implications.
+ 
+But what troubles me is precisely this. “The Al-Hadji and His Wives” has the cinematic qualities of “Yellow Earth” and “Red Sorghum,” but it’s a documentary. Because I’m an observer and nothing more, I’m complicit in the acts of violence done to Amina. As a viewer, I’m tempted to play the part of the slum tourist, the white boy in Africa, the Western savior. However, Li has denied me the chance to swoop in and save lives. I am made to feel empathy, but I am also made to feel helpless.
+In its own, quietly devastating way, Jie Li’s film is a response to the mission of female empowerment that has spawned endless orphanages, microloan schemes, and English-teaching programs abroad. I’m reminded of a tweet from the Nigerian-American author Teju Cole, writing on the hypocrisy of KONY 2012: “The banality of evil transmutes into the banality of sentimentality. The world is nothing but a problem to be solved by enthusiasm.” Li puts us in that uncomfortable space between anthropologist and activist, but she doesn’t let us channel our empathy into the industry of becoming a savior. Her film is honest about our role in the third world in ways that promotional videos are often not. As the closing credits roll by, I’m left with no easy way out. There’s no call to action, no donation box to ease my guilt. All I can do is eat another pretzel, eject the DVD, and look out the window. Two drops of rain have fallen and are quickly being absorbed by the dust.
+ 
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+In his recent essay “When the People Cheer: How Hip-Hop Failed Black America,” Questlove, famed drummer of The Roots, declares that “hip-hop has taken over black music.” But hip-hop has taken over not only black music; it has also fundamentally taken over mainstream American music. 
+ 
+This may sound like a grand accomplishment, particularly for a genre of music and a culture that has been significantly oppressed. However, Questlove is skeptical of hip-hop’s mainstream success. His article addresses several of his main concerns with hip-hop’s prominence in society, primarily, his belief that hip-hop has become so popular that its omnipresence is actually a threat to its existence. 
+ 
+While many may argue that the rise of hip-hop is a major triumph, Questlove worries that by becoming so pervasive, the genre has, to a certain degree, become “invisible.” Instead of serving as “resistance to mainstream culture,” he believes hip-hop is now “part of the sullen dominant.” Questlove further laments that nowadays hip-hop is not as much a form of protest art; it has been marginalized, and its themes have been narrowed into ideas “mostly about [artists’] own victories and the victory of their genre.” Countless critics have made this same complaint—that hip-hop music is largely dedicated to lyrics about women, money, and fame.
+Questlove’s criticisms are justifiable As someone who has had a prominent role in hip-hop music for decades, he has seen it go from rebellious and angsty to mainstream and at times bland. He has witnessed everything from Tupac, Rakim, and Biggie Smalls to Future, Rick Ross, and 2 Chainz and dealt with the frustration that accompanies such major changes and commercialization. 
+Though the popularization of hip-hop and its surrounding culture has, in some respects, commercialized the genre to the extent that many noted figures like Questlove worry for its future, its mainstream success after decades of struggle is ultimately an incredible feat with many positive outcomes. Hip-hop is here to stay, and because of its vast influence, it is very important to understand and acknowledge why its rise is beneficial rather than detrimental.
+Primarily, the widespread acceptance of hip-hop and its culture is important because it represents mainstream America finally accepting the most prominent form of black music. This is no small feat. As discussed in my last column, artists like Michael Jackson had to fight for years to get their music videos played on MTV. However hip-hop has slowly chewed away at discrimination and oppression over the past few decades and afforded many black artists opportunities they would not otherwise have had. In recent years, hip-hop artists like Drake, Kanye West, and Jay-Z have dominated mainstream music culture, not only becoming some of the best selling-artists of our generation but also heavily influencing the music of many other mainstream musicians. Of course, mainstream music is certainly not color-blind, but widespread acceptance of hip-hop is undoubtedly a step in the right direction.
+Hip-hop’s prominence not only reflects a more diversified mainstream; by embracing its role in popular music culture, hip-hop has also widened its own core messages and ideas. Criticisms about the content of current hip-hop music ignore the large collection of talented and thought-provoking artists. One would not have to go far beyond the lyrics of Kendrick Lamar’s “Good Kid, m.A.A.d City” or Kanye West’s “Yeezus” to hear the messages of protest declared absent in mainstream music. Furthermore, with its popularization leading to its inclusion of all sorts of artists, hip-hop promotes a whole new variety of social causes—those supporting gay marriage and fighting mass incarceration, for example. That’s not to say that gone from hip-hop are lyrics objectifying women or praising fame. But by virtue of a larger audience, hip-hop’s popularity has afforded the genre many new messages and themes.
+Though Questlove’s concerns for the future direction of hip-hop are valid and understandable, hip-hop’s strong presence in mainstream music culture is ultimately beneficial. On the one hand, it reflects the genre’s widespread success and the newfound diversity of popular music. But on a deeper level, hip-hop’s need to please a greater crowd has opened the genre to an enormous collection of new sounds and messages. Ultimately, hip-hop’s omnipresence points to its culture’s bright future.
+
+
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+THUD (The Harvard Undergraduate Drummers) recently rang in its 15th year on campus with “THUD Island,” the organization’s spring performance. On April 25, more than 200 people flocked to Lowell Lecture Hall to watch the group of talented student performers produce music with an eclectic range of percussive instruments.
+  The group is modeled after STOMP, a percussion group from the UK that gained popularity in the United States in the early ’90s as a result of its innovative use of everyday objects as percussive instruments. High-energy performances are integral to the THUD experience, and the group strives to spread appreciation for their style of music. “We draw a lot of inspiration from groups like STOMP and Blue Man Group,” THUD director Caitlin E. Andrews ’16 says. “What's great about THUD is that it brings percussion to the forefront. In a lot of other groups, we would be stuck in the back row, in a more supporting role. In THUD, our goal is to share our enthusiasm for percussion with everyone on campus and in the community.” 
+This focus on different sources of sound often draws new recruits to the group. “THUD is unique in the sense that none of us had played on stools or buckets or with cups before we joined the group, so it's new territory for almost all of us,” assistant director Dylan A. Munro ’16 says. “The different musical talents we bring to the table influence the direction that each piece takes on.” THUD’s unique approach to percussion allows the group to explore different themes for its shows every year.
+  This year’s production, “THUD Island,” featured music closely tied to the group’s experiences on a “deserted” island. In the production, the group crashes on an island and must navigate back to Harvard’s campus for their show, only to find out that they were in the Quad all along. “We came up with pieces that fit into our plot, including a hunting piece with wooden poles, a fire-building piece using boomwhackers, as well as adaptations of some of our classic pieces,” Andrews says. “It was definitely a challenge, but we were really excited by the audience's response to having a more plot-driven show, so we're hoping to continue that in the future.”
+
+
+“THUD Island” represented a departure from the group’s past shows. “Traditionally, we try and make the pieces all fit a general theme and write transitions that also have to do with the theme, but I don't think we've ever had a show with a real linear storyline the way ‘THUD Island’ did,” Munro says. “That isn't to say that we focused less on the music…. We spent a lot of time on the pieces themselves…but it added a whole new element to the creative process when we had the framework of the story to fit each piece into.” Different as this year’s show may have been, the group’s signature focus on its diverse line of percussive elements has stayed the same.
+  THUD plans to keep formulating more plot-driven shows, but will also continue to showcase the unique talents of its members. “Though our members laugh every time I say it, we also just so happen to be the best cups players on the planet. It's not funny because it's a joke; it's funny because it's true,” THUD member Alex E. Amis ’15 says. “Nobody in the world can make music with plastic cups as well as THUD can as an ensemble or as well as THUD members can as individuals. And I think that is something that we take great pride in.”
+The individuals in THUD bring their love of percussion and imaginative energy to the group—skills and passions which allow THUD to continue to push the boundaries of musical performance. “We want to continue…using the stage in new ways, making as many corny jokes as possible, and hitting anything and everything that will make a cool noise,” Munro says. “I think that THUD is really hitting its stride…. We'll still be THUD-ing for years to come.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+Kieran Hebden, known as Four Tet, has recently released a few singles from two split 12” records under his alias Percussions, including “KHLHI (TEXT029).” The single is more evocative of a crowded disco than a casual encounter, which is not to say that “KHLHI” lacks heat, but the deep bass and strong synth are more relaxed than risqué. Consistent with this vibe, one of the song’s highlights is an incredibly lush vocal loop from ’70s singer Syreeta Wright’s “Keep Him Like He Is.” 
+ 
+“KHLHI” is less modern than its arcane title would suggest; its futuristic feel is created through brief snatches of vocals and electronic notes that imitate glitches. Fortunately, these sounds are carefully orchestrated to mesh with the percussion and build a delicious level of tension until the first vocal loop brings a much-desired release more than two minutes into the song. The loop uses one line from Wright’s song, layering Wright’s supple vocals over themselves. “Percussions” only provides a few glimpses of “Keep Him Like He Is,” teasing less than a minute of vocals over the five-and-a-half-minute song. The sample agonizingly fades in like another technological glitch—a radio with a temperamental dial—and often ends without any warning. Perhaps using more of Wright’s dulcet vocals would sound overdone, but the first tastefully placed vocal loop leaves you wanting more. Though the percussion and futuristic flourishes of “KHLHI” are lively enough for house music, the brief moments of soulful sensuality eclipse the single’s modern style.
+—Staff writer Hayley C. Cuccinello can be reached at hayley.cuccinello@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+After singing as the frontman of the legendary Britpop band Blur; being the musical powerhouse behind the best-selling virtual band on record, Gorillaz; working on a smattering of other side projects, including two operas; and reviving Rock and Roll Hall of Famer Bobby Womack’s career; apparently the time has finally come for Damon Albarn to work on a solo album. While some of the sounds on the record are very clearly evocative of his previous work, Albarn’s “Everyday Robots” does not shy away from innovation either, at times unprecedentedly playful, but also demonstrating a commitment to delve into the untouched corners of Albarn’s past.
+Most of the referential tracks take aural cues from Gorillaz specifically. In “Photographs (You Are Taking Now),” there is a faintly grungy electronic break that screams “Plastic Beach.” The two instrumental interludes have enough atmospheric peculiarities and oddly deliberate piano part to easily find a home amongst some of Gorillaz’s B-Sides material. The epitome of these allusions to the past is “Hollow Ponds,” which is a slowly delivered account of Albarn’s life, complete with the years of some of the events. However, not all of the tracks fit this mold. The song “Mr. Tembo” unambiguously breaks away from any precedents. Its composition and instrumentation clearly have African influences, but unlike Albarn’s previous African collaboration albums, the track stays lighthearted as the story of a baby elephant is recounted over chirpy guitar notes and other quirky embellishments.
+The album is dominated by Albarn’s contemplative and downtrodden vocals. This affect has, in the post-Blur era, become part of his signature; however, because of less assertive instrumentals compared to his previous work, the gloom in Albarn’s voice has never been more clearly articulated. Most of the tracks opt for a refined combination of piano, strings, acoustic guitar, and light percussion. The real success of the instrumentation comes from the cleanly composed subtleties, like the violin’s eerie chromaticism in the title track and the triplets played by a bass drum in “Photographs (You Are Taking Now).”
+Albarn’s finesse is perhaps best exemplified in “You and Me,” which is actually a song about “you” and a song about “me” bridged together by an awkwardly chipper steel drum. The first half earnestly focuses on a dysfunctional relationship, during which Albarn makes use of “tin foil and a lighter.” At points, distraught vocals replace his typically pensive vibe. Albarn’s true genius shines through in the second, “me” half, where he is decidedly less discouraged. The unexpectedly compelling chorus features Albarn singing “You can blame me, blame me, blame me, blame me. / When twilight comes, all goes ’round again” in falsetto, asserting the song’s change of stance from experiential to existential.
+“Everyday Robots,” however—much like Gorillaz’s “Demon Days”—ends on a markedly inspiring note despite the despondence that prevails elsewhere in the album. “Heavy Seas of Love,” which features vocalist Brian Eno and the Leytonstone Mission Choir, is a jubilant declaration of triumph, even if who is triumphing in what is not necessarily clear. The verses make use of Eno’s deep, rich voice as he comforts with lyrics like “When the world is too tall. / You can jump. You won’t fall. / You’re in safe hands.” On the other hand, the chorus showcases the sunny voices of the choir alongside Albarn’s own uncharacteristically upbeat vocals. The track actually benefits from the imperfections that occur when Albarn’s vocals are blended with the choir’s, which amplify the raw joy that is communicated and make the track more welcoming.
+At this point in his career, Damon Albarn knows his way around a studio, and it is very clear that he delivered his vision and conveyed emotion in a very precise and expertly crafted manner. As his first solo album, there is not much more that could have been expected from “Everyday Robots.” Though it may previously have been muddled by his tendency to collaborate, Albarn’s aesthetic is now lucid, rooted in years of success and innovation. Of course, don’t become too attached to the sound. If Albarn’s career is any indication of the future, we’ll be hearing about a wildly different project any day now.
+—Staff writer Ahmee Marshall-Christensen can be reached at ahmee.marshall-christensen@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The atomic bomb has long been a source of American fascination and horror. But what happens when the bomb shelter is more terrifying than the bomb itself? “Daisy,” a new play written by Simon A. de Carvalho ’14 and directed by Max R. McGillivray ’16, explores this question in the claustrophobic confines of the Loeb Ex from April 30 to May 3.
+“Daisy” tells the story of Lyndon (Bryan D. Kauder ’14), Barry (Eli K. Rivas ‘16), and the titular character, named Daisy (Maya M. Park ’16), who are hiding out in a bomb shelter as an apocalyptic war rages above them. Although the shelter is supposed to be the ultimate safe space, their tiny, enclosed world soon disintegrates into lies, paranoia, and violence. Before long, the relationships between the characters break down completely, and Daisy yearns to return to the sunlit world no matter what dangers lie outside. “It’s a study about the power that fear has over people,” de Carvalho says. “The fear of the bomb can make the bomb real.”
+The play takes its inspiration from an infamous 1964 attack ad by President Lyndon B. Johnson against opposing candidate, senator Barry Goldwater. In the ad, Johnson uses images of a little girl counting the petals of a daisy and then a quick cut to a mushroom cloud to insinuate that Goldwater will wreak nuclear destruction on the world. The play borrows the names from this event––Lyndon, Barry, and Daisy––and tries to capture a similar sense of fear, chaos, and antagonism.
+To convey these themes, McGillivray and set designer Daniel J. Prosky ’16 shrank the Loeb Ex even smaller than it usually is, turning it into a cross between a bunker and a greenhouse. The audience sits along both walls of the space while the action of the play occurs between them: the result is a nerve-wracking claustrophobia that is experienced by everyone in the room. “It’s an enclosed space where it’s hard to have a sense of what’s real and what’s not,” Park says. “These characters go through pretty wild, intense journeys, but there are parts of this play that we all go through: feeling trapped, confused, unable to know who to trust.”
+And while the play addresses fear on a very personal level, it still keeps the larger picture in mind. “What does it mean to be in an age where pressing a button can do a lot of damage?” McGillivray says. “Hopefully, the audience leaves with this question in mind.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+If you are still outraged over last weekend’s controversial “Game of Thrones” rape scene, “The Other Woman” could offer some much-needed catharsis. Nikolaj Coster-Waldau trades in armor for a business suit as Mark King, a cheater whose wronged women band together to teach him a lesson. If you have ever wanted to see Jaime Lannister have explosive diarrhea on screen, you are in luck. Yet there is something amiss with a comedy film where extended bathroom humor is, by far, the funniest scene. In Nick Cassavetes’s no-holds-barred battle of the sexes, a deeply unfunny script full of scenes that go on long after any traces of comedy have expired is the unfortunate undoing of a film that also includes unexpectedly outrageous physical humor.
+
+
+ 
+The unfortunate thing is that the film’s premise has potential. Lawyer Carly (Cameron Diaz) meets wife Kate (Leslie Mann), and when they realizes their lover is one and the same, they set out to dismantle his life by any means necessary, from estrogen supplements to financial ruin. Their discovery of third girlfriend Amber (Kate Upton) adds fuel to their fire, and the three women join forces instead of turning on one another, though their alliance doesn’t come without its share of jealousy. It all reads a bit like a grown-up “Mean Girls” or “John Tucker Must Die,” with a good deal more hangovers and graphic body humor.
+ 
+“We’re not in competition,” Carly emphasizes. “We got played by the same guy.” Sometimes, in moments like these, the film works. Writer Melissa Stack manages to get in a few good one-liners. “Does this mean he’s not training for the marathon?” Kate asks Carly, crushed when she learns that Carly and Mark have been dating for months and, more importantly, have had sex 50 times. When Kate tells Carly not to hit on her hot brother, Carly counters, “He’s your brother. What are you going to do with him?” And Kate Upton is not bad at all in her turn as Mark’s naïve plaything: “I really thought we were soulmates,” Amber says upon learning about her boyfriend’s infidelity.
+ 
+The problem is that every scene lasts several minutes longer than it should. It is hard to tell how much the actors improvised versus how truly humorless the script is. Either way, the film begs for extensive editing. Carly spends frame after frame trying to shove a drunk Kate into a car, an unnecessary exchange about feng shui refuses to end, and an entire song plays as the three women sit together on the beach one early morning. At times the film seems a parody of itself, but earnest clichés and reliance on genre conventions prove that it is not. “The Other Woman” showcases the lives of spoiled, rich, white women whose petty worries reveal their narrow worldview. At one point in the movie, Kate throws her undoubtedly expensive wedding ring in the ocean, a supposedly poignant moment that underscores how out of touch with reality this entire film is.
+ 
+What, then, to make of the unexpected and visceral body humor in a film that otherwise hews closely to convention? Mann pees and vomits on screen, while Coster-Waldau’s lot includes not only the aforementioned diarrhea scene, but also the mother of all finales, where he gets punched repeatedly in the face and walks through multiple glass walls. Rarely has this much blood been spilt in the dénouement of a lighthearted comedy. In that respect, at least, “The Other Woman” surprises its viewers. If only these moments of cringe-worthy and visceral revenge humor weren’t trapped between 100 minutes of a decidedly unfunny film, “The Other Woman” could have provided an empowering and original look at getting even.
+—Staff writer Leanna B. Ehrlich can be reached at leanna.ehrlich@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+At last released after 12 years in prison, Dom Hemingway (Jude Law), a master safecracker, sets out to collect the reward he feels owed by underworld colleague Mr. Fontaine (Demian Bichir), as Hemingway’s sentence would have been a mere three years long if he had ratted out Fontaine. Indeed, when Dom and longtime pal Dickie (Richard E. Grant) travel to the south of France to meet with the mobster, Dom is rewarded almost £1 million, yet his good luck doesn’t last more than a scene or two. Things always seem to go awry for Dom Hemingway—who, in response, perpetually states, “I’m Dom Hemingway!” and proceeds with life as if formulaically reconstructing his self-image despite whatever failure has unseated him this time. Leapfrogging between Hemingway’s main objectives—redemption with his estranged daughter (Emilia Clarke) and the pursuit of his money—writer/director Richard Shepard’s plot is refreshingly unpredictable if a tad spastic.
+ 
+Jude Law’s arresting portrayal of the titular mobster is the recurring reason why the film remains watchable. Skillfully leveling his character’s borderline-megalomania with a certain compelling tenderness at times, Law is highly engaging. He seems to enjoy a full transformation into the crass West End degenerate while hilariously delivering verbose lines that have a certain Shakespearean timing combined with a modern-day dose of profanity. As a homeless, unemployed ex-con who nevertheless has plenty of time to spend at the corner pub, Law displays an overbrimming temper that often results in physical violence, underlining the tension of Hemingway’s reintegration into society after a dozen years behind bars. Yet Law’s Hemingway also manages, when weeping at his ex-wife’s grave or longing to restore his relationship with his daughter, to demonstrate that on some fundamental level he is actually a good man, worthy of redemption.
+ 
+While without Law at the helm the film would certainly suffer, the supporting cast does a tremendous job of elevating what might have been a one-man show into a quirky and nuanced film. Actors more recognizable for their roles on television, such as Clarke of “Game of Thrones” fame and Kerry Condon of HBO’s “Rome” and “Luck,” exhibit remarkable chemistry that transforms scenes which might have been taken as clumsy comedy into scenes of complex character development. Furthermore, Grant as Dickie, Hemingway’s well-heeled, longtime friend from “the business,” dryly delivers some of the most humorous one-liners in the movie while providing a crucial foil to Hemingway’s extreme garrulousness. 
+ 
+While the acting and chemistry are fantastic, it makes watching scenes without a clear objective painfully dull. One example is a scene in which Dom viciously assaults his deceased ex-wife’s second husband, already unconscious after Dom’s initial blows, an oddly lengthy scene that has little connection to the rest of the film. Scenes of boozing and excess at Mr. Fontaine’s are reminiscent of an alternate-universe “Ocean’s Eleven,” where none of the criminals are classy, the gang now consists of only three men, and Brad Pitt and George Clooney fail to show up with the plan. If the exposition of the film dragged less, the climax would perhaps have more punch, but instead it feels like an afterthought when the activities most frequently occupying the characters throughout the film are alcohol consumption and cigarette smoking. Additionally, it is hard to justify the odd placement of gruesome details, such as an automobile wreck that leaves one character with a fender through his stomach, as they do not further inform any greater meaning within the film.
+While perhaps not “a legend, a myth, a glorious tale to be handed down from generation to generation,” as Dom describes himself, “Dom Hemingway” is more success than failure. Despite the shortcomings and redundancy of the film’s first half, “Dom Hemingway” features a bold and unusual storyline carried well by Jude Law and an excellent supporting cast; in the end, it’s a smart tale of an antihero who, if nothing else, knows who he is and runs with it.
+—Contributing writer Emma K.A. Rogge can be reached at emmarogge@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+As spring finally arrives, I remember another season a few years ago when there was a blossoming not of daffodils but of revolution, and what seemed to be melting was not the snow but a region’s tyranny. In our self-absorbed “me-generation,” the Arab Spring stands out. It got people to read the news instead of reading their newsfeeds.
+As we know, this hope (and interest) soon faded. We realized that Twitter wouldn’t save the world, so we gave up and went back to retweeting Kim Kardashian. Perhaps it is hard for us to care from across the ocean, when what happened seems so utterly predicable. This October, Libya will celebrate the third anniversary of its uprising against Colonel Muammar Gaddafi. Unfortunately, there is little to celebrate.
+Last Monday, the Libyan government began the trial of Colonel Gaddafi’s two sons, Saadi Gaddafi and Saif al-Islam Gaddafi, as well as several senior members of the late regime, including former spy chief Abdullah al-Senussi.
+In some sense, this should be the last nail in the Gaddafi government’s coffin, and a major step towards a reformed Libya. Instead, the violence and corruption surrounding the trial show just how little Libya has advanced in the past three years. Amnesty International went as so far to declare the trial a “farce,” citing the concerning lack of any form of due process in the hearings leading up to this past week. These injustices seem egregious and all too predictable, but we must remember that democracy only remains strong if its citizens are committed to the ideals for which they nominally stand.
+ To bring the conflict closer to home, we should acknowledge America’s involvement and interests in the region. The U.S. has already shown support for the central Libyan government through the recent return of the Morning Glory oil tanker. The U.S. Navy intercepted the Morning Glory after it left a port owned by rebel militia groups. Although this act subverted the power of the armed rebels who had claimed the tank hostage, the U.S. should also be cognizant of the abuses perpetrated by the current Libyan government. It would do well for Americans to reflect upon the fact that injustice anywhere is a threat to justice everywhere.
+ Perhaps the most egregious aspect of the current trial is the fact that neither of Gaddafi’s sons was present on the first day of the proceedings. While the investigation again Saadi Gaddafi is still ongoing—leaving the possibility for his later involvement still open—Saif al-Islam’s absence is more ominous. Militiamen in the northwestern city of Zintan have refused to hand over al-Islam to the central Libyan government, citing concern for a safe trial. Instead, al-Islam is expected to observe his trial via video-link.
+The constitutional circumstances leading up to this decision are equally concerning. The day before the last hearing preceding the trial, the Libyan government added two amendments to its Code of Criminal Procedure (Amendments 241 and 243) to allow hearings via video link. Of course, Libya is free to amend its criminal codes as it sees fit. But while I’m all for national autonomy, the timing of these changes seems slightly suspicious—especially given the absence of a democratically elected parliament when the amendments were passed. To put the situation in context, the International Criminal Court allows video-trials in only exceptional circumstances, and usually only when requested by the accused. Presumably, they should not be used as an excuse for the fact that the central government is not strong or popular enough to summon the defendants.
+In contrast to the weak government, local militias in Libya are worrisomely robust, a concrete indication of the lack of progress in the region. The same militias that have custody of al-Islam have also cut off supply to one of Libya’s main oil pipelines, putting the nation on the brink of economic disaster. Given that the oil supplied from Zintan is one of the country’s only revenue streams, there exists a rather obvious conflict of interest that has the potential to undermine the Gaddafi trial.
+I can understand why the abuses at Libya’s so-called “trial of a century” are mostly going unnoticed. It’s easy to see this as a minor problem that affects solely the “bad guys” in our narratives of events. In fact, given that the current penal code was created under Colonel Gaddafi, it may even seem like ironic justice that it is Gaddafi’s sons and advisors who are now suffering from the lack of rights put in place by his regime. However, we should keep in mind the ideals that drove Libyan insurrections in the first place: Despite the violence of Gaddafi’s murder, there was some hope at the time that the coming years would bring a fresh start for Libya as the country moved forward from tyranny towards democracy.
+There is no such thing as a just verdict that is unjustly rendered.
+Tez M. Clark ’17 is a Crimson editorial writer living in Wigglesworth Hall.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+When the Soviet Union collapsed more than two decades ago, political leaders in the United States welcomed—and with taxpayers dollars directly supported—the new political course of independent republics aimed at increased democratization and further integration into European political structures.
+The Cold War was over and Russia was not a threat anymore. For those in the West and in the former USSR states this meant one thing: The future of U.S.-Russia relations was optimistic and—to a certain extent—peaceful. President Boris Yeltsin, who took over after Mikhail Gorbachev in 1991, did not have imperial ambitions.
+That euphoria, however, began to disappear in 1999, after the former KGB officer President Vladimir Putin came into power in the Kremlin. Under the Bush administration, the relationship between the U.S. and Russia deteriorated. For Putin—just like for many KGB operatives—the collapse of the Soviet Union became a tragedy or, to put in his own words, “the greatest geopolitical catastrophe of the century.” The Russian invasion of Georgia in August 2008 became the first serious signal to the international community that things were about to change. By modernizing his military, thanks to large injections of petrodollars into the Russian economy, Putin has envisioned a new future for his great motherland.
+What happened in Ukraine in the winter of this year was not expected either in the U.S. or anywhere else in the world. Even Putin’s previous idea to restore Russia’s political influence in the form of the newly established Eurasian Union and Customs Union was not perceived as a real, immediate threat to Euro-Atlantic security and stability.
+That was true until the annexation of Crimea. The situation in Ukraine quickly pointed to a fact that the U.S. had failed to predict: The Russian bear was standing strong on its feet ready to fight whatever it perceived as a threat to its national security—whether imaginary or real. 
+President Putin is not Stalin. Rather, he is a modern dictator—supported domestically, yet not popular abroad. He is not stupid: Instead, he takes calculated political risks. Young and ambitious, posing topless, riding on top of tanks and jetfighters, and publishing an op-ed in the New York Times, he very well understands the art of self-marketing in today’s politics. 
+In this region of the world where democracy is mostly a foreign concept, strong authoritarian leaders sometimes appear to be more politically attractive than democratic presidents. This phenomenon is largely due to Russia’s communist and imperial past and explains why Putin’s approval rates today are as high as 80 percent.  But Putin’s Russia is far more dangerous than Stalin’s Soviet Union. Communism was an inclusive ideology, where nationality was the secondary matter. Modern Russia is different. It is nationalistic and, alarmingly, hostile to ethnic minorities and small neighbors who do not perceive themselves as part of Russia’s territorial fiefdom. Expansionism and imperialism is the quintessence of current Russian politics and Putin has cast himself as the political messiah who promises to revive the national dream of his citizens. 
+We have to be honest with ourselves in America. Much of the blame for Putin’s accrual of so much power and influence rests on our shoulders. We allowed him to massacre Russia’s Chechen population in the Northern Caucasus during the Second Chechen war. We did not intervene in Georgia. And we let him choke democracies and encourage autocracies in Eastern Europe, the Caucasus, and Central Asia. 
+We closed our eyes when he covertly and, at times, openly backed Iran’s nuclear program and when he blocked international attempts to stabilize the political situation in Syria that devolved into a massacre of hundreds of thousands. And we failed to prevent him from providing a shelter to a former NSA officer Edward Snowden. It appears that Putin has simply outsmarted the United States.
+With the Russian army ready to cross into Eastern Ukraine, the issue now is whether or not the U.S. will succeed to mobilize available resources to contain Putin’s growing and, therefore, threatening political ambitions. For many of us who believe in freedom, democracy, and peace, we can only hope that this will be so.
+Geysar I. Gurbanov is a Rotary Peace Fellow at Duke-UNC Chapel Hill Center for Slavic, Eurasian, and East European Studies and a visiting graduate student in the Department of Government at Harvard. Follow him on Twitter @geysar.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+This weekend, nearly 1,285 bright-eyed prospective Harvard students filled couches and classrooms across campus. Many of them likely journeyed to Princeton for its “Preview,” spent a few “Bulldog Days” at Yale, and visited myriad other schools across the country, working hard to decide where to spend the next four years. 
+In our opinion, Harvard is almost always the right choice. (Yale is always the wrong one.) But Visitas needs to work harder to show that. In designing a better Visitas, Harvard should place an emphasis on what the College has to offer as a community.
+As it stands now, Visitas consists of a series of loosely planned events where prospective students wander awkwardly into rooms (many, unfortunately, at the distant SOCH) and, if they are lucky, strike up conversation on their own. That might work for some pre-freshman, but it fails many of them. Harvard owes it to admitted students to present a more welcoming atmosphere, one in which current students take it upon themselves to chat with their potential future classmates and encourage them to chat with each other. Visitas should be a weekend of learning and excitement, not one of mundane lectures where the most exciting event is an ice cream social.
+Of course, Visitas should provide high school students with an accurate depiction of life at Harvard. It should not serve falsely to sell the school, simulating aspects of Harvard that disappear when a student finally matriculates. But Harvard does give freshmen a sense of support and solidarity—from entryway study-breaks to intramurals to Peer Advising Fellow outings, Harvard strives to foster cohesion among newcomers. The College should start the process in April rather than August.
+To achieve this goal, Visitas should work through the House system, harnessing the spirit of individual House Committees to show pre-freshmen that fun and friends reside within every imposing brick edifice (and even the concrete one). Visitas should include events in each House so that pre-freshmen can simply walk downstairs from their hosts’ rooms and meet up. Dorms in the Yard could match up with individual Houses or with each other. The activities available, facilitated by enthusiastic HoCo members, could vary from excursions to Harvard Square eateries to games of capture the flag to seminars on extracurricular opportunities and social realities at the College.
+Harvard should not rest on its laurels. Harvard should not assume that any given student will—and should—attend. Instead, Harvard should show students everything it has to offer, from the academic to the extracurricular to the social. Mostly, Harvard should show students it cares.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+It has been many years since I first read the short story “Once Upon a Time” by the South African writer Nadine Gordimer, yet every word of the tale remains imprinted in my mind. It is a beautifully written story about a family in apartheid South Africa that tries to protect itself from the dangers outside the walls of its home but instead lose a child to those same defenses—it’s a haunting, emotional, thoughtful story. 
+There are many lessons that can be learned from Gordimer’s story: that we need to understand our neighbors, the environment, and the world around us. This is especially true in today’s world, in our ever changing and fully connected here and now, despite its differences from the setting of “Once Upon a Time.”
+We live in a world that is faster, more connected. The family in Gordimer’s tale hears about the riots and burglaries through rumors from neighbors and vague sounds at night—there was no Internet in the story, no immediate source of information.
+But today, everything happens so quickly—changes of presidencies, regimes, governments—and the news of all these things travel just as fast. Today, we have the Internet. We have access to the New York Times and the BBC. We have access to blogs, micro blogs, and other, ever-shorter media—an incessant flood of information that overwhelms us. 
+Given the wealth of information within reach, we have developed a need to always be in the know, to always be aware of everything that is happening. And so we multitask constantly to satiate this desire. Our days are spent rotating between many tasks all at once; we listen to lectures and do homework and write essays while at the same time answering texts, checking email, reading the news, scrolling through Facebook, and looking at Twitter. 
+The ability to multitask is often considered a point of pride, a vaunted skill to show off. But this ability, this preference for doing many things at once is not all good. In the 18th century, Lord Chesterfield wrote to his son, “There is time enough for everything in the course of the day, if you do but one thing at once; but there is not time enough in the year, if you will do two things at a time.” This advice is as today as it was back then, especially in a time when many have lost the ability to stay focused on a task for long periods of time.
+Moreover, the act of multitasking is ultimately detrimental—studies suggest that people who multitask frequently show lower levels of concentration and creativity. They often fail to determine what is relevant and what is irrelevant, and are more easily distractible. Most damning of all, multitaskers struggle at switching between tasks, supposedly the biggest advantage of their skillset. 
+The vast amounts of information that surround us pose other dangers as well. In a lecture to the plebe class at West Point in October of 2009, William Deresiewicz said that “Thinking means concentrating on one thing long enough to develop an idea about it.” Yet this is exactly what we lack; by saturating our minds with information from all these sources—from the Times, the BBC, and all those blogs—we are simply taking in the opinions of other people. We are simply reading and regurgitating what other people say and think about a given issue. We let others do the thinking, but we are not thinking for ourselves, not developing our own ideas. 
+What we lack today are moments of solitude, moments devoid of distractions, moments of peace. We are constantly surrounded by people and information, always rushing from place to place, moving from the completion of one class or meeting or assignment and straight onto the next without a pause. Even outside of those environments, we are still surrounded by people, in our dorms, in our dining halls, everywhere we go.
+We are surrounded by our phones, our laptops, our televisions—a constant, never-ending flow of news and opinions. We are surrounded by the noise of the world. The result is that we rarely have time in solitude, time to think and reflect without the chatter of voices or the vibration of phones.
+And so we have lost something vital, for there is a deep intrinsic value in the act of solitary, isolated, single-minded work. The solitude of a woodshop, the quiet of the library, the isolation of wilderness—the very nature of these types of work allow for concentration and introspection. In Joseph Conrad’s Heart of Darkness, Marlow says that he likes “what is in the work,—the chance to find yourself. Your own reality—for yourself, not for others.” 
+Marlow suggests a need for self-awareness, aware of who we are and what we think. It is an awareness that must come from within, an awareness unfiltered and unadulterated by the opinions of others.
+In many respects, Gordimer writes about the same need; the tragedy of “Once Upon a Time” comes about due to the family’s lack of knowledge. Their understanding of their neighborhood is derived solely from what they hear on the news or through rumors. They lose what is most precious because they have not thought for themselves. 
+Franklin R. Li ’17 is a Crimson editorial writer living in Canaday Hall.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+UPDATED: April 29, 2014 at 1:00 a.m.
+As the first cohort of students pursuing the architecture studies track in the History of Art and Architecture concentration prepare to graduate this spring, many students in the newly created track praised its flexibility and integration with the Graduate School of Design.
+ 
+The track, introduced two years ago, was established as a joint effort between HAA and the Graduate School of Design to provide an academic path for students interested in architecture. Sixteen sophomores and juniors enrolled in the track when it was introduced in November 2012, and those who remained were joined by nine sophomores who enrolled last November, from a total of about 70 HAA concentrators, according to HAA concentration advisor Thomas Batchelder.
+Many students pursuing the track said the newness of it has made their experience more dynamic and made the track more receptive to feedback.
+“Our experience and opinion of what’s happening is something they really care about and really take seriously,” said Alaina R. Murphy ’14, who joined the concentration track when it was introduced during her junior year. “It’s fun to be a part of something new, and it’s really nice that they take our opinion into account.”
+Larkin P. D. McCann ’15 echoed Murphy’s sentiments, saying that he has enjoyed working with faculty members who have been open to ideas about improving the track.
+“It’s very exciting to be part of something new, especially at a place like Harvard that’s sort of rested in so many traditions,” McCann said.
+Students also said that they appreciate one of the unique aspects of the track—access to the Graduate School of Design, particularly through a set of required studio courses taught by Design School instructors.
+Kathleen C. Hanley ’16 said that her favorite part of the track has been working in the studio.
+“We’re basically being put through the same curriculum that they teach at the Graduate School of Design, which is an awesome opportunity as an undergraduate,” she said.
+McCann said that the studio courses carry heavy workloads, often demanding 40 to 45 hours of work per week outside of class.
+ 
+Liesl E. Ulrich-Verdeber ’15, another student in the track, said that she has viewed the program as a sort of preview of graduate school. 
+“It’s just amazing to be able to go over [to the School of Design]...and to see the students working and to be pulling all-nighters [like undergraduates],” she said, adding that she has enjoyed exposure to “some of the greatest minds and thinkers” in urban design.
+Yet, Ulrich-Verderber said that the newness of the program has made its structure a bit unclear.
+“As you go along, you’re finding out what classes are acceptable,” she said. “As with anything new, there are just some kinks to be worked out in terms of clarity.”
+K. Michael Hays, the assistant dean of the Graduate School of Design, said that following the experience of providing architecture studies as an HAA track, the School of Design hopes to make the track a separate concentration “as soon as we can.”
+He said that they believe they can make that transition “in a year or so.”
+—Staff writer Vimal S. Konduri can be reached at vimal.konduri@gmail.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+Academy Award-nominated film director, writer, and producer M. Night Shyamalan discussed artistic integrity and his early forays in film at Farkas Hall Monday afternoon during an event organized by the Office of the Arts in conjunction with the Harvard South Asian Association.
+“We were honored to host Shyamalan because he is one of several famous American South Asian celebrities who have followed a—in South Asian terms—non-traditional path to success,” HSAA Co-President Sachin Patel ’15 wrote in a statement to The Crimson. “We wanted to invite someone who was not just of South Asian descent but someone the entire College could relate to and appreciate.”
+Born in India in 1970, Shyamalan said his involvement in film began from an early age, though he described his introduction to the medium as largely serendipitous. He cited the cult films released in his early childhood, including George Lucas’ Star Wars and Steven Spielberg’s Raiders of the Lost Ark as key influences that would set the foundation for a lifetime of cinephilia.
+However, he credited Spike Lee’s She’s Gotta Have It, a book about the making of the film of the same name, as the pivotal force that encouraged him to take his aspirations to a more serious level. Lee showed him, Shyamalan said, that it was possible to live outside of the Hollywood bubble and still be successful in film.
+When the talk opened to audience interaction, Shyamalan fielded questions about the negative critical reception of his recent films.
+“I know what I need to do to get a positive opinion from that group [of critics]—make films for older white men,” he responded. 
+He attributed the direction of his latest films to his teenage daughters, whom he named as his motivation to produce movies targeted at a younger female demographic, and addressed the difficulty of striking the balance between films with popular appeal and work with personal meaning. The latter, he said, “is the only truthful way to be, but you do have the urge to try to make broader pieces.”
+Asked why he thought he had achieved success in an industry where so many others had failed, Shyamalan said, “I guess I am just more me than other people are them.” 
+In his final piece of advice to the audience, Shyamalan said, “If you tell me what it is to be you, you’ll do it better than anyone else could. Your exact experience has never been duplicated before.”
+Shyamalan also spoke on Monday evening at the Graduate School of Education on his recently released book, “I Got Schooled,” which identifies five key elements to closing the education achievement gap in the U.S.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The Office for Civil Rights has opened an investigation into the College’s handling of sexual assault cases, roughly a month after at least one member of the student activist campaign Our Harvard Can Do Better filed a complaint with the U.S. Department of Education alleging that the College’s policies violate Title IX.
+ “OCR has a Title IX sexual violence case under investigation involving Harvard University,” wrote Dorie Nolt, press secretary at the Department of Education, in an emailed statement. Another Department of Education spokesperson confirmed that this investigation “involves Harvard College.”
+The Department of Education denied The Crimson’s Freedom of Information Act request for a copy of the complaint last week, writing in a letter that access to all 38 pages were denied in full because the documents’ release “could interfere with OCR’s investigation and resolution of the case at this time.”
+Our Harvard Can Do Better organizer Emily M. Fox-Penner ’17, one of two undergraduates to file the complaint, has said that the complaint includes testimonials from sexual assault victims. According to Fox-Penner and Jessica R. Fournier ’17, also of Our Harvard Can Do Better, the complaint requested that the College adopt a policy of affirmative consent—in which partners must verbally affirm their consent to participate in sexual activity.
+Fox-Penner and Fournier have also previously said that the complaint calls for the Administrative Board to make its burden of proof standard “preponderance of the evidence,” which requires just over 50 percent certainty to determine guilt in sexual assault cases, among other points.
+“I’m glad that OCR has decided to take this step,” said Fox-Penner, who was officially notified late last week that the Office for Civil Rights had agreed to hear her complaint. “I hope Harvard takes it as an invitation to engage in constructive dialogue with students and take some concrete and substantive steps forward on policies and practices.”
+Fox-Penner added that she was given a timeline and procedural outline in a meeting with the Office for Civil Rights on Monday. According to Fox-Penner, the Office for Civil Rights has started compiling a list of relevant student groups and administrators and is beginning conversations with students and complainants. Campus focus groups are planned for the beginning of the fall semester, she said.
+Faculty of Arts and Sciences spokesperson Jeff Neal declined to comment on the complaint Monday.
+News of the Office for Civil Rights investigation comes less than two weeks after University President Drew G. Faust told undergraduates at an open forum that Harvard had submitted a revised sexual assault policy to the same office for review. The revised policy, which, if enacted, would apply University-wide, has been updated for compliance to Title IX, which prohibits sex discrimination at federally funded universities. Mia Karvonides, Harvard’s inaugural Title IX officer, had convened a University-wide working group composed of representatives across schools last May to evaluate Harvard’s policies.
+Neal wrote in an emailed statement Monday that Harvard “will move quickly to announce and implement” the revised policies after it receives feedback from the Office for Civil Rights. 
+“Once in place, the new policy and procedures will significantly enhance how Harvard responds to incidents of sexual misconduct among University students, faculty and staff,” Neal wrote.
+In early April, Faust also announced the formation of a presidential task force on sexual misconduct, to be chaired by former University Provost Steven E. Hyman.
+The recently opened investigation is not the Office for Civil Rights's first look into the College’s sexual assault policies. In 2002, an undergraduate filed a complaint alleging that the College’s policies violated Title IX after the approval of a change to the way the Ad Board disciplined cases of alleged sexual assault. The Office for Civil Rights later opened an investigation into the College’s policies but ultimately found that they were not in violation of the law. It took the Office for Civil Rights less than a year after opening the investigation to come to that decision.
+Harvard Law School’s sexual assault policies are also currently still under investigation by the Office for Civil Rights, nearly four years after a complaint was filed in 2010.
+—Staff writer Madeline R. Conway can be reached at mconway@thecrimson.com. Follow her on Twitter @MadelineRConway.
+—Staff writer Steven S. Lee can be reached at steven.lee@thecrimson.com. Follow him on Twitter @StevenSJLee.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+The Cambridge City Council voted unanimously Monday to support the boycott of the Boston-Cambridge DoubleTree Hotel, a sign of support for hotel employees trying to unionize.
+The boycott, which was launched last month, is a part of ongoing efforts by DoubleTree employees, Harvard’s Student Labor Action Movement, and area union UNITE HERE! Local 26 to get the hotel to allow workers to unionize by fair process. Workers and activists are also working to push Harvard to put pressure on the DoubleTree, which is located in a Harvard-owned building, in hopes that managers will become more receptive to allowing fair process unionization.
+Several DoubleTree employees clad in UNITE HERE! Local 26 union t-shirts testified at the City Council meeting Monday evening asking the City Council members to endorse the boycott. Workers cited a lack of adequate insurance and a lack of respect, among other grievances, about their treatment under DoubleTree management.
+“They don’t respect me. They don’t appreciate what I’ve done for this hotel,” Celia Li, a DoubleTree housekeeper who said she has worked at the DoubleTree for over 30 years, said in front of the Council.
+The hotel said at the start of the boycott that it does not believe that a true majority of DoubleTree workers wish to be represented by any union. Hilton, which owns DoubleTree, could not be reached for comment on the most recent developments. Hotel workers and advocates said that management has not addressed the boycott, and it does not appear that the hotel has suffered losses from the boycott.
+University officials maintain that Harvard will support any fair process of unionization agreed upon by Hilton and its employees.
+“It’s still a lot of the same,” Student Labor Action Movement member Gabriel H. Bayard ’15 said. “I think there’s a lot of community momentum but our main job right now is to get people not to stay at the hotel.”
+Although DoubleTree managers have not addressed the boycott, workers said they have noticed difference in the work environment at the hotel.
+“We see the change already. We have benefits already,” DoubleTree houseman Victor Bernabe said. “We have more respect. Now it’s [totally] different.”
+
+
+DoubleTree employees and advocates claim the hotel is making working conditions better in order to give workers fewer reasons to push for fair process of unionization. Still, Bernabe said he had doubts.
+“I want [the union] 100 percent more now,” Bernabe said. “You know why? I don’t want to go back to before. I want it better and better and better. I know if we win the fair process it will 100 percent be better.”
+Although unsure about tangible successes thus far, students and advocates continue to promote the boycott.  Last week, several advocates distributed flyers at a conference at the DoubleTree to publicize the boycott.
+“I didn’t ask anyone to change their reservation. We just want people to know about [the boycott] so they don’t come back next time,” said Harvard Kennedy School student and activist Michael "Mick" R. Power. “You could say [the guests] felt a bit dirty being there when they heard it.”
+Employees and activists said that they view the city council support as a success.
+“That’s very good for us. [It’s] not only inside, we need [support] from outside too,” Bername said.
+—Staff writer Mariel A. Klein can be reached at mariel.klein@thecrimson.com. Follow her on Twitter @mariel_klein.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+This is part II in a three-part series. Part I ran in The Crimson’s Commencement Year in Review issue last May and was reprinted on April 28. Part III ran on April 30.
+Before Ella took a leave of absence from Harvard, she struggled with the pace of undergraduate life, so much so that she was hospitalized to recover from suicidal thoughts.
+“Going to college, I was like a chicken with my head cut off,” said Ella, whose name has been changed due to the sensitive nature of this subject. “I made a four-year plan for every single concentration because at some point I considered being in every single concentration.”
+By the time Ella settled on a concentration her sophomore fall, she hated the work that she was doing. After finding herself in a bed at McLean Hospital, she made the decision to take time off from being a Harvard student and go home.
+Just like many of her peers who take time off, Ella returned from a year at home feeling grounded and ready to tackle Harvard life once more.
+“I knew who I was—I know it’s cliche—but that helped me figure out what I wanted to do,” she said.
+The process by which students take leaves of absence from the College for mental health reasons involves complex decision-making, often after missing assignment deadlines, taking on an overwhelming workload, or even being involuntarily hospitalized.
+For most, taking time off allows them to heal in an environment removed from the chaos of Harvard life and return to campus, while, for others, the initial leave turns permanent. Across the board, however, students balance the benefits of time spent beyond the Harvard bubble with the pressures of University requirements and bouts of loneliness as their peers continue to go to school.
+ON LEAVE FROM CAMPUS, AND UHS
+From the Bureau of Study Council to University Health Services, Harvard often boasts of the range of mental health services it provides to its student body. Yet, students say, when these offerings fall short, students often take leaves of absence and seek some form of professional treatment without any of the financial or medical resources available to their peers on campus.
+The Administrative Board bases its decision about whether or not to allow a student to return to campus solely on the input of UHS, which typically asks the student to demonstrate a “period of stability” and regular medical treatment, according to Secretary of the Administrative Board John “Jay” L.  Ellison.
+While Harvard effectively requires all students to seek out this treatment during their time off, after a brief transition, the University does little to ensure that students away from campus have access to the highest quality care.
+Enrolled students can be treated under the school-wide insurance policy, yet UHS does not provide students on leave with direct support services, according to a joint statement by Director of Harvard University Health Services Paul J. Barreira and Chief of Student Mental Health Services Katherine A. Lapierre.
+For students with financial constraints, the cost of required therapy can present a significant burden in the midst of the difficult process of recovering from mental health problems.
+“I think the whole process is kind of insensitive to low-income students,” said Kate, who did not have health insurance when she took a leave of absence last year. Kate’s name, as well as those of several other students quoted in this story, has been changed due to the sensitive nature of the subject.
+“I was paying for all my  treatment out of pocket, which is extremely expensive,” she said.
+According to Ellison, Harvard does not provide students on leave with insurance because, as a non-profit University, Harvard only sells policies to current students.
+“That’s not the business we’re in. The business we’re in is students,” Ellison said. “It’s illegal for us to insure someone who is not enrolled.”
+A student who withdraws will receive the applicable student coverage until the last day of the month of the official last day of attendance, according to the Student Health Program website. The student is also eligible to purchase four additional months of coverage in order to help “facilitate a student’s transition from HUSHP to other outside insurance and is only meant to be for a limited duration.”
+Once students can finance their treatments, however, they say that  seeing a professional outside of the Harvard environment can be beneficial for their path to healing.
+“I think students [on campus] can sometimes see going to therapy or going to get help as one more thing they need to do,” Sharon L. Howell, the resident dean of Adams House, said in an interview last May.
+This atmosphere creates a difficult environment for students to get better, said Karina Partovi ’14-’15. Before she took a leave of absence, Partovi saw a professional in UHS who she said struggled to address her concerns with mental health.
+“I mean [my therapist] was nice, there was nothing wrong with her, but she was—she didn’t reach me,” Partovi said. “But to be fair, I don’t think anyone could have reached me.”
+Yet, once students leave the Harvard bubble, they say that therapy—even when medical offerings available at home are far more limited than those at Harvard—often works better in a new environment.
+“There are very very few places in the States or in the world where you can’t get some kind of care,” Ellison said. “What UHS does do is try to help the students and their families think about the transition from our mental health or our physical health to their hometown or their local hospital or local physicians.”
+A DIFFERENT KIND OF HOME-WORK
+For Ella, receiving therapy and seeing a psychiatrist in the first month of her leave of absence inspired her to find a job in the medical field to fulfil the “period of stability” requirements set out by UHS, working as a research assistant for a geriatric clinic near her home.
+One thing led to another, and soon Ella was taking a position as a health care access intern, intent on switching her concentration, fulfilling the requirements to apply to medical school, and dedicating her career to medicine.
+Like nearly all students who take time off for mental health reasons, Ella found a job to demonstrate to Harvard that she was ready to enter back into the schedule of a student. But, for many, these jobs appear to play a much more active role in the process of getting better, giving students new direction and stimulation during their leaves of absence.
+Partovi, who says she was “shell-shocked” at the beginning of her time off, found a job working as a teacher’s aide at her old elementary school after spending a couple of weeks lying in bed and playing computer games.
+According to Partovi, in the first few weeks following her decision to leave, she felt angry at Harvard and her resident dean for what she said was effectively giving her a choice between leaving voluntarily or being forced out by the school.
+“There were some times when I didn’t think I would come back to Harvard ever, that I’d never come back to college,” Partovi said. “But working, I realized how much I really wanted to be back, how much I actually loved school and loved Harvard.”
+Alexander G. Smith, who similarly grappled with the idea of not returning to Harvard during the initial months of his leave, said that finding a full-time job in the fall and returning to a normal schedule significantly improved his leave. “Everything just seemed to fall into place,” said Smith, who took time off partway through his sophomore spring semester in 2013.
+The process of finding a job is similar for most students who take time off: after spending several weeks at home and doing relatively little, they secure a position and work for about six months.
+According to Ellison, although UHS asks students to demonstrate a period of stability—typically lasting six months—during their time off, neither the Ad Board nor UHS explicitly requires that students obtain a job. Still, working can be a strong signal that a student is prepared to come back.
+“Students are not required to work while on leave, but it is important for HUHS and the College to know that a student is ready to return,” Barreira and Lapierre wrote in their statement. “This can be done in a number of different ways, including working, volunteering, or taking a class, all of which have been found to be good indicators of readiness to return to campus.”
+David, whose name has also been changed, did not mention his clinical depression when he sought time away from the Harvard campus in order to avoid requirements like the “period of stability.” After declaring his intention to “explore possible options for careers,” his resident dean easily facilitated his time off—without any mention of requirements for his return.
+But the details of this requirement to come back to campus are not entirely clear to some students who take leaves of absence. Several students reported different accounts of the school’s policy on work during leave, which according to Ellison does not “necessarily have to be for pay.”
+According to Kate, administrators told her that she must secure a paid position during her time off, which she says forced her to take a job at a fast food restaurant.
+“I can’t work at the White House because its unpaid, but I can work at McDonalds because it is paid,” she said.
+For most students, however, working during their time off is not only a critical way to demonstrate to UHS that they are fit to return to campus but an important part of the healing process.
+Students say that working at a consistent job, whether that be at McDonald’s, a bookstore, or a health care clinic, helps establish a regular routine that is integral to the process of getting better.
+“It was a very good experience, not because it was the best job in the world—there were many times when I was frustrated by it—but it was an experience that was very far removed from the cultural climate I was experiencing at Harvard,” said George, who worked at a bookstore during his time off. “I found that to be part of that environment, and just to be working for the paycheck, it was great.”
+GETTING BETTER, BUT FEELING WORSE
+When George initially decided to take time off for mental health reasons, he only focused on the immediate benefits of removing himself from the Harvard environment. But several months after his recovery was underway, George began to feel not only ready to go back to school but also lonely because he could not for another six months.
+“It was at that point that some of the positive gains from taking time off started to retract a little bit,” he said. “I started to be very fed up, I was very bored, and I didn’t have a lot of stimulation in my life. I just didn’t have a lot of connection, because there weren’t many people I knew who I could see, and I felt lonely. ”
+Despite having a good relationship with his parents, George struggled to adjust to the new social atmosphere. “I was happy to a degree, and I was satisfied, but it wasn’t easy.”
+In the midst of working full-time, seeking therapy, and spending time at home in an effort to get better, students said that they cannot help but feel lonely during their leave. For most students, human connections are limited to close family and friends at home, while the individual’s peers remain together in classes, dining halls, and activities back in Cambridge.
+Partovi said these relationships nevertheless made a “big difference” during her leave of absence. Beyond her hours working at a local elementary school, Partovi spent most of her time with her family, often attending her sister’s high school dance team performances.
+Many students on leave strive to maintain an emotional connection to the school through their friends and Harvard affiliates despite being physically separated from the University.
+Smith, who is still on leave from campus, says that while he keeps in touch with his friends back at school, the distance has changed their relationship.
+“It’s not like I talk with people every night or even every week, but I stay in touch in the way that a friend from back home would stay in touch,” he said.
+These connections with friends from school, however, are not enough for most to combat feelings of loneliness while spending time away.
+“If there’s a single hardest thing about taking time off and spending that time off at home, [it] is certainly the solitude,” said David, who nevertheless was able to stay in touch with professors and peers as a teaching fellow for HarvardX.
+This loneliness, while perhaps harmful to students while on leave, can help motivate them to return to campus.
+George, who returned to campus this fall, says he felt ready to return soon after the loneliness struck.
+“I was so ready for August to begin so that I could feel like the student I was supposed to be,” he said.
+—Staff writer Steven S. Lee can be reached at stevenlee@college.harvard.edu. Follow him on Twitter @StevenSJLee.
+—Staff writer Dev A. Patel can be reached at dev.patel@thecrimson.com. Follow him on Twitter @dev_a_patel.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+Former CNN foreign affairs correspondent and Shorenstein fellow Jill Dougherty argued that the recent crisis in Ukraine marks a turning point for the Russian media during a seminar on international conflict, analysis, and resolution Monday.
+ 
+“I want people to get out of this [talk] the importance of Ukraine on many levels,” Dougherty said. “Especially the effect it has been having along the way to accelerate changes in the media.”  
+ 
+The event, which was co-sponsored by the Neiman Foundation for Journalism, focused on the tense relationship between the United States and Russia. During the event, Bruce Allyn, senior fellow at the Harvard Negotiation Project, compared the differing policies, perspectives, and means by which America and Russia conduct negotiations.
+Dougherty, meanwhile, traced how the media has facilitated political discourse around the former Soviet Union.
+According to Dougherty, the Russian government only allowed certain media outlets to exist because they gave discontented citizens an opportunity to let out steam. Now, however, the Russian government appears to have begun to clamp down.  
+ 
+“These outlets that were allowed to exist are now under pressure,” Dougherty said. 
+ 
+Russian President Vladimir Putin has made attempts to control media sources by claiming that the internet is not safe, thereby “controlling that space that is growing in influence among young people,” Dougherty said. 
+Dougherty noted that she sees many similarities between current Russian propaganda and the way Russia tried to control public discourse during World War II.
+“I am very attuned to emotions, propaganda, ways of changing people’s thinking,” Dougherty said. “Russian media seems to me a replay of World War II.”
+Dougherty and Allyn both emphasized how people must remain informed about history to prevent relations between the U.S. and Russia from deteriorating.
+Allyn, however, also noted that people should not write Putin off as an “old Soviet.” Understanding the historical tradition he comes from, Allyn said, is crucially important.
+“We need to understand where Putin’s coming from,” Allyn said. “The West...has to understand what he’s thinking and why he’s thinking it. He is unpredictable only because we’re not paying attention.”
+Allyn also highlighted many emotional or psychological ways to approach negotiation on an international level. According to him, the keys to successful negotiation are listening and leading by example, along with empathy and constructive media coverage.
+James F. Kerwin, assistant director of the Harvard Program on Negotiation, attended the discussion as well. He said that the speakers offered unique insights.
+“I think people have lost sight of U.S.-Russia relations, and Bruce Allyn spoke of the nonviolent history of negotiation in a new light,” Kerwin said.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+Tuesday marks the launch of LITFest, the University’s inaugural literary festival, which seeks to both teach various components of the writing craft as well as bring together members of the community to celebrate literature at Harvard. 
+Events during the three-day festival include panel discussions about pursuing careers in writing and publishing led by recent Harvard graduates, as well as events with acclaimed authors, like Jamaica Kincaid.
+A range of interactive workshops and readings will allow participants to practice various types and elements of writing, including spoken word poetry and the use of metaphor.
+During each day of LITFest, Cambridge Historical Tours will give literary walking tours of Harvard Square. Guides will recount the lives of literary notables who lived in Cambridge and attended Harvard, including Henry Wadsworth Longfellow and J. Michael Crichton ’64.
+LITFest is the brainchild of Greg Harris, an adjunct lecturer at the John F. Kennedy School of Government, who serves as co-director of the festival with Bret A. Johnston, director of creative writing at Harvard. Harris said he was driven in part by the enthusiasm for the Harvard Writers at Work lecture series, which he helped start in 2009.
+ 
+“I kept feeling like there has to be a way for the amazing number of great writers and strong writing programs at Harvard to get together and build something that would invite more people in, be more accessible, and connect all of these different organizations,” Harris said.
+  
+Sarah E. Zeiser, assistant director of LITFest, said that Harvard lacked a dedicated event to celebrate the individual and communal accomplishments of the faculty and student writers at Harvard. 
+“LITFest hopes to be for the literary arts what Arts First is for the performative arts: a platform for the celebration of the arts in all forms at Harvard as part of the new scene on campus in which the arts are given a central place in both our curricular and extracurricular lives,” Zeiser wrote in an email.
+ 
+The festival is produced by the Harvard English Department, the Office of the Dean of Arts and Humanities, Harvard Writers at Work, and the Office for the Arts at Harvard. It is also sponsored by numerous student organizations, such as the Harvard Advocate and Tuesday Magazine.
+ 
+“The festival should be useful for students as both a celebration and an exploration,” Harris said.
+ 
+ —Staff writer Indrani G. Das can be reached at idas@college.harvard.edu. Follow her on Twitter @IndraniGDas.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+This is the fifth article in an occasional semester-long series on homelessness in Harvard Square. Read earlier installments here, here, here, and here.
+Justin Newton and Lauren Canon
+Justin Newton sits on a plastic crate next to a crosswalk on Massachusetts Ave., holding a sign that says, “Pregnant with Elvis Presley’s Alien Love-Child. Please Help.” A passerby stops and talks with him, asking if he actually knew Elvis, and Newton explains that the sign is supposed to be a joke.
+He and his girlfriend, Lauren Canon, try to keep a lighthearted tone in the signs they use while panhandling in the Square. They say that they try to catch people’s attention and make them laugh rather than inspire pity.
+Newton and Canon recall some of their favorite signs. “I hold a sign that says ‘too ugly to prostitute’ and she holds one that says ‘too proud to pimp,’” Newton said.
+These dual signs are still fairly new for the couple; Canon, 21, moved to Cambridge from Vermont less than two months ago. A Michigan native, she first became homeless in Detroit when she was 18, after she left her abusive husband. Three months later, Canon decided to leave the state in order to avoid her ex-husband, and chose to move to Vermont because it had more job opportunities and homeless resources.
+“What I did was I compared all 50 states,” she says. “I took unemployment rates against crime rate, narrowed it down to lowest unemployment rate and lowest crime rates.”
+She met Newton, who was also homeless at the time, in Burlington, Vt., while he was travelling through the state. The two eventually started dating, and Canon decided to join him here.
+Canon says she hopes to find a job in the area soon, although getting and holding down employment while not having a permanent place to live can be difficult.
+“Everyone wants ‘the bums’ to get jobs, but no one will hire someone who’s homeless,” she says. “And if you don’t have an actual physical address when you fill out a job application, they’re going to glance and move on.”
+Despite these difficulties, Canon says she prefers living in Cambridge, finding  the police and residents more friendly than those of Detroit. “I found home. This place is great. I love it here, and I love being with this pain in the butt,” she says, nudging Justin.
+Jade Hosie
+Jade Hosie, 22, used to be a landscaper in Buffalo, N.Y. After her mother fell ill almost two years ago, they lost their apartment, and came to Cambridge for better homeless services offered by the city.
+“I’ve hit so rock bottom it’s not even funny,” she says, sitting outside of CVS on Massachusetts Ave.
+Hosie says the past year has been difficult for her, especially since she spent much of it sleeping on the street, often out of choice. She says she avoids staying in shelters due to concerns about getting assaulted or robbed, as well basic hygiene issues.
+“Around Christmas, I had lice,” Hosie says, claiming that she got it from a shelter. “A lot of the girls from the shelter, they’re all scratching.”
+She has also had issues with being barred from various shelters for infringements like not vacating the shelter on time. Hosie describes a night when she was barred from Pine Street Inn in Boston and ended up sleeping under a bridge next to the shelter.
+“There’s rats under there, there’ s a lot of violent men under there, anything could have happened,” she says. “It was cold. I shook all night.”
+For now, she and her fiance often sleep under the overhang at St. Paul’s Church in Boston Common, which provides shelter from the rain. During the day, she uses resources from programs like Youth on Fire and CASPAR.
+Despite the resources that Cambridge offers, Hosie says that she would eventually like to leave Massachusetts. “I really don’t like it here,” she says. “There’s too much homelessness. It depresses me.”
+Ken and Earlene “Frenchie” French
+Earlene French, 57, who goes by “Frenchie,” says that she has found herself quite literally the face of homelessness in Cambridge.
+To French’s surprise, a friend informed her one day that her picture was on a set of postcards for sale at one of the Cambridge drug stores. French went to the store and found that the postcard not only featured her photograph but also a caption reading  “Homeless in Cambridge.”
+The postcard is just one media incident among many that French, and her partner, Ken O’Brien, a sixty-year-old Cambridge native, have experienced over the years. Articles on French and O’Brien have appeared in a variety of periodicals, ranging from local newspapers like the Cambridge Chronicle to larger media outlets like Boston.com.
+“We seem to attract newspaper people...and school project people,” O’Brien says, alluding to a time when a student from Cambridge Rindge and Latin produced a video project on Cambridge’s homeless population that centered on the couple’s experiences.
+French met O’Brien eight and a half years ago, when she was a security guard at Mount Auburn Medical Center. French says she often found herself walking home along Massachusetts Ave. and stopping to chat with and give spare change to O’Brien, who found himself out on the streets from time and time without permanent housing.
+“It was the dog that attracted me to him,” she says, gesturing to a puppy named Penny, who is sitting on a blue blanket outside of Leavitt &  Pierce Tobacco on Mass. Ave.
+“All of a sudden she just showed up to camp, and she stayed,” O’Brien recalls, laughing.
+Both French and O’ Brien say that their stories have been shaped by 1960s counterculture. O’Brien recalls growing up in Cambridge in the 1960s and then turning to hitch-hiking at age 19, while French recounts growing up in a commune and seeing Richie Havens play at Woodstock.
+O’Brien says he has become tamer over the years, and French says that younger homeless people in the Square respect and look up to them.
+“We’re called ‘Ma’ and ‘Pa’ by the younger crowd,” says French. “They’ll see something and come to tell us...and we’ll just say, ‘We’ll handle it.’”
+Harley
+Since coming to Cambridge in February, Harley, 19, has spent most nights on the streets of Harvard Square. But her dad lives only an hour away,  in Worcester, Mass., and there is a fully furnished room for her in his house.
+“He’s just waiting for me to finish this ‘phase of my life,’” Harley says, setting down her spare change cup so that she can air-quote her father’s phrase.
+Harley started living on the streets at age 16, after her mother, with whom she was living at the time, kicked her out of their Philadelphia home. From Philadelphia, she traveled to New York City, where a group of older homeless youths introduced her to the traveler lifestyle of living on the streets and moving from city to city. 
+Harley’s motivation for coming up to Cambridge was the idea of seeing her father from time to time. She lived for a time in Fitchburg, Mass., but, feeling that the people there were intolerant of travelers like herself, soon decided to move to Cambridge.
+Harley, who declined to give her last name, says that the people in Cambridge are more tolerant and that she expects to live here for “a while.”
+Asked about her toughest moments in Harvard Square, Harley, seated outside of CVS Pharmacy on Mass. Ave., gestures toward the banks down the block. She recounts sitting outside the banks at night and being propositioned by men twice her age.
+“I’ve sat right here,” she says, “and had people ask me to home with them, try to give me money.”
+Despite these moments, Harley says that she likes it in Cambridge, adding that the homeless community in the Square is particularly close-knit.
+Still Harley is not certain that she will stick with the traveling, homeless lifestyle. Asked if she could see herself settling down, Harley replies, “As I get older, I might.”
+—Staff writer Sonali Y. Salgado can be reached at sonali.salgado@thecrimson.com. Follow her on Twitter @SonaliSalgado16.
+—Staff writer Caroline T. Zhang can be reached at caroline.zhang@thecrimson.com. Follow her on Twitter @CarolineTZhang.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+Speakers predicted the expansion of urban farming on Monday at a panel hosted by the Food Literacy Project and the New Entry Sustainable Farming Project.
+The panel was preceded by a documentary about urban farming and community gardens in the United States. The film, “Growing Cities,” explored local efforts throughout the country to transform urban farming into a social, financial, and environmentally sustainable enterprise. 
+Citing the success of community “victory gardens” during the food shortages of both World Wars, the film highlighted the potential for growing food in neighborhoods with limited access to healthy foodstuffs. The gardens could be located on rooftops, front lawns, or vacant city lots.
+“This movement is not just a movement of urban farming. It’s a movement of all different types of agriculture—from expanding what we think of as alternative forms of agriculture, to changing...the system as it is,” said Margiana R. Petersen-Rockney, director of the Food Literacy Project, during the panel.
+Kate S. Petcosky, a panel member and food access coordinator at the Massachusetts-based New Entry Sustainable Farming Project, emphasized the variety of benefits from urban agriculture. Urban farms, she noted, provide far more than just another source of food. 
+“A lot of these urban farm projects are doing great work and growing great food and impacting food security in their communities, but might have an entirely social mission that they are fulfilling as well,” Petcosky said.
+She pointed to garden programs for youth development and inmate rehabilitation as examples of farms that have a broader social mission.
+Panelists also discussed the future of urban farming in light of a recent decision to make agriculture legal within the Boston city limits.
+“I think it’s great that people have a framework now,” said Siedric White, a student at the Urban Farm Institute in Boston who attended the event. “It really helps people get an idea of what's possible.”
+Panelists also noted that public interest in urban farming has grown over the last several years.
+“I think with issues like food, everyone can relate, because everyone eats, and everyone literally has a place at the table,” Petersen-Rockney said. “I think Harvard has this opportunity to play a role as a sort of connector and disseminator of this kind of information.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Just a few hundred yards from one another, Anne Cheng and Theo Lederhausen made Harvard athletics history.
+Playing on the Upper and Lower Courses of the Baltusrol Golf Club in Springfield, N.J., this weekend, Cheng, a freshman on the Harvard women’s golf team, and Lederhausen, a senior on the men’s team, did what no pair of Crimson golfers has done before—win both the men’s and women’s individual titles at the Ivy League Championship. Finishing just a few strokes over par across the three rounds, the two battled wind and rain delays en route to a third-straight Ivy crown for the women’s team and a third-place finish for the men.
+Yet for Cheng, the conference’s Rookie of the Year, and Lederhausen, a two-year captain for his squad, the victories came from very different paths. While Cheng may have opened her tournament play with a birdie on her very first hole and had a five-stroke lead heading into her 54th and final hole of the weekend, Lederhausen, who was tied for fourth after two rounds, won through a sudden-death playoff with Brown senior Nelson Hargrove.
+“[Lederhausen] had a week where he was super in-control of himself and his emotions,” said Kevin Rhoads, head coach of both the men’s and women’s teams. “Nothing got to him [and] nothing bothered him.”
+Patience and balance were certainly key to Lederhausen’s victory. Arriving at Ivies with two straight wins at Princeton and Yale in previous weeks, the senior and his four teammates sought to harness the momentum that carried them to Springfield.
+Lederhausen began the third day of play tied with Columbia rookie Christopher Chu, behind Hargrove, Cornell’s Carl Schimenti and Lions junior Brandon Jowers, just two strokes from the top.
+Amidst tough weather, however, Lederhausen remained calm. While consecutive bogeys put him at two-over-par heading into the back nine, a series of birdies built him a slim lead heading into his final holes. Even for the day at the start of the 18th hole and unaware of the standings, a three-putt bogey pushed Lederhausen back into the round-ending tie with Hargrove.
+But the veteran was unfazed.
+“That could have been something that was demoralizing and took the wind out of his sails,” Rhoads said. “Instead, he looked up…. It was so great that he had the opportunity to be in the playoff.”
+Heading back to the first tee after waiting for the final wave of golfers to finish play, Lederhausen did not let nerves or the gathered crowd mar his play. He made par on the first playoff hole to defeat Hargroves and win the first men’s title for the Crimson since 1998.
+“It was definitely bittersweet out there,” Lederhausen said, referring to his last competition with the team. “[During] the playoff at the end of the day, it was awesome to have my teammates and everyone watching.”
+While the men’s side saw a tense, down-to-the-wire competition for first place, the Crimson’s dominance was crystal clear on the women’s side.
+Cheng, who made a splash in the fall by winning the Harvard Invitational and has been an anchor in the team’s roster all season, blazed past the competition for a two-under-par score of 70 after the first 18 holes of play.
+“Going into the first round I was really pumped and excited,” Cheng said. “At the same time, I was also very focused and concentrating on each shot at a time. I didn’t realize that I played so well until the end of the round when I added up the scores.”
+The next day, the rookie maintained her lead as one of just five women in the 35-player field to shoot at or under par with a score of 72, and on Sunday, despite two late bogeys driving up her score, she held on for a five-stroke win over Princeton senior Kelly Shon and played the final two holes at perfect par to end her breakout weekend on the course.
+Cheng’s win was the second for the Crimson in three years, following captain Bonnie Hu’s victory at the 2012 Ancient Eight Tournament, and she is the third straight member of the team to receive Rookie of the Year honors from the Ivy League.
+Although Lederhausen’s departure will certainly be an obstacle for next year’s men’s program to conquer, the talented youth of Cheng and Robert Deng, the league’s Rookie of the Year and a freshman on the men’s team, hold plenty of promise as the teams await to hear about their respective NCAA Regional competitions.
+“It’s a very good year for Harvard golf,” junior Tiffany Lim said.
+—Staff writer Cordelia F. Mendez can be reached at cordelia.mendez@thecrimson.com. Follow her on Twitter @CrimsonCordelia.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+After a slight delay due to rain, the Crimson (28-15, 14-3 Ivy) hosted Dartmouth (29-16, 18-2) on Monday, dropping both games of a home doubleheader after splitting a pair of contests on Sunday in Hanover. The three losses to the Big Green on the weekend ensured that for the second year in a row, the Crimson will not represent the North Division in the Ivy League Championship series.
+The Crimson’s pitching rotation, which had been so consistent all season, gave up 17 runs in the last two games—as many as it had given up in the previous nine games combined.
+“Today was tough,” junior Emily Gusse said. “We came out and battled. They just came out a little bit hotter. It’s tough, and it’s never fun to lose your season. We are proud of what we have accomplished this year and looking forward we have learned a lot and we will grow from it.”
+DARTMOUTH 9, HARVARD 2
+With its season on the line, the Crimson came up short against the Big Green in the final game of the series.
+Dartmouth came out with a bang early, when sophomore shortstop Katie McEachern hit a home run to left center field to put Dartmouth up two runs early.
+The Crimson was unable to score, while the Big Green slowly racked up a five-run lead going into the bottom of the fifth. Harvard finally broke through when junior Katherine Lantz singled to right with runners on second and third, driving both home and putting the Crimson back in the game.
+However, that momentum soon faded as the Big Green strung together three hits and four runs the next half-inning, pushing the score to an insurmountable 9-2.
+Pitcher Morgan McCalmon picked up her tenth win of the season for the Big Green.
+The loss means that the seniors, including co-captains Kasey Lange and Shelbi Olson, will not get another chance to reach the NCAA tournament, a feat they accomplished their first two seasons.
+“Kasey and Shlebi are two great leaders that I have been fortunate enough to have three years with,” Gusse said. “I cannot speak highly enough of them.”
+DARTMOUTH 8, HARVARD 2
+In the first game of the doubleheader, the Big Green struck early, putting up three runs in the first inning and extending its lead throughout the game, ultimately downing the Crimson by a six-run margin.
+Three singles were all it took for the Big Green to manufacture three runs in the first inning, using two sacrifice flies and a throwing error to advance runners.
+The duo of junior Laura Ricciardone and freshman Taylor Cabe kept Harvard in the game for the first three innings, but they gave up a run in each of the next three innings on a pair of solo home runs and an RBI double.
+Dartmouth’s Kristen Rumley pitched six strong innings, giving up two runs on five hits for her 16th win of the season.
+DARTMOUTH 2, HARVARD 1
+The Crimson jumped out to an early lead against Dartmouth, but was unable to hold on in the second game of Sunday’s doubleheader.
+Gusse doubled to left field, driving home junior Adrienne Hume for the first run of the game.
+Ricciardone and sophomore Morgan Groom were able to hold the Big Green from scoring for the first five innings. In the sixth, however, an error by Olson allowed a runner to advance to second and eventually score on a single by Dartmouth.
+The Crimson was unable to plate a runner in the top of the seventh, giving the ball back to Ricciardone with the game still tied. Kelsey Miller, the first batter she faced in the bottom of the seventh, belted a solo shot to give Dartmouth the walk-off victory.
+HARVARD 2, DARTMOUTH 0
+In the first game of Sunday’s doubleheader, Ricciardone shut down Dartmouth for eight innings, giving the Crimson enough time to finally get on the board in extras.
+The story of the game was the pitching, with Ricciardone and the Big Green’s Rumley only allowing nine base runners in the first seven innings. The two also combined for 13 strikeouts.
+In the top of the eighth, however, Lantz broke the tie with a double to right that plated one Crimson runner. A wild pitch during the next at-bat let another runner score, giving Harvard a two-run lead.
+Ricciardone took it from there, giving up a single in the bottom of the eighth, but striking out the next two batters and getting a groundout to complete her 18th win of the season.
+—Staff writer Jacob W. Lynch can be reached at jacoblync@gmail.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The No. 13 Harvard coed sailing team made big advances this weekend in the Coast Guard Bowl and New England Dinghy Championship. Taking ninth place out of 18 teams racing, the Crimson successfully qualified for semifinals for nationals and returned home with three members recognized as All-NEISA sailors.
+The regatta took place in New Haven where Yale, the host, took first place with 111 points. Harvard’s combined score of 248 put the team in ninth.
+Senior Isabel Ruane, junior Brian Drumm, and sophomore Jake Bradt were all named All-NEISA sailors on Sunday as a result of their performances across both divisions in the regatta.
+“They all put up tremendous performances to earn these honors,” sophomore captain Andrew Mollerus said. “But their results and the team's success are the product of the hard work of over 30 people this past semester. I am incredibly proud of each and every member of our team. They all put in the reps and fostered the culture which made this possible.”
+The B division, with Ruane, Brian’s twin Michael Drumm, and senior Luke O’Connor, finished in fifth place. Brian Drumm joined Bradt in the A division which finished in 13th.
+“Our B division boat sailed incredibly well in some tough conditions, which ultimately allowed us to move on to nationals,” Bradt said. “However, Brian and I despite having sailed well against some of the top schools in NEISA previously in the season, felt as though our performance was lacking at times.”
+According to Bradt, his pair struggled most with its starts.
+“We were trying to be more conservative in this regatta,” he said. “We had trouble getting off the starting line.”
+Despite shifty conditions in New Haven, the two-day competition was only delayed once due to lack of wind on Saturday.
+The Crimson has a few weeks off before the first stage of nationals commences.
+“We are looking forward to the opportunity to shed academic commitments and the rigors of the semester while preparing for nationals,” Mollerus said. “The team has the culture, drive, and commitment to make anything possible in May.”
+—Staff writer Tanner Skenderian can be reached at tskenderian@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+ 
+ Happy Tuesday, Harvard! Hopefully your week is off to a decent start! Tuesdays are usually a random day of the week that don't have anything super unique to offer, coming after the dreaded Monday, before hump day Wednesday. But this Tuesday is basically a Thursday, as Wednesday is basically Friday, because reading period starts Thursday. Do you follow? If that confused you, good luck with your finals.
+ IN THE ATMOSPHEREToday will be even colder than yesterday, with a “high” of 46 and a 20% chance of rain. Hard to remember it’s almost May.
+IN THE D-HALLSLunchChorizo and Cornbread Crusted Cod (sometimes alliteration goes too far…)Pepperoni PizzaGreek Pizza on Multigrain Crust
+DinnerChicken StroganoffSalmon PuttanescaMultigrain Rotini Primavera with Kidney Beans
+ON FLYBY“More Grapes on Pizza”, HUDS Comment Cards: Have you ever read the notes on the Feedback forms in the d-halls? If not, Flyby’s got you covered.
+IN THE NEWS1) During Visitas, Student Groups Stage Protests on Race, Sexual Assault: “In efforts to raise awareness about campus issues, representatives from both The Diversity Report, a coalition of students of color, and Our Harvard Can Do Better, a campaign to change Harvard’s sexual assault policies, staged demonstrations throughout Visitas weekend.”
+2) Sign Language Referendum Passes Easily Amid Low Voter Turnout: “Undergraduates voted last week overwhelmingly in favor of supporting the reintroduction of American sign language courses for credit at the College, though just 18.5 percent of students voted on the referendum, which was the Undergraduate Council’s only one this term. The referendum, garnered 1,135 affirmative votes—92 percent of the votes cast. However, the Council still must vote to take an official stance on the subject, since voter participation was well below 50 percent of the total number of undergraduates.”
+3) Students Organize International “Mobs” to Raise Awareness of Malaria: The giant flash mob last Friday afternoon was part of an international campaign to publicize Global Malaria Day.
+EVENTSThe Harvard Political Union is holding a discussion with Professor Ruth Wisse on Harvard faculty diversity. Stop by room L166 at the Institute of Politics in the Kennedy School for what is sure to be an interesting talk!
+The Radcliffe Institute for Advanced Study is hosting a lecture by Berkeley history Professor Thomas W. Lacquer titled “Why Do We Care for the Dead?” Taking place in the Knafel Center (10 Garden Street) at 4 p.m., Professor Lacquer’s lecture will look to historical and anthropological cases to investigate this question.
+The Harvard Graduate School of Education has organized a panel on Urban Neighborhoods and the Persistence of Urban Inequality at 5:30 p.m. in Longfellow Hall (13 Appian Way). The panelists, who include Patrick Starkey of NYU’s sociology department, Richard Rothstein of the Berkeley School of Law, and William Julius Wilson of the Kennedy School, will examine how urban policies and transformative changes in urban communities may truly help break down racial inequalities.
+PHOTO OF THE DAY
+Employees of the DoubleTree Hotel in Cambridge and supporters stand in solidarity during the Cambridge City Council Meeting on April 28. The Council announced its endorsement of the DoubleTree workers' boycott for better wages, healthcare, and general respect from the hotel.
+TO BAN OR NOT TO BAN? The decision is out! This week, Supreme Court justices voted, 6-2, in favor of keeping the Michigan law that prevents public colleges from factoring race into the admissions process. What does this mean for the future of affirmative action policies? Let the debate begin.
+CIAO, COMMON APP: The idea of going to school abroad can seem daunting to some students. For international students applying to U.S. colleges, the U.S. college application process can also seem very foreign. Huffington Post writers offered their advice to international students applying to U.S. schools by suggesting that students plan ahead to make sure they meet all their deadlines and to make sure they know about all the different tests that U.S. schools accept (SAT, ACT, subject tests, etc.).
+WELCOME, CLASS OF 2018: In this year’s admissions process, Harvard University accepted a record number of African American students for the Class of 2018 at 11.9 percent of all the accepted applicants. But wait, that’s not all! 14.3 percent of Williams College’s Class of 2018 are of African American descent as well.
+COMPETING IN THE IVY LEAGUE: Are all Ivies made equal? Maybe not. Between the application rounds for the Class of 2017 and the Class of 2018, the University of Pennsylvania saw a 14.4 percent increase in applications whereas Dartmouth saw a 14.2 percent decrease. Harvard received 2.1 percent less applications. Will this trend continue into future years? Only time will tell.
+AMBIGUOUS ADMISSION RATES: Harvard accepted 5.9 percent of its applicants to the Class of 2018. But what does that really mean? Nick Anderson from the Washington Post argues that admission rates can be misleading because of how different schools define an acceptance offer and an application to the school. Anderson says, “Various colleges define applications in various ways. Some are quite strict about only counting apps that have all required elements in a file–essays, test scores, transcripts, letters of recommendation, etc. Others essentially count anyone who starts the process and pays a fee.” So what does Harvard’s 5.9 percent refer to?

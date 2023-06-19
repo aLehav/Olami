@@ -1,0 +1,361 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Around the time Harvard students return to campus in the fall and start browsing the course catalog, our nation’s two million farmers pore over a catalog of their own. They choose, of course, not between classes but between seeds, which are distributed by enough suppliers in enough variety to take up three or four Q guides.
+Masked beneath this illusion of choice, however, lies the workings of big seed—the corporate enclosure of 67 percent of the proprietary seed market by 10 companies which in turn own or are affiliated with thousands of others. They are the proverbial Expos of the commercial seed catalog—patronizingly marketed under the pretense of free choice and variety, yet hard if not impossible to avoid.
+The kingpin of this seed cartel, Monsanto, has become commonly cited as the “most evil corporation" in the world, an epithet earned no doubt because of the popularity of documentaries like "Food, Inc." and "GMO OMG" and the power of the art of storytelling. We've heard compelling anecdotes from flannel-clad farmers, with little authority beyond their all-Americanism and the blueness of their collar, of Monsanto’s henchmen testing their crops in the middle of the night for traces of their product and filing a lawsuit the following morning.
+Monsanto is perhaps the last company on the planet that deserves anything that can be remotely interpreted as slack. But it is important to note that in the process of denigrating Monsanto, we have lost sight of a comprehensive and rational dialogue on agricultural innovations needed to meet a higher—and categorically different—demand for food than we’ve ever seen before. To that end, we should absolve Monsanto from some blame.
+Monsanto owns patents on many of its genetically modified seeds, most notably its Roundup Ready series, which has been engineered to be resistant to Roundup herbicide (also owned by Monsanto). Farmers who plant Roundup Ready seeds or other GMOs therefore have had to use less herbicide and insecticide and gain greater crop yields. To protect its business interests and allegedly the spirit of innovation that comes in tandem, Monsanto contractually obliges farmers to buy new seed every year instead of letting them save seed from the previous crop. Monsanto’s business model effectively treats seeds like music or software—making those who refuse to buy Monsanto’s products from the source pirates, who should have legal action brought against them.
+But farming isn’t a software industry as much as it’s an American institution. Farmers are the lifeblood of this nation, toiling amber fields of grain from dawn to dusk to literally, and far more importantly, symbolically feed the country. This makes it infinitely easier for anti-GMO activists to use storytelling as a tool to skew public opinion against Monsanto and, far more unfortunately, against innovation in agriculture.
+Monsanto does not, for example, sue farmers with accidental traces of Monsanto seeds blown over from neighboring plots, despite the popularity of the story of ultimately dishonest canola grower Percy Schmeiser. The corporation furthermore has never released the so-called “Terminator seed” that only propagates once and cannot be saved, yet this continues to be a popular sound byte in anti-GMO rhetoric. Environmentalists who forge sentimentalist narratives to fight GMOs are as counterproductive as their adversaries. In shifting all the blame for the food-industrial complex on corporate greed, they glorify farmers who douse their crops with chemicals in the name of greater yields, and those who are using well-established and GMO-free—but perhaps equally unsustainable—methods to meet a higher demand for food.
+Farming is a field that has thrived on innovation. Those who support Monsanto and those against it share the responsibility of feeding the seven billion people on this planet and feeding them well—a task that is probably impossible without patently unconventional agricultural techniques.
+In his aptly named book “How to Grow More Vegetables Than You Ever Thought Possible on Less Land Than you Can Imagine”, activist John Jeavon claims that every person on the planet can feed themselves with just 100 square feet of well-managed land. He introduces hydroponics and integrated pest management as alternatives to GMOs, not alternatives to an updated agricultural system altogether.
+Monsanto’s PR-sensitivity is a good reminder that big companies have their own interests in mind first. It’s also a good reminder that GMO technology is only one and a grossly under tested solution to food shortage and food insecurity. Food is guilty until proven innocent, and farmers have the responsibility and option to go post-GMO by returning to conventional seed grown with unconventional methods. But by disparaging Monsanto and pitying the farmer, we implicitly perpetuate the frame of mind that farming is this unchanging, idyllic institution that should be left the way it is. On the contrary, farming needs to be disrupted—by manifold agents who should be checked, but not stifled, by public opinion. Reason should prevail over emotion as we approach a new agricultural frontier, one that is limited not by the extent of American land but by the extent of American ingenuity.
+Shubhankar Chhokra ’18, a Crimson editorial writer, lives in Apley Court. His column appears on alternate Fridays. 
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+By basically any metric, President Obama took a shellacking in the 2014 midterm elections.
+The Democrats lost nine seats in the Senate, 24 of 36 state governorships, and gave up so many seats in the House of Representatives that the GOP won its largest majority in that body since 1928, the year Americans elected President Hoover—damn.
+Just how bad did these midterms look for President Obama? Well, in a press conference the day after the elections, he claimed that he would “enjoy having some Kentucky bourbon with Mitch McConnell.” This is the same Sen. McConnell, mind you, who A) has a chin not quite differentiable from that of a turtle and who B) once said that “the single most important thing [Republicans wanted] to achieve [was] for President Obama to be a one-term president.”
+Point being: Getting bourbon with Mitch McConnell is just not something many people—and in particular President Obama—would claim to “enjoy” under ordinary circumstances.
+So, with the GOP taking control of both houses of Congress—so badly that the president offered to get drinks with McConnell—the 2014 midterm elections must have been borderline detrimental to Obama’s presidency, right? Wrong. They were exactly what he needed.
+I could point to the president’s recent climate deal with China as evidence of something that reflects positively on his post-2014 midterms presidency. Or I could look at his decision to end America’s embargo on Cuba. But, obviously, while those things happened after the midterms, it’s impossible to prove that they wouldn’t have happened anyway; as Harvard students say far too often, correlation does not always mean causation. For the same reason, I am not going to tout the statistically significant uptick in the president’s approval rating in the last month or so. Who knows if the midterms caused this in any way? And I’m not going to focus on his executive actions on immigration, which will improve the lives of millions of young immigrants, though I view all of the aforementioned things as legitimate accomplishments for POTUS.
+Instead, I’m going to focus on something far more subjective—a decision that would have Nate Silver, not to mention The Crimson's Data Science Team, livid. Here’s my piece of highly empirical evidence: The president’s got his mojo back—with a vengeance.
+Many political thinkers have argued that these elections essentially make it impossible for the president to pass legislation through Congress, and therefore, he’s become a lame duck. So, regardless of his so-called mojo, the argument goes, he can’t be effective. What these pundits leave out is the fact that Obama has basically been legislatively crippled since the GOP took the House in 2010 anyway—losing the Senate in these midterms didn’t change that. If anything, the most recent elections put the onus on Republicans to pass legislation, which allows Obama (for the first time in nearly 8 years) to play the role of underdog—a role he kills. Want proof? Just ask Hillary.
+From this position, almost any policy the president enacts seems like a long shot, borderline miraculous accomplishment. And with each new populist policy he advocates for—from two years of free community college to increased access to high speed, low-cost broadband—the president is building momentum. With the economy growing at the fastest rate since 1999 and gas prices down over a dollar since last year, Obama suddenly has some semblance of a benefit of the doubt from the American people, as evidenced by his climbing approval ratings. This is why he was able to take repeated jabs at the GOP during the State of The Union, while maintaining a confident, wide-smiled demeanor. Ironically, by losing Congress, for the first time since he became president, Obama is in control.
+As the great Austin Powers once said, “You found my mojo? Groovy, baby.” Who knew it would take a shellacking?
+Sam H. Koppelman ’18, a Crimson editorial writer, lives in Hollis Hall.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+On Monday, the White House released its budget for 2016. It’s a monstrously imposing document, full of graphs and tables that detail the 10-year cost projections for each of the thousands of programs it covers. Yet it is also an important document, which outlines a set of ideals that can take the country in a positive direction with new policies for corporate accountability, changes in the tax code to combat income inequality, funding for infrastructure and higher education, and tax credits directed towards middle- and lower-income families.
+The sad reality is that this document is almost entirely symbolic, as there is no chance that the Republican-controlled Congress will pass it in its current form. The Obama budget proposes $4 trillion of total federal spending for the 2016 fiscal year, the largest portion of which will go towards the Departments of Health and Human Services, and GOP leaders have dismissed it out of hand. Some of the budget’s bipartisan proposals could, however, serve as the basis for compromise, though the chances for such an outcome seem slim.
+Obama’s budget plan does not envision that the budget will be balanced anytime soon. Rather, it aims to stabilize the federal budget deficit over time by shrinking it as a percentage of GDP. The $474 billion dollar deficit forecast for 2016 represents 2.5 percent of American GDP. In 2015, the deficit to GDP ratio was 3.2 percent. A balanced budget would, of course, be preferable, but given the continued rise in health care costs and an aging population, the plan accomplishes some progress on deficit reduction.
+In line with the president’s proposals in the State of the Union address last month, the White House is pitching the budget as an example of “middle class economics.” Among the excellent policy ideas here are a tax credit for families with two working parents, $3 billion for STEM education, and billions in new funding for ESL, Head Start, and teacher training and counseling programs. The budget also sets aside $500 million more for Preschool Development Grants, to help “targeted communities” fund universal preschool programs. In addition, the president proposes new programs for tuition-free community college, low-interest student loans, and tax credits for higher education.
+To pay for these programs, the White House budget would raise capital gains taxes and close corporate tax loopholes. Over the past several years, many U.S.-based multinationals have found ways to dodge the taxman by keeping their foreign earnings overseas in countries with lower corporate tax rates, rather than bringing the money back to the United States. The budget proposes a 14 percent minimum tax on over $2 trillion of these “unrepatriated earnings,” and proposes taxing future earnings at 19 percent. These new policies would raise $248 billion over five years, money that the president wants to fund infrastructure projects and recapitalize the barely solvent Highway Trust Fund.
+As noted above, the president’s budget also has ideas that Republican policymakers should be eager to support. First among these is reversing the damaging cuts to the military unleashed by the sequester. In addition, the president’s plan to fund the High Trust Fund is “not too different from one put forward by Senator Rand Paul,” according to The New York Times.
+From promoting education to working towards revitalizing America’s infrastructure, the Obama budget aims to strengthen American communities and the country's economic competitiveness. Republicans have made clear their opposition to the plan as a whole. One can only hope that they will be willing to negotiate on the common ground that does exist, however small.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: February 6, 2015, at 7:22 p.m.
+The fact that a terrorist attack occurred in France was not a surprise, Gérard Araud, French ambassador to the United States said on Thursday during a talk at the Harvard Center for European Studies.
+The discussion, entitled “France After the Terrorist Attacks in Paris,” addressed the shooting at satire magazine Charlie Hebdo in Paris last month.
+“We knew there would be a terrorist attack,” he said. “The danger is still there.”
+Araud blamed the increased risk of terrorist attacks in France on a radicalization of French youth. According to the ambassador, some of the 4,000 to 5,000 extremist youth currently living in France became radicalized in Syria, a country in which one of the Charlie Hebdo shooters had planned to fight. He said that it would not be legal to arrest or feasible to monitor all of the extremists in France.
+“Of course we can’t arrest them,” he said. “We are a democracy.”
+According to Araud, it takes four to five police to monitor a single individual.
+Despite these challenges, Araud said that France has addressed extremism by increasing the budget of its Ministry of the Interior and by passing legislation intended to prevent citizens from traveling to and returning from Syria. Araud added that international efforts to prevent radicalization are underway, pointing to an anti-extremism summit that will occur at the White House later this month.
+Araud also addressed European and American relations with Russia during the talk, which about 60 people attended. He said he thinks Russia is ready to escalate the conflict over Ukrainian sovereignty as much as necessary in the face of international opposition, while the U.S. and Europe are not.
+Regarding proposals to equip Ukrainians with arms to defeat the occupation, he asked, “Do you think the Ukrainians would be able to beat the Russians?”
+Araud was appointed the French Ambassador to the United States in September 2014. This trip marks his first visit to the French consulate in Boston, according to Maïa Gabily, press and public affairs attachée for the consulate.
+Gabily said France maintains a consulate in Boston in large part because the country has significant business interests in New England. As many as 20,000 business affiliates of France live in the region, she said.
+—Staff writer Daniel R. Levine can be reached at daniel.levine@thecrimson.com. Follow him on Twitter @danielrlevine.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Gordon S. Jones, managing director of the Harvard Innovation Lab, is set to leave for Boise State University at the start of June. Jones will join BSU as the founding dean of its new innovation college, which will enroll students for the first time this fall.
+Jones, a former Harvard Business School admissions officer, joined the i-lab in 2011 as its first managing director and oversaw its development into an institutional resource and space for students across the University. Approximately 3,800 students made use of the i-lab in the past year, Jones said.
+“[Jones] joined the i-lab when it was just an embryonic idea, and when it was unclear how to get broad-based support for the i-lab across Harvard,” said i-lab Faculty Chair Joseph B. Lassiter. “Today, the... results are in, and the progress is quite simply amazing.”
+Harvard has not yet announced Jones’s successor, who will be chosen by an advisory board made up of the University deans and provost, Jones said. While Jones said he is not an “official participant in the evaluation, screening, or hiring” process, he was “confident” that i-lab Director Jodi Goldstein would be evaluated as a candidate.
+Goldstein declined to comment on the status of the selection process or her possible candidacy. She said she expected Jones’s replacement will be announced in the near future.
+Jones will continue to lead the i-lab until the end of the academic year, assisting with the transition process once a replacement has been found.
+Goldstein said that while students and faculty could expect “continuity and consistency” in the i-lab’s services over the next semester, Jones’s departure could represent a possible moment for change and reform at the i-lab.
+“It’s a great time for the i-lab to possibly reimagine our organizational structure,” Goldstein said.
+According to Mark J. Rudin, vice president of research at BSU, Jones was sought after because of his extensive work at the i-lab. Jones has already begun building a relationship with his future colleagues at BSU, Rudin added.
+Though Jones said that a move from Harvard to a “public university out West [was] a little unconventional,” he highlighted the “spirit of experimentation” as common across the two schools.
+“It’s a natural next step when you look at me as someone who’s a builder,” he said. “I like to go into higher-ed institutions where there’s opportunity.”
+—Staff writer Ignacio Sabate can be reached at ignacio.sabate@thecrimson.com . Follow him on Twitter @TheIggySabate.
+—Staff writer Luca F. Schroeder can be reached at luca.schroeder@thecrimson.com. Follow him on Twitter @lucaschroeder.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Jill E. Abramson ’76, visiting lecturer in the English Department and former executive editor of the New York Times, will remain in her position at Harvard through the 2015-2016 school year.
+Abramson came to Harvard last fall as a visiting lecturer after leaving her position at the New York Times. Her time at Harvard was originally scheduled to last one academic year.
+“I am thrilled to be teaching another year, especially when journalism is in such an interesting, challenging, transformational time,” wrote Abramson in an email. “I am dazzled by the insights and writing abilities of my Harvard students.”
+“Jill’s commitment to the department and to the University, but above all to our students, has been exemplary,” wrote English Department Chair W. James Simpson in an email.
+At Harvard, Abramson teaches a workshop on narrative non-fiction journalism, called English Cijr: Introduction to Journalism. Abramson’s extended contract coincides with an English Department initiative to strengthen the creative writing program.
+—Staff writer Caroline C. Hunsicker can be reached at caroline.hunsicker@thecrimson.com. Follow her on Twitter @cchunsicker.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Professors in the Faculty of Arts and Sciences praised the school’s new sexual harassment procedures, saying that they clarify the boundaries between the school’s different constituencies and their respective responsibilities in responding to instances of sexual harassment.
+The new procedures, released Monday, remain largely unchanged from a draft presented at December’s Faculty meeting, but include minor changes in language and an added “Frequently Asked Questions” supplement.
+The finalized procedures are the result of months of work by a committee led by History professor Alison F. Johnson, who, along with the other committee members, spent last semester collecting feedback from students and FAS affiliates about the design of a new policy to address sexual and gender-based harassment.
+The outcome, some professors said, is a set of procedures that make clearer expectations and obligations surrounding sexual harassment.
+“If a student did come to me [about an issue of sexual harassment], then I think I’d be very much better placed now to respond,” English Department Chair W. James Simpson said. “I would be responding by sending the people who really understand the legal and emotional aspects of all this.”
+Physics Department Chair Masahiro Morii agreed that the new procedures clarify the appropriate levels of conduct between all members of FAS, including undergraduates, teaching fellows, and professors. As was already the case under FAS's interim policy, which was in effect from August until earlier this week, faculty members are formally prohibited from having romantic or sexual relationships with undergraduates.
+“I want to make sure that everybody knows what the boundaries of behavior are, and I also want to make sure that students know where to reach out, what kind of resources are available,” Morii said.
+Women, Gender, and Sexuality professor Sarah S. Richardson said she was glad a central policy was in place for FAS, although she said there should always be opportunity for continued discussion and revision.
+“I really feel that there has been a good process and the final policy is going to be an improvement for everyone,” she said.
+Other professors said they were grateful for the work the committee did to offer recommendations for the school’s procedures.
+“I thought that [Johnson] did a wonderful job in her presentation to the Faculty. It was clear, gave a sense of coherence and urgency and fairness,” Anthropology professor Arthur Kleinman said. “I was impressed, and I think it is good to have this clarified.”
+Richardson said she was “pleased” with “how thorough the process has been, the open vetting of issues, how the process has been with student concerns in particular.”
+For her part, Johnson, who is on leave for the spring semester, said she thinks “this is a good place to be as an institution,” though she added that FAS should still always look to discuss and possibly adapt its procedures.
+“I believe we have a really good starting place,” Johnson said. “ I don't think finishing the policy  and procedures means that we’re done; it means that we have a reasonable policy and procedures in place that can help us start a conversation about guiding principles in our community.”
+—Staff writer Karl M. Aspelund can be reached at karl.aspelund@thecrimson.com. Follow him on Twitter @kma_crimson.
+—Staff writer Meg P. Bernhard can be reached at meg.bernhard@thecrimson.com. Follow her on Twitter @meg_bernhard.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In its inaugural semester, Harvard’s new Energy and Environment secondary field, offered through the Environmental Science and Public Policy concentration in coordination with the Harvard University Center for the Environment, has drawn 20 students from concentrations across the life sciences, social sciences, humanities, and engineering.
+When creating the secondary field, administrators aimed to offer a distinct alternative to the ESPP concentration. In fact, there are a number of courses in the secondary field in the humanities and social sciences that do not count for credit for the ESPP concentration.
+The secondary field aims to “provide every Harvard undergraduate the opportunity to become exposed to the issues of climate change and energy technology,” according to Geology professor Daniel P. Schrag, the director of the Center for the Environment.
+Paul R. Moorcroft, head tutor for the ESPP concentration, said the faculty recognized a broader interest in environmental issues among students of all disciplines.
+Eric Simms, the Educational Programs Manager in the Center for the Environment, said faculty members had an untapped “interest in drawing students from the social sciences and humanities.”
+Of the 20 students pursuing the secondary, eight are seniors, 11 are juniors, and one is a sophomore. Sixty percent of the students are concentrating in the social sciences or humanities, and the other 40 percent are concentrating in the natural sciences or engineering, according to an email from Simms.
+Students pursuing the secondary must complete four courses—one foundational course and three upper-level courses—as well as attend one of several evening discussions with faculty members who are associated with the Center for the Environment.
+“The concentration has much more of a focus on the public policy side of things,... [while] the secondary field is designed to be much broader in exposure,” Simms said.
+Anticipating higher student enrollment in the coming years, Schrag said that the challenge for him and his colleagues would be to provide proper advising for each student in the secondary field.
+“One of the distinctions between this secondary field and others, is that we’re very committed to good advising, not just checking off the requirements and getting the certificate in the secondary field,” he said.
+Simms expressed his hope that the secondary field will “reach out to a lot of students across a whole variety of concentrations, so that when students are leaving Harvard they are more informed and better versed in energy and environment issues.”
+—Staff writer Jessica Kim can be reached at jessica.kim@thecrimson.com.
+—Staff writer Steven H. Tenzer can be reached at steven.tenzer@thecrimson.com
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The professors in charge of the Humanities Frameworks courses, first offered last year and now in their second iterations, have adapted their syllabi in response to changes in enrollment and interest, expanding the interdisciplinary nature of the courses.
+Titled Humanities 11a: “Frameworks: The Art of Looking," Humanities 11b: “Frameworks: The Art of Listening,” and Humanities 11c: “Frameworks: The Art of Reading,” the classes were designed to provide a comprehensive introduction to the humanities, according to Diana Sorensen, dean of the Arts and Humanities Division within the Faculty of Arts and Sciences.
+For two classes, the Art of Looking and the Art of Listening, the interest that science students showed in certain topics discussed last year has prompted more stress on applying humanities methods to the sciences.
+In its first offering last semester, the Art of Looking discussed the history of the microscope and scientific images, which increased the number of science concentrators interested in the course, according to instructor of the Art of Looking, History of Art and Architecture professor Jennifer L. Roberts.
+Enrollment in the Art of Looking increased from 54 students last year to 111 students this semester.
+“Many of the students who have been the most galvanized by the class have been students in the sciences,” Roberts said. “They were thrilled by the fact that they suddenly had all of these new tools for their work in the sciences.”
+Similarly, John T. Hamilton, professor of Germanic languages and literatures and instructor of the Art of Listening, discovered during the first semester of the course that science students took a special interest in the class, especially during a unit focused on the stethoscope.
+“Lots of natural science people and pre-med types were very excited about how listening plays a role in diagnosis with the invention of the stethoscope and how a doctor has to become a very accurate listener,” Hamilton said.
+“Now,” said Hamilton, “knowing that this is of interest, we will simply emphasize it further, and bring in more examples.”
+This semester’s offering of the Art of Reading has several changes as well. The course is co-taught this semester by East Asian Languages and Civilizations professor Michael J. Puett and Slavic Languages and Literatures professor Julie A. Buckler, marking a change in faculty from the first time the course was offered.
+According to Puett, he expanded the course material to include more international works, a change he attributes to the rotating faculty and areas of study in which he and Buckler specialize.
+“One of our goals has been to make it a very cosmopolitan course, so we’re thinking what would be great works to read from any tradition, that would simply be exciting for that goal of thinking about reading as an art,” Puett said.
+—Staff writer Caroline C. Hunsicker can be reached at caroline.hunsicker@thecrimson.com. Follow her on Twitter @cchunsicker.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+RoboBees, mathematical theories of fire, and predictions that 2015 will see the discovery of extraterrestrial life abounded in Sanders Theatre on Thursday night at "Harvard Thinks Big," an annual evening of short presentations by professors sponsored by the College Events Board.
+Interim Dean of the School of Engineering and Applied Sciences Harry R. Lewis ’68 began the series of presentations by presenting a summary of Harvard engineering’s past, present, and planned future. He said former presidents Charles W. Eliot ’20 and A. Lawrence Lowell negatively affected the school by asserting that engineering did not belong in a liberal arts setting, while Abbott Lawrence and Gordon McKay helped Harvard by endowing early versions of its applied science program.
+Lewis then highlighted several ongoing projects at SEAS, including self-assembling robots developed by Computer Science professor Radhika Nagpal, smooth-flying RoboBees created by engineering professor Robert J. Wood, and a material so slippery germs won’t stick to it designed by Materials Science professor Joanna Aizenberg.
+He concluded his presentation with details about the upcoming Allston move, including a slide that displayed an aerial view of the campus and labeled Allston as “The Promised Land.”
+“We are going to change Boston, change Harvard, and change the world with what we’re doing there,” Lewis said.
+He also called the move “the most important thing that’s going to happen at Harvard in a hundred years.”
+Bethanne Altringer, lecturer on innovation and design at SEAS, spoke about technology brokering, a strategy in which inventors merge the expertise of different disciplines to create something new.
+Astronomy professor David Charbonneau, who spoke after Altringer, donned a graduation cap and hood for his presentation. Pretending to exist 30 years in the future, he spoke about a May 2015 discovery of extraterrestrial life as though it had already happened.
+Charbonneau also described anticipated successes of the Giant Magellan Telescope, a device expected to be completed in 2021.
+Concluding the event, lecturer on Computer Science David J. Malan ’99 addressed the popularity of his course Computer Science 50: "Introduction to Computer Science I." He said that the course aims to create a “much more social environment” where students not in the course might be tempted to ask, “What is it you’re working on?”
+Applied mathematics professor Michael P. Brenner also presented Thursday evening.
+After the talk, some students said they would have liked to hear from more professors outside of SEAS.
+“I wish there was a little bit more academic diversity in the speakers,” Brandon A. Wright ’18 said.
+African and African American Studies professor Jamaica Kincaid and Music professor Ingrid T. Monson were also scheduled to present but canceled.
+—Staff writer Daniel R. Levine can be reached at daniel.levine@thecrimson.com. Follow him on Twitter @danielrlevine.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: February 6, 2015, at 7:24 p.m.
+Harvard College received an all-time high of 37,305 applications for admission to the Class of 2019, an increase of 3,010 applications from last year.
+Dean of Admissions and Financial Aid William R. Fitzsimmons ’67 speculated that the Admissions Office’s use of a new low-income student outreach program called Harvard College Connection and last year’s news that Kenneth C. Griffin ’89 donated at least $125 million in support of undergraduate financial aid may have contributed to the 8.8 percent increase in applications for early and regular admission.
+“I think that when Ken Griffin’s gift came, the timing was perfect and lots of things came together,” Fitzsimmons said in an interview Thursday. “It allowed us to once again reinforce that if you’re someone of excellence, we’re open to you.”
+The number of applicants reporting interest in financial aid increased this year to nearly 75 percent, Fitzsimmons said.
+There was a 38.9 percent increase in prospective Computer Science concentrators in the applicant pool, the greatest increase of any field. Director of Admissions Marlyn E. McGrath ’70 credited that boost to the rise of the popular course Computer Science 50: “Introduction to Computer Science I” in a press release.
+Fitzsimmons added that the College saw an 11.7 percent increase in the number of prospective students considering studying the arts and humanities. He cited the recent opening of the renovated Harvard Art Museums and the recent proposal of a “Theater, Dance, and Media” concentration as catalysts for interest.
+The ethnic composition of the applicant pool was similar to last year, according to Fitzsimmons, with 21.1 percent of applicants identifying as Asian, 10 percent as African-American, 12.5 percent as Latino, 1.6 percent as Native American, .4 percent as Native Hawaiian, and 12.3 percent as multiracial.
+According to Fitzsimmons, 18.4 percent of applicants are international citizens.
+The Admissions Office saw the largest jump in applications from the Midwest and Mountain regions this year, posting 13.6 and 16.1 percent increases, respectively, Fitzsimmons said. While crediting the growth to expanded recruiting efforts in rural areas, Fitzsimmons said that the number of applicants from underrepresented regions was still relatively small.
+“In every one of these geographic areas, they’re almost identical to last year,” he said. “I could try to puff it up and say there’s a 16.1 percent [increase this year] versus an 8.1 percent change in Mountain states [last year], but that’s from 1,277 to 1,483 applicants. It’s not a big jump.”
+Despite the record-high number of applications, Fitzsimmons said the Admissions Office is more concerned about the quality, rather than quantity, of its prospective students.
+“It isn’t about your yield rate and it isn’t about your admit rate; it’s all about the excellence and the character,” he said. “It’s about how terrific are the people you’ve admitted this year in terms of educating one another, inspiring each other and faculty members.”
+The College has already accepted 977 students to the Class of 2019 from an early applicant pool of 5,919 people under its restrictive early action program, marking the program’s lowest acceptance rate—16.5 percent—since it was reinstated in 2011.
+Elsewhere in the Ivy League, Yale saw 30,227 undergraduate applications, the second-largest number in the university’s history, according to the Yale Daily News. Princeton received 26,993 applications to its class of 2019, also its second-largest applicant pool. Dartmouth, recovering from a 14 percent drop in applications last year, saw just short of 20,500 applications, a boost of more than 6 percent. Brown received 30,360 applications, roughly consistent with the previous year.
+The Crimson was granted early access to application figures and an interview with Fitzsimmons under the condition that it not publish its story until Friday morning. Anna Cowenhoven, a spokesperson for the Faculty of Arts and Sciences, sat in on the interview.
+—Staff writer Daphne C. Thompson can be reached at daphne.thompson@thecrimson.com. Follow her on Twitter @daphnectho.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A few years from now, members of the Harvard men’s ice hockey team might remember Tuesday night’s clash with Boston University in the first round of the Beanpot with a certain sense of appreciation.
+In what one can only describe as an instant classic, upwards of 100 shots on goal and nearly four hours passed between the No. 6/6 Crimson (12-6-2, 8-4-2 ECAC) and the No. 3/2 Terriers before BU junior Danny O’Regan lit the lamp at 2:18 in the second overtime period to send his team to the 63-year-old tournament’s final.
+Harvard hockey fans will remember their team’s effort for a long time. Junior goaltender Steve Michalek’s 63 saves will go into the Crimson and Beanpot record books. The emphatic return of sophomores Alex Kerfoot and Sean Malone, the video review of the third period that deemed a go-ahead goal inconclusive, and the staunch defensive efforts of junior Brayden Jaw and freshman Eddie Ellis will also find their way into tournament lore.
+But for now, freshman forward Seb Lloyd and his teammates harbor no sentimental feelings for Tuesday night. After all, they have more hockey to play—three daunting games away from Cambridge in four nights, starting Friday.
+“The guys are pretty drained emotionally, physically,” Lloyd said on Wednesday. “I think everyone’s kind of refocusing, getting set for the weekend now [and] kind of putting [Tuesday night] behind us. But it was obviously a pretty demoralizing loss after we put so much into it.”
+After what Lloyd described as the “most draining game [he’s] played in,” Harvard is preparing for what could be the most draining stretch of its season so far. The Crimson will visit No. 15/15 Yale tonight before busing over to Brown on Saturday and capping the weekend at TD Garden against No. 11/12 Boston College in the Beanpot consolation game.
+In Yale (12-6-3, 7-5-2), Harvard will face one of the best defenses in the country—a unit that has given the Crimson fits. Backstopped by sophomore goaltender Alex Lyon, coach Keith Allain’s squad has held Harvard to only one goal in each of the teams’ two meetings this season, including a dominant 4-1 Bulldog effort at Madison Square Garden in January.
+The Crimson will bring two new weapons to The Whale, however, in Kerfoot and Malone. After 19 games in which one, the other, or both were on injured reserve, the stars aligned on Tuesday to allow the sophomore centers to return to the lineup together.
+They did not disappoint in their return, with each registering a goal. Malone, who was forced to the bench during overtime by leg cramps, will be healthy enough to travel with the team this weekend.
+That’s good news for Lloyd, who has winged Malone in the four games that the Buffalo Sabres draft pick has played this season.
+“Every time he’s on the ice there’s an opportunity for something to happen,” Lloyd said. “And he’s so fast up the middle of the ice. As a winger, you just try to fire the puck to the middle and let him get his legs going.”
+While Friday will likely be a defensive game, Saturday has the potential to be a shootout. Despite lofty preseason expectations and veteran scoring threats like senior Matt Lorito and junior Mark Naclerio, Brown (4-16-1, 1-12-1) and its young defensive corps have the worst goal-differential in the conference.
+But coach Jerry York’s BC team is always dangerous. Despite a slow start, top prospects such as freshman defenseman and Norwood, Mass. native Noah Hanifin have boosted the Eagles (16-9-2, 8-5-0 Hockey East) back into the tournament hunt. As of Wednesday, the group sat just behind the Crimson in the PairWise Rankings.
+If you count the extra time on Tuesday, Harvard will clock almost four-and-a-half games this week—a more taxing rate than most pros face on any given week of the NHL regular season. Coach Ted Donato ’91 observed after the BU loss that his team may have “[run] out of gas a bit” in the later stages.
+Nevertheless, Lloyd is confident in his team’s conditioning and ability to reset.
+“I think we’re going to approach the games on the weekend and the Beanpot on Monday the same way that we approach any other game,” Lloyd said. “I think physically we’ll be ready.”
+—Staff writer Michael Ledecky can be reached at michael.ledecky@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard-Yale is back, and this time Lee Corso is not coming with it.
+If you missed last weekend, here’s a quick recap of where the league stands. Harvard swept the Penn/Princeton road trip for the second year in a row to right the ship after a home loss to Dartmouth. It’s been a tough season for the Killer Ps, who have a combined 14-21 record on the season. Consequently, I’ll be rechristening them the Black-Eyed P's from here on out.
+Yale extended its league-winning streak to four with solid victories over Cornell and Columbia. On the topic of rebranding, it’s occurred to me that the twin New York teams have never had a deserving nickname. Since they have spotted a collective 40-38 home record over the last two-plus years and a Columbia affiliate has admitted to inflating grades, I’m going to call them the Gentleman’s C’s.
+With every other team posting a 1-1 record or worse over the weekend, the two foes are one-two in the standings once again. Harvard took out Yale on its home floor to clinch the title last year, shutting down everyone but junior forward Justin Sears in a game that was 9-0 at the first media timeout and not much closer the rest of the way. This was after Yale snapped Harvard’s 20-game winning streak at Lavietes earlier in the year—prompting the Yale Daily News to declare that the Bulldogs had slayed the “Crimson goliath."
+The rivalry is arguably nastiest in print. James Jones told the New York Times in 2008 that “there seems to have been a drastic shift in restrictions and regulations with the Harvard admissions office,” arguing that Yale “could not get involved with many of the kids that they are bringing in.” Eighteen months ago, Jones fired another shot around the league, noting that a team can meet the Athletic Index eligibility standards by recruiting high-AI athletes who may not play and saying, “It is done. Not here at Yale, but it is done.”
+On the court, the teams each boast their own Ivy League Player of the Year candidate. For Harvard, it is do-it-all senior and last year’s winner Wesley Saunders—Harvard’s best playmaker and wing defender. Saunders leads the team in points, steals, and three-point shooting accuracy, ranking second in rebounds and assists. Before the season, Crimson coach Tommy Amaker noted that he has a chance to “become one of the best to ever put on this uniform.”
+Yale answers with Justin Sears. The junior leads the league in field-goal percentage, ranking fourth in points and rebounds per game and second in blocks per contest. In conference play, he’s putting up scathing averages of 22.3 points and 8.3 rebounds a game. Jones declared before the season started that “in my mind, it’s hard to make an argument that he is not the best player in the league.”
+The Elis come in with the little brother chip squarely on their shoulder. While Harvard has made three straight tournaments, Yale hasn’t made March Madness since 1962. Jones has tirelessly built a program that staked its claim as the best team in Connecticut when it beat in-state rival UConn earlier this year. His team mirrors Amaker’s, from the sparkplug point guards (Bulldog junior Jack Montague versus Crimson junior Siyani Chambers) to the cadre of senior big men (Greg Kelley and Matt Townsend for Yale, Jonah Travis and Steve Moundou-Missi for Harvard).
+The football teams played a game for the ages in November. The spring-cap shapes up to be as good; though with 10 games to go, a win won’t settle the race—it will write the story for the rest of the year.
+PRINCETON AT COLUMBIA
+The winner of this game will grab the inside track to joining the Harvard-Yale duo at the top of the Ancient Eight. Each has three games remaining against the duo, with star young players (Princeton’s Steven Cook, Columbia’s Kyle Castlin) that are nightmare matchups for both teams. If you needed any more reason to watch this one, take a hint from the Columbia Spectator. Not only did the staff see it fit to put two writers to co-write the preview for this week’s games, but Thursday’s page also featured a column comparing Columbia’s loss to Yale to the Super Bowl.
+I must say, Howard, those boys seem awfully worked up.
+Pick: Princeton
+PENN AT CORNELL
+In what passes for bulletin board material in the Ivy League, Daily Pennsylvanian columnist Steven Tydings noted that this weekend “the Red and Blue have the chance to rebound against two decidedly less talented squads in Cornell and Columbia.” Oof. But let’s remember that the Quakers are being outscored by nearly five points a game this season. They have won consecutive games just twice this year and failed to put up any semblance of a fight Saturday night against Harvard. By contrast, Cornell led Yale midway through the second half and just made tofu out of mealworms. Don’t sleep on these guys.
+Pick: Cornell
+DARTMOUTH AT YALE
+…
+…
+Hear that? It was the sound of this game going on and nobody paying attention.
+Pick: Yale
+HARVARD AT BROWN
+In its first games since standout sophomore forward Leland King (14.6 PPG, 7.8 RPG) left the team, the Bears dropped a pair of road contests to the Gentleman’s C’s. King’s abrupt leave—for which the always-ambiguous “personal reasons” label has been attached—is the fourth in less than a year for the Bears. Per Ivy Hoops Online, senior guard Zeve Sanderson left the team earlier and current sophomores Aram Martin and Matty Madigan left the program after their freshman campaigns last year. Brown will go only as far out of the cellar as Rafael Maia and Cedric Kuakumensah take them, and the pair doesn’t have enough to turn away a motivated Crimson squad here.
+Pick: Harvard
+DARTMOUTH AT BROWN
+Fact 1: Dartmouth announced a ban on hard alcohol last Thursday.
+Fact 2: Dartmouth Athletics went a combined 6-11-1 over the weekend.
+Causation? Correlation? I don’t feel comfortable saying. But with Brown recently announcing that it will ban registered events with alcohol in all residential areas—and the loser of this game likely dropping to last in the Ivies—I feel pretty confident that one school is going to be drowning its sorrows in Mike’s Hard after this one.
+Pick: Dartmouth
+PRINCETON AT CORNELL
+With 13 minutes to go last week, Cornell led Yale 37-35 at home. With a win, the Big Red would have forced a three-way tie atop the Ivy League and stood a fair chance this week to surge into first place with a sweep. Of course, Yale dominated the rest of the way, as Armani Cotton finished with 13 rebounds in 28 minutes and the Elis crushed everyone not named Shonn Miller on the glass by a 46-20 margin.
+In fact, Miller made just one of his six treys, putting him at 3-for-23 shooting on the year in conference play. After shooting 30 percent in nonconference play, I anticipate Miller having a nice reunion with the Law of Averages against Princeton’s feather-soft defense.
+Pick: Cornell
+PENN AT COLUMBIA
+In the midst of a gut-wrenching loss to Yale, I wondered what the Lions had done to upset the sporting gods over the summer. Since school began, a Columbia basketball team laden with talent has seen top player Alex Rosenberg leave with injury. After competing well throughout nonconference play behind the emergence of Castlin and junior “Chariman Maodo” Lo, the Lions were handled consecutive gut-punch losses by Cornell and Yale. And that’s without mentioning the second consecutive winless football season and the resignation of a coach who allegedly told his players that they were “terrible [expletive] people.”
+It’s been a tough season in Morningside Heights. However, playing Penn is usually a good way to turn things around.
+Pick: Columbia
+HARVARD AT YALE
+At this point in the article, dear reader, I wouldn’t dare bore you with more details of Saturday’s gladiatorial class in New Haven.
+Instead, I present the Yale Daily News answer to Datamatch: The Valentine’s Day Blindest Date contest. For those of you aiming to venture into Connecticut to pay homage to Cupid, the YDN has courteously assembled a group of 20 eligible dates. The article, sadly filled with even more excessive exclamation points than a YDNSports live tweet, presents a number of interesting candidates. A personal favorite, Bachelorette #7, declares one of her celebrity spirit animals to be “The Taco Bell Dog.” Sign me up.
+Pick: Harvard
+—Staff writer David Freed can be reached at david.freed@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+
+This week, Dartmouth announced plans to ban hard liquor on campus in an effort to promote student safety. But have no fear, Flyby readers– your Rubinoff is safe. Harvard administrators seem to have no intention of jeopardizing your weekend pregaming plans. There are, however, a few things detrimental to student health that Harvard should consider banning:
+9 am classesWhile I’ve never actually taken a class that started before 10 am (and haven’t actually gone to a lecture that started before 11), apparently there are classes that start at *9 am*. Is the sun even up that early? Come on, Harvard, take pity on the poor students taking Chem 20 (isn’t their life hard enough already?) and Ec 1010b– get rid of 9 ams. Let the people sleep.
+Lamont OdorThis distinctive scent is a unique mix of desperation, stale coffee, and the body odor of Lamonsters who have been inside the library for days on end. It hits you the minute you walk in, and it’s disgusting. Not entirely sure how the University can fix this one (giant scented candles? free deodorant upon entry?) but someone should really get on this.
+Summer ApplicationsCan’t we all as a group decide not to freak out about our summer plans until the temperatures rise above freezing? No one wants to spend J-term (or shopping week) trying to expand “my interest in this program is that it’s my backup” to 250 words for multiple programs.
+SwaiActually, the HUDS staple is soon to be no more. According to former UC Vice President Sietse K. Goffard ‘15 in a Facebook comment, after a meeting with the UC’s HUDS committee last semester, HUDS “will be phasing out the swai drastically in exchange for [the] rotating Catch of the Day, which will feature 6 different types of fish.” Thanks, Gus and Sietse!
+Sections
+
+
+UPDATED: February 6, 2015, at 2:34 a.m.
+TGIF! Let’s celebrate the end of a very hectic week. Shopping week is (alas) finally over, classes have actually begun, and you probably had section for the first time this week. But now it’s the weekend, and this is probably your last free weekend in a long long time. Throw aside that pset and toss aside your readings (but make sure you can still find them later) this weekend and engage in reckless frivolity that will hopefully be very cathartic. Or, at worst, send you straight to UHS.
+IN THE ATMOSPHEREToday is going to be yet another cold day with a high of 22 degrees, but there’s a wind chill advisory. Thankfully, there will be no precipitation.
+IN THE D-HALLLunchCatch of the DayCurry Noodle StirfrySweet Potato Veggie Burger with Avocado Crema
+DinnerLemongrass SwaiThai Green Chicken CurrySpicy Tofu with Green Beans
+ON FLYBY1) Late Night Food in the Square: A definitive guide to all the best places to get late night food.2) Bring Raven Symone to Harvard: A plea to bring the “That’s So Raven” star to campus.
+IN THE NEWS1) Abramson to Extend Time at Harvard by One Year: “Jill E. Abramson ’76, visiting lecturer in the English Department and former executive editor of the New York Times, will remain in her position at Harvard through the 2015-2016 school year.”2) i-Lab Managing Director to Depart: “Gordon S. Jones, managing director of the Harvard Innovation Lab, is set to leave for Boise State University at the start of June. Jones will join BSU as the founding dean of its new innovation college, which will enroll students for the first time this fall.”3) Title IX Activists Shift Priorities: “Nearly four months after launching a petition to include an affirmative consent clause in Harvard's sexual harassment policy, student activists say they will shift their focus to more actively push to ensure that the policy is clear and properly implemented, rather than only argue for its strict inclusion of affirmative consent.”
+EVENTS: WEEKEND EDITIONThe OCS is holding a Start-Up Career Fair today from 1 to 4 p.m. at the iLab! See what organizations are participating here.
+The Office of International Education is having their International Photo Contest Reception today from 2 to 3:30 p.m. at the Forum Room in Lamont.
+The WECode (Women Engineers Code) conference is this weekend on Saturday and Sunday in Northwest Labs. Register now for the chance to attend workshops and meet industry leaders from Google, Facebook, Goldman Sachs, and more.
+The OCS is having a Theatre & Entertainment Meet-Up on Saturday from 1 to 4 p.m. at 54 Dunster Street. Meet Harvard alumni who are writers for the Colbert Show, Broadway and opera writers, and movie producers and industry executives. Register through Crimson Careers!
+Theatre for Social Change: A Night with Tef Poe is happening on Saturday in Science Center D from 6 to 8 p.m. Join St. Louis activist and hip hop artist Tef Poe and others present #BlackLivesMatter.
+Harvard Women’s Tennis is going against North Texas on Sunday from 11 a.m. to 2 p.m. at the Murr Center! There’s free pizza and also free t-shirts for the first 25 people! Go Crimson!
+PHOTO OF THE DAYJoshua B. Scott '15, one of the MCs at "Harvard Thinks Big," introduces the next speaker.

@@ -1,0 +1,725 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+This morning, I looked out of my window in Eliot House that faces the MAC Quad to see a portion fenced off, presumably ready for the onslaught of bulldozers that will soon wipe away a significant portion of one of the few green spaces we enjoy on our urban campus.
+I wish that I could say that I was surprised. Though a spark of hope glimmered faintly when I first saw that the petition to save the quad held the names of over 500 concerned individuals, it was soon stamped out by an article in this very publication announcing the dictum of Campus Services: changes will proceed as planned. As if on cue, we have since been assured by the administration that steps will be taken to revamp the space. That there are plans in place to make improvements. That they have our best interests in mind. That we should not worry our pretty little heads about it.
+This decision does not have an incredible effect on me personally. I am not a member of the Harvard Quidditch team, which practices regularly on the lawn. I don’t make a habit of studying or playing sports there, as do many of my peers on those precious few sunny spring days that Massachusetts gives us. I have not attended the annual Holi festival, celebrated there since I was a freshman. But even so, as I read the frantic email from a concerned Kirkland student encouraging people to save the quad, I felt the kind of anger Harvard students are all too familiar with rising in my stomach. Not the sort of anger, by any means, that drives one to chain oneself to a tree or even to make any substantial inconvenient lifestyle changes, but the type that drives one to commit that most effectual of political acts: to write an angry email.
+In the email I began to draft to Meredith Weenick, Vice President for Campus Services, I got so far as to write: “Though I expect that my University would not make such a drastic change without even the basic courtesy of an official notice or the solicitation of student feedback…” before I had to stop.
+It was not the dwindling of this anger that stayed my hand, not the desire to tone down my irritation for the sake of politeness, nor even some impending paper deadline that distracted me from writing. It was the realization that this statement was an outright lie: in fact, I do expect the University administration to make such decisions, and at this point I expect these decisions to be made without even a cursory consideration for how Harvard’s students might feel or respond. I do not feel that this is “my” Harvard, and unfortunately I know of a great many people who share this sentiment.
+From the decidedly curt “get over it” retort given to concerns about the impact of destroying summer-storage on low-income students to the almost amused disinterest in calls for increased funding for student organizations, the current University administration has made clear their disregard for the opinions and input of students. There seems to be a fundamental disconnect between Harvard’s actions and what Harvard says are its goals that I could hardly put better than did my comrade Darragh Nolan when he wrote, with what I can only interpret as a lavish helping of sardonicism, “Harvard talks a lot about common spaces...”
+Indeed, Harvard seems to talk about a lot of things.
+I hardly have a dog in this fight. I am here after taking time off, entering my last year as one of those super-seniors who wanders around campus lost without his peers. I will be leaving soon enough, and time will eventually purge the College of any who remember when the MAC Quad did not have those extra parking spaces.
+But as I prepare to exit the Harvard Bubble, I would like to leave a word of warning to the Harvard administration: This attitude will have implications. Perhaps we current students cannot raise enough of a voice for you to hear us now, but you should rest assured that ten, fifteen, twenty years down the line, when we are looking back at our alma mater with checkbooks in hand, all the “plans in place” in the world will do nothing to change whether or not this Harvard felt like “ours.”
+Nathan H. Pointer ’15 is a Social Anthropology Concentrator in Eliot House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+“It’s time to take back one of Harvard’s few large quiet spaces from our CS50 overlords.”
+That was the rallying cry of the student plan to disrupt the office hours of Harvard’s most popular course this past Monday. Students prepared to pack Widener Library’s Loker Reading Room at night and prevent CS50’s office hours from happening as retribution for the course’s growth into the space.
+But after hundreds of RSVPs over Facebook, the organizers said it had been a joke, calling off the event and taking down the Facebook page before anything could materialize. Yet in the process, the fake protest reflected something real: the ongoing complaints from students that CS50 is playing by its own set of rules.
+CS50 is the only class with unique branding—printed on t-shirts, stress balls, and much more all for purchase at its online shop. CS50 is also the only class with corporate sponsorships. Facebook, Amazon, Canon, and Microsoft have all sponsored course events in the past.
+It goes even further. CS50 is the only course in which a student can enroll despite having another class at the same time. CS50 is also the only course to have its own integrity policy, which allows students who have cheated to face only “local sanctions” imposed within the course, while bypassing the College’s centralized disciplinary Ad Board. All this is not even to mention CS50’s expansion to Yale.
+Yes, computer science is an important skill for today’s college students to learn. And yes, CS50 is a good if not great class. As a recent Crimson op-ed described, CS50 is “both a gateway into the discipline of Computer Science, and the baseline for a skill set that is becoming ever more valuable.”
+But it’s easy to understand students’ frustrations.
+With an unrivaled budget and unmatched visibility on campus, CS50 promotes itself to an extent that other introductory courses simply cannot. Granted, a computer science course will naturally have a higher appeal than the introductory humanities course. But if Harvard were to give Humanities 10A its own branding and corporate sponsorships, it too would boost its enrollment numbers.
+This runs contrary to Harvard’s touted liberal arts model, which preaches that students should have a wide and unrestricted range of academic options. CS50’s unparalleled resources are streamlining more and more students towards a specific field of study. The Crimson op-ed echoed, “The apparatus of CS50… poses a real threat to fundamental principles of freedom of choice and access to a liberal arts education.”
+To understand the argument, slightly adjust the situation. What if Ec10, Harvard’s introductory economics course, gained corporate sponsorships from the biggest investment banks and held an annual “bankathon” for financial modeling? My bet is the Harvard community would go berserk. The same stigmas surrounding students being cornered into economics and finance just haven’t developed yet for computer science and the tech industry.
+It is undeniable that CS50 should be given room to grow. On the course’s YouTube page, there is a recording of a young Mark Zuckerberg giving a guest lecture in 2005. There are about a dozen students visible in the near-empty Science Center auditorium.
+Fast forward ten years later. Many see computer science as necessary to being 21st Century-literate, and CS50 is the largest class at Harvard with over seven hundred students and over one hundred staff members, which—for reasons that have yet to be explained to me—includes a DJ. Last fall, 12 percent of the College was enrolled in CS50, and that didn’t count all the students who had previously taken the class.
+The University should be supporting its biggest and best classes. But Harvard must make clear to what extent the value of the unique perks backing CS50’s growth outweigh the University’s commitment to its liberal arts model. If Harvard doesn’t answer this question, the frustration of some students will only continue to grow with the size of the course, and the next time students plan to occupy CS50’s office hours, they might actually be serious.
+Aaron J. Miller ’18, a Crimson editorial writer, lives in Currier House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The attempt to shut down Harvard's final clubs is an exercise in intolerance.
+Several grounds have been advanced by  critics as the purported basis for this effort: Most final clubs do not admit women as members, some have had inappropriate sexual incidents, some have tolerated excessive drinking, and, the latest claim, that some clubs indulge in “careerism,” giving their members an advantage in securing post-graduate jobs and launching careers.
+Harvard celebrates scores of undergraduate institutions that exclude—whether implicitly through self-selection of interests, or explicitly through formal comps—most undergraduates from membership: women's clubs, gay and lesbian and transgender societies, Hillel House and Muslim organizations, every major athletic team, and The Harvard Crimson itself, of which I was on the editorial board for three years. Many of these institutions, especially sports teams, do indeed have graduate connections that help young graduates find jobs, though in six years as a member of the A.D. Club while at college and law school, I never heard of a club graduate helping an undergraduate find a job. Never. Of course that was many years ago. But in the fifty-five years since I graduated, I have never helped any club member find a job, nor have I ever been asked to do so, though I still occasionally attend Club dinners, where last year I was impressed again by the character and diversity of the undergraduate members. The A.D. has for years had a strict policy forbidding career assistance. As a writer and former publisher of The Village Voice, I know that few Harvard organizations are more career-enhancing than The Crimson.
+True, most final clubs do not admit women members. That is an ongoing decision of the undergraduate members. Alcohol, drug, and sexual conduct issues are no more common at the clubs than they are outside the clubs. Indeed, certainly at the A.D. Club, and partly due to the College's ultra-critical attitude towards the clubs, parietal conduct rules are far more strictly enforced than they are elsewhere at Harvard.
+Why, then, are bien pensant (old French for 'politically correct') critics after the clubs? Is it social resentment and politically correct bias, or are other factors at work? Is "fairness" the cover for this intolerance? Is it fair that the basketball teams exclude shorter women and men?
+The core reason that the clubs exist and endure is that they are celebrations of friendship. The basic thing that is done at the clubs is that people gather there to have a few meals a week together with their friends. That is the basis of the clubs. When I was at Law School in the sixties, a law professor asked me why every day I walked across Cambridge to have lunch at the A.D. "The conversation is better," I replied. And it was. It was not all about finding jobs on Wall Street.
+The legal foundation of the clubs is the core constitutional principle of freedom of association. In 1958, in NAACP v. Alabama, a cornerstone of many civil rights and minority group advances of the modern era, the U.S. Supreme Court cited the First & 14th Amendments (freedom of speech & equal protection under the law) as the grounds for "freedom of association."
+The final clubs have always had members who led the truly progressive movements of their times, such as Theodore Roosevelt, Jack Kennedy, and FDR.
+Lest my advocacy be dismissed as the rant of an aging right-winger, permit me to say that while on The Crimson I successfully fought to have the first woman elected to the editorial pages of the paper, that I served (and was arrested) as a civil rights lawyer in Mississippi in 1966 and later campaigned there for Charles Evers for governor, that I was Robert Kennedy's New York State campaign manager in 1968, was awarded a civil rights medal by Senator Edward Kennedy in 2003, and in 2010 I went to Afghanistan as a director of The Initiative to Educate Afghan Women to recruit young women for American colleges (where I was helicoptered into a Forward Operating Base near Kandahar, whence I went on three foot patrols to girls' schools).
+Why should Harvard College not respect freedom of choice and association? What has happened to our sense of fairness and tolerance? Why prevent friends from eating their meals together? Perhaps Harvard, and the Crimson, should stand up to the tyrannies of the left today, as it stood up to the tyrannies of the right during the days of Joe McCarthy.
+Bartle Bull '60, Harvard Law School '64, is a writer and a former civil rights attorney.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Last weekend, The Crimson reported that the previously male-only Fox Club had accepted a group of junior and senior female undergraduates to oversee a three-year transition towards becoming a fully co-ed final club. Subsequently, The Crimson published a letter sent by the club’s undergraduate leadership to its graduate members outlining their rationale for including women and stressing both the undergraduates members' desire to admit women and pressure from the University administration to do so.
+The Fox’s move towards gender inclusivity is an important step in improving the social scene on campus. Still, it is no silver bullet. Final clubs have a long way to go to be truly inclusive, and the administration and the student body should not stop asking for change.
+The Fox Club is the second male-only final club to move to add women to its ranks, after the Spee’s decision to punch female undergraduates this autumn. As we said last month, the inclusion of women is an important first step to bettering Harvard’s social scene. Spaces once controlled entirely by men will, in theory, become more open and more equal—especially if females newly admitted to the Fox and the Spee stand on the same footing as male members and have a real say in the club’s decisions.
+But becoming co-ed is not a panacea. The punch process is still invite-only and self-selecting, and female punches of the Spee this year are being judged and admitted by a male-only body of undergraduates. More notable still, the Fox and the Delphic have turned to female final clubs to rectify their gender imbalance: Much of the Fox's new membership consists of women already in female final clubs, and the Delphic has approached at least one female club about a merger.
+It should be obvious that the coming-together of two exclusive but separate clubs does not produce a truly diverse and inclusive organization. After all, the flaws in final clubs extend far beyond gender. These clubs have long failed to represent Harvard’s great socioeconomic and racial diversity, and have too often only reified and reinforced the homogeneity that Harvard has sought to fight as an institution.
+Moreover, the Fox's letter gives us reason for pause. To their credit, the undergraduate membership of the Fox voted unanimously to become coed, a change they claim to “cheerfully make.” But elsewhere in the memo, perhaps to appeal to a reluctant graduate board, the writers cite the club’s and their own reputations and protest the administration’s “distasteful [...] pressure.”
+This pressure on final clubs is bearing positive fruit. Going forward, the administration should continue its critical work of ensuring that social spaces at Harvard, both on and off campus, are open to all—not just a select and privileged few. That's the only way to ensure that final clubs build on their recent progress not just in gender inclusivity, but in racial and socioeconomic diversity as well. As a campus—students, administrators, and professors—we must strive to leave Harvard better than we found it. Changes like this give us hope that we may do just that.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+The neon-laced skyline glowed through the tall windows on the 42nd floor. Papers were spread all over the black wooden table, next to a cup of roasted green tea and plate of warabimochi. I perused the reports of several companies in the portfolio, attempting to make sense of the data—market trends, products, divisions, projections, and other nuanced details. How could I possibly use all this data and start another Silicon Valley here in Japan?
+But first, let me backtrack a few steps to explain how I had come to bear this responsibility.
+After basking in the Costa Rican beaches with high school friends and spending a week in New York City early this past June, I stuffed two suitcases in preparation for my summer abroad in Tokyo. Having spent two months learning Japanese and possessing no clue as to what my internship would entail, I felt shaky at best about my impending flight.
+Sixteen hours later, I was greeted by bullet trains, a foreign language, and—as a person acquainted with terse and blunt urban rudeness—a strange abundance of polite pedestrians. As it was rainy season in Japan, I was also greeted with pouring rain.
+A fellow intern directed me to a tower in Minato ward in Tokyo to meet Takuya Hane, a former Japanese instructor from Harvard, and my boss, to learn about the company Active Learning. I initially assumed that I would be working on education, but his company focuses on consulting for various entities, such as government bodies, technology companies, schools, startups, gyms, restaurants, farms, and a mixed batch of other businesses or institutions.
+Mr. Hane explained that there is currently complacency with innovation in Japan, and that he aims to stimulate a new era of creative thinking through collaborations of companies, tactics, and workers. He also told me that workers in Japan are deferential to the authority of society and their work environment, and many were afraid to voice their opinions. I did not grasp this at first. How were employees of companies of the likes of Sony not able to create new products?
+I, however, soon came to understand why. Many people wore black suits in the sauna of summer, worked through the day in a corporate job, and employed a mechanism of cathartic release through drinking copious amounts of beer, whisky, and other alcoholic beverages. Every single person I met in
+Japan adhered to an implied code of decorum. Those who lose their wallets or other belongings had them returned, all cash and cards intact. Each employee, as a symbol of respect, cleans the work environment each morning. Tokyo is extremely safe. I never felt more at home outside in the street at 4:30 in the morning. And I couldn’t tell you how many times I jaywalked on a red pedestrian light, across empty roads, amongst gaping crowds.
+As I noticed, most, if not all, people follow the expectations put forward by society. I was, and still am, impressed. I suppose it is the homogeneity of the country that assisted with such a stable culture. Reflecting upon Mr. Hane’s mission of his company, this objective of disruptive creativity, I realized that stability is the issue at play. All this time, I doubted my capabilities of being useful, because what skillset could I offer? Explain the basic principles of macro and microeconomics? Leverage the skills I gained from the Crimson and HFAC comps? This is the real world.
+Instead of placing me with a host family, as originally intended, Mr. Hane let me reside in his high rise. In late July, he assigned me to intern at a private venture capital firm called Mistletoe. This company acts as a hub for startups by providing investments and support teams to startup companies. I was tasked with fostering the overall entrepreneurial ecosystem. Another intern and I scrambled to find a solution to such an assignment. We employed the Google searches in the beginning, but we soon (as suggested by our supervisors) moved on to examine affiliated companies and companies under Mistletoe’s portfolio.
+Networking came to dominate my time in Japan. I visited the executives of hardware working spaces, Google’s business division, coding academies, startups of every kind—including technology, food, and social media—and other funds. I had a seat at the table with those who run businesses, and I was to pull information from them about Japan’s potential to be a fruitful entrepreneurial environment. If I were a CEO, I would question the opinions of a 19-year-old, but the executives appeared to appreciate my insights and questions. Their eagerness for their work and their willingness to work with me infected me with enthusiasm, as I felt responsible for their businesses as well.
+Many companies explained that complacency does exist, and it is stunting Japan’s growth. More creative juices are needed, but I needed the ingredients to let them flow, such as market analyses. After pitching an idea to employ a student growth system to the CEO of Mistletoe, who happened to launch Yahoo Japan, I felt relieved, and inspired.
+Eventually, I was placed with a host family. Mr. Hane had recently married, and, I suppose, he needed the space. One weekend, my new host family threw a barbecue in another prefecture where many middle-aged people came. They all looked with curious, raised brows at me and my twin brother—we were by far the youngest guests among the bankers, artists, politicians, and serial entrepreneurs present.
+One man was curious enough to ask why we were here, and we explained that we were interns for different companies. As a CFO and CSO of a digital health company called FiNC (which operates as a platform for advice on wellness), he then proceeded to ask us for some assistance at their office in Tokyo.
+By the time I made it to their office, I was a seasoned learner on the job—especially compared to my experience level when I first arrived in Japan earlier that summer. After being greeted by executives and coders cracking into their reference books, my brother and I were tasked to assess and develop the market entry plans of the company. Using due diligence and searching for trustworthy databases, we projected prices and sales in the near future. After presenting to the executive board of FiNC, my brother and I rushed to catch our plane.
+The real world can be tough. There may not be any parental assistance, too much ramen may be consumed during too many late nights, and more often than not, you may not know what you are doing with your career. But my time in Tokyo helped me develop a greater understanding of what motivates dreamers: embracing the unknown. Whether it is forming strategic collaborations, establishing another Silicon Valley, or decentralizing health care, we put our best foot forward when we venture into the unknown and the undeveloped. No matter how much preparation you have, your true job will always be learned on the fly.
+Sections
+College students are almost always hungry. Whether we’re starving in 10 a.m. lecture or walking out of one of the dining halls after enjoying Sunday dinner, we are never satisfied. Unfortunately, Harvard University Dining Services is obligated to cater to our endless dietary restrictions and bizarre daily cravings.
+We complain to anyone that will listen—our lab partners, our roommates, the random man you pass on the way back from lunch—but some students overcome their laziness and actually fill out HUDS comment cards with requests. Below, FM takes a look at a few absurd requests.
+“When rice is served in Lowell, could it be placed first in line? Most people prefer to put meat or vegetables on top of rice, and it is awkward to have it after the entrées.” 
+We don’t know about you, but we can think of many more awkward dining hall encounters. Like when you realize you’ve been staring at the guy you drunkenly hooked up with last night, or when you spill soda on that cute girl in your Ec10 section.
+“Cheeseburger, fries, hot dogs erryday.” 
+Now that parents are unable to control every aspect of students’ lives, college is liberating in many ways. Apparently this student is so happy to be free from family meals that he or she would like to see HUDS become a fast food restaurant.
+Various requests for almond milk, fruit fro-yo, gluten-free stir fry, egg-free pasta, etc. 
+When you suffer from a dietary restriction, you can’t trust anyone or anything. It’s like the Hunger Games, but worse. Every man for himself. First Cheerios announces that they are not, in fact, gluten-free. Then, you get lost in the sea of pasta, bread, and ice cream. What’s a gluten-free, lactose-free student to do? Apparently, ask for all the rare stuff.
+“Have Jerry cook more often—he’s awesome!” 
+In light of all the complaints and criticisms, at least one student can appreciate HUDS for what it is. You are clearly doing something right, Jerry. Keep doing you.
+Sections
+On the outskirts of Harvard Yard lies an incongruous yellow house. Casually sandwiched between the Barker Center and the Faculty Club, the building is easy to dismiss. Lacking the domineering sophistication of the Faculty Club and the Barker Center’s frenetic influx of students, the yellow farmhouse is comparatively modest, with nothing but a small placard on the door to inform you that you are inside Warren House.
+The first thing we notice about Warren House is the creaking. Every step—every inclination of a step—is met with a loud, whining protest from the floorboards. The house announces our arrival to its inhabitants before we even get a chance. 
+Built in 1833, Warren House is currently home to both Harvard’s Folklore and Mythology and Celtic Language and Literatures departments; it’s an appropriate arrangement given the house’s strange and mysterious history. 
+Warren House was bequeathed to the University by its namesake, Henry Clarke Warren, Class of 1879, following his death in 1899. But the home was originally owned by Charles Beck, a German immigrant and prominent Harvard academic, known for his support of the abolitionist movement in Boston. 
+Rumor has it that Beck concealed former slaves at his residence in Warren House. We find the tidbit dubious, perhaps far-fetched, until we see the trapdoor. 
+Like something out of a Victorian crime novel, the trap door on the second floor of Warren House is barely noticeable if you’re not looking for it. A slight gash in one of the floorboards is the only indication that something might be amiss. 
+Whilst creaking around Warren House, we marvel at everything—from the wooden spiral staircase to the hallways that seem to arbitrarily rise and fall—but this quirk is truly something out of a horror film. The trap door leads to a secret crawl space that used to contain a ladder leading to the basement (which has since been boarded up). 
+Lore has it that Warren House was a stop on the Underground Railroad, and its hidden passage used to facilitate the movement of runaway slaves. Unfortunately, the basement ladder was boarded up in the mid-20th century after freshmen taking English classes in the house made a habit of horsing around in the crawl space and sneaking into the basement during class time. We must credit them for their agility—it takes multiple awkward motions and an unreasonable amount of arm strength for us to vault out of the room, leaving us dusty and slightly winded. 
+Warren, the house’s final tenant, was himself a fascinating individual. Launched from a carriage at a young age, Warren suffered severe spinal damage which both left him crippled and in perpetual pain. Nonetheless, he went on to become an extremely successful academic, notable for his work in the fields of Sanskrit and Pali studies. 
+Warren’s influence upon the house is reflected in the rooms that he altered to accommodate his disability. His former office contains an alcove raised two feet off the floor, sectioned off from the rest of the room by a sliding wooden partition. Now lined with a fraying oriental rug and mismatched throw pillows, the nook once doubled as Warren’s bedroom. 
+From the moment we set foot in Warren House, our intuition told us that it might be haunted: The endless creaking, pointlessly winding corridors, enormous black marble bathtub, row of bedrooms that locked from the outside. That was before we find out that Warren actually died in the house. That’s right—Warren was found dead in the winter of 1899, seated in the corner of an upstairs room. Cause of death: Ec10 problem set. (Just kidding—that wouldn’t become a serious affliction until the early 21st century.) 
+Before you can say “Happy Halloween!” we’re skipping down the spiral staircase two and three steps at a time, desperately trying to avoid an encounter with Mr. Warren’s ghost. His academic and peculiar spirit may live on in the house, but that doesn’t mean we’re interested in meeting it at the moment.
+
+Sections
+Copley Square is overflowing with books. Vendors stack battered copies by the dozen. Publishers display new titles in strategic isolation. Kids read them and drop them and color them a little when no one’s looking. According to a series of massive orange banners, this is the Boston Book Festival.
+Obviously, Boston likes to read—the place is packed. Festival-goers fall neatly into two categories. The first is a subset of curious tourists, whose confusion suggests that they may have happened upon the festival by chance. The second is a horde of eclectic book-lovers, easy to pick out of the crowd thanks to their tortoise-shell glasses, strange piercings, colored hair, and beanies. Some rush through the square, clutching armloads of books and scanning for more. Others linger.
+The main event is an outdoor market housed in a huge expanse of white tents. Its basic units are its stalls, which boast a variety of services: There are publishers, booksell- ers, literary magazines and other arts publications. A live acoustic band plays in the background, adding to the general coffee-shop vibe.
+At the Brattle Book Shop, people mill around wheeled shelves of books, perusing wrinkled pages and chatting amiably with shopkeepers. The books are gold-edged, some slightly frayed and stained with watermarks, others with broken bindings. A few are limited editions. We spy a “History of England” by Thomas Babington Macaulay, Volumes I through V. An adjacent shelf houses modern teen favorites like “Breaking Dawn” and “Harry Potter and the Chamber of Secrets.” The placement of these books mirrors the festival itself: It is a mish-mash of activities and events, some designed to cultivate a love of learning for young children and others to appeal to an older, well-worn crowd.
+We get caught up in it, too. We join kids scribbling in chalk—“Books are the best”—on the sidewalk and pasting stories—“Once upon a time, we all went to go look at the books”—to the side of the Mass Literacy tent. We join a couple paging through a beautiful hardcover written by a class of Boston seventh graders; we join a mob of kindergarteners as we fill out and bind our own diaries.
+As we drift down the row and away from the Square’s main intersection, though, that energy changes. Storytelling free-for-alls morph into handouts of submission guidelines. Children’s books make way for semi-annual literary magazines. We spy typewriters and Times New Roman font and a workspace for “serious” writers.
+A brief Expos flashback forces us to a stop outside the
+Center for Narrative Practice. The tent is stark and mostly bare, its sole decoration a cryptic banner: “The future is in stories.” It is supervised by a man with striking pale eyes and several hoops in one ear. We ask him about the slogan. “I actually wrote that,” he says. “It’s funny—people usually assume it means ‘stories’ like ‘books.’ But I thought about it like a building. Our narrative grows, one story at a time. Up and up and up.” He pauses. “Also, it sounds cool.”
+The adult section becomes slightly less grave. After some time spent wandering through the chilly outdoors, we seek refuge inside Old South Church and stumble into one of the Festival’s many keynote addresses: “Louis Sachar Talks with Roger Sutton.” We do a double take. The Louis Sachar? The author of “Holes,” of “Wayside School,” of books we’d read religiously in middle school? We’re late, but we swallow our pride and creep into the sanctuary as quietly as we can.
+Sachar talks about creativity, about perseverance, about the evolution of his career. “When I was younger, I used to write a book every one or two years,” he says. “I find that harder as I get older.”
+Emily claims the mic and tells him about her own lingering fear, that creativity is finite and that as we write, we exhaust it. He tells her that he wonders the same. “I have that feeling right now. I’m trying to figure out what to write next.” He’s confident, however. “The ideas will come.”
+Sections
+“Can you give a shout out to anyone who wants to socialize with [Japan Society] for any mixers? We have the most eligible bachelors and bachelorettes on campus,” says Max F. Mondelli ’18, as he stirs a strong-smelling pile of beans in a styrofoam container.
+Most of the people eating in the Quincy dining hall seem blissfully unaware of what is about to take place, although the distinct scent of natto, a Japanese dish consisting of fermented soybeans, seems to have caught the attention of a few wandering noses. I have arrived at Harvard Japan Society’s first-ever Natto Eating Contest, although the event is still in its preparation stages.
+Members of JS have claimed a few tables in the back of the dining hall and are diligently mixing soy sauce into small containers of beans. I quickly realize that the viscous texture of natto is as distinct as its aroma; the stirring causes the beans to coagulate into amorphous masses.
+“I feel like Spider Man,” Mondelli says. “It’s so sticky, like webs.”
+When I ask a table of JS members if they would say that natto is an acquired taste, my question is met with a resounding yes. Foreign as it may be to the Western palette, I learn that natto is a staple of the Japanese diet. While some appreciate natto for its high protein content, others see natto as a memento of childhood—it holds nostalgic as well as nutritional value.
+“I was a really skinny, short child. I was the smallest and skinniest in my class, and so after coming home I would crush like three of these natto things so I would get bigger every day,” says Hikari Senju ’15, a recent graduate of the College and non-residential tutor.
+As the contest draws closer, the intensity of the scene heightens. The beans congeal, the aroma grows much, much stronger, and the thirst for victory becomes palpable. Japan Society President Melinda Wang ’16 announces the rules of the contest: Each contestant will receive four containers of natto (one container is usually a standard serving size), and the first to finish all four containers is the winner. There will be two rounds, and the winners of each will face off in a championship round. It will be a contest of speed rather than quantity, a test of determination, agility, and possibly even character.
+“I’m a sprinter. I’m literally on the track team. So you guys are fucked,” Mondelli says. He has come dressed for the occasion, wearing his Harvard track singlet. “You know the band Dragonforce? You know ‘Through the Fire and Flames?’ That’s what you eat to,” he says, securing a pair of noise-canceling headphones over his ears before the competition begins.
+“At this level, it’s about the love of the food. It’s about passion, not the level of athlete you are,” Senju responds. He shares his sophisticated eating strategy. “Open your gullet and just chug it.”
+Senju and Mondelli, two of the four first-round contestants, are the most eager to vocalize their confidence. Their competitors are not quite so certain.
+“I don’t think anyone’s going to win... I mean, I don’t want to win, if after this there are going to be any more rounds,” says Jaemin Cheun ’16, eyeing the seemingly endless rows of natto containers.
+“I’ve never been this nervous in my life,” Shangyan Li ’18 says. “I took five midterms this past week and I’ve never been this nervous.” Wang, acting as the announcer for the event, declares that it is time to start. The contestants emphatically tear off their sweaters and roll up their sleeves. It is clear that this is going to be more than just a game.
+Despite his nerves, Li proves to be the dark horse of the first round. His technique is unassuming yet graceful. He seamlessly sweeps through all four containers, holding the styrofoam boxes close to his face so it seems that the chopsticks never leave his mouth. Around him, tendrils of sticky natto residue hang from the mouths and chins of his competitors. One participant begins to choke, coughing a mouthful of beans back into his container before continuing. Despite their prior fiery enthusiasm, Senju and Mondelli are left in the dust, with a disheartening amount of beans in front of them. Li is announced the victor.
+“I have dishonored my family,” Mondelli says solemnly as he waits for the second round to start.
+The second round welcomes a new batch of contestants with a wide range of experience, from a rookie first-time natto eater to a veteran soybean powerhouse. Ryo Ishizuka ’16 seems to be the audience favorite, and with good reason: He wins the round quite easily, his performance characterized by tranquil efficiency and tempered dexterity.
+Ishizuka and Li take a break to digest before the ultimate showdown. After about 15 minutes of stomach massaging and pep talks, they sit side by side, ready to give their best in the final round.
+The reigning champions are racing neck and neck for the first two containers, speeding through the mounds of natto as if they haven’t already consumed four standard servings of it. They seem to defy the laws of physics and human anatomy as their chopsticks spin like helicopter propellers. Ultimately, Li takes the round with a surge in acceleration in the third box.
+His unassuming nature remains despite his victory. Perhaps he is always a humble and magnanimous winner; perhaps the gravity of this feat has yet to dawn on him.
+“I’m just having chest pain right now,” Li says.
+Sections
+“The canon has oft limned mimetically,” types the frantic thesis-scrambling freshman, “but its constant commodification demands to be problematized and deconstructed. Luckily, though, the postmodern paradigm is shifting, rendering the contemporary discourse intersectional.” 
+David Foster Wallace had a thing or two to say about this sort of slapdash, overwrought writing, deeming its word choices acceptable only in “a university course taught by a professor so thoroughly cloistered, insecure or stupid as to believe that academese constitutes intelligent writing. A required course, one that you can’t switch out of.”
+Sadly such classes pervade our course catalogue, and though Wallace hated all those normative probs-patriarchal signifiers, he was also a firm believer in “do what you need to do” when it comes to adopting the language of your overloads. (See his essay “Authority and American Usage.”) In that sympathetic vein, FM compiles a brief abridged lexicon for easy midnight-hour use on all those cloistered, insecure, stupid professors:
+Problematize: To eat a piece of the chocolate-ganache birthday cake your friend spent all day preparing, find it delicious, and then go onto complain that it should have been carrot. Responsible for the prevalent belief that the humanities concentrators are cranky grandparents who ruin family events by whining endlessly without proposing any solutions.
+Intersectionality: The term was coined in 1989, when, apparently, academics woke up and noticed that problems intersect. From the Big Bang up to 1989, it seems, all issues sat around minding their own business with strict borders. You know, people were either hungry or thirsty but never both, systematically oppressed for one discrete reason at one discrete time. Until—BAM—cultural studies realized that gender, race, class, ability, sexual orientation, religion, caste, age, etc. do not in fact exist in autonomous bubbles. Best used in conjunction with the phrase “multidimensional conceptualizations.”
+Limn: The most pretentious and simultaneously gaudy synonym for “portray” or “describe.” Sure sign of synonym laziness. Unless, of course, you were wise enough to use dashboard’s snarky Thesaurus, which warns “This is the phoniest word in the critic’s vocabulary […] It’s one of those words that wants to be urbane and debonair but are somehow really ugly, pushy, and nouveau riche.”
+Deconstruct: Once upon a time, in a far away land, there was a castle in which lived a beautiful princess, Jacques Derrida, who used this word with a wondrously precise definition: close reading employed to unveil a (philosophical) text’s paradoxes, to show how its logic, at every point, contracts and undoes itself. Then a dragon burnt the castle to the ground, and the term became a catch-all, amp-up-your-discourse verb for any critical or interpretive enterprise. Which makes phrases like “deconstruction of the deconstructive deconstructed castle” a-o-deconstructive-kay.
+Postmodern: A fabulously flexible descriptor for any text/artwork/phenomenon that seems tinged with irony, meta-anything, pata-anything, parody, problematized history, problematized narrators, a lack of ontological truth, nihilism, etc. Certified for use on anything post-1980. Certified for a controversial “ground-breaking” thesis when used on anything pre-1960. Bonus: That’s called proto-postmodernism.
+Mimesis: An imitation, representation, or copy of something else—or the process of making that copy. Usually the copy is art and the something else is life, unless you’re proto-postmodern. Guaranteed paper topic for any survey English course, as in: “How does this text/author/episteme/ movement/word conceive of mimesis and why?” Which I’ll problematize/deconstruct by pointing out that Plato coined the term disparagingly to explain why he would banish art—a mere banal imitation of life, itself a banal imitation of the forms—from the Republic.
+Bonus: Adjectival form is “mimetic,” which sets you up for this go-to section comment: “The [formal element] is mimetic of [previously analyzed content].” *Cue jaded TF orgasm* 
+Commodification: Wake up and smell the $$$ people. The world is one big commodity, and no one is safe, and every art piece you’ve ever loved was the result of patronage/market forces/good old fashioned economics. Has it gotten worse in postmodernism? Maybe, but only because we realized things were intersectional, and one of those sections was capital. But, at the end of the day, there’s no better way to problematize than call out some commodification.
+Empty Adjectival Antonym: Authentic.
+Discourse: When humans talk, they call it a conversation. If they know the word discourse, they call it a discourse.
+Paradigm: There’s only one thing you need to know: it’s shifting.
+Canon: Limns mimetically. Probably commodified. Waiting to be problematized and deconstructed. Luckily, the postmodern paradigm has shifted, so the discourse is more intersectional.
+Sections
+Ah, Halloweekend—a great trial of endurance for those on campus looking to dress it up and pour it down. When we were kids, Halloween was all about the candy. Now, it’s all about the BOOOOooze. Can you make it through a full 48 hours while completely avoiding sobriety? Look to these drink recipes to help you navigate the festivities.
+Heaven and Hell-ini
+4 oz Prosecco
+2 oz peach puree
+Tears of freshmen who missed the shuttle to the Quad
+Gulp this down on the fogged-up shuttle to the Currier Fishbowl before Heaven and Hell. Hopefully, it’ll provide you with enough of an alcohol blanket to endure the 30-minute long line of belligerent freshmen trying to get inside.
+Sex(y Cat) on the Beach
+1 oz vodka
+1 1/3 oz cranberry juice
+2/3 oz peach schnapps
+1 1/3 oz orange juice
+Nondescript animal ears
+An old classic. You couldn’t think of a topical, witty costume, so just turn to the staple plan B—a sexy cat. Just throw on as few articles of clothing as possible (without risking pneumonia) and a vaguely animal-related accessory. Just like that, you’re the envy of the party! Brrrrr—we mean, Purrrrr.
+Owl-a-rita
+2 parts tequila
+1 part lime juice
+3 parts women
+1 part man
+The most important thing about this drink is the ratio: If you don’t get it right, you’ll have to start all over again, or worse, get kicked to the back of the line. If you can, form a little protective barrier around your one male friend, and try to slip him in unnoticed.
+Cultural Appropriation and Tonic
+2 parts gin
+3 parts tonic water
+0 parts tolerance
+Whip this up while reminding your roommates that no, dressing up in a racial trope that marginalizes an entire minority group is not an acceptable Halloween costume. I’m looking at you, Sexy Senorita. And you, Indian Sweetheart. And you, Shot Glass Geisha Girl.
+Sections
+As hard as it is to research an obscure thesis topic for months and write it up in a meager 100 or so pages, titling said thesis is likely the hardest part of the whole endeavor. The more esoteric the topic, the more amusing the title (we assume). FM scoured Lamont’s shelves to find the most entertaining humanities thesis titles. We threw in a few of our own creations just to keep you on your toes. Happy guessing! And if you wrote one of these...Well, you’ve got at least one question right by default!
+1) Whose House? Asian American Youth in the Rave Scene
+2) A Room of Her Own? Orgasmic Motifs in the Roaring Twenties
+3) 20th Century Behavioral Discourse on Gambling in Atlantic City
+4) Yelping for Help and Helping Yelp
+5) Chords from the Underground: Song and Memory in Dostoevsky
+6) Posthumanism in the Sea King’s Palace: Jellyfish Imaginations and Encounters
+7) Instructions to Hearing Persons Desiring a Deaf Man
+8) How to Order Sushi: Lessons from Cross-Cultural Trade in the Seafood Industry
+9) Homoeroticism in Coleridge’s “The Rime of the Ancient Mariner”
+10) The Game is Afoot: The Baker Street Irregulars and Sherlock Holmes Fandom in America
+
+
+
+Key: 1) Real 2) Fake 3) Fake 4) Real 5) Fake 6) Real 7) Real 8) Fake 9) Fake 10) Real
+Sections
+To raid the Harvard-Radcliffe Dramatic Club prop room is the ultimate fantasy for every Harvard theater kid. As a cast member of an upcoming show, I thought that this would be the perfect opportunity to scout out the best props and costumes the closet has to offer.
+The HRDC prop room is rather discreetly hidden in the basement of the Loeb Drama Center. And, walking inside, I am utterly stunned by what I’ve gotten myself into. The door to the prop room separates the mundane material world from the colorful imaginative universe of theatrical art. The room is stuffed and packed with layers and layers of costumes, many of which can were made decades ago.
+Although dilapidated body parts, a giant fly trap, and an old-fashioned TV do possess their fair share of wackiness, the prop room’s costumes definitely steal the show. Some of the pieces have been purchased for past HRDC productions, while others were handmade by student costume designers. Below are five of the most interesting costumes I could get my hands on:
+
+Light green Renaissance-style dress:
+This period costume was designed for Cherry Jones, who would become a famous Broadway actress. It’s also absurdly heavy. 
+
+Brown jacket from “Henry IV” with a hand-drawn design: A costume from one of the older HRDC productions, this piece is a bit heavier and more elaborate than ones we’re used to seeing. 
+
+Blue vest made from a yoga mat:
+This costume was made for a recent production, and it is literally cut-up pieces of yoga mat sewn together by fishing wire. 
+
+Gypsy dress: One of the most well-made and detailed costumes in the prop closet. Every pompom was sewn on by hand. 
+
+2008 Lady Gaga-style leather jacket:
+Exactly what it sounds like—absolutely awesome. 
+
+Sections
+UPDATED: October 29, 2015, at 6:22 p.m.
+Yenching Library is tucked away on a quiet corner of Divinity Street, far removed from Harvard Yard’s daily bustle. It’s not easy to find, which seems fitting for the evening’s theme—we’re here for a career panel on jobs for humanities concentrators. The event’s host, Josh E. Stallings ’17, shakes our hands as we walk in. He’s glad we’ve finally found our way here.
+The panel is made up of five people: a professor, a postdoc, a graduate student, and two undergraduates. Their audience, apart from us, isn’t much bigger. The students who are here, though, are quiet and attentive, scrutinizing every word from the speakers onstage. They’re looking for answers. 
+When we meet with Stallings later, he does his best to explain this mentality.
+“If you go to a talk with some CEO of some company,” he says, “they say: ‘Oh, you don’t have to know what you want to do when you come out of college—I worked in a McDonalds; I was a barista for three years; I went to grad school.’ So they take this very circuitous route, and they valorize that.”
+He considers his words before speaking. “Students, and I think Harvard students especially, are not really enticed by that version of the story. I don’t think they’re comforted by that. I think they want to have certainty.”
+To some degree, this is a problem born of opportunity. Despite nationwide concern over a “crisis in the humanities,” Harvard grads are able and encouraged to seek out careers in virtually every field, from fine arts to finance and everything in between. Recent humanities alumni have found homes in diverse and far-reaching careers with roots in both humanistic and quantitative skills.
+Yet the hypothetical CEO Stallings speaks of isn’t all wrong. The variety of options awaiting humanities concentrators also prompts a crisis of choice, as they attempt to balance their passions against factors such as stability and future employment. Making this choice often requires compromise and adjusted expectations as well as a willingness to think outside the box.
+For Harvard graduates, the question is not so much whether you’ll get a job with a humanities degree—it’s where.
+With 19 degree programs and a multitude of Harvard-sponsored institutions ranging from a Byzantine and pre-Columbian library to an entire center dedicated to the study of Islamic architecture, Harvard has a wide array of resources at the disposal of current humanities concentrators. Outside the classroom, the Harvard Undergraduate Humanities Initiative, a group that offers humanities students career resources and aims to foster community, hosts events like the jobs panel in Yenching.
+The division isn’t shrinking, either. University President Drew G. Faust’s $6.5 billion capital campaign has been undoubtedly beneficial to the School of Engineering and Applied Sciences, which received the largest monetary gift in Harvard’s history last spring. Yet some emphasis has been placed on fundraising for the arts and humanities as well. With the launch of Harvard’s newest concentration in Theater, Dance, and Media at the start of the 2015 academic year, the University’s humanistic side continues to grow.
+Despite the administration’s support, however, humanities degree programs have seen a recent decline in concentrators. Slightly over 12 percent of the Class of 2019 indicated interest in an arts or humanities concentration in The Crimson’s freshman survey. More than twice that number said that they planned to pursue a degree in just two departments: Government and Economics. Graduates’ academic interests have echoed this pattern—data from the University shows that 14 percent of matriculants from the Class of 2014 concentrated in the humanities, an 8 percent drop from just 10 years prior. 
+This trend is even more pronounced outside Cambridge. Nationwide, the percentage of humanities degrees awarded to undergraduates have dropped by nearly half since the late 1960s, according to the Association of American Colleges and Universities.
+One frequently cited reason for this drop is the supposedly anemic job market for arts and humanities majors, as opposed to the options available in pre-professional fields such as engineering or computer science. Studies tend to support this link—recent graduates who studied engineering during their undergraduate years have unemployment rates about 5 percent lower than those who pursued the arts.
+These statistics are often bemoaned as the offshoot of a “crisis” in the humanities. Yet Stallings, the founder of the Harvard Undergraduate Humanities Initiative, cautions us against applying labels too generally. Specifically, he cites Harvard’s name brand as a mitigating factor for humanities students entering the job market. “We’re graduating with a Harvard degree,” he points out. “And really, no matter what it says below Harvard University, it’s going to have clout in various different places in society.”
+Against a broader national dialogue of “crisis,” Harvard students find themselves in a unique position. While this anxiety remains a factor in determining their choices of concentration, they can also count on Harvard’s prestige when considering their future employment.
+Leah Reis-Dennis ’13 and Caitlin M. Ballotta ’14 haven’t moved far since graduating. Both work in the Barker Center across the hallway from their respective alma mater fields, History and Literature and English. Although they aren’t graduate students, both still spend their days reading poems. 
+Three years ago, when neither of their jobs existed, none of this would have been possible.
+Reis-Dennis and Ballotta work as producers for “Poetry in America,” the popular HarvardX course taught online by English professor Elisa New that examines the works of Emily Dickinson, Walt Whitman, Herman Melville, and countless others. In this role, they enjoy a rarity among the post-college workforce: careers that are still directly tied to the scholarly interests they held as undergraduates.
+Working for the course, where Reis-Dennis serves as executive producer and Ballotta as an associate producer, involves putting to use many of the skills acquired during their collegiate years. Neither has a “typical day.” Their work ranges from close reading poems to coordinating legal agreements with artists’ estates, and even the odd exchange with one of the course’s many celebrity guest stars—from poet Claudia Rankine to hip-hop star Nas. 
+Reis-Dennis has been involved with the course from the start: New was her senior thesis adviser. She notes that while Harvard graduates in the sciences and social sciences have long been given opportunities to collaborate with professors after graduation, the idea of similar work in the humanities is still new and evolving.
+“We have four people working full-time,” she says. “That’s a lot of jobs we’re creating for graduates of the humanities.”
+Four hundred miles south in Washington, D.C., Jessica C. Salley ’14 is hard at work on another of Harvard’s new humanities initiatives. As a post-graduate fellow in communications and outreach for Dumbarton Oaks, Harvard’s Byzantine and pre-Columbian research library and collection, she manages new initiatives designed to foster connections with other institutions and the general public.
+For Salley, a former Crimson multimedia chair and joint History and Near Eastern Languages and Civilizations concentrator, one of the greatest perks of working in the humanities is its gentler schedule. “I think that’s generally true of humanistic people. They prefer the finer things in life. The time is just as valuable to have on your own as money could be.”
+If these jobs—substantive, yet rooted in Harvard’s humanistic tradition and resources—seem too good to be true, that’s because they often are. “It’d be a little idealistic for me to say that you can find your dream job right off the bat,” Reis-Dennis acknowledges. “I like to joke I’m the only person who studied poetry in college who’s now making a living working in poetry.” 
+Even those interested in a more traditional path into the humanities, such as publishing, may face limited job options upon graduation. Amanda Peery ’14, a former English concentrator, remembers the fierce competition she faced when applying to her current position as an editorial assistant at Harvard University Press.
+“I just saw it one day, and I applied within five minutes of seeing it, which was really important,” she recalls. “A typical job opening in publishing will get, like, 500 applications in two days.”
+In the face of such competition, humanities majors in search of jobs like this may need to adjust their expectations. A publishing career, for instance, “doesn’t start in college at all in the sense that you will have a job lined up when you graduate from college,” Peery continues. “You absolutely will not, if you go into publishing. There’s no straight path like there is for finance or consulting.”
+Ballotta experienced this firsthand. She had no long-term job prospects lined up at graduation, save for a summer internship at Dumbarton Oaks. After that three-month position, as well as a part-time nannying job, Ballotta’s career in the humanities began to take shape.
+“It kind of just fell into place,” she said, adding that she first landed a job with “Poetry in America” after a spontaneous meeting for coffee with New. 
+Not everyone is as lucky. Jobs like those under the HarvardX umbrella, the direct offshoot of one of Harvard’s degree programs in the humanities, are few and far between. Those who do attain these coveted positions are well aware of their fortune.
+“I think it’s rare to go home and feel like you’ve contributed something valuable to the culture,” Peery says. “And I think just being able to appreciate that, and being able to have an ideal like that...is something you will have more support for as an English major.”
+For those still intimidated by the humanities’ broad boundaries, there’s always another option: graduate school. Traditionally, law school has been the standby for humanities graduates looking to put their skills in argumentation and synthesis to work. Yet job prospects for law graduates today are notoriously bleak—according to recent surveys, nearly 20 percent of law graduates nationwide from 2010 are currently working in jobs that do not require a law degree.
+Meanwhile, law’s more scientific cousin, medicine ,is booming, as the field races to keep up with a projected shortage of more than 90,000 doctors by 2020. Amidst this broader context, more and more Harvard students are opting for a seemingly unorthodox combination: the humanities pre-med.
+It’s not an obvious marriage. The humanities pride themselves on teaching general skills—“how to write, speak, read, interpret large corpora really well,” according to English professor W. James Simpson. Medicine, on the other hand, requires a laser-like focus to scientific detail, as well as a rigid career structure. Can the two really coexist?
+Evidently, yes. When we speak with Matthew E. Growdon ’07 over the phone, he’s glad to outline his journey from History and Literature to an internal medicine residency at Brigham and Women’s Hospital. Growdon, a former Crimson design editor, has long been intrigued by the humanities’ applicability to medicine. He wrote his thesis on the phenomenon of shell-shock in World War I, studying early psychiatrists’ and neurologists’ attempts to define this condition. 
+It may seem like a tenuous connection, but Growdon’s given this a lot of thought. Medicine, he tells us, is a fundamentally humanistic practice. The humanities’ analysis of the human condition contributes well to a sense of empathy with patients—as he puts it, an ability to see them “almost as works of literature, that I’m stepping into on a day-to-day basis.”
+“There are ways in which I’ve been very grateful for that skillset,” he reflects. “As opposed to a deeper knowledge in, say, biochemistry.”
+What about the notorious pre-med requirements? Growdon would tell us that they’re simply not as intimidating as we’re led to believe. He describes himself as a “stealth pre-med” in college, taking a prerequisite here and there, never sequentially. Although he graduated without completing the requirements, he finished the remainder while working for three years at a clinic before applying to medical school.
+“Pre-med requirements are really seen as like this megalithic thing that you have to get through, that has some bearing on medical practice,” he tells us. “But really, not all that much.”
+Pankaj K. Agarwalla ’04 agrees, to a point. He’s further along than Growdon, now a sixth-year neurosurgery resident at Massachusetts General Hospital. A former classics concentrator, he delivered his year’s Latin oration, entitled “De Hominis Harvardiensis Decursu,” or “On the Evolution of the Harvard Student.” The theme seems appropriate—Agarwalla himself studied classics at Oxford for a year before returning home for medical school. Like Growdon, he emphasizes the benefits of humanistic study to personal development.
+On empathy, though, Agarwalla isn’t so sure. Although he agrees that “[t]here’s definitely a compassionate and interpersonal and social component” to medical practice, he also cautions against losing sight of the basic realities.
+“I have a hard time arguing that the humanities prepares someone better for that than a non-humanities concentration,” he says. “I think that has a lot more to do with just the type of person someone is, just in terms of their care and compassion and professionalism.”
+Moreover, it can be difficult to find an after-hours balance between humanities and medicine. Setting aside the time to read novels or attend the symphony isn’t always a possibility for busy medical students and professionals.
+Growdon remains optimistic: “I think there are a lot of people in medicine who are receptive and interested in the humanities, in going to museums, in making music.” But he’s also honest about the challenges involved. He tries to read, when his schedule permits, as well as attend the occasional event at Harvard’s Humanities Center.
+Agarwalla is taking an even longer view. 
+“On a day-to-day basis, as a neurosurgery resident, it’s pretty challenging to maintain any outside interests at all,” he acknowledges. Rather than keep up a constant connection, he imagines teaching the classics after retiring from neurosurgery. Yet he’s adamant that they haven’t lost any of their importance in his eyes.
+“I think that the material is truly timeless,” he reflects. “I do not think that it is the end of that story in my life.”
+For others, that story cannot wait.
+Tomi J. Adeyemi ’15, a recently graduated English concentrator, calls us over the phone at 9 p.m. It’s been hard to set up the interview, given our respective schedules and the time difference. Adeyemi works in Los Angeles, as a data analyst for Legendary Entertainment. 
+“On campus, I did entertainment things,” she remembers. As an undergraduate, she’d been a producer for the Hasty Pudding Theatricals and a dancer with hip-hop dance group Expressions. “That was what I was passionate about, so it matched pretty well with what I was looking to do right after college.”
+Yet Adeyemi’s true passion isn’t in entertainment—it’s in writing. She’s currently midway through writing a young adult novel in her spare time and hopes to be finished by December. After that, she says, she wants to move into screenplays.
+“I had been writing stories since I was a kid, like since I learned to read,” she says. Eventually, she hopes to live out her early dream of working as a writer full-time.
+This juxtaposition between work and play, day and night, is frequently the best option for those looking to follow their passions in the humanities. In particular, those who wish to pursue the arts full-time must often bide their time at a more conventional 9-to-5 job while their books, screenplays, and EPs fall into place.
+Adeyemi admits as much. Unfinished novels don’t pay bills. Accordingly, she also maintains her day job at Legendary, after interning at Bain Capital and Morgan Stanley during summers in college. She sees the job as a satisfactory compromise for her long-term goals. “The things I want to do mostly involve writing,” she explains. “So while in a perfect world, I would sit around and do that all day, that would mean I would have to live at home with my parents, and that’s just not the life I want.”
+Living at home with parents isn’t an option for Moeko Fujii ’15. Although she was born in Tokyo and retains Japanese citizenship, she is now an MFA candidate at Columbia. 
+“For me, [getting an MFA] was just the most logical decision,” she explains. “If I have a student visa, I can write, as long as I’m not earning money for it. And I already knew what I wanted.”
+Like Adeyemi, Fujii’s lifelong goal has been to write full-time. She’s taking a more direct path, dividing her time between workshops and a part-time role as assistant to Adam Gopnik of The New Yorker. Although this day job would be the envy of any young reporter, she’s focusing less on the future than the present day.
+“What stresses me out is less, ‘Will I be able to support my children in the future?’” she explains. “Because that feels way off—long off. It’s more, ‘What if my writing isn’t good enough?’”
+Adeyemi takes this a step further. She sees her day job in data analytics not as a burden, but as an opportunity. “Any person that you would want to watch your movie or see your show or read your book, there’s a million other things that they could be watching, or reading, or doing,” she says. When she releases her own work, she plans to put her marketing expertise to use.
+“It’s not about creating something that eight billion people would like,” she continues. “It’s about creating something and being able to reach the maybe, like, one million people that would like it a lot.”
+Reis-Dennis understands the difficulty of balancing work and dreams all too well. As an undergraduate, she’d been lead singer for The Nostalgics, a student band, and had planned to pursue a career in music after graduating. Now, with a large chunk of her day occupied producing “Poetry in America,” making music has taken a significant back seat. 
+“I’m still figuring out the balance between my day job and my second life, as a singer-songwriter,” she says. “Because most people who are musicians really think of their day job as, ‘Oh, that thing I hate, but I do to pay the bills.’”
+But for the executive producer of “Poetry in America,” this couldn’t be further from the case.
+“I love what I do,” she explains. “So it’s really easy to just invest all of my energy and a lot of my time into doing this, because it’s not something that I feel is soul-sucking, or that I feel is a direct contrast to my music—if anything, they’re mutually enforcing, and mutually energizing.”
+With “Poetry in America” clamoring for her attention, Reis-Dennis doesn’t plan to return to a dedicated music career in the near future. She doesn’t see the balance between work and passion as too onerous. In fact, she tells us, the process has also given her a new sense of perspective.
+“I set some very defined goals for myself: I want to produce my demo EP by December, regardless of whether or not I’m doing this job. I need to keep on writing music, producing music,” she says. “And I did. And I definitely learned some good lessons, probably the biggest of which was that I don’t want to do music full-time.”
+For many arts careers, though, a full-time investment isn’t optional.
+We meet Mark J. Mauriello ’15 on his last day in Cambridge. He’s moving to Berlin the next day, on a year-long fellowship he received from Harvard. It’s interesting to see him off the stage. He’s subdued in all black, but still sports his signature green nail polish. And we’ve caught him in the rare instance when he isn’t rushing off to a performance or rehearsal. “I’m in a moment of kind of taking it step by step, and not having too much of a grand plan,” he acknowledges.
+It’s a reasonable pause. Mauriello, who graduated just a year shy of the new Theater, Dance, and Media concentration’s launch, has devoted himself to theater since arriving at Harvard. After starring in the OBERON’s production of “The Lily’s Revenge” as a first-semester sophomore, he stayed affiliated with the Cambridge theater throughout his college years, working as an intern and then later a part-time staff member in their marketing department. From day one, he says, he knew that his interests lay on the stage. {image id=1307245 size=large align=center byline=true caption=""For me, every second of every day is theater,” said Mark J. Mauriello '15 in the fall of 2014. Mauriello was a student actor in ‘The Donkey Show,’ a Midsummer Night's Dream-inspired interactive disco musical.}
+His passion for theater was matched in the classroom. Under the mentorship of Harvard’s dance director, Jill Johnson, he crafted his own concentration, fusing together elements of dance, art history, and traditional dramatic performance. It’s easy to see this form of self-directed study as the ultimate embodiment of the humanities—applying academic focus to the art of human performance.
+For Meagan A. Michelson ’10, the decision to pursue a career in performing arts was not quite as obvious. Like Mauriello, she’d been a fixture of the Harvard theatre scene, performing with groups ranging from the Harvard-Radcliffe Gilbert and Sullivan Players to the American Repertory Theater. She was discouraged from pursuing theater after college, however, when she was repeatedly cast in supporting roles.
+Instead, Michelson, a “self-proclaimed book nerd” and English concentrator, imagined getting a Ph.D. in English, or fusing elements of English and dramatic arts in a non-performance-based career such as directing or dramaturgy. “I was going to go the more literary, academic route, even if it involved theater,” she says.
+After Michelson moved to New York post-graduation, though, she realized that she was happiest in the spotlight.
+“I would see shows and think, ‘I have to be up there, I have to be singing,’” she remembers. “I like looking at scripts, I like developing new works, but I have to be performing. That’s what makes me feel happiest, that’s what fulfills me the most.”
+Since her realization, Michelson has delved into the performance and audition circuit head on, getting a MFA in musical theater from the Boston Conservatory along the way. Because she was mostly self-taught, she saw an MFA as a way to ensure she would be competitive alongside other professionals. 
+What’s more, Michelson’s degree has given her an alternative plan for when callbacks are slow. While some aspiring actors, like Mauriello, throw themselves into theater unconditionally, it’s more common for college graduates to hedge their bets with a professional degree of some sort, while maintaining an eye toward future career changes.
+“You’re going to have to pay the bills. Broadway isn’t going to call immediately, and even if it does, what’s next?” she muses. “So it’s helpful to have another skillset to be able to teach private voice lessons, or maybe teach acting at a conservatory or liberal arts college.”
+So what can you do with your humanities degree?
+Every Harvard graduate we interview presents us with a different answer. Some have pursued their humanistic interests full-time; some have thrown themselves into business or graduate school. With such a broad cast of characters and perspectives, it’s difficult to draw out a neat and all-encompassing conclusion.
+As a humanities professor might say: How can we synthesize and present the information?
+For starters, we look back at what patterns we do see. Every graduate we talk to is an extraordinary communicator—articulate, well-spoken, engaging. Each is passionate about their undergraduate field of study, regardless of the degree to which they’ve retained it in their post-college experiences. Almost all of them reference the general skills they’ve gained from studying the humanities, and point out how these skills can be cross-applied to their own careers.
+With few exceptions, they agree upon one thing: There’s no “wrong answer” for Harvard humanities graduates entering the workforce. Prior to attending college, Adeyemi remembers believing that respectable graduates could only end up in three different fields: law, medicine, and business.
+“If I went to any other college, I probably would have been pre-med,” she says. “But I felt like I had freedom to do what I wanted to do at Harvard.”
+Part of this, of course, lies in the prestige and connections within Harvard itself.
+Adeyemi, for example, first heard of positions at Legendary Entertainment through an alumnus at the company. Salley, Reis-Dennis, and Ballotta are all employed by institutions directly sponsored by the University, and both Michelson and Mauriello have traveled with Harvard fellowships in theater. And the Harvard name brand, of course, carries implicit clout in any field. 
+Harvard students, in other words, are afforded an almost unique opportunity: to concentrate in any field, without excluding the vast breadth of options awaiting them upon graduating.
+In another light, Harvard’s emphasis on a pure liberal arts education creates an environment in which bridging the gap between any field of study and any post-collegiate career becomes less daunting.
+“Someone who takes Ec 10 isn’t more prepared to do their job than someone who took English 40. Everything in the real world is brand new if you go to a liberal arts school,” Adeyemi says.
+At Harvard, she adds, you don’t directly learn how to make a spreadsheet or write an email. You learn how to read, write, synthesize, and communicate—skills that will apply to life after an undergraduate education regardless of the concentration printed on your diploma.
+This article has been revised to reflect the following correction:
+CORRECTION: October 29, 2015
+An earlier version of this article incorrectly stated the role Leah Reis-Dennis ’13 plays in producing the course “Poetry in America.” In fact, Reis-Dennis is its executive producer, not content director.
+Sections
+The bartender at my hotel in downtown Huntsville, Al., grew up in Buffalo, N.Y. He moved downstate, to Brooklyn and Washington Heights—neighborhoods just a short bus or subway ride from my own—and knows the New York of Giuliani (the one I grew up with).
+He moved to Huntsville 12 years ago— “for love,” as he says—and relishes the lilting pace of life here. It used to annoy him at first, he admits, acknowledging that he initially found the native population far too slow for him.
+“But you adjust,” he says, grinning.
+***
+The drive from Huntsville to Atlanta takes somewhere between three and a half and four hours, depending on how backed up I-75 is, and how scenic you’re looking to get.
+Our rented VW station wagon rolls through the undulating hills of Appalachia. The countryside is dotted by cows, farms, and megachurches. Our route seems to take us back in time, crossing freight railroad tracks and lazy clapboard houses with rocking chairs out front.
+As the navigator, I force my parents to listen to my preferred driving soundtrack—The Strokes, Drake, far more One Direction than I should admit. My dad slows down so I can snap a photo of the hazy blue peaks of northern Alabama. This isn’t something you find in Cambridge.
+***
+The pork at Old South Bar-B-Q in Smyrna, Ga., can be served three ways—sliced, chopped, or pulled.
+When I order pork on garlic toast for lunch on Sunday at Old South, the waitress asks me how I’d like it prepared. Her favorite, she explains, is pulled, adding the requisite “honey” on to the end of her explanation. I’ll have it just as she likes it, I respond.
+Old South is the oldest restaurant in Smyrna, established in 1968. It still operates out of the converted single-family home in which it began. Its light wood walls are covered in photo collages of locals who have frequented the joint for decades. You can see pigs on the smoker behind the cashier. My sandwich is fresh and hot. I happily douse it in the vinegar-heavy house sauce. There are hush puppies involved.
+A leisurely, filling lunch for three runs under $30, and our waitress reminds us to hurry back as we leave. We may be 25 miles from the airport with just 90 minutes until our flights depart, but as I climb back in the car with my parents, we’re nothing but satisfied.
+***
+On Monday night, I linger in the conference room here at The Crimson with two writers and a designer after our weekly meetings.
+We all have plenty of work to be done—papers that need writing, midterms approaching, neglected thesis research—but there’s not a bit of restlessness in the room. We relax into leather couches and talk for hours. I stretch my legs and rest them on the table in front of me as we laugh, gossip, whisper, and whine.
+I do not look at my phone (it’s dead) and lose track of time until it’s midnight and our eyelids start to grow heavy. The only thing we’re really in a hurry for is some sleep.
+Sections
+It’s that time of year again. The leaves have mostly fallen, and Floridians are beginning to freeze to death in the 50-degree weather. Scented candles are multiplying by the thousands. Pumpkins, in various forms, have invaded even the most private corners of your life. And, most importantly, Halloween is right around the corner.
+To celebrate the one holiday that never gives you a break from school, FM went to some local book stores and asked employees for extra-spooky reading recommendations. So, this year, take a break from the leather corsets at Heaven and Hell and plop yourself down under your coziest blanket with a cup of hot apple cider and a nice page-turner from the list below.
+From Grolier’s Poetry:
+“The Book of Nightmares” by Galway Kinell - A poet. Some bad dreams. A lot of really great reviews. ‘Nuff said.
+“Spells” by Annie Finch - The author is a witch. Literally.
+“The Book of Ephraim” by James Merrill - This poet is so good it’s like he’s channeling the spirit world. (If only I could do that for my Government paper.)
+From the Million Year Picnic:
+“Magic Trixie and the Dragon” by Jill Thompson - A sassy witch accidentally turns her little sister into a dragon and then loses her. As the Amazon Prime synopsis says, Trixie is “in quite a scaly situation!”
+“Mary Scary” by Andrew Cosby and Troy Nixey - What do you do when you’re a kid with a spider permanently stuck to the top of your head? Read and find out!
+“The Raven” by Edgar Allen Poe - Not your standard comic book suggestion but a poem worth reading nonetheless.
+From The Harvard Bookstore:
+“A Delusion of Satan” by Frances Hill - An unflinchingly close look at the Salem Witch Trials: disturbing, creepy, and perfect for Halloween.
+“The Caged Graves” by Dianne Salerni - Some graves are in a cage. Read it to find out more.
+“The Legend of Sleepy Hollow” by Washington Irving - You should probably know what this one is about by now. Still, it’s always a good read.
+From the Coop:
+“Something Wicked This Way Comes” by Ray Bradbury - As if circuses weren’t already messed up enough.
+“The Unrest Cure and Other Short Stories” by Saki - Dig into these short horror stories that also satirize upper class sociey.
+“Teatro Grottesco” by Thomas Ligotti- Twisted people, nasty demons, and small-town culture thrown into a blender and served up in some seriously colorful language.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Looking to solicit student input in administrative decisions, College officials are in the process of forming a student advisory board to the Office of Undergraduate Education.
+The office’s academic resources group—comprised of academic offices including the Bureau of Study Counsel, the Advising Programs Office, and the Accessible Education Office—has proposed the board to solicit student feedback about policies that affect undergraduates. 
+The board looks to foster student involvement with and input in academic support programs, as well as spread information about those programs to students, said Ann Gaylin, the College’s associate dean of undergraduate education for academic support.
+The effort to create a body to solicit student input in policy decisions comes a few months after undergraduates criticized administrators for moving the Bureau of Study Counsel under the College’s administrative purview. 
+Students questioned the change, arguing that it could compromise their privacy, as the academic counseling service had operated under a different set of confidentiality guidelines when it was formally part of Harvard University Health Services. Administrators maintained that the change would not affect student privacy, but the Undergraduate Council nonetheless requested administrative reviews of the decision in the wake of student concerns.
+Gaylin, a member of the Office of Undergraduate Education’s academic resources group, and an elected student from the proposed advisory board will serve as its co-chairs, according to its website.
+Although the search for undergraduates to serve on the student advisory board started this fall, Gaylin said the project has been on her mind since she came to the College.
+The board’s members will share feedback about the College’s academic resources, provide suggestions for new programs, and share this information with the student body through focus groups and other events, according to the website.
+“If there are any issues, we want to hear about them,” Gaylin said.
+A lack of clear student-administrative communication, prior to the student advisory board, has had some students questioning the role that student input plays in College decisions, an issue that UC representatives are trying to remedy, UC President Ava Nasrollahzadeh ’16 said.
+Nasrollahzadeh’s predecessor on the UC, former president Gus A. Mayopoulos ’15, chose not to donate to the annual Senior Gift fund last spring partly to make a statement about College administrators and how he said they engage with students. He argued that the administration had not “dealt openly” with students “all the time.”
+Last semester and again this fall, Nasrollahzadeh and UC Vice President Dhruv P. Goyal ’16 met with Gaylin to discuss the role of undergraduates in administrative decision-making processes.
+Although Goyal called the student advisory board “definitely an administrative project,” he said he values that students will be able to give input in a “streamlined channel” for communication with the administration.
+In addition to the students on the UC, Gaylin said she hopes the board will include members of the First Generation Student Union, undergraduates involved with BGLTQ life, and other groups on campus.
+—Staff writer Melissa C. Rodman can be reached at melissa.rodman@thecrimson.com. Follow her on Twitter @melissa_rodman.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+After piloting a spring break meal plan program last school year that kept some undergraduate dining halls open for students on campus, the College will offer a similar meal program next spring.
+The pilot, funded by the Dean of the College’s Office, came out of recommendations made by two committees focused on issues of diversity and inclusion at the College, according to Emelyn A. dela Peña, the College's assistant dean of student life for equity, diversity, and inclusion. 
+“It was recommended by both the Walton Group and the Working Group on First Generation College Students,” dela Peña wrote in an email. “Both committees discussed the hardship that our low-income students faced during Spring Break when they have to buy meals in the square. So, yes this was spurred by a desire to address equity and inclusion issues.”
+The pilot program was modeled after the limited meal plan the College offers over winter break, when selected Houses remain open for meals. The College covered the costs of the expanded spring dining options by tightening the budget in other areas, including suspending per day allowances for athletes over the break.
+The move also followed calls for the program from students. In 2013, Undergraduate Council leaders approved legislation requesting that the College provide more dining options to students during spring break.
+Dean of the College Rakesh Khurana said in an interview last year that his office would evaluate data from the pilot program when deciding whether to expand it in future years.
+Miles Hewitt ’17 was among a number of students who stayed on campus last spring break. He said he hoped to see the program continue in future years.
+“It makes a lot of sense, rather than having us scavenge around,” Hewitt said. “I was here freshman year... That involved some stockpiling of emergency sandwiches.”
+Administrators are still refining how they will implement this school year’s spring break dining program, according to Faculty of Arts and Sciences spokesperson Rachael Dane.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Speaking to an audience of about 60 at Harvard Law School on Wednesday, the attorney spearheading a major lawsuit against Uber argued that the legal classification of Uber drivers as independent contractors provides the workers with insufficient labor protection.
+In August 2013, Shannon Liss-Riordan filed a class-action lawsuit of California Uber drivers against the ride share company, arguing that it classifies drivers as contract workers even though they work like regular employees. The current classification, which Uber claims it adopted because of the time flexibility of the job and its use of personal vehicles, exempts the company from providing labor benefits like minimum wage and health insurance.
+Liss-Riordan said Uber drivers cannot be classified as independent contractors because the company evaluates driver performance, claiming the right to deactivate drivers who receive poor customer ratings. She argued that Uber exploits a legal loophole to avoid the provision of adequate labor protection.
+“Independent contractors run their own businesses,” she said, adding that Uber drivers cannot be considered self-employed since the business ultimately belongs to Uber.
+Liss-Riordan said she wants to give Uber drivers employee status and increase Uber’s share of profits—now set at 20 percent—to pay for the provision of labor benefits. As an alternative, Uber could become a worker-owned business, she added.
+Ryan M. Matthew, a Law School student in attendance, said he loves Uber “on the surface,” but that the lawsuit highlights important issues.
+Liss-Riordan said the lawsuit’s outcome will affect Uber drivers nationally, even though it is focused in California. She acknowledged that it will take several years for the case to be settled.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+As the Thursday deadline for accepting full-time job offers from many summer internship programs approaches, Harvard’s Office of Career Services has faced an influx of conflicted students debating their postgraduate plans. 
+For students who obtained those internships through the Campus Interview Program, a division of OCS, the deadline marks a decision that has been months, if not years, in the making.
+Students weighing whether to accept their summer offers may expand their job search through the Campus Interview Program’s senior recruiting process that takes place throughout the fall. That cycle helps connect students with employers through interviews and job fairs and represents a variety of sectors.
+“We have over 200 employers who want to participate in a structured program to hire our students,” said Robin E. Mount, the director of career, research, and international opportunities. “We conduct about 6,000 interviews on campus.”
+Deborah A. Carroll, the associate director of employer relations and operations at OCS, said the office bolsters its advising over the past two months. It has additional drop-in hours for seniors throughout September “specifically to help with the traffic,” she said.
+According to Carroll, most students have been proactive in the decision making process.
+“We do see that for a lot of students come October either they’ve already decided that they are already accepting or they’ve already decided that they’re moving on in some way,” Carroll said.
+Mount similarly said only a small minority have continued to weigh their options up until the deadline. “I would say there are some students that run it out all the way to Oct. 29, but it’s not that many,” Mount said.
+For students accepting offers through their summer internship, the process of securing a full-time offer often begins during their junior spring, when employers come to campus for summer internship hiring. When students take a summer job, they compete for a full-time offer, said Marissa L. Long ’08, the assistant director of the Campus Interview Program and employer relations.
+Despite the network of resources from Harvard, dozens of students still experience stress throughout the process. “It’s especially stressful junior year, because there are a lot of concentration requirements one has to fulfill, growing club responsibilities, and on top of that, this job search,” Elizabeth Garcia ’16 said.
+Garcia, who applied for internships through OCS and has accepted a full-time position at Barclays for after graduation, said OCS is a valuable resource to students who are looking for internships. “It’s a long process, but I’d say it’s pretty well organized. They have everything in a central system,” she said.
+For juniors thinking about the summer internship process and later job offers, OCS recommends keeping an eye on deadlines. “Our approach is to tell students to be an active decision maker and not run it until the end,” Long said.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+On Facebook and through posters around campus, a group of students and proctors are pushing their peers to rethink Halloween costumes this year through a campaign dubbed “A Happier Halloween.”
+The campaign, launched earlier this week, addresses issues of cultural stereotypes and sexual expression and consent as they relate to dressing up for Halloween, with the headlines “My costume is not consent,” “My culture is not a costume,” and “My identity is not a costume.”
+The campaign’s overall message is to ask students not to wear racist costumes—like ones that mimic groups or cultures—and remind them that they should not assume that someone consents to sexual activity because of what they are wearing.
+“Halloween costumes have the power to celebrate and amuse, but they also have the power to harm and marginalize,” read an email promoting the project over House lists.
+Freshman race relations, BGLTQ, and Consent, Assault Awareness, and Relationship Education, or CAARE, speciality proctors organized the campaign. They drew from a similar project at Ohio University called “We’re a culture, not a costume,” according to Monica G. Tibbits-Nutt, a race relations proctor involved in organizing it.
+Proctors are recruiting students to help hang up posters from the Ohio University campaign. One sign features a woman wearing a Native American headdress, condemning the costume with the line, “You think it’s harmless, but you’re not the target.”
+Another poster features a photograph of a woman wearing blackface. In the poster, a black woman holds up the photo alongside the headline, “This is not who I am, and this is not okay.”
+While other schools have started similar campaigns against wearing costumes that stereotype, Harvard’s campaign added the issue of sexual consent, according to Lispeth J. Tibbits-Nutt, a BGLTQ proctor involved in the project.
+Referencing the recent release of Harvard’s sexual assault climate survey results—which demonstrated the incidence of sexual misconduct at the College and administrators deemed “deeply troubling”—Monica Tibbits-Nutt said the campaign furthers discussion on the topic.
+“Especially at Halloween, things have a tendency to get a lot less safe, and so I think we really wanted on the heels of that report to take this chance to open up another avenue of dialogue about it,” she said.
+Students have taken to social media to further the campaign’s message; it has a presence on Facebook, Twitter, and Instagram. Through these mediums, organizers are posting anonymous comments students and other supporters send to them via email.
+“I dressed up as, you know, a ‘slutty witch.’ While I was at the party, one of the boys in my class put his hand on my inner thigh, really high up. When I reacted with shock, he laughed and said something like: ‘It was a compliment! Plus, what do you expect in that costume?’” read one anonymous post from a self-described sophomore.
+According to Lispeth Tibbits-Nutt, the media blitz hopes to personalize the campaign to reach other students and garner a mass of stories for the campaign in future years.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+BGLTQ activist and human rights advocate Tiq Milan urged an audience to challenge the notion of masculinity and called for a greater focus on sexual identity in education at Harvard on Wednesday.
+At a panel organized by the Faculty of Arts and Sciences Office of Diversity Relations and Communications and the Harvard College Office of BGLTQ Student Life, Milan, who is black and transgender, said the development of his masculine identity did not follow the typical journey.
+“When I look at my masculinity, it’s not about the traditional trajectories,” he said. “I want to become a man of my own design and the man of my dreams.”
+He added that the narrow definition of masculinity poses problems for gender inclusivity.
+“Limitations that we have placed on masculinity has a detrimental effect on how we relate to each other as human beings,” he said. “It’s a constant uphill battle for me when it comes to asserting myself in my identity.”
+According to Harvard College Women’s Center administrative fellow Vincent T. Harris, who moderated the event, the issue of gender inclusivity extends to the American education system. While Harvard is setting standards of inclusivity in higher education, he said, conversations about inclusivity are not always taking place across the country.
+“With the increased visibility of transgender in media, we are becoming more aware of trans equality as a responsibility of colleges and higher education institutions such as Harvard,” Harris added as he introduced the panel.
+Addressing a question on the impact that cutbacks on K-12 sex education has on the BGLTQ community, director of BGLTQ Student Life Van Bailey, who sat with Milan on the panel, said many students are entering college without adequate knowledge about sexuality, the broader field within which gender identity lies.
+Milan agreed, adding that the sex education curriculum needs to expand to include discussions about gender identity.
+“It’s important to have these conversations early to combat violence and shame later,” he said.
+In his closing remarks, Harris said it is important to recognize individuals by their unique personalities rather than by their gender identities.
+“We have to continue to promote the message that individuals in spaces of higher education can come to us as who they are and think about how we can support them as who they are,” he said.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: November 2, 2015, at 9:40 p.m.
+In a discussion about mental health with former Massachusetts Attorney General Martha M. Coakley on Wednesday, College students called on Harvard and student groups to address institutional problems and stigma surrounding mental health on campus.
+The University provides a host of mental health resources for students, including professional staff members at Harvard University Health Services and the Bureau of Study Counsel and peer counseling groups. Still, Jennifer Y. Yao ’16, a Student Mental Health Liaison and Crimson multimedia editor, said stigma might prevent students from seeking help.
+“Stigma doesn’t just affect people until they get through the door. It affects people all the way through treatment. Ultimately, [stigma] is here at Harvard,” said Kevin Wehmhoefer, a licensed independent clinical social worker at UHS.
+In February 2013, an op-ed in The Crimson triggered campus-wide discussion about the University’s mental health resources and policies. Two days later, students protested outside Massachusetts Hall, urging administrators to take action.
+Two years later, students said Wednesday, issues persist.
+“There are definitely institutional things that need to be corrected,” Eduardo S. Cabral ’16 said at the discussion.
+For her part, Coakley said society at large has made strides in recent years toward treating and diagnosing mental health, but that more action is required.
+“This meeting wouldn’t have taken place 10 years ago,” she said, adding later that “It’s something that we can tackle in the next 10 or 20 years… It’s a nonpartisan issue. We’ll just have to keep pushing it.”
+Coakley also said the stigma surrounding mental health must be addressed for people who suffer from related illnesses to seek out the help they need.
+Sara S. Surani ’18 said mental health was stigmatized even before she arrived at Harvard, specifically in the community where she grew up, and she said she continues to see the same stigmatization on campus. “You’re anxious? You didn’t study enough. For depression, it’s ,‘You’re weak,’” Surani said. “People don’t want to get help because that’s admitting that you’re weak.”
+Cabral also referenced the stigma attached to mental health issues. “You shouldn’t have to be brave or courageous to tell your story,” Cabral said. “You aren’t brave if you tell someone how you broke your arm.”
+The silence that surrounds these issues is also an issue, according to Coakley. “Most people just don’t know what to say about it,” she said.
+Coakley argued that overcoming stigma is only one aspect. Mental health issues, she said, “are not some type of martian virus. We know about these things, and we can do better. It’s about where we put our resources.”
+This article has been revised to reflect the following correction:
+CORRECTION: November 2, 2015
+An earlier version of this article incorrectly stated that Jennifer Y. Yao ’16 said Harvard procedures might prevent some students from seeking help for mental health issues. In fact, Yao referred more broadly to barriers associated with seeking help.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Members of the Flexible Fund Executive Committee laid the groundwork on Wednesday for how the organization would distribute a total of $5.35 million toward North Allston public realm improvements, as part of Harvard’s $43 million community benefits package.
+The eight-person executive committee has been tasked with narrowing down applications and will meet again in mid-November to create a list of priority projects.
+“We want to look at the projects that make the most sense and receive public support,” said Gerald Autler, senior project manager at the Boston Redevelopment Authority. He said the process for allocating Harvard’s funds could mirror a comparable project run by the Boston College Allston-Brighton Task Force.
+Wednesday’s meeting focused on the review process for proposed projects and long-term uses of the fund.
+“This fund should not been seen as the way to pay for maintenance or other capital improvements that would normally come from the city’s capital budget,” Autler said. “If there’s an area of improvement that goes above and beyond that, then it could be covered by this fund.”
+After the executive committee met, the Harvard-Allston Task Force gathered to discuss workforce development and Harvard’s non-institutional holdings in the Allston area. New task force interim chair John A. Bruno moderated the meeting, taking over from former chair and longtime Allston resident Raymond V. Mellone. The task force has not set a timeline for selecting a permanent chair.
+“The task force needs to work collaboratively to set an agenda, take input from the community at large, but also ensure that meetings don’t get derailed by any particular agenda that aren’t consistent with task force goals,” Bruno said.
+Community members also raised concerns at the meeting about transparency in the appointment and attrition rates of task force members.
+Allston resident Paul “Chip” Alford said he was confused about how task force members are nominated and how vacancies in the task force would be addressed.
+“I’m just concerned about procedure—because I think before we can go anywhere about all the great stuff that’s being discussed, we need to know what the procedure is to put people in place to make those decisions,” Alford said.
+Even Bruce Houghton, who sits on the task force, said he was unsure about how he was appointed.
+“If I don’t—after being here all these years—understand how someone comes on here, and it’s purely a BRA advisory board, and…all of a sudden some people are looked at by the BRA, some people are talked to, some people aren’t, it looks as if it could be stacked,” Houghton said. “Transparency is best for the BRA, best for the community, best for the politicians.”
+Appointments may be necessary when seats become vacant, although it is not always clear when a spot becomes open because there is no strict attendance policy.
+When pressed on this issue by Bruno, Autler said he did not feel that a formalized procedure for removing task force members due to absentia was necessary.
+Workforce and Economic Development subcommittee member Jane McHale also briefed the task force on the subcommittee’s achievements for the 2014-2015 calendar year, noting that with grant funding from Harvard, the subcommittee allowed the 433 residents on a Brighton English for Speakers of Other Languages waiting list to move into targeted educational programs.
+—Staff writer Ignacio Sabate can be reached at ignacio.sabate@thecrimson.com . Follow him on Twitter @ignacio_sabate.
+—Staff writer Luca F. Schroeder can be reached at luca.schroeder@thecrimson.com. Follow him on Twitter @lucaschroeder.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard affiliates clapped and cheered intermittently in Cambridge as the candidates took the stage for the third Republican presidential debate in Boulder, Colo., on Wednesday, with the most boisterous response greeting Donald J. Trump during his introduction.
+As has been the case with the last two Republican debates, Trump’s opening comments triggered wild reactions from both liberal and conservative students gathered to watch from the John F. Kennedy Jr. Forum.
+While business mogul Trump’s brusque, unapologetic personality and meteoric rise in the polls has fueled a media firestorm over the past several months, several students present said they were holding out for a more serious debate than the field has seen so far.
+“I want to hear what they are going to do for this country, not why the other guy has funny looking hair or a bad face,” said Sapna V. Rampersaud ’19, who added that she does not think the Democratic Party has taken the Republican field seriously, something she attributed directly to Trump’s lead in the race so far.
+Harvard Republican Club President Aaron I. Henricks ’16, for his part, said: “I hope that we talk about the problems and not personalities,” just before the first candidate—Jeb Bush—took to the stage to supportive cheers from the crowd gathered at the IOP.
+During introductions, Senator Ted Cruz of Texas drew snickers from students for joking that he may not be the politician the average American would feel comfortable having a beer with, but that he could be the one to “drive you home.”
+Though opening statements from many of the candidates elicited jeers and jokes from Harvard affiliates watching, the debate took a decidedly more presidential tone following what several in the crowd considered breakout performances by Cruz and Senator Marco Rubio of Florida.
+“Rubio is having a strong night,” Andrew B. Pardue ’16 said halfway through the debate. “Ted Cruz had a moment where he went after the media...and got a big audience reaction,” he added, referring to Cruz’s confrontation with the CNBC debate moderators over what he saw as a string of unfairly left-leaning questions.
+The crowd, typically chatting lightly during the debate, listened intently during Ben Carson’s remarks. In recent days the surgeon has propelled himself to the top of the Republican field, branding himself as the anti-Trump—thoughtful and careful with words—unlike the big-talking Trump.
+While the forum responded loudly to several of Trump’s early remarks, his central talking points and trademark attacks on other candidates appeared to fall flat as the debate wore on. “Trump hasn’t really stood out tonight,” observed Evan M. Bonsall ’19, a self-described Democrat.
+Also on the other side of the political spectrum, members of the Harvard College Democrats’ policy and publicity team live-tweeted the debate. “We want to make sure none of the really scary things that we’re hearing tonight gets enacted,” said Jacob R. Carrel ’16, president of the political group.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Following Boston Mayor Marty J. Walsh’s pronounced commitment to end veteran homelessness by the end of 2015 and chronic homelessness by the end of 2018, city officials said Boston has made “tremendous progress” towards its stated goals.
+According to Sheila A. Dillon, Boston’s chief of housing, more than 450 veterans have been housed since July 2014. This figure builds upon advances from earlier this year in August when 367 veterans had been housed since July 2014, according to a city press release.
+Walsh released an outline to achieve these targets, titled “An Action Plan To End Veteran and Chronic Homelessness in Boston: 2015-2018,” in June, which disclosed that 80 of the original homeless veterans still remained homeless at the time.
+Considering that individuals continuously enter homelessness, Walsh’s action plan defines an aim of reaching a “functional zero,” at which no veteran is forced to sleep on the streets, any veteran’s homeless stint is rare and brief, and all currently homeless veterans are on a path to stable housing by 2015’s end.
+“We are housing veterans, but the reality is, counting [homelessness] is like draining a bucket while it’s raining,” Dillon said. “It’s not a stagnant, steadfast number, as we have more homeless vets coming into the system.”
+For her part, Barbara V. Trevison, director of communications at the Pine Street Inn shelter in Boston, said Walsh’s commitment has placed increased attention on homelessness.
+“I think there is a really strong focus now, and there are a bunch of agencies, both providers like Pine Street, city agencies, [and] other agencies, that are working very closely together on this issue,” Trevison said.
+As part of a national initiative to end homelessness in cities, the action plan also called for focus in four areas: immediate response upon entry into the homeless system, coordinated access between programs, rapid rehousing, and permanent housing support.
+“We are working with several state and city agencies, so coordination coming together around this goal is challenging,” Dillon said. “Finding units that vets can afford is another challenge.”
+The endeavor to end homelessness faced a setback in October 2014 when Boston’s largest homeless shelter, the Long Island Shelter located on an island in Boston Harbor, was forced to close when the bridge leading to the island was deemed unsafe for vehicles to cross.
+During a historically snowy winter, local and temporary shelters compensated for the increased demand and worked to accommodate displaced guests, leading to some overcrowding.
+The city has since erected and expanded a new shelter on Southampton Street to replace Long Island’s facility.
+Trevison said the new shelter does improve the situation, but a high demand may arise as temperatures drop.
+“This year, there has been a new city shelter that opened in the last few months that is certainly helping, but now as the weather is getting cold we expect to see a bigger influx of people,” Trevison said.
+—Staff writer Sara A. Atske can be reached at sara.atske@thecrimson.com. Follow her on Twitter @sara_atske.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+After tying New Brunswick in the team’s lone exhibition game, No. 9/8 Harvard will officially begin its quest to build off of last year’s success in Hanover, N.H. on Halloween. The team takes on a Dartmouth squad that finished fourth in the conference last year on the road on Saturday before rinsing and repeating in the Bright-Landry Center the day after.
+The Harvard men’s hockey team started last year off with tempered expectations coming off of a disappointing campaign, but broke through its glass ceiling, buoyed by the rise of its underclassmen. The team stormed through the ECAC playoffs to take home the Whitelaw Cup in Lake Placid, N.Y., and earn a bid to the NCAA Tournament.
+This year, having been voted the top-ranked team in the ECAC Coaches’ Preseason Poll, expectations are much higher.
+While the Crimson finished sixth in the ECAC in the regular season, it returns a front line that looks largely the same as the one which led it to average a conference-high 3.27 goals per game. Co-captains Kyle Criscuolo and Jimmy Vesey highlight the attack for the Crimson this year, having led the league in assists and goals, respectively. The first line composed of the aforementioned duo and junior Alexander Kerfoot do not seem to have missed a beat after the seven-plus month hiatus from play together, notching two goals as a unit in Saturday’s tilt versus the Varsity Reds.
+“After a year under our belts, I think we know where we are,” Criscuolo said. “I think specially on the power play, we played pretty well. We still need to score some even-strength goals.”
+On top of all of the accolades that Vesey garnered last season—most notably being named at Hobey Baker Award Finalist—the Charlestown native now bears one more burden: captaining the team alongside two-time co-captain Criscuolo.
+“Towards the end of last season, he took on a bigger leadership role,” Criscuolo said. “I think it’s been a seamless transition for him. He earned the guys respect last season.”
+The team also added some new faces that can boost an already-competent offensive lineup. Bruins draftee Ryan Donato comes highly touted out of Dexter Southfield and has already made his mark, scoring on the man-advantage in the preseason tilt off assists from Criscuolo and junior forward Tyler Moy.
+“I think our power play has some guys that are good with the puck and I think he fits in well with that group,” Donato said. “But I also think that there’s a lot to learn there.”
+While the Crimson returns the majority of its offensive firepower, Dartmouth trended in the opposite direction this past offseason. The Big Green lost five of its seven top seven point-getters to graduation, while the Crimson surrendered just over a quarter of its total point production to the same phenomenon. Seniors only teamed up for eight of the squad’s 121 goals last year.
+The narrative is different for the Crimson defense.
+Perhaps the biggest question coming into the season for the Crimson is who will skate from the bench to between the pipes at puck-drop on Saturday in Thompson Arena. Harvard coach Ted Donato still contests that the position is up for grabs between freshman Michael Lackey, senior Peter Traber, and sophomore Merrick Madsen. Madsen, however, did not play in the exhibition, as Lackey conceded one goal in the first 40 minutes while Traber let in two in the remainder of the game. Donato did not rule out a rotation going forward.
+“I think it will be like every other position,” Donato said. “If we think we need to change things to keep things in flux and give ourselves the best chance to win, then we will.”
+Questions also remain for the back line as to who will fill the void left by last year’s star defensemen Patrick McNally ’15 and Max Everson ’15-’16, the former of which was Second Team All-League.
+In the exhibition game, Senior Desmond Bergin and junior Clay Anderson manned the first line while senior Brayden Jaw skated with sophomore Wiley Sherman on the second line. Two freshmen—Jacob Olson and Viktor Dombrovskiy—rotated through behind them in what has been the only insight into potential pairings this year.
+—Staff writer Kurt Bullard can be reached at kurt.bullard@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+With only three minutes left in the game, the Harvard women’s field hockey team was down 0-3. Drenched in the pouring rain, it looked as if they were going to be shutout for the second time of the season.
+Two goals by the Crimson in the last three minutes changed that.
+The first of these was scored by senior back Elizabeth Jacobson on a penalty corner with 2:59 to go. On a play the team has been working on in practice, Jacobson faked a forward shot, lost her defender, and then in one smooth motion turned around and slid a laser backhand into the back of the net. It was Jacobson’s ninth goal of the season, a career-high for her, and the 22nd goal of her career, which places her [10th] all-time among Harvard women’s field hockey players.
+“This is the first season Eli has been fully fit, and now she’s a great threat on our forward line and strong against any opponent,” said head coach Tjerk van Herwaarden. “She’s proven to be really effective this season.”
+Jacobson’s goal, though, still wasn’t enough for Harvard (7-7, 2-3 Ivy) to overcome a strong team from Boston University (12-5), currently ranked No. 17 in the nation, on Wednesday. Despite the loss, though—which extended their losing streak to four—the Crimson remain in high spirits.
+“BU is a very strong team every year, so we came in knowing we had to come out with a lot of energy,” Jacobson said. “I think we gave them a good run for their money.”
+The Terriers’ win can largely be attributed to their dominant first half, which featured them scoring two goals to Harvard’s zero and holding possession for most of the period. Particularly notable was the play of Terrier senior midfielder Sofi Laurito, who scored the first goal of the game—and her 10th of the season—11 minutes into play. Laurito, the reigning Patriot Offensive Player of the Year, currently leads the Terriers in season goals, and scored or assisted on all three of the Terriers goals on the night.
+The third of these goals came with a bit of luck and a bit of skill. After bouncing around from player to player near Harvard’s net, the ball eventually came to the stick of Laurito, who then fired it smoothly into the back of the net.
+In contrast to BU’s strong first period, Harvard only attempted a shot twice in the half, both of which came as desperation heaves within the last three minutes of the period.
+“The heavy rain and wind definitely did impact us the first half,” Jacobson said. “But the second half we just knew we were down 0-3 and had to fight.”
+The Crimson picked up the pace on both ends of the field in the second half, though, attempting eight shots—four of which were on goal—and holding the Terriers to one goal. The last two shots of the period were the most successful for the Crimson, with Jacobson and junior forward Marissa Balleza, respectively, finding the back of the net. Indeed, Harvard’s last goal came in the form of a penalty stroke—Harvard’s first of the season—just as time was expiring. With the goal, Balleza now has a team-leading 11 on the season and 32 for her career, tied for fourth all-time among Crimson players.
+Harvard has struggled offensively over the last few games, only scoring a combined four goals. Van Herwaarden, though, finds promise in how the Crimson managed to close out Wednesday’s game.
+“The last 20 minutes here and the whole second half proved we are capable of playing a very good game of hockey and we need to be more adamant about our goal-scoring,” van Herwaarden said. “Once we got those things in place, we’re looking to half a bright ending to the season.”
+With the loss, Harvard dropped to .500 for the season.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+With the season about to tip off, the Harvard men’s basketball team is working to answer the question on everyone’s mind: What will the team do without Siyani Chambers?
+Chambers withdrew from Harvard in September for the academic year after an ACL injury he suffered during the offseason. On Wednesday in the Ivy League Men’s Basketball Preseason Media Teleconference, coach Tommy Amaker discussed the cloud hanging over the team, noting that his star had undergone ACL surgery three weeks ago.
+“Everything is on schedule and everything is looking great. He’s out from surgery and on to the next stage of rehab,” Amaker said.
+The injury, which occurred during a summer workout, was not initially thought to be too serious. Immediately following the incident, Chambers took a break from working out in hopes that the injury was minor, but when he eventually saw a doctor it was realized to be something more substantial.
+With a few extra opinions, the diagnosis that emerged was that Chambers would require ACL surgery. In order to preserve his year of eligibility with the Crimson, Chambers chose to withdraw for the 2015-2016 academic year.
+“He wanted to come back and finish here,” Amaker said. “I thought it was just a heck of a testament to our university and to our program.”
+The practice of forcing players to withdraw in order to maintain eligibility has spurned criticism from outside the Ancient Eight. While players in other conferences are able to attend school as they rehab their injuries and then play out their fourth year of eligibility on the court while working towards a graduate degree, the Ivy League does not allow athletes to pursue graduate degrees and compete simultaneously.
+“It’s one of the most ridiculous rules in college sports.” Rob Dauster of College Basketball Talk told the Crimson in September. “It’s incredibly unfair for the kid and that’s something that probably should change and knowing the Ivy League, I doubt that it ever will.”
+While Chambers is on the road to recovery, Amaker and the rest of the Harvard team must find a way to fill the many voids that the former Ivy Rookie of the Year leaves. Given that the offense would have been run through Chambers this year had the injury not occurred, Amaker has been forced to consider other options.
+“I think the bulk of the load is going to have to be handled by [freshman] Tommy McCarthy,” Dauster said. “I don’t think Tommy McCarthy is going to be able to play 40 minutes a game so they’re going to have to find someone to get minutes there, but I think the lion’s share of the work is going to have to be done by McCarthy.”
+McCarthy, a three-star recruit from Carlsbad, Calif, started at point during Harvard’s Crimson Madness event last week for the Crimson squad, playing opposite junior Matt Fraschilla, who ran the offense for the black team. Junior Corbin Miller got some reps in Chambers’ shoes when Fraschilla went to the bench, but the Utah native is known more for his shooting than his ball handling skills.
+During the teleconference, Amaker was questioned on whether he thought there was potential for any of the current freshman to have a season like Chambers did during his rookie campaign, in which made an immediate impact when Harvard was without the services of Brandyn Curry ’14-’15 and Kyle Casey ’14-’15 during the 2012-2013 season. During that year, Chambers averaged just over 12 points in 38 minutes per game as he started all 30 contests.
+“Do we have a Siyani on the roster? No we don’t,” Amaker said. “I don’t think we have anyone that is going to have the historic year that he had as a freshman….Asking someone to do those things is probably unfair.”
+In addition to Chambers’ playing strengths, his leadership presence on and off the court will also be missed by the young group, which added six freshman to the roster this season. This adds to a team with only three seniors, one of whom—Patrick Steeves—who has yet to see a minute of action in his collegiate career.
+“We’re hopeful that [junior Zena Edosomwan and senior Evan Cummins] can lead the way for our ball club in addition to Agunwa Okolie who is a senior for us this year on the perimeter,” Amaker said. “Those three guys in particular, we are going to lean on heavily for experience…. We are as young as we’ve ever been here.”
+Amaker wasn’t the only coach to weigh in on Chambers’ absence during the teleconference. Princeton coach Mitch Henderson, whose team was picked No. 2 in the Preseason Media Poll, noted that ultimately, the best overall team will win the Ivy title, not the one with the best individual player.
+“I know injuries take a big effect on teams,” Henderson said. “I do think that the league is quite strong, and while there are certain players that are key to those teams, I do think it’s the best team that’s going to fight it out to the end.”
+The Crimson will certainly have plenty of fighting to do if it is to continue its reign as Ivy Title holders.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+News of Donald Trump, Bernie Sanders and Hillary Clinton have distracted from the announcement of a more important race. That’s right: the Undergraduate Council’s Elections are about to begin. Curious people may wonder who would possibly be interested in taking on the roles of president and vice-president, two of the most criticized and stressful positions that a person could assume. At Flyby, we have been thinking hard about which people might be considering running. Here are our predictions for potential tickets:
+
+At a time rife with conflict over final clubs, it's inevitable that a duo of undergraduates will conspire to lighten the mood on campus by entering another joke ticket into the election. Previous candidates Samuel B. Clark ’15 and Gus A. Mayopoulos ’15 saw much success, winning the candidacy in 2013. Could Harvard students “do worse” during this election cycle? But if Sietse K. Goffard ‘15 comes back into it, it might be an automatic win.
+
+Candidates can still put in their bids for candidacy until Sunday, November 1st at 11:59pm. Students should brace themselves as campaigns are officially slated to begin on Tuesday, November 10th at 12:01 AM.
+Sections
+It may only be the 29th, but it’s never to early to start celebrating Halloweekend. If you can’t think of a creative costume before tonight’s festivities, you can always stick with the classics — cat, mouse, bunny, or any other animal ears look.
+IN THE DHALL
+Lunch:
+Tuna Melt
+Spicy Tofu with Green Beans
+Dinner:
+Community Night — Ground Turkey
+Home Made Fish Cakes
+Vegan Casserole with Cashew Cream Sauce
+IN THE ATMOSPHERE
+It’s going to be rainy and windy today with thunderstorms in the morning. Gross, but at least the temperature is going to be above 70º?
+ON FLYBY
+What To Do on Campus This Halloweenproblem sets due in the next two days or are still reeling from your 10% score on the Ec1010 midterm, Halloween is coming up to help you blow off some steam. 
+IN THE NEWS
+Allston Residents Talk Flexible Funds and Task ForceMembers of the Flexible Fund Executive Committee laid the groundwork on Wednesday for how the organization would distribute a total of $5.35 million toward North Allston public realm improvements, as part of Harvard’s $43 million community benefits package.
+College Will Form Student Advisory Board to Education OfficeLooking to solicit student input in administrative decisions, College officials are in the process of forming a student advisory board to the Office of Undergraduate Education.
+BGLTQ Activist Tiq Milan Discusses Transgender ExperienceBGLTQ activist and human rights advocate Tiq Milan urged an audience to challenge the notion of masculinity and called for a greater focus on sexual identity in education at Harvard on Wednesday.
+Campaign Asks Students To Rethink Halloween CostumesOn Facebook and through posters around campus, a group of students and proctors are pushing their peers to rethink Halloween costumes this year through a campaign dubbed “A Happier Halloween.”
+EVENTS
+Carpenter Center — Lorraine O’Grady and Shahryar Nashat’s exhibits open today at the Carpenter Center.
+Objects that are not Objects — Come to Emerson 305 at 4pm to hear Graham Priest speak at the philosophy colloquium.
+Race and the Future of Asian American Politics — Janelle Wong will be speaking in Fong Auditorium at 4pm.
+Your Brain on Language — Come meet Idan Blank and discuss language and the brain. 6pm in Sever 206. *There will be pizza*
+MFA College Night — If you’re willing to make the trek out of the Harvard Bubble, the MFA is hosting College Night from 6:30 to 9:30. (free admission with HUID!)
+Sections
+It’s a bird! It’s a plane! It’s a… what exactly is that? If you've been strolling through the Square in the right place at the right time this year, you may have had this exact thought after witnessing Billy Orman ‘16 riding on what appears to be a bicycle straight out of the circus. Naturally, seeing a Harvard student elegantly cruising by on his frankenbike raises a couple questions. Don’t fear, the Flyby investigation team is on the case.
+Flyby: What was your inspiration for making this?B.O.: I can’t claim that it’s an original design, there’s actually a whole subculture of hard-core bike enthusiasts who ride these modified bicycles. This type of bicycle with the two frames on top of each other is called a tall bike. There’s this one particular biker gang based in Somerville called SCUL, which stands for Subversive Choppers Urban Legion. I had been on a few rides with them over the summer and I just fell in love with these tall bikes when I went riding with them.
+Flyby: What are rides with the bike gang like?B.O.: Basically what they do is go out on rides around Boston every Saturday night, and they ride these crazy modified bicycles with lights and speakers and ride through Boston blasting funk music.
+Flyby: Do most members buy their bikes?B.O.: No, there’s actually an interesting culture with bikers, they have kind of a DIY ethic and I kind of like that idea. I spent like $10 on this bike. It’s kind of a Frankenbike really, there are pieces from 7 or 8 bikes here. I only had to buy the brake line, everything else is scrounged.
+Flyby: Do people ever ask you any weird questions when they see you riding it?B.O.: No not really, everyone’s been super supportive. A lot of the time people will ask me if I built it, and I’ll tell them I welded it. Then they’ll be like, “You know how to weld?” And I’m just like, “Yeah dude it’s just like gluing but with metal!”
+Flyby: Do you ever worry about it getting stolen in Cambridge?B.O.: No, I honestly don’t even know why I keep a lock with me. I guess it’s just out of habit because I do actually have a normal bike that I lock up every now and then. But I think I’m safe because no one can even ride this thing.
+Flyby: Do people ask you all the time if they can try to ride it?B.O.: Yeah! I mean not all the time, most people are like, “No I’m not even going to try.” But the bold and the brave ask me to ride it– however only 3 people other than myself have been successful.
+Flyby: Do you ever get any strange comments from strangers?B.O.: You know I thought I was gonna get some heckles like, “What the hell is that thing?!” and “Hipster!” but I haven’t received any of those. Actually, just as I was riding here I came out of a record store to find a huge tour group crowded around my bike taking pictures of it and I was like, “Excuse me can I get my bike?” and they were like, “This is yours? This is incredible!” So yeah I’m really enjoying it, it’s been really well received.
+Keep on riding Billy, we can’t wait to see what your future projects have in store.

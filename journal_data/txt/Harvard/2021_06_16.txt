@@ -1,0 +1,126 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard Government and Statistics researchers found in a study published last month that a new method used by the United States Census Bureau to increase privacy could potentially bias data used for redistricting.
+The Census Bureau introduced a new Disclosure Avoidance System for the data from the 2020 Census, which uses differential privacy to increase privacy protections through the addition of “noise” to Census microdata.
+The Harvard researchers used computer simulations inputted with the proposed DAS parameters — which were released in late April — to generate numerous potential redistricting maps using available 2010 Census data. Prior to the 2020 Census, the Census Bureau swapped the data of some households with others to protect privacy.
+Government and Statistics professor Kosuke Imai, the study’s corresponding author, said the DAS uses a “very complicated post-processing method” to facilitate the use of the data for redistricting.
+“But the problem of that is that no longer the noise that’s added is symmetric, so it adds some bias, but it’s hard to know exactly how those biases are being created,” Imai said.
+Investigating the effects of DAS on redistricting and democratic elections, the study found that DAS would make it “impossible” for map drawers to create precise districts of equal populations at the block level in accordance with the One Person, One Vote principle, which ensures that every person’s vote is equally represented across districts.
+“Under the privacy protections of former censuses, block-level populations were exact — so exact meaning whatever the Census Bureau counted and figured was the most likely number is what was released,” co-author and Government Ph.D. student Christopher T. Kenny said.
+“Now, we’re under this new system, which will have different populations at the block level from what the census actually believes the total number of people in that block is,” Kenny said. “This kind of puts a new spin on 54, 55 years of Supreme Court precedent here.”
+According to the study, using the proposed DAS parameters from April, any deviations from truly equal districts will be underreported by several-fold.
+Additionally, the researchers also found that under the then-proposed DAS model, areas that are racially and/or politically heterogeneous are under-counted, leading to a potential over-estimation of the degree of racial and political segregation across the nation.
+“The DAS tends to introduce more error for minority groups than for White voters, and even more error for voters who are in a minority group for their Census block, which is more common for minority voters as well,” the study reads.
+According to the researchers, underrepresenting racially and politically heterogeneous areas would make it more challenging to identify partisan gerrymandering, properly allocate federal funds, and conduct meaningful academic research.
+The researchers showed that the DAS system also does not prevent algorithms from inferring the race of voters from names and addresses. Rather, the researchers were “able to predict the individual race of registered voters at least as accurately using the DAS-protected data as when using the original Census data.”
+“So when you start to have a system that’s sometimes doubling or halving the population of small cities and towns — all in the name of stopping people from knowing the race of a respondent— I think it’s very valid to ask, ‘Okay, is that the right cost-benefit trade off?’” said co-author and Statistics Ph.D. candidate Cory W. McCartan.
+Last Wednesday, the Census Bureau announced finalized settings that will be used for the DAS system this August to assist with redistricting based upon the 2020 Census data. In a press release, the Bureau thanked research groups for providing valuable feedback through the development of the DAS algorithm.
+“The decisions strike the best balance between the need to release detailed, usable statistics from the 2020 Census with our statutory responsibility to protect the privacy of individuals’ data,” Ron Jarmin, director of the U.S. Census Bureau, said in the press release. “They were made after many years of research and candid feedback from data users and outside experts – whom we thank for their invaluable input.”
+The press release noted that the DAS development team addressed concerns over bias toward racially or ethnically homogenous areas, and those changes were integrated into the new parameters.
+Kenny said he was disappointed the Census Bureau did not utilize the study’s recommendation to keep block populations “true to whatever their best account was.”
+“In our report, we recommend that they should — if they’re going to use the algorithm that they are currently trying to use — that they should be trying to keep block populations invariant,” Kenny said. “They will not be improving the accuracy of block populations, which to me is a very disappointing result.”
+The Census Bureau wrote in the press release that it was unable to implement all feedback on the parameters it put forward in April.
+“For example, some data users recommended nearly perfect accuracy in block-level data, which we are unable to achieve because it would undermine the ability to implement a functional disclosure avoidance system,” the Census Bureau wrote. “We are both legally and ethically bound to protect the privacy of the data provided by and on behalf of our respondents.”
+Imai commended the Census Bureau’s transparency, even though it only released data parameters late in the process.
+“I think the Census did the right thing, which is to release these demonstration datasets and ask people like us to analyze,” Imai said. “In some sense I wish they’d done that earlier — because we [were] also given only one month, so it was pretty hectic for us to put things together. At a distance from the process I think it was a good, very transparent way of making an important public policy decision.”
+–Staff writer Kate N. Guerin can be reached at kate.guerin@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Thomas P. Glynn III will retire this summer from his post as Chief Executive Officer of the Harvard Allston Land Company, concluding his three-year tenure at the University’s Allston development firm, he announced last Friday.
+The Harvard Allston Land Company was established in 2018 to oversee the development of the Enterprise Research Campus. Located in Allston, the 36-acre campus is a University project that aims to facilitate connections between Harvard affiliates and research companies, as well as house green spaces and residences.
+As CEO of HALC, Glynn oversees Harvard’s commercial development of the ERC, reporting to a board chaired by former Harvard Business School Dean Nitin Nohria. Glynn said in a 2019 interview with The Crimson that he envisions the ERC as providing Harvard affiliates with the opportunity to collaborate with “cutting edge companies” in the health and technology sectors, as well as increased employment opportunities for Allston residents.
+Nohria, who serves as the board chair of HALC, emphasized the “vital role” Glynn played in expanding Harvard’s presence in Allston in a memo sent to HALC affiliates last Wednesday.
+“Tom helped establish HALC’s vision and charter to oversee the commercial development of Harvard land in Allston to advance the university’s mission and build a vibrant neighborhood,” Nohria said.
+“From choosing outstanding architects, designing welcoming public spaces, setting the highest sustainability standards, to advancing diversity, inclusion, and belonging goals in all aspects of the project, Tom Glynn has established a foundation of excellence and equity that will serve HALC and Harvard for decades to come,” he added.
+Nohria also announced in the memo that the board will appoint an interim leader and begin a search for Glynn’s successor.
+Prior to leading HALC, Glynn served from 2012 to 2018 as the CEO of the Massachusetts Port Authority, overseeing Logan Airport, the Port of Boston, and real estate in east and south Boston. Before 2012, Glynn held positions including Chief Operating Officer at Partners HealthCare and Deputy Secretary of Labor under Bill Clinton.
+Glynn will maintain his position as an adjunct lecturer in public policy at the Kennedy School following his departure from HALC, a position he has held since 2019.
+In a statement, University President Lawrence S. Bacow commended Glynn’s leadership, and said he is grateful Glynn will remain affiliated with the University.
+“Tom Glynn leaves a remarkable legacy at Harvard. We are fortunate to have benefitted from his expertise, his insight, and his leadership during his time at the helm of the Harvard Allston Land Company,” Bacow said.
+“I am deeply grateful that he will continue to be a part of the Harvard community and wish him much happiness in his well-deserved retirement from HALC,” he added.
+—Staff writer Isabella B. Cho can be reached at isabella.cho@thecrimson.com. Follow her on Twitter @izbcho.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The Cambridge Historical Commission approved Trinity Property Management’s plan to demolish and redevelop the Garage Building in Harvard Square — a shopping mall located at 36 JFK St. that houses popular stores like Le’s, Ben & Jerry’s, and Newbury Comics — at a meeting last week.
+CHC members unanimously approved the project in principle, allowing it to continue onto the Cambridge Planning Board before returning to the CHC for further review.
+Trinity Property Management applied to the CHC last month for a Certificate of Appropriateness. The proposed project would involve the “demolition of the existing structure of The Garage Building,” except for parts of the two-story facades of the 1860s building, according to the application and attached plans.
+The application states that the firm plans to construct a six-story building that “blends the existing brick masonry facade of the 1860s horse stable” into the new design. Construction is expected to take 18 to 24 months, according to Trinity Property Management and Harvard Square Business Association president John P. DiGiovanni, whose family has owned and managed The Garage since the 1970s.
+DiGiovanni said the building — which originally served as a horse stable and later as a parking garage from 1924 to 1972 — has contributed to the “authenticity of Harvard Square’s urban experience” at the meeting.
+However, according to DiGiovanni, technology has “irreversibly” altered the retail landscape.
+“The Garage began a slow but steady disengagement from the life and urban experience of Harvard Square [in the 2010s],” he said.
+Architect Jason J. Jewhurst, who works at the firm behind the proposed design, said the project “recognizes the importance” of the building’s location in Harvard Square.
+“The proposed building will highlight both the history of its site and also reimagine [its] future as a memorable and active contributor, once again, for the Harvard Square district,” he said.
+Many Cambridge residents spoke in support of the proposal at the meeting.
+Suzanne P. Blier — president of the Harvard Square Neighborhood Association and a professor of fine arts and of African and African American Studies at Harvard – said she admired the thought behind the proposed project.
+“This can be tweaked a bit, but I love the potential for Harvard Square,” she said.
+Marilee B. Meyer, an architectural historian and Harvard Square Neighborhood Association board member, agreed that the project needed some “tweaking,” but said it was “off to a great start.”
+Some Cambridge residents, however, questioned the need for the Garage to undergo such a remake.
+James Williamson said the project was “way too much” for the location.
+“I would question the purported rationale of Harvard Square needing more density. I think that’s just ludicrous,” he said.
+“The most successful enterprise in Harvard Square is Felipe’s. Felipe’s used to be in this building,” he added. “How come the most successful business in Harvard Square used to be in this building but is no longer?”
+Mark S. Hruby ’78, the steward of the Signet Society, which is located near the Garage, expressed concerns about the proximity of the proposed construction site to Harvard undergraduate housing.
+“I’m concerned about the 1,600 students from four different Harvard Houses that travel up and down [Dunster] Street four times a day — that’s 6,400 trips — and they’re going to be subjected to a very difficult construction process,” he said.
+“I’m hoping that you’re really thinking about the mitigation efforts here because this is a really tough location,” he added.
+Nevertheless, Historical Commission executive director Charles M. “Charlie” Sullivan said the proposed project checks “many of the boxes represented by Harvard Square guidelines.”
+“It is a unique situation to put a contemporary building into an old shell, but this is a situation that deserves a unique solution,” he said.
+“I strongly recommend the Commission approve [this project] in principle or give it a signal that it’s proceeding in an appropriate direction,” Sullivan added.
+—Staff writer Davin W. Shi can be reached at davin.shi@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: June 16, 2021 at 11:07 a.m.
+BOSTON — With the Massachusetts State House behind her, Harvard Government professor Danielle S. Allen officially launched her 2022 campaign for Massachusetts governor as a Democratic candidate at an event on Boston Common Tuesday morning.
+Allen’s foray into the gubernatorial race follows her December announcement that she was exploring a candidacy and a monthslong “listening tour,” during which she spoke with constituents across the state. Though she has not held elected office before, Allen previously told The Crimson she would apply her academic experience to her political debut.
+Allen is the second Democratic candidate to announce a bid for governor, after former Massachusetts State Sen. Ben B. Downing. Incumbent Republican Governor Charlie D. Baker ’79, who enjoys strong approval ratings among Democrats, has yet to announce whether he will seek a third term.
+At a podium on Boston Common Tuesday morning, flanked by supporters in purple campaign shirts, Allen said the state government’s inadequate response to Covid-19 last year exacerbated long-standing inequities for Massachusetts citizens and spurred her decision to run for office.
+“The powerful plainly abandoned the powerless, and the pain is still visceral, raw, and deep. But the truth is, this abandonment has been building for a long time. I felt it myself,” Allen said at the event, noting her own cousins’ struggles with addiction, homelessness, and incarceration.
+“We have to raise our expectations both of our institutions and of one another. The people have to claim their power,” she added.
+Allen said she is competing for governor to “reimagine this commonwealth” — a reference to her campaign slogan, “Reimagine” — and called for greater state investment in housing, transportation, education, jobs, justice, and efforts to combat climate change.
+“It’s the responsibility of our state government, above all, to secure this infrastructure for us as the foundation for our flourishing,” she said.
+Cambridge Mayor Sumbul Siddiqui opened Tuesday’s event by speaking about her first meeting with Allen in early 2020 regarding pandemic-response policy recommendations from Harvard’s Edmond J. Safra Center for Ethics, which Allen directs.
+“I relied heavily on the thought leadership Danielle provided. In fact, I remember before one of our major votes around a reopening plan, one of the first calls I made was to Danielle,” Siddiqui said. “I was able to trust her immediately.”
+Allen — whose academic work has largely focused on political theory — cited her family as the source of her “original love of democracy.”
+“My great-grandmother was president of the League of Women Voters in Michigan in the ’30s. My grandfather helped found one of the first NAACP chapters in his northern Florida community,” she said. “My dad in 1992 ran for Senate in California — yes, as a Reagan conservative — and in the same year, my aunt was on the ballot for Congress with a Peace and Freedom Party in the Bay Area.”
+After joining Harvard’s faculty in 2015, Allen quickly rose through its ranks. Just a year and a half later, she was named a University Professor — the highest honor available to faculty.
+She will officially take leave from Harvard starting July 1 to campaign full-time.
+Allen is the first Black woman to run for Massachusetts governor as part of a major party. If elected, she would be the first Black woman governor in the United States.
+In acknowledgment of her candidacy’s historic nature, Allen chose to launch her campaign beside the Memorial to Robert Gould Shaw and the Massachusetts 54th Regiment — one of the first African American regiments during the Civil War.
+“This was the first state to abolish enslavement, yet it has taken us this long to get to this day. It’s time to accelerate the pace of change,” Allen said. “It’s time for Massachusetts to be that beacon again.”
+CORRECTION: June 16, 2021
+A previous version of this article misstated the date of Danielle Allen's arrival at Harvard. She arrived in 2015. 
+—Staff writer Alex Koller can be reached at alex.koller@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.

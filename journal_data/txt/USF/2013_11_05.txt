@@ -1,0 +1,155 @@
+Students who drive up and down parking garages competing for that one empty spot may soon see some relief from a task that wastes both time and money.
+
+
+
+Professors, administrators and researchers across campus are partnering to reduce the amount of effort that goes in to finding available parking.
+
+
+
+At last week’s Student Government (
+SG
+) Senate meeting,
+Kalanithy
+
+Vairavamoorthy
+, dean for the College of Sustainability, and visiting assistant professor
+Kebreab
+
+Ghebremichael
+announced new parking and bike sharing programs which may launch as early as February.
+
+
+
+Students and researchers are working with third party developers to create an overarching transportation mobile application that would encompass two new transportation programs as well as real-time Bull Runner shuttle tracking, Sean
+Barbeau
+, a research associate at the Center for Urban Transportation Research (
+CUTR
+), said.
+
+
+
+“We are attempting to answer the question of how students can get from Point A to Point B the fastest and most efficiently,” he said.
+
+
+
+One part of the application, which will be available to students using an iPhone platform, is a real-time indicator of parking garage and lot information.
+
+
+
+Electronic signage will also be posted at the entrance of major parking garages and student lots across campus.
+
+
+
+While the program is still in the research stages, Barbeau said the team of students and researchers at CUTR are working with Parking and Transportation Services to look at a few different options for the program, including the creation of a sensor system that will be able to detect entrances and exits based on types of permits entering and leaving the lots and garages.
+
+
+
+“That would let us know how many types of cars are in the garages versus how many spots are in there,” Barbeau said.
+
+
+
+Sara Hendricks, a senior research associate at CUTR, said the launch of the pilot program is dependent upon price estimates from third-party vendors who will install the sensor systems and help develop the application.
+
+
+
+“We are at the point presently where the student researchers are gathering information on the different smart parking technologies that may be feasible on campus and getting the ball park estimates on those technologies,” she said.
+
+
+
+The idea for the project, Hendricks said, came about because so many students were complaining about how much time and gas they waste driving around from lot to lot and up and down full parking garages.
+
+
+
+“We have a problem with parking on campus,” SG Senate President Shyam Patel said at last week’s Senate meeting. “There’s garages in the most random places, and there’s also very limited parking when you need to go to class. The first week of school is almost like a death race. This might be one of the best ways to address it, honestly. You can figure out where you want to park ahead of time. You’ll save time.”
+
+
+
+Soon researchers will get a baseline measurement of how much time and gas is wasted looking for parking and will then compare that data with a similar measurement after the application is launched.
+
+
+
+Later in the spring semester, CUTR hopes to launch a demo program in the Leroy Collins parking garage and some of the student lots behind the Library.
+
+
+
+The “smart parking project” has received $250,000 so far from the Student Green Energy Fund.
+
+
+
+“We will have to make a decision on whether we want to pursue an ‘off-the-shelves’ technology that would be quicker to install or a technology specifically designed for the campus which would obviously be more costly,” Hendricks said. “We are balancing an option that may be the quickest and an option that may be the best.”
+
+
+
+Another new development that’s being funded by the Student Green Energy Fund is a bike-sharing program, set to launch as early as mid spring.
+
+
+
+The bike-sharing program has received $320,620 from the fund for initial start-up costs and the first year of operations.
+
+
+
+The program will allow students access to approximately 100 GPS-enabled bicycles at several new bike banks around campus.
+
+
+
+Yu Zhang, an assistant professor at the College of Engineering, said the new bike-sharing program will augment the existing Borrow Our Bikes program administered by USF Campus Recreation.
+
+
+
+“We’ve seen many inter-campus auto trips by students who want to get from a building on one side of campus to a building on the other,” Zhang said. “The emissions from short distance auto trips can cause some environmental issues that we are hoping to get rid of.”
+
+
+
+With the growing popularity of bicycles on campus, Zhang said researchers are hoping to capitalize on the trend in a way that will improve the overall environmental impact of the university.
+
+
+
+Unlike the Borrow Our Bikes program, which only offers students in-person checkouts and limited borrowing times, the new program will allow students to check out bikes through an online system or through the transportation app once it’s developed.
+
+
+
+The new program, Zhang said, will allow for a 24-hour checkout system and expand bike returns to one of the many designated bike racks on campus. The bikes will not be able to be used off campus.
+
+
+
+“The Borrow Our Bikes program will still exist for students who need a bike to travel off campus,” Zhang said. “We also have plans to expand the checkout times for the Borrow Our Bike program from one day to two day or possibly one week checkouts.”
+
+
+
+However, the new bike program is not without its drawbacks, Zhang said. The program may need to hire someone to bring the bikes back to key pick-up points if students don’t return the bikes to the designated racks, he said.
+
+
+
+The project also doesn’t have a source of funding for recurring operation at this moment.
+
+
+
+“There are going to be hot spots where people want to check out bikes the most and we are going to encourage students to return the bikes to those spots,” she said. “But if that doesn’t happen, then we will probably need someone to rebalance the system of supply and demand.”
+
+
+
+In their speech to SG senators, Vairavamoorthy and Ghebremichael also mentioned they were in the process of creating a campus-wide energy monitoring system called “Lucid @ USF Building Dashboard.”
+
+
+
+The program, implemented in classrooms and residence halls, would allow the university to monitor energy consumption in specific buildings and react to reduce those levels.
+
+
+
+They said the benefits of this program could be anything from better classroom utilization to competition between residence halls to lower energy usage.
+
+
+
+“We really want student input on all of our projects,” Vairavamoorthy said. “There will be a student video available in early January to show the progress of the projects and the level of student involvement.”
+
+
+
+In the long run, the college also hopes to partner with USF Dining to maximize the use of biodiesel fuel across campus.
+
+
+
+“We want to make USF the nation’s greenest, smartest campus,” Ghebremichael said.
+
+
+
+– Additional reporting by Quincy Walters

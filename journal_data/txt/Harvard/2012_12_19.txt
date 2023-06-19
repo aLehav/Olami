@@ -1,0 +1,210 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A couple of weeks ago, I ran across an article in the Crimson from 1953 entitled “The 'Cliffe Girl: An Instructor's View.” The article quotes a number of Harvard professors and graduate students speaking about their thoughts on women in their classrooms, 10 years after joint instruction required Harvard professors to teach men and women at the same time. For example, the article notes, “Most of the instructors noted that the women are good, solid, conscientious, and rarely brilliant; they strike a steady mean, while the men tend more to extremes.” The instructors also suggest that Radcliffe women can be a “source of embarrassment” in the classroom, and one told the Crimson, “they read too much, remember too much, and don't chow it over,” in comparison with men.
+This story is fascinating because it is both unfamiliar and very familiar. Students at Harvard today read about outmoded concepts of gender from sixty years ago and laugh—isn’t it silly that professors thought women “rarely brilliant,” or that Harvard was so concerned about teaching fellows marrying their students that it would not let unmarried men teach sections of women? Yet 1953 was not all that long ago, and I think it’s important that we not brush aside the lessons of history.
+The Harvard of the 1950s looked rather different than the Harvard of today. For one, the only women at Harvard were workers, secretaries of professors, and maids in the Houses. Female students were enrolled in Radcliffe College and lived in dormitories in the Radcliffe Quad. Each year, each Radcliffe student received a copy of the Radcliffe Red Book, which detailed not only administrative structure and rules for fire drills, but also sexual mores: women were not to smoke on the street, they shouldn’t wear blue jeans in public, and they could only have Harvard men in their dormitories during certain set “parietal” hours each day.
+Unlike other women’s colleges, Radcliffe never had its own professors—it was originally founded so that women could get access to Harvard faculty members.  Due to financial constraints during the Second World War, Radcliffe students started attending the same lectures as Harvard students in 1943. Men and women began living in the same buildings in 1970, and female students were officially enrolled in Harvard College starting in 1977. By 1999, Radcliffe College had been entirely consumed by Harvard.
+Today, a Harvard before joint instruction and coeducation seems unfathomable. Yet 60 years is not such a long time. The year the article about “The ’Cliffe Girl” was published was also the year that Harvey C. Mansfield ’53 graduated from Harvard College. Although he is now a well-respected professor of government, Mansfield has consistently been the University’s most vocal opponent of feminist thought, decrying women’s studies and the Committee on Degrees in Studies of Women, Gender, and Sexuality for not including antifeminist thought in its teaching. Mansfield told the Crimson in 1996 that “women's studies is a disgrace to Harvard... It's characterized by shoddy scholarship, crackpot theories and tendentious, politicized classrooms." Although his views on gender seem frighteningly anachronistic today, for someone who went to school in a time when it was feared that women in classrooms would distract and marry their instructors, perhaps it’s not surprising that Mansfield retains outmoded conceptions of gender.
+There is something very important that is lost when Radcliffe history is told as a long march towards greater equality. For one, as Professor Laurel Thatcher Ulrich pointed out in her article “Harvard’s Womanless History,” “Harvard” history all too easily erases the century of Radcliffe history and the important achievements made by women before the Harvard-Radcliffe merger. Of course, the merger gave Radcliffe students access to many opportunities formerly only open to men, like the advising system in the Houses and the financial stability of Harvard funding. Yet it also took away Radcliffe College’s autonomy, resulting in the loss of some resources designated and maintained by and for women.
+Indeed, women have continued to be a bit of an afterthought at this institution, even after joint instruction and coeducation. Harvard’s professors of today learned in the classrooms of the 1950s: Some of the instructors quoted in “The ‘Cliffe Girl” article continued on as venerated faculty at this university and others until the 1990s. And the lack of credibility given to women in the classroom in the 20th century has played out in continued gender disparities among Harvard faculty today. Centuries of structural inequality and sexism cannot be erased in a generation. The continued existence of all-male final clubs and the need for a campaign to end rape culture on campus suggests that today’s Harvard women are not quite as liberated as we might like.
+It’s wonderful that today’s female Harvard students can look back at the restrictive regulations of the Radcliffe Red Book and chuckle. But let’s not rest too comfortably on the current status of women at Harvard. After all, the Harvard of today is built on centuries of oppression of women and gender inequality, reminding us that history can teach us important lessons about where we are today.
+Sandra Y. L. Korn ’14, a Crimson editorial executive, is a joint history of science and studies of women, gender, and sexuality concentrator in Eliot House. Her column normally appears on alternate Thursdays.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+As 2012 draws to a close, it’s been an incredible year in the world of science.  In this column, we’ve discussed the Curiosity mission, how life can evolve from chemical processes, new statistical methods being used in both baseball and politics, new methods to generate energy from microbes, and Native American contributions to science and education.  This makes a small dent in the vast surface of science and engineering discoveries made this year.  In total this year, more than 800,000 science and engineering journal articles are projected to be published, and patent applications are projected to surpass 2.5 million (both the publishing and the patent systems are fraught with problems, but they are a decent metric for total innovation).  While the Curiosity mission and the progress towards discovering the Higgs Boson have received the most publicity of any scientific missions this year, I’d like to give a brief recap of a few less public but incredibly significant contributions to the scientific community.
+In early January, IBM achieved an incredible advancement in information storage by reliably storing a single bit in only twelve iron atoms.  For reference, portable terabyte hard drives weigh around .25 kg.  In the same mass, you could fit about two trillion trillion dozen iron atoms, or approximately two trillion times the storage capacity.  They were able to achieve this efficiency by aligning neighboring atoms with opposite magnetic fields, allowing them to be controlled precisely and packed in tightly. Presently this technology requires a scanning tunneling microscope to encode and read data and a temperature near to absolute zero, but it shows promise for future research.  In a completely different area of information storage, Harvard Medical School Professor George M. Church was able to encode an entire book by arranging DNA nucleotides and can now claim to be the author with the most copies (albeit microscopic and self-replicating) of his works in history.
+In April, just a few months before the widely-publicized discovery of the Higgs Boson, scientists made another major particle physics discovery by finding a Majorana fermion.  As a vast oversimplification, bosons carry force. The most notable bosons are photons, which carry electromagnetic force, and gluons, which hold nuclei together.  Fermions, on the other hand, include quarks, leptons, and their combinations, notably protons, neutrons, and electrons.  Most bosons and fermions have antiparticles (which make antimatter) that have identical mass but opposite charge to the particle in question.  A Majorana fermion is a special fermion that is an antiparticle to itself, which had been predicted theoretically, but never found experimentally.  A team at Delft University was able to generate a pair of Majorana fermions using a composite structure of indium antimonide, gold, and niobium titanium nitride.  This discovery is significant because Majorana fermions have been predicted to play a role in dark matter, which makes up 84 percent of the universe but is still largely uncharacterized, and could also lead to significant contributions to quantum computing.  While we may never find Ettore Majorana, an Italian Jew who tragically went missing in 1938, the experimental verification of the particle he predicted  may significantly impact the world of physics for years to come.
+In August, doctors announced the success of a groundbreaking medical treatment involving two of the most pernicious diseases in modern America, HIV and cancer.  By leveraging the ability of HIV to target T cells, one of the major types of immune cells, the researchers were able to use genes from an attenuated version of HIV cells to reprogram T cells to specifically fight off leukemia.  Since then, more stories of the success of the treatment have come out, and it appears that the treatment is both incredibly effective and has few side effects. I hope to see HIV eradicated within the next decade or two, and it would be a poignant epilogue that what was once a great medical tragedy is now a useful tool to aid us in the fight against other diseases.
+Finally, just this Monday, another successful NASA mission reached its conclusion as two satellites, Ebb and Flow, crashed into the moon with a bang. Two years after NASA Ames conclusively demonstrated the existence of water on the moon with another lunar impactor, the team from NASA’s Jet Propulsion Laboratory and MIT launched this mission, called Gravity Recovery and Interior Laboratory, or GRAIL. It has already achieved its mission to completely survey the moon to determine composition, geological evolution, and its gravitational field. The impact was designed as a final experiment to aid in future predictions of fuel requirements and to allow the Lunar Reconnaissance Orbiter to get a better understanding of what lies beneath the lunar surface. The impact craters were dedicated to the late Sally Ride, America’s first woman in space, who also led a portion of the mission.
+There are many other groundbreaking discoveries each day in the world of science, and the number will continue to rise as more and more of the world gains access to science and technology education. From the tiniest boson to the far reaches of space, our understanding of the universe has made tremendous progress this year, and I can’t wait to see what 2013 has in store for us.
+Jack M. Cackler is a Ph.D. candidate in biostatistics.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Adam Lanza forced his way into a Connecticut elementary school Friday and opened fire, killing 20 young children and six other adults before taking his own life. But we all know that. Just like we know that another shooter murdered three in a shopping mall in Oregon days before, that this July a young man clad in riot gear and wielding an assault rifle burst into a premiere screening of The Dark Knight Rises and took out 12 theatergoers, that the previous year an unhinged ex-doctoral student gunned down Congresswoman Gabby D. Giffords and 17 of her aides and constituents outside a Safeway, and on and on and on. Friday’s tragedy and the countless other tragedies preceding it scream for tougher gun control laws in the United States. Oh, sorry, am I politicizing this?
+Well, yes. And I’m not so sure there is anything wrong with that.
+It is impossible to articulate the horror of what happened in Newtown. Any mass shooting rightfully rocks our nation, and one in which the victims epitomize innocence hits us even harder. As President Obama said when he addressed the nation on Friday, “[The children] had their entire lives ahead of them: birthdays, graduations, weddings, kids of their own.” We should recognize the enormity of the event, we should grieve for the fallen, and we should express our outrage. But we should also channel our grief and outrage into effecting change that will bring down the body count in the future.
+In the 2008 decision District of Columbia v. Heller, the Supreme Court ruled that the Second Amendment to the United States Constitution gives individuals the right to carry firearms for lawful purposes such as self-defense in the home. But assault rifles like the AR-15 that Lanza used in Newtown are hardly necessary for keeping the family silver safe from intruders. In fact, semiautomatic weapons with the capacity to mow down two first grade classes in a matter of minutes have no place in our marketplace. We need to talk about keeping them out through stricter gun regulation, and we need to talk about it right now.
+When, in response to a mass shooting, we call on the president and Congress to step up and take a harsher stance on guns, we do not exploit victims’ deaths just to further a political agenda. Rather, we push for policy changes that address the causes of the tragedy. If we succeed, we may forestall future disasters. This does not trivialize loss of life but instead makes it meaningful.
+The feelings engendered by the Newtown shooting evoke memories of the 1999 Columbine massacre, in which two high school seniors brutally took 13 innocent lives. The scale of that tragedy was enabled by police codes that prevented officers from entering Columbine High School until a SWAT team had assembled. During the 45 minutes while the police waited, the shooters killed 10 of their 13 total victims. Police across the country responded to this fatal flaw in their procedures by developing “active-shooter” training that requires first responders to take down the gunman immediately upon their arrival on the scene. The tragedy in Columbine inspired not only immense sorrow but also tangible reform that police say has saved numerous lives over the past decade. The tragedy in Newtown offers a similar opportunity for positive change.
+If we are ever to convince the government to pass laws restricting the purchase of deadly weapons, we should move now, in the wake of a calamity that has put the issue on the country’s radar. After all, a recent poll shows a sudden 7 percent increase in support for gun control after the Sandy Hook shooting. It would be irresponsible of us to cite overwhelming sadness as an excuse for refusing to have the difficult but undeniably necessary national conversation about guns. If we stall, the moment for action will pass. And then, before we know it, our smartphone screens will again light up with New York Times news alerts informing us that history has repeated itself.
+So let’s go ahead and politicize. Let’s politicize until there is nothing left to politicize, until our efforts have culminated in the passage of laws that prevent unspeakable things like the senseless slaughter of children from occurring in the first place.
+Molly L. Roberts ’16, a Crimson editorial writer, lives in Holworthy Hall.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+When we think of the digitization of 21st-century library material, something that happened 500 years ago rarely comes to mind. But consider this: In 1535, French monarch Francis I took the unusual step of approving a ban on the printing of any books in his realm. He did so in a moment of extreme paranoia that swept much of Europe in response to the rise of Martin Luther. Fortunately, this decidedly un-free edict did not last long, and so early modern Europe’s flourishing publishing industry returned to printing in France, while Lutherism continued to make strong headway everywhere.
+The analogy is far from a perfect one, but Protestant-frightened France does offer compelling example of the futility of attempting to censor the dissemination of new ideas through technology. Today, the new idea—or, to put it better, an old idea that finally stands a good chance of succeeding—is mass accessibility to learning and reading. The vehicle driving us to success is online digitization, while fruitless opposition sits in the form of well intentioned but outdated federal copyright laws.
+Earlier this month, it became apparent that the Digital Public Library of America, based at Harvard’s Berkman Center for Internet and Society and founded primarily by Harvard University librarian Robert C. Darnton ’60, has encountered not insignificant trouble with existing copyright laws in its effort to launch the world’s most comprehensive database of free, high-quality online material. In particular, the DPLA seems likely to become embroiled in protracted legal discussions over issues of fair use and the proposal for a “moving wall” of copyright with regard to digitization. The problem of sorting out our messy copyright situation in the digital age is best left to lawyers and experts in the field. Copyright holders are right to assert their rights and to fight to ensure that a future exists in which they will still be compensated and future originators of content will remain incentivized to put the effort into producing much-needed work.
+That said, the DPLA hardly threatens to exploit current copyright holders and law. Its founders have repeatedly expressed the view that their organization’s values are aligned with those of authors and publishing houses. Instead, Darnton and the organization he helped spearhead seem to have recognized that the flow of information is headed increasingly online. Books appear and are consumed increasingly in digital form, and a plethora of opportunities still exist for the private sector to take advantage of this shift. And while material may be headed inexorably online, no cogent argument stands to presume that free access will remain a given.
+The DPLA, however, states as its mission to prioritize the accessibility of books and education for their own sakes, an aim entirely consistent with the goals of physical libraries. This is profoundly in the interest of the global public good. When the trend toward the digitization of written content appears inevitable, a project that ultimately seeks to benefit both the avid consumer and the producer deserves to succeed.
+Federal copyright law exists for a purpose and must be defended to ensure that authors and artists are rewarded for their achievement and stay committed to their contributions. But in order for copyright regulation to survive in a rapidly changing landscape in which it appears in grave danger of becoming irrelevant, it must adapt. Adapt, and reward those that seek to be fair to creators and prioritize accessible learning.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In a move that upset some Cantabrigians and drew praise from others, the Cambridge City Council tapped Deputy City Manager Richard C. Rossi to replace longtime City Manager Robert W. Healy.
+In their Dec. 3 meeting, the Council voted eight to one to appoint Rossi—who has served as deputy city manager since 1981—as city manager for a three-year contract. His term will begin after Healy retires on June 30.
+In March, when the Council renewed Healy’s contract, councillors said that the goal of that 15-month extension was to allow time for the selection and preparation of a new manager.
+In October, the Council decided to hire an outside firm to conduct that search process. At that time, they said the process would include articulating a vision of the future of the city, emphasizing that community input would play a significant role in the decision.
+Councillor David P. Maher, the chair of the government operations committee, said in October that while he thought it was likely that the Council would decide to appoint an interim manager, he hoped that they would have a better sense of what they were looking for in November. But earlier this month, they decided to appoint Rossi as manager rather than hiring an interim.
+The one councillor in dissention, Craig A. Kelley, said that while Rossi’s new contract is for only three years, he foresees Rossi will end up holding the position for longer. “Certainly I have no expectations that this is a three-year term,” he said.
+Kelley said that while he thinks Rossi capable of being a good city manager, he objects to the process by which the decision was made.
+“I thought we had promised the people of Cambridge we would have a seriously deliberative process,” he said. “Had we gone through the process, maybe the person at the end of the day is Mr. Rossi and maybe not.”
+Ken Carson, formerly an active member of the Cambridge Civic Association, echoed Kelley’s concerns, saying that his opinion of the decision depends on the Council’s expectation for the length of Rossi’s tenure.
+“I can live with it if it’s a three-year contract with no expectation of renewal because they will take the three years to perhaps evaluate the job description and then do a full search,” he said. “On the other hand, if this is a hire with the expectation that he will serve for 10, 12, 15 years, then I’m not wild about not having a full search.”
+Councillors who voted in favor of the measure cited Rossi’s dedication and job performance as reasons for his appointment.
+“He is wildly respected within the community. He has a great reputation as somebody who gets things done,” said Councillor Leland Cheung. “I think he cares deeply about the community and its long-term future.”
+Cheung, who graduated in June from the Harvard Kennedy School, also explained that one of the Council’s goals in the selection process was to find a manager to lead the city through the entirety of the planning for the 2014 fiscal year, a process that begins in December.
+“We were very fortunate to have someone like him who we can look to in the short term to serve as a city manager,” Cheung said.
+Cheung also said that without the time pressure of needing to find a new manager before Healy’s contract expires, the Council will be able to focus its efforts on determining the city’s priorities for the future.
+“We want to have a...process that engages residents and community members in thinking about the long-term direction of the city and the skill sets that will be necessary to help get us there. We want to complete that work prior to initiating the full search for a city manager because we think it will inform that search in a productive way,” Cheung said.
+Kelley, who for months has been critical of the speed with which the Council has worked on replacing Healy, said that he thought the Council did not put enough thought and effort into making the decision.
+“I think it reflects poorly on the Council that we couldn’t really talk about who to hire in any detail,” he said. “We just kind of opted out of the tough decision-making.”
+—Staff writer Maya S. Jonas-Silver can be reached at mayajonas-silver@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A plan to relocate several University facilities on Harvard’s property in north Allston came under fire Tuesday evening at a meeting of the Harvard-Allston Task Force. Task Force members said that the changes would diminish the scenery, vitality, and safety of the residential area surrounding 28 Travis Street.
+“There must be some consideration about the wants and needs of the community,” said Ray V. Mellone, Task Force chair and Allston resident, who said he thought that the process was “broken.”
+“So far, this flies in the face of anything that looks cooperative,” he said.
+For two hours, residents took issue with the plan, which came in the form of an amendment to the University’s Institutional Master Plan submitted in October.
+If approved, the amendment, which Harvard submitted to the Boston Redevelopment Authority on Friday, will bring the University one step closer to starting its 28 Travis Street project and Bright Hockey Center renovation.
+The University, according to the amendment document, needs to move facilities currently located at 219 Western Avenue to 28 Travis Street in order to move forward with another Allston project, the residential and retail complex proposed for Barry’s Corner. The facilities which would be moved include mail services, the University IT Department, a Harvard police training site, lanscape services, and storage space.
+Members of the Task Force criticized Harvard for a proposal they said would be detrimental to the community, citing the sounds and traffic created by trucks backing into loading docks among other concerns. Residents also said that the University was trying to move forward without sufficient community input.
+Task Force member and Allston resident Bruce E. Houghton said that Harvard seemed to be using Allston as a place to keep its less dynamic properties.
+“Here we are being presented with a vibrant neighborhood,” Houghton said with a note of sarcasm in his voice. “A vehicle maintenance area? ... That’s just scandalous.”
+Allston community members also took issue with the way the University has carried out development in general. Several residents criticized Harvard’s attempt to use at-risk permits, which allow renovation to go forward without occupancy permits. If a property with an at-risk permit did not eventually receive occupancy approval, it could be used for its original intent—the risk that the permits’ name suggests.
+Task Force member and Allston resident Brent C. Whelan ’73 said that once renovations began, it was unlikely they would be reversed, regardless of the type of permit that the University had received.
+“Letting it go without approval is a slap in the face to this community,” Whelan said. “You’ve raised the level of chutzpah a notch or two with this at-risk permit.”
+Gerald Autler, a BRA senior project manager, said that Harvard’s plans need to be vetted further. “There’s a lot of decisions that haven’t been made,” he said.
+Harvard’s Associate Vice President for Public Affairs and Communications Kevin Casey said that Harvard has listened to the community’s concerns in several public meetings. He added that renovations to buildings with at-risk permits would be useful even if they did not receive occupancy certification and were deemed unfit for their originally intended use.
+Concluding the meeting, and a year of others like it, Casey said that the meetings had been productive as Harvard revises plans for its long-stalled projects, halted in 2009 due to financial constraints. “I do feel...we’ve made a tremendous amount of progress together.”
+The next meeting of the Task Force is tentatively scheduled for Jan. 23.
+—Staff writer Samuel Y. Weinstock can be reached at sweinstock@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+EdX, the virtual learning initiative launched by Harvard and MIT last May, announced Wednesday that it will offer courses in the humanities and social sciences for the first time this coming spring.
+The rapidly growing online educational venture released its Spring 2013 course schedule, which will feature six new courses. These include three from HarvardX, Harvard’s subset of the edX platform: “Justice,” taught by government professor Michael J. Sandel; “The Ancient Greek Hero” with Greek literature professor Gregory Nagy; and “Human Health and Global Environmental Change” from Harvard's Center for Health and the Global Environment and Harvard Medical School professor Aaron Bernstein.
+"I'm delighted to have my Justice course on edX, where students everywhere will be able to engage in a global dialogue about the big moral and civic questions of our time," Sandel said in a press release.
+“Copyright,” an experimental course to be taught by Harvard Law School professor William W. Fisher, III, will test the effectiveness of integrating teaching materials and technologies on the edX website. The course will look into extant copyright law and the debates surrounding its reform.
+These courses from HarvardX will be joined by two courses in statistics, quantum mechanics, and computation from the University of California, Berkeley, and an MITx course entitled “The Challenges of Global Poverty.”
+In addition, edX will continue to provide some of the courses offered during the platforms inaugural fall semester, including “Introduction to Computer Science and Programming,” “Introduction to Solid State Chemistry,” “Introduction to Artificial Intelligence,” “Software as a Service I,” “Software as a Service II,” and “Foundations of Computer Graphics.”
+Registration for edX’s spring offerings opened online on Wednesday.
+“EdX is both revolutionizing and democratizing education,” said edX President Anant Agarwal in the press release. “In just eight months we’ve attracted more than half a million unique users from around the world to our learning portal. Now, with these spring courses we are entering a new era—and are poised to touch millions of lives with the best courses from the best faculty at the best institutions in the world.”
+—Staff writer Amna H. Hashmi can be reached at amnahashmi@college.harvard.edu.
+—Check theCrimson.com for updates.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+After four years as Pforzheimer House Masters, Nicholas A. Christakis and Erika L. Christakis ’86 will leave Harvard this summer to take on new positions at Yale.
+In an email to the Pforzheimer community on Wednesday announcing their departure, the Christakises expressed mixed feelings about their “very difficult” decision to resign from their post as House Masters, which they assumed in 2009.
+“It was hard to envision leaving this place,” they wrote.
+Nicholas, currently a sociology professor at Harvard Medical School and in the Faculty of Arts and Sciences, said he will “build an exciting new program at the intersection of the social and natural sciences” at Yale, his alma mater. Erika, who does not teach at Harvard, will become a lecturer at Yale’s Child Study Center.
+Many Pfoho residents and House staff said they were surprised by their House Masters’ announcement.
+“I’m really upset,” said Matthew S. Chuchul ’13, an outgoing Pfoho House Committee chair. “They are fantastic, very supportive, very available.”
+Kathleen Walsh, who has been a Pfoho dining hall employee for more than 25 years, observed that Pfoho residents were “already very sad.”
+“That’s a family. You don’t often see families [as House Masters],” Walsh said of the Christakises, whose three children have lived in the House with them. “I hate to see them go.”
+Though Pfoho resident dean Lisa Boes said that Yale offers “a great professional opportunity” for the Christakises, she expressed regret about their departure.
+“They have really given their heart and soul to the House,” she said.
+Christine L. Shrock ’13 put it another way. “They really shape the House spirit and culture. They’re a defining presence at Pfoho,” she said. “We’re proud to have them as House Masters.”
+Earlier this month, the Christakises published an op-ed in Time criticizing the College administration’s response to flyers with inflammatory language distributed on campus. In their article, they critiqued administrators for prioritizing issues of free speech over “more pressing problems for our students, such as the sexist and dangerous behaviors that still go unchecked behind closed doors” in student social spaces.
+Though the Christakises did not provide a timetable for when their successors would be appointed in their email, they voiced confidence that Pfoho would not be disrupted by their departure.
+“There’s a well-established process for house master selection for which student participation is essential, and we will do all we can to make the transition as smooth as possible,” they wrote.
+—Staff writer Laya Anasu can be reached at layaanasu@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+As a judge heard arguments for the first time relating to B. Denise Cosby’s wrongful death lawsuit against Harvard for the 2009 murder of her son in Kirkland House, lawyers for Harvard said that the University cannot be held responsible for the drug deal gone wrong, and the suit should be dismissed.
+ 
+Harvard’s attorneys maintained that the University had no duty to protect 21-year-old Justin D. C. D. Cosby, who came to the Harvard dormitory for what he believed was a marijuana deal. Instead, he was held at gunpoint by three men demanding that he hand over the drugs. When he refused, one of the men shot him.
+ 
+In oral argument in Middlesex Superior Court on Wednesday, Harvard’s lead attorney Martin F. Murphy stressed the point that has been the University’s main contention since the suit was filed in May. “Particularly [when] the plaintiff himself has come onto the property in order to engage in dangerous activities,” Murphy argued, “the law makes it clear that [Harvard] doesn’t have that duty of safety to [Cosby].”
+ 
+Neither side has contested that Cosby came to Harvard that day to sell drugs. But Denise Cosby’s lawyers argued Wednesday, as they have since May, that the dangerous situation developed only because of Harvard’s lax enforcement of its own regulations. One of the three men involved in the hold-up, Jabrai Jordan Copney, had been living for months with his girlfriend, Harvard senior Brittany J. Smith, in her Lowell House single—a clear violation of rules printed in Harvard's student handbook and elsewhere.
+ 
+As a result of Harvard’s inattention, Cosby’s lawyers say, Copney ran “a criminal enterprise” out of Smith’s Lowell dorm room. Before Cosby’s murder in May 2009, Copney and his friend Blayn Jiggetts, also later involved in Cosby’s killing, had used a firearm to steal drugs from two Yale dealers whom Cosby met during Harvard-Yale weekend. 
+ 
+“[Copney] was there for two semesters,” Cosby’s lead attorney Isaac H. Peres said, “not two days, not three days.... The only reason this became a situation is because of [Harvard’s] negligence.”
+ 
+Copney was convicted of first-degree murder in Middlesex Superior Court last year and is serving a life sentence without the possibility of parole. His two associates, Jiggetts and Jason F. Aquino, each pleaded guilty to manslaughter, and Smith pleaded guilty to accessory charges.
+ 
+Denise Cosby and Gregory Daniel Cosby, the uncle of the shooting victim, watched the proceedings.
+ 
+“We’re cautiously optimistic. You never know about these things, but we felt that it went well and that [the judge] understood our argument,” Peres said afterward. The judge will hand down an opinion on whether the case should be dismissed at an unannounced time.
+ 
+—Staff writer Matthew Q. Clarida can be reached at clarida@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.

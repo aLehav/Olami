@@ -1,0 +1,78 @@
+USF is developing the DARE dashboard to view student metrics about equity in a new way as part of its new anti-racism website. ORACLE PHOTO/LEDA ALVIM
+
+
+As a way to gain an understanding of current student metrics, USF is set to launch the Diversity, Anti-Racism and Equity (DARE) Dashboard to set goals for anti-racism and diversity across campuses in upcoming semesters.
+
+
+The goal of the dashboard is to bridge metrics with experience in terms of equality and anti-racism, and use the resulting data to set goals for students, faculty and administration to increase academic and professional success.
+
+
+The development of the dashboard is a partnership between several USF departments, including the Office of Student Success and the Office of Decision Support, with Senior Advisor to the President and Provost for Diversity and Inclusion Elizabeth Hordge-Freeman leading the project.
+
+
+“The philosophy behind the DARE dashboard is not simply to have another source of data, but rather to establish a comprehensive overview, or baseline of the current state of USF with the goal then to be able to set goals and track our progress, identify challenges and opportunities for growth, and then to be able to re-evaluate university policies and practices,” Hordge-Freeman said.
+
+
+The dashboard’s launch date is undetermined, but it will be a component of the university’s new anti-racism site which is currently being developed by Hordge-Freeman and the Office of Decision Support. The data aspect of the dashboard is being developed by Power Bi software.
+
+
+The dashboard will consist of four main categories of metrics and experience measurement, according to Hordge-Freeman.
+
+
+“So beyond traditional metrics of graduation and retention, we want to develop a more holistic approach to success, experience and outcome for students, for faculty and for staff,” she said. “And so to that end, the dashboard has been organized into four main quadrants: access, achievement, inclusion and engagement.”
+
+
+Within the access category, the dashboard will receive data from the Office of Decision
+S
+upport, according to Hordge-Freeman, which will allow the university to develop strategies to increase enrollment across minority groups that the data suggests should be increased or provided aid for.
+
+
+“The dashboard allows us to look more closely at enrollment with an eye for proposing potential action,” she said. “This might include targeted recruitment, the development of pipeline programs for Black and Latino students for graduate school.”
+
+
+Apart from enrollment percentages and admission rates, Hordge-Freeman said the access-based portion of the dashboard focuses heavily on financial aid, including a breakdown of Pell Grant recipients and student loan users based on race and ethnicity.
+
+
+“As it relates to sources of funding, [the current dashboard data] shows that 70% of Black students report that they relied on loans, which is considerably higher than any other group here,” Hordge-Freeman said. “So we have plans to have financial aid data fed directly into the dashboard to determine the exact amount of loans that students are taking out, because we know that student loan debt is closely tied to racial equity at the national level.”
+
+
+The achievement portion of the dashboard will look at student retention, degree attainment and post-graduation outcomes like job attainment and career placement.
+
+
+“Looking at graduation rates alone, we want to consider racial and gender disparities in degree attainment, and analyze which colleges and degree programs underrepresented minorities are most likely to graduate from,” Hordge-Freeman said.
+
+
+The platform’s inclusion and engagement sections are still largely undeveloped, according to Hordge-Freeman, but they will feature qualitative, experience-based data points like campus climate surveys, leadership opportunities, mentorships and course engagement to measure levels of inclusion and engagement for all races and ethnicities across the university.
+
+
+Hordge-Freeman aims to use the same four quadrants to identify areas of improvement for faculty.
+
+
+“The dashboard allows us to ask more meaningful questions that capture retention, advancement and experience that faculty are having on campus, over and beyond what we’re required to report which really centers around just faculty composition,” she said. “Later phases of this dashboard will include staff and administrative success as well.”
+
+
+Faculty will be measured on similar metrics to students, including application pools, hiring patterns, salary equity, perceptions of
+university
+infrastructure, tenure attainment, quality interactions and course engagement. Hordge-Freeman said that using these metrics will allow for a more “successful faculty,” which will later translate to administration and other staff members.
+
+
+The endeavor to create the dashboard and website is meant to solidify an understanding of equity and anti-racism throughout the USF community, according to Hordge-Freeman.
+
+
+“I think it’s important just to clarify what we mean when we use the term anti-racism, especially because it’s been used so frequently and often is undefined,” Hordge-Freeman said. “Anti-racism really refers to the active process of re-evaluating organizational structures, policies, practices and beliefs in order to eliminate systemic racism, and ensure racial equity.
+
+
+“So our focus on anti-racism reflects our fundamental understanding that systemic racism is real.”
+
+
+Besides anti-racism initiatives, Hordge-Freeman and the Board of Trustees noted during the Nov. 10 meeting that this dashboard will make USF a pioneer among universities in diversity and equality endeavors.
+
+
+“The Board of Governors produced a memo encouraging universities in the U.S. to be more attentive to inequities,” Hordge-Freeman said. “So this dashboard shows, yet again, how USF has been proactive in this area and is ahead of the curve.”
+
+
+The dashboard is reportedly of no extra cost to the university, and Hordge-Freeman expects it to aid USF
+in developing practices and policies that will improve the ability of students, faculty and staff to be successful on campus.
+
+
+“The DARE dashboard will help us to address issues of anti-racism and equity on campus, and at the same time, elevate the USF brand on a national and international level so that we’re a model of institutional transformation,” Hordge-Freeman said.

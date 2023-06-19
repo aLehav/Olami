@@ -1,0 +1,24 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A data breach at Blackbaud — the maker of a software the University uses for fundraising and donor engagement — may have put Harvard affiliates’ demographic data at risk, according to an email they received from Harvard Alumni Affairs and Development Wednesday.
+The breach may have included demographic data — “such as names, addresses, employment information, and birthdates, along with philanthropic engagement data” — of affiliates who live in the United States, per the email. The breach was discovered in May, and the University was first notified in July.
+“Harvard University has never provided credit card numbers, social security numbers, bank account information, or similar high-risk data to Blackbaud, thus this data was not exposed,” the email read.
+The attack involved an attempt to lock the company out of its servers for ransom, which Blackbaud prevented — but not before the attacker took a copy of some client data.
+“Because protecting our customers’ data is our top priority, we paid the cybercriminal’s demand with confirmation that the copy they removed had been destroyed,” a statement from Blackbaud explained.
+Harvard has worked with Blackbaud since 2006 for “information and insights for strategic engagement and fundraising efforts,” according to the email.
+The incident also affected St. Paul’s Parish and the Harvard Catholic Center, according to a Wednesday email to parishioners from Reverend Wiliam T. Kelly, a Catholic chaplain and pastor of St. Paul’s Parish.
+“The cybercriminal was able to remove a copy of a subset of constituent data from several of Blackbaud’s clients, including the St. Paul’s Catholic Community,” Kelly wrote.
+Kelly told parishioners he does not believe they need to take any action in response to the incident at this time.
+The breach also impacted Boston University and WBUR.
+The University and Blackbaud did not immediately respond to requests for comment.
+—Staff writer Camille G. Caldera can be reached at camille.caldera@thecrimson.com. Follow her on Twitter @camille_caldera.
+—Staff writer Michelle G. Kurilla can be reached at michelle.kurilla@thecrimson.com. Follow her on Twitter @MichelleKurilla.
+Want to keep up with breaking news? Subscribe to our email newsletter.

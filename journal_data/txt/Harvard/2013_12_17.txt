@@ -1,0 +1,290 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+When I read the “breaking news” that there is grade inflation at Harvard, I was a bit surprised. First of all, I realized that I’m clearly taking the wrong classes. More seriously, while I agree that Harvard’s grading system is problematic, I think so for very different reasons than most. Beyond emphasizing one standardized metric of success, the current discussion of grade inflation has failed to recognize two important points: On a macro scale, relative grading—in its current format—makes institutional comparisons irrelevant, and on a micro scale, it makes the interdepartmental comparisons problematic.
+My first grievance is the intense focus on institutional comparisons. The Crimson’s article says that the grade inflation announcement vindicates suspicions “that the College employs a softer grading standard than many of its peer institutions.” Quite frankly, it seems irrelevant to compare inflation at Harvard with inflation at other peer institutions, unless all institutions in the comparison are employing one identical and uniform grading.
+Critics might say that nation-level comparisons are important for employers and graduate schools that need to compare candidates from different schools. It is true that our society demands relative assessments in some sense, but Harvard and many other institutions’ grading systems amount to a mere assessment of relative performance within their respective institutions. Rather, comparisons between universities require a relative assessment of the universities themselves to account for variations in institutional quality.
+To make this more concrete, consider a scenario in which all universities institute the following rule: Only the top five percent in any given course can receive an A, and then the next five percent can get an A-, and so on. The grade would reveal very little, if anything, about any given student’s performance. Rather, to understand how a given student compares to another student at a different school, the internally relative grade must be viewed against a trans-institutional standard.
+To solve the problem of nation-level comparisons, given variations in institutional quality, the United States could adopt an absolute grading system. Objections against distributions would then be inappropriate—if students meet the absolute criteria for an A, then they ought to receive it, even if that means that A is the most common grade at Harvard.
+Therefore, assuming that the option of an absolute grading standard is rejected, the absence of a trans-institutional grading standard that adjusts for variations in institutional quality renders institutional comparisons irrelevant; an internal grade distribution is the only relevant metric for evaluating candidates from the same institution.
+And the internal distribution of grades at Harvard is in fact my second grievance. It could indeed be problematic that the most common grade is also the highest grade (at least in a relative grading system, such as ours). Yet, in approaching this problem, a Harvard-wide quota alone would not ameliorate it. There are, at least, two other significant problems with the current system that must be addressed in conjunction with the problem of distribution: first, inconsistencies in grading standards among departments, and, second, the equal weighting of courses of varying difficulty.
+Concerning the departmental disparities, there is no denying the perception that certain concentrations are easier than others. The debate on grade inflation should address this perception, whether it is accurate or not. This problem is aggravated by the fact that different disciplines emphasize different talents and achievements, possibly making it impossible to find a uniform grading system. Yet, in the absence of such an internally uniform grading standard, there is no point implementing a standardized grade distribution or talking about external comparisons.
+Concerning the latter, I personally find it striking that introductory courses are given equal weighting in students’ grade points averages relative to advanced courses. While there may be good reason for this (as opposed to indifference or inertia on part of the administration in differentiating courses), it incentivizes intellectual laziness. While graduate schools claim to review transcripts to account for disparities in the difficulty of candidate’s coursework, such measures are far from universally recognized. Prima facie, a fair grading system ought to somehow account for these internal coursework divergences.
+In conclusion, (in)famous grader Mansfield is in fact correct in asserting that Harvard’s grade inflation “represents a failure on the part of this faculty and its leadership to maintain our academic standards.” If the assumption is that we want a relative grading system, then Harvard’s true failure is the absence of an internally uniform and well-distributed system. The news that Harvard has a broken grading system is not at all breaking.
+Oliver C. Wenner ’14 is a philosophy concentrator in Winthrop House. 
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard College loves to brag that it provides all undergraduate students a liberal arts education. As a campus tour guide, I frequently tell prospective students interested in “business,” “pre-med,” and “communications” that at Harvard, they can pursue these interests in their summers and their extracurricular time—but in class, they will get the chance to study history, theory, ethics. In fact, our Economics department seems almost proud that so many students each year cross-register at MIT to take “Corporate Financial Accounting” for its relevance to investment banking: Not offering an accounting course somehow seems to prove our university’s commitment to the liberal arts. We will teach economic theory, not practical applications, in our classes.
+Yet Harvard College may have to revisit its vision of itself as a “liberal arts college.” From the growing number of apparently pre-professional undergraduate classes to the expanding School of Engineering and Applied Sciences, our College does not seem to have a coherent idea of what exactly counts as a liberal art.
+Clearly, Harvard undergraduates frequently take pre-professional classes. For one, undergraduates are encouraged to cross-register at Harvard’s professional schools. I know pre-law students who have studied Contracts at the Law School, pre-med students who have anesthetized pigs at the Medical School, and budding politicians who have studied policy at the Kennedy School. In addition, Harvard’s Undergraduate Teacher Education Program, which I admire, licenses graduates to teach in Massachusetts public schools (and in the many states with which Massachusetts has reciprocity) after students take classes at the Graduate School of Education and complete multiple semesters of in-school observation and student teaching. Harvard obviously has no policy against undergraduates taking pre-professional classes.
+From a brief glance at the spring semester course catalogue, Harvard College also seems to offer classes preparing students for jobs in investment banking and software engineering. Professor of the Practice in Statistics Stephen Blyth will teach Statistics 123: “Applied Quantitative Finance.” The class markets itself as an “introduction to financial derivative markets and the probabilistic techniques used to navigate them” and uses a “methodology motivated by real problems from the financial industry.” Blyth, currently Managing Director and Head of Public Markets at Harvard Management Company and formerly of Deutsche Bank and Morgan Stanley, notes on his course description that “Applied Quantitative Finance” is “designed for those seeking an understanding of the quantitative challenges on Wall Street and the probabilistic tool-kit developed to address them.” Also this spring, in Computer Science 164: “Software Engineering,” students will learn “principles of software engineering and best practices… projects include web apps with front-end UIs (mobile and desktop) and back-end APIs.” I am not an expert in either the finance industry or software engineering, but from these course descriptions it seems to me that the “Software Engineering” and “Applied Quantitative Finance” classes teach pre-professional skills for jobs in software engineering and quantitative finance—two of the most popular (and lucrative) post-grad jobs.
+In its ambitious capital campaign, Harvard promises to raise a huge amount of money to expand the School of Engineering and Applied Science.  Harvard insists that its vision for SEAS is “anchored in the liberal arts.” But in practice, this seems to mean simply that engineering concentrators also need to complete General Education requirements so that they can “understand the societal context of their technical work.” As I have learned from my time in Harvard’s Program on Science, Technology, and Society, truly understanding the social implications of engineering and technology requires much more than taking one class labeled “Ethical and Moral Reasoning.” And there’s certainly more that needs to be said about how Harvard’s capital campaign priorities fit in to the widely-bemoaned decline of the humanities.
+Ezra Klein suggests that the huge percentage of Harvard College graduates heading to Wall Street after graduation is due to the weak preparation liberal arts students have for more professions. He writes that investment banks, management consulting firms, and Teach For America are “taking advantage of the weakness of liberal arts education.” According to Klein, “Wall Street is promising to give graduates the skills their university education didn’t.” Does this imply that Harvard should offer classes that teach real skills in careers we would rather graduates be pursuing—medicine, public service, journalism, the arts?
+This would be disappointing to me and, I assume, a lot of other students who came to Harvard College expecting a liberal arts education and environment. But better to intentionally craft pre-professional programs than to disguise pre-professional classes under the guise of computer science or statistics, or to let entire generations of Romance languages and literatures or African and African American studies concentrators fall into the soulless depths of Wall Street because they fear they won’t find any other jobs.
+If Harvard truly wants to expand SEAS, it has to think long and hard about how exactly to maintain its liberal arts vision. On the other hand, if Harvard’s vision for its future really focuses on engineering and technology, then it’s time to reframe the Harvard College experience. Perhaps Harvard’s professors and undergraduates are truly interested in software engineering more than they are in theoretical computer science. Perhaps economics and statistics concentrators are more excited by derivative trading and the finance industry than they are by mathematical models of economic development. If this is true, wouldn’t it serve Harvard better to simply be honest—that our College is not completely committed to liberal arts education?
+Sandra Y. L. Korn ’14, a Crimson editorial writer, is a joint history of science and studies of women, gender, and sexuality concentrator in Eliot House.  Follow her on Twitter @sandraylk.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+When Nelson Mandela was imprisoned on Robben Island by South Africa’s apartheid government, the cruelest punishment was not the backbreaking quarry work, the damp eight-foot-by-seven-foot concrete cell in which he was confined, or even the cold straw mat he was made to sleep on for 18 years.
+More terrible than that, the regime tried to stifle Mandela’s mind and his meaning to the world. He was permitted one 20-minute visit each year. He was permitted one letter every six months. He was often locked in solitary confinement for possessing forbidden news clippings. His source of inspiration was a smuggled book, the “Complete Works of Shakespeare.”
+Mandela signed his name beside a passage from the play Julius Caesar: “Cowards die many times before their deaths / The valiant never taste of death but once.”
+When Mandela did die on December 5, he exited the world valiantly as the leader of the eventually triumphant anti-apartheid movement, the patriarch and first black president of modern South Africa, and a champion of conciliation whose Truth and Reconciliation Committee began the process of healing a divided country rather than letting it fracture.
+But Mandela’s work in South Africa is far from over. The African National Congress party did not transition well from successful activist movement to governing political party. Mandela’s succeeding leaders, Presidents Thabo Mbeki and Jacob Zuma, have been far from his equals. The incumbent President Zuma has been embroiled in long legal battles over corruption, racketeering, and rape.
+The wealth gap between white and black South Africans has persisted since the end of apartheid—a symptom of weak leadership from the ANC. The same ANC’s hesitation in combating AIDS early on led to one of the worst epidemics in the world. South Africa remains a nation of immense potential mired in a seemingly inescapable muddle of corruption, inequality, and disease.
+Yet although South Africa, and indeed the world, has much progress to make after Mandela’s death, that does not diminish the man’s legacy. At his memorial, attended by 91 heads of state, Mandela shared the unwavering admiration of world leaders often at odds with one another. President Obama’s handshake with Cuban President Raul Castro drew criticism—but it fit the conciliatory spirit of a man who invited his prison guard to the front row of his presidential inauguration.
+During the Rivonia Trial that led to his imprisonment, Mandela said, “I have cherished the ideal of a democratic and free society in which all persons live together in harmony and with equal opportunities. If need be, it is an ideal for which I am prepared to die.”
+It should be an ideal with which all of us are prepared to live.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The outrage du jour is the case of Ethan Couch. The 16-year-old Texan, according to his lawyer, was, due to his affluent upbringing, unable to fully understand that it’s wrong to steal beer from Walmart and drive his father’s pickup truck while drunk as a BAC 0.24 skunk and dosed with Valium. Couch was underage, speeding, over three times the legal limit, and transporting seven passengers, some in the bed of the truck unsecured by seat belts or seats.
+Couch killed four people: a woman whose car had broken down on the roadside and three good Samaritans who stopped to help her—a mother and daughter, and a youth pastor. Prosecutors requested a sentence of 20 years in jail, the maximum sentence. Acting within Texas’ minimum sentencing guidelines, the judge ordered Couch to be sentenced to 10 years—of probation!
+Legally considered a minor, Couch dodged even that small consequence. Instead, he will enjoy rehab at a facility in the sunny neighborhood of Newport Beach, California; at $450,000-per-year for inpatient treatment, I’m sure it’s the lux, swank environment he’s used to. Naturally, the country is outraged at this instance of judicial insanity: Four are dead—and Couch is sentenced to a sleep-away-camp.
+No one in their right mind would accept that being born into wealth and privilege constitutes an impediment to understanding right from wrong; neither would clinical psychologists allow “affluenza” to be listed in the DSM. Anderson Cooper of CNN interviewed Dr. G. Dick Miller, the architect of the Affluenza defense. To the frustration of many viewers, Miller refused to accept the term “affluenza” and in multiple instance refused to acknowledge any responsibility on the part of Couch for the deaths, even denying that Couch caused their deaths.
+Many see in this sentence two injustices: the first towards the families of the victims (“Words can’t describe how disappointed I am in terms of how the judicial system works”—the words of just one of the grieving family members) and the second towards those caught in the justice system without the benefit of family wealth or white skin.
+Take the case of Jose Luis Sanchez as a comparison. In 2010, Sanchez was 19 years old and drove drunk; his car careened off road and struck a residence, pinned a sleeping man underneath; the injury led to the man’s death. In July 2013, Sanchez was sentenced to 9nineyears in jail. Unlike Couch, Sanchez is not rich (his vehicle was a ’93 Chevy pickup), not a minor, and not white. Perhaps most striking of all Sanchez, according to his lawyer, “fully and completely accepted responsibility for his actions and did not want to put his family or the victim’s family through any more heartache.” No pleas for special treatment here.
+I bet Couch in fact does have affluenza. If someone’s got the gall to demand special and separate justice because he’s rich, he’s probably blind to the suffering and humanity of others. That’s what affluenza boils down to for me: It’s not about the inability to appreciate the existence of consequences (since one has never experienced any), it’s a dangerously introverted focus on gratification. It’s this strain of affluenza that poses a danger to us as students at Harvard.
+Reaction to the Ethan Couch story has been predictably focused on him; his deadly narcissism poisons the air like an over-application of Axe body-spray. Collectively, we are outraged at the judge’s poor decision, disgusted by Couch (“He should be made an honorary Kennedy” was one of the better insults posted among the online comments); and fearful that our justice system is openly corrupt—with favoritism for members of socially privileged groups its guiding principle.
+Instead, I believe we should examine the notion of affluenza popularized by authors de Graaf, Wann, and Naylor. Their “Affluenza: How Overconsumption is Killing Us—and How to Fight Back” will arrive in February in its third edition.  Overconsumption, fueled by the “dogged pursuit of more,” leads to overload, debt, anxiety and mental illness, and waste of resources. I find this account simplistic but truthful. Our society organizes itself according to the rule of “winner-take-all,” with less emphasis on the duty to love one’s neighbors as oneself.
+Here at Harvard, it’s easy to see us enter this mode of blind self-interest during finals. We might console ourselves with the idea that our dedication to study is noble, or leads to advancement, but it is nonetheless a gratification of the desire for more: higher grades, more prestige, greater prospects of high-wage employment upon graduation.
+There’s a high level of pressure—pressure coming from anxiety about how we can attain more, not seeking self-improvement, or being of service to others. I don’t mean to imply this is true of everyone. The case of Ethan Couch reveals a dark side of human nature common to us all and should give us pause—inspire us to remain authentic selves, human, aware of our best interests, not society’s cookie-cutter expectations of perfection or success. Let’s remain humble, remain rooted to the world beyond the Yard—where we are swaddled in wealth. We need to remember the end result of a life of ignoring the consequences of our self-absorption is deadly.
+Michael Thorbjørn Feehly ’14 is a History and Scandinavian studies concentrator in Mather House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+Within minutes of receiving an emailed bomb threat yesterday, Harvard University Police Department officers and Cambridge Police evacuated Harvard Yard. We are grateful for the prompt and professional response by law enforcement officers, many of whom spent hours searching buildings, not knowing whether a bomb was inside. While the threat turned out to be false, the relatively calm evacuation is a credit to their efforts.
+ The threat was an unwelcome addition to the stresses and pressures of exam week, but the College’s efforts to accommodate students whose exams were canceled or were otherwise affected by today’s events are commendable. There is no fair or perfect solution for the disrupted exams. Delaying exams until the evening unfairly penalizes students who had planned to travel immediately after finishing. Canceling exams hurts students who had hoped the final would improve their course performance. Mandating make-up exams next semester leaves students open to forgetting most of the course material. 
+The College has tried to find the least bad alternative. The administration’s rapid decisions this morning and afternoon left course heads scrambling to make major grading decisions under tight time pressure. Students were left in limbo as they tried to parse sometimes contradictory or incomplete exam information. Yet these problems are an inevitable part of a major disruption—administrators deserve praise for their handling of the exam schedule, and students should give them the benefit of the doubt.
+The University was less successful in dealing with emergency communications. While the MessageMe and email updates were a major improvement from the long silence following the Boston Marathon bombings, the University and College ought to clarify who should be responsible for communicating to students. Over the course of the day, College students received updates from MessageMe, Executive Vice President Katherine N. Lapp, Faculty of Arts and Science Dean for Administration and Finance Leslie A. Kirwan ’79, and secretary of the Administrative Board John “Jay” L. Ellison. House Masters, Resident Deans, and others sent their own updates over email lists. There were also crossed wires between administrators and the law enforcement officers on campus. Emails that said certain areas had been reopened went out before the buildings had actually been deemed safe.
+The confusion would have only been amplified had the threat been real. Given the inevitable confusion caused by emergencies, it is all the more important that Harvard speak with one voice in a crisis. The University should have one and only one designated administrator to communicate during emergencies, as should each school. With too many administrators writing to too many different and overlapping email lists, emergency communications become a giant game of telephone.
+No bombs went off at Harvard yesterday, nor were any found—the threat was, fortunately, unrealized. But whoever emailed in the threat succeeded in diverting our attention from researching, learning, and teaching. Now is the time to refocus and move ahead. Harvard should analyze, critique, and improve its response, but ultimately, the University fulfilled its duty to keep students safe.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+Victoria H. Jones ’17 was in bed when she heard fire alarms cut through her residence, freshman dorm Thayer Hall, shortly after 9 a.m. Monday morning. After scrambling out of bed to investigate the source of the noise, Jones quickly followed her dormmates out of the building.
+ 
+“I didn’t brush my teeth. I didn’t brush my hair. I went with my night gown to Annenberg,” Jones said.
+ 
+Like many of her fellow students, from both Thayer and three Harvard classroom buildings evacuated at the same time, Jones did not realize until later that the fire alarm was prompted not by flames but by an unconfirmed threat of explosives in Thayer, the Science Center, Emerson Hall, and Sever Hall.
+ 
+Dawn E. Slack, wife of second-floor Thayer proctor Emily S. Lin ’02, recalled that the fire alarm in Thayer had gone off more than once last year due to burnt food in the basement and said that some residents might have assumed that Monday’s alarm was triggered by a similarly innocuous source.
+ 
+“It was pretty stressful and pretty scary,” Slack said of the uncertainty.
+ 
+The threats jumpstarted a chaotic morning during which final exams in affected buildings were cancelled and local, state, and federal police forces descended on Harvard’s campus.
+ 
+Thayer residents who were taking an exam in one of the affected buildings were not able to return to their dorm, a situation that elicited frustration but also understanding. “Searching through a dorm can only take so long, so it’s just a matter of waiting,” Yukiye A. Koide ’17 said. “I wasn't really worried that there would be a bomb in my dorm because I trust the people who live in Thayer.”
+ 
+Not all College students immediately responded to the situation, however. Yun Teng Zheng ’16 was awakened to the news by his roommate but fell back asleep until noon. Zachary P. Fletcher ’15 was studying in Boylston Hall when he learned of the situation. Because the building was not evacuated, Fletcher said, he kept studying throughout the morning.
+ 
+James T. R. Loomos ’16 agreed that for students who were not academically impacted by the cancellation of morning or afternoon exams, the day proceeded largely as usual and the threats did not seem too serious.
+ 
+Loomos said that his final exam for Government 1280: “Government and Politics of China,” scheduled for 2 p.m. Monday afternoon in Harvard Hall, was administered as planned. 
+“I would have felt almost like I was lying had I tried to get out of it, because I felt prepared,” he added of forgoing or postponing Monday final exams—an option offered by multiple classes throughout the day. 
+Still, even those students who were not directly affected expressed concern at the apparent frequency of emergency events this year.
+ 
+Bo Bayara de Yarabe ’16 said that the situation was not as frightening as the bombings at the Boston Marathon and the subsequent manhunt last spring, but added that he does feel “like it’s a troubling sign that this keeps happening.”
+ 
+Zheng said he hopes school officials release information about the cause of Monday’s threat as soon as they can. Many students suggested that the threats might have been staged by a student attempting to skip an exam.
+ 
+“I think, for some reason, there was more panic than necessary, because to me it definitely seemed like a hoax,” said Alexander M. Kamberov ’16. At his high school in Sofia, Bulgaria, he said, pranks like this are far more commonplace.
+ 
+Loomos said that the bomb threats, whether instigated as a prank or not, inconvenienced many students. “Everyone just wants to get it done—I think most people are ready to go home and relax—and this just adds another concern and another issue before you go back,” he said.
+—Staff writer Brianna D. MacGregor can be reached at bmacgregor@thecrimson.com. Follow her on Twitter @bdmacgregor.
+—Staff writer Noah J. Delwiche can be reached at ndelwiche@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+From the Boston Globe across the Charles River, to the Los Angeles Times across the country, to NetEase news in China, media outlets across the globe rushed to cover Monday’s unconfirmed rumors of explosives in four buildings on Harvard’s campus. But while Harvard news stories often generate buzz, the extent of the media coverage far surpassed that of other, seemingly comparable events, including a bomb threat at the Holyoke Center this past March.
+On Monday, less than an hour after Harvard had sent an emergency alert to community members, hundreds of tweets about the threat had been published on Twitter, according to the Twitter analytics service Topsy. Ten hours later, the count had climbed to more than 7,200 tweets, according to the site.
+The interest in the threats was not limited to Twitter. The scare was featured temporarily as the top story on CNN, and the national news network featured a live feed on its website filmed from a helicopter hovering above the campus, as the investigation into the alleged explosives proceeded. Dozens of national media outlets including the Wall Street Journal, Reuters, and Fox News also picked up the story.
+However, the coverage of Monday’s events contrasts sharply with that of March’s Holyoke Center bomb threat, which received much virtually no media attention.
+Heidi J. Tworek, a history lecturer who focuses on the international history of modern news, attributed that scale of the media coverage of Monday’s bomb scare to the legacy of the Boston Marathon bombings.
+“There are ways in which a bomb scare hits very close to home so soon after the Boston Marathon bombings,” she said. “During the Boston Marathon bombings, there was a brief moment when there were concerns at Harvard as well, so Harvard had already been enveloped into bomb scares at the time.”
+Reports that President Obama had been informed of the reports of explosives and that the federal government had become involved in the investigation made it almost inevitable that the bomb threats would become a major news story, she said.
+Unlike the Boston Marathon bombings, in which rumor underlay much of the media coverage, official statements by the University and its officials seemed to drive the media’s portrayal of what transpired.
+While student speculation regarding the events could have been the focus of the media’s content, Tworek said, student insight was instead employed only to add color to articles and reports.
+“While I haven’t read all of the coverage, it does seem to me like most of the media outlets did try to exercise caution, not to overspeculate, and also to rely upon citations from emails sent out by Harvard affiliates and the police,” she said.
+Tworek urged news outlets to continue to adhere to the facts as authorities continue to investigate the source of the threats.
+“It is, of course, not clear exactly how the bomb threat emerged,” she said, “It would be wise to refrain from speculation until we have further information.”
+—Staff Writer Alexander H. Patel can be reached at alexanderpatel@college.harvard.edu
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: December 18, 2013, at 12:36 a.m.
+Harvard College sophomore and Quincy House resident Eldo Kim, 20, has been charged in connection with Monday’s unfounded bomb threat against four buildings on Harvard’s campus and will appear in U.S. District Court for a preliminary hearing Wednesday morning.
+The public defender's office is currently representing Kim, according to Department of Justice spokesperson Christina DiIorio-Sterling. U.S. Magistrate Judge Judith G. Dein will oversee the hearing. Assistant U.S. Attorney John A. Capin is handling the case for the government.
+Kim could face a maximum five years in prison, three years of supervised release, and a $250,000 fine if charged under the bomb hoax statute, according to a press release by the Boston U.S. District Attorney’s office. 
+According to an affidavit filed with the office, Kim told authorities he was “motivated by a desire to avoid a final exam scheduled to be held on [Monday].” Kim was present for that exam, which was held in Emerson Hall at 9 a.m., when the fire alarm went off, the affidavit says.
+“According to KIM, upon hearing the alarm, he knew that his plan had worked,” the affidavit reads.
+Earlier that morning, at approximately 8:30 a.m, Kim sent emails to two Harvard officials, an affiliate of Harvard University Police Department, and the President of The Crimson, saying that bombs had been placed two of four buildings: the Science Center, Sever Hall, Emerson Hall, and Thayer Hall. In those emails, Kim wrote, “be quick for they will go off soon,” according to the affidavit.
+The emails were sent using Guerrilla Mail, a free online application that generates temporary anonymous email addresses. Additionally, Kim used a free application called TOR, which generates a random anonymous IP address for temporary use that is difficult for law enforcement to trace.
+According to the affidavit, authorities were able to determine that Kim had accessed TOR on the Harvard network before sending the email.
+The threats prompted the evacuation of all four buildings shortly after 9 a.m. and led to the cancellation of several morning final examinations, as well as afternoon exams scheduled to take place in the Science Center.
+A search by HUPD, the Cambridge Police Department, the Mass. State Police, as well as the Secret Service and the FBI Monday morning revealed no explosives. The four evacuated buildings were cleared throughout the afternoon.
+The affidavit was submitted by Thomas M. Dalton, an FBI special agent, who along with a HUPD officer, interviewed Kim Monday evening in Quincy House.
+In an emailed statement, a University spokesperson wrote, “We are aware that a member of our community has been arrested in relation to this matter and are saddened by the details alleged in the criminal complaint filed by the United States Attorney’s office today.”
+University officials would not comment further on the ongoing criminal investigation.
+On Saturday night, Kim sent an email over the Quincy email list timestamped 9:58 p.m. under the subject line, “Has anyone taken GOV 1368 The Politics of American Education?”
+“I was wondering if anyone had taken GOV 1368: The Politics of American Education (Paul Peterson) in the past,” Kim wrote in the email. “I have several quick questions about the course.”
+The final for Government 1368 was scheduled to take place at 9 a.m. on Monday in Emerson 210 and was among the exams evacuated Monday morning following the bomb threat. The Crimson could not immediately confirm if Kim was enrolled in the course.
+Daniel P. Leichus ’16, one of Kim’s roommates, said he had not heard anything about Kim’s alleged connection to the bomb scare until being interviewed by authorities around 9 p.m. Monday.
+“I hadn't heard anything until police questioned me,” Leichus said in an interview with The Crimson Tuesday evening. “I didn't know anything except for the official police reports.”
+The impact of the news seemed limited Tuesday night for Kim’s fellow residents in Quincy House. The Quincy dining hall was abuzz with busy students chatting and studying as usual for their own exams, enjoying an ice cream study break. Students interviewed there said they were not surprised to hear that the suspect is a student, citing Harvard’s highly stressful environment.
+—Staff writers Matthew Q. Clarida, Brianna D. MacGregor, and Kamara A. Swaby contributed to the reporting of this story.
+—Staff writer Nicholas P. Fandos can be reached at nicholas.fandos@thecrimson.com. Follow him on Twitter @npfandos.
+This article has been revised to reflect the following correction:
+CORRECTION: December 17, 2013
+An earlier version of the photo accompanying this article included a photo credit that misstated the middle initial of photo contributor George J. Lok.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: December 18, 2013, at 2:36 a.m.
+In 2009, then-high school sophomore Eldo Kim ’16 earned first place in the state of Washington in the U.S. Institute of Peace essay contest for his composition, “Cultural Genocide: A Look into the Unknown.” On Tuesday, he was charged with threatening to set off explosives in Harvard buildings.
+Kim, the Quincy House sophomore who will appear in federal court Wednesday morning in connection with Monday’s bomb scare, was described by his peers as involved on campus and engaged in his schoolwork. They were stunned, they said, to hear that he had confessed to sending an emailed bomb threat to avoid a final exam.
+Kim has close ties to sites affected by the bomb threats in and around Harvard Yard, which was closed for several hours Monday morning amid building evacuations, a six-hour search by authorities, and the cancellation and rescheduling of final exams in several large courses.
+According to former Thayer residents, Kim lived as a freshman last academic year in Thayer Hall, one of the four buildings he is charged with threatening to target. He also has an older sister who serves as a proctor in Weld Hall, according to a former Weld resident.
+“I find it very shocking that he would actually do this,” said Edward Cho ’16, who lived in Thayer with Kim last year.
+Kim is not listed on the Harvard College Facebook or the University’s online directory. His entry in the freshman register for the Class of 2016 says he hails from Seoul, South Korea, and attended Kamiak High School in Mukilteo, Wash. On the website of Harvard’s Institute for Quantitative Social Science, a profile of Kim from last academic year described him as a prospective psychology concentrator, while a cached version of Kim’s taken-down LinkedIn profile identifies him as a psychology and sociology concentrator. The Crimson could not immediately confirm Kim’s concentration.
+Friends and acquaintances, as well as online records, indicate that Kim was involved in a variety of campus activities, ranging from research to student media publications.
+Kim’s taken-down LinkedIn profile lists him as research assistant at the University’s inter-school Behavioral Insights Group Research Lab, a community teaching assistant for the HarvardX course CB22x: “The Ancient Greek Hero,” and a research scholar at the IQSS. The profile also lists Eleganza, the Harvard Independent, and the Harvard International Review as campus organizations in which he has been involved.
+Vivian E. Lee ’14, an executive producer for Eleganza, wrote in an email Tuesday evening that Kim was involved with Eleganza’s fashion committee. Lee wrote that she “only knew him in the context of Eleganza” but that she “knew him as quiet but very sweet.”
+“He always took the time to say hi in the dining hall and had some great ideas to contribute for the show,” Lee wrote. “Given my opinion of him, it was quite a shock to find out that he was responsible for the bomb hoax.”
+Kim is listed as a senior staff writer on the staff box of the Independent’s Sept. 19 issue. Angela Y. Song ’14, the Independent’s president, confirmed in a phone interview Tuesday evening that Kim was a writer for the publication.
+Christine R. Wolfe ’14, the Independent’s outgoing editor-in-chief, said in a phone interview Tuesday that few if any on the paper’s staff knew Kim well. Kim came to meetings infrequently, she said, “but when he did come, he was nice.”
+James R. M. Watkins ’16, a member of the HIR’s executive board, said Tuesday night that Kim had comped the organization but decided not to join this spring. Kim’s LinkedIn page indicates that he left the organization in March.
+Most of the two dozen acquaintances and friends of Kim approached for comment by The Crimson could not be reached or declined to comment, but several who did agree to be interviewed emphasized their shock upon learning that Kim was the suspect.
+Cho said it is “pretty surprising to hear that [Kim] went to such great lengths to avoid a final that he probably would have done well on anyway.” Cho, who said he is “pretty good friends” with Kim, called Kim “naturally bright” and said he thought that he did “pretty well” in his classes last year. He added that Kim “has been a supportive influence for a lot of people, myself included,” and is a “pretty nice guy.” Cho noted that he has not spoken with Kim in two or three weeks.
+A College student and friend of Kim’s who requested anonymity because of the sensitivity of the situation, called Kim a “great kid” in a phone interview Tuesday night. “I wouldn’t have expected [this],” the student said. The student suggested that Kim “probably studied a lot” for his exam on Monday, but may have gone into “panic mode” and “did something really stupid because he didn’t know what to do.”
+“He did have a stressful semester,” the student said, declining to go into further detail about past conversations with Kim.
+—Matthew Q. Clarida, Daniel R. Levine, and Kamara A. Swaby contributed to the reporting of this story.
+—Staff writer Madeline R. Conway can be reached at mconway@thecrimson.com. Follow her on Twitter @MadelineRConway.
+—Staff writer Brianna D. MacGregor can be reached at brianna.macgregor@thecrimson.com. Follow her on Twitter @bdmacgregor.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: December 17, 2013, at 11:28 p.m.
+Eldo Kim, the Harvard College sophomore who was charged Tuesday with sending emailed bomb threats to University officials on Monday morning, faces an uphill battle as he prepares his defense in federal court, attorneys said in interviews Tuesday night.
+“I don't think any lawyer in the world could save him at this point,” said Harvard Law School professor Alan M. Dershowitz, who predicted Kim will plead guilty.
+According to Christina DiIorio-Sterling, a U.S. Department of Justice spokesperson, Kim has not hired an attorney and is currently being advised by a public defender. Sterling said in a press release on Tuesday that Kim will appear Wednesday before U.S. Magistrate Judge Judith G. Dein, and that, if convicted, he faces a maximum of five years in prison, three years of supervised release, and a fine of $250,000.
+“Based on the affidavit that I read, it seems like a pretty open and shut case,” said Dershowitz. “If he was given his Miranda warnings and he confessed, and the forensic evidence supports the use of his computer and the use of the website, he doesn't seem to have a defense and there will probably be some kind of plea bargain. He will be prosecuted and convicted and sentenced.”
+Dershowitz, a criminal lawyer who has worked for five decades on high-profile cases including those of O.J. Simpson and Mike Tyson, said that Kim’s only reasonable option for a defense would be a psychiatric one, “that he kind of just cracked.”
+“I can't imagine any kind of other defense,” Dershowitz said. “It seems that what he did was really quite calculated.”
+Jeffery A. Denner, a lawyer at the Massachusetts firm Denner-Pellegrino, said that the relationship between attorney and client is critical, and that Kim may struggle to find this with a public defender.
+“There are some very good public defenders,” Denner said. “But when you get any kind of appointed lawyer, they are choosing you...you may not get the same chemistry [as with a private lawyer.]”
+Tamar R. Birckhead, a former public defender in Boston who now works as an associate professor at the University of North Carolina School of Law in Chapel Hill, indicated that the federal government’s interest in the case might make Kim’s defense more difficult.
+“Having practiced in both state and federal court, the federal government has typically much more extensive resources and investigative personnel to rely upon than the state does,” Birckhead said. “Generally, they also have a lot more time and they’re able to put many more people on an investigation than the state-level DA’s office, so that can result in a much stronger case for the federal government.”
+Depending on the strength of the government’s case, moreover, Kim might choose to never go to trial.
+“In my view, it’s unlikely to be a trial. It's much more likely to be a quick disposition,” Dershowitz said. “If the government concludes that he acted alone and he acted in this motive, then it should move pretty quickly.”
+David Duncan, a criminal and civil trial lawyer in Boston, expressed doubts that the suspect would receive a lighter sentence for confessing.
+ “If you turn yourself in and say ‘I sprayed graffiti all over these walls and I feel really bad about it. I’m willing to go out with a sponge and soap and clean it off...,’ you might get some credit for that,” Duncan said. “In this case where you’re talking about someone who called in a bomb threat, I don’t know how charitable a judge would feel about someone who did that.”
+—Staff writer Matthew Q. Clarida can be reached at matthew.clarida@thecrimson.com. Follow him on Twitter @MattClarida. 
+—Staff writer Daniel R. Levine can be reached at daniellevine@college.harvard.edu.
+—Staff writer Dev A. Patel can be reached at dev.patel@thecrimson.com. Follow him on Twitter @dev_a_patel.
+This article has been revised to reflect the following corrections:
+CORRECTION: December 18, 2013
+An earlier version of the photo accompanying this article included a photo credit that misstated the middle initial of photo contributor George J. Lok.
+  
+ 
+ CORRECTION: Dec. 19, 2013
+ An earlier version of this article misquoted a statement from Harvard Law School professor Alan Dershowitz about the speed of the legal proceedings in the bomb threat case. In fact, Dershowitz said, he expects the case to take the form of a disposition, not a deposition.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+As the sun rose last Friday, the air on Harvard’s campus was already humming with excitement as students prepared to welcome Harvard’s newest admits. Throughout the day, posts by students on the Harvard 2017 Facebook group nostalgically recalled when they themselves became prefrosh.
+Annie Lin ’17 remembers that she was on the hunt for fried chicken with her friends when she got the news on her phone. When asked how her parents reacted, Annie said that they could not believe her.
+“They asked me if I was sure it wasn’t fake,” she said.
+Others took greater precautions to deal with their anxiety before the decision email arrived. Hamidah Mahmud ‘17 had a friend set a passcode on her phone and then even handed it to a second friend in order to avoid the news. It was much later when she found out about her acceptance.
+“I thought Harvard was going to tell me to go check the portal, so I clicked [the email], but then it said ‘Congratulations!’ So I re-read three or four times,” she said.
+But not all acceptance stories happened without some roadbumps. Lyon Qiao ’17 said he experienced “a little bit of frustration” when learning about his acceptance because the news came in a few minutes late.
+“The entire time I was on Facebook talking to my friends, seeing what they were saying about their admissions,” Qiao said, noting that receiving the email late added to the anxiety and anticipation as rejections and deferrals poured in for his friends.
+When asked about his parents’ reaction, Lyon laughed and said, “My dad was happy, but he was too manly to show his happiness.” His mother, on the other hand, hovered over him for the rest of the day.
+Some athletes, like football recruit Jimmy E. Martter ’17, found out much earlier about their acceptances. According to Martter, the news was spoiled for him when he received an email from the Harvard rowing coach, congratulating him on his admission and advocating that he join the rowing team.
+“[The email] was like: ‘congratulations you’ve been accepted, you should try out rowing!’” Martter said.
+Despite this spoiler, Martter came for his official visit and sat through an hour-long meeting, before the coach offered him admission to Harvard as their conversation ended.
+“My mom started bawling, like hyperventilating… like she had an emotional breakdown,” he said.
+Like Martter’s mother, Jacob J. Mueller ‘17 said that when he found out, he was “unbelievably excited.”
+“It was an incredible feeling of validation for the work that I had done, but also surprise,” Mueller said. “I didn’t expect to be able to get in, but the fact that the institution saw something in me was really awesome.”
+So when 5 o’clock struck last Friday, and news began to pour in through Facebook and texts about early admissions for the Class of 2018, members of the Harvard Class of 2017 did not hesitate to celebrate with the newly admitted prefrosh.
+Congratulations to the new members of the Harvard Class of 2018.

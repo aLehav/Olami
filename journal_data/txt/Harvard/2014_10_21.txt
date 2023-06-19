@@ -1,0 +1,780 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Charles Hornbaker, a first-year student at the Harvard Business School, admits historical corn yields are not the most interesting subject in the world. But as part of a design team with fellow graduate students J. Benjamin Cook, Conor L. Myhrvold, and Ryan King at the Harvard School of Engineering and Applied Sciences, he's helped to realize the improbable: making corn interesting through a colorful and captivating web-based visualization called "Century of Corn.” In the design, green shapes spill across a map of the United States, covering the Midwest in a verdant spectrum, their hues deepening with time. "Century of Corn" was the winner of last year's design competition in Computer Science 171: “Visualization.”
+King says a lot of the principles he learned in the class seemed like common sense in retrospect. Students are taught how to select colors that were color-blind safe and that differences in hue are harder to distinguish than differences in saturation. From there, students go on to do sophisticated web-based interactive visualizations using JavaScript and data visualization libraries like Canvas and D3. King says “The overall principles are to keep things simple. Less is more.”
+The rising popularity of CS 171 and the high quality of its final projects speaks to a growing interest in digital visualization at Harvard and in the world. Part artform, part analytical tool, digital visualizations occupy a unique niche in communication. They are adding a visual component to conversations in fields ranging from hip hop to scientific collaboration. Powerfully persuasive and engaging, researchers and practitioners say that digital visualizations are opening up new frontiers of understanding and sharing information, but balancing aesthetics with contents can create risks.
+LEARNING THE ROPES
+Although the works produced by student designers in CS 171 are highly complex, the class begins its study of design with a very traditional medium: sketching. Students attend a special lab in which, with the help of a guest designer, they learn the basics of shape and layout. Alexander Lex, a postdoctoral visualization researcher at SEAS who has co-developed CS 171 in the last two years and will be teaching it this spring, says “It's hard to teach the aesthetics.” He says the course encourages students to refine their designs based on feedback from others. “It really starts with drawing lines and circles on a sheet. Then we go on to sketching user interfaces.”
+Lex says he has seen interest in the course rise over the past two years and in related courses CS 109: “Data Science” and EMR 19: “The Art of Numbers,” indicating increased demand from students for instruction in data science and visualization. Attention-grabbing, web-based data visualizations have been all the rage in 2014, taking social media by storm. Facebook made a splash this year with a map showing NFL affiliation by county in the US. The New York Times’s growing data blog, The Upshot, is frequently in the most read section for its interactive visuals on political and economic trends. And Matt Daniels's visual index of the linguistic diversity of hip hop artists’ lyrics attracted social media buzz because of its creativity and layout.
+According to Lex, part of the reason web-based visuals are growing in popularity is that more designers have learned the programming skills to make sophisticated interactive visuals. “There was a big revolution that started essentially with the development of HTML 5,” Lex says. “The big difference was that suddenly we had interactive visualization. Until 2007 what we saw was usually static...ever since then, with libraries such as D3 or Canvas or WebGL, you can do pretty cool stuff that works reliably on many platforms.”
+Perhaps more importantly, data visualizations have a unique power to tell a compelling story by focusing attention on a particular trend. Many argue that explaining that same trend verbally can be more challenging and less persuasive. Jared Knowles, a research analyst at the Wisconsin Department of Public Instruction, says he has seen this firsthand. One of his early projects was a map-based animation that showed the proportion of students eligible for free and reduced lunch—an identifier of low income—changing in school districts from 2000 to 2012. “I think this visualization makes people have an emotional connection to the data, whereas if they just saw it on a line chart, they wouldn't connect to it the same way,” Knowles says. In addition to his work in Wisconsin, Knowles helps teach others about data visualization and statistical techniques, including giving a speech at the Strategic Data Project, a group partnered with the Harvard Center for Education Policy Research and dedicated to bringing statistical analysis to the education system.
+Olivier H. Beauchesne, a data scientist and programmer who specializes in visualization, agrees that the best visuals are those in which people can situate their own experiences. “When you can have insights or even better, insights about your life and your community, this is what I think make a really good data visualization,” he says. “The first time you use Google Earth, you look at where you were born or where you are at the moment.  Even though you have access to the whole world, you're going to look at only specific places where you have a history.”
+A strong narrative is all the more important given the potentially overwhelming amount of data now available to visualize, Beauchesne says. “Only 20 years ago you would have to go to the library [to get your data]. Now you have repositories with all kinds of data, and you can even buy data from data brokers.”
+But the new capabilities do come with costs. “Not all the data is good data and some data should remain private but is not,” says Beauchesne. “It comes with a bunch of caveats.” Often it is up to the designer to decide what information is important enough to include—and what is not.
+FORM FOLLOWS FUNCTION
+One such challenge is striking a balance between aesthetics and detailed information. An effective visualization is not only visually pleasing; it also need to convey important information accurately. “Sometimes we have to remove some information to make it aesthetically pleasing—not that removing information is a problem, but we have to say that we removed it,” Beauchesne says.
+Beauchesne’s works include a striking network map showing co-authorship ties across different scientific disciplines. He acknowledges that deciding what constitutes appropriate simplification is an important part of his work. “We had to remove a small amount of papers and collaborations,” he says. “By removing some of the lines, we are able to see the bigger picture.”
+For Beauchesne, function dictates form. “How you deal with that balance [between aesthetics and content] depends on the goal. If it's more of an artwork, then you have to take the aesthetic considerations as your priority,” he says. Lex agrees with Beauchesne. “It's very similar to product design; function comes first and the design follows,” Lex says.
+At the extreme end of data manipulation, visualizations can be used to deceive—in part because a designer can change or manufacture data without giving viewers an easy way to verify the work.  “We see dishonest visualizations all the time,” Lex says, but he adds he is not not too worried. “If somebody wants to get a message across, they will do it with visualizations or they can do it with written argument.”
+Lex and Beauchesne agree that an informal vetting process generally checks against outright fraud. “I think there’s a kind of peer review that is not really official,” Beauchesne says, explaining that much like in the early days of the blogosphere, discerning viewers will skip over poorly executed content and share that which they admire. “If it has good information, it's going to rise to the top,” he says.
+For Lex, the worry is not so much willful misrepresentation as unwitting bias. Lex mainly develops visualizations systems for experts. “I always tell them, 'This is a tool that should give you an idea about what is in your data but you still have to run a confirmatory analysis afterwards,’” Lex says. Visual analyses can sometimes be so persuasive that they can fool researchers into accepting a false conclusion if that conclusion not tested statistically or in a lab setting.
+“All data are cooked, but we tend to talk about it like it's raw,” says Matthew Battles, a senior researcher at metaLAB—a research unit at Harvard that explores networked culture in the Arts and Humanities. He says visual images, unlike musical compositions or written works, are taken in by the audience all at once, making them especially likely to mislead.
+“The power of the visual is also its weakness,” he says. “Human beings are particularly susceptible to cognitive loops like apophenia, which is seeing patterns where no meaningful pattern exists. In the absence of pattern, we make pattern.” Those cognitive leaps can be especially pronounced in visual works. For that reason, it's not enough to simply present a visualization as the height of truth and insight. It needs to be embedded in a larger narrative, Battles says, and in dialogue with other claims and counter arguments.
+A SECOND LOOK
+For the team at metaLAB, examining how visualizations are constructed is as important as their aesthetics and content. According to Battles, “What do the ways that we visualize data have to tell us about the ways in which we understand the world?” is one of the main questions metaLAB asks.
+“There’s an interesting culture of data that has emerged in recent years in which we treat data as real things in the world, as just the facts, as evidence of things in the world that are beyond dispute,” Battles says. In reality, all visualizations are made using a series of data collection and design choices, rather than being absolute truths. For Battles, there's reason to think more deeply about data visualization—a practice that long predates the digital era.
+Battles sees Google Earth as an example of how visual images are constructed. Referring to typical users of Google Earth, he says, “It's a common surprising misconception that when [they] look at Google Earth, they think they're looking at a real-time representation of the globe, a snapshot of what's happening on the globe, even if it's not at the moment at which you're looking at it. In fact, of course, the map that's presented to us is this kind of crazy quilt of images that are derived from different sources at different times.” According to Battles, the misaligned images on Google Earth—such as a snowy landscape turning into summer—are but the norm in the field of visualization.
+“We see these things, we tend to think of them as anomalies, but really they're expressive of the kind of fundamentally fabricated nature of that set of data and its visualization,” he says. “That's not to deny that Google Earth is a powerful tool. It lets us make arguments about and imagine the world in ways that we couldn't before, but it's helpful to understand that there is somebody behind the curtain making that happen.”
+For Battles and his collaborators, it is not enough to take visual representations at face value. Those images must also be critically analyzed based on the system of beliefs about the world that underlie their design and the data creation processes that led to their content.
+BRIDGING TWO FIELDS
+Testing the connections between scientific and artistic images is another topic of interest inspired by data visualization. Nathalie Miebach, who attended Harvard Extension School in 2003, is a visual artist whose work bridges the gap between traditional art and scientific data visualization.
+Her work includes musical scores, installation pieces, and sculptures based on data, including “The Sandy Rides,” a work built using weather station data that represents amusement park rides demolished by Hurricane Sandy.
+Miebach got her start in an Extension School astronomy class. A self-described tactile learner, she made a sculptural final project for the course based on the Hertzsprung-Russell diagram, a well-known scatterplot showing the relationship between star luminosity and temperature.
+“At the time I was also taking a basket weaving class with Lois Russell,” Miebach says, “And when it came to writing a final paper for the astronomy class I decided, 'I'm going to make a sculpture, because that's really the only way I'm going to be able to understand it.’”
+Miebach’s final project was a representation of the Hertzsprung-Russell diagram made using traditional basket-weaving techniques. She varied her weaving method based on the information in the diagram, letting its values dictate her weaving technique. “It was like sculpture by numbers,” she says.
+She chose to work with basket reed, a traditional basket-weaving material that is also difficult to control. “In order for the reed not to break, I have to respect the tensions being acted on the reed. So in the end, it's not me creating the form, it's the numbers creating the form,” she says. It was the numbers in the diagram that ultimately determined the warping shape of the product. Although her works begin with a foundation of data, often from very sophisticated scientific sources, she uses that information to create an aesthetic experience that can stand on its own.
+Though her work has been shown in gallery spaces, Miebach says, “I still want you to be able to read the information off of each piece, and I want the piece to exist in the science and the art realm.” For her, the pieces ultimately don't belong fully to the world of sculpture nor that of art. Referring to “The Sandy Rides,” which raises questions about the consequences of global warming, Miebach says, “You have to find other ways of reaching the public. One more graph about climate change is not going to convince people.”
+ENVISIONING THE FUTURE
+The need to visualize information is a commonality among many different scientific endeavors, including the study of campaign and election data, public health and policy information, and the Quantified Self movement, in which individuals gather data on the details of their daily life through a combination of wearable sensors and self-monitoring. “It's interesting that we live in a time when all of these different fields can be united through the lens of the visualization of data,” Battles says. “I think we need to ask questions about how easily translated these fields are from one to the next and whether our focus on data is sufficient to catch the distinctions across many different fields of human experience.”
+Visualization has spread in part due to technological developments, which have made the traditional practice more dynamic, accessible, and powerful. More interactive and user-friendly graphs are likely to be the future of this field.
+Lex predicts that programs that allow users to create their own visualizations as easily as they can currently make a static bar graph will be the next revolution. Although a baseline of programming knowledge is currently needed to create a sophisticated interactive visualization, a software for users without these skills would give many more people the capacity to develop interactive visualizations—and likely lead to a broadening of the topics being communicated through dynamic visuals. Despite—or because of the misinterpretations and distortions—it’s clear that one thing will remain constant: the power of the visual design to captivate, inspire, and generate conversation.
+—Staff writer Ola Topczewska can be reached at ola.topczewska@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Michel Faber’s novels take place in vastly different settings, all of them peopled by a unique cast of characters. Yet his stories share a common interest in unraveling the mysteries of human nature, and “The Book of Strange New Things” is no exception. The novel broaches the topic of religious faith in a way unusual in fiction: with an appreciation for its inextricable link to the other myriad complexities of humanity. But this endeavor to examine the nature of faith falls a little flat when outside circumstances, rather than a character’s volition, begin to resolve some of the book’s toughest decisions. “The Book of Strange New Things” raises fascinating and worthwhile questions, though its answers remain inconclusive or noncommittal.
+Like Faber’s other books (“The Fire Gospel,” “The Crimson Petal and the White,” “Under the Skin”), “The Book of Strange New Things” has a compelling premise. It imagines a near future in which intergalactic travel is possible and the made-up corporation USIC has set up a colony on a planet called Oasis. The narration follows a pastor named Peter to this new world where he has been hired to minister to the mysterious natives, putting many lonely light years between him and his beloved wife, Beatrice, back on Earth. Faber depicts this possible near future with confidence: he doesn’t shy away from scientific questions and allows Peter to ponder some of the problems that may occur to the reader (outer-space travel and the evolution of alien species, for instance). He renders the environment of this far-away planet and its inhabitants so realistically that one can hardly believe they don’t in fact exist somewhere. Spiraling rain currents and faces resembling walnut kernels clearly don’t follow the laws of this world, yet they are described consistently enough and with just the right amount of natural variation to convince readers that these phenomena must follow some set of rules.
+Faber excels at creating meticulous, believable environments. However, the science fiction premise of “The Book of Strange New Things” is perhaps first and foremost the setup for an exploration into the psyches of its characters. Central to this exploration is the riddle of religious faith. Faith is hardly an untouched issue, but it’s sometimes avoided in fiction that doesn’t have a specifically religious message. A fictional character labeled as religious may threaten to alienate nonreligious readers. However, Faber provokes his readers to reconsider religion and religious faith, which he very quickly establishes as fundamentally linked to universally relatable fears, desires, and emotions. Then he probes the nature of faith, along with its intersections with love and friendship, under strange and varied conditions.
+Unfortunately, given that the novel makes human nature its focus, some of the insights it provides are disappointingly rudimentary. This is in part due to the narrative’s hypothetical scenarios that are at times so extreme that it seems Faber’s characters are simply riding the roller coaster of the plot. Characters remain enmeshed in the same angst until external factors drive their hands and force them to make one decision or another, so that the reader never sees them go organically from a simmer to a boil. And it’s hard to imagine that, allowed to simmer, Peter wouldn’t come to a natural boil; his personality is impressively well developed. In fact, Faber gives practically every minor and major character a past that motivates them and a balance of positive and negative traits. Nonetheless, the book can feel claustrophobic. The men, women, and natives of Oasis, despite being three-dimensional, are often more like saplings in winter than full-foliaged trees and are blatantly pigeonholed by their races. One could argue this is a point in the book’s favor, as it forces the reader to experience more thoroughly the isolation of a faraway planet. But even Peter, the book’s protagonist, is rather tiresome to spend so much time with.
+“The Book of Strange New Things” has many successes. It excitingly opens up the topic of religion, so often glossed over, and unites faith with the rest of the human psyche. The reader is privy to the interactions of faith with love, faith with anger, faith with loneliness. Even the discomfort some people have with religion is tackled straightforwardly, enacted through Peter’s nonreligious coworkers. Still, with all these achievements, some readers may find themselves a little disappointed at the end of Faber’s newest work. The plot appears elegantly set up to examine human nature, but when this examination seems to be going in circles, the book begins to lean too heavily on the events of its narrative, which aren’t quite strong enough to support the weight on their own.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Since its debut at the 2014 Sundance Film Festival, “Dear White People” has received gratifying critical acclaim for its witty and sophisticated reflection on racism. However, the film does not stop at discussing race as a generalized social issue. It also deals with the universal struggle to define one’s personal identity and how it can become extremely complex when race is involved. To address these topics, the film focuses on the lives of four black students at a predominantly white college. Each of them represents a particular stance on the question of identity, and all of them have changed in one way or another by the end of the film.
+Director Justin Simien started the project in 2006 with the notion of making a truly “human” film about black people. “I was frustrated that black people, or in fact any marginalized group, are often portrayed as either exoticized heroes or victims of drugs and violence,” he said. While films with white protagonists typically deal with their personal pursuits and experiences, those about black people often ignore their individuality and abstract them only as components of a particular community. “It has a subtle effect on us, suggesting that if you are not a white man, life is not a complicated experience of being a human,” he said.
+In Simien’s opinion, this cultural predicament exists not only in films but also in the wider society. “If you are black or female or gay, you would grow up hearing other people’s opinions about you, whether they are people within your community or outside of your community, and identity is stuck,” he said. “I was asking, ‘Am I black enough?’ or, ‘Am I too black?” in the first 15 years of my life…but generally if you are a white man in America, that type of question would not even occur to you. Much sooner in your life would you ask yourself, “Who am I?’” According to Simien, the fact that certain opinions and prejudices are troubling the lives of other groups, either mentally or materially, is evidence that racism persists today. In the same regard, he discredits so-called ‘reverse racism.’ “‘Dear White People’ or jokes that black comedians make or any other expression of minority groups have no actual impact on the daily life of a white person,” he said. “I believe that reverse prejudice exists, and it doesn’t feel comfortable, but racism is more complicated, more systematic than that.”
+In “Dear White People,” Simien portrays this complicated, systematic influence and its impact on the search for identity through the four main characters. They are Sam White (Tessa Thompson), an anti-racism activist running for the president of the all-black Armstrong Parker House, Coco Conners (Teyonah Parris), a black girl who has straightened hair and only dates white guys, Troy Fairbanks (Brandon P. Bell), another candidate for house president who agrees with the school’s proposal to make Parker/Armstrong multi-racial, and Lionel Higgins (Tyler James Williams), assigned by the school newspaper to cover everything happening in Armstrong Parker with only a cursory knowledge of black culture. Many of these characters can be traced back to Simien himself when he was a student at Chapman University. “At college I thought I was Lionel, not fitting into any category. I didn’t have the typical black male haircut; I didn’t listen to the right music or wear the right clothes. But then I found my niche and built my persona, and I felt more Sam-ish. Right now I feel I’m an integration of all of them,” he said.
+Writing a multi-protagonist movie is always challenging and does not always pay off. Simien was aware that many audiences are conditioned to single narratives and that it might take a while to catch up with a multi-protagonist story. “In film school I literally read a book that said, ‘You are not Robert Altman, so don’t try!’” However, Simien believed that the social situations black people are dealing with are multi-faceted, and only such a narrative would present a comprehensive picture. To avoid the slow pace and overloaded information often associated with multi-line narratives, he spent a long time studying “Fame,” “Do the Right Thing,” and “2001: A Space Odyssey.”
+When it comes to the influences for the film, it is worth commenting that while “Dear White People” has intentional references to many directors, most people might only notice those to Spike Lee. “The good thing is that Spike Lee happens to be a hero of mine, and it’s flattering that Spike and I can appear in the same sentence,” he said. But in general, Simien finds it frustrating that the media are always comparing black directors to other black directors. To some degree, this phenomenon may reflect the very problems that “Dear White People” is concerned with: the impact of stereotypical opinion on particular communities.
+—Contributing writer Tianxing V. Lan can be reached at tianxinglan@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+According to Stephanie Stepanek, the curator of “Goya: Order and Disorder,” a new exhibit that opened Oct. 12 at the Museum of Fine Arts, the best way to understand the 18th-century Spanish painter is to “confront him head-on, looking closely as he turns to different media to impart singular meaning.” This suggestion captures the premise of the exhibit, which encourages its viewers to not only admire the classic historical portraits that made Goya famous but also to dive into the perplexing intricacies of his less publicized works, which demonstrate the remarkable elasticity of his artistic consciousness. Employed as a court painter by four successive Spanish monarchs and beloved for his flattering paintings of aristocrats and intellectuals, Goya was also gifted with a perceptive eye for human nature and the sociopolitical changes of his country, as suggested by his sometimes mordant lithographs, prints, and etchings.
+This astounding diversity of subject matter is well represented in the 170 works showcased by the exhibition. Perhaps most complementary to Goya’s style, though, is Stepanek’s decision to create a thematic rather than chronological arrangement of his pieces. Walking through such varied sections as “Court Portraits,” “Couples,” and “Witchcraft,” the viewer is given the chance to delve into the artist’s thorough treatment of each topic and detect the insightful and at times grotesque commentaries present in even his most miniature works.
+Many of Goya’s most intriguing portrayals of the human condition occur in the “Life Studies” section of the exhibition. If given a cursory glance, these paintings seem to depict the ordinary daily lives of families; if probed in greater depth, however, they reveal satirical, even sinister undercurrents. “A Good Woman, Apparently,” an ink wash on laid paper, features a well-coiffed woman cradling a sleeping toddler. A closer look at her face however reveals abnormally large, wandering eyes and a malicious smile that imply her attention may be less in virtuous, domestic duties than what her purported “goodness” may suggest. Is it witchcraft? Adultery? The piece’s ambiguity is undoubtedly part of its chilling allure.
+Other exhibit sections, such as “Bullfighting” and “Hunting,” exemplify Goya’s use of popular leisure activities to analyze human relationships and experiences, a strategy that makes his subliminal commentaries comical and visually engaging. In the etching “All Will Fall,” Goya used falconry to depict romantic entrapment. Flocks of dandy falcon-men in top hats fall to the ground as victims of a seductive female decoy. Predatory women await below to pluck and disembowel their quarry. Though he mocks the love-struck youth of his society, Goya is careful to show that such tragic ends are not unique to the fanciful fops of his cartoons: the artist himself appears in the top left, still flying high but with an eye inexorably geared toward the tantalizing bait.
+The “Balancing Acts” section of the exhibition showcases Goya’s equally perceptive treatment of Spain’s political situations. “May the Rope Break” for instance, features a priest with a dignified, patrician demeanor balancing somewhat unsuccessfully on a rope above a crowd of sneering plebeians. The etching captures the precarious position of the Spanish Catholic Church following the Peninsular War (1807-1814), which would greatly decrease the influence of the clergy. In this way, “May the Rope Break” not only recorded Goya’s political context, but it also correctly divined the future of Spain: the contrast between the clergyman’s fragility and the grotesqueness of the populace allows the viewer to anticipate the impending chaos following the clergyman’s inevitable fall.
+Besides artfully revealing the innermost facets of Goya that underlie his courtly painter’s identity, the unique thematic design of “Order and Disorder” makes for an inclusive viewing experience that caters to all styles of museum-goers. Choosing from such an eclectic collection of themes, from “Dreams” to “Lunacy” to “Aging,” viewers are free to dive into the topics of their choice in order to discover—and ultimately choose for themselves—the most compelling reflections of Goya’s genius.
+
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The role and power of the haiku as a form of poetry has been the subject of significant debate since its introduction to the West. On Oct. 16, Native American poet and academic Gerald Vizenor added another voice to the discussion. Speaking at the Radclife Institute for Advanced Study, Vizenor read from “Fear of Crows: New and Collected Haiku,” his latest book of poetry, and spoke about the connection between poetry and preserving Native American culture.
+As an Anishinaabe writer and a member of the Minnesota Chippewa Tribe, Vizenor focuses his work on interpreting and studying indigenous culture. Vizenor attempts to link his haikus to native Anishinaabe dream songs from the Chippewa of Minnesota and the Great Lakes, while also trying to capture the natural presence and motion felt in Native American artwork.
+Vizenor’s work in poetry began decades ago, when he worked at a Minnesota reformatory. He paid inmates to print and bind his first collection of haikus, “Poems Born in the Wind.” Since then, he has become a prolific writer, authoring more than 30 books. “Fear of Crows,” his latest book of poetry, is a collection of previously unpublished poems from the past 40 years.
+The purpose of Vizenor’s current writing is to translate the native culture he experienced as a young man into literary form. “What I remembered were dream songs, stories, but not in literary form,” Vizenor said. For Vizenor, Anishinaabe dream songs are distinguished by their sense of motion and natural reason. The form of the haiku seemed like a perfect medium for Vizenor to mirror the dream songs, because of its brief, fleeting nature. “There is a sense of motion and a concise, immediate image in haikus and Anishinaabe dream songs,” Vizenor said.
+This “sense of motion” is a concept Vizenor focused on heavily throughout his discussion. Vizenor views this aesthetic as a defining trait of the native and ancient artwork he studied prior to writing poems. “I just looked at the art, and what came out was motion,” Vizenor said. According to Vizenor, this same concept of motion persists across different cultures: “Even the earliest cave paintings in France and Spain had natural motion.”
+One distinct trait of Native American songs and artwork is its connection to nature and its understanding of the natural presence—something Vizenor tries to articulate in his poetry. “I use not casual phrases but imagistic phrases that create a rhythm of natural presence…. There is nothing fixed in nature,” he said. But Vizenor was quick to add that creating a sense of motion in haikus is no easy task. “It’s so difficult to write in motion and get rid of the past tense, and also to create a sense of impermanence.”
+The end result: a series of carefully crafted, delicate haikus that reflect the transience and movement of nature. Vizenor concluded his talk by reading a few of his poems about waterfalls and seasons. For example, one reads: “mounds of foam /  beneath the waterfall / floating silently.” In a decades-long study of the haiku, Vizenor has adapted the presence and ambience of nature to convey the ancient artistic traditions of his Native American origins.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Athina Rachel Tsangari is a 2014-2015 visiting faculty member in Harvard’s Visual and Environmental Studies Department. A world-renowned producer and director from Greece, Tsangari is known for short films such as “Fit” (1994), “The Capsule” (2012), and “Twenty Frames Per Century” (2013), as well as the feature films “The Slow Business of Going” (2001) and “Attenberg” (2010). Her collaboration with Yorgos Lanthimos on “Dogtooth” (2009) won Prix Un Certain Regard at the 2009 Cannes Film Festival. Her films deal with universal questions of identity, impermanence, and self-perception in a manner that is often comical but always realist.
+The Harvard Crimson: Your first short film, “Fit,” follows protagonist Lizzie through her day and narrates her actions in the style of an animal documentary. “Attenberg” also touches upon this: we see Marina and Spyros watching an Attenborough documentary and then spending a long time carousing on the bed acting like gorillas. There’s an interesting quality of movement and observation there. What was the inspiration behind that?
+Athina Tsangari: I come from a background which is theater and the study of Greek tragedy and performance studies, [so] the way the body occupies spaces and frames—especially film frames—really fascinates me, [and] it has fascinated me since I was very little. I am more interested in approaching my characters as biological entities rather than psychological [ones]…. [Filmmakers] are given the opportunity to really fathom the human face and the human body and human behavior because everything is so big on the screen, you know. Cinema was created as this marvel apparatus [for] recording and observing life. I think the combination of substantiated observation, the use of humor, and working with biology rather than psychology are my tools. My mise-en-scene.
+I love the idea of approaching humans from different sides and looking at behaviors and stories from the side rather than from head on. Sort of trying to explain and chew everything—humans are much more open and hungry and curious than we give them credit for.
+THC: Your films predominantly feature women and women's bodies—for example, the animalism of “The Capsule,” or Petra’s dominant character in “The Slow Business of Going.” Why?
+AT: I think the easy answer is because I’m a woman, and I understand and admire my gender.
+THC: I feel that in so many cases the women are portrayed as very fragile and secondary characters. In “The Slow Business of Going,” Petra is not—she’s the protagonist. And we see her with so many different men—the man who’s screaming at her to wake up, the man who’s running out of the elevator—[but] she is always in control.
+AT: The way we set it up was to have each episode, each city, fit a certain genre—for example, film noir, slapstick comedy, romantic comedy—and twist it. It was nice to approach a genre where [the scene] starts with a convention of the genre. So, for instance, the hit man: he’s on a job in a hotel and takes a girl upstairs to sleep with her. And then she completely puts his job in disarray. So her being this kind of objectified muse—she completely throws the table around. And it becomes a very sort of ridiculous situation.
+THC: How have you seen your style or aesthetic develop over the years?
+AT: I never adhere to a specific aesthetic. In the end, I think you always end up making the same movie, because if there is something that you think that you’re here in this world to express, and if you don’t express it, you’re gonna implode. We all have our obsessions and our fetishes. And sometimes [if you have] a clear vision, you can open a little door. It’s not always crystal clear, but the process of [making films] can bring you to maturity and clarity.
+THC: In the past you've discussed the sense of expectation that people have of a female director and her films. What has your journey as a female director been like?
+AT: I always dread answering this question because it’s a can of worms and a pit of snakes. So depending as what you’re going to say, you’re gonna be either categorized as a feminist or a chick-flick director, or a renegade, un-female director who wants to make male movies. You can’t win. It hasn’t really preoccupied me very much. I’m doing my thing and I think my films are both for women and men. They have both men and women. As a woman of course I think I have this privilege and advantage of understanding my own. But I’m also working very actively as a producer—I teach, I’m a programmer. I like to do all of this in very different ways. And apart from the fact that I come from a country that when I was growing up it was very difficult for a girl growing up to become a film director. I started very late and I studied philosophy, literature, drama. It wasn’t until I was 19 or 20 that I thought, “Wow, I can be a [film director].”
+THC: What do you hope people will take from your films?
+AT: (laughs) That’s for you to say. I don’t hope for anything. I just make them without any expectations. Just fear and trepidation. I have trepidation, yes, but not any expectations. I don’t want to know, you know? It’s better to do it for yourself. But usually you’ll have two or three people as your ideal or necessary audience in your head. I always have a few people that I secretly dedicate each film to…. These are people I know, but also people I don’t know—people who are like my heroes.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In the last year, Stanford University, the Rockefeller Brothers Fund, the British Medical Association, the World Council of Churches, the Australian National University, and the University of Glasgow have all adopted some form of fossil fuel divestment, along with other cities, universities, and churches around the world.
+In contrast, the recent strategy of the Harvard Corporation has been to avoid debate on divestment by marginalizing students who support it. The Corporation’s avoidance of debate has allowed it to take absolutist, illogical, and unsubstantiated positions on divestment. Not only is the Corporation’s strategy intellectually weak, but it also does not serve the Harvard community well. And in the long run, it is unlikely to succeed.
+The Corporation’s marginalization of students supporting divestment began last spring. In March, President Faust wrote a letter to students who were making the case for divestment, saying, “We have more to do to create a culture of sustainability, and I am committed to building on the strong progress that we—as one Harvard community—have made. I hope you will join this effort.” President Faust’s use of the word “join” suggests that the work of students supporting divestment lies outside the efforts of the “one Harvard community.”
+The President’s portrayal of divestment supporters as an out-group is not accurate. Student referenda in favor of divestment have been passed in both the College and the Law School, with 72 percent and 67 percent support, respectively. Divestment supporters have worked to raise awareness about climate change on and off campus since the campaign began, and many divestment supporters also contribute to sustainability efforts at Harvard and globally through their other work. In addition to being inaccurate, the President’s portrayal of divestment supporters as an out-group at Harvard does not offer or address any substantive arguments about divestment itself.
+Throughout 2013, I and other students met with members of the Corporation to discuss divestment. But the meetings were unproductive, and it was impossible to hold anyone accountable for that lack of productivity due to their private nature. When students called for a public meeting with the Corporation in the spring of 2014, President Faust refused to take part and dismissed the student group as wanting “a chance to draw attention to itself rather than a discourse and an interchange on substantive issues.” The Corporation avoided debate by ascribing false motives to students supporting divestment.
+The Corporation’s unwillingness to engage in public, fact-based debate on divestment allows it to make weak arguments without accountability. When New York Times columnist Nicholas D. Kristof ’81 asked President Faust about divestment in September, for example, she implied that divesting from fossil fuels could jeopardize Harvard’s non-profit status. Not only does it make little sense that Harvard’s non-profit status would require it to maximize profit with no other considerations, but other non-profit institutions are currently divesting. In its most recent letter to the Harvard Faculty for Divestment, the Corporation argues that divesting from fossil fuel companies will hurt Harvard’s ability to collaborate with them on research and development projects. The argument that research support from companies is dependent on investment in those companies by Harvard implies a University-wide conflict of interest, and the Corporation provides no evidence that companies would break their ties with Harvard researchers should the University divest.
+The Corporation’s avoidance of debate is intellectually weak and unethical. Students have a mandate to address Harvard’s continued investments in fossil fuels, because continued dependence on fossil fuels is a systemic threat to student futures. In avoiding debate on divestment, the Corporation is making a choice that serves the short-term interests of its members rather the long-term interests of students at the school it represents.
+The Corporation’s avoidance of debate does not portray or serve the Harvard community well. The Harvard community prides itself on a dedication to truth, veritas, and yet the Corporation appears afraid to debate a topic that other institutions are not only discussing, but also acting upon. In a debate to understand the truth, no one can predict where the chips will fall—but they will fall where they should. That faith is what a belief in veritas means.
+And the Corporation’s avoidance of debate is not likely to succeed in the long run. Divestment already has majority support among students at Harvard and other universities. Student and public education on and awareness of climate change will continue to grow, climate change’s impacts on people will continue to worsen, and investments in fossil fuel exploration and extraction will continue to be increasingly difficult to defend. Other institutions recognize this, and each of their decisions to divest from fossil fuels further undermines the idea that divestment at Harvard is unreasonable or impossible.
+Clinging to fossil fuel investments, especially on the basis of specious or self-interested arguments, will not be judged kindly by history. In the meantime, the Harvard Corporation should engage in debate and make its arguments with evidence rather than avoiding debate by marginalizing those who support divestment.
+Benjamin Franta is a Ph.D. candidate in applied physics at the Harvard School of Engineering and Applied Sciences. He is a member of Divest Harvard.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In his column “Searching for Excellence” on October 9, James Piltch ’17 makes the claim that standardized testing is an insufficient basis for admissions, as advocated for by Harvard Professor Stephen Pinker in his New Republic article, “The Trouble with Harvard.” The argument against standardized testing is well-worn: that standardized testing in no way shows intelligence, by way of citing Howard Gardner’s Multiple Intelligences theory, and explicating the moral values that one learns through high school activities like sports.
+However, the values of true excellence that Piltch espouses are values that are either immeasurable or irrelevant, when increased focus on standardized testing would bring clarity to both applicants and admissions offices.
+It’s clear that Pinker, Piltch, the Harvard admissions office, and I all agree that we would like to attend a Harvard where the students exhibit genuine intellectual curiosity and can fully take advantage of all the world-class resources that Harvard has to offer. However, the best way to foster intellectualism and the desire to learn is not to select based on traits like the “ability to learn from a bad grade” and the ability to communicate despite differing opinions.
+Piltch’s definition of excellence, furthermore, include the ability of an athlete to jump high, the ability of a student to persist through a 3.5 hour problem set, and the ability of a student to think carefully and intelligently about questions posed in class. I entirely agree—however, I also think that this definition of excellence is irrelevant to the admissions process. The first example doesn’t pertain to the use of intellectual resources at Harvard. The second and third examples are exactly the skills need for a student to do well on a standardized test.
+The current admissions process, in Stephen Pinker’s words, is a “murky bottleneck” that selects some “at most 10 percent” of its students based on academic merit. From the admissions pool of hundreds of thousands, the measurement of who demonstrated the most genuine passion for social good or who is most likely to exhibit persistence simply cannot be determined accurately, despite our most valiant efforts. Instead, what the current admissions culture has spawned is a flurry of attempts to join extracurricular activities that look good to admissions officers, instead of allowing people the time to pursue things they’re truly passionate about.
+What standardized testing would bring is clarity. The SAT measures math, reading, and writing skills—all of which can be cultivated through a mixture of hard work and excellence. There’s no denying that the SAT still unfortunately favors people from higher income socioeconomic backgrounds, with better quality education and less adverse factors in the home. But that’s an issue for continued work and reform. At the very minimum, standardized testing evens the overt playing field: the kid from the poorest neighborhood knows what score he has to get to succeed. A majority focus on standardized testing would make the process clear for both applicants and admissions offices. There’s no possibility for covert injustices.
+As Pinker alluded to, holistic admissions began as a mechanism to practice covert anti-Semitism, using vague standards like “character” and “vigor” to root out Jewish applicants. Today, Asian-Americans from low-income neighborhoods, many of whom see education as the pipeline to a better life, are discriminated against in the admissions process because of implicit racial quotas, as demonstrated by sociologists Alexandria W. Radford and Thomas J. Espenshade, who showed that white students were three times more likely to be admitted to elite colleges than Asian students with the same academic record. An increased focus on standardized testing would shift Harvard towards the meritocracy that it claims to be.
+Granted, I would expand on Pinker’s system of admissions solely based on standardized testing to allow for socioeconomic differences as well as learning differences that must be taken into account. However, for the vast majority of us, there’s no reason “excellence”—or admissions—should still be a value judgment.
+Eva Shang ’17, a Crimson editorial writer, is an economics concentrator in Eliot House. 
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+This month’s revelations that Boston city authorities would indefinitely close the Long Island Bridge are frustrating and disturbing. The bridge was closed in part because of a dispute between the cities of Boston and Quincy—the island, part of Boston, is connected to the mainland through a bridge whose other terminus is in Quincy. As winter approaches, it is unacceptable that municipal turf wars should endanger Boston’s most vulnerable.
+Before the bridge’s closing, 460 homeless Bostonians spent their nights in the Long Island homeless shelter, and many other at-risk city residents are on the island during the day at substance-abuse and transitional housing centers. (The island has no permanent inhabitants and is not open to the public; the city buses shuttle residents onto the island in the evening and back to the city in the morning.)
+The Long Island Bridge, built in 1951, has been riddled for decades with structural problems. Recent estimates centered on the figure of $80 million needed to fix the nearly 3,500-foot span. Yet Boston Mayor Martin J. Walsh, like his predecessor, has promised to fix the bridge, no matter the cost. “That’s the only location in the city of Boston that works,” the former mayor said, suggesting that he does not envision new shelters on Long Island’s scale anywhere else in the near future.
+Reports that city authorities had closed the bridge and evacuated people from the island before construction began therefore came as a surprise, especially to shelter volunteers. The Mayor’s office cited structural problems with the bridge, and it is now unclear how the city plans to proceed.
+What is clear beyond doubt is the bureaucratic tug-of-war behind the bridge story. According to the Boston Globe, "The bridge has long been a source of contention among Boston, Quincy, and the state. The bridge can be reached only through Quincy, but is owned and controlled by the City of Boston, which operates a guardhouse at the entrance.”
+Past and present Quincy local leaders have opposed fixing the bridge, calling for the city to demolish it and replace it with ferry service, which they argue would be cheaper. The recent freezing of construction on the bridge, over which the buses need to travel to reach the island, therefore appears to represent a stalemate in the war between Quincy and Boston authorities over control of access to the island.
+The closure of the Long Island Bridge is particularly worrying because of its timing. Winter is coming, and meteorologists predict a return of last winter’s vicious “polar vortex,” when temperatures fell below zero for days at a time. City and local shelters, including the Harvard Square Homeless Shelter, have struggled to keep up, often finding they do not have enough beds on colder nights. The city and Commonwealth’s response to shelter overflow has been woefully inadequate. A report last December in the Boston Globe describes the Commonwealth’s policies found that rather than building new and larger shelters, authorities have settled on short-term fixes, shunting families without secure housing to motels. Yet motels are businesses, not aid organizations, and they are poorly equipped to offer other necessary services to the homeless.
+The only long-term fix is to guarantee that Boston area shelters themselves have enough beds to house everyone who needs accommodation on the coldest nights, even if Mayor Walsh would prefer to keep these people on Long Island, at arm’s length from the city. In the nearer term, the city must do more to prepare other locations where the homeless can take refuge from the cold.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: October 21, 2014, at 1:11 a.m.
+Two weekends ago, I got to watch “Dear White People” at I, Too, Am Harvard’s Blacktivism conference. This satirical film, set on a fictional but familiar-looking institution named Winchester University, takes an overwhelming and all too real look at racism on college campuses.
+All attendees of prestigious institutions like Harvard and the fictional Winchester University undoubtedly reap the privilege of a top-notch education. However, students of color at these institutions still confront the type of discrimination that some might believe to exist only in the cruel Real World. A.O.  Scott of the New York Times writes, “This is in part a movie…about how deeply white supremacy is still embedded in institutions that congratulate themselves on their diversity and tolerance. It is, in other words, about how the distance from a place like Winchester to a place like Ferguson, Mo., is not as great as some of us might wish or suppose.”
+Race relations at Harvard are not as bad as they get at Winchester–people here don’t host Blackface parties, our administration responded to I, Too, Am Harvard with a promising working group on diversity and inclusion, and conversations I’ve had with fellow students about race have been overwhelmingly positive and affirming. But sometimes Scott is right. Similarities between Harvard and the Real World reveal themselves to me in jarring and disheartening flickers.
+My personal awareness of race came into focus during the college admissions process. I am biracial. If we’re talking percentages, I’m three-quarters white and one-quarter black. My whiteness meant that, before college, I felt that race was an important but not necessarily personal topic.
+Race was relevant when I learned about slavery and Jim Crowe. I cared when those “Birthers” questioned my President’s U.S. citizenship. Within my family, we talked about race as it related to American politics or what happened in the news, but we rarely talked about it as it related to us as individuals. In our family’s biracial bubble, race hadn’t mattered. So I implicitly assumed that it wouldn’t really matter for me when I left home for Harvard.
+Race’s newfound relevance to my life started with an offhand comment from one of my close high school friends: “Jenny, you’re so lucky you get to say you’re part Black on your college applications.” And it continued during the fall of my freshman year, when people I met began to automatically identify me as “black,” or “mixed,” or “white-looking,” or any combination of things without consulting me. Then, Sarah Siskind published her infamous article on affirmative action and seriously asked, “How would you feel if you were assured before going into surgery that your surgeon was the beneficiary of affirmative action in medical school?” This one brought me back to my high school friend’s comment.
+One night last year, I cried the whole walk home from a party, after I excused myself abruptly from a conversation with two non-Harvard students and heard one of them say, “Hold up, don’t pull the trigger fast and walk away. This isn’t Trayvon Martin or something.”
+My brilliant friend had to deal with some dude asking her “Can you read?” as she walked across Harvard Yard one night.
+The Whiteness Project, a PBS Documentary that part of me still cannot believe is real, aims to interview 1,000 white Americans about race. In one of the 24 interviews released so far, a man talks about how he “[doesn’t] buy into the whole nonsense about discrimination.” The saddest part about watching this interview wasn’t that this man didn’t think discrimination was a thing–it was that I have heard people here at Harvard come dangerously close to his reasoning, insisting certain problems would just go away if we could all just be less sensitive.
+Race is complicated. My light skin affords me an arbitrary but undeniable privilege- micro-aggression is not particularly pervasive in my life. But Harvard was the place where I first became aware of how much some identity-based comments can hurt. It was also the place where I learned to celebrate my black identity.
+I, Too, Am Harvard was beautiful. It brought the conversation about being black in a white place back where it belonged–led by voices that are typically silenced. It empowered students of color to mutually affirm their value on this campus, and it inspired students across the country and world to do the same.
+However, some students here don’t feel comfortable talking about race. Maybe it’s because they don’t feel they have the right vocabulary. Or maybe it’s because they genuinely don’t see the extent to which discrimination remains a problem.
+So watch “Dear White People.” The film is far from perfect, but it performs the difficult and important job of forcing its viewers to think about those touchy things that might make them angry, or uncomfortable, or confused. And those feelings are certainly a start.
+Jennifer A. Gathright ’16, a Crimson editorial writer, is an economics concentrator in Lowell House. Her column appears on alternate Tuesdays.
+CORRECTION: October 21, 2014
+An earlier version of this article incorrectly stated that the title was "Dear White People, Watch 'Dear White People.'" In fact, the title of this article is "Realizing Race."
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Last weekend’s Head of the Charles Regatta brought throngs of visitors and the usual bump in sales for Harvard Square businesses.
+Square establishments—from hotels to clothing stores—benefited from the traffic of the thousands of tourists that descended on Cambridge for the two days of racing. Though this year marked the fiftieth anniversary of the regatta, businesses reported figures consistent with those of past years.
+The Andover Shop drew athletes and others interested in the rowing blazers made by the Harvard Square clothing store, according to salesman Larry Mahoney.
+“A lot of people who are regular customers who don’t live in the area generally come over the Head of the Charles weekend and stop by and make purchases,” Mahoney said. “We make rowing jackets for a number of teams including Harvard and a number of local prep schools and other universities in the area and we had some inquiries from schools and clubs about making jackets for them in the future.”
+Harvard Student Agencies President Ryley R. Reynolds '15 wrote in an email that The Harvard Shop also saw an increase in sales.
+“Thanks to the increased traffic in the Square for [the Head of the Charles], The Harvard Shop had a great two days of sales which were consistent with past years,” Reynolds wrote.
+For many hotels, the weekend consistently marks one of the busiest of the year.
+Harvard Square Hotel front desk agent Maher Mahmood said the hotel was fully booked all weekend.
+“It’s not the busiest weekend we have, but [in the] top three I would say,” Mahmood said.
+Recognizing the volume of visitors that typically flock to Cambridge for the regatta, some hotels raised the rate of their rooms for the weekend. The Irving House, a small bed and breakfast in Cambridge, which according to front desk agent Andrew French was completely full over the weekend, raised its prices by about $100.
+“We absolutely do [raise prices] because we’re on the smaller scale of hotels, so we try to see what the larger scale hotels in Cambridge do,” French said.
+Though businesses also cited Christmas and Commencement as high-traffic sales periods, the Head of the Charles remained an important weekend for local restaurants, like Charlie’s Kitchen.
+“We were exceptionally busy during lunch hours,” said Evan Kennedy, a manager at Charlie’s. “We have a few certain events and the Regatta is definitely one of the busiest ones.”
+—Staff writer Ivan B. K. Levingston can be reached at Ivan.Levingston@thecrimson.com. Follow him on Twitter @IvanLevingston.
+—Staff writer Celeste M. Mendoza can be reached at Celeste.Mendoza@thecrimson.com. Follow her on Twitter @CelesteMMendoza.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: October 21, 2014, at 5:10 p.m.
+For Physics professor, mother of three, and ultrarunner Jenny Hoffman ’99, “time is [her] most limited resource.” Maybe that’s why she chooses to make the most of every day; just last month she not only participated in but also won a 24-hour endurance run, clocking in at 127 miles by the event’s conclusion.
+Although Hoffman celebrated the personal victory that came with this win, she was even more thrilled to raise more than $11,000 for the Special Olympics, based on donations from the Harvard Physics department and physics communities worldwide.
+“I’m so blessed and I’ve benefitted so much from having fun athletic events to work towards,” Hoffman said. ”I applaud the Special Olympics for providing the same opportunity for people who don’t have all of the same advantages in life.”
+Hoffman, a microscopy specialist, is no stranger to long runs, but she has not always been an ultra marathoner. In fact, she remembers a time before she was aware a “human being could run that far,” she said. After learning about 100-mile races from a high school field hockey coach, her interest was piqued, and over the past ten years, she has committed herself to training and participating in long distance races.
+”I’m not a fast runner by any means,” Hoffman said. “I have to do distance because I’m competitive and like to win, so I have to do something where it only matters how hard you try not how talented you are.”
+The 24-Hour Endurance Run, the race Hoffman won last month in Cleveland, certainly fits her criteria for long distance. Participants compete to run the longest distance in a one-day period, often posting final scores of over 100 miles in the allotted time.
+“If there’s anything that can come out of this, I hope it’s inspiring more people to donate time and money to the Special Olympics because it’s a cause I really believe in,” Hoffman said.
+Hoffman’s ambitions did not stop at simply winning, however, as she set herself the goal of qualifying for the United States National Team. In 2006, Hoffman realized this dream, joining the national team only to discover that she had been pregnant with her first child throughout the qualifying process.
+After forfeiting her spot, Hoffman vowed to return to the sport and entered this year’s race with the sole goal of making the six-person female squad. Although she earned first place in the Endurance Run, her distance puts her at 7th rank nationally. She is considering additional competitions before the 2015 World Championship roster is cemented.
+“I think of life as something you start with an empty bag, and you have an opportunity to fill your bag with experiences,” Hoffman said. “This was an experience that I wanted to have in my bag when I look back on my life.”
+—Staff writer Jessica A. Barzilay can be reached at jessica.barzilay@thecrimson.com. Follow her on Twitter@jessicabarzilay.
+This article has been revised to reflect the following correction:
+CORRECTION: October 21, 2014
+An earlier version of this article incorrectly stated the amount of money Physics professor Jenny Hoffman ’99 raised for the Special Olympics through her endurance run. In fact, she raised more than $11,000. The article also incorrectly stated Hoffman's endurance running rank. In fact, she is ranked 7th nationally.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A new variation of gene therapy raises hopes for a safe and effective long-term treatment for X-linked severe combined immunodeficiency syndrome (SCID-X1), a life-threatening heritable disorder.
+The research was produced by a collaborative research team from Dana-Farber/Boston Children's Cancer and Blood Disorders Center, along with other institutions participating in an international clinical trial that involved boys from the United States and France.
+SCID-X1, dubbed “bubble boy disease” after a patient who lived for 12 years in a sterile bubble, is a rare genetic disorder that hinders the ability of individuals to combat infections. Because the disease is carried in an X-chromosome recessive pattern, the disorder occurs almost only in males. The resulting mutations inactivate a gene called IL-2 receptor gamma (IL2RG), severely weakening immune system functions. Left untreated, individuals who inherit the disorder usually die within a year.
+Previous gene therapy trials conducted in Europe over a decade ago promised dramatic progress, until a quarter of patients developed leukemia about two to five years following treatment. Scientists found that the previously used vector—the device for transporting the correct gene in therapy—inadvertently activated oncogenes, which can cause cancer.
+In this new study, the vector in use is a self-inactivating gammaretrovirus, which has a “specific sequence deleted that basic research had implicated in the process of inappropriate activation of oncogenes,” David A. Williams, chief of the hematology/oncology department at Boston Children's Hospital, wrote in an email.
+Of the nine patients who underwent the treatment, eight had survived between 12 and 38 months after treatment. One boy died from a severe infection he was fighting at the time he enrolled in the study.
+A single round of therapy restored normal disease-fighting T cell count—300 cells or more per microliter of blood—in six of the eight patients. One patient underwent a second round of treatment and remains healthy despite a low cell count. The eighth patient received a hematopoietic stem cell transplant after the therapy led to “less than optimal uptake of the virus” and failed to stimulate T-cell production, according to Williams.
+“We feel the ‘surrogate’ assays for safety look excellent and are very encouraged,” Williams said. “However, because leukemia can take years to develop (and although some of our patients are now approaching 4 years of [follow-up]) we must be cautious and continue to follow these children closely.”
+Williams noted that the research was the result of positive collaboration between institutions.
+“Work by Sung-Yun Pai and Gigi Notarangelo, funding from [Boston Children’s Hospital] (and other children’s hospitals) and [the National Institute of Health] were essential for success,” he said. “This is the first international collaborative trial in stem cell gene therapy, which was critical for success due [to the] rarity of [this] disease.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The newly-formed Office for Sexual and Gender-Based Dispute Resolution, highlighted as one of the cornerstones of the University’s new sexual assault policy, will play no role in investigating cases of sexual misconduct by members of the Faculty of Arts and Sciences, according to University leaders.
+Complaints alleging sexual misconduct committed by professors and staff members within FAS are instead still being investigated and adjudicated by the Office for Faculty Affairs, an internal FAS body—at least for the time being.
+Several individuals who work closely with University and FAS policies said that the faculty and staff procedures have not been moved under the jurisdiction of the ODR because the University has decided to prioritize resolving issues with student procedures.
+“We want to make sure that [the ODR] is being dedicated to the problems that are first,” FAS Dean Michael D. Smith said in an interview earlier this month.
+University Title IX Officer Mia Karvonides added that addressing the procedure for students is the University's primary concern. She said that faculty and staff cases have not yet moved to the ODR because “we’re just not able to do everything at the same time.”
+FAS Dean for Faculty Affairs and Planning Nina Zipser, who heads to the OFA, did not return numerous phone calls and requests for comment on the subject.
+Both Smith and Karvonides indicated the faculty procedure might eventually be moved under the ODR’s purview.
+“Where these processes go in the long run is...up to the discussion that comes out of the faculty, staff, and student discussions through the committee that Alison Johnson is leading,” Smith said.
+History Professor Alison Frank Johnson leads the Committee on Sexual Misconduct Policy and Procedures, which is in the early stages of revising FAS's interim policies and procedures. The committee has hosted several open meetings this semester with various members of the FAS community to solicit feedback.
+The committee will ultimately recommend revisions to Smith for review by the end of the term, Johnson said.
+Johnson said that although faculty cases of sexual assault will continue to be investigated and adjudicated by the OFA, procedures have still changed somewhat under the new University-wide policy.
+Even though dealt with by a different procedural body, faculty and staff members will be held to the same standards of conduct, as outlined in the new University policy.
+“The OFA now handles [faculty] cases...in the same way that ODR handles student cases,” Johnson said. “It’s supposed to be the same process.”
+That process mandates that verdicts are reached through a test of the “preponderance of the evidence,” meaning that adjudicators believe that the alleged incident more likely happened than did not.
+In addition, the timeline for investigations has been truncated from its previous 120-day window to about 60 days, Johnson said.
+Students alleging sexual misconduct on the part of FAS faculty or staff members may still file their complaints—formal or informal—with the ODR. In turn, the ODR will refer the case to the OFA.
+—Staff writer Dev A. Patel can be reached at dev.patel@thecrimson.com. Follow him on Twitter @dev_a_patel.
+—Staff writer Steven R. Watros can be reached at steven.watros@thecrimson.com. Follow him on Twitter @SteveWatros.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Undergraduates involved in the arts on campus expressed excitement on Monday at news that the University plans to create a new concentration in ‘Theater, Dance, and Media,' even as many details about the proposed concentration remained unknown.
+Specifically, students said that they are eager to see how the college will bring performing arts to the classroom and build out a curriculum.
+Magdalene M. Zier ’16 noted how happy the announcement has made her castmates and friends in the theater community.
+“We have a ‘Little Murders’ GroupMe, and all day it’s been blowing up with ‘Yay! A theater concentration!’ So there’s definitely been a positive response overall,” she said.
+“I think there are a lot of people coming into college wanting to do creative arts 24/7, and even though there are tremendous opportunities at Harvard, I think that being able to focus on it completely academically as well gives people the chance to really fully engross themselves,” Zier added.
+Although many students have explored theater and dance through extracurricular activities, some said that they hope the concentration will give the field more credibility and will create more arts-related programs on campus.
+“It’s a very academic thing, theater is,” Garrett C. Allen ’16 said, emphasizing the limited number of arts-related courses currently available and the opportunities for foundational work this concentration would offer.
+Classes focusing on history, techniques, and design, as well as the future of the arts with respect to media, will help interested students follow a more structured path like pre-med or pre-law students, Allen said.
+“There’s a tendency to push away from the arts because people don’t think it’s legitimate or using what you came here for,” he said. “People don’t understand my path and my passion, and I think that bringing more arts to campus—in not just an extracurricular way—will allow people outside of theater to understand what theater is.”
+Mark J. Mauriello ’15, who is active in the campus theater community, said that the new department will emphasize the value of theater as a curricular pursuit rather than as merely an elective.
+“While I certainly think there’s so much to gain from that [extracurricular experience]...I think it’s important to consider [the arts] with as much value as you would consider medicine or another field that’s more traditionally thought of in terms of education,” Mauriello said.
+In addition to feeling excited about the proposed concentration, students interviewed on Monday had questions regarding how it will take shape. David A. Sheynberg ’16, for example, wondered how faculty will build curricula, how visiting artists will be incorporated, and how the college will repurpose classes from Visual and Environmental Studies, English, and other departments with similar requirements.
+“I hope that it will just bring everyone closer together and give people more opportunities to get to know the amazing, amazing staff that are here—staff and students alike,” Sheynberg said.
+The concentration, which if approved would begin enrolling undergraduates in fall 2015, is the product of a $5 million seed fund from University President Drew G. Faust.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A person’s coffee-drinking behavior may be partially explained by genetics, according to research conducted by an international team of scientists led by Marilyn Cornelis, a research associate in the nutrition department at the Harvard School of Public Health.
+The research indicates that eight genes in the human body may be related to coffee consumption, either directly or indirectly. While two genes had been previously identified in a study by Cornelis, six other genes have shed new light on how coffee works in the body.
+Four of the eight genes are directly related to caffeine metabolism, or how fast one’s body gets rid of the caffeine; two others are related to neurotransmitters, which are connected to human behavior; and the last two are not related to caffeine directly but rather metabolic function, associated with glucose levels in the blood.
+“[The two genes connected to neurotransmitters] could be related to why some people like [coffee],” said Daniel I. Chasman, a professor of medicine at Harvard Medical School and co-author of the research.
+Yet it was the two glucose-related genes, according to Chasman, that were “most surprising.” Glucose levels are associated with the risk of diabetes, which could help explain some of coffee’s health benefits.
+“It might be the connection between coffee drinking and protection from diabetes,” he said.
+The research was a genome-wide association study, meaning that scientists chose a large population sample of participants who have a range of coffee-drinking behaviors. They then tested each genetic variant and tried to identify the variants associated with each phenotypic trait—for example, whether people enjoy coffee or not.
+“The coffee data is by self-report,” Chasman said. “You sent [participants] the questionnaire and they told you how much coffee they drank. That’s how we measure it.” The study included responses from 120,000 people.
+The eight genes accounted for 1.3 percent of the variance in coffee-drinking behaviors, which is similar to results obtained when looking at genetic determinants of smoking and alcohol consumption. Cornelis said the number was probably underestimated due to error in the self-report data. Other factors, including the availability of coffee and the cultural influence in each country, can also contribute to the differences in behaviors, according to the researchers.
+“For myself, I don’t drink coffee. I don’t like the taste of it.” Cornelis said. However, she said that she is trying to develop the habit because of the health benefits of caffeine.
+According to Cornelis, this research specifically deals with coffee consumption behavior, which is distinct from her previous research that focused on caffeine consumption.
+Cornelis said the research had important implications. “We showed the fact that our genes really do play a role in modulating our coffee intake in order to achieve our optimal stimulant effect of caffeine,” she said.
+“The next question will be, are there other roles that these gene have? In most cases of the research, genes told us a little bit about outcome. But here we found out that perhaps the outcome could tell us a little bit about the genes,” she said.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: October 22, 2014, at 12:15 a.m.
+The recent discovery of natural gas reserves around Cyprus raises both hope and concern regarding relations among neighboring countries in the Middle East and Europe, according to panelists at a discussion on Thursday at the Center for European Studies.
+Three speakers presented their views on the question of whether the Cyprus reserves could be used for the benefit of all parties involved or if they will exacerbate existing tensions over contested resources.
+“The Mediterranean is one of the only areas in the world still producing most its electricity from oil,” said Brenda Shaffer, visiting professor at Georgetown University, in a slide accompanying her presentation. Shaffer is also a consultant to Azerbaijan's state oil company.
+Natural gas burns cleaner than oil and could, in turn, incur less damage on public health in these countries. Shaffer said the new energy opportunity raises expectations of cooperation among Middle Easterners, who all share an interest in the shift towards natural gas. Energy sources found around Cyprus and in other pockets of the Mediterranean could be put in pipelines to encourage trading between states.
+Another panelist discussed the political and economic goals associated with the creation of pipelines, referring to the example of a current pipeline project that would go from the Caspian Sea to the Mediterranean to bypass Russia.
+“The pressure to build a pipeline, to finally get it started–because this has been discussed for more than ten years–is enormous,” said Marina Ottaway, senior researcher at the Woodrow Wilson International Center. “If it existed, it would make it much more difficult for Russia to control Europe. There would be much greater autonomy.”
+The panelists cautioned against undue optimism, though.
+“We still don’t know how much gas there is,” Ottaway said, adding that the reserves may not contain very much gas. In addition, the costs of building pipelines are high, she said.
+Later, a panelist discussed Turkey’s demands for Cyprus to hand over the recently discovered gas, and other countries’ disapproval of these demands.
+“It has probably accelerated to some extent the realignments in the area,” said Sir Michael Leigh, senior advisor at the German Marshall Fund.
+“We’ve had cases where peace brought pipelines, but actually no precedent in the international system where pipelines for gas or oil brought peace,” Shaffer said. “In fact, literature teaches us the opposite.”
+The panel was the introductory event for a new study group at the CES focused on the geopolitics of energy in the Mediterranean and European energy policy.
+“I think one of the things we learned from the discussion of Cyprus and natural gas was that oftentimes, cases that we don’t necessarily know a lot about can shed a broader light into regional dynamics and global dynamics,” said Dr. Elizabeth Prodromou, one of the co-chairs of the study group and a moderator at the panel.
+An audience member said he appreciated the range of backgrounds among the panelists.
+“I think there was a nice combination of academia and professional practitioners,” said Maximilian Barth, a visiting researcher from Europe at Tufts University’s Fletcher School of Law and Diplomacy.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Dozens of members of the Harvard community will not be swiping into dining halls this week as they participate in Divest Harvard’s week of fasting.
+The initiative, which lasts from Oct. 20 to Oct. 24, seeks to draw attention to Harvard’s continued investment of portions of its $36.4 billion endowment in fossil fuel companies and promote discussion about climate change.
+Around noon each day this week, Divest Harvard members have organized gatherings in the section of the Yard facing Massachusetts Hall. Events include talks from professors, politicians, and activists.
+“I am going to ask you to applaud the young people and the brave at heart who are fasting. They are doing this to emphasize that what we are facing is a planetary emergency,” History of Science lecturer Soha Bayoumi said to a crowd of about 20 people at the beginning of Monday’s demonstration.
+Bayoumi went on to talk about “planet-destroying industries” and the need for the University to divest so that “when change comes, Harvard will not be on the wrong side of history.”
+According to Chloe S. Maxmin ’15, one of Divest Harvard’s co-founders, about 160 individuals had signed up for the event via an online form by Monday afternoon. Students can choose to fast from one to three days, drinking only water for the period of the time during which they fast.
+Maxmin said that she does not encourage anyone to fast for more than three days and that Divest Harvard has reached out to the Eating Concerns Hotline and Outreach as well as University Health Services to ensure that participants fast safely.
+In addition to events outside of Mass. Hall, Divest Harvard members plan to hold dinners, during which students can end their fasts, in various dining halls throughout the week. Students who do not wish to fast can also sponsor a faster, expressing solidarity with demonstrators.
+Naima P. Drecker-Waxman ’18, a Divest member and participant in the fast, said that the week’s events provide students an opportunity to engage openly with the movement and put pressure on the University to divest.
+“I think it’s a great way to start the dialogue on campus for freshmen who hadn’t seen the blockade or discussion on campus,” Drecker-Waxman said, referring to Divest Harvard’s activism on campus last academic year.
+Ashford L. King ’15 and Axel K. Snow ’15, both members of student band The Cantab Cowboys, performed environmentally-themed songs during the kickoff event Monday.
+Previously, Divest Harvard has had contentious interactions with the University, including the arrest of Divest member Brett A. Roche ’15 during a blockade of Mass. Hall last May. Maxmin said that Divest does not plan to hold any events during the week that would lead to an arrest. Still, two Harvard University Police Department officers stood outside of Mass. Hall while the kickoff event took place.
+When asked about HUPD’s presence outside of Mass. Hall this week in light of the fast, spokesperson Steven. G. Catalano wrote in an email that HUPD cannot discuss security measures and staffing levels.
+University President Drew G. Faust has said repeatedly that the University will not divest, writing in Oct. 2013 that such a decision would be neither "warranted or wise." Faust has argued that divestment would improperly politicize the endowment and draw attention from University research efforts meant to address climate change.
+—Staff writer Theodore R. Delwiche can be reached at theodore.delwiche@thecrimson.com. Follow him on Twitter @trdelwic.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard scientists have developed a coating for medical devices that repels blood and bacteria, researchers announced last Sunday.
+The developers at the Wyss Institute for Biologically Inspired Engineering have received approval for their coating, the Tethered-Liquid-Perfluorocarbon, from the Food and Drug Administration.
+According to Professor Donald E. Ingber, Founding Director of Harvard’s Wyss Institute and senior author of the study, the ability of TLP to act as a repellant is “almost like when you ice-skate and water forms between the ice and the blade.” Unwanted materials will “skate” off of the coated surface.
+The technology stemmed from the brainchild of co-author Joanna Aizenberg, who developed a technology in 2011 called Slippery Liquid Infused Porous Surfaces, a coating that repels virtually every liquid and solid. TLP is different from SLIPS in that TLP is specifically catered to the medical industry.
+Ingber pointed out that the creation of SLIPS was “inspired by the pitcher plant” which is lined with a slippery material that captures its prey.
+Ingber said that he received a grant from the government to carry out the research, a reflection of the potential use of the technology.
+“The military wanted us to treat blood infections by cleansing and treating bacteria without coagulant,” Ingber said. “With the government funding, they wanted us to do this as quickly as possible.”
+The team exceeded expectations. Within two to three years, the Wyss research team of 20 people emerged with a solution that “works incredibly well” to repel bacteria, according to Ingber.
+“We believe that the anticoagulant and antifouling coating technology has the opportunity to broadly impact the medical industry in the near term,” said Eric Devroe, entrepreneur in residence at the Wyss Institute. The coating has the potential to prevent infection in medical operations such as transplants.
+Despite their recent success, the team does not have plans to slow down just yet; the team members' next step is to commercialize their product. According to Devroe, “Our internal research and business teams have been prioritizing potential applications with the external stakeholders from diverse industries.”
+Ingber stressed the importance of innovation in biotechnology. In giving advice to aspiring biomedical engineers he said, “Find problems that are big and learn how to collaborate.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Administrators are interviewing candidates to fill two remaining positions in the new central office charged with investigating sexual harassment complaints from students across all of Harvard’s schools, even as that body hears its first complaints, according to University Title IX Officer Mia Karvonides.
+That central body—the Office for Sexual and Gender-Based Dispute Resolution—has hired outside help to hear cases alongside its one full-time investigator, William D. McCants, on a contract basis while the two other investigator positions remain open, Karvonides said in an interview Monday. She declined to specify how many complaints ODR has received so far this year, but confirmed that it has received some.
+“We’re being very careful in the selection” of the two investigators, Karvonides said. “We need to make sure that whoever we hire has experience conducting investigations, that it’s somebody that we have confidence in their ability to handle this rule as a neutral and in a way that is going to be respectful of both parties.”
+Karvonides declined to specify a timetable for filling the two open investigator positions, but said administrators are “doing everything we can to move as quickly as possible on making these hires and making the right hires.”
+The ODR, which opened after Harvard unveiled its first University-wide sexual harassment policy this summer, has remained understaffed since students arrived on campus this fall. Harvard is looking to hire the additional investigators as other colleges nationwide seek to fill similar positions amid federal scrutiny into their Title IX compliance.
+Karvonides acknowledged the high demand for qualified investigators, but said Harvard has attracted “good interest” in the positions. The difficulty, she said, lies in finding interested candidates who also have what administrators consider the right skills for the job.
+Karvonides did not indicate how many people have applied so far. According to a recent job posting, a law degree is “highly preferred” but not required for the position.
+Administrators have yet to decide whether the ODR will publish statistics summarizing the number of complaints it receives and investigates, but they are discussing doing so, Karvonides also said. The College’s Administrative Board, which until this academic year investigated undergraduates’ sexual assault complaints, publishes an annual set of statistics that accounts for the number of cases heard by the body, including those involving alleged sexual misconduct.
+Monday’s interview was Karvonides’s first on-the-record conversation with The Crimson in 2014.
+—Staff writer Steven S. Lee contributed to the reporting of this story.
+—Staff writer Madeline R. Conway can be reached at mconway@thecrimson.com. Follow her on Twitter @MadelineRConway.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard Medical School professor George M. Church discussed the possibilities and potential dangers of genetic engineering on Wednesday. The lecture event, presented by the Harvard Museum of Natural History, covered a range of topics, including potential gains for genetic information and technologies and considerations of ethics and efficacy.
+Church began the evening by highlighting the importance of genome testing, stressing that “whether or not you have family history, whether or not you [are of] a particular ethnicity, all of us are at risk for rare diseases.”
+Genome testing has made advances in recent years, with the cost of sequencing an individual’s genome having decreased in the past decade. But further advances in genome testing, Church said, could “allow us to essentially see what’s currently invisible, to essentially see the genomes around us.”
+Advances in the portability and affordability of genome testing, for instance, could lead to a sort of “handheld DNA sequencing device” that could dramatically impact diagnostics and field studies.
+Moreover, Church said, “if you have an inexpensive way of [sequencing genomes] you can really start testing a lot of ideas about cause and effect,” with the potential to identify rare protective gene variants that could alleviate or eliminate some diseases.
+“Your genetics is not your destiny,” Church said.
+Church also discussed the possibility of de-extinction, bringing back species like the woolly mammoth. He predicted that the de-extinction process would largely depend on both ecological and economic considerations, in which species are judged both on their viability in modern ecosystems and their utility. He highlighted the woolly mammoth as an example of such a “keystone” species that could dramatically and positively impact the global ecosystem, citing his 2013 Scientific American article which outlined how mammoths could contribute to the reversal of global warming by keeping the tundra frozen.
+“Letting the tundra melt,” Church said, “is the equivalent to burning all of the forests in all of the world and their roots two and a half times over.” Bringing back the woolly mammoth could be one important step toward preventing this catastrophic release of carbon, according to Church.
+Church also briefly touched on human genetic enhancements, noting that changes in the modern environment and human behavior have framed the topic of altering one’s genome in terms of necessity.
+“Our ancestors didn’t need any genetic enhancements to be able to sit for twelve hours a day and eat fatty, sugary foods, but we need enhancements that handle that altered environment,” he said. “If we go into space, we need enhancements that handle radiation and osteoporosis...or else we’re dead. So what seems like an enhancement in one generation becomes life and death in another generation.”
+Church acknowledged, however, that the question of enhancements was a very “serious problem” and one that certainly calls for more discussion.
+“The main ethical question about [human genetic enhancements] becomes whether it’s safe and effective,” he said.
+Church concluded the evening by addressing concerns over genetic and bio-terrorism raised by several audience members. He said that those aiming to use genetic information and technologies for malicious purposes will be “even harder to deal with than the errors we [geneticists] will inevitably make.”
+Some protections, including proper education of future generations and a strong emphasis on extensive surveillance, can be extended, he said.
+“Not everybody has to be a synthetic biologist,” Church said. “And so they should all be under surveillance…. We [scientists] should be under scrutiny so that we don’t have access to the tools to make something dangerous.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Cambridge residents came out to a Cambridge City Council meeting Monday evening to support a resolution to protect the Silver Maple Forest, located on the outskirts of North Cambridge. Citizens expressed opposition to the potential construction of a 300-unit apartment complex where the forest now stands and urged the council to take action to preserve the existing forestland.
+The resolution, which was co-authored by Councilors Marc C. McGovern, Dennis J. Carlone, and Nadeem A. Mazen, condemned the usage of the forestland and elicited overwhelming support from the public audience.
+The Silver Maple Forest is a 15-acre wooded upland situated at the intersection of the cities of Cambridge, Arlington, and Belmont. A few steps from the MBTA Alewife station, the forest sits atop a Federal Emergency Management Agency-designated floodplain and has long been acknowledged as a line of defense against flooding in the Cambridge and greater Boston areas. According to the Coalition to Preserve the Belmont Uplands’ website, the Silver Maple Forest is also home to more than 45 species of birds and 20 species of mammals.
+Ellen Mass, a member of the Friends of Alewife Reservation who spoke during the “public comment” section of the meeting, noted that for hundreds of years, the deep roots of the maples have absorbed water and prevented excess flooding.
+Susan Ringler, a Cambridge resident, also argued for the importance of the trees in the 15-acre plot as a protection against flooding.
+“Our Silver Maples are worth gold in their floodplains,” Ringler said. “Climate change is upon us and flooding does not stop at municipal boundaries.”
+Despite previous efforts from the council to protect forests within Cambridge borders, development plans have continued for the Silver Maple Forest apartment complex. Several trees were razed Monday morning, which some Cambridge residents said was upsetting to them and made them to wonder if anything more could be done to stop the deforestation.
+Carol O’Hare, who planted an evergreen in the Silver Maple Forest as a child, said she was saddened by the removal of the trees.
+“This morning as I grieved with others over the destruction of the Silver Maple Forest by backhoes and chainsaws, I thought…of how our state could not save it,” O’Hare said.
+A handful of residents who spoke at the Council meeting had been arrested earlier in the day for protesting the deforestation. One of them, Judy Johnson, was greeted by loud applause when she addressed the councilors.
+“Can I stand? Because I have been sitting in a jail cell all day,” she said, to the applause of many in the room.
+“You can’t live without the trees,” Johnson later added. “If the trees go, the animals go, the floods come.”
+—Staff writer Arjun S. Byju can be reached at arjun.byju@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Art and culture have a large role to play in the politics of the 21st century, a panel of scholars agreed Monday night while discussing past uses of those tools in Colombia and India. The event, “The Stirring of Culture,” moderated by Homi K. Bhabha, director of the Harvard Humanities Center, drew a crowd of about 50 people to the Barker Center.
+Doris Sommer, Harvard professor of Romance Languages and Literature, spoke about Antanas Mockus, the eccentric mayor of Bogotá from 1995 to 1997 and 2001 to 2003, and his cultural projects, before Mockus himself discussed his terms. Sommer explained how Mockus, who later became a visiting professor at Harvard, was elected in a desperate city and set out to show that change was possible.
+In one of his creative initiatives, Mockus fired twenty cops and hired mimes to patrol the city.
+“The mimes couldn’t give you a ticket, they couldn’t put you in jail, they couldn’t do anything legally binding, but they had the charm of engaging the public as co-authors of a new moment in Bogotá,” Sommer said.
+People interacted with the state in a new way as a result, Sommer said. She showed a video of mimes directing traffic and Mockus dressed as superhero “Super Citizen.”
+She called Mockus the embodiment of the push for collective creativity and said that his model helped to create lasting peace in Colombia.
+During the event, Mockus also shared some of his experiences. In response to a question from the audience about whether he considered himself a cultural leader or a politician, Mockus said that he has not assumed a single identity.
+Nonetheless, he did say he is close to denying his involvement in politics.
+“I am a politician that feels shame for being a politician,” he said.
+Concerning his time in office, he said, “I liked it very much, but it was a time-bounded project.”
+History professor Sugata Bose, an Indian politician, traced the history of culture and politics in his native city of Calcutta. He noted, however, that there are no government-sponsored “creative interventions” in India like Mockus used in Bogotá.
+Audience members expressed admiration for Mockus.
+Ricardo Santamaría, a fellow at the Harvard Weatherhead Center for International Affairs, said in Spanish, “Antanas Mockus represents a new form of political leadership in Colombia that introduces new elements of communication using culture and art, and is an example to other countries.”
+Lisa Wong, a pediatrician at Massachusetts General Hospital, said she was “struck by how [the panelists] were reflecting on the depth of need for change, and coming to the arts and humanities as a solution, rather than a scientific or technological solution.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Researchers at Harvard Medical School, MIT, and the Wyss Institute for Biologically Inspired Engineering have discovered a new synthetic process to construct 3D metal nanoparticles using DNA as a mold, according to a study published in Science earlier this month.
+By enabling the construction of nanoparticles in user-specified shapes out of materials like silver or gold, the breakthrough offers a range of applications in solar cells, disease detection, and laser technology.
+“Using DNA as a nano-foundry, you can fabricate nanomaterials, 4,000 times smaller than a tiny paper sheet, as simple as growing something in your garden,” said lead author Wei Sun, a postdoctoral scholar in the Wyss' Molecular Systems Lab.
+According to the Wyss Institute press release, the particles created were as small as 25 nanometers. A sheet of paper is approximately 100,000 nanometers thick.
+“A really important question that was unanswered for years was how do you manipulate matter at all on the nanoscale,” said co-author and former Crimson news editor Amy Guan '12.  “[The research] is important because it shows a very elegant approach to creating the kind of shape you want.”
+The process begins by using software to transfer the target shape into DNA mold design with a user-specified shape. Next, researchers use the mechanical simulation software to evaluate its mechanical properties. A gold seed is implanted within the mold and grows by absorbing a solution.
+A useful analogy in understanding the process might be that of growing cube-shaped Japanese watermelons, in which watermelons are grown within a plexiglass container, according to the press release.
+“Our nanocasting is based on similar consideration,” Sun said. “A nanoparticle seed is grown exclusively within the mold, which confines the nanoparticle final shape complementary to the cavity shape in the mold.”
+This project has been important to Sun personally.
+“I'm delighted to make the first demonstration of this strategy after years of working,” Sun wrote. “[But] we still need to keep working on this direction to merge the gap between what we have done in the lab and the requirements for future device applications.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+From an undisclosed location in Russia, Edward Snowden—a whistleblower considered by different groups to be a martyr, a coward, and a traitor—spoke with Law School professor Lawrence Lessig via Google Hangouts at a packed lecture hall Monday.
+A former National Security Agency contractor, Snowden leaked classified government documents about NSA surveillance programs last year, marking one of the largest breaches of federal intelligence in recent history.
+Lessig began the interview by asking Snowden about his background and ideologies. During his time with the Central Intelligence Agency and NSA, Snowden said he observed that most people in politics are well-intentioned, but that certain policies, created by specific politicians and often not publicized, do not reflect the public’s views and endanger democratic principles.
+“When decisions are made in the dark, the quality of the decisions is reduced,” Snowden said.
+Snowden also said that the vast scope of the NSA’s “covert action programs,” of which some members of Congress were not aware at the time of Snowden’s leak, was “changing the boundaries of rights that we have as free people.”
+“I was witness to mass violations to our Constitution,” Snowden said. In addition, he stated that the surveillance programs went directly against international doctrines such as the Universal Declaration of Human Rights and the International Covenant on Civil and Political Rights.
+When Lessig asked Snowden about his decision to release the classified documents to the press, Snowden said he wished to give access to multiple sources to enable a “marketplace” for the information.
+“What I tried to do was ensure that only information that was necessary was exposed to journalists who were acting in the public interest,” Snowden said. “The work of the press is to challenge the government for control of information.”
+Lessig then asked Snowden about a scenario in which surveillance data was encrypted such that only authorized individuals could retrieve limited and specific data. Snowden responded by saying that such surveillance nevertheless violates the Fourth Amendment’s prohibition of unwarranted seizure.
+“Even if databases are encrypted, temptation for abuse is very strong,” Snowden said. “Policy is a very weak protection.”
+According to Snowden, the best way to protect against such abuses is to conduct a broad public conversation and to keep human rights in mind.
+“Ultimately, it comes down to natural rights that cannot be voted away,” he said. “When institutions fail, when laws fail, natural laws prevail.”
+Lessig then turned the conversation to Snowden’s personal reflections.
+Snowden said that he had second thoughts about his actions before releasing the documents, saying that he only sought to serve the public interest, not to do any harm. Still, he said he felt that government accountability to the public was so corrupted that he needed to take a stand, and that he was well aware of the risks and consequences of his actions.
+“There is no due process available to whistleblowers in the intelligence agency,” he said.
+Snowden’s remarks regarding his motives and the role of whistleblowers in society sparked mixed feedback from the audience.
+“I agree with him 100 percent,” said audience member Alyson Hayes after the event. “I respect that he was trying to bring information to us and let us decide what to do with it.”
+Dana Gold, a senior fellow with the Government Accountability Project, said after the event that she felt Snowden did an excellent job detailing corruption in the branches of government responsible for overseeing surveillance programs.
+“I take issue with his definition of whistleblowers, however,” she said. “[Snowden] says a whistleblower’s motive is to protect the public interest and let the public make decisions, but I think only the first part applies because the laws in place already represent the public’s decision.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Reacting to an op-ed signed by more than a quarter of the Harvard Law School faculty that condemned the University's new sexual assault policy, University Title IX Officer Mia Karvonides on Monday defended the role she and her office play in the investigatory process.
+Among other points, the open op-ed questioned the impartiality of the newly-created Office for Sexual and Gender-Based Dispute Resolution (ODR) charged with investigating sexual misconduct cases and determining whether there was a violation of policy.
+In an interview on Monday, Karvonides said that she disagrees with suggestions that ODR would not be impartial in handling sexual misconduct cases.
+“I don’t know what we have put out, I don’t know what we have said to give anyone that impression,” Karvonides said. “I approach this work as neutral.”
+She further emphasized that as the University continues its efforts to fill two ODR investigator positions, administrators have been searching for candidates that they have confidence will handle cases with impartiality.
+Regardless of Karvonides’ assurances, Law School professors critical of the policy contend that the problem with the office is inherent and structural.
+“Karvonides is under immense pressure to increase the number of complaints filed and the number of people held responsible. This is structural. She can be and is a professional and an expert, but she can’t undo that structure,” Law School professor Janet Halley said.
+She said the neutrality of the office is lost because the Title IX officer holds roles that are traditionally separated in legal systems, including producing charges in some cases, investigating claims, adjudicating guilt, and hearing appeals.
+Addressing that concern in part, Karvonides said on Monday that she has decided that appeals will be referred to a designee who will be separate from either the investigatory process or the ODR office, as allowed by the University policy. She added that the identity of that designee was “soon to come.”
+“In my mind, we fail in our work under Title IX if we are viewed as being biased or even advocates, or in any way that this isn’t a fair process,” Karvonides said. “If we’re going to make progress, people need to understand, to have trust and have confidence that this is an unbiased process.”
+DRAFTING A COMPLAINT
+The op-ed raised an array of other criticisms against the University policy, including infringements on academic freedom, overstepping guidelines set by the Department of Education’s Office for Civil Rights, and a skewed process in favor of complainants.
+The op-ed garnered support from many of the biggest names among tenured and retired faculty at the Law School, including Martha A. Field ’65, Charles J. Ogletree, and Alan M. Dershowitz, who retired last year.
+"There were just a huge number of people on the faculty who were concerned about the nature of the Harvard University policy,” Law School professor Elizabeth Bartholet said.
+The drafting of the op-ed was spearheaded by Law professors Bartholet and Halley, according to a signatory of the op-ed with direct knowledge of the situation.
+“I did play a major role in the drafting process but it was definitely a group process with many people contributing ideas and language at many stages,” Bartholet said. “Drafting was a significantly group process with many of those signing actively involved in developing the language.”
+The op-ed came out of discussions throughout the Law School in which professors expressed concern over the new policy and the example it set to other colleges and universities, Halley said.
+In its aftermath, signatories say they have received largely positive feedback.
+“My sense honestly is that the faculty by and large is proud that we are standing up on principle and perfectly clear that what is being demanded for us is poor and actually wrong,” Charles R. Nesson ’60, law school professor and one of the op-ed’s signatories, said.
+Still, Nesson said that serious work remains to be done in order to create a better policy for the University.
+“Harvard Law School has its back up against the wall. It has a response at the moment that doesn't offer anything better,” he said, referring to the op-ed. “The question is whether we can engage in a process that produces a substantive result that transform[s] Harvard Law School from being the bastion of gender discrimination that many think it has been and continued to be into a place that is known for having addressed the problem and transcended it.”
+—Staff writer Steven S. Lee can be reached at steven.lee@thecrimson.edu. Follow him on Twitter @StevenSJLee.
+—Staff writer Dev A. Patel can be reached at dev.patel@thecrimson.com. Follow him on Twitter @dev_a_patel.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Massachusetts General Hospital, the largest of Harvard Medical School’s affiliates, has signed a “framework agreement” to jointly build and operate a hospital in southeastern China, according to an email sent by MGH leaders to colleagues last Friday.
+The project, under the working title “MGH Hospital China,” would be MGH’s first major international satellite, and has the potential to be a key source of new revenue for the hospital.
+According to a press release distributed in China last week, the proposed hospital would include a 500-bed medical facility with research and education centers and could potentially expand to 800 to 1,000 beds.
+Kanghua Healthcare Investments Limited, a large Chinese healthcare player, will invest in the project, while Guangdong Provincial Hospital of Traditional Chinese Medicine and MGH will jointly oversee the hospital, to be located in the city Zhuhai, near Hong Kong.
+Although MGH is a Harvard-affiliated hospital, University leadership is currently not involved in the planning process, nor is Harvard expected to play a role in the potential new hospital.
+“Neither Harvard University nor Harvard Medical School are involved in discussions regarding clinical ventures in China,” HMS spokesperson Gina Vild wrote in an emailed statement. “Our understanding is that the Massachusetts General Hospital discussions are preliminary and no final decision about a proposed hospital is expected until next summer at the earliest.”
+MGH is not the first of Harvard’s teaching affiliates to weigh expansion projects in China. Brigham and Women’s Hospital was reported in February to be in preliminary discussions with China-based Evergrande Real Estate Group, a major donor to the University, about a potential hospital project.
+In their email to colleagues on Friday, MGH President Dr. Peter L. Slavin and Massachusetts General Physicians Organization Chairman Dr. David F. Torchiana wrote that the partnership opportunity was well worth exploring.
+“As you know, China has experienced extraordinary change in the past few decades as government reforms have opened the country to international trade, privatization and significant economic development,” they wrote. “When the opportunity arose to explore a relationship with Chinese partners to jointly create a tertiary medical center...we felt it would be appropriate to look into the possibility more deeply.”
+—Staff writer Amna H. Hashmi can be reached at amna.hashmi@thecrimson.com. Follow her on Twitter @amna_hashmi.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+When the final whistle blew on Saturday afternoon, the Harvard football team officially extended its unbeaten streak to nine with a 24-14 victory over visiting Lafayette.
+The shrill sound meant that “Ten Thousand Men of Harvard” would soon fill the air, that postgame handshakes would commence, and that the Crimson could enjoy victory in a game that it led wire-to-wire.
+But that final whistle marked something else as well, something much more significant. It meant that the real season was about to begin.
+This year represents the third straight season that the Crimson has jumped out to a 5-0 mark. Harvard remains just one of five undefeated teams in the FCS. If you ask any player or coach, though, they will tell you that statistic means close to nothing.
+Why? Because for the last two years, it’s been all about game six: Princeton. In each season, the Tigers defeated the Crimson, blemishing its then-undefeated record.
+Sure, Harvard has been tested throughout the first five games of its schedule. The Crimson found itself trailing in the fourth quarter against Brown. Two weeks later, the team was locked in a scoreless tie at halftime against Cornell.
+Harvard prevailed in both of those contests. But who could have possibly thought otherwise? Even for a pessimistic Boston sports fan, the Crimson represented a comfortable pick against the struggling Bears and winless Big Red. Matchups appeared even more favorable against Holy Cross, Georgetown, and, most recently, Lafayette.
+The same cannot be said for next week. If the first five games served as a dress rehearsal, this Saturday is opening night and all of the lights are on.
+It’s true that Princeton has two losses. And that quarterback and 2013 Ivy League Offensive Player of the Year Quinn Epperly was held out last week due to injury. But none of that matters. As we have seen with Princeton-Harvard, anything can happen.
+In 2012, the Tigers scored 29 points in the fourth quarter to snatch a sure victory away from the Crimson. Last year, the two teams clawed tooth and nail before Princeton prevailed in triple overtime. If you’re looking for Ancient Eight drama, what more can you ask for?
+Princeton will be the best team Harvard has played this season. So how did the Cambridge crew look in the tune-up for the game that carries the most Ivy League championship implications? It’s complicated.
+Offensive consistency will need to improve. Against Lafayette, the Crimson finished three-of-16 on third down and went zero-of-seven in the second half. The fourth quarter saw Lafayette amass 171 yards to Harvard’s 12. That won’t fly next week.
+The Crimson needs to consistently move the chains and refrain from giving Princeton a short field. Why? Only because the rapid-fire Tigers’ offense has averaged nearly 470 yards in the last two games against Harvard.
+In addition, the Crimson can’t let its opponents hang around. Despite a number of second half chances, Harvard couldn’t grind down the clock or muster a knockout blow. If Lafayette hadn’t missed two field goals and dropped a touchdown pass, the score could have looked very different. While Harvard survived, a similar scenario on Saturday could prove suicidal.
+Yet while offensive consistency was lacking, Harvard demonstrated its ability to explode with big plays against Lafayette. Each of the team’s three touchdowns were 30 yards or more, highlighted by a 79-yard score off a screen pass to junior wide receiver Andrew Fischer, who finished with 237 all-purpose yards. If there’s a remedy for failed third downs, it’s the explosive plays that fans just enjoyed at Harvard Stadium.
+Regardless, the last two years of Harvard-Princeton have taught us to throw prior conceptions out the window. For three-plus hours this weekend, I will be expecting the unexpected.
+The season may be halfway over, but the real games are just now beginning. From here on out, every Saturday represents a must-win situation.
+But especially this Saturday. After all, it’s Princeton.
+—Staff writer David Steinbach can be reached at david.steinbach@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The men and women of the Harvard sailing team had a full weekend of racing that included top place finishes in the Norman Reid Regatta and Firefly/FJ Invitational and an unexpected disqualification in the Lane Trophy.
+NAVY FALL INVITATIONAL
+The Crimson joined 19 other schools for the Navy Fall Invitational, finishing in eighth place. Harvard sent six sailors to race in the four-division regatta, with senior Brian Drumm and junior Jacob Bradt racing 420s and finishing in 13th place in the A division.
+“As with last weekend, [Bradt] and I struggled in the beginning of the regatta, which we believe stemmed from subconsciously treating a race in a regatta differently from a race in practice,” Drumm said. “With this understanding, we worked hard throughout the regatta to evaluate and execute with the confidence we bring to our practices.”
+Junior co-captains Andrew Mollerus and Sydney Karnovsky finished in sixth place in the B division sailing an FJ, sophomore Juan Perdomo in a laser took fourth in the C division, and junior Marek Zaleski came in sixth place sailing a radial in the D division.
+CAPTAIN HURST BOWL
+At the Captain Hurst Bowl hosted by Dartmouth, with racing taking place over two days, Harvard finished in 12th place out of 18 teams. Senior Michael Drumm was joined by freshman Kevin Coakley in the A division, where the pair finished in 13th place.
+“Kevin and I were sailing in Z420s, a boat we haven't sailed yet together, so a lot of the racing was spent playing catch up with figuring out how to sail the boats fast,” Michael Drumm said.
+Freshman Nick Sertl and sophomore Emma Wheeler came in 11th in the B division. Drumm noted that the lack of wind on Lake Mascoma halted races across the board on Saturday, limiting most of the competition to Sunday.
+“I felt like this weekend was productive,” Michael Drumm said. “As the regatta went on, we kept making improvements in our execution around the racecourse.”
+FIREFLY/FJ INVITATIONAL REGATTA
+On Saturday, the Crimson placed second out of 17 boats in the Firefly/FJ Invitational hosted by MIT.
+“I thought the weekend went very well,” freshman Dylan Farrell said. “We passed a lot of boats upwind and downwind by getting out to the pressure first. One thing to improve on is the consistency of our starts.”
+Farrell was joined by senior Rebecca Frankel in the A division where the duo finished in fourth. Senior Reid Bergsund and freshman Kristin Anderson joined up to take the top place finish in the B division.
+LANE TROPHY
+Harvard was disqualified from the Lane Trophy round robin that was hosted by Tufts and took place on Sunday. According to the regatta report, the Crimson failed to stay clear of Roger Williams when Roger Williams was the leeward boat.
+Seven schools within the conference came out for an afternoon of sailing. Boston College took first place. Unofficially, Harvard finished in fifth with a record of 4-5.
+NORMAN REID TEAM RACE
+On Saturday, the Crimson joined five other teams on the Charles for the Norman Reid trophy. Thirty races were done in round-robin style, with Harvard finishing in first place. Senior Gram Slattery and sophomores Matthew Mollerus and Bennett Capozzi were the skippers and sophomores Julia Lord, Olivia Kjorlien, and Nomin Jagdagdorj joined them as crews.
+Roger Williams and Boston College, the hosts of this regatta, both finished behind 9-1 Harvard with a 7-3 record, and right behind them were Brown University and Tufts who finished 3-7. Boston University came in last with a record of 1-9.
+35TH YALE WOMEN’S INTERSECTIONAL REGATTA
+Four women of the Harvard sailing team went down to Connecticut for this regatta. Of the 18 teams that competed, the Crimson finished in 11th place with the combined totals of both divisions.
+Freshman Taylor Ladd and junior Kristina Jakobson took 16th place in the A division. Junior Sophia Bermudez and senior Ashleigh Inglis took fifth in the B division.
+After the regatta-packed weekend of sailing, the Crimson has only four more weekends of racing left in the fall season.
+“While a lot of regattas provide good insight about what it means to be a 'good' sailor, this weekend taught us about what it means to be a 'solid' sailor,” Bradt said. “The difference being that the 'good' sailor can win a race every once in a while, whereas the 'solid' sailor does what it takes to be consistent, to never finish outside of the top-five.”
+—Staff writer Tanner Skenderian can be reached at tskenderian@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+Happy Tuesday, Harvard! We hope your Monday wasn’t too terrible, and that today won’t be either! This is about the point in the semester when we:
+a) Realize just how many pages of reading we have yet to do (especially in advance of that midterm in a scarily few number of days)
+b) Look over our pset from the start of the semester and don’t remember how to do any of it
+c) Scroll through our unread emails and find a bunch that we should have answered a long time ago
+d) All of the above. Whether you’re asking for extensions, hiring a BSC tutor (if any still exist), or just eating all the chocolate you can find, hopefully you’re finding some way to cope. And if you finished all your midterms and are on cruise control until finals, we simultaneously envy you and want to be you. One day, one day. Until then, we’ll keep trudging through the rain, procrastinating on everything, and drinking too many cups of HUDS hot chocolate. It’s just that time of the semester. And we’ll get through it together.
+IN THE ATMOSPHEREToday's high is a crisp 61 degrees, with a low of 53. Unfortunately, there’s a 60% chance of rain all day, so don’t forget your umbrella! We’re still mourning the end of last week’s short-lived summer resurgence, but we guess that now that we’re officially a month into fall, we should be ready for the chill. Damn you flaky New England weather for giving us hope!
+IN THE D-HALLSLunchBBQ Chicken Sandwich with BaconBBQ Tofu Multigrain Pizza with Peppers and Onions (so much BBQ)Margarita Pizza on Multigrain Crust
+DinnerBeef Shepherd’s PieChicken FrancaisVegetarian Shepherd Pie with Cashew Cream Sauce
+ON FLYBY1) Dartmouth Dhall Bandits, Re-Inflated Grades at Princeton, and Columbia’s “Dicktation” Graffiti: Read up on happenings in the rest of the Ivy League, aka, Harvard’s frenemies.
+2) Harvard: 4 Out of 5 Would Recommend: 4/5? That’s a B. Do better, Harvard.
+IN THE NEWS1) Harvard Likely To Offer Concentration in ‘Theater, Dance, and Media’: The Faculty of Arts and Sciences is likely to adopt a new concentration in “Theater, Dance, and Media” to begin enrolling undergraduates in fall 2015, University officials announced on Monday. The proposed concentration, which will require FAS approval following a curricular review, will launch thanks to $5 million of seed funding provided by University President Drew G. Faust from her discretionary funds.
+2) Activists Kick Off Week-Long Fast for Divestment: Dozens of members of the Harvard community will not be swiping into dining halls this week as they participate in Divest Harvard’s week of fasting. The initiative, which lasts from Oct. 20 to Oct. 24, seeks to draw attention to Harvard’s continued investment of portions of its $36.4 billion endowment in fossil fuel companies and promote discussion about climate change.
+3) FAS Office, Not ODR, Still Handling Faculty Misconduct Cases: The newly-formed Office for Sexual and Gender-Based Dispute Resolution, highlighted as one of the cornerstones of the University’s new sexual assault policy, will play no role in investigating cases of sexual misconduct by members of the Faculty of Arts and Sciences, according to University leaders.
+EVENTSThe Farmer’s Market is back today from 12 p.m. to 6 p.m. in the Science Center Plaza! Enjoy a respite from the rain while browsing through freshly baked bread, locally sourced produce, and unique arts and crafts.
+Visit Piper Hall in Gund Auditorium (48 Quincy St) at 6:30 p.m. tonight to hear from Suketu Mehta, acclaimed writer, as he explores themes of migration, loneliness, and community in the world’s cities. This event is co-sponsored by the Harvard South Asia Institute.
+Join the Harvard College Democrats and the Harvard Republican Club in L166 at the Institute of Politics tonight at 7 p.m. to watch the 2014 Massachusetts Governor’s Debate. Union Square Donuts will be served!
+PHOTO OF THE DAYProfessor Lawrence Lessig video conferences Edward Snowden who leaked information from the National Security Agency in the summer of 2013, which was broadcast live in Ames Courtroom at Harvard Law School on Monday afternoon.
+Sections
+Yale has been stealing Harvard traditions for centuries. Don’t believe me? Well, starting in 1896, Yale plopped a bronze statue of their former president Theodore Woolsey firmly in the middle of the old campus. Sometime after that, people began rubbing his foot for good luck…sound familiar? Yeah, John’s been around for a decade or so longer than his New Haven counterpart. And so, in the words of arguably our generation’s most eloquent poet: “Woolsey, you’re cool and I’m gonna let you finish but our boy John is the 3rd most photographed statue in the country.”
+And over a century later, the Elis are at it again. In case you haven’t heard, Yale is planning on “adopting” a version of CS 50 to begin fall 2015 in New Haven. That doesn’t mean they’re taking part of the curriculum, or getting lectures notes from David Malan… no, no, no. It means that Yalies will literally be watching Malan’s lectures on TV in New Haven. And we all know that watching Harvard classes on TV is “Why They Chose Yale.”
+Honestly though, Yale adopting CS 50 is a really cool idea. In fact, Yale would do well to steal a couple more things from Harvard going forward. (Though they’ve been trying for years to steal our acceptance rate and our #1 slot – and, no, I’ve never heard of Princeton). First off, there are definitely a couple Gothic buildings around Cambridge that would really add to Yale’s atmosphere. And of course, this article wouldn’t be complete without a poorly placed joke about Yale’s inability to steal a win in The Game. (Don’t worry that Yale still leads the all-time series 65–57).
+And finally, since Yale is planning on adding two new residential colleges, they should just go ahead and annex “The Quad” since it’s basically in New Haven anyway.
+Sections
+Jason C. Hirschhorn '15 needs your help. After completing his thesis as a Social Studies concentrator, his creative juices are running low and he still needs a title. He has two weeks.
+His thesis is on computer science education (K-12) in America. He sees any title related to his subject, or even any title related to any of the words from his subject, as ideal. According to an email from Hirschhorn, “Feel free to be creative and punny - my Social Studies readers will appreciate it!”
+How do you get in on this? All you have to do is comment below with your best idea, and up vote on the ones you like best. Hirschhorn will choose from the top three and credit that person in his thesis, as well as a possible signed copy of his title page and a letter of appreciation.
+So there you have it: The challenge is yours for the taking. Hirschhorn is reaching out to you (flawless) Flyby followers to help him come up with one of the best, funniest, punniest titles for a Social Studies thesis about computer science education in primary and secondary education that Harvard has ever seen. Some competition is already in place. Hirschhorn’s younger sister and member of IGP, Nicole C. Hirschhorn '16, has come up with a few options, among them “Not Just for Nerds” and “Behind the Binary.” Another IGP member, Gwendolyn R. Thomas '17, suggested “The Code Less Traveled” and “Join Our Click." But don’t let the ideas of two IGP members prevent you from joining in on saving Hirschhorn from a dull thesis title.
+The future of Hirschhorn’s thesis title lies in the palm of your hands. May the odds be ever in his favor.
+Sections
+In her new single “Out of The Woods”, pop darling Taylor Swift makes it clear that her wilderness exploration skills are totally lacking. Instead of asking if she’s "out of the woods yet" thirty-six times—let’s be honest, that song could have been at least four times shorter—she should have just hit up one of Harvard’s mad skilled FOP leaders. We thought we'd help a sista out, and so we sat down and asked a few of them about their woodland experiences and how Tay can finally get “in the clear.” Here’s what they had to say:
+Flyby: How do you feel about the woods?Michael K. Casson '15: I feel pretty good about the woods, I guess. It feels like a home away from home.
+Layla K. Joudeh '17: The woods bring out the best in me. It’s kind of personal, but using the bathroom in the woods is definitely one of the best things.
+Peter S. Wu '16: I love it. It’s a place where you can really feel human and have no real obligations, which sounds kind of like you’re shirking something, but I think it’s a good way to just kind of reflect and get in touch with yourself again.
+David A. Sheynberg '16: I fucking love the woods. The woods are so challenging and exciting, and I feel so alive when I’m there.
+Flyby: If you could give Taylor Swift one piece of advice on how to get through the woods, what would it be?MC: I don’t think there’s any reason to leave, really. I think she should just stay there indefinitely.
+LJ: Don’t go in the woods in the first place. I don’t think she’s suited.
+PW: If there are mosquitos, she just needs to shake it off.
+DS: Use your compass.
+Flyby: What’s your favorite woodland area?MC: I’m a huge fan of the Whites, which is where FOP happens for the most part. They’re really accessible and the views are nice.
+LJ: I like Maine. Where I’ve been hiking there’s this beautiful mossy area and when you’re walking through it looks like you’re in a fairytale forest because there’s these high skinny trees and the ground is covered in moss.
+PW: I would probably say the Saddlebacks, up in Maine. I was there for my FOP trip as a freshman. It looks like the hump of a camel over and over again and each summit is above the clouds.
+DS: I guess I would say that I really enjoy climbs and steep inclines cause they’re so hard and then so rewarding at the end.
+Flyby: In her song, Taylor Swift talks about seeing monsters in the woods that turn out to be trees. What’s something scary you wouldn’t want to encounter in the woods?MC: A bear.
+LJ: Realistically like, a bear… but Mike Casson was my FOP leader and training trip leader, so I wouldn’t want to encounter Mike Casson wrestling a bear in the woods… Or maybe I would.
+PW: Other than a bear it would definitely be … Selena Gomez.
+DS: Annoying human beings. Bears are pretty bad but if you meet a very annoying human being — not that I have personally met that many — they are perhaps worse.
+Flyby: You can bring one thing into the woods—what is it?MC: Jason Hirschhorn—he’s another FOP leader.
+LJ: Probably Taylor Swift. So she could sing to me while I was hiking.
+PW: I would bring flavor blasted Goldfish.

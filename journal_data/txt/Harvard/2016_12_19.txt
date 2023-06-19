@@ -1,0 +1,55 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+After a statewide legalization of recreational marijuana took effect in Massachusetts Thursday, some Harvard undergraduates said they think the new legislation will change the University’s campus culture for the better.
+Massachusetts residents voted Nov. 8 to legalize recreational marijuana, with 53.6 percent of the vote in favor of the measure and 46.4 percent opposed. In Cambridge, the 71.3 percent of voters supported legalization.
+At the time, many Harvard students said they were pleased by the results of the vote. According to The Crimson’s election survey, legalization of marijuana saw widespread support on campus ahead of the election. A majority of survey respondents—roughly 65 percent—said they backed the proposal.
+Some in favor of the measure say the drug may help to improve the College’s social scene, where administrators have toyed with the role of alcohol—Harvard’s most commonly-used substance—on campus for several years. Harvard has a fraught history with hard alcohol, and a sexual assault report published in March 2016 suggested Harvard consider banning liquor entirely.
+Aaron L. Fogelson ’19 said he believes the new law will improve the culture on campus by creating social spaces where those who are “more weed-prone than alcohol-prone” can spend time together.
+“I think that’s a safer environment than alcohol,” he said. “Weed is a nicer way to spend a Thursday night, no violence, get to bed by 11:30, if you know what I mean.”
+Tout Lin ’19 and Timothy J. Cavanaro ’18, however, said they see the legalization of marijuana as unlikely to affect Harvard’s student body.
+Recent graduate Sonia E. Espinosa ’15, a self-described “cannabis entrepreneur” and co-founder of the Cannabis Cultural Association, agreed with Fogelson. Espinosa’s group works to involve underrepresented groups in the legal marijuana industry, according to its website.
+“I hope [legalization] will change Harvard culture,” she said. “Look at our campus, how many freshmen end up going to the Harvard University Police Department from drinking, and compare that to the number of students that have to go seek medical attention from cannabis.”
+“I think you’re going to notice a really big difference,” Espinosa added.
+Canavaro, Lin, and Fogelson all said they were personally glad the measure passed.
+“I think it’s great,” Lin said of the recent legislation. “You don’t really have to partake if you don’t want to, but if you do, it’s great that it’s legal because now you can.”
+Despite recent legalization, Harvard’s current policy bans the possession and distribution of marijuana by all students on campus. Last week, Harvard University Health Services Director Paul J. Barreira said he was unaware of any potential changes in the University’s drug and alcohol policy following passage of the new legislation.
+Not all Harvard students said they were pleased by the legalization of the drug and its potential role in students’ social lives. Matthew E. Cappucci ’19, who said he was against the legalization ballot measure, wrote in an email that he worries the legalization of marijuana might lead to its rampant proliferation.
+The increasing presence of marijuana could end up tempting more people towards “far worse drugs,” he wrote. He also said he was concerned about the drug’s odor.
+“I don’t look forward to sitting at home in Plymouth with my family on the back porch and having that skunk-like smell wafting over in the breeze,” Cappucci wrote.
+Cappucci added that, in the wake of the drug’s legalization, he had already noticed students sending out email blasts over dorm lists in an attempt to locate marijuana.
+But he said that he didn't see much of a change on Thursday night, when the drug became legal.
+“My head was too far into an atmospheric dynamics book for me to notice,” he wrote.
+—Staff writer Hannah Natanson can be reached at hannah.natanson@thecrimson.com. Follow her on Twitter @hannah_natanson.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In the days after the 2016 presidential election, a group of hackers tied to the Russian government launched a phishing scheme through a fake Harvard email address in an attempt to spread malware to American think tanks and nonprofits.
+Under the scheme, the hackers laced Kennedy School Professor Pippa Norris’s paper “Why American Elections Are Flawed” with malware and sent it to recipients under a fake email address that appeared to be from Harvard’s Faculty of Arts and Sciences. The phishing campaign, which was first reported in the New York Times, came from a Russian hacking group also involved in the hacking of the Democratic National Committee this summer, according the cybersecurity firm Volexity.
+According to Volexity, the phishing email sent from the fake Harvard address had the “widest distribution” compared to phishing attempts sent through other organizations, which include the Clinton Foundation and a cloud fax service.
+Harvard University Information Technology alerted members of FAS on Nov. 10 about the phishing email and warned them not to open unusual emails. In a statement, Doug Gavel, a spokesperson for the Kennedy School, said the school quickly responded to the phishing message.
+“We were aware of this most recent phishing attempt because a few individuals at HKS received the email (without clicking on the link) and quickly alerted our IT team,” Gavel wrote in an email.
+Norris said she only learned that her academic work was being used in the phishing emails after she read the story in the Times. Hackers downloaded her paper from an online portal and distributed digital files of containing her essay.
+“When I asked our security guys, they said, 'Well, there's nothing we can actually do about it,' in the sense that people can obviously download PDFs from wherever they find them and send off false malware,” Norris said. “But in some ways it’s not actually a security issue at the Kennedy School.”
+While the phishing may not pose a cybersecurity threat, Norris said she was concerned about the effect the scam will have on the Electoral Integrity Project, a research study examining “international standards of electoral integrity” and the potential fallout of failed elections. Norris serves as director of the project.
+“It does kind of damage our project because clearly if people feel that our work has been hacked, when I send out genuine emails, how are people going to know that it’s not from somebody else—Dukes or the Russians or whatever?” she said.
+This is not the first time a Harvard affiliate has been targeted by hackers recently.  Christian Hamer, HUIT’s chief information security officer, said in 2013 that the University experiences “tens of thousands” of attempted cyber breaches per day. Harvard’s servers—which contain data like students’ social security numbers and academic research—are regular targets.
+Most recently, Harvard suffered a network intrusion in June, prompting the University to switch to two-step verification for logging into Harvard’s online portals. In order to access websites that require Harvard credentials, school affiliates must now use a secondary device—typically a cell phone—to receive an authentication code, which they can then use to sign onto their accounts.
+—Staff writer Brandon J. Dixon can be reached at brandon.dixon@thecrimson.com. Follow him on Twitter @BrandonJoDixon.
+—Staff writer Lucas Ward can be reached at lucas.ward@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.

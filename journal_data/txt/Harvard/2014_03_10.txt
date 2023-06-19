@@ -1,0 +1,406 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+By now, everyone in the sporting world has heard of “Moneyball,” Michael Lewis’s account of how the 2002 Oakland A’s won an astounding 102 games with an unorthodox roster built through statistical analysis. The term has spilled into the popular zeitgeist, becoming shorthand for the triumph of statistics over old methods of subjective analysis. However, the secret of the A’s success is more complex than Lewis portrays: Statistics are meaningless without context, and the true lesson of “Moneyball” is that we should learn to temper our faith in numbers.
+Lewis’s account begins in 2002, when Oakland’s General Manager Billy Beane realized that the A’s, one of baseball’s poorest teams, could not compete by playing by the same rules as big-budget behemoths like the Yankees. If the A’s looked for players with the same traditional scouting methods as rich teams, the rich teams would beat them with their wallets. With no other options, Beane abandoned traditional scouting models and adopted advanced statistical analysis as a tool to find players who had skills overlooked by the fickle eyes of traditional scouts.
+Lewis describes the deliberations of baseball’s scouts with barely concealed contempt. According to the arcane wisdom of the scouts, if a player had an ugly girlfriend, he lacked confidence and wouldn’t cut it in the big leagues; if he had an odd body type, he was off the shortlist altogether. These were articles of baseball faith—in Lewis’s words, the old scouts were “a Greek chorus [whose job was to] underscore the eternal themes of baseball.” 
+By contrast, Lewis, ever the Wall Street quant, recounts with glee how Beane and his team discovered useful assets that the scouting market undervalued—older players, pitchers with injury histories, hitters who didn’t do anything flashy but knew how to take a walk. The common thread connecting these choices was hard stats—objective metrics like on-base percentage and defense-independent pitching that spoke of a player’s skill free from the biases of the human eye. With this roster selected from what one observer called the “island of misfit toys”, the A’s amazed baseball by winning 102 games.
+There is much truth to Lewis’s account of the A’s success. Just a decade ago, baseball’s valuation of players was indeed highly flawed—Beane’s discovery of market inefficiencies through statistical analysis gave the A’s an edge over teams stuck in a century-old mode of subjective appraisal. But Lewis also severely undersells the importance of scouting. Oakland’s success came not from abandoning scouting, but from its ability to combine subjective scouting information with sophisticated statistical analysis.
+For example, by most modern statistical metrics like Wins Above Replacement, the real strength of the 2002 Oakland A’s was not in Beane’s assortment of undervalued castaways, but in three members of its traditionally constructed rotation—Barry Zito, Tim Hudson, and Mark Mulder. These three carried the A’s to the playoffs—yet all three pitchers were drafted within the subjective scouting system that Lewis derides. By contrast, Jeremy Brown, a pudgy catcher lionized in the book for his great stats but poor scouting profile, ended up dropping out of baseball after playing in only 5 major-league games. 
+True, talking about a player’s girlfriend as a bellwether of his confidence is silly—but so is ignoring substantial information about his athletic ability, his work ethic, and his playing style.
+The counterexample to the opposing examples of Brown and the A’s rotation is Nick Swisher, an outfielder who was drafted by the A’s in 2002 with Brown. With an athletic build and solid performance across numerous statistical categories, Swisher was touted by scouts and number crunchers alike. Over 9 seasons, Swisher has gone on to slug over 230 home runs, demonstrating the success of a synthesis between statistical analysis and subjective scouting.
+Indeed, Paul DePodesta ’95, one of Beane’s former lieutenants, has repeatedly argued that the conflict that Lewis describes between scouting and stats is “fantastical.”
+“When I go to the park,” DePodesta says, “I try not to look at the stats until after the fact, and then see whether or not what I saw with my eyes agrees with what the page says.”
+DePodesta would agree that the true lesson of “Moneyball” is that a clear and empirical view of the facts cannot be entirely dependent on numbers. As any statistician will tell you, statistics are meaningless without context—ignoring the context provided by scouting means discarding valuable data. 
+Michael Lewis’s writing is a valid critique of the blind faith of baseball’s old guard—those who believed that subjective scouting told the whole story of a player’s value. Perhaps it’s time that the faith of a new generation—those beholden to the absolute truth of numbers—be questioned.
+ Oliver W. Kim ’16, a Crimson editorial writer, is an economics concentrator living in Leverett House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+ Family doctors, pediatricians, and internists, commonly known as primary care physicians, are the backbone of the American healthcare system. Their critical roles in disease prevention, diagnosis, and treatment significantly improve quality of life for millions of Americans and decrease the soaring costs associated with trips to the hospital and emergency room. However, in 2010, the U.S. faced a shortage of 9,000 of these physicians, and the Association of American Medical Colleges estimates that that number will increase to over 65,000 by 2025. This shortfall is fueled by the aging physician workforce (almost half of workers are more than 50 years old), the lack of doctors-in-training who intend to enter primary care, and, most recently, the implementation of the Affordable Care Act. The healthcare law has admirably increased access to health services for millions of patients, but it will only further increase physician shortages if the situation is not adequately addressed.
+ Reversing this trend requires a multifaceted approach and is of the utmost importance if the U.S. is to rein in rising healthcare costs and provide sustainable, high-quality healthcare to its citizens. The seemingly obvious first step is to increase the number of primary care physicians, but this proposal faces fundamental challenges. The primary care fields do not present an attractive career option for many aspiring doctors. Those in primary care have much lower salaries than doctors who specialize, despite working for a similar number of hours; they must also contend with the most paperwork. In 2013, physicians in family medicine earned an average of $175,000, while radiologists, for example, averaged $349,000. Regardless of a physician’s level of selflessness, reimbursement holds a major sway, considering that the average medical student in 2013 graduated with $169,901 in debt, not including expenses from undergraduate studies.
+ Despite these challenges, increasing the number of primary care physicians is possible and will require increased incentives to make primary care a more feasible career option. This does not necessarily mean we need to increase salaries; instead, we need to focus on more feasible loan repayment and forgiveness programs, which currently exist but need to be increased in scope. For example, the Students to Service program offers loan repayments of up to $120,000 for medical students who enter primary care and practice in underserved areas. Lawmakers should appropriate more funds toward these kinds of programs, as this investment will decrease long-term healthcare costs. In fact, a report conducted by Johns Hopkins researchers estimates that, if we raise the proportion of primary care physicians by one percent, “an average city will have 503 fewer hospital admissions, 3,000 fewer emergency-room visits, and 512 fewer surgeries annually.”
+ While these methods can and should be implemented, a more promising solution to the growing crisis involves fundamentally redefining the roles of healthcare personnel. Instead of delegating most responsibilities to the physician, a clinical team approach may be more effective, allowing nurses and physician’s assistants to perform many of the functions currently performed by doctors. A report in “Health Affairs” argues that nurses and physician assistants could administer 60 percent of the preventive procedures ordinarily performed by primary care doctors, including vaccinations and cancer screenings. This redistribution of duties could free up 10 percent of physicians’ schedules, allowing them to see more patients and make more effective use of their time.
+Medical homes currently employ this method, spreading healthcare duties among a variety of personnel, including assistants, nurses, nutritionists, and pharmacists. Services provided by these medical homes constitute 15 percent of primary care in the U.S., and it is estimated that if these homes grew to provide half of the nation’s primary care, the physician shortfall would decrease by 25 percent. To be sure, expanding medical homes to this extent is a daunting task, and lawmakers will need to enact state legislation that expands the number of tasks and procedures that nurses and physician assistants can perform. However, if this model is applied in doctor’s offices and hospitals as well, we could see a sharp decline in physician shortages.
+However, it is important to combine the use of the clinical team model with methods to increase the number of primary care doctors. Nurses, physician assistants, and other healthcare personnel cannot perform all the tasks of extensively trained physicians, and physicians by themselves cannot provide high quality care to every patient with the current shortage. Other solutions should also be incorporated. For example, medical schools need to change their culture so that the brightest students do not feel pressured to specialize. Specialty doctors are certainly needed, but primary care physicians face the most deficiencies.
+Ultimately, the US spends more on healthcare than most developed countries, and yet has not seen markedly better health. Primary care physicians, with their contributions to preventive care, are the key to reining in this large and inefficient spending. If we wish to reform the American health system, we first need to address the shortage in primary care, and we need to do so now.
+ Anthony Thai ’17 is a Crimson editorial writer living in Straus Hall.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+Judge Richard A. Posner of the Seventh Circuit Court of Appeals was not amused during oral arguments last month. The case, Notre Dame v. Sebelius, concerns the requirement in the Affordable Care Act for “basic essential health benefits” that cover contraception without any co-pay, a regulation made by the Department of Health and Human Services after consultation with the Institute of Medicine. Religious nonprofits are exempt from the law’s requirement, as are affiliated groups such as Catholic hospitals and universities like Notre Dame, though their insurance companies must pay for employees’ contraceptive coverage. For-profit companies whose owners have religious objections must still provide the coverage.
+Despite not being required to pay, or even to have any involvement with providing contraceptive coverage, Notre Dame has argued that its religious liberty is unduly burdened by merely participating in a system that provides such coverage. In seeking to understand this logic, Judge Posner asked the university counsel what the school found objectionable in communicating its religious views to the government, gaining its exemption, and continuing to not pay for contraception.
+Posner became somewhat hostile when he did not receive a straightforward answer. Some of Judge Posner’s behavior may have strayed outside the bounds of circumspect judicial temperament, but his exasperation with Notre Dame’s unconvincing argument was understandable.
+The coup de grâce undoubtedly came when he asked attorney Matthew Kairis, litigating on behalf of Notre Dame,  if contraceptive use was “a mortal or venial sin.”
+“I don't know,” the lawyer responded.
+“Well, you should.”
+Perhaps that final exchange was gratuitous, but it gets to the heart of some of the real health issues underlying the constitutional ones. According to the Guttmacher Institute, 89 percent of Catholic women who are at risk of an unwanted pregnancy use contraception, including 68 percent who use a “highly effective” method like the pill or IUDs. Most strikingly, the Guttmacher study found that “only 2 percent of Catholic women rely on natural family planning,” even when church attendance is taken into account.  In other words, the Catholic Church’s doctrinal position on contraception has lost touch with the health needs of its members, to say nothing of those of Americans more broadly.
+Issues of moral authority and health realities aside, Notre Dame’s legal case is, as Judge Posner’s skepticism likely indicated, troubled. As Emma Green noted in the Atlantic, previous cases have held that “religious groups do not have veto power” over government regulatory regimes, only the right to avoid direct participation—a right that the university is manifestly able to exercise by completing the opt-out paperwork.
+If Notre Dame’s case represents a strained attempt to stretch the doctrine of religious freedom, the one involving an organization called Little Sisters of the Poor is the phenomenon’s reductio ad absurdum. Like Notre Dame, Little Sisters of the Poor—a nonprofit run by nuns—is exempt from the paying for contraceptive coverage. But their insurer is also a religious nonprofit, meaning that their employees will be denied outside coverage as well. And yet the organization is suing, claiming that even filling out the necessary paperwork is a violation of their religious liberty.
+As Linda Greenhouse ’68, a former Crimson editor, has pointed out, the Little Sisters of Poor case is frightening for two reasons. First, despite the bizarre logic underpinning it, the Supreme Court chose to give the sisters a stay until the case could be heard by a lower court, raising the specter that some justices may sympathize with the group. Second, the case is the perfect illustration of the “give ’em an inch, they’ll take a mile” doctrine—as Greenhouse put it, “An ever more generous set of accommodations … has only led to a demand for more.” If a religiously-inspired organization undertaking secular work is exempt from submitting a government form, what regulatory writ does the government actually have?
+That question is central to perhaps the most crucial of the contraception mandate cases, the one involving the private store Hobby Lobby, which is seeking an exemption because its owners are religiously opposed to contraception. Here, the owners are indeed inconvenienced by the regulation, but, as owners of a for-profit chain subject to Congress’s regulation of interstate commerce, they should have little ability to object. As legal scholar Garrett Epps ’72, observes, “The government has a powerful interest in making sure that its comprehensive insurance scheme provides uniform opportunities to all employees in commerce.”Astoundingly, however, the Tenth Circuit sided with the owners, and the case is before the Supreme Court.
+Which brings us back to Judge Posner. Though drawing inferences from oral arguments is always a dangerous proposition, one can only hope that his tone was indicative not of his mood, but of his impression of the plaintiff’s unworkable reasoning. If the rest of the Federal bench can take its cue from this skepticism, it will be a victory for sound legal interpretation and reproductive health.
+Nelson L. Barrette ’17, is a Crimson editorial writer in Thayer Hall.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+Last week the “I, Too, Am Harvard” effort exposed an under-discussed side of our university. Through a powerful photo campaign, Harvard students shared their personal experiences in confronting racism and sparked a dialogue on campus. We stand behind the “I, Too, Am Harvard” campaign’s call to identify and combat prejudice.
+Initially motivated in response to a Crimson column, “Affirmative Dissatisfaction,” in fall 2012, many students of color felt the need to engage and defend their very presence on campus. Kimiko Matsuda-Lawrence ’16 interviewed over 40 black students and, using their words, wrote a play that would reflect the collective experiences of the community through dramatic monologues. “I, Too, Am Harvard” quickly became a movement that captured attentions on campus and across the nation.
+“I, Too, Am Harvard” has reminded us all that this country—and even this campus—is not post-racial. It is 2014, and still, black students face offensive comments about their skin, hair, identity, and intellectual capacity. Indeed, as the photo campaign revealed, a black Harvard student can still walk across our campus today and hear the words, “Can you read?”
+It should be the university’s top priority to ensure that no student feels alienated on campus. Whether that is accomplished through improved and more frequent Community Conversations or the creation of safe spaces dedicated to improving race relations, the university should constantly reevaluate how to foster an environment that is inclusive for all. 
+The campaign has also reminded us that student initiatives can have a real, nationwide impact. Still, it does not take a million views on BuzzFeed or a front-page article in the Boston Globe to make students aware about what is happening on campus. Last week, over 35 undergraduate and graduate students attended a town hall meeting to discuss frustrations with the university’s perceived lack of support for the Latino community on campus.  People who feel alienated on campus should feel comfortable sharing their experiences and continuing this campus-wide dialogue. 
+We support the message of “I, Too, Am Harvard” because the situation will not improve until those who are not aware of these issues are made aware. The more we talk about these types of experiences, the more informed we all will be—and the better Harvard will be because of it.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The Hasty Pudding Institute of 1770 announced the creation of a new production arm and its first project, producing the off-Broadway show “Heathers: The Musical,” in a press release Friday. The production branch will provide students involved in the Hasty Pudding Theatricals with networking opportunities and enable the Institute to support theatrical endeavors that align with its brand.
+“We are thrilled to launch this new initiative to propel the Institute’s mission forward and reach a wider audience,” said Hasty Pudding chairman and “Grand Sphinx” Andrew L. Farkas ’82 in the press release. “We are excited to partner with ‘Heathers: The Musical’ and take our first step in expanding the scope of the Institute’s presence in the arts and entertainment industry.”
+In staging “Heathers,” the production branch—coined Hasty Pudding Presents—will be supporting a Hasty Pudding Theatricals alumnus, Laurence C. O’Keefe ’91, one of the writers of the musical, which is an adaption of Daniel Waters’ 1989 film. O’Keefe said in the announcement that he is “over the moon” about the partnership between the Hasty Pudding and “Heathers.”
+“‘Heathers’ continues the Pudding's greatest traditions: speaking out loud, singing louder, and kicking as high as you can,” he said. “I am positively cross-dressing with anticipation.”
+According to the Executive General Manager of the Hasty Pudding Institute Marie-Cecile Girard-Jones, the production will allow for the expansion of the Hasty Pudding Theatricals network beyond Cambridge and students’ time at the College.
+“We are going to organize meet-and-greets between our cast and their cast, our crew and their crew, so that they can learn from somebody who has a show on Broadway,” she said.  She added that the Hasty Pudding’s involvement in “Heathers” will integrate the group into the New York theater scene. The Institute plans to organize summer internships for students who are interested in working on the show.
+“‘Heathers’ is getting something from the relationship because of the value of our brand and over 200-year history and our cache,” Girard-Jones said. “But at the same time the Hasty Pudding, the Theatricals, is getting recognition above and beyond Cambridge because of the fact that people are talking about them in New York City.”
+According to Girard-Jones, the revenue earned from “Heathers,” as well as from any future production projects, will be used to bolster the Hasty Pudding’s philanthropic efforts.
+The Institute is comprised of the Hasty Pudding Club, the Hasty Pudding Theatricals, and the Harvard Krokodiloes. On Monday, the Institute will host its annual Order of the Golden Sphinx Gala, which will feature student and alumni performances as well as the presentation of the annual Order of the Golden Sphinx award. Cast members from “Heathers” will also perform.
+—Staff writer Indrani G. Das. can be reached at indrani.das@thecrimson.com. Follow her on twitter @IndraniGDas.
+—Staff writer Jill E. Steinman can be reached at jill.steinman@thecrimson.com. Follow her on twitter @jillsteinman.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+As The Donkey Show celebrated its 500th performance on Saturday, cast and audience members reflected on the show’s evolution within the Harvard Square theater scene and its ability to continue to engage audiences.
+"It's everything that I love,” performer Kyle P. Vanzandt said of The Donkey Show after the anniversary performance. “Glitter and dancing, and [the 1970s singer] Donna Summer.”
+Covered with heavy doses of glitter, performers at The Donkey Show don disco-ball bras and feathered outfits, transforming the entire Oberon theatre into equal parts stage and nightclub. The two-hour spectacle is a loose interpretation of Shakespeare's play “A Midsummer Night's Dream,” set to 1970s-era disco music.
+The 500th show on Saturday kicked off with disco dancing, led by four male actors dressed as the play’s fairy characters. After an hour, a male announcer welcomed the audience to "a pure boogie wonderland where all you beautiful people can do a little dance and make a little love,” marking the beginning of the theatrical portion of the show.
+"I felt like I was Carrie Bradshaw [in Sex and the City],” audience member Crystal L. Curry commented. “It was very much theatrical New York meets Boston-Cambridge...nitty-gritty Broadway.”
+The show, created and directed by Diane M. Paulus ’87, began in New York in 1999 before coming to Cambridge’s American Repertory Theatre, where Paulus serves as artistic director, in 2009. Despite the show’s long run, performers agreed that the dynamic nature of the show keeps it fun and fresh.
+"[The show] has evolved with every realm of performers, but it has still stayed true to its original production," Hannah E. Shihdanian, an actress in the show, said.
+She added that she finds it "amazing that a show can survive for five years in Harvard Square."
+Vanzandt called attention to the dynamic role of the audience in keeping the show interesting.
+"What makes the show so special is that depending on the audience the show is different,” he said. “I’ve done the show different every single time I’ve done it."
+Many audience members said they enjoyed the show’s engaging energy.
+"I already plan on coming back,” audience member Amanda E. Manning said. “I plan on bringing my mom.”
+According to cast members, it is not only the show’s outlandish acts that make it so endearing to viewers, but also its positive atmosphere.
+"It’s a happy place," Shihdanian said. “It’s place where you can be yourself and really express yourself, no matter what age you are and no matter what your orientation is.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Members of the Undergraduate Council’s Student Life Committee met with officials from Harvard University Dining Services on Feb. 28 to discuss plans to keep the dining halls open during spring break next week.
+“Since our last meeting with HUDS last semester, we have been asking for dining halls to be open during spring break,” vice chair of the Student Life Committee Happy Yang ’16 said.
+She said that though HUDS does not plan to offer dining hall service during spring break this year, HUDS staff members are considering plans to do so next year and have brought a financial modeling plan to the Office of Student Life.
+The College’s meal plan currently does not include dining hall access over spring break, leading many students who are unable or choose not to leave campus during break to purchase food in the Square and the surrounding area with their personal money.
+“I’m staying because I can’t go back to my country [during the break],” said Kelvin N. Muriuki ’17, who is originally from Kenya. “It’s going to be a little tricky getting food, but I have been working, so I’m going to use my savings.”
+Members of some athletic teams, who stay on campus for training, receive a stipend for meals over the break, as per regulations from the National Collegiate Athletic Association for student-athletes who stay on campus for training.
+Lev E. Ratnofsky ’16, a member of the men’s lightweight crew team, said that many of his teammates live in DeWolfe housing, so they also have access to kitchens over the break.
+“Having dining halls be open would be great, but I understand how it could be a waste to Harvard,” Ratnofsky said. “Besides, it gives a nice taste of reality, having to be responsible for your own food and not having it served to you.”
+According to Christa Martin, the HUDS director for marketing and communications, HUDS offered spring break dining options in the 1980s. Students who remained on campus had the option to pay an additional fee for meals during the break, but due to a low participation rate, the program was ended.
+“Over the last few years, there appears to be a growing trend of students staying on campus over the spring break period and requesting service,” Martin said. “As such, HUDS and the College have begun to model the costs of such service and the necessary considerations.”
+After meeting with HUDS, the UC sent surveys to students asking about their plans for the break in order to gauge interest in a possible subsidized meal plan.
+While the dining halls are closed, certain campus eateries like the Northwest Building Cafe, Buckminster's at the Laboratory for Integrated and Applied Sciences, and Bauer Cafe at the Bauer Laboratory will remain open during the break and accept Board Plus.
+—Staff writer Kamara A. Swaby can be reached at kamara.swaby@thecrimson.com. Follow her on Twitter @SwabyK.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A series of videos produced by students in Kirkland House to generate excitement for Housing Day—including one featuring masked female students dancing in bikinis—sparked controversy and confusion among the student body last week, prompting the removal of the video from YouTube and plans for an open forum for students to discuss their concerns.
+According to emails sent over the Kirkland House listserv, the complete series of ten Housing Day videos were debuted at a Beyonce-themed Stein Club on Thursday night.
+The following day, Kirkland residents emailed the House list asking the Kirkland House Committee to remove one of the videos entitled “Dark Boar,” set to the Katy Perry song “Dark Horse.” The video included bikini-clad women wearing Kirkland masks and a boar’s head, in honor of the House’s mascot, dancing and posing on the furniture in the Kirkland House junior common room.
+Although Kirkland’s HoCo encouraged residents to circulate the videos on Facebook in emails sent Friday morning, the videos were removed from public view on YouTube that evening. Each of Harvard’s 12 undergraduate Houses typically produces a short promotional video in advance of Housing Day, when freshmen are assigned to their upperclassman residences.
+The Kirkland HoCo declined to comment on the House’s videos.
+While students disagreed on the extent to which HoCo was directly involved in the production of the videos, the link to the YouTube playlist containing all ten videos was sent to the House list from the HoCo email address.
+ 
+“From what I understand, from what I’ve heard from the list, and what was communicated to us by HoCo...the videos were made by a group of students that volunteered to make them,” Kirkland House resident Edward Escalon ’14 said. “Some HoCo members participated in the production, but they weren’t in charge of the production.”
+ 
+Sophia D. Chua-Rubenfeld ’15, a Kirkland House resident, also stressed that HoCo did not sponsor the videos.
+ 
+“House spirit runs strong in Kirkland—the album was a collaborative effort spearheaded by non-HoCo members of our community,” she wrote in an email.
+While some students expressed concern over the content of the videos, particularly that of “Dark Boar,” others said they thought the negative reaction was unwarranted.
+Ian D. Nightingale ’15, who made a separate, parody Housing Day video with his roommates after the original videos were taken down, said that the “Dark Boar” video “didn’t quite go far enough in the parody aspect” and was therefore perceived by many as being objectifying rather than humorous.
+“I just think that it wasn’t a good idea, it wasn’t funny, and some people were offended by it, which is a bad combination,” Nightingale said.
+Escalon said that certain aspects of the video stood out as problematic to him.
+ 
+“I wasn’t so much bothered by the women in bikinis as much as I was bothered by the fact that their faces were covered,” Escalon said. “When you cover their face, it’s kind of like saying they’re no longer a person, that they are just this body to watch, and that was kind of uncomfortable for me.”
+Other students said they took issue with the targeted criticism of the “Dark Boar” video. Chua-Rubenfeld wrote in her email that the other Kirkland Housing Day videos featured “scantily clad” students of all genders.
+“No one took issue with the gyrating boys in boxers, yet the girls who appeared in bathing suits were instantly scrutinized, criticized, and victimized,” Chua-Rubenfeld wrote. “The backlash, however well-intended, communicated to the women in the video that their choice to bare their bodies was shameful and degrading, which to me is absolutely unacceptable.”
+Kirkland House Master Verena A. Conley wrote in an email to The Crimson that she is “aware that several students have expressed concern with some of the student-produced housing videos.
+“The Kirkland community has organized a gathering to address these issues, and we look forward to a positive and constructive discussion,” she added.
+Kirkland House tutors and interns from the Harvard College Women’s Center will facilitate a discussion about the portrayal of race, gender, and sexuality in this year’s Housing Day videos on Monday night in the Kirkland Senior Common Room.
+—Staff writer Nikki D. Erlick can be reached at nikki.erlick@thecrimson.com. Follow her on Twitter @nikkierlick.
+—Staff writer Brianna D. MacGregor can be reached at brianna.macgregor@thecrimson.com. Follow her on Twitter @bdmacgregor.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+The Faculty of Arts and Sciences will likely vote to lower restrictions on gender-neutral housing sometime this spring, members of the Undergraduate Council announced in their general meeting on Sunday.
+ 
+UC President Gus A. Mayopoulos ’15 and Vice President Sietse K. Goffard ’15 said that in a meeting Friday, Interim Dean of the College Donald H. Pfister informed them that all House masters were on board with a proposal that would eliminate the rule currently requiring suites with students of different genders to have locking bedrooms. Faculty will likely vote on the changes sometime after Spring Break, Goffard said.
+ 
+Goffard characterized the move as “a huge victory for students” and applauded the activist efforts of Brianna J. Suslovic ’16 and Jordan T. Weiers ’16.
+ 
+The Office of Student Life specifies on its website that mixed-gender housing is restricted to suites which have separate, same-gender bedrooms with locks installed. A pilot program in 2011 relaxed this rule for six of the Houses. According to Goffard and Mayopoulos, the lock requirement will likely be removed for all Houses.
+ 
+After providing updates on the status of gender-neutral housing, Goffard and Mayopoulos turned the Council’s focus to four legislative pieces, three of which passed and one of which was tabled.
+ 
+The first that passed was a spring grants pack that allocates about $10,500 to various student groups. Afterwards, the UC voted unanimously in support of using approximately $1,400 from its operations fund to provide students with the option of purchasing shuttle tickets to the airport at various times on Friday before the spring recess.
+ 
+Next, members deliberated on the Simple2Give Endorsement Act, which was introduced by UC Treasurer Meghamsh Kanuparthy ’16 and entailed the UC’s endorsement for a free, third-party software created by a company founded in Harvard’s i-Lab. The software is designed to help nonprofits fundraise online by directing a portion of certain online transactions to charitable organizations.
+ 
+Council members voted to postpone the legislation so that they may have more time to learn about the technology and speak with Simple2Give representatives before considering an endorsement.
+ 
+Afterwards, Amy M. Yin ’14 and Nuseir Yassin ’14, members of a soon-to-be-launched student startup called Kommonly, asked the Council to endorse their efforts to partner students seeking funding for their groups with company sponsors.
+ 
+“Clearly students do not have enough money for their organizations,” Yin said.
+ 
+Yin also talked about the importance of informing students about their funding options.
+ 
+"We want student groups to know this is an option for them,” she said.
+ 
+After amending the legislation to rephrase what the UC would be promoting, the measure passed with broad support.
+ 
+Kanuparthy spoke after the meeting about the significance of informing undergraduates of the different outlets they can turn to when UC funding does not meet all of their needs.
+ 
+“I think that we would be shooting ourselves in the foot if we didn’t help students...and providing students with an avenue is crucial,” Kanuparthy said. He added that the UC is only endorsing “directing people to a market.”
+ 
+Still, some representatives disagreed. In an emailed statement after the meeting, Brett M. Biebelberg  ’16, who voted against the measure, said that he does not believe the UC should endorse the service at this time, even though he thinks it’s “a fantastic idea.”
+ 
+“I don't think the UC as a student government should promise to promote and give a stamp of approval to a third-party company like Kommonly that has yet to launch and demonstrate its viability,” he wrote.
+ 
+—Staff writer Noah J. Delwiche can be reached at noah.delwiche@thecrimson.com. Follow him on Twitter @ndelwiche.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+This is the second article in an occasional semester-long series on homelessness in Harvard Square. Read the first installment here.
+ 
+Tucked into the basement of Swedenborg Chapel near the Graduate School of Design, Bread and Jams drop-in shelter serves the daytime needs of Harvard Square’s homeless population by providing hot meals and a warm place to stay five days a week. But recent changes in federal funding for homelessness services will force the shelter to shut its doors on March 25 after decades in operation.
+ 
+Mary Shannon Thomas, the center’s director and a clinical social worker, said the decision by the Department of Housing and Urban Development to shift funding from supportive street outreach programs, like Bread and Jams, to permanent housing programs has exhausted the shelter’s funds.
+ 
+According to Shannon Thomas, HUD categorizes housing programs into two tiers and, in recent years, the department has placed more permanent housing programs into the first tier, leaving less funding for programs like Bread and Jams in the second tier.
+ 
+When Bread and Jams closes in two weeks, the Square will be left without an adult, daytime drop-in center. The only other such program in the Square, Youth on Fire, a drop-in center located near the Law School for those under the age of 24, will relocate to Central Square at the end of the month after seeing its own funding reduced.
+ 
+“I do think that losing a low threshold drop-in in an area that always has been identified as high-need is going to have an impact on the community,” Shannon Thomas said. “I don’t think there’s any way around that.... No one will be immediately filling the void.”
+ 
+From free mailbox services to a place to quietly sit down and eat a prepared meal each weekday from 9 a.m. to 2 p.m., Shannon Thomas said the shelter provides mainly fundamental services that others do not. The program also helps connect the homeless to first-tier permanent housing programs, according to Shannon Thomas.
+ 
+Singling out the mailbox services, she said that the center’s closure would leave many homeless guests without a mailing address that is necessary to receive Social Security benefits and other parcels.
+ 
+“If you don’t have income, you can’t pay for a P.O. box, so that’s not an option for a lot of folks,” Shannon Thomas said. “You can’t get mail at a shelter unless you’re staying there for a long time, and a lot of shelters have limits for stay.”
+ 
+Roger Conant Woodberry, a New Hampshire-native who has been using Bread and Jams’ services for the past few months, echoed Shannon Thomas’ sentiments.
+ 
+“A mailbox in Cambridge is 77 bucks for six months,” Conant Woodberry said. “If you’re in this kind of situation, it’s really money you don’t want to be spending.”
+ 
+According to Conant Woodberry and other guests at Bread and Jams, there are no other substitutes for the program, which provides a space to sit down and socialize in addition to food.
+ 
+“This provides a lot of stability and community,” Conant Woodberry said. “You see the same people on a daily basis.”
+ 
+With the center’s closure, that community will be forced to find other options in the greater Cambridge area that are less reliant on federal funds than Bread and Jams.
+ 
+The Salvation Army, located in Central Square, also runs a drop-in center that serves hot meals during the day. Captain Armida Harper said that the center relies on individual donations from the community and local grants in addition to state and federal aid.
+ 
+Sasha Purpura of Food for Free, a nonprofit that delivers donated food to pantries throughout Cambridge and Boston, said that the organization receives approximately 10 percent of its funding from the government, with only about one percent from the federal government’s Emergency Food and Shelter Program. The remaining nice percent comes from the City of Cambridge’s Community Development Block Grant Program. Private and corporate donors make up the rest of the program's funding.
+ 
+By contrast, Bread and Jams receives the majority of its funding from the federal government, according to Shannon Thomas.
+ 
+For those who frequented Bread and Jams, its closure highlights their reliance on basic services.
+ 
+Asked what new homelessness programs he would most like to most like to see in Cambridge, Conant Woodberry described “a Bread and Jams on wheels.”
+ 
+“A traveling canteen that would be able to move to different locales...with hot foods instead of just cold sandwiches,” Conant Woodberry said. “It wouldn’t be as good as this, because of the multi-services provided here, but it’s something that should exist.”
+ 
+When asked the same question over lunch at Bread and Jams, Mike Stroun, who has been utilizing homelessness services for five years, gestured to the center’s staff.
+ 
+“More of this,” he said.
+ 
+—Staff writer Sonali Y. Salgado can be reached at sonali.salgado@thecrimson.com. Follow her on Twitter @SonaliSalgado16.
+—Staff writer Caroline T. Zhang can be reached at caroline.zhang@thecrimson.com. Follow her on Twitter @CarolineTZhang.
+This article has been revised to reflect the following correction:
+CORRECTION: March 10, 2014
+An earlier version of this article incorrectly stated the proportion of the Boston-Cambridge nonprofit Food for Free funds that comes from the City of Cambridge’s Community Development Block Grant Program, and a previous correction incorrectly stated the name of the nonprofit. In fact, Food for Free receives nine percent of its funding from the municipal program.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+As Harvard Business School prepares to launch its first online learning platform, known as HBX, later this spring, the initial success of the Business School faculty’s growing involvement in undergraduate education reflects the opportunities and limits of expanding the case method pedagogy to a broader audience.
+ 
+While very few College students historically have cross-registered in MBA courses at the Business School, undergraduates are offered several College courses taught by Business School faculty members, including United States in the World 36: “Innovation and Entrepreneurship: American Experience in Comparative Perspective” and the class “Introduction to Innovation and Entrepreneurship,” which is offered jointly as Stem Cell and Regenerative Biology 135 and Engineering Sciences 238, among others.
+ 
+In the fall, 350 students interested in taking United States in the World 36 entered a lottery for only 95 slots, according to the course’s professor. Several hundred students from various schools across the University also attended the opening meeting of “Introduction to Innovation and Entrepreneurship,” which offered 50 slots to undergraduates, according to the course’s website.
+ 
+Notably, these courses differ from typical undergraduate courses in their use of the case method teaching style, which was deemed the Business School's "primary method of instruction" in 1924, according to the school's website. The pedagogy aims to place the student in a decision-making position through the analysis of real-world cases in small group discussions, followed by questioning guidance from the teacher in a forum-style class.
+ 
+While the case method historically has been used with MBA students, who typically have several years of business experience before enrollment, College undergraduates have been quick to adapt to the teaching style, said David L. Ager, a senior fellow at the Business School who co-taught United States in the World 36 in the fall. Ager is also a former director of undergraduate studies of the Sociology Department.
+ 
+“My experience is that College undergraduates have incredibly rich real-life, real-world experiences to share,” he said. “I think that within three weeks [into the course], students had become comfortable with this new pedagogy. They were quite comfortable speaking out.”
+ 
+Joseph V. Marino ’14, a student currently taking “Introduction to Innovation and Entrepreneurship,” added that the section-like nature of the class—and the risk of being cold-called by the professor—forces him to always be prepared for class. That pressure, he said, has only augmented his learning experience.
+ 
+“I don’t think that I would get as much out of the class if it wasn’t case-study method style,” he said. “If the class just had a midterm, final, or a paper, it would be easier to brush it off to the side and to not immerse yourself in it.”
+ 
+Despite the popularity of the new case-based courses, several resource constraints could potentially limit the rate at which new courses using the case method could be added.
+ 
+Michael P. Burke, Registrar of the Faculty of Arts and Sciences, wrote in an email that a lack of suitable classrooms for case-method classes could limit the number of College courses taught in this style. At the Business School, courses are generally held in large forum-style classrooms suited to accommodate approximately 90 students.
+ 
+Ager added that the College may need to allocate curricula and faculty-training resources in order to sustain growth in course offerings.
+ 
+“If this were to grow, we would need to train more people in being able to teach using this particular approach,” he said. “For this to really expand and grow, people would have to become interested in this approach to teaching…. There would need to be curricular resources there, as well.”
+ 
+Nevertheless, Ager said, the expansion of the case method to undergraduate courses falls in line with the continued experimentation with the case method, especially in light of the Business School’s plan to expand its virtual education platform with the launch of HBX.
+ 
+“Introduction to Innovation and Entrepreneurship,” for example, requires students to engage with interactive videos after reading each case study, Marino said.
+ 
+“It’s almost as if you’re learning the material before you come to class,” he said. “The class is just to shore up the finer details of what you may not have understood online.”
+ 
+—Staff writer Alexander H. Patel can be reached at alex.patel@thecrimson.com. Follow him on twitter @alexhpatel.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ 
+Jazz musician Herbert “Herbie” J. Hancock explored the topic of innovation and new technologies by blending his passion for music and science in a lecture at Sanders Theatre Monday afternoon.
+The lecture was the fourth installment of a six-part series entitled “The Ethics of Jazz,” which Hancock has delivered as the 2014 Charles Eliot Norton Professor of Poetry and as part of a larger program presented by the Mahindra Humanities Center.
+Hancock spent the afternoon discussing how he has pushed for the advancement of technology in order to create revolutionary jazz music.
+“I love working with fearless people, the rule breakers [and] developing a cutting edge way of making art,” he said. 
+In the 1970s, Hancock said that he worked with the music industry to use the keyboard to channel multiple instruments. 
+“We didn’t stop there,” he said.
+Hancock also was one of the first jazz musicians to use a vocoder, an instrument that creates a synthesized vocal sound very similar to today’s auto-tuned voices, as a complete replacement for the human voice. In addition, Hancock said that "scratching records and turntable techniques" fueled the creation of his album, "Future Shock," which included the Grammy Award-winning song "Rockit."
+This experimentation and the incorporation of new musical techniques brought further success to his musical career. Hancock won an Academy Award for best original score for the film "Round Midnight" in 1986. Still, Hancock warned of the risks of technology in music.
+“There’s always a danger that technology will take the spotlight at the expense of musical expression,” Hancock said. He added that while he had initially agreed with critics of the use of the synthesizer as a replacement for traditional instruments, he developed a fascination for the instrument that opened up interesting musical possibilities.
+Terri L. Carrington, a Grammy-winning jazz musician who attended the event, praised Hancock’s ability to integrate innovative new techniques into his art. 
+“I worked for Herbie for so long,” she said after the event. “Mixing technology with music in a very organic way is something very few people can do.” 
+Sitting in front of a complex arrangement of synthesizers, vocorders, and keyboards, Hancock ended his talk by playing a work in progress entitled "Sonrisa." As he stroked the keys, he improvised an orchestra. 
+“We were watching on stage not a finished product but a creative process,” said Ingrid T. Monson, a professor of African American music.  “[That kind of performance] takes a person with confidence in their musical creativity and willingness to explore.”
+Other audience members included cellist Yo-Yo Ma '76, and New York City Ballet retirees Damian Woetzel and Heather Watts.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Saturday brought disappointment. Sunday brought relief.
+At 6 p.m. on Sunday, the No. 6/6 Harvard women’s ice hockey team (23-6-4, 16-3-3 ECAC) earned an at-large bid into the 2014 NCAA Tournament, despite losing to No. 5/5 Cornell (24-5-4, 15-4-3) in the ECAC semifinals 24-hours prior.
+“I love my team,” said Harvard interim head coach Maura Crowell. “They laid it out on the line [on Saturday], gave it everything they had. Mental mistakes and some errors caught us, and that’s going to happen sometimes. But I love them, I’ve had a blast, and we’re looking forward to continuing the season.”
+The ECAC matchup against the Big Red ended the Crimson’s hopes at a league tournament title. Fortunately for Harvard, the 6-4 loss at Cheel Arena will not be the final game of its 2013-2014 campaign.
+After several contests in which scores were slow to come, senior forward Gina McDonald put the Crimson on the board just over four minutes into the contest. But closely spaced penalties gave Cornell a costly five-on-three advantage during the middle of the period. The Big Red capitalized, as junior forward Emily Fulton sniped one past sophomore goaltender Emerance Maschmeyer in the final seconds of the two-man advantage.
+Maschmeyer returned to action in Saturday’s contest after freshman Brianna Laing took over in net for two of last weekend’s three matchups. The sophomore, recently named Co-Ivy Player of the Year and ECAC Goaltender of the Year, recorded 19 save against Cornell but gave up five goals on the night, the highest number of nets by an opponent all season.
+“[Maschmeyer] made some incredible saves at certain points,” sophomore forward Miye D’Oench said. “We had some defensive breakdowns that kind of left her out to dry, [and] a few of them went in, a few of them didn’t. I think Emerance did everything she could to put us in a position to win, and unfortunately things didn’t go our way.”
+The Big Red extended its lead to 2-1 with an early second frame goal, but Harvard came storming back with three straight nets of its own in the second frame, largely due to the offensive firepower of D’Oench. The forward found the back of the net eight minutes into the period, and the sophomore added an assist on classmate Jessica Harvey’s goal just five minutes later. D’Oench put up another score with less than two minutes to go in the period, giving the Crimson a 4-2 advantage.
+But the momentum of the game shifted, as Cornell responded with a goal of its own less than 50 seconds later. Junior forward Jillian Saulnier drove the puck past Maschmeyer with 1:07 left in the period to cut the deficit to one heading into the final twenty minutes of play.
+“[That] goal was somewhat of a back-breaker,” Crowell said. “You get a two-goal lead against Cornell in a semifinal game, it’s a really good situation to be in. I would’ve liked to see us play with a lot more composure and stability. To turn around and give a goal up was devastating. We talk all season long about the final two minutes of a period and the first two minutes of a period, how you have to play smart, you have to keep pucks deep. That was a really bad goal to give up.”
+Saulnier and her squad came out firing in the third period. The junior scored again two minutes into the frame to even the score at four goals apiece. Sophomore forward Jess Brown added a score of her own while on the power play at 12:44 to put the Big Red up by one.
+“We had a two goal lead with about a minute left in the second period, and we kind of gave it back to them,” D’Oench said. “We’re obviously pretty disappointed about that. I thought we played a pretty good game, but when you have a two-goal lead in a game like that you shouldn’t really be giving it back to them.”
+The Crimson kept pressing for the remainder of the third, but a checking penalty on Briana Mastel with 1:19 left in the game put Harvard a man-down for the remainder of the game. Harvard pulled Maschmeyer from the net to even out the strength of the field, but Cornell forward Emily Fulton sent the puck flying into an empty net with 24 seconds left in the game to cap off the victory.
+Harvard wasn’t the only team Cornell edged this weekend in Potsdam, N.Y., as the Big Red defeated hometown one-seed Clarkson, 1-0, in Sunday’s ECAC title matchup. The Crimson will face four-seed Wisconsin in Madison, Wis., next Saturday. Cornell, second on the ladder, will host Mercyhurst at home on the same day.
+—Staff writer Brenna R. Nelsen can be reached at brenna.nelsen@thecrimson.com. Follow her on Twitter @CrimsonBRN.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+ 
+Happy happy Monday!! After what was (hopefully, but probably not) a productive weekend, we hope you are all rested and ready to go for one last week before spring break.
+ The Little Engine that Could said it best--I think I can, I think I can. Definitely won’t be weird if you mutter that under your breath as you try to answer the ridiculous multiple choice questions on your SLS 20 midterm this week. Not weird at all…IN THE ATMOSPHERETomorrow’s high is a decently warm 44 degrees, with a low of 35. There’s some snow forecasted for the morning, which normally would be upsetting, but anything’s preferable to the weird sludgy mess currently on the ground.IN THE D-HALLSLunch:Chiang Mai Pork CurrySweet and Sour Chicken with PineapplePepper, Tomato, Black Bean, and Monterey Jack QuesadillasDinner:Roast Turkey BreastSaigon Bamboo TofuVegetarian Penne BologneseON FLYBY1) Hemenway's Short Stories: Early Morning Duo. "It was very early and there were only two law students in the gym. The undergraduates preferred to come later in the day. The law students came early."2) Roving Reporter - How Do You Spell Pforzheimer? Harvard students must know, right?!3) What to Expect on Housing Day. Freshmen, listen up.4) Jindal Thinks Obama Should Sue Harvard. Governor of Louisiana, Bobby Jindal, offered a friendly suggestion that Obama should sue Harvard “because I’m not sure what he learned in three years”. Suing HLS, huh? No way that could go badly for you...IN THE NEWS1) Men’s Basketball Clinches NCAA Berth with Win Over Yale. The Crimson defeated the Bulldogs with a score of 70-58, winning their their third consecutive Ivy League Title. Get ready for March Madness, Harvard.2) Latino Students Share Frustration, Look For Common Ground at Town Hall. Students met to discuss their various experiences as Latino students at Harvard and brainstormed solutions and ideas to be implemented this semester.EVENTSNo home games for the Crimson today, but send support to Men and Women’s Swimming and Diving, competing at the NCAA Diving Qualifier in Blacksburg, Virginia from today until March 12th. Maybe one of them will emerge as Harvard’s very own Tom Daley.Set 4 of the Norton Lectures on Poetry, featuring famed jazz musician Herbie Hancock, takes place tomorrow at 4:00 p.m. in Sanders Theatre. Tickets are free and available from the box office starting at noon. The lecture will cover innovation and new technologies.PHOTO OF THE DAYMason Hsieh '15 (right), also a Crimson Junior Editor, dances in the Donkey Show's 500th performance on March 8 at Club Oberon in Harvard Square. The American Repertory Theater psychadelic, flamboyant, and interactive disco show is inspired by Shakespeare's "A Midsummer Night's Dream".
+Sections
+We already know that Harvard students can't name the capital of Canada, but surely they know how to spell, right? 
+For more information about Pfoho (or however you spell it), check out Flyby's Housing Market on March 10 for Quad Houses. 
+

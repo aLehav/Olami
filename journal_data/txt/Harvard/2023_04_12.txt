@@ -1,0 +1,355 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+ChatGPT can do CS50 problem sets, draft section discussion posts, and even help prepare for consulting case interviews. It also passed the bar and did better on most of its AP exams than the majority of students did — and it took all of them. Each week, it feels, comes a new achievement.
+It’s easy to ask yourself: Why am I doing this work, then? What’s the point of learning anything?
+In this new — and highly unfamiliar — environment, the true use of your knowledge will not be for producing answers. It will be for asking the right questions.
+Emerging large language models (like ChatGPT) will make accessing local knowledge, or domain-specific pieces of information, trivially simple. This isn’t an entirely new phenomenon — the internet made the answers to all sorts of specific questions a few clicks away. What’s the capital of Serbia, again?
+In a world with these sophisticated models, the core expression of human knowledge will be in deciding what to use these tools for. Without any knowledge of anything, one would not be able to ask the right questions. Imagine you are trying to come up with a new research direction in physics. If you don’t know any physics, you wouldn’t know where to start. In order to be able to ask the most interesting questions, you need to have some general knowledge.
+This global knowledge, we’ll call it, comes from exploring a lot of different intellectual areas. Even if you don’t remember the specifics of that introductory psychology course you took freshman year, for example, you can probably retrace your steps to revisit a concept from that class later on. And that law school lecture you sat in on perhaps didn’t leave you with very practical knowledge, but now you have the vocabulary to dive deeper when you need to.
+A lot of times, global knowledge — or an interdisciplinary education, as Harvard brands it — is not very practically useful. You might forget everything a few months later. But there will be occasional flashes of inspiration that come from these cross-discipline connections that simply wouldn’t have occurred otherwise. Knowing what you don’t know — in other words, knowing that some kind of knowledge exists — enables you to find it when you need it. Tools like ChatGPT will close this last mile in the journey for knowledge — you just need to know what to ask.
+However, there will soon also be types of knowledge work that artificial intelligence can simply do better than most humans.
+For a historical analogue, take chess. In 1997, Garry K. Kasparov, a world chess champion, faced off against Deep Blue, a chess supercomputer built by IBM, and, in the last game of their match, conceded defeat for the first time in his career. For many, this was a crucial blow to the supremacy of the human mind over computers.
+And yet, chess did not die. Far from it — the community is more active than ever and, thanks to chess engines, today’s competitors are using computers to learn even more deeply about the game and reach new heights.
+In a world where a human is always inferior to a computer at chess, what value does the game serve? When real-time translation systems are widely used, why bother learning another language? Why read a book if ChatGPT already knows everything about it?
+It still makes sense to learn things that aren’t useful. The strenuous mental activity involved in playing chess has been suggested to create plasticity changes in the brain that could protect against dementia. There’s a vast literature on the perspective change that comes from multilingualism. And reading a book can teach argumentation and storytelling skills, even if you’ll forget the specifics a few months later.
+In many cases — but not all — the process of learning these non-practical skills is the product.
+Ira J. Glass, the host and producer of NPR’s This American Life, suggests that there are two elements to a great artist: taste and skill. Most creative people, he says, have great artistic taste; it’s the skill that they’re working on developing. Emerging artists start off with poor skill: They know what great art looks like but aren’t experienced enough to pull it off. With enough work on their craft, according to Glass, they can lessen this skill gap and finally start making the great art they’ve imagined.
+But the development of new generative tools has collapsed this skill gap across a variety of domains. Amateur developers can whip up an iPhone app in a day or two. Digital artists can design entirely new worlds, in high resolution, in a matter of minutes. Novelists can write books in the span of weeks, instead of years.
+It prompts us to ask: What skills do I have, honestly, that aren’t at risk of replacement by artificial intelligence? Probably very few.
+However, the limiting factor here isn’t the quantity of output — we’re entering into an era of content abundance — it’s how much of it is actually good. And that’s a question that, at least for now, is deeply human. It’s what comes from having a well-developed taste — the one remaining element needed for a great artist in the age of AI.
+Taste can take all types of forms. For a researcher, it might be how you decide on what question to investigate in the first place, not the act of running the regression. For a journalist, it’s the intuition you have for chasing a story and collecting the right information, not necessarily turning it into words. And for a university professor, it could be the ability to excite and mentor students, not necessarily teaching the subject material.
+It’s hard to know where this is all headed. One thing is clear, though: This should change both what and how we choose to learn. If, at Harvard or elsewhere, you have the opportunity to expand your global knowledge, pick up useful — but perhaps not practical — skills, and invest in your taste, you should take it.
+Roman C. Ugarte ’24 is an Applied Math in Economics concentrator in Eliot House. K. Oskar Schulz ’22 is currently on leave founding a startup in New York City. Their column, “Under-indexed,” runs on alternate Wednesdays.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Whenever I am having a good day — whether I did well on a midterm or caught up with a friend who I hadn’t seen in a while — a quick glance at the major national news headlines almost unfailingly dampens my mood. Although every day brings tidings of countless distressing matters occurring worldwide, my own country — the United States — occupies the largest fraction of my daily thoughts. In particular, I’ve found myself appalled at a recent slew of new laws restricting Americans’ fundamental rights and threatening the lives of vulnerable groups across the country.
+Apart from undermining the values that our nation was purportedly founded upon, these laws demonstrate a complete rejection of basic standards of humanity. They — and, more importantly, the leaders and political culture that have created them — speak volumes about the nation we live in. They clearly exemplify why I do not proudly wave the American flag.
+Only days after a mass shooter killed several elementary schoolers and faculty members at The Covenant School in Nashville, lawmakers in Florida responded by intensifying our national love affair with guns. Governor Ron DeSantis signed a bill passed by the state legislature eliminating current laws that require a state license to carry concealed, loaded firearms.
+As children continue to die within the walls of the very buildings where they should feel the safest, policymakers actively create the conditions for bullets to deprive them of life — supposedly a guarantee of the Constitution — before they even learn algebra.
+Lawmakers’ outright refusal to protect vulnerable groups is also apparent in the unprecedented wave of legislation putting the lives of trans Americans at risk. One survey found that over 50 percent of trans and non-binary young people throughout the United States considered committing suicide just last year. Just a few months later, the Kentucky legislature voted to override the governor’s veto of a bill that would prohibit doctors from providing gender-affirming care to trans youth and prevent school districts from even recommending that students be addressed using their preferred pronouns.
+Kentucky isn’t alone — at least 10 other states have passed similar bills, including Arizona, Georgia, Iowa, and Utah. With every vote to prevent a transgender child from accessing the medical care that they should be entitled to, our elected officials make a mockery of “liberty and justice for all.”
+The pure callousness with which many U.S. legislators operate is further exemplified in fierce attacks on abortion rights in the wake of the overturning of Roe v. Wade. Idaho state senators have not only severely restricted abortion access for women within the state — who are 35 percent more likely than men to live below the poverty line nationally — but have also made it a criminal offense to assist a minor in crossing state lines to obtain an abortion. Elected officials’ promises to “promote the general welfare” have become hollow pledges uttered simply to gain entrance to legislative chambers and pursue precisely the opposite mission once inside.
+Time and time again, presidential hopefuls have stood at podiums throughout the nation asking for our vote to lead the “greatest country in the world.” Yet the U.S. consistently ranks first among high-income countries in matters that only produce embarrassment: maternal mortality rates, gun violence, suicide rates, income inequality, just to name a few.
+So when I list all of the identities that I take pride in, being a citizen of the United States unfortunately does not make the cut. I cannot be proud of a nation that has eroded my optimism so thoroughly that I have to mentally prepare myself for the fear and disillusionment that comes with reading the news every day.
+In a republic, our elected officials are meant to represent the values we hold as a nation. Their consistent failure to keep the people they are tasked with protecting alive, not by virtue of simple misfortune but by a sheer lack of compassion and humanity, stamps out any desire I could possibly have to proudly wave the American flag.
+When my parents immigrated to the U.S. to provide their children with greater opportunities for health and prosperity, they did not envision a nation in which only pure chance prevents their kids from becoming part of an ever-increasing statistic of children who die while obtaining the very education that should ensure their success.
+I am nevertheless grateful for my parents’ decision — I am not ignorant of the advantages that growing up in this country has afforded me, such as the immense privilege of being a student at the wealthiest university in the world. However, this does not justify the uncritical American exceptionalism that characterizes our national politics. The U.S. is the only country I have ever known as my home, but it is far from earning my admiration.
+This piece should not be construed as a surrender to pessimism. While I rebuke the decisions of political leaders across the country, I simultaneously witness uplifting efforts on this campus that sustain my hope that I will one day live in a country that I can be proud of. From launching campaigns to dename spaces that uphold the legacy of enslavers to running homeless shelters and seeking to hold professors accountable for sexual misconduct, the students around me give me faith that our generation of leaders and visionaries can redirect our nation toward embodying the ideals that its founders proclaimed nearly 250 years ago.
+Today, my answer to the question “Are you proud to be American?” is “no” without hesitation. But I hope that one day, I can at least pause and reconsider before responding — even if a resounding “yes” escapes my lifetime.
+Ericka S. Familia ’25, a Crimson Editorial editor, is a Social Studies concentrator in Adams House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Residents and fellows at Mass General Brigham filed a petition for a union election with the National Labor Relations Board on April 4 after their request for voluntary recognition was denied the day prior.
+MGB Housestaff United first began collecting union authorization cards in November, before launching publicly in February. According to Sascha N. Murillo, organizing committee member and a third-year Internal Medicine resident, the campaign now has a clear majority of support from residents and fellows at MGB, the largest hospital system in Massachusetts.
+If the NLRB verifies that at least 30 percent of workers eligible for representation under MGB Housestaff United have signed cards, the board will direct an election for official recognition, only granted if a majority of eligible workers vote in favor of a union.
+Committee of Interns and Residents, a local of the Service Employees International Union, is the parent union of MGB Housestaff United. Annie Della Fera, a communications coordinator for CIR, said while organizers had hoped for voluntary recognition, “it’s pretty common for them to reject recognition and instead have residents go through the NLRB election process.”
+Within hours of the request, MGB Interim Chief Academic Officer Paul J. Anderson wrote in a message that the hospital system would not recognize them, adding that the hospital prefers to “work directly with our trainees as individuals” on resolving workplace issues.
+“We agree with the NLRB and the federal courts, which have described the NLRB’s secret ballot elections process as the gold standard in determining whether a majority of employees desires union representation,” Anderson wrote.
+After MGB Housestaff United started organizing last fall, residents have received multiple compensation increases, including a $3,500 bonus and a 10 percent salary raise. Senior Vice President of Enterprise Communications at Mass General Brigham Jennifer Street wrote that employees have seen an total increase of 31 percent to compensation and benefits on average since the start of the 2021-22 academic year.
+The increased compensation makes MGB’s training program the highest-paid in the country, she added.
+The campaign has received endorsements from high-profile politicians including Senator Bernie Sanders (I-Vt.) and Senator Elizabeth Warren (D-Mass.).
+“I call on @MassGenBrigham to hold a fair and transparent election that is free from intimidation,” Sanders tweeted.
+In his email denying voluntary recognition, Anderson wrote that “peer pressure” could contribute to “the unreliability of union cards as an indicator of employee support.”
+“In recent weeks, some trainees have shared with their program leadership that they were pressured to sign cards,” Street wrote.
+An NLRB election allows housestaff to “make their own decision with no one knowing how they voted,” she added.
+MGB Housestaff United members have said their online and in-person campaigning efforts have not aimed to force trainees to sign cards.
+“There is no coercion,” Murillo said. “It’s just that kind of messaging is really just a way to try to make the campaign look bad. I think that is really operating in bad faith with us.”
+Della Fera said the claim of peer pressure is “very common” from employers.
+“A card check completely legitimate and valid way to form and have a union certified. It’s done frequently and it’s just as democratic as an NLRB election,” she said.
+“These are just people talking to their coworkers,” she added.
+Della Fera also predicted that MGB will try to “create division within the unit.”
+“I anticipate that they will likely push back and want to delay things,” Murillo added.
+Hospital leadership have been holding meetings with trainees about unionization, with some seeking to dissuade employees from joining MGB Housestaff United, according to Murillo.
+Over the past two months, residents have also been receiving emails from department chairs and MGB administrators discouraging them from signing cards.
+“This is not the time to slow our progress, or adopt a different means for engaging with each other — collective bargaining — that is not a good fit for our program or our relationship,” read one document sent to housestaff March 16.
+According to Avi Bukhbinder, a first-year resident and MGB Housestaff United organizer, those emails have “become more frequent in the past few weeks.”
+“I think the tone and the tenor of those communications has really remained the same. It’s kind of a veiled ‘We don't want this for you, you shouldn’t want this for you,’” Bukhbinder said.
+Though the hospital system declined to recognize MGB Housestaff United, Murillo said she is confident they will be able to gain official recognition.
+“We have carried this campaign out with integrity and we really feel like we have very strong support,” she said. “We’re going to win.”
+—Staff writer Cam E. Kettles can be reached at cam.kettles@thecrimson.com. Follow her on Twitter @cam_kettles.
+—Staff writer Julia A. Maciejak can be reached at julia.maciejak@thecrimson.com. Follow her on Twitter @maciejak_a.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+UPDATED: April 12, 2023, at 1:20 p.m.
+Months after allegations of financial mismanagement in a Harvard student organization, the Dean of Students Office is set to conduct an audit of Harvard independent student organizations in conjunction with Harvard’s risk management office.
+A two-month Crimson investigation into the Harvard Undergraduate Foreign Policy Initiative found that the club was missing thousands of dollars following the departure of its former president. In an interview Thursday, DSO administrators did not specify whether the audit was related to HUFPI, and they did not comment on the specific allegations against its former president, Sama E.N. Kubba ’24.
+In an emailed statement Wednesday, College spokesperson Jonathan Palumbo wrote that conversations around an audit of the student organization system began in the fall, with the DSO engaging the Office of Risk Management at the beginning of the spring semester. The audit was not prompted by the HUFPI financial dispute, Palumbo wrote.
+DSO administrators said the audit will examine the system at large and will not look at any groups’ finances, maintaining that the DSO will not exercise greater financial oversight over independent student groups.
+At the time of The Crimson’s investigation, DSO Associate Dean for Student Engagement Jason R. Meier said the College’s financial policies for clubs are guidelines that are not strictly enforced, a view that he reaffirmed in the interview Thursday.
+“We would never have more financial oversight of an independent student organization’s funds,” Meier said. “We have no way to compel an independent student organization that has raised money on their own to tell them how to spend their funds.”
+Meier said the DSO — rather than reevaluating oversight policies — is working to take an “inward view of the student organization ecosystem,” including the audit of independent student organizations in partnership with Harvard’s risk management office.
+The audit will help the DSO become more familiar with the logistics of student organizations, including budget sizes, international travel, and federal nonprofit status, according to Meier.
+“When we have a better understanding of the ecosystem — because we do not have a good understanding — we’ll then be able to customize training in a meaningful way to support our organizations,” Meier said.
+Interim Dean of Students Lauren E. Brandt ’01 pointed to a current resource guide available that outlines “best practices” for student organizations.
+Meier said the DSO’s hands-off policy aims to allow undergraduates the space and opportunity to run their organizations autonomously.
+Asked about the DSO’s approach to the HUFPI financial dispute, Meier declined to give specifics, but said the office aims to provide support when students need it.
+“At the end of the day, HUFPI is an independent student organization, and so we honor and respect that,” Meier said.
+“We have to balance that line of supporting but still giving you the autonomy — to learn, to grow, to fail, to succeed — to do all of those things,” he added.
+Administrators from the Dean of Students Office also discussed the following topics:
+Progress of the HUA
+Meier said the difference between the Harvard Undergraduate Association and the Undergraduate Council — its recently dissolved predecessor — is “night and day.”
+“I am so impressed with the atmosphere, with the care, with the intentionality and thoughtfulness of the HUA leaders in building an inclusive place where they can have hard conversations about life on campus and how we make it better,” Meier said. “That was not happening with the UC.”
+Associate Dean for Inclusion and Belonging Alta Mauro said the HUA has been able to address issues the UC left unfinished, citing the HUA’s goal of increasing accessibility to students outside of the body.
+“I do feel that folks in the HUA have tried to build on the best parts of the UC,” Mauro said.
+The student body elected new officers to the HUA in February during an election cycle that included seven uncontested races and roughly 26 percent turnout.
+Meier attributed the number of uncontested races to the “overwhelming” student experience, adding that he does not believe this is unique to Harvard’s campus.
+Mauro said she believes low turnout could indicate student satisfaction with the HUA.
+“I imagine if people were in a rage about the HUA’s failings so far, more people would've turned out,” she said.
+Comaroff Protest in University Hall
+Last month, activists occupied University Hall — home to the offices of top DSO administrators — in protest of Harvard’s Title IX policies and the continued employment of professor John L. Comaroff, who is accused of sexual harassment.
+During the protest, students spoke directly to Brandt and Dean of the College Rakesh Khurana to share their concerns. In the Thursday interview, Brandt did not comment on whether she supported the protesters’ demands.
+“We are here to support students in terms of the concerns and questions that they’re raising and to figure out how to meet the needs that they’re expressing as best we can,” Brandt said.
+Meier said that administrators from the DSO “deeply value the freedom of expression and the rights of free speech.”
+“That is paramount to the work we do in the Dean of Students Office and it manifests in any number of ways,” Meier said. “This is just one of those ways.”
+—Staff writer Ella L. Jones can be reached at ella.jones@thecrimson.com. Follow her on Twitter @ejones8100.
+—Staff writer John N. Peña can be reached at john.pena@thecrimson.com. Follow him on Twitter @john_pena7.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Professor of Education and Social Policy at Northwestern University C. Kirabo Jackson discussed the implications of his research on the impact of spending on K-12 education at a Harvard Graduate School of Education talk in Larsen Hall Tuesday afternoon.
+The research sought to investigate how much marginal spending affects educational outcomes. To quantify educational outcomes, Jackson primarily measured two factors: one variable measuring test scores and another variable combining high school graduation, college attendance, and dropout rates.
+Jackson introduced his lecture with a question: In education, “How much does money matter?”
+To investigate the effects of spending on education, Jackson and co-author Claire L. Mackevicius conducted a meta-analysis on a comprehensive set of design-based studies, which are considered credibly causal, and found various factors affecting educational outcomes.
+The meta-analysis consisted of “31 studies that estimate the effect on school spending on student outcomes that meet our inclusion criteria,” Jackson said.
+Responding to a question from the audience asking whether the number of papers is enough, Jackson said he had seen meta-analysis studies with as few as five to six papers, but “ideally” these studies would have a sample size of 20 to 30.
+Jackson emphasized the importance of using accurate and informative articles for their study and considering which papers to include, though he said studies tended to measure scores differently.
+“Sometimes studies report things not in terms of raw test scores, but they report things in terms of proficiency rates or passing rates,” Jackson said. “In this case, we have to find a way to standardize this.”
+Though dropout rates were the least desirable piece of data because its implications were so unpredictable, they were used as a backup form of study, Jackson said.
+“To the question of how we combine these things, essentially, what we did is we said, ‘Look, if you look at the literature, I think there’s a consensus that measuring dropout is very, very notoriously difficult to do,’” he said. “So in most cases, if they report dropout and high school graduation or some other measure, well, we’re not going to use a dropout if we can avoid it.”
+Jackson shared that on average, an increase of school spending by $1,000 leads to a marginal increase in test scores, an increase in graduation rate by 2.8 percentage points, and an increase in college matriculation by 2.8 percentage points. Still, he said increasing the budget does not necessarily guarantee greater performance.
+“To be clear, it’s not obvious to me that even when you increase the budget by $1,000, all of that is going to the most productive use,” he said. “It’s possible that half of it is wasted, but half of it is still doing something and that’s what we’re finding.”
+Jackson said school spending studies are more consistent than they might initially appear, but the question of using the money to realize “positive effects” is “tricky.”
+“One takeaway, clearly, is that it seems to have a larger effect in areas where we have more disadvantaged populations,” he said.
+Jackson concluded his talk by recommending following the practices laid out in education research.
+“The best thing we can do, in my opinion, is to say, ‘Well, if you want to know how to spend your money, forget all this, forget about the school spending stuff, just look at the research — it talks about best practices, right?” he said. “There are interventions that improve outcomes, we know there are certain kinds of curricula that tend to improve outcomes.”
+“All these things I’m describing take money,” he said.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Late one night during last semester’s reading period, Benjamin D. Langman ’26 was scrolling TikTok when he came across an advertisement to apply to be a contestant on the popular game show “Wheel of Fortune.”
+On a whim, Langman uploaded a photo of himself with a short blurb and woke up the next day to an email from a casting producer asking him to submit a minute-long video of himself talking.
+“So I sat up, I put on a Harvard shirt, and I proceeded to speak nonsense for a minute straight about how much I love vowels,” said Langman.
+That night, Langman got a call from the casting producer, who asked him to do a 30-minute interview on the spot. After another interview and a month-and-a-half long wait, Langman was on a plane to Los Angeles to record an episode for Wheel of Fortune’s “College Week Spring Break” show.
+Langman led the scoreboard for the first two rounds of the episode, which aired on Friday, but was overtaken in the third “final spin” round by Malia Dunaway, a sophomore at Villanova University.
+Still, Langman went home with nearly $22,000 in prizes, including a trip to the Dominican Republic.
+During the competition, Langman correctly guessed phrases including, “POSING FOR A POLAROID,” “PULLING ANOTHER ALL-NIGHTER,” and “NOT MISSING MY PROFESSORS.”
+“It’s way harder than when you watch it online, sitting on your couch,” Langman said.
+Langman, who watched Wheel of Fortune and other quiz games like “Jeopardy!” growing up, described his experience competing on the show as “really surreal.” He said he was on the set for 10 hours, though filming itself took only 20 minutes.
+To prepare, Langman talked to Felix B. Bulwa ’22-’23, a Harvard student who competed on Wheel of Fortune in 2021. Langman said it was helpful to talk to Bulwa, who told him a lot of the show comes down to luck.
+The show filmed in late January, but Langman signed a nondisclosure agreement and was not allowed to discuss his reason for flying to L.A. or the results with friends or professors.
+Langman said he intends to go on his trip to the Dominican Republic this year, and his friends — who are now aware of Langman’s appearance on the show — are eager to tag along.
+“Lots of people around me are making jokes like, ‘Haha, when are we going to the Dominican?’” Langman said.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Somali novelist Nadifa Mohamed discussed her latest novel “The Fortune Men” at a Tuesday lecture in Sever Hall.
+Mohamed joined Harvard History professor Maya R. Jasanoff ’96 in a conversation hosted by the Mahindra Humanities Center as part of the “Writers Speak” series, which was co-sponsored by the History Seminar at the Center for European Studies.
+Mohamed’s 2010 debut novel “Black Mamba Boy” was awarded the Betty Trask Prize, and her novel “The Fortune Men” was a Booker Prize finalist. She was selected as one of Granta’s “Best of Young British Novelists” in 2013.
+When asked about the inspirations that led to her writing, Mohamed shared her interest in studying true events and turning them into fictional stories. She said her father’s experiences as a traveler and adventurer inspired her first novel, “Black Mamba Boy.”
+“It wasn’t until 2005 after my father passed away that I think I really wanted to reconnect with that world that he was part of. It was a form of mourning — a way of keeping him alive,” Mohamed said.
+Mohamed explained that her father was acquainted with Mahmood Mattan, a young Somali sailor who was wrongfully executed for murder, leading her to base her novel “The Fortune Men” on the true story of Mattan’s life.
+“I didn’t expect to immerse myself in the story, so I just read whatever the papers had said and what interviews I found and the newspapers, but I was lucky that in 2015 another researcher had fought for the National Archives to open the case,” she said.
+Mohamed said she first found the archives confusing because of the framing used by police to create “this fiction that made you believe he was guilty.” She added that the documents showed how Mattan was “broken down” after his experiences being falsely accused for years in the U.K. and eventually stopped fighting for his innocence.
+“I kept sort of thinking, ‘Why is he making this okay, why is he not telling the police where he was when he didn’t commit this crime?’” Mohamed said.
+“I think physical change also reflects the psychological transformation of him losing his confidence, losing his ability to notice his self-respect, but I think he has lost his ability to protect himself, which is the worst thing to lose I think in the environment that he’s in,” she added.
+Mohamed said she blended historical records and her own imagination to create the story and characters of “The Fortune Men.” She highlighted a part of the novel where the main character Mahmood was interviewed by a doctor.
+“The details, including the last passage of what the doctor wrote down, is from the archives,” Mohamed said.
+“I tried to think, ‘What would Mahmood think and what would his personality be like when he’s being interviewed by this doctor?’” Mohamed added.
+Mohamed said including nonfiction in her work allows her to connect her writing to her identity and experiences.
+“It’s me in these spaces, maybe with friends of mine, maybe with my nieces or people I take along with me,” she said. “So it’s also a way of me evaluating my life as a Muslim in the world right now. And I don’t think I'd like to do that in fiction.”
+—Staff writer Christina M. Strachn can be reached at christina.strachn@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Researchers affiliated with Harvard Medical School and the Department of Human Evolutionary Biology found Asian and African DNA in ancient human remains on the Swahili Coast in a paper published last month.
+The study, published in the journal Nature, used the DNA of 80 Swahili individuals from medieval and early modern times to corroborate theories that Swahili civilization predated Persian settlement.
+The DNA analysis found Asian migrants from the Persian Gulf settled amongst the preexisting indigenous African inhabitants around 1000 A.D. The analysis paints these medieval coastal cities as more interconnected with the region and less colonized than previously thought.
+The study also found that before 1500 A.D., most of the Swahili Southwest Asian ancestry was Persian, which was described in the Kilwa Chronicle — the oldest oral history of the region. After that year, the DNA shows an increase in Arabian ancestry, substantiating preexisting evidence of relationships between the Arabian Peninsula and Africa.
+Esther Brielle, a postdoctoral fellow in Human Evolutionary Biology, said the work of researchers started with the sequencing of DNA material of bones from the Swahili coast.
+“We can’t understand the movements of people without ancient DNA at this point,” Brielle said. “Genetics gives us insight into the ancestry in a way that anthropology or archaeology cannot.”
+Stephanie Wynne-Jones, a professor of African Archaeology at the University of York and a leading co-author of this study, said a colonial lens was typically used to understand civilization on the Swahili Coast before the paper was published. In this view, Asian traders from the Persian Gulf were assumed to have settled in the region.
+“There’s been this binary approach to thinking about Arab settlers versus African indigenous societies, and what this research has done is sort of throw a hand grenade into that and say, actually, it’s not that simple. It’s not a binary,” Wynne-Jones said.
+Rice University Anthropology professor and co-author Jeffrey B. Fleisher said conducting research on ancient DNA is a “multi-decade process.”
+The study’s archaeological excavations began in 2009 before completion in 2016, according to the researchers.
+Though the project initially began with excavating and examining material culture, the crux of the paper focused on ancient DNA, which the authors were able to extract from exhumed human remains, according to Wynne-Jones.
+Because the authors were handling ancient human remains, the researchers consulted and included descendants of those who were buried throughout the research process, Wynne-Jones said.
+“They were lifted, analyzed and reburied in one day. So we never had human remains just lying around,” Wynne-Jones said. “At the end of the season, we also had a sort of blessing. And everyone came and we ate goat and the Imam said a blessing again over the graves.”
+“We did all of this to bring the community with us with this study,” she added.
+Brielle said ancient DNA allows researchers to “take drastic leaps” in understanding the past.
+“If you have a Neanderthal or Denisovan skeleton, there’s only so much you can understand from that,” Brielle said. “There’s so much more that you could figure out from the ancient DNA. I hope that this field progresses as quickly as it is right now.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+As the renovation of Adams House, one of Harvard’s undergraduate residential houses, enters its third phase this June, the University anticipates an unprecedented 12 to 14 percent rise in costs — nearly 10 percentage points higher than the traditional 4 percent benchmark.
+The spike in costs reflects a perfect storm for construction budgets: historic inflation in Boston-area construction, rising interest rates nationally, and a pandemic-induced five-month pause on construction in 2020.
+Adams is the latest focus of Harvard’s House Renewal project, a renovation of all 12 undergraduate residential houses that represents “one of the largest and most ambitious capital improvement campaigns in Harvard College history,” according to the Harvard Gazette, a University-run publication.
+Originally planned in 2008 under the cloud of the financial crisis, the more than $1 billion proposal projected 15-month timelines for each house, with plans to break ground in fall 2011 and conclude construction 12 years later.
+Yet 12 years later in 2023, the project is only halfway through and has likely already incurred more than $800 million in costs, according to now-deleted figures posted on LinkedIn by House Renewal Senior Project Manager Michael J. Leyne.
+Leyne’s profile previously described the renewal project as a “$1.6B program,” estimating the cost of the ongoing renovations to Adams as $300 million, and gave figures totaling more than $600 million for the full renovations of Lowell, Winthrop, and Dunster houses, combined.
+Leyne did not respond to a request for comment on the figures. A University spokesperson denied the accuracy of the figures but declined to provide alternative figures.
+Explaining shifts to the budget projections, Executive Director of the Undergraduate House Renewal Program Stephen Needham said in an interview that the College has approached House Renewal on a “project-by-project” basis.
+“Each project is looked at totally individually,” Needham said, adding that each renovation proposal “has to undergo a pretty stringent affordability and financing analysis” before being approved by the Harvard Corporation, the University’s highest governing body.
+To accommodate rising prices, Needham said, each individual budget proposal contains an estimate of “escalation,” or projected inflation per year. Based on historical rates since 1940, Harvard has on average used a 4 percent inflation benchmark — a target that the first five houses met or fell below, Needham said.
+“Until Adams, we hadn’t exceeded any of them. Some of them we gave money back,” he said. For Lowell, the project immediately preceding Adams, the team “hit it right on,” Needham added.
+Midway through construction on Adams’ Apthorp and Claverly halls, however, the Covid-19 pandemic threw the Adams House Renewal into disarray.
+“The fact that Claverly was all bought, we were impacted mostly by the delay and the slower progress,” Needham said.
+That impact on Claverly — a five-month halt to construction and social distancing limits on the number of workers on site — pushed the project 3 percent over budget.
+For the next phase of construction — Adams’ Randolph Hall — the budget authorization was approved in the midst of the pandemic. The project’s escalation target increased from 6 percent to 10 percent, but so far, has missed its forecast by at least 4 percent due to increasing costs of materials, accessibility, and asbestos removal.
+After these two over-budget projects, the 12 to 14 percent escalation target for Westmorly Hall reflects an expectation that the economy will see a “leveling out of inflation,” Needham said.
+Needham said he remains hopeful that the full renewal project will stay within the original projection of $1 billion to $1.6 billion, but “on the higher end.”
+Needham noted that similar projects at other universities have struggled with their original timetables, referencing delays to Yale’s residential college renovations project, which began in 1998 and concluded in 2011.
+As the interview came to a close, Needham quoted from a speech by the late historian David McCullough at a dedication of the John Adams Courthouse in Boston.
+“You can judge people by how they spend their money,” Needham recalled McCullough saying. “And this is money well spent by good people.”
+Needham paused, chuckling. “And I believe that sometimes.”
+Corrections: April 12, 2023
+A previous version of this article incorrectly stated that David McCullough spoke at the dedication of Yale’s residential college renovation project. in fact, he spoke at the dedication of John Adams Courthouse in Boston.
+A previous version of this article incorrectly stated that Yale’s full residential college renovation project began in 1998 and is ongoing, set to conclude in 2032. In fact, the full renovations concluded in 2011, and a subsequent residential college renovation project is set to conclude in 2032.
+—Staff writer Jackson C. Sennott can be reached at jackson.sennott@thecrimson.com.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+U.S. Representative Adam B. Schiff (D-Calif.), former chairman of the House Permanent Select Committee on Intelligence, discussed intelligence oversight and national security issues during a Harvard Institute of Politics Forum Monday evening.
+The JFK Jr. Forum discussion was co-sponsored by the Belfer Center for Science and International Affairs and moderated by Paul R. Kolbe, a senior fellow at the Belfer Center and the former director of the center’s Intelligence Project.
+At the start of Monday’s forum, Schiff said the Intelligence Committee is a “unique oversight challenge” due to the classified hearings, which is why the committee is “normally so protective of whistleblowers.”
+Schiff’s talk touched on major moments in which intelligence played a role in U.S. foreign relations.
+During the 2016 election, Schiff said, Russia hacked into Democratic Party emails and released them through intermediaries to influence the campaign. In addition, Schiff said Russia “embarked on a clandestine social media campaign out of St. Petersburg” to divide the American public, suppress votes for then-Democratic presidential nominee Hillary Clinton, and assist the Trump campaign.
+Schiff also discussed the Russian invasion of Ukraine, noting that U.S. intelligence observed Russian movements at the time to be inconsistent with a military drill.
+“Some of our allies didn’t believe us,” he said. “Indeed, President Zelenskyy expressed his own skepticism about our intelligence and what the Russian plans were.”
+The stakes of the Russia-Ukraine war are “enormously high for the Ukrainian people, for their democracy, but also for the whole international rules-based order,” Schiff said.
+Moving to the topic of U.S.-China relations, Schiff said China is making a dramatic transition from an inward-looking nation to an international player. He cited Taiwan as a flashpoint between the U.S. and China, stating, “to the degree that we can assist Taiwan in strengthening its defenses, that may be among the most important ways of deterring a military intervention.”
+In response to a question about the capabilities of open-source intelligence, Schiff said the U.S. doesn’t need covert methods of collecting intelligence, such as a spy, satellite, or a wiretap.
+“It’s just all out in the open,” he said. “You just need to know where to look for it.”
+China’s surveillance strategy also presents a “profound challenge” to the U.S., Schiff said, because the country uses AI to amalgamate data that it has collected from foreign databases.
+He concluded Monday’s talk by expressing admiration for the individuals working in foreign relations and intelligence.
+“Probably the most inspiring, interesting work that we get to do as members of Congress is visit our service members, visit our diplomats and visit our intelligence committee professionals around the world,” he said.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+The Harvard track and field team hosted Yale, Oxford, and Cambridge at the 126th HYOC meet this Saturday, April 8th. The historic meet occurs every two years, alternating between the four universities. The win this weekend marks Harvard’s 14th consecutive win at HYOC, as it has won every matchup since 1993. The Crimson competed alongside Yale against the two UK schools, defeating Oxford and Cambridge 26-10.
+“There was a lot of excitement. It’s a really cool meet, very historic. They say it’s the oldest international collegiate competition in the world — it’s really cool to take part in that,” said sophomore Graham Blanks about the team going into Saturday's meet. “It’s really cool to get to race against international competition not in the NCAA, which is something I don’t think many people really ever get to during their time in the NCAA.”
+First up, the Harvard field athletes put up some impressive numbers. Senior Alexander Kolesnikoff, who set an NCAA leading throw last week, set yet another NCAA lead in the men’s shot put, throwing 20.69 m to earn gold. His throw also set the meet record in the event. Kolesnikoff’s teammate, sophomore Kenneth Ikeji, followed his lead, throwing 69.67 m in the men’s hammer throw to take first place and set the meet record.
+Jumpers sophomore Daniel Falode and senior Kyle Murphy won their events in the men’s triple jump and long jump, respectively. Falode jumped a personal best of 15.80 m to put him at eleventh in the nation, and Murphy jumped 6.88 m.
+Senior Sarah Omoregie threw a personal best in the women’s shot put at 17.66 m, a mere .25 m short of the Harvard school record. Senior Estel Valeanu also got on the podium for the same event, throwing a personal best of 15.15 m to take silver, as well as putting her third in the record books. Valeanu also returned to throw a personal best of 56.17 m in the women’s discus to win the event.
+In the women’s hammer throw, seniors Stephanie Ratcliffe and Cammy Garabian took first and second with throws of 67.16 m and 57.37 m respectively. Sophomore Anastasia Retsa cleared 4.20 m in the women’s pole vault to win the event and set a new indoor event record.
+On the track, the Crimson continued to represent the school well against the two UK competitors. On the distance side, Harvard set a standard for the rest of the competition to follow. The top two finishers in each race would qualify to travel to England over the summer to compete at the HYOC meet held there.
+“It was also an important meet for some athletes because the qualifier for making the HYOC team that actually goes to England, so we all went into the races hoping to get top two in an event, so everyone was kind of vying for those positions,” Blanks said.
+First-year Kristin Otervik started the running events off well for Harvard, leading the women’s 3000 m steeplechase to get first place in 10:24 seconds. In the same event for the men, sophomore Reed Pryor won with a time of 9:07.94 seconds. In the women’s 800 m, sophomore Marianne Mihas ran 2:11.24 seconds to earn first place.
+Junior Maia Ramsden ran 4:15.77 seconds in the women’s 1500 m run to win the event, a full 12 seconds faster than the second-place finisher. In the men’s 1500 m, first-year Vivien Henz ran a time of 3:57.72 seconds to earn second place for the Crimson.
+Ramsden also returned to the track for the women’s 5000 m run, setting a new personal best with 16:08.27 seconds and beating the rest of the field by almost 15 seconds. In the men’s 5000 m, Harvard swept the event, taking first, second, and third places. Blanks crossed the finish line first in 14:07.67 seconds, with junior Acer Iverson and sophomore Ben Rosa following close behind with times of 14:08.83 seconds and 14:10.74 seconds respectively.
+“It was really cool,” said Blanks about the 5000 m run.  “It was one of our best team track races we’ve had in a while. [In indoor Ivy Championships] Acer and I were able to work together super well, but to have Ben Rosa up there this time was really cool.”
+“Looking back at the videos and pictures at the three of us pulling away, it makes me pretty proud to have that Harvard jersey on and hopefully we can keep doing that all the way into the Ivy League Championships in the outdoor season,” he added.
+The sprinters also tore down the track with some fast races.
+First-year Josefina Biernacki ran a time of 14.07 seconds in the women’s 100 m hurdles to win the event. In the men’s 110 m hurdles, senior Aaron Shirley went head to head with one other competitor in the event to win it in 14.44 seconds. In the women’s 100 m dash, junior Egbe Ndip-Anor took first place, running a time of 12.10 seconds. In the same event for the men, junior Lance Ward ran 10.48 to get first place, maintaining his lead throughout the entire race.
+Her first time competing in the women’s 400 m dash this outdoor season, sophomore Victoria Bossong won the event in 55.23 seconds. First-year Jacklynn Okerekie won the women’s 400 m hurdles in a time of 1:02.82 seconds, holding off her competitors for the entire lap.
+In the last event of the day, the mixed 4x400 relay, the team consisted of two Harvard and two Yale runners. The two Ivy League schools won the event, with sprinters Ward and Bossong representing the Crimson. Ward anchored for the team, crossing the finish line at 3:29.22 seconds.
+When asked about the most exciting performances to watch, Blanks commented, “Definitely Alexander Kolesnikoff, he set a pretty big PR. He’s No. 1 in the NCAA right now — that’s really cool to see that the throws program is doing super well right now.”
+“It was also fun to watch the 1500 [meter race] as it always is, for the men’s,” he continued. “I really enjoyed watching Vivien getting back on track, [he] had a great race. It was good to just see everyone run pretty well despite the competition and the weather.”
+Going forward, Harvard track and field is looking to hone in on its skills.
+“A lot of the building of mileage is kind of done,” said Blanks about the team’s training going forward. “We’re looking to start doing some big workouts, fast stuff at practice. The advice from our coach is to kind of just buckle down, we’ve got a couple more months of competition and the big stuff is coming up fast, so we’re looking to start sharpening and get ready for that.”
+Up next, the team will travel to Providence College and UConn Northeast Challenge on April 14th and 15th.
+— Staff writer Nadia A. Fairfax can be reached at nadia.fairfax@thecrimson.com
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+With the way that our student body is constantly simultaneously falling apart and chilling, we multitask more often than we think. For real, my brain — and my poor MacBook on the verge of imploding with its fan *screaming* in the middle of lecture — always has 1,636 tabs open at once. The weight of having five conflicting meetings, hundreds of pages of reading, and three papers due by 11:59 p.m. can be hard to bear, but it doesn’t have to be with flyby’s guide to multitasking!
+Go tan outside while doing your readings
+Spring is in the air, and that means that Harvard’s campus is going to come to life again with people soaking up the sunshine to melt their worries away (though when the spring weather will *actually* arrive is TBD…). You can lay out the iconic red picnic blanket you got on move-in day on the grass to get some sun while suffering through your readings. After all, if your brain is being fried, then your skin might as well get fried too. Harvard Yard may not be the same as the beach, but you can be a better tourist attraction than the John Harvard statue and photobomb all their pictures. Oh, class buildings are pretty close too, so it’s a great way to make use of the awkward gap between classes.
+Go to a fitness class (or Trader Joe’s!) with friends
+Squeeze in a cycling or yoga class while spending crucial quality time with your friends. Win, win. If the gym isn’t your thing, don’t you fret because you can still burn some calories running some SUPER necessary errands at Trader Joe’s with friends (a.k.a stocking up on their new spring must-haves, including strawberries and cream gelato, cheddar jalapeño bread, coffee and dark chocolate sandwich cookies, and ruby cacao figs). Their tulips are also beautiful and would make a great pop of color in your suite. Student by day, stellar decorator by night.
+Pregame and pset
+One thing that’s for sure is that everyone always has a growing pile of assignments. Try scheduling a block of time in your GCal for your friend group to get the best of both worlds by studying while enjoying some drinks and food. Then, you get to feel accomplished when you put away work for the day and see where the night takes you. Submitting a problem set is a fabulous reason to party hard ;).
+Call your family and long-distance friends while walking
+Wish you could talk to the people you love more? Great news: you can. Take advantage of the new and improved weather by calling your loved ones while heading to class (especially if it's at the SEC) or strolling along the Charles River. As a bonus, you get a much-needed boost of serotonin when you get to see dogs on walks. If that’s not self-care, I don’t know what is.
+Binge YouTube while folding laundry
+Folding laundry isn’t exactly entertaining and can be quite time-consuming, so it’s the ideal time to go down a YouTube rabbit hole guilt-free. Remember, it's not wasting time if you’re doing chores at the same time! My personal go-to side of YouTube is the world of dramatic The Bachelor and The Bachelorette clips because I have a hard time committing to watching the entire seasons :(. Another plus is that YouTube videos are short and sweet, so they are suitable for our shrinking attention spans. You deserve the mental break for a while, and I hope that you are able to find all of those socks gone astray.
+Multitasking more efficiently can help us work smarter, not harder (or just do a mediocre job at everything… but isn’t that a risk worth taking?!). As long as it’s not responding to a discussion post while riding a BlueBike, I don’t see the problem. We don’t condone texting and driving, but we do condone wise time management through multitasking.

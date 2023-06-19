@@ -1,0 +1,512 @@
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In December, the Faculty of Arts and Sciences announced that it would extend the one-time phased retirement plans that were offered to faculty in five Harvard schools—Faculty of Arts and Sciences, the Medical School, the School of Public Health, the Education School, and the Divinity School—last year. The reason for the extension, as cited by a letter from FAS Dean Michael D. Smith, was the popularity of the program. Twenty-five percent of eligible FAS faculty participated, as did 29 percent of eligible faculty from the other four professional schools, according to the 2010 Annual Report on Faculty Development and Diversity.
+Under this year’s model, faculty aged 65 to 72 who will have ten years of University service upon retirement will have the opportunity to take two or four-year retirement packages that include part-time teaching and service obligations. Faculty aged 73 or older in the academic year 2010-2011 only have the choice between a four-year and two-year retirement package for this one year; after June 30, 2011, they can only choose the two-year option.
+Even though it needs some modifications, FAS's recently instituted transitional retirement policy is a good program to have, and we're glad one has finally been put in place. These options do represent a marked change from pre-2009 retirement arrangements, which did not offer the possibility of such an easing out of academic obligations. Programs like these are something that a university like Harvard should always have. Transitional retirement is not simply something faculty seek, as an individual comfort, but one that they deserve as valued members of our community. Gradual retirement offers faculty a chance to mentor and guide others to follow in their path and allows staff and other faculty in their departments to prepare for their absence. This is especially important for the exact faculty who are eligible for these programs—those who have served the University for ten or more years and are thus institutional fixtures in their academic disciplines.
+However, we see no reason why both the two and four-year policies are not extended to professors over the age of 72, past this year. To make this more than just a temporary solution, the policy should be extended to professors over that age. Fifteen of the 46 faculty members who chose to participate in the retirement programs last year took the four-year option, showing that there is an interest in this course, as opposed to the two-year one. We have no way of knowing the circumstances behind a faculty member’s decision to retire, and it may be that stepping down over four years is a much more amenable option, for reasons personal, academic, or otherwise. It seems unfair and somewhat arbitrary that faculty members over 72 should be denied as much flexibility to structure their retirement as those under 72.
+Additionally, thus far this initiative has been positioned as an effort to promote diversity—the findings of the retirement plan were included in a diversity-minded report and highlighted the racial demographics of the retiring faculty, such as that 40 of last year’s 46 participating faculty members were white men. It does seem like we probably will get younger, more diverse faculty members, and this is a positive thing. The Harvard academic community will be enriched the by new and different perspectives that we get as a result. However, we're somewhat skeptical of the administration's billing of this initiative as an attempt to increase diversity, especially given the fact that those most likely to participate in the program—faculty members younger older than 72—are not eligible for the more lucrative four-year plan (which offers one year of full salary and three years of half-salary and retirement benefits, as opposed to the two-year’s plan of two years with full salary).
+Dean Smith and FAS should be more honest about all the motivations behind this plan, at least a part of which appears financial in nature. There seems little uncertainty over the actual financial benefits of the retirement policy; if anything, it seems that the retirement policy will be a financial benefit to FAS, at least in the short-term. Most newer non-tenure faculty appointees make much less than tenured faculty. Additionally, it’s a bit of a stretch to believe that it was just a coincidence that new retirement programs were offered a semester after FAS announced a $220 million deficit.
+Ultimately, however, it’s important that people carry out their later years with grace and dignity, and it's high time that Harvard shows its faculty that it values their careers and their contributions with such a plan. Transitional retirement plans, unlike full-stop ones, normalize the process of gradually acceding one’s role within the workforce and make leaving Harvard a viable and positive option.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+There is a Dilbert comic strip in which a consultant stands in front of a slide with the words “Facebook” and “Twitter” and explains, “As the Marketing Manager for Social Media, my job is to use these two words a lot.” The cartoon is an astute illustration of the utter failure of many mainstream institutions to come to grips with the world of blogs, Twitter, and Facebook. Their attempts to keep up with the latest trends in new media—like when CNN had anchors read inane tweets as “commentary” on last year’s State of the Union address—have proved cringe-inducing at worst, and fodder for “Daily Show” parody at best. All too often, technology is being used for the sake of using technology, without any constructive purpose being sought or served.
+Unfortunately, the same could be said about an increasing number of Harvard courses. Indeed, by now, many of us have personally encountered the peculiar species of teaching aid known as the “redundant course blog.” Such blogs tend to perform functions already served by the course, but with the added hassle of unnecessary technology. For instance, students may be asked to post the equivalent of a short response paper, and then to comment on the blogged papers of several fellow students—on top of the course’s weekly assignments and section discussion, which already fulfill the same pedagogical function.
+Some classes, like Moral Reasoning 22: Justice, recognize that students may not find the course blog particularly useful, and have made participation optional (like the mafia, support of the Justice blog is not required, only “strongly encouraged”). But this ambivalence simply further illustrates the general purposelessness of the enterprise, a misstep which stands out noticeably in such a well-structured and fine-tuned class as the 1000-student-strong Justice.
+This is not to say that successful long-running Harvard courses should reject new technology out-of-hand—online paper submission, for example, is one of the greatest environmental and educational benefits of our digital age. Rather, it is to point out the obvious but oft-forgotten truth that just because something is new and trendy doesn’t mean it belongs in the classroom. Before any course integrates some newfangled technology, there must be a clear purpose for the addition—one that is not fuzzy (“provides an alternate, up-to-date form for students to involve themselves in the course”) or already served by section, lecture or any other pre-existing aspect of the course apparatus.
+Course heads and TFs ought to think very carefully before they inject new media into their course, and must be willing to adjust these mediums in response to student feedback. In one course last semester, I found myself facing a blogging requirement that seemed superfluous. I arranged to meet with my TF and had a conversation which went a long way towards clarifying the specific goals of the project. But in the event that an instructor doesn’t have a good answer to a student’s question about the utility of a new media innovation in the course, it should be scrapped. The desire to proudly proclaim that one’s class uses such media is insufficient justification for introducing it.
+If there’s one person on campus to ask about intelligently integrating technology into a course, it’s David J. Malan ’99. As professor of Computer Science 50, he is arguably the person most responsible for mainstreaming technology and media on Harvard’s campus. Few courses use more cutting edge technology than CS50—last year’s students programmed for the new Google Android smartphones—and the class’s end-of-year fair annually produces numerous social media-based aids to campus living, from Dining Hall menu apps to the latest incarnation of Shuttleboy. So, what’s Malan’s secret formula for the successful use of technology in the service of pedagogy? Simple—don’t be like Dilbert: “Introduce some new technology only when you think it might solve an actual problem,” he says. Don’t be afraid to experiment, but also don’t be afraid to admit failure. “There’s nothing wrong with experimenting with new technologies to see what benefits they might yield: we add to and subtract from CS50 all the time. Just have to be willing to admit it when the answer is none.”
+It’s sound advice for the new semester—and for CNN’s coverage of tonight’s State of the Union.
+Yair Rosenberg ’11, a Crimson associate arts editor, is a Near Eastern Languages and Civilizations concentrator living in Adams house.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Prior to the 20th century, bacterial meningitis ravaged countries around the world. Its ability to strike even the hardiest of bodies inspired widespread fear; yet it was that very fear that galvanized scientists to devise new treatments through antiserums and medications, dealing a major blow against the mortality of the disease.
+However, meningitis still carries severe long-term effects for those unlucky enough to be unvaccinated. And they don’t just suffer from meningitis, either—they’re also targeted by the anti-vaccine movement, which questions the overall safety and efficacy of the vaccine and revives the same fears of uncertainty from yesteryear, stymieing efforts to immunize against infection.
+We’re falling into the trap, again. As Dr. Paul Offit, Chief of the Division of Infectious Diseases at the Children’s Hospital of Philadelphia wrote in his recently published book Deadly Choices, this exact timeline has played out for numerous diseases—e.g. pertussis, measles, and smallpox. A 1998 graph produced by a Centers for Disease Control official, titled “The Natural History of an Immunization Program,” displays, through analysis of previous reactions to vaccination programs, a timeline of the hypothetical progression that vaccines undergo. As coverage increases and the incidence of disease goes down, confidence diminishes due to factors like misinformation and contentment.
+The graph demonstrates one thing very clearly: The anti-vaccine movement is not unlike the angry mobs of 19th-century England decrying smallpox vaccines. It’s a typical manifestation of latent fears following a period of success, triggered by an instigating event that casts doubt on the institution of public health. Just as smallpox saw a resurgence in England, so, too, are we seeing new pockets of vaccine-preventable diseases emerge throughout the United States and the world. As the graph shows, more and more individuals will be stricken with this resurgent disease until fear of disease trumps irrationality, allowing for eventual eradication indicated by the dropping of the line for disease to zero.
+Does a civilized society really wait until its people die before it takes action? From what history has shown us, unfortunately, it would seem so. However, to avoid the mistakes of the past, there are several courses of action to halt the increasing incidence rates of disease designated by the graph.
+First, our media must take the time to appreciate the precarious nature of scientific reporting. A published study is not a fact; it’s an opportunity for a global network of progressive thinkers to analyze the merits and faults of one’s work. Andrew Wakefield’s now-fraudulent journal article linking autism with childhood vaccines, though flawed in form, was widely reported in the press, and even now the man receives an incredible amount of airtime to give a semblance of “balance.” Yet, if news media wished to provide balance, they would need to give proportional air-time to scientific professionals and anti-vaccine experts, which would mean thousands of researchers for every Wakefield. In addition, just as many outlets have taken the opportunity to turn Fred Phelps’ anti-homosexual protests into positive stories on community support and respect, the same outlets should also emphasize the marvel that is a vaccine.
+Second, Americans must become active participants in the vaccine debate. Anti-vaccine parents influence their friends, which only necessitates the need for ongoing, proactive dialogue. What we need is a distinct entity specifically tasked with educating the public on “science comprehension.” In the short-term, it would educate at least a portion of the American populace on the real effects of not vaccinating, a tactic successfully implemented by the Ad Council in the 1950s to convince adults to receive a polio vaccine. In turn, the long-term strategy would be to raise a generation of more educated adults by stressing the importance of scientific thinking in American education.
+Finally, and most importantly, there must be a national dialogue on the extent to which the inclinations of an individual can be put aside for the livelihood and health of a community of innocent Americans. For obvious reasons, this is something easier said than done; anti-vaccine advocates and scientists are not banging on each other’s doors looking to compromise. That alone makes it clear that our national dialogue is not going to come about organically. In the end, it is the courts that have guided the long, tumultuous road of vaccine safety. As the U.K. utilized its courts to settle the controversy over pertussis vaccines and epilepsy, the U.S. might also need to call forth a judicial arbiter to settle such a politically explosive issue.
+Perhaps we should allow a family that lost a child from a vaccine-preventable disease to file a case against their local governments, their public health officials, and the individual that first infected their child. Perhaps parents should be entitled to sue physicians that offer vaccination schedules ungrounded in legitimacy. Perhaps then the political will could be mustered to do something. Sadly, it seems only the hyperbolic, hypothetical nature of such scenarios is what will jolt this country into action.
+In short, far too many lives have been taken from us, and it’s time for rational minds to retake the helm.
+Byran N. Dai ’11, a Crimson editorial editor, is a History and Science concentrator in Currier House.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Like undergraduates at other colleges, many Harvard students will be assigned to read material like Hobbes’s “Leviathan,” the poems of Emily Dickinson, or the theories of Galileo (in principle, if not letter) sometime during the course of their education. Like them, we can go buy our required texts in the university bookstore, online, or secondhand with highlighter marks flashing across the coffee-stained pages.
+Unlike them, however, we also have another option: We can actually go and read the originals.
+Most of Harvard College has a general awareness, and even pride, that the University’s library system has one of the largest collections of books, DVDs, and other materials in the world—meaning that, even if the reserved reading for your class always seems to checked out, there will always be at least one season of “The O.C.” available. Most of us also know, if only from the long-ago admissions tour, that Harvard owns a Gutenberg Bible and a First Folio of the works of Shakespeare. Some of us even stumbled across the former on display in the middle of Widener before figuring out that we weren’t in the stacks.
+But many students remain unaware that Harvard also has, among many other things, multiple first editions of Andreas Vesalius’s “De humani corporis fabrica”: a book made out of tin;; Ella Fitzgerald’s cookbooks; letters to T.S. Eliot from James Joyce, Virginia Woolf, and John Maynard Keynes; Samuel Johnson’s tea set; and the original drawings for “Alice’s Adventures in Wonderland.” And many people are equally surprised to find that you don’t need special permission in order to see many of these things. You can walk in after lunch, read Melville’s copy of Emerson (with his notes in the margins), and still make it to class at two.
+Very few undergrads take advantage of these resources during their time at Harvard, which is, to put it mildly, too bad. (To be fair, a lot of grad students—and even professors—don’t, either.) Despite the fact that Houghton Library, which houses Harvard’s rare books and materials, is just thirty seconds to the right of Lamont—fifteen if you feel like sprinting with a backpack—a recent, completely unscientific survey of Harvard students found that less than a quarter of them could point to it on a map. (Nine-tenths of them, however, resented me accosting them with a campus map outside of Annenberg.) Like Poe’s purloined letter, Houghton Library lies hidden in plain sight.
+You have to leave some identifying information the first time you go in, and you can’t take a bag into the reading room, but after that, using Houghton Library is a pretty easy experience. Unlike Widener or Lamont, the staff will actually find a book on request and bring it to the counter for you. (Imagine that—more time to play cell-phone games.) And, even though the library is often full of researchers carefully transcribing or annotating centuries-old books on laptops, it’s perfectly acceptable to use a book simply to do one’s reading. One of my favorite experiences from freshman year was reading a first edition of Thomas Paine’s “Common Sense,” in its original pamphlet form, before going off to discuss it in a Gov 1061 section with the smell of 18th-century rag paper still on my fingers. Since then, I’ve been able to do the same with Hume, Montesquieu, and Jane Austen. Amazon may be good for comparison shopping, but some things are priceless—and, since it’s a library, it’s all free, anyway.
+Many of Harvard’s other libraries unjustly suffer from lack of attention, too. To name just a few, Schlesinger Library not only holds most of Julia Child’s cookbooks; it documents the entire history of women in America and at Harvard. Langdell Library is not just a cozy retreat from the Yard when Lamont is too crowded; it has all the papers of Judge Learned Hand, too. Baker Business Library does not just have nice bathrooms; it also holds the erstwhile Lehman Brothers papers so that even if the economics department doesn’t offer accounting courses, you can at least see how not to do it. The house libraries are regularly used for workspace, but they have books, too—often the one you need, and a lot closer than Widener. There are more than 70 libraries at Harvard, and most of us will only ever set foot in a few. Those 70 libraries together hold over 16 million books, and half a million new books come in every year. Imagine how many books you’ll read during your time here—50? 200? A couple dozen? Even if you read a book a day, you wouldn’t come close to scratching the surface.
+But what makes our library special isn’t sheer size—there are larger and scarier libraries in the world. What’s unique about Harvard is the quality of its brightest gems. For a very, very brief time of our lives, we live and sleep within fifteen minutes of Martin Luther’s correspondence, the papers of the Alcott family, and the entire library of the logician W. V. Quine, in addition to every work mentioned above. There’s something for everyone, no matter what your interests may be. Given that, doesn’t it seem like a waste to use the libraries only for the carrels?
+Spencer B.L. Lenfield ’12, a history and literature concentrator in Eliot House, is a former Berta Greenwald Ledecky fellow at Harvard Magazine.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+William von Eggers Doering ’38, a world-renowned organic chemist and professor emeritus in the Department of Chemistry and Chemical Biology, died of heart failure on Jan. 3. He was 93.
+His colleagues remember him as a brilliant scientist who was committed to his field until the end of his life.
+“William Doering was at the very highest level among the greatest chemists of the twentieth century,” said Elias J. Corey, professor emeritus of organic chemistry at Harvard and Doering’s colleague of 50 years.
+“He was off-scale, in terms of intelligence,” Corey said. But he also remembered him as “very courteous, very circumspect, [and] very thoughtful.”
+Doering is perhaps best known for his postdoctoral research at Harvard, where he collaborated with chemist Robert B. Woodward to synthesize quinine, one of the first anti-malarial drugs. Released in 1944, the new drug would immediately save lives through World War II.
+Doering also had a lasting impact on the collective understanding of how organic chemical reactions take place. In 1951, he helped confirm quantum mechanical predictions made by Erich Hückel, a German physical chemist.
+As Chairman of the Board of the Council for a Livable World, Doering advocated for nuclear non-proliferation and arms controls.
+But Corey said Doering was not concerned with being recognized for his work. Instead, Corey said, he devoted much of his energy to training future chemists—many of whom have become leading scientists in the field and continue to spread Doering’s legacy by teaching their own pupils.
+Doering taught at Columbia and Yale but returned as a professor to his alma mater in 1967, driven by what Corey called “a loyalty to Harvard.”
+That dedication was matched by his commitment to science, according to Jerome A. Berson, Yale professor emeritus and a student of Doering’s at Columbia.
+“He expected his students to have a similar commitment,” Berson said.
+Doering’s courses were demanding, but his students admired him nonetheless. Corey remembered waiting to go to lunch with him one day: A student asked to speak with Doering and despite revealing that he had done poorly on a recent exam, the student went on to tell the professor how much he loved the class.
+“He was a very clear lecturer and extremely articulate,” Corey said. “You could count on him to use exactly the right word to explain something complex.”
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+A turtle caught by Henry David Thoreau, a 114-year-old tortilla about the size of a cookie, and the crusty, dry palette of painter John Singer Sargent will go on display this week as artifacts in “Tangible Things,” a new, multidisciplinary exhibit in the Science Center.
+The three-floor showcase, which explores objects that have historical value but are not easily classified according to scholarly conventions, will remain on display for the next six months.
+The exhibit will figure prominently in the coursework of two classes over the coming semester.
+The artifacts on display were compiled over eight years of research by students History 84c: “Confronting Cultures/Interpreting Objects” taught by University Professor Laurel T. Ulrich and Senior Lecturer Ivan Gaskell. This semester, the students in the class U.S. in the World 30: “Tangible Things: Harvard Collections in World History,” also taught by Ulrich and Gaskell, will continue to collect objects around Harvard.
+Gaskell noted that in collecting further items, students will have an opportunity to be creative.
+“It’s like an invitation to go explore Harvard’s collection,” Gaskell said. “As long as you can get your hands on it, we’ll consider it,” he said.
+Gaskell added that students in the past have been the first to investigate the historical value of objects in Harvard’s collections, some of which were sitting in storage.
+He noted that some students have recorded audio files about their objects, which visitors can listen to by dialing a number on their cell phones while in the exhibit.
+“I wonder if it’s the only class that encourages you to bring your cell phone,” said John P. Dixon, a teaching fellow for the class.
+The exhibit will also feature prominently in a new course, History of Science 290: “Critical History: Curating Images, Objects, Media.”
+According to instructor Jeffrey Schnapp, a visiting Stanford University professor, the course examines “how we get different kinds of media to intersect with objects.”
+Students in the History of Science class will study recent writings on collecting and curating objects, with the exhibition serving as a focal point.
+Beyond the presentation in the Science Center, “Tangible Things” also features 16 “guest objects” in six other locations on campus. Among them is the Harvard University President’s chair from 1725, which is currently on display in the formerly all-female Radcliffe Yard as a statement of how far the  male-dominated academic scene at Harvard has progressed, according to Gaskell.
+—Staff writer Michelle M. Hu can be reached at michellehu@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In the wake of an explosion in Moscow’s Domodedovo Airport yesterday that killed an estimated 35 people and injured 180 others, some Russian students and experts at Harvard recalled the ongoing violence that has plagued Russia.
+Investigators believe a male suicide bomber triggered the explosion in the airport’s waiting area outside security, according to The New York Times.
+There was no indication of who was behind the attack, but Russian President Dmitry A. Medvedev announced that there will be a full investigation into what he declared a terrorist act.
+Previous attacks have been attributed to insurgency groups in the North Caucasus, a predominantly Muslim region of southern Russia, said Carol R. Saivetz, an associate at the Harvard Ukrainian Research Institute and a center associate at the Davis Center for Russian and Eurasian Studies.
+“It’s a shock,” said Dunja Popovic, a center associate at the Davis Center, who said he learned of the attacks before teaching a class. “I couldn’t get it out from my head even when I was in the classroom because it’s so horrible and senseless.”
+But Svetlana I. Dotsenko ’11, who lived in Russia before coming to Harvard, recalled a period of what she described as frequent attacks when she was in high school.
+There were explosions on a monthly basis, she said. In 2004, she remembered, two Chechen suicide bombers triggered explosions aboard two separate planes leaving the Domodedovo Airport, killing around 90 people.
+But Dotsenko said the frequency of attacks had decreased over the past five years.
+“Everyone’s scared because it seems to be coming back in frequency,” Dotsenko said.
+“Now it’s a little better, but there’s no predictability,” Dotsenko added.
+She said yesterday’s attack still came as a shock. “I was scared,” she said. “But I called my friends in Russia, and no one was surprised. Everyone’s like ‘Oh yeah, another bomb.’”
+Flights were temporarily delayed from landing due to the incident, but the airport remained open, according to The New York Times.
+“Immediately we’re all going to be asking if it’s going to result in further restriction in travel,” said Tad J. Oelstrom, an adjunct lecturer in public policy and director of the National Security Program at the Harvard Kennedy School, who said he believes the attacks are localized within Russia.
+“There are no indications that this is an international terrorist act,” Oelstrom said.
+While Medvedev demanded tighter security, Oelstrom said that officials must go beyond preventative measures.
+“Every time we hear one of these, we need to step back and see how we would react,” he said.
+“It’s deeper than preventive measures at the airport. It is understanding the people and their needs,” Oelstrom said.
+—Staff writer Kerry M. Flynn can be reached at kflynn@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+University professor Lawrence H. Summers didn’t need to say that he was back at home at Harvard.
+Wearing black snow boots, Summers sat with both his feet propped up on his desk, as he comfortably waved around a nearly empty can of Diet Coke.
+And like Harvard’s over 6,500 undergraduates, he had just finished his first day of classes—except he wasn’t returning from a one-month vacation, but from a two-year hiatus, working in President Obama’s administration as director of the National Economic Council.
+Now Summers is co-teaching an undergraduate course, Economics 1420: “American Economic Policy,” and a course at the Harvard Kennedy School that examines the policies and response of the Obama administration to the recent financial crisis and recession.
+Summers said he plans to draw from his experiences in the White House for both courses.
+“Certainly when you have to give advice or make decisions on major economic problems it is rather different than thinking about them in a textbook context,” Summers said. “I hope in my lectures to be able to share the many aspects that have to go into an ultimate decision.”
+The former Harvard University president served as senior economic advisor to the president during the largest recession in modern times. He advised Obama through the passage of the $787 billion stimulus and health care reform.
+Summers praised the passage of the bill, but he admitted “that battlefield medicine is never perfect” and said he expects that “the health care program can and will be improved on over time.”
+Passing the health care bill or financial regulation is only half of the challenge, according to Summers.
+“One of the things you learn in government is that passing legislation is only a small part of it,” Summers said. “Implementing it in a thoughtful and intelligent way is a large part of it.”
+Different reasons have been cited for Summers’ seemingly abrupt departure from the Obama administration. Had he remained in Washington for another year, Summers would have lost tenure and had to petition to have it restored, as per Harvard’s tenure rules.
+But for Summers, life at Harvard otherwise has fallen back to a familiar rhythm. Summers’ former assistant has rejoined to keep “my office and my life in order.”
+Summers’ new office in the Kennedy School’s Littauer Building comfortably fits his desk and a small coffee table littered with three Diet Coke cans. Old pictures and mementos from his time in Washington and at Harvard fully decorate the walls.
+“The pictures of me with President Obama and Vice President Biden, though, are new acquisitions,” Summers says, pointing at the pictures, parting his olive green plaid tweed jacket and exposing his purple suspenders underneath.
+For Summers, Harvard is a familiar and long-term home. Since receiving his Ph.D from Harvard as a graduate student in 1982 and gaining tenure one year later—at the age of 28, becoming one of the youngest tenured professors in the University’s history—Summers has been largely based out of Cambridge.
+Summers has returned back to his home in Brookline—a choice Summers’ wife, Harvard English Professor Elisa New, appreciates.
+“My wife is very happy not to be commuting to Washington periodically,” Summers said, with a light laugh that frequently punctuated his sentences and an easy smile.
+New is not the only person who will be happy to welcome Summers back home to Cambridge.
+“It’s good news for Takemura, the Japanese restaurant across the way,” Summers said.
+“That was a frequent haunt,” he added.
+And Summers does not plan to leave these familiar places anytime soon.
+“It’s very good to be back,” Summers said. “I thoroughly enjoyed my time in Washington, but this is home.”
+—Staff writer Gautam S. Kumar can be reached at gkumar@college.harvard.edu.
+—Staff writer Zoe A. Y. Weinberg can be reached at zoe.weinberg@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Jay Leno, host of his own comedy show for nearly two decades, was named the Hasty Pudding Theatrical Society’s 2011 Man of the Year yesterday.
+Leno will receive the Pudding Pot award in Cambridge on Feb. 4, just before the Hasty Pudding premieres its 163rd production, “Kashmir If You Can.”
+Hasty Pudding producers Nikolus A. Ray ’11 and Matthew E. Whitaker ’12 will roast the comedian before presenting him with the pudding pot.
+“It goes without saying that Jay Leno is one of the most notable names in the comedy industry,” said Hasty Pudding spokesperson Learah T. Lockhart ’12.
+She said the Pudding sought to recognize Leno not only for his show, but for his continued stage performing.
+“He still hasn’t stopped,” said Lockhart.
+Despite Leno’s commitment as host of NBC’s “The Tonight Show with Jay Leno,” he performs more than 150 shows a year—including weekly shows in Las Vegas—according to the Pudding’s press release.
+In 1977, Leno first appeared on “The Tonight Show with Johnny Carson,” whose host at the time was the Pudding’s 1977 Man of the Year. Fifteen years later, Leno took over as a full-time host of the show, which was renamed to recognize its new host.
+In 2009, Leno left “The Tonight Show” and handed over the reigns of the storied program to Conan O’Brien ’85.
+But amid a conflict over scheduling, O’Brien left the network, and Leno returned as host of the program.
+Lockhart said the comedic style of Leno, who has also authored two best-selling children’s books, appeals to all ages.
+“We pride ourselves on our ability to make people laugh, and so does our Man of the Year,” Lockhart said.
+The press release praised Leno for continuing to “exude the ‘everyman’ style and personality.”
+Leno’s roast will occur one week after the parade and roast in honor of the Hasty Pudding’s 2011 Woman of the Year, Julianne Moore, who was named last week.
+The Woman of the Year award, which has been bestowed upon actresses such as Meryl Streep and Anne Hathaway, has been given annually since 1951.
+The Man of the Year, whose recipients include Clint Eastwood and Robert de Niro, began in 1963.
+The awards are given to “performers who have made a lasting and impressive contributions to the world of entertainment,” according to the press release. But Lockhart declined to elaborate on the selection process of Hasty Pudding’s 2011 Woman of the Year, Julianne Moore, who was named last week.
+—Staff writer Monika L.S. Robbins can be reached at mrobbins@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Despite the recent implementation of pre-term planning, which was meant to help College administrators gauge the potential size of spring classes, a frenzy of crowded hallways and overflowing lecture halls heralded the first day of shopping period yesterday.
+Students in a number of classes said that they were forced to stand—or were unable to even enter lecture halls—while attempting to shop popular courses.
+Between thirty and fifty students listened to the first lecture of Societies of the World 24: “Global Health Challenges: Complexities of Evidence-Based Policy” from outside the classroom, according to student shopper Yuying Luo ’12.
+Luo said she only shopped the course for 15 minutes because “there was no point in staying” when she could not even see the professor.
+Luo added that she believes that the class drew a large crowed because “global health policy courses at Harvard are a great way to fulfill a Gen Ed.”
+But she also said that the course’s popularity may not have been fully reflected in student’s pre-term planning submissions.
+“Obviously way more people decided to shop the class than signed up for it in pre-term planning,” she said.
+Professor of Public Health Sue J. Goldie, who teaches the course, wrote in an e-mailed statement that between 250 to 300 shoppers showed up for her class, which will be lotteried and capped at 180 students. She added that she received e-mails from students who could not hear information about the lottery during yesterday’s class because they were standing outside in the hallway.
+Physical Sciences 1: “Chemical Bonding, Energy, and Reactivity: An Introduction to the Physical Sciences”  boasted approximately 400 to 500 shoppers, according to Kathryn A. Wendorf ’14.
+Wendorf said she managed to find a seat in the crowded lecture hall, but only because she got there relatively early.
+Students and instructors offered various explanations for the persistence of shopping week overcrowding despite the pre-term planning initiative.
+Kyle M. Green ‘14, said that he shopped United States in the World 23: “Art and Thought in the Cold War,”  though the class was not on his pre-term planning schedule, because he researched the course during winter break and “it looked like a fun Gen Ed.”
+Green added that he thinks many students used their down time over the vacation to decide their spring schedules. As a result, he said he thinks pre-term planning was not effective in predicting actual class sizes.
+Robert Joseph “R.J.” Jenkins, who is the Head Teaching Fellow for “Art and Thought in the Cold War,” said that the number of students present in yesterday’s lecture exceeded the number that the pre-term planning tool had predicted. But Jenkins added that he does not believe that all the students shopping the class will eventually enroll.
+“Given that today is the first day of shopping period, we don’t put much stock in the number of bodies that showed up today,” Jenkins said.
+—Staff Writer Julie M. Zauzmer contributed reporting to this story
+—Staff Writer Rebecca D. Robbins can be reached at rrobbins@college.harvard.edu
+This article has been revised to reflect the following correction:
+CORRECTION: January 27, 2011
+An earlier version of the Jan. 25 news article "Pre-Term Planning Fails to Deter Shoppers" misquoted Professor of Public Health Sue J. Goldie as saying that the lottery for her course had occurred in class. In fact, the lottery is online and ends Thursday. 
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+Harvard Business School Assistant Professor Benjamin G. Edelman ’02, who this month published a study accusing Google of bias, says that the company is attempting to discredit him for his work.
+Edelman’s study, which he co-wrote with HBS doctoral student Benjamin B. Lockwood, found that search engines like Google and Yahoo unduly favor their own services for popular search terms such as e-mail, calendar and maps.
+“The key question is whether Google’s results are skewed towards Google’s services,” Edelman said.
+In the study, entitled “Measuring Bias in ‘Organic’ Web Search,” Edelman cites Google’s prominence and its assertion that its algorithmic results are never manipulated as a reason for focusing on the company so heavily.
+In response to the accusation, Google issued a statement claiming that Edelman’s research is biased because of his past professional relationship with competitor Microsoft.
+“Mr. Edelman is a longtime paid consultant for Microsoft, so it’s no surprise that he would construct a highly biased test that his sponsor would pass and that Google would fail,” it said.
+In an interview, Google representative Adam Kovacevich '99 added that “[Edelman] writes reports criticizing Google nearly every other month.”
+When asked what implications he thinks his research might have, Edelman said that anti-trust regulators in Europe are already starting to examine Google’s practices.
+“In the coming months and years we will see whether litigation prevents Google from giving its own services a boost,” he said.
+“The basic question is whether Google can favor its own services whenever, and however much, it cares to do so,” he added.
+Edelman said that he plans to continue researching the practices of Google and other search engines, with his next focus potentially being privacy.
+“There are certainly serious questions about privacy. What data is stored by a search engine, for how long, and who has access to it?”
+Google’s representatives said that they do not intend to take legal action against Edelman but that they want to stress their company’s commitment to objective search results.
+They say preferences of Google users determines the order of search results.
+Despite Google’s accusations, Edelman stands by the results of his study.
+“The methodology is appropriate, and the conclusions are right,” he said.
+—Staff writer Matthew M. Beck can be reached at mbeck@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+With the first-ever Optional Winter Activities Week concluded, student group leaders have now turned to evaluating the week’s success.
+Many students whose groups organized activities said the week’s efforts had already paid off in the form of newly interested members.
+The Institute of Politics was one such group that used OWAW as an opportunity to attract more students to their organization.
+“Our mission was this: if you are interested in politics or public service, the IOP is here for your use, regardless of your involvement,” said IOP communications director Gabriel S. Neustadt ’13.
+According to Neustadt, some OWAW participants have already contacted him about becoming more involved in the IOP this coming semester.
+Cassandra E. Weston ’14, who ran a workshop on spoken word poetry, said that the workshop generated such a positive response that she plans to expand the workshop into a spoken word club on campus.
+Administrators in University Hall are also looking back on the week.
+Erin Goodman, manager of winter break operations for the College, said earlier that the administration had approved about 100 OWAW programs. The College administration does not know the exact number of students that participated in the activities, but plans to issue a survey soon to evaluate the week’s success.
+However, for some College offices, the week’s outcome is already clear. Office of Career Services director Robin S. Mount called the week a “huge success” because, she said, it allowed students to focus on applying to internships before the stress and distraction of shopping week began.
+During OWAW, OCS hosted breakfast “Power Prep” sessions, extended drop-in hours, and, at the end of the week, an Etiquette Dinner that taught the 100 students in attendance the proper way to act and eat in business situations.
+In addition to these sessions, some students prepared for the interview season by participating in one of many organized programs, such as a four-day accounting course taught by a professor from Harvard Business School.
+Other students used OWAW to finish projects for various clubs.
+Harvard Undergraduate Television members, who had been writing their short film, “Snowflake,” since summer of 2010, completed filming during the week.
+According to Sean B. Goller ’12, the film’s producer and a former Crimson video chair, OWAW provided an opportunity to attract students to an activity that they otherwise might not have had time for during the year.
+“A lot of students at Harvard are really interested in filmmaking, but since it’s such a time-intensive project, a lot of students don’t have time during the school year to do it with a courseload,” Goller said.
+Although many students participated in OWAW activities, some preferred to remain home for the additional week.
+Others said that lack of publicity for OWAW activities meant that they were not aware of things happening throughout the week and therefore  they did not return.
+“I knew OWAW was happening, but beyond that I didn’t know exactly what was happening,” said Samara R. Oster ‘13.
+—Staff writer Monika L.S. Robbins can be reached at mrobbins@college.harvard.edu
+—Staff writer Hana N. Rouse can be reached at hrouse@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+In her first month of collegiate competition, Rebecca Nadler has already established herself as one of the greatest alpine skiers Harvard has ever had.
+After two weekends on the Eastern Intercollegiate Ski Association Carnival Circuit, Rebecca Nadler has posted fourth and sixth place finishes and has in all likelihood earned herself a spot in the NCAA Championships.
+“It won’t officially list the qualifiers for NCAAs until the end of the season, but no one could knock her out,” alpine coach Tim Mitchell said. “It’s got to be the first time we’ve had a woman’s alpine skier qualify for NCAA nationals in at least the last 30 years.”
+But Nadler’s freshman status can be misleading. The Ottawa, Ont. native is arguably the Crimson’s most experienced member of the alpine team.
+“My parents ski raced when they were young,” she said. “I started skiing as soon as I learned how to walk. I’ve been skiing and racing as long as I can remember.”
+Nadler came of age while competing for the Mont Tremblant ski club.
+“They have a very big, very successful ski program: the whole nine yards,” Mitchell said. “A lot of women [and] a lot of men have come out of there.”
+After a successful run with Mont Tremblant, Nadler decided to take some time off from school to focus on skiing and competed for the Quebec provincial team after graduating from Louis Riel in 2008.
+“I was taking it year by year: I was hoping to make the national team,” she recalled. “Things don’t always work out exactly as you expect.”
+When that didn’t work out, she enrolled at Carrabassett Valley Academy, a ski and snowboard academy, for a postgraduate year. During her stay there, she skied under the tutelage of Martin Gray, formerly the coach of the New Zealand B National team. Gray saw in Nadler the potential for great skiing. He just had to convince her to see it in herself.
+“In the beginning I think her confidence was a little low,” Gray said. “She wasn’t skiing technically very well. She just need a little confidence...propping up...She had a few things we wanted to work hard on to correct...At the same time, she was gaining in confidence, steam by feeling much better about herself, and the results started to reflect it.”
+Nadler’s growth on and off the slopes attracted the attention of college coaches in the region, but Harvard offered her the best opportunity to compete at nationals.
+“You can only bring three women [per team] to nationals,” Mitchell noted. “If she had raced [at Dartmouth], she might have qualified [and not gotten to go]. It’s one less thing she’d have to worry about.”
+But while Nadler may have entered her postgraduate year as a dark horse, by the end of it she was anything but.
+Nadler finished the 2009-2010 season as the Eastern Cup Champion.
+And she’s been rolling ever since. Not only did she prove herself to be one of the region’s top skiers in her first two competitions, she also earned herself a spot on Team Canada at the World University Games. She leaves for Turkey today and will spend the next two weeks in competition.
+“I’m really excited that I get to represent my country,” she said. “Hopefully I can pass my classes though.”
+Both Gray and Mitchell attribute Nadler’s success to her work ethic and focus.
+“She has a tremendous work ethic,” Gray said. “She understands both on and off the hill the work that needs to go in...She operates at a very high professional level.”
+“She is one of the most professional athletes I have coached in terms of her commitment,” Mitchell said. “She inspects each course...She’s extremely dedicated and the results bear that out so far.”
+Nadler’s tireless work ethic has allowed her to overcome her small size. Barely over five feet, Nadler does not have the typical build of an alpine skier, but she makes up for it with fitness and nearly flawless technique.
+“She’s extremely strong for her size,” Mitchell said. “She really doesn’t make mistakes. She stays very very centered in her skis. She doesn’t get moved. It makes her a really great college skier...She’s got her technique really dialed in. She’s only got one or two things going through her head when she skis. That nice, simple focus allows her to really clear her head.”
+But for Nadler, the key to her success has been her sheer love of the sport.
+“I’m having a ton of fun with the ski team,” she said. “I always ski better when I’m having fun...I’m having more fun skiing this year than I ever have.”
+—Staff writer Christina C. McClintock can be reached at ccmcclin@fas.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+If you haven’t been to Lavietes Pavilion yet this season, shame on you.
+The 2010-11 Harvard basketball season is past the midway point of the schedule, and so far, both the men’s and women’s squads have been electrifying at home. The Crimson men boast a perfect 8-0 record at Lavietes, while their female counterparts only have one blemish—a close loss to Sacred Heart on Dec. 22—out of the six games played across the Charles.
+Each team has had its fair share of challenging opponents at Lavietes. In its second game at home, the men’s team faced Colorado on Nov. 28 in front of an audience that included several NBA scouts, watching the play of two Buffalo guards: senior Cory Higgins and sophomore Alec Burks. Instead, junior co-captain Keith Wright upstaged the show, putting up 19 points to go along with nine rebounds to lead the Crimson to its first win against a Big 12 opponent. Harvard had previously been 0-11 against teams from that conference.
+Dartmouth played the role of the victim against the women’s squad last week for a pivotal home game that denoted the start of the Ivy League campaign for both teams.
+Last year, a defiant Big Green squad used a one-point margin to upset Harvard in Hanover, N.H. The Crimson, determined to not let this happen again, showed it from the beginning of the contest all the way to the very end, keeping many of its starters on the court throughout the game to drive the message home.
+“Dartmouth is our biggest rival and has been for the past 30 years,” said junior point guard Brogan Berry after the game. “It was just important to come out hard and keep the energy going.”
+“We were putting a lot of pride on the line, [especially after] we were upset by them in the first game last year,” added Harvard coach Kathy Delaney-Smith.
+The home team used that loss as motivation to humiliate the Big Green, 82-49. As the women’s basketball beat writer, I knew how much bad blood there is between these two teams.  And to see the Crimson squad keep widening the margin of victory throughout the second half proved to me that Harvard is all serious business this year.
+After all, two key players in the starting lineup, co-captain Christine Matera and forward Emma Markley, are playing their last seasons in a the Crimson jersey. Matera, an innate sharpshooter, has been critical to the offense, helping spread out an opponent’s defense with her threat from beyond the arc.
+Markley has been the stalwart leader of the pack, leading the team in scoring the last two seasons and still averaging 12.9 points this season, tied second on the team with sophomore forward Victoria Lippert. The senior also averages 5.9 boards—first on the team.
+What has come as a pleasant surprise is the emergence of rookie Christine Clark, who has posted double-digit scoring figures in 11 of the 15 games she has played this season. Now a starter, Clark has proved herself as an asset to the team.
+Lippert, on the other hand, has moved out of the starting rotation, not because of a decreased level of play but as a strategic move by Delaney-Smith.
+“Starting doesn’t mean what the world thinks it means,” the coach said. “I place a lot of value on [the] sixth player. To be honest with you, what I found [before] was that I had five scorers starting, and no scorers coming off the bench.
+“It looks stupid, [but] it’s the most brilliant move in the world. I think it’s helped this team immensely, and I think Victoria is playing better [because of this].”
+The strategy seems to be paying off—the Crimson has won four out of its last five, with Lippert coming off the bench to provide that scoring spark.
+So whether it’s to see the women’s squad or the men’s team take on Ivy League foes the rest of the season, make sure to make it across the Charles to join in the excitement of Harvard basketball. Now is the time, especially for the women’s team, to make large strides in taking home the Ivy title.
+—Staff writer Brian A. Campos can be reached at bcampos@fas.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+There were times last year when the Harvard men’s volleyball team didn’t know if it would have enough healthy players on its roster to field a full lineup.
+But aided by the return of some of its veteran players and bolstered by a group of five freshman, the Crimson shouldn’t have a problem finding enough players when it opens the 2011 season against Newbury tonight at the Malkin Athletic Center.
+“This is the first time we’ve had 12 guys on the roster,” junior co-captain Matt Jones said. “It has definitely improved practice. Being able to do game-like situations in practice is definitely going to help us.”
+After last year’s roller coaster season that featured countless injuries and opened with a nine game losing streak, Harvard is looking to get off on the right foot in 2011.
+If the Crimson is to win its season opener—something it hasn’t done since 2008—Harvard will have to rely on its core group of returning players, a group highlighted by Jones.
+Jones, a 6’3” outside hitter, returns to the lineup for his third season after an impressive sophomore campaign in which he finished second on the Crimson in kills, averaging 4.13 per set.
+This year, Jones hopes to take on a new role as the squad’s finisher in close situations, one that was played last year by Erik Kuld ’10, Harvard’s top offensive weapon a season ago.
+“I hope that what I can bring to the table is to be a finisher and a closer when it comes down to the tight points in the game,” Jones said.
+The Crimson also hopes to make up for the lost production of Gil Weintraub ’10, who finished second on the team in assists during his senior season.
+This year, sophomores Rob Lothman and Derek Jansma are expected to do the majority of the setting. Both Lothman and Jansma were given significant playing time as freshmen, seeing action in each of Harvard’s 21 matches.
+Lothman made a noteworthy impact while he was on the court, handing out a team-leading 681 assists.
+The Crimson will also be aided by the return of senior Shaun Mansour. Mansour, a 6’3” middle blocker and opposite, missed the entire 2010 season with a torn ACL. But he will be back in uniform for his senior season to help the Crimson up front.
+Mansour won’t be the only addition to the Harvard lineup. The Crimson has added five freshmen who are expected to make an immediate impact on the court.
+“We have a great group of freshman coming in,” Lothman said. “Across the board, I think the freshmen are going to be big contributors, and we’re going to need it.”
+If there’s one thing Harvard’s latest crop of newcomers will certainly contribute to the team, it is their height. Led by the 6’7” Michael Owen, the 6’6” Kyle Rehkemper, and the 6’5” Nick Madden, the Crimson’s freshman class boasts the three tallest players on Harvard’s roster.
+“Defensively, on the blocking side, having bigger guys is a real advantage,” Jones said. “Also, in the middle spots having taller players gives the setter a bigger window...[which should] give us a more balanced offense. I’m hoping that’s going to be one of our improvements this year.”
+Rehkemper should provide some of the much-needed size in the middle. As a senior at Palos Verdes High School in California, Rehkemper was named to the First-Team All-Bay League team and was selected as one of Sports Imports Fab 50 high school volleyball players in the country.
+For Rehkemper and the four other California natives on the Crimson’s roster, spring break will serve as a homecoming.
+Harvard will travel to the Golden State to take on three highly ranked opponents—No. 11 Cal State Northridge, No. 6 Pepperdine, and No. 1 Southern California—from March 12-16.
+“I think having the opportunity to play better teams is going to be huge,” Lothman said. “Anytime you go play a team that’s that good, it’s a benchmark to see how good you really are. It’s really going to force us to up the level of our game.”
+But before the Crimson can look forward to its trip West, the squad will try to take care of business tonight against Newbury.
+The Nighthawks (2-4), led by outside hitter James Beck, have gotten off to a slow start, dropping three of their last four contests.
+“I’m expecting to come out and play really hard,” Lothman said. “They have the edge in terms of game experience, but I think our intensity and work ethic is really going to come out in the game.”
+—Staff writer Martin Kessler can be reached at martin.kessler@college.harvard.edu.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+It’s been a while since we at The Back Page took a look at the state of ECAC women’s hockey. We apologize, but it’s been a little cold here in Cambridge, and we’ve been hibernating. Conference play is back in full swing, though, and the playoff picture becomes clearer every week—although, of course, the regular-season champion has been all but a foregone conclusion since November. See who’s up, who’s down, and who’s essentially out in this week’s edition of the power rankings.
+1. Cornell (20-1-0, 14-0-0 ECAC, 1st in ECAC)
+At this point in the regular season, the only question left at the top is whether or not anybody can bring down juggernaut Cornell. Though it’s been unseated at the top of the national polls by Wisconsin, the No. 2 Big Red’s in prime position to run the conference table—a feat that has only been accomplished twice in league history, most recently by the 2007-08 Harvard team. And to top it all off, Cornell avenged its only loss of the season last Tuesday, blanking No. 5 Mercyhurst on the road.
+2. Harvard (10-7-2, 9-3-2, 2nd)
+With its second straight two-win weekend, the Crimson vaults into second place in both the conference standings and the power rankings. After dropping a heartbreaker at Rensselaer on Jan. 8, Harvard has rebounded nicely, winning consistently against weaker opponents and spreading out the scoring load. A road trip to Yale and Brown ought to run the Crimson’s win streak to six.
+3. Dartmouth (12-8-0, 8-6-0, t-3rd)
+The Big Green has been surging as of late, winning three games last week by an average margin of 3.67 goals. Sophomore Camille Dumais and rookie Lindsay Holdcroft were named the conference player and rookie of the week, respectively, for their performances against Vermont, Union and Rensselaer: Dumais racked up six points, while Holdcroft was a perfect 3-0 in net with a 0.67 goals-against average.
+4. Princeton (10-10-1, 7-6-1, t-5th)
+Princeton is, simply put, cruising. The Tigers have rattled off seven straight wins—including shutouts of nationally ranked Boston  College and Quinnipiac—and haven’t lost since Dec. 3. Goalie Rachel Weber, who boasted the longest-ever shutout streak by an ECAC goalie before her run was ended by St. Lawrence on Jan. 8, is second in the conference with a 1.60 goals-against average. But will Princeton be able to shake off the rust of a three-week layover when the Saints come to town on Friday?
+5. Quinnipiac (16-8-1, 8-6-0, t-3rd)
+Though the Bobcats are the ECAC’s other representative in the national polls, checking in at No. 10, Quinnipiac slipped up on Friday at Wayne State, dropping a 2-1 contest to an 8-13 team. But spearheaded by freshman Kelly Babstock, who comfortably leads the conference in points, goals, and assists, the Bobcats’ potent offense should have no problem propelling Quinnipiac to a top-four finish in the ECAC. 
+6. Clarkson (9-13-3, 6-6-1, 8th)
+Clarkson has put together a nice little run in the last two weeks, with its only blemish coming in the form of a 3-2 loss to the Crimson on Jan. 15. The Golden Knights are averaging more than three goals per game and have won a pair of overtime contests during that stretch, putting distance between themselves and the ninth-place teams as they seek to secure the eighth and final playoff spot. 
+7. St. Lawrence (12-11-2, 7-6-0, 7th)
+St. Lawrence’s results have mirrored its north-country neighbor’s over the last two weekends—after losing to Harvard on Jan. 14, the Saints have won three straight, and all by two-goal margins. That momentum will be crucial as St. Lawrence heads on a big road trip to Princeton and Quinnipiac.
+8. Rensselaer (9-10-6, 7-6-1, t-5th)
+A winless weekend for the Engineers drops them in the power rankings, as Rensselaer managed only one combined goal against Ivy foes Harvard and Dartmouth. Though goalie Sonja van der Bliek played well last week, making a combined 58 saves, the Engineer offense will have to do better than its nine-shot showing against the Big Green as the squad heads to Colgate and Cornell.
+9. Yale (5-12-2, 4-7-1, t-9th)
+Yale doesn’t get blown out much—with the exception of a 5-0 loss to the Big Red, the Bulldogs haven’t lost by more than two goals since November—but it’s also struggled to pull out wins in close games this month. The Bulldog offense, which has scored just three goals in the new year and mustered only 11 shots against St. Lawrence despite eight power plays, will need to pick up the pace this weekend when Dartmouth and Harvard come to town.
+10. Colgate (7-16-2, 4-9-1, t-9th)
+Colgate’s nursing a three-game losing streak, but at least its two toughest conference tests are out of the way—the Raiders dropped 6-1 and 5-0 decisions to Cornell last week. Hosting Rensselaer and Union this weekend will be a much more manageable task for Colgate as it looks to climb back into playoff contention.
+11. Brown (2-14-3, 1-8-3, 11th)
+Poor Brown’s had a rough month, but that’s to be expected when you have five games against top-five opponents in the span of two weeks. The Bears’ offense got rolling last weekend, putting up a combined five goals in a road trip to St. Lawrence and Clarkson, but another poor defensive effort—Brown is giving up an average of 5.14 goals per game in January—doomed the team to a winless weekend.
+12. Union (1-22-3, 0-12-2, 12th)
+Union managed to put two goals on the board against Cornell at home, but that’s the Dutchwomen’s crowning achievement in a winless January. A trip to visit the Big Red on Friday won’t make things any better for the lowly squad.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+News
+Erica Chenoweth and Zoe Marks Named Pfoho Faculty Deans
+News
+Harvard SEAS Faculty Reflect on Outgoing Dean, Say Successor Should Be Top Scholar
+News
+South Korean President Yoon Talks Nuclear Threats From North Korea at Harvard IOP Forum
+News
+Harvard University Police Advisory Board Appoints Undergrad Rep After Yearlong Vacancy
+News
+After Meeting with Harvard Admin on ‘Swatting’ Attack, Black Student Leaders Say Demands Remain Unanswered
+As the men’s volleyball team opens its 2011 season with a home match against Newbury tonight at the MAC, the Full Court Press chats with junior co-captain Matt Jones about the wildness of men’s volleyball matches. With Enya and excited fans backing him up, the team’s leading server explains why Princeton should watch out. The California “sex panther” is ready to go.
+Name: Matt Jones
+Year: 2012
+Stats: The Adams resident started his career at Harvard with 3.07 kills per set his freshman year. Improving his sophomore season, Jones had a team-high 23 service aces last year, as well as 314 kills and 44 blocks, finishing 18th in the nation with 4.13 kills per set.
+Bring on the questions! 
+ 
+1.Typical pre-game meal.
+I don't eat. I like to watch my figure.
+2. List four songs you listen to before games to get pumped up.
+Anything by Enya.
+3. Favorite team to play against and why?
+Princeton. We haven't beaten them yet in my two years here, but I am hoping to be a part of the first Harvard team to beat them in many years.
+4. Most ridiculous thing that has taken place in your team's locker room.
+No comment.
+5. Most embarrassing moment you've had on the court.
+My freshman year, we were playing at George Mason in the playoffs, and my hair was pretty long at the time. Every time you go back to serve in volleyball, it is called "going a full rotation." When I went back to serve the second time, the George Mason student section behind me said, "Hey Matt, have you really gone a whole rotation without getting your haircut?" I, and everyone on the bench who heard, started laughing. I had to give them credit for that one.
+6. Animal that best represents your style of play and why.
+Sex panther. Sixty percent of the time, it works all the time.
+7. Most ridiculous thing you have heard a fan yell at a game you were playing in.
+We played a team at home one time who had a pretty short setter.  One of our fans kept asking him questions about why he was playing so badly but referred to him as Frodo the entire time.
+8. If you could play for another sports team at Harvard, which would it be and why?
+Basketball team. It's been my favorite sport since I was four.
+9. Position you would play in Quidditch.
+Seeker. Let's be honest, every other position is irrelevant.
+10. If you could go on a date with any professional athlete, who would it be and where would you take him/her?
+Probably a man date with LaDainian Tomlinson.  Growing up a Chargers fan, he is like a god.  Also, he just seems like a really good guy who would be fun to hang out with.
+Want to keep up with breaking news? Subscribe to our email newsletter.
+Sections
+Before classes even started, campus was teeming with students who returned a week early for Optional Winter Activities Week (OWAW). Activites ranged from the academic to the leisurely: the Harvard Shooting Club hosted an "indoor paintball brawl;" a group of students explored and studied Harvard's 3,500-acre forest in Petersham, Mass.; the Food Literacy Project taught cooking lessons; and the Martial Arts Research Institute of Salem, Mass. taught stick fighting. These featured activities represent only a small fraction of the dozens of activites hosted during Harvard's first OWAW.
+Photos by Meredith H. Keffer and Jennifer Q. Zhu/The Harvard Crimson and courtesy of Clarisse Hart, Caroline B. Lowe, Michael R. Traver, and Victor Shnayder
+Sections
+President Barack Obama will deliver his third State of the Union address tonight at 9 p.m., and many Harvard students are planning to take a break from shopping week to watch.
+Wondering where you can watch? Don't worry, we've got you covered.
+If you're in a partisan mood, the Harvard College Democrats will be watching in the Lowell House Junior Common Room. Arrive at 8:30 p.m. to get first dibs on the free refreshments. The Harvard Republican Club will be watching in Room L150 at the Institute of Politics.
+Feeling politically neutral? Join the Institute of Politics for a live viewing of the address on the big screen in the John F. Kennedy Forum.
+At the following House showings, residents of any House are welcome:
+Cabot House
+Junior Common Room. Refreshments will be available starting at 8:30 p.m.
+Pforzheimer House
+Junior Common Room.
+Quincy House
+Junior Common Room. Pizza will be served.
+If the cold weather is keeping you indoors, you can still watch the speech in the comfort of your own room. Click here to see the address streamed live, along with additional charts and graphs provided by the White House.
+Photo by Bora Fezga/The Harvard Crimson
+Sections
+In commemoration of the one-year anniversary of the devastating earthquake in Haiti, a group of Harvard students recently released a song and music video to raise funds for those affected by the disaster and spur continued awareness.
+The song, titled "Going Up," can be downloaded for $1. All proceeds benefit the Harvard for Haiti Relief Fund.
+Scott J. Yim '13 wrote the song soon after the earthquake occurred and performed it with Jennifer L. Martin '13 last February at the Hillel for Haiti benefit concert.
+After the show, Yim applied for funding from the Undergraduate Council to record the song but was denied. He applied again in November and received a grant to record at The Bridge Sound and Stage in Cambridge during OWAW.
+Yim recruited Paul Glootz '13 to play the piano for the recording and held try-outs (all auditioners were accepted) to recruit additional vocalists.
+"I was familiar with the 'We Are the World' single and how they did a revival for it. I thought it would be amazing that there would be a song of Harvard singers. It's great to have musicians collaborate together for a really good cause," said Lester C. Kim '11, who was a vocalist.
+Rebecca Booth-Fox, Jordan A. Bryant '11, and Emily B. Hecht '11 also sang in the video.
+Yim is now promoting the song by sending it to newspapers, websites, and even The Ellen DeGeneres Show.
+Yim said he hopes the song will help bring Haiti's needs back into the spotlight. "Terrible events happen a lot and people support it immediately, but it kind of dies down. People forget and say we did our part, so now we can kind of stop," Yim said.
+"The reason why it was so exciting and it came out as well as it did is because there was meaning behind it," Hecht said. "There was a real goal in mind and a real passion behind the project."
+Photo courtesy of Harvard for Haiti
