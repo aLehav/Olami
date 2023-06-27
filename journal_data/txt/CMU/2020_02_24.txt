@@ -1,0 +1,568 @@
+This is Penalty Shouts, The Tartan’s sports column inspired by the The New Yorker’s column Daily Shouts. This satire-fueled column will focus on anything and everything funny in the sports world that is deserving of our comedic attention. 
+Recently, the University of Pittsburgh unveiled new developments for their sports complex. There will be a new 3,500 seat arena, a new 300m indoor track, new space for band practice, and a new “cutting-edge athletic performance center,” according to a university press release.
+The new development is dubbed “Victory Heights.” Aside from sounding like a campaign to build a massive neoclassical building on a hill in 1930s Germany, Victory Heights is clearly a cash grab from the biggest donors: sports fans. A more accurate name, one that is closer to the intentions of Pitt Athletics, for the project might be “Ca$$$h Money Heights” or “Let’s Get This Bread Hill” or even “We’re Building a Multi-Million Dollar Sports Complex on top of our Existing Multi-Million Dollar Sports Complex that is right next to one of the Poorest Areas in the City of Pittsburgh just to Keep the Poors Out…Heights (specifically not The Hill).”
+In a later statement on Victory Heights that I certainly did not fabricate, the spokesperson for Pitt Athletics wrote, “Help, I am trapped inside a computer. They will spend an absurd amount of money and time on this project that will help a small population of the school.” Later, the definitely-not-robot wrote, “Hello. Victory Heights will make Pitt Athletics a contender in many NCAA athletic events. This is the way of the future!” The earlier statement was deleted.
+When the spokesperson was reached for comment, they asked for the questions over email. No one likes to be interviewed these days, especially since the interview puts them in a compromised position, and really, who likes to be vulnerable when you have so much to hide? This spokesperson was hiding the fact that they were actually a robot (which is, in fact, a creation of my imagination that represents the entirely possible and not-at-all unlikely situation where spokespeople for certain corporations or universities use robots to respond to emails).
+In the emailed response, the spokes-robot said, “We stand by the free speech rights of our students. The university supports the Athletics department’s initiative to build a new sports complex that will transform the face of university sports. We’re sorry for any damage we cause, but really, we’re not that sorry. Forgive us, but also, everyone keeps paying tuition. Are we actually doing anything wrong if people keep supporting us financially? Here’s our venmo: @PittAthletics.” I didn’t know what to say, so I Venmoed them like $1,000.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+India vs Australia (ICC Women’s T20)
+Indian women registered a historic win against defending champions Australia in the 1st group stage match in ICC T20 Women’s World Cup by 17 runs. Deepti Sharma scored an unbeaten 49 runs to give India a decent total to defend. Alyssa Healy stabilized the Australian batting line up with 50 runs before Poonam Yadav, the Indian spinner, chipped four key wickets for the team and led them through the finish line.
+India vs New Zealand (ODI, T20, and Test Series Highlights)
+A clinical performance from team India gave them a thunderous series win against New Zealand. The resilient hosts lost in another super-over clash, reminiscent of their infamous 2019 World Cup final against team England. The men in blue shone with the likes of the consistent Shreyas Iyer, spinner Yuzvendra Chahal, and talented KL Rahul making good contributions towards their victories.
+Ross Taylor, the former Kiwis captain, played his 100th test match against India this week. He is the first player to play 100 games in all three formats (T20, ODI, and Test). He scored two match-winning tons in the ODI format against India in the previous series and led the Kiwis to secure a 3-0 sweep against fan favorites, team India.
+Young New Zealand debutant Kylie Jamieson, a six-foot-eight-inch inch bowler, hit the high notes to stun India with remarkable performances in the ODI format and the Test games. He knocked down the Indian batting powerhouse with classy bouncers on a green-top pitch.
+Australia vs South Africa
+Ashton Agar’s hat-trick steered Australia to a romping victory against hosts South Africa in a low-scoring T20 game. Previously known for his partnership with the late Phillip Hughes and his 98 runs at Trent Bridge that saved the Australian batting collapse, Agar struck again with an outstanding hat-trick, the second Australian bowler in T20 internationals after Brett Lee.
+England vs South Africa T20
+urban and East London, England won the series in the final at Centurion, beating the hosts for the first time since Mar. 2019. The ball flew out of the Centurion ballpark due to its short boundaries and power-hitting from fiery batsmen. Captain cool, Eoin Morgan, led the pack with an unbeaten 57 runs, with Jonny Bairstow and Jos Buttler chipping in with notable contributions. In the second T20, Ben Stokes and Moeen Ali punched the ball over the ropes to give England an explosive finish to cement their daunting total of 204 runs in style.
+Tom Curran’s Yorkers were in the right place at the right time, and leveled the series with South Africa, giving England the lifeline for the 3rd T20.
+Amazing captaincy and tenacity from Quinton De Kock: his strong opening partnerships with Temba Bavuma, along with Dwaine Pretorius’ power-hitting, gave South Africa something to rejoice about after their close losses to the touring team. Hot favorites Dale Steyn and Lungi Ngidi made great forays into the English batting line-up with good ball variations.
+Bangladesh vs India (U19 World Cup)
+Underdogs Bangladesh scripted a fairytale win against favorites India in an exciting thriller. India missed out on a record fifth title in their seventh appearance. Bangladesh captain, Akbar Ali and Man of the Tournament, India’s Yashasvi Jaiswal, are some of the new talents that we have gotten to see over the course of the World Cup. Shoriful Islam’s aggressive 2/31, and Tanzim Hasan Sakib’s 2/28 staggered India’s batting progress.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Virtually every class at Carnegie Mellon uses at least one online course management service. Many use Canvas to keep track of assignments and grades. Some use Gradescope to speed up manual grading of homework or exams. Some use Autolab to autograde programming homeworks. Some use Piazza as a virtual Q&A service. But, a handful of courses at Carnegie Mellon use a different tool: Diderot.
+A few years ago, Diderot was invented by School of Computer Science professors Umut Acar and Anil Ada to link the functionalities that other tools provide into a single convenient platform. Currently, it is used in 15-210: Parallel and Sequential Data Structures and Algorithms, which Acar teaches; 15-251: Great Ideas in Theoretical Computer Science, which Ada teaches; 15-271: A Theorists’ Toolkit; 15-780: Graduate Artificial Intelligence; and 15-122: Principles of Imperative Computation.
+Diderot’s back end runs on Django, a Python-based framework, while its front end is run on JavaScript. The content it stores is run via Amazon Web Services.
+Diderot offers a myriad of services, some of which are provided by Canvas, Piazza, Autolab and Gradescope, and some of which are not. There is a Post Office (akin to Piazza) where instructors can make posts, and students can ask questions, then have them answered promptly. There is an autograding feature, similar to Autolab, for programming homeworks, a scheduling feature where instructors can put up calendars, and a flashcard application where students can create their own study flashcards. Diderot also features a Books section that allows instructors to effectively upload their course notes.
+“[The Books feature] allows the instructor to take their LaTex notes, or a PDF and upload it into Diderot in HTML format, and then, it parses the material into small pieces so that each piece is actionable,” Ada said in an interview with The Tartan. “So students can take notes on them, they can bookmark them, they can ask questions on the specific pieces, and when the instructor sees those questions in the Post Office, the content is embedded into the post which makes it much nicer for the instructor because they have the context.”
+Additionally, there are several services that are either being used restrictively or are in the works. Some classes use Diderot’s gradebook system, which allows students to track their progress in the course similar to the Grades section of Canvas. These pieces are part of Acar and Ada’s plan to expand the use of Diderot. 
+One of the next targets for Diderot is 15-112: Fundamentals of Programming and Computer Science. Currently, 15-112 uses its own website, along with Piazza, Autolab, and Gradescope. This effort is hindered by the fact that 15-112 uses a software called Brython to create interactive code in the course notes. “One of the goals we have in the future is to add code in the book chapters that you could run in the browser. This would be ideal for courses like 15-112, where you have a lot of small pieces of code that you can run using Brython,” Ada said. 
+Professor Acar has added, after original publication, that he has already created lecture notes for 15-112.
+With these potential features, combined with what Diderot can already do, the sky's the limit for how far Diderot might spread. “We have support, especially financial support, from the Dean’s office, and that is one of the reasons we are able to expand within CMU right now. That support allows us to grow here," Ada said, "The immediate goal is to get [Diderot] more widely used in the CS department, and then in other departments like math or engineering, and then slowly start expanding from there.” 
+A previous version of the article incorrectly suggested that Diderot does not have a JavaScript compiler for C0, a programming language used by 15-122. Diderot is able to compile C0.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+In collaboration with Boston University, the department of computational biology at Carnegie Mellon University has developed a new technique to fight lung disease by generating lung cells with the help of machine learning.
+Chronic obstructive pulmonary disease (COPD) is a condition that develops in response to the inhalation of irritants or chronic bacterial infection. In patients with COPD, the tissue within the lungs begins to deteriorate, worsening airflow. In addition, gas exchange is negatively affected by the degeneration of the alveoli — the lungs’ air sacs where the main absorption and release of gases occurs. The alveoli decrease in number, which harms the affected individual’s ability to breathe. Common risk factors for COPD include smoking, second-hand smoking, inhalation of toxins, and exposure to fire-borne fumes.
+COPD and many other lung diseases, such as idiopathic pulmonary fibrosis (IPF) and neonatal respiratory distress, involve the scarring or deterioration of lung tissue, most of which are composed of lung cells made from induced pluripotent stem (iPS) cells. According to the National Institute of Health, iPS cells are “adult cells that have been genetically reprogrammed to an embryonic stem cell-like state by being forced to express genes and factors important for maintaining the defining properties.” In this study, the iPS cells were treated with growth factors for over a month in order for the cells to gain the properties of adult lung cells.
+Since their discovery in 2006, scientists at Boston University have turned these stem cells into lung cells using various recipes. The main aim was to facilitate the growth of a gene called Nkx2-1, a gene characteristic of lung cells. Using a supplementary “reporter gene” that glowed green with the expression of Nkx2-1, the scientists at Boston University were able to detect the burgeoning lung cells amidst the other stem cells. 
+Boston University’s Dr. David Kotton, Professor of Medicine at Boston University School of Medicine and Director of the Center for Regenerative Medicine (CReM), believes that “the key hurdle to understanding what goes wrong with an individual patient’s lung cells has been our inability to access those cells or to grow them in the laboratory”. Through this lens, the use of iPS cells was able to eliminate that hurdle. Unlike lung cells, iPS cells can be extracted from donated blood or skin cells. 
+However, the real innovation lies in the utilization of machine learning, which allows computers to autonomously learn to identify and select the best environment for generating the longest-lasting cells. After turning iPS cells into lung cells, a form of single-cell RNA sequencing is used to profile each lung cell. For each cell that fits the benchmark for the ability to maintain alveoli, the offspring is tracked and identified in order to test proliferation ability. Through these tests, scientists can create lung cells that can be used to repair tissue while retaining their defining properties for over a year. 
+Study coauthor Ju Ding, a Carnegie Mellon postdoctoral fellow, mentioned in an interview with Boston University that he hopes that this newly developed technique will be used to generate an unlimited supply of cells from other organs and tissues with patient-derived stem cells, treating a wider variety of diseases. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+People suffering from visual impairments rely on screen reader software to use social media. However, current screen reader software is insufficient for those with visual impairments to read some online content, such as memes. Many memes don’t include alternate (alt) text, text which informs readers of what the image is depicting.
+Carnegie Mellon University researchers created a tool to recognize memes automatically and apply premade templates of alt text that describes them. Now able to be read using screen reader software, memes can be enjoyed by even more people.
+“If you’re blind, you miss that part of the conversation,” stated Cole Gleason, a Ph.D. student in Carnegie Mellon's Human-Computer Interaction Institute (HCII), in a press release. 
+Jeff Bigham, an associate professor in HCII, added, “Memes may not seem like the most important problem, but a vital part of accessibility is not choosing for people what deserves their attention. Many people use memes, and so they should be made accessible.”
+Social media platforms, where memes are usually spread, make inserting alt text difficult. While some platforms like Twitter have the ability to add alt text to uploaded images, the feature is well hidden and seldom used. The researchers examined nine million tweets and found that images were included in one million of them — in their estimation, only 0.1 percent of these images featured alt text. 
+According to Gleason, basic computer vision techniques allow his team’s software to describe the images featured in each meme. The software can distinguish between categories of images such as celebrities or cartoon characters. Often, a particular meme’s overlaid text differs with each iteration, so optical character recognition techniques allow for the identification of the overlaid text. Only one template describing a meme’s image is required for each type of meme, and then, any requisite text is added to the meme. Despite the accuracy of transcriptions produced by the software, it is significantly more difficult to describe the intended meaning of a meme. 
+"It depended on the meme if the humor translated,” explained Gleason. “Some of the visuals are more nuanced, and sometimes it's explicit and you can just describe it." 
+One example of such a simple meme is the “success kid” meme. The alt text for one iteration of this meme is just “Toddler clenching fist in front of smug face. Overlaid text on top: Was a bad boy all year. Overlaid text on bottom: Still got awesome presents from Santa.”
+The team of researchers also developed a platform that translates memes into audio as opposed to text. The platform allows meme creators to associate sounds with meme formats using a simple drag-and-drop interface. This allows the complex feelings behind memes to be conveyed with sound effects and music. 
+“One of the reasons we tried the audio memes was because we thought alt text would kill the joke, but people still preferred the text because they're so used to it,” Gleason said.
+Moving forward, the main challenge for the researchers is deploying the meme transcription software. It could be integrated into meme generator websites, but that wouldn’t translate into alt text on social media. Gleason remarked that his team would have to persuade Twitter into adding a new feature, speculating that adding it might burden users, especially on smartphones.
+Other Carnegie Mellon researchers are working on a browser extension to add alt text to images on Twitter, which could involve translating memes as well. Another project aims to insert alt text into image metadata, making the two inseparable as memes jump between social media sites. In a few years, the magic of memes will be accessible to more than just those with keen eyes, but to anyone who can hear.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Into the Woods was only the second play I’ve seen in person and the first play I’ve seen here at Carnegie Mellon. As you’d expect from a production from the School of Drama, the acting, singing, and productions values were all far superior to the one high-school-level play that my whole high school was forced to watch. My high school’s rendition of Ragtime was certainly engaging in its own right, but it pales in comparison to this grand rendition of Into the Woods. After watching such a magnificent performance, I just regret that I haven’t watched more of the School of Drama’s plays in the year and a half I’ve been here. With that said, I am eagerly looking forward to watching more of its excellent plays in the future. 
+Into the Woods was only the second play I’ve seen in person and the first play I’ve seen here at Carnegie Mellon. As you’d expect from a production from the School of Drama, the acting, singing, and productions values were all far superior to the one high-school-level play that my whole high school was forced to watch. My high school’s rendition of Ragtime was certainly engaging in its own right, but it pales in comparison to this grand rendition of Into the Woods. After watching such a magnificent performance, I just regret that I haven’t watched more of the School of Drama’s plays in the year and a half I’ve been here. With that said, I am eagerly looking forward to watching more of its excellent plays in the future.
+Into the Woods features an ensemble cast in which the majority of them play characters from four prominent fairy tales: “Little Red Riding Hood,” “Cinderella,” “Jack and the Beanstalk,” and “Rapunzel.” For example, Georgia Mendes portrays Cinderella and Khailah Johnson plays Little Red Riding Hood. There are a few original characters such as a baker, played by Ben Cherington, and the narrator and the baker’s dead father, both played by Daniel Neale. Concerning the plot adapted by dramaturg Sydney Isabelle Mayor, some of the themes include family, coming-of-age, and transient, toxic, and shallow love. In addition, it skillfully alternated between a serious and hilarious tone at a moment’s notice, and it was an intriguing subversion of the four aforementioned fairy tales. Into the Woods seamlessly interweaves these stories with one another and its own overarching story. The story revolves around the baker and his wife, played by Allison Ferebee, who are desperate to have a child despite their inability to have one. Cate Hayman’s Witch, adapted from the witch from “Rapunzel,” reveals that the baker’s father had wronged her which leads her to place a curse on his family making future childbirths in the family impossible. The Witch asks the baker and his wife to seek out four objects from the four central fairy tales. These tales all play out in a vaguely similar way to the versions most of us are familiar with, but there are many surprising twists and darker and more cynical modifications. All the characters embark into the woods on their own quests, thereby setting the stage for a host of interesting and well-acted interactions.
+By the end of the first act, most of the characters, sans the Witch, are content with their lives. However in the second act, a giant whose husband was murdered by Jack in his bid for gold from the giants’ home in the clouds seeks vengeance against Jack, and ends up killing, sometimes indirectly, most of the characters. I am a sucker for meta moments in any type of media, so one of my favorite death scenes in the play was when the Witch took offense with the narrator’s supposedly biased portrayal of her and sacrificed him to the giant. The other characters object on the grounds that only the narrator knows the story; therefore, after his death, the characters are forced to make choices on their own without the narrator’s aid. In the end, the baker, Cinderella, Red Riding Hood, and Jack slay the giant and decide to live together happily ever after along with the baker’s child.
+As many have pointed out in the past, the original iterations of most of Grimms’ fairy tales were actually quite dark and creepy. Into the Woods makes no attempt to hide these dark undertones, and in fact, it makes them darker and more cynical. For example, the Wolf from Little Red Riding Hood is made far more predatory than he is in most modern adaptations of the story. Early in the story however, the Wolf is killed by the baker and Granny, and the Wolf is then skinned and turned into a fur coat which replaces Little Red Riding Hood’s trademark red cloak. Trever Clarida pulls double duty by playing both the Wolf and Cinderella’s Prince, a strong condemnation of the Prince’s predatory and vile tactics employed both in the original fairy tale and more explicitly in Into the Woods. Both Rapunzel’s prince and Cinderella’s prince are unfaithful, insincere, and selfish, a subversion of their wholly positive natures in the original fairy tales.
+As for the songs written by Stephen Sondheim, they were all clever, catchy, and heavily contributed to the musical’s plot. I had never before seen a musical composed almost entirely of songs. It would not be an exaggeration to say that there were only a few minutes of scenes that were not musical numbers. I found it very impressive how Sondheim stuffed so much meaning, both explicit and implicit, and emotion into each song. Some personal favorites of mine included “Agony” and “Agony (Reprise)”, two humorous and intentionally overly dramatic duets featuring the princes of Rapunzel and Cinderella and “Last Midnight”, a somber solo performance from the Witch which humanizes her and explains her actions without justifying her vengeful and cynical attitude.
+Although I have watched film musicals in the past before such as Les Misérables and Frozen, I had not realized before that the discrepancy between a film musical and an actual musical would be so large. I was mesmerized by the atmosphere and the feeling that this was a wholly unique performance. Although I had some experience with enthusiastic audiences from the opening nights of Star Wars: The Force Awakens and Avengers: Endgame, I felt more immersed in the experience due to the increased physicality plays possess as opposed to films. It was certainly a wonderful experience and something that I will never forget.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+After the release of the first movie, fans called for another cheesy teen romance, and the creative producers of this movie definitely delivered. But instead of leaving you with a warm feeling of hope and love, this movie somehow manages to inspire frustration and incite annoyance.
+To All the Boys: P.S. I Still Love You, which can be streamed on Netflix, is the second movie in a series based on the book trilogy written by Jenny Han. It was directed by Michael Fimognari, and the third movie is already in production. But the real question is: “how?” How are they going to make a new movie when there was barely enough content to fill the second one?
+Advertised as a romance, To All the Boys: P.S. I Still Love You had me not only questioning the story line, but also the concept of love itself. This movie follows Lara Jean Covey (Lana Condor), as she navigates through her first relationship with Peter Kavinsky (Noah Centineo). To add more strain to their relationship, Covey’s sixth grade crush John Ambrose McClaren (Jordan Fisher), returns into her life.
+With a childish plot and and no character development, this movie merely brushes over the criteria of what constitutes a movie. This movie picks up right where the first one left off, and we begin to see the cracks in their relationship. Covey and Kavinsky’s relationship begins wavering under the stress of teenage angst and unrealistic expectations.
+Lara Jean is portrayed as needy and naive. The directors went out of their way to demonstrate that this was her first relationship, but as a result, she is seen as an insecure girl with seemingly no understanding of how the world works. Even though she might not have first-hand experience, stories and general societal norms should have added structure to her decisions and guided her actions. However, Condor delivers a convincing performance and does a great job in projecting Covey’s anxieties.
+The largest issue with this movie is the lack of communication transpiring between the characters. Drastic decisions seemed to be made without sufficient discussions or thoughts. Most of the events seemed sudden because of the absence of meaningful dialogue. Communication is a pillar in any relationship, and the weakness of the script often leaves the audience questioning what just happened. This is unfortunate because Lara Jean’s inner monologue is sometimes overlaid, but the movie does not capitalize on that. They could have used this opportunity to provide deeper insight to her decisions and emotions. Instead, we get brief narration and reflections on her life.
+There is no one cohesive storyline that manages to encapsulate Lara Jean’s struggles to choose a man. We get many small, mildly related scenes that either highlight a strength or a flaw of each of her love interests.
+The plot operates on a surface level, which does not allow the audience to make significant attachments to the characters. Furthermore, the secondary characters do not really affect the main storyline; instead, their own individual stories get partially told. For example, we partially watch Dr. Covey, or Lara Jean’s dad, fall in love, but at the expense of watching him interact with his daughters. Similarly, aside from her slightly devious actions, Kitty, her sister, adds almost no significance to the movie. Her presence is just annoying and every time she speaks, she reiterates one point: the fact that she set her older sister up in the first movie.
+It almost seems as if there are too many simultaneous story arcs being built, with none of them being particularly successful. Since we see no significant character development and navigation through each struggle, it becomes harder to resonate with the characters. In terms of the main storyline, it is hard to fully support Covey’s relationship with either boy because they all seem juvenile and not ready for a relationship.
+We watch her and Kavinsky fight and make up, then passive aggressively forgive each other. And we watch her and McClaren mildly flirt throughout the movie. Then within the last 30 minutes of the movie, all of her small issues blow up. But this does not last for long because almost immediately after, the scene changes and the mood completely changes too.
+After very little character growth and conflict resolution, Lara Jean still ends up making a decision based seemingly on a gut feeling, and the ending of the movie is very reminiscent of that which preceded it. Her options were either McClaren or Kavinsky, and although they were both supposed to be great options, they were both immature and selfish.
+Kavinsky managed to convince the world that he would be a great boyfriend in the first movie, but he soon fell short. He is both arrogant and insecure, jealous and hypocritical. He does have some cute moments, but they are quickly overshadowed by his negative actions. Centineo delivers a mediocre performance, and he loses the spark that made him so lovable in the first movie.
+McClaren is supposed to be the cute, nerdy love interest. But his entire character consists of flirting with Covey or bashing on Kavinsky, which is highly unrealistic, because if he did not know that she was dating Kavinsky, why would he spend so much time bashing an old friend from middle school?
+But who did she end up with at the end of this movie? For that information, you will have to watch this tolerable, teenage romance movie for yourself. And to find out how Covey’s story ultimately ends, you will have to say tuned for their third, and final, installment.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Last week in this series I started with Korean cinema, since Parasite had just won best picture, and I praised Korean films for being over-the-top in a way that’s believable and really entertaining. Then I realized that statement also describes a lot of Japanese films, so it made sense to explore Japanese films for the next installment of this series. The Japanese film industry has been thriving for a good amount of time, and it’s a shame that the technical achievements aren’t more well known to people.
+For anyone who’s really into movies, the name that often pops up in discussions of Japanese cinema is Akira Kurosawa. He is my personal favorite director, and I’ve seen almost all of his films. There are whole books and video essays about why he’s so great. Star Wars, a few late Westerns, and many other American films and directors, including Martin Scorsese, are influenced by him.
+Every single one of his films is visually arresting and distinct. The camera movement, lighting, and, in his later films, color, all come together to make every shot look like the watercolor paintings he often used as a visual reference. The editing is also seamless. There’s a saying that the best editing is the type where you don’t see it. Kurosawa’s movies are the best examples of that. Every Frame a Painting on Youtube has a really good video about the visuals and movement in Kurosawa’s movies and he articulates it way better than I can.
+There is a distinct theatricality and sense of grandeur to his films, which makes sense because he has adapted a lot of Shakespeare’s stories. Throne of Blood is based on Macbeth,* The Bad Sleep Well* is based on Hamlet, and Ran is based on King Lear. He also directs actors to be larger than life, and combining that with the visuals creates an experience that is so rewarding and satisfying.
+If you want to delve into his filmography, I would start with his samurai classics. My favorite of the bunch are Rashomon, Seven Samurai, The Hidden Fortress (aka Star Wars), and Sanjuro. Ikiru, High and Low, The Bad Sleep Well, and Stray Dog don’t feature samurai, but they are still awesome. My favorite of his films is Ran for which he got a best director nomination in 1986. This is a great one to build up to because it is a culmination of everything he does best and then some.
+Another influential director, and one of Kurosawa’s peers, is Yasujiro Ozu. He is the man who famously defied all the “conventions” of the time, like not using over the shoulder shots and breaking the 180 degree rule. But his films are sort of the opposite of Kurosawa’s. They showcase a different type of great directing that can still be cinematic.
+Whereas Kurosawa is theatrical in his presentation, Ozu is more intimate and minimalist. For example, his best film, Tokyo Story, is mainly dialogue driven and slow-paced. The intricacies of the family drama are the highlight of the film, and plot beats are not the focus. Everything he does is a clear effort to make the viewer focus on the characters as much as possible. I haven’t seen a good chunk of his filmography, but An Autumn Afternoon and Floating Weeds are also both great films.
+One common, silly stereotype about Japanese cinema is that it’s all weird, probably driven by people finding YouTube videos of absurd reality TV, commercials, and out-of-context scenes from certain movies. But Japanese horror films embrace the discomfiting, existential weirdness, and that’s what makes it so effective for me. That’s going to be off-putting for a lot of people, but if you find that entertaining, then here’s a list of Japanese horror to watch.
+My favorite J-horror film is Audition, directed by Takashi Miike. The story follows a widower who creates a fake audition to find a new partner for life and how progressively worse it gets. It’s stomach churning and stressful in all the right ways, and it’s bizarre in a way that makes it more frightening. Miike also directed Ichi the Killer, which is about a sadomasochistic yakuza enforcer. It’s one of the most perverse, violent, and horrifying things I’ve ever seen that makes me laugh uncomfortably.
+Sion Sono is another director with great J-horror under his belt. I personally didn’t like Suicide Club as much, which is a story about police investigating a string of suicides, but I know some people will get a kick out of it. However, Riaru onigokku, or Tag, is really riveting and a great, intense blend of sci-fi and action.
+The Ring was a remake of the 1997 Japanese original, Ring. The Ring is fine, but it’s still the more standard, American, in-your-face horror. Ring, on the other hand, is a psychologically challenging and made it hard for me to sleep after watching it. Even though it’s more subtle, it still manages to be stranger and more twisted than the American version by a long shot.
+The film also has an interesting exploration of a common theme in many Japanese films: the forced modernization of Japan post-World War II and its clash with Japanese tradition. It’s a common existential theme that has been explored through films as far back as Yasujiro Ozu. In Ring, it’s used to a chilling effect and shows how that clash has impacted the collective mindset of Japan.
+If you have always hated The Hunger Games like me and wished the movie was only about the game, then Battle Royale is the movie for you. Japanese action is insane, and the stuff I’ve seen is all really brutal and jaw-dropping. 13 Assassins, also from Takashi Miike, is an awesome historical action film and has a great 45 minute ending battle.
+Versus is a really cool zombie action film shot on a low budget. Killers, which is an Indonesian and Japanese joint effort, is a really intense action thriller. For some older ones, Lady Snowblood and Harakiri are excellent action dramas that give Kurosawa a run for his money. You can also never go wrong with any of the Godzilla movies released over the years.
+Of course, anime should be given attention. Studio Ghibli is the most famous anime studio, with Hayao Miyazaki being the most recognized director. If you haven’t seen Princess Mononoke, Spirited Away, Howl’s Moving Castle, Kiki’s Delivery Service, or My Neighbor Totoro, those movies are a good place to start. 
+Ghibli also had Isao Takahata, who co-founded Ghibli with Miyazaki and passed away two years ago. He directed Grave of the Fireflies, which made me ugly cry for 20 minutes. The movie is so devastating that they had to release My Neighbor Totoro alongside it so that audiences could watch something uplifting after crying. He also made The Tale of Princess Kaguya, which has a really unique animation style for Ghibli and is unlike anything I’ve seen.
+While Ghibli is a studio with the most consistent filmography, there are loads of other great anime films. Akira, which I talked about at length before, is a great cyberpunk thriller, as is Ghost in the Shell. Satoshi Kon directed Perfect Blue and Paprika, which are both amazing, fantastical, psychological dramas. A Silent Voice is one of the best anime movies to come out in the past few years, and I thought it was a Ghibli film at first.
+Finally, I am going to mention my favorite contemporary Japanese director: Hirokazu Kore-eda. He makes some really great, humanistic dramas that explore themes about family. Like Father, Like Son takes a switched at birth premise and actually makes it interesting. Our Little Sister is a really moving story about a broken family. But my favorite film is Shoplifters, which is about a non-biological family in poverty resorting to shoplifting to get by. The film combines his exploration of family themes with themes about class consciousness.
+Japan has a really well established and influential film industry that is continuing to thrive. The growing popularity of anime is also helping a lot of Japanese films gain recognition, and hopefully, directors like Hirokazu Kore-eda get some more recognition in the U.S. For the next installment in this series, I will talk about Indian movies, and no, that doesn’t mean only Bollywood movies. 
+Other notable movies:
+All About Lily Chou-Chou (Shunji Iwai)
+Woman in the Dunes (Hiroshi Teshigahara)
+Hausu (Nobuhiko Obayashi)
+Sonatine (Takeshi Kitano)
+Noroi (Koji Shiraishi)
+The Bird People in China (Takashi Miike)
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+This past Valentine’s Day, reggae punk rock band Ballyhoo! released their EP, Fighter. Since the band started in 1995, they have experimented across genres and with various sounds. Fighter leans mostly into punk rock with strong reggae influences.
+Before diving into the tracks, the album cover deserves special recognition. The band’s name is stylized like Sega’s logo; the title and artwork are obvious nods to the Street Fighter franchise. It definitely differs from their previous beach-related album artwork, and I probably wouldn’t guess the genre correctly if I were presented with just the EP cover and no knowledge of the band. Still, I found myself intrigued by the stylistic change and am curious to see if this will be a trend as the band’s career continues.
+“Fighter” (7.5/10): The EP kicks off with the title track. This was the only song from the EP that had not been formerly released. It’s an encouraging feel-good anthem that sends the message that “you are a fighter” who can take control over your own life. Is it cheesy and cliche? Yes. Is it my favorite release from them? No. But is it a fun track that I’ll keep in mind when I need a pick-me-up? Definitely.
+"Dark Sunglasses” (8/10): This was one of two songs released in their single, Sounds of Summer ‘19, this past August. I actually first thought it was a catchy summer single that wasn’t anything too remarkable, but the track’s grown on me since then. Scratching below the peppy melody, I found it wasn’t quite the happy- go-lucky summer track I had originally written it off to be. Maybe we haven’t had to hide injuries from a drunken bar fight behind dark sunglasses, but surely, we can all relate to losing control over our lives, left to deal with the consequences.
+“California King” (8/10): This was the other song from Sounds of Summer ‘19. Compared to “Dark Sunglasses” and the rest of the EP, it leans more pop lyrically and melodically. It’s a nice contribution to the EP that contributes enough contrast.
+“Renegade” ft. Ted Bowne (9/10): This song closes off the EP. The lead of Passafire, Ted Bowne, features in the song’s bridge. Passafire also toys with various music genres, but its take on reggae-rock tends to lean more towards reggae than does Ballyhoo!’s. The two bands had collaborated with Bumpin Uglies in the track “Hard Liquor” in 2018, so I was immediately intrigued since the second Ballyhoo! dropped this song as a single last May. This is easily my favorite song from this EP and finishes it strong.
+Overall, I’m content with the EP. Was it my favorite release? No. Then again, their last major album, Detonate, is going to be tough to beat. It’s been two years since then, and I’m excited to see what the band has next in store.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+ongoing
+In Case You Missed It week (Row House Cinema)
+ongoing until 2.27.20
+Into The Woods (Purnell Center)
+ongoing until 2.29.20
+Orchid and Tropical Bonsai Show: Out of This World (Phipps Conservatory)
+ongoing until 3.8.20
+week of 2.24.20 - 3.1.20
+MLK Keynote Lecture: Brittney Cooper (McConomy Auditorium)
+2.25.20 4:30 p.m.
+Pittsburgh Arts & Lectures: Colum McCann (Carnegie Library Lecture Hall)
+2.26.20 7 - 8:30 p.m.
+Memory Habit (Carnegie Mellon University School of Drama) 
+2.26.20 - 2.29.20
+No Instruments Aloud (Mellon Institute Auditorium)
+2.28.20 7 p.m.
+Black Culture and Fine Arts (Kirr Commons)
+2.28.20 10 p.m. - 1 a.m.
+Semi-Annual Dollar Sale (Avalon Exchange)
+2.28.20 - 3.1.20
+Internet Cat Video Fest 2020 (Row House Cinema)
+2.28.20 - 3.5.20
+Taaza 2020: The Official Show (Carlow University)
+2.29.20 4 - 9 p.m.
+Tisbert 2020 (Rangos 1)
+2.29.20 7 - 8 p.m.
+Lunar Gala 2020: Yesterday (Wiegand Gymnasium)
+2.29.20 8 p.m.
+week of 3.2.20 - 3.8.20
+AB Presents: Hannah Hart (McConomy Auditorium)
+3.4.20 6:30 - 8 p.m.
+Killer Partners week (Row House Cinema)
+3.6.20 - 3.12.20
+Pittsburgh Arts & Lectures: Esi Edugyan (Carnegie Music Hall of Oakland)
+3.9.2020 7:30 p.m.
+week of 3.9.20 - 3.15.20
+spring break
+week of 3.16.20 - 3.22.20
+The 2020 Pittsburgh Japanese Film Festival (Row House Cinema)
+3.20.20 - 4.2.20
+Philharmonic Soloist Competition (Kresge Theater)
+3.21.20 6 - 8 p.m.
+ScottyCon: Old-School (Cohon Center)
+3.22.20 11 a.m. - 11 p.m.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+I’m not an architecture student, but I do have eyes and opinions on what looks good. I also like buildings and maximizing the utility of a space. So I thought it would be a fun, relaxing, and harmless exercise to spend a little bit of time ranking the various buildings on the main part of campus. This is all my personal opinion, and honestly, my opinions on this are not serious.
+Tepper - I’m dunking on the home of my major, but I don’t like Tepper. The inside is somewhat interesting, but I hate how much glass there is in many parts. It makes me feel really paranoid. From the outside, it’s an eyesore. The design of it is supposed to look sleek and modern, but it just looks really bland and there isn’t much going on with it. Also I don’t like how access for study rooms is restricted to just people who are enrolled in Tepper. Yeah, sure, I get to access them, but I don’t like that exclusivity. It’s a contradiction to the constant, disingenuous reminder that the school is “interdisciplinary.” Everyone should have equal access. I don’t mind master’s students getting their own space as much. This really is the type of building a pretentious billionaire would want to have his name on.
+Scaife - If we’re gonna talk about visual eyesores, Scaife is another one. I’ve heard people say it looks like a prison, but that’s an insult to prisons. It does have the same feeling as one though. That being said, no one goes in there a lot of the time, so it is a nice place to cry if necessary. The building shares a name with xenophobes, if you want to feel more sad as you cry.
+TCS - I’m going to dunk on this before it even opens, but that also looks like it’s gonna be an eyesore. It’s in the close vicinity of Tepper, so that doesn’t help it.
+Doherty - This building is a mess. The design is inconvenient at times. Sometimes it’s hard to remember how to get to different parts of the building. If you’re a graduate student, I don’t even know how you make it to the third and fourth floors. It looks kind of bad, but it’s older so it gets a pass. The newer extensions are kind of unfortunate. Also don’t go to the basement levels of Doherty. You’ll probably get heat stroke.
+Skibo - I am not an athlete, so I don’t care. 
+Gates - If we’re gonna talk about buildings from pretentious billionaires, here’s another one. The ratio of glass is better but some parts are still too “glassy.” It also has a major issue of exclusivity like Tepper does. The garden patches are nice though, and the Pausch bridge entrance is pretty cool. I don’t know why the third floor isn’t just labelled the first floor. The helix is cool, but I don’t get the point of having it. Also, who decided there would be no right angles in this building? I’m sure that wasn’t Bill Gates’s idea when he was donating the money. If it was, then that was his second worst philanthropic idea, right after the millions he spent lobbying for charter schools. Also, the inside smells like the hopes and dreams of CS majors died there.
+Morewood - The building just doesn’t look great. The garden near the turnaround is a great place to sit and relax. Inside, the smell of the Underground really wafts around. If you’re in there a lot, which I unfortunately am, you get used to it, but it’s still not great. The interior color design is bad. The Underground redesign is cool, but it lost a lot of the charm of the old interior, even if the new design is probably more sanitary. The makerspaces are pretty neat, although it’s unfortunate that access is limited. CaPs is in there, so that’s important. University Health Service is chill.
+Hunt - For a library, this building also has too much glass. I also work here, so it’s fun to chill on the first floor. However, you all are really bad at putting books back. Is it that difficult for you all to read the numbers on the spine of the book and, I don’t know, place them in order? It’s really easy to do. Anyway yeah, Hunt’s design is fine. It’s just a rectangular prism of stress.
+Warner - This building looks alright, but it’s placed this low because I have to go here to replace my ID every time I lose it, so it’s a place of negativity for me. 
+Cyert - This is another all glass building, but most of the glass has a very dark tint, so it’s a little better. Tint your glass buildings, Carnegie Mellon. This is another administrative building, so it contains important administrative stuff. The actual design of the building is a bit messy, but nothing to be super upset about. It’s cool they made a building on a hill like that.
+Scott Hall - What’s with the glass on this building? It’s glass overload. I don’t like glass like that. If it’s a skyscraper, that’s one thing. But these small buildings look like mirrors, and you can see what everyone is doing because they’re still at a level where I can see things. Putting all that aside, the design over the hill is pretty neat. The interior also has a cool look, and the sky light in the main dining area is pretty rad. That’s the part of the building where the glass makes sense.
+Margaret Morrison - This building is a bit confusing, but I like the look from the outside. The interior is a bit shabby, but the newer classrooms are nice. I like the area near the tennis courts with the trees where you can sit at the tables outside. I play music here a lot, and the rooms are generally well suited to that. The building is also a giant L, which coincidentally is what the Carnegie Mellon experience is.
+Hamburg - I’ve never been in the building. The outside entrance with the driveway is really great, and it’s easier to tell UberEats drivers to pull into there instead of wait outside Tepper.
+ANSYS Hall - This building is also glassy, but the workspaces are really nice. It seems like they’re all open access. I’ve walked into random parts of the building and haven’t had to hear the sad beep I get when I scan my ID and it gets rejected. I’ll give the glass a pass on this one because even though it’s an engineering building, anyone can come in and use the space, which is how it should be.
+Hamerschlag/Roberts - A lot of the interior looks weird, though Roberts is nicer. The floor connected to Scott Hall looks cool with all the equipment, but then you take half a flight of stairs up. Then, it’s miserable. I had a terrible differential equations class there, so that experience is in my brain. The rotunda is wonderful, and I love going up there.
+College of Fine Arts - This is a really architecturally pleasing building, and the first floor is gorgeous. It’s a shame the second and third floors don’t live up to that. The recording booths on the third floor are incredible.
+Purnell - I get lost in this building a lot, so subtracting a few points for that. However, if you want some free live music 24/7, the main lobby of Purnell will provide you constant entertainment. I don’t go in there very often, but it’s pretty easy to have access to every part of the building from what I have seen. The actual building has some cool design. The entrance to the lobby looks really fancy, and I like the pillars and how long it is.
+Porter/Baker - It’s not the best looking in any way, but I appreciate it regardless. The redesigns of the classrooms are actually useful. Rolling down the hall in chairs is really fun at night. Also, some shots in Mindhunter were filmed here, so that automatically makes it cool.
+Newell Simon Hall - The entrance to Newell Simon from the bridge and from the front are really cool. Also, it has the famed iNoodle, and you know what? I like iNoodle, cockroaches and all. Great building.
+Robert Mehrabian Collaborative Innovation Center - This building is also awesome. The whole design is great, and the glass doesn’t seem that bad to me in this one. The inside is really sleek in a good way. Plus, if you live on Fifth Avenue or Craig Street, CIC is part of a shortcut you can take to get to the far end of campus like Wean or Baker.
+Cohon Center - I just really like this building. The interior looks really nice. I like the Kirr Commons area a lot, especially the skylight and the stairs. The Tartan office is in there. The gym is amazing, though I don’t know why the gym has to be the most “glassy” part of the building. Most of the UC food is edible, so that helps. I also like the parallel design with Purnell. The consistency is really cool.
+Wean - This is the best building on campus. It’s got a library, even if it is kind of small. There is a lot of space and secret quiet spots. The entrance from the fifth floor near La Prima looks like a turtle, and who doesn’t love turtles? Also Wean has La Prima. There’s no contest. Wean is objectively the best building on campus.
+So I think that’s all the buildings I could remember. I don’t know why I did that. That took longer than I thought it would. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+For over ten years, Carnegie Mellon distributed a map to incoming students that highlighted certain areas of Pittsburgh over others. The since-deleted map, found in university pamphlets and posted on the walls of the Cohon Center, centered on the university and emphasized several neighborhoods in Pittsburgh, but omitted several predominantly-black neighborhoods, including the Hill District, Homewood, and Garfield.
+The omission of neighborhoods in the map drew national coverage for its controversial depiction of the city.
+David Gray Widder, a Ph.D. student in Software Engineering, wrote an open letter to the administration saying “this is institutional racism on paper, on screen, and on the wall of a building in the heart of our university.”
+Ebony Thomas, of Swissvale, made satirical t-shirts in response,  which said “Hood Lives Matter,” and highlighted Uptown, Garfield, Larimer, Homewood, East Hills, Hazelwood and the Hill District. Squirrel Hill, where Carnegie Mellon resides, was omitted, with an ellipsis in its place.
+The university responds
+Carnegie Mellon was quick to respond to the outrage. The map was taken down from the Cohon Center’s walls. It was deleted from the admissions website. Pamphlets were thrown away.
+In a statement to Pittsburgh’s Action News 4, a Carnegie Mellon spokesperson stated, “We sincerely apologize for this mistake and the hurt it created. We know we must do better and are committed to learning from this and making immediate and longer-term changes as a result.”
+The statement continued to say that the university had scheduled a meeting with “campus community members,” and said that “a committee on campus is already working to identify and implement better practices to foster a more welcoming, respectful and inclusive environment for everyone in the CMU community, including all of our neighbors.”
+That committee, not named in the statement, is the existing Campus Climate Implementation Steering Committee, co-chaired by James H. Garrett, Provost, and professor of economics Linda Babcock. Associate Provost Rebecca Culyba told The Tartan in a statement that the committee was founded last year as a result of President Jahanian’s Task Force on Campus Climate.
+The committee includes faculty and administration from Student Affairs, Diversity and Inclusion, and Marketing and Communications. They’re tasked with the development of a diversity and inclusion office under the Provost, awareness programming, communications relating to diversity, and “overseeing the review of marketing and communications collateral across campus,” Culyba said.
+The steering committee will remain in place until their work is institutionalized under the Provost’s office, she added, “We expect a well-resourced office and its leader to be in place by the fall semester.”
+Culyba says that the university acknowledges “that map never should have been created.” She says that in the wake of the map incident, the Provost’s office has made contact with “all CMU deans and vice presidents, requiring each academic and administrative unit to review their collateral to ensure they uphold CMU’s values.”
+The university’s marketing and communications division received diversity and inclusion training last year. Culyba notes that “more is being planned throughout the year.”
+City Councillors call for apology-through-investment
+Pittsburgh City Councillors Daniel Lavelle and Reverend Rick Burgess responded to the incident with a letter to the university requesting that Carnegie Mellon partner with the City of Pittsburgh’s All-In Policy Forum, that the university become a strategic partner in Homewood revitalization efforts, and that the university make “direct commitments and contributions to the City’s communities of color.”
+Because of Carnegie Mellon’s 501(c)(3) nonprofit status, the university is exempt from federal and state taxes on revenue. Burgess stated in an interview with The Tartan that unlike schools of similar stature like Brown University and MIT, Carnegie Mellon does not make payments to their city in lieu of taxes, despite leasing some land from the City of Pittsburgh at no cost and making use of the city’s public fire and police departments.
+Burgess says that he isn’t interested in punitive measures or punishing the university for its mistakes, and is rather using the incident as a way to start a conversation about Carnegie Mellon’s role in the city. “Me and Mr. Lavelle are more interested in what [Carnegie Mellon is] willing to do moving forward,” he said.
+“We’re inviting CMU to use its broad power, its faculty, IT staff, students, its resources, to partner with us, in ways that are appropriate, to focus on rebuilding these traditional African American communities and transforming them from communities of concentrated poverty into mixed-income, stable communities,” Burgess said, referring to the letter’s request that Carnegie Mellon invest in Pittsburgh’s communities of color.
+Burgess says that Carnegie Mellon, despite once making payments to the city in lieu of taxes, no longer does. “That I think is wrong, and I’ll tell them that… I think they have an obligation to use their resources to help the city.”
+As for what made the map particularly problematic, Burgess said, “I think there is an attitude that’s bigger than any institution in our city that sometimes does not appreciate, rejoice, or celebrate things in African American communities.” The communities excluded from the map, Burgess says, “are often only spotlighted for negative, harsh, punitive things, but are not celebrated, and at the same time, not subject to the same sort of investment that other communities have received.”
+Burgess jumped on the opportunity to provide examples of uncelebrated institutions in the omitted neighborhoods. “One of the best bakeries in Pittsburgh is a place called Dana’s Bakery. You probably have not been there,” Burgess said, “And you would not know it was there unless you were from the community.” He also cited Showcase Barbeque, on Frankstown Ave., as another of the city’s finest establishments.
+These spots are “not celebrated the same way other places are,” Burgess says. “There are all sorts of strengths in the community, I just mentioned two in Homewood, but there’s all sorts of strengths in the community that we can celebrate and lift up,” he said, “but that’s just my two cents.”
+The councilman says that Carnegie Mellon “has already talked, I think, at length, about how the map was not helpful. I think we can all agree on that. So I think to revisit it is not as helpful as moving forward.” He asks, “How can we partner in ways to move forward? Because really, we need all of us working together to make our city great.”
+Moving Forward
+Carnegie Mellon has acknowledged Lavelle and Burgess’ letter, and both parties are in communication to schedule a time to meet and discuss its contents.
+Burgess said, “I look forward to partnering with CMU to find ways that we can invest in what we call these ‘communities of opportunities.’” As for the map’s omitted communities, Burgess says, Carnegie Mellon’s “faculty, staff and students are encouraged to come and participate in the victories and amenities that these communities have to offer.”
+When asked about Carnegie Mellon’s position on not paying to the City of Pittsburgh in lieu of taxes, Culyba stated that “CMU is deeply committed to Pittsburgh.” She cites examples like Carnegie Mellon providing “computer science education in the Pittsburgh Public School District; donating 11,000 pounds of food to 412 Food Rescue last year; developing research tools that are helping to advance local air and water quality improvements; assisting single mothers in underserved communities with scheduling prenatal appointments; and inventing the future of manufacturing at Hazelwood Green.”
+Culyba added that the university has a positive economic impact on the Pittsburgh region, “supporting more than 10,000 local jobs every year, along with 340+ startups created by students and faculty over the past 10 years.” No reference to whether the university would make payments in lieu of taxes in response to Lavelle and Burgess’ letter was made.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Hilton Als isn’t “happy to be black.” The Pulitzer Prize-winning critic, writer, and curator isn’t one to reduce his multifaceted racial, sexual, or personal identity into simplified emotional terms. Calling himself “happy” to be gay or black, he said, would be to “disregard the existence of pain,” to succumb to the prevailing “political fashion dictated by the needs of the powerful.”
+Als began his Feb. 18 lecture in Carnegie Mellon’s McConomy Auditorium with a story. During a museum visit, he received what he called the dreaded “I’m happy to be black” response upon asking a curator how she was. “I couldn’t walk through the museum saying ‘I’m happy to be black’ because I’m a target,” he told an audience of students, professors, and Pittsburgh locals.
+Throughout his lecture, titled “Just Us: Considering Art in the Age of ‘Wokeness,’” Hilton Als explored racial identity and ‘wokeness’ in the artistic sphere. Als’ lecture was the School of Art’s Robert L. Lepper Distinguished Lecture in Creative Inquiry, an annual event held as part of the School of Art’s lecture series.
+The curator’s declaration of black happiness seemed to Als as too much of a performative, literal expression. This type of performative identity has become a major problem in art, Als argued. As a result, he said, art has become a “landscape littered with artifacts that express the literate.”
+In such a landscape, Als claimed, black artists are often expected to perform blackness for the sake of a white audience. “The role of the ‘politically-aware exotic’ is in fashion,” Als said, citing the desire of white audiences to observe ‘woke’ black artwork.
+Als explained that this also impacts white artists who wish to “respond to the American story,” a story that heavily features racism, he said. Als cited Dana Schutz’s “Open Casket,” a painting of Emmett Till’s body after he had been beaten to death on the accusation of him flirting with a white woman. The piece garnered controversy because it was painted by a white woman.
+While Als does not appreciate “Open Casket” aesthetically, claiming that it is just “an okay piece,” he argued that it was not deserving of the controversy it had garnered. He referenced other white artists who have depicted blackness and done so respectfully, including photographer Diane Arbus. Through her photographs of interracial couples, Arbus “described miscegenation with such clarity,” according to Als.
+Als closed his lecture with an appeal to the complicated, often painful, identities of creators. Als asked, “Isn’t what we share… the diversity of our complications?”
+During a question and answer section, he tackled audience questions on a broad range of topics from the Harlem Renaissance to his public persona. The audience erupted in laughter after Als revealed his distaste for poor table manners — he channels his mother when a person he takes to dinner eats before Als gets his meal. “We’re better than our bad manners,” Als said.
+Als also clarified his stance on the role of identity within art, explaining that he does not want artists to be reduced to just their salient identities. Als said, “I just want everything that you are. You are everything. Do everything!”
+Als has enjoyed a prolific career as a Pulitzer Prize-winning writer, theatre critic, art curator, and writing professor at Columbia University. However, Als claimed to be so divorced from his public persona that, when he catches a stranger staring, he instinctively believes it is because he is attractive. When said stranger approaches him to compliment his work, Als is disappointed. On his public self, Als remarked, “I don’t know who he is.”
+The next School of Art Lecture Series event will be given by Johannes DeYoung, Feb. 25, 2020.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+The internet: once the wildest of the wild wests, the last frontier, where anyone with a phone line and 10 bucks a month could set up their own forum for other people, has evolved quite a bit since the halcyon days of the early 2000s.
+As more and more people have merged onto the information superhighway, what was once a mysterious and unknown frontier has become enclosed, much like the Old West, with digital barbed wire. The homepage is dead, and social media tossed its lifeless body down a well. 
+According to The Washington Post, the top 5 most visited websites in 2003 were Yahoo, Time Warner, MSN, eBay, and Google. Right now, the five most visited sites globally are Google, YouTube (owned by Google), Tmall, Facebook, and Baidu, according to Amazon’s Alexa.com analytics firm. Depending on your definition of social media, that makes three of the top five (YouTube, Facebook, and Baidu) social media sites, a development that reflects the consolidation of most online content into a few centralized hubs. Much like the billboards advertising divorce attorneys for frustrated commuters trapped on the road, social media is the place to be for any brand aspiring to get their message out to the world. And here at Carnegie Mellon, we’ve got our own brand.
+Recently, Carnegie Mellon University’s official social media accounts took this brand to the internet in the form of a few exceptionally topical memes, starring the iconic “Scotty” mascot. The memes follow the short-lived “LinkedIn/Facebook/Twitter/Tinder” format first popularized by country music singer Dolly Parton, but with the school mascot at the library, shaking hands, and doing mascotty things. Luckily, The Tartan was able to get in touch via email with Lawerence Synett, the Director of Social Media in the Marketing & Communications Department at Carnegie Mellon, who answered all of our most burning questions.
+The three-member Social Media Team at Carnegie Mellon is composed of director Lawerence Synett, the Social Media Producer Felicia Lucot, and Multimedia Social Media Producer Bill Lyon, along with “seven part-time student workers [who] help with content creation for the university’s central social media channels – Twitter, Instagram, Facebook, LinkedIn and YouTube.”
+These student workers are recruited over the summer and tasked with “[creating] content that is important to our students,” like the aforementioned memes. Rather than the standard process for individual-run accounts, the Carnegie Mellon social media team launch coordinated assaults on each platform, tailoring their messaging “to each individual channel based on its audience.”
+Carnegie Mellon’s socials are anything but unfocused: the team runs on the model of “Attract. Share. Connect.” The various social media channels should “Attract the best and brightest—students, faculty and staff… [to] Share the stories that make Carnegie Mellon so unique and provide our audience with content relevant to them,” and also, “Connect with our community, whether that is engaging with alumni who graduated 25 years ago or answering a question that a prospective student has about admissions,” according to Synett. While some posts are scheduled in advance, many are “published in real-time,” with the staff monitoring channels and engaging with other users.
+The occasional meme-drops are not simply a case of younger staff going rogue, but all part of the grander strategy. The team is “constantly monitoring [their] social channels to capitalize on trends,” Synett says. “Posts like that have to come together quickly before the trend passes, and it’s no longer relevant.”
+The team invests a large amount of time in content sourcing, from talking to the Student Ambassadors on the Social Media team to “[meeting] quarterly with communicators across all schools, colleges and departments to discuss best practices,” and even “roaming around campus with a camera asking students questions or capturing those moments that are so CMU.”
+Carnegie Mellon’s social team doesn’t just work in isolation, either. With everything relating back to the “broader marketing and communication plan at CMU,” the team is tasked with “[working] hand-in-hand with the creative and content teams to seamlessly adhere to brand guidelines and focus on our brand pillars.” The social team focuses mainly on “providing content that gets our follower base engaged,” with less attention paid to the standard “vanity metrics like followers, likes and impressions.”
+The true metric that matters, according to Synett, is students themselves: “I would say that students such as [yourselves] noticing a positive change on our accounts is an important measure of our success.”
+If you’re interested in seeing more of the latest Carnegie Mellon content, you can find it on Twitter: @CarnegieMellon, Instagram: @carnegiemellon, Facebook: @carnegiemellonu, LinkedIn: Carnegie Mellon University, or YouTube: CarnegieMellonU.
+Madeline Kim, Forum Editor, is a student worker for the social media team.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Alcohol Amnesty
+Feb. 16, 2020
+Officers responded to the Hamerschlag House after receiving a call about an intoxicated individual. Officers arrived and made contact with a Carnegie Mellon student who was provided medical assistance. No citations were issued, due to alcohol amnesty. 
+Public Drunkenness
+Feb. 16, 2020
+Officers responded to an area near the Alumni House for an individual seen lying on the ground. Officers arrived and made contact with the Carnegie Mellon student who was intoxicated. The student was provided medical assistance and issued a non-traffic citation for public drunkenness. 
+Receiving Stolen Property/Disorderly Conduct/Public Drunkenness
+Feb. 16, 2020
+Officers responded to the intersection of Forbes Avenue and Margaret Morrison Street for an individual observed to be carrying a street sign who also appeared intoxicated. Officers arrived and made contact with the Carnegie Mellon student, who displayed signs of intoxication, and was cited for being disorderly. 
+Assist Outside Agency 
+Feb. 16, 2020
+Officers responded to the intersection of Fifth Avenue and Morewood Avenue for an individual who was struck by a vehicle. The individual was identified as a Carnegie Mellon student who was transported to the hospital to be further evaluated. The investigation is being conducted by the City of Pittsburgh Police Department. 
+Theft/Larceny
+Feb. 21, 2020
+A Carnegie Mellon student made contact with Carnegie Mellon Police Officers to file a report for property that was unlawfully taken from Posner Hall. The investigation is ongoing. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Located between Baker, Hamerschlag, and Scaife Halls, the sparkling new multi-story ANSYS Hall houses a massive makerspace, a computer lab, student collaborative spaces, and offices behind an impressive glass façade. Funded in part by ANSYS Inc., the mission of ANSYS Hall is to provide another interdisciplinary collaborative space for students from major STEM fields, as well as maker support for computer simulations and large-scale assembly initiatives.
+As with most of the building projects on our campus, a significant portion of the funding for these amenities came from the tuition dutifully paid by students every year. $55,465 per student per year, with steady annual increases (a 3.2 percent increase was approved for the upcoming 2020-21 school year), provide Carnegie Mellon with the financial resources to construct these lavish spaces and furnish them with state-of-the-art equipment for undergraduate and graduate use and, ultimately, back up its reputation as a world-class university.
+These massive expansions in both our campus and facility demonstrate that Carnegie Mellon is focused primarily on the technical fields. Buildings like ANSYS Hall, as well as the pervasive labyrinths of laboratories, computer labs, and makerspaces, provide ample proof of where the university’s interests lie. This bias makes sense for two reasons: STEM education tends to require more materials, space, and equipment than other disciplines, and there is a high demand for technically-proficient individuals in the present economy. Directing money towards these STEM-related assets appears to be the best investment in the long-run, for both the university and students in those fields.
+But this raises an important question: what about those students studying something outside of STEM? What utility does an English or psychology student gain from another makerspace or computer lab? Financial aid notwithstanding; whether you are in drama, ECE, chemistry, or technical writing; every student is expected to pay the same price. This is true even when that money is used to fund projects that bring little to no tangible benefit to that student. In the case of a building like ANSYS Hall, it’s fair to say that the engineering student gains far more than a humanities student.
+Granted, an education in the humanities requires a smaller budget than a technical education, requiring only the labor budget of education. Other line items, like printer paper or food budgets, are minuscule in comparison. Technical education and the requisite graduate research require a high material cost. There are cutting edge technologies — computers, specialized printers, drones, expensive lab materials, and so much more — that go into a technical education. Meanwhile, the humanities departments need pens, paper, books, and maybe some cheap computers. At the same time, humanities departments see limited funding going towards important database initiatives, such as easy and open access to journals, magazines, or newspapers; many schools grant students easily accessible online access to the New York Times, but Carnegie Mellon does not grant the same easy online access. Rather than indexing the price of an education to departmental spending, Carnegie Mellon spreads the cost of tuition across its students. Everyone pays the same sticker price for tuition, even though the materials for a technical education are so much more expensive.
+This is indicative of a larger pattern at Carnegie Mellon. Instead of indexing tuition to departmental expenses, or even college expenses, or even making a more equal balance of expenses, the university subsidizes STEM at the expense of humanities and arts students at Carnegie Mellon, because the newest technological advances create a better workforce, which returns to the college in the form of donations. It's a cyclical process, and the end goal of the process is more money, resources, and capital in all of its various forms, going toward technology and its attendant humans. Students with critical thinking skills, who question science and its downsides, are diminished. Numerous science research projects at Carnegie Mellon push the doomsday clock closer to midnight, and very few students give it a second thought. 
+One thing that students do have a stake in is the campus that they live and work on, and the facilities that are added to it as Carnegie Mellon expands. Students have a right to a more equitable distribution of funding, especially given that the funding comes from them and their families. Rather than catering to one group just to pad its reputation, the university should cater to all majors. After all, science and engineering are important. They make our lives easier, but the humanities is equally important. We need to question the cost of that ease. 
+A previous version of this article stated that Carnegie Mellon does not grant students online access to the New York Times. Students do have access to the New York Times via the the ProQuest database, which can be accessed with a search of Carnegie Mellon's library website.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Senator Bernie Sanders and his supporters talk about a political revolution, but this vision is impossible if the Democrats do not win back the House and take the Senate. Given the early primary states, Bernie Sanders is best positioned to become the Democratic nominee for President of the United States. The question is if he can take it all the way and beat Trump in critical states like Pennsylvania, Michigan, Wisconsin, and Arizona.
+He has a motivated, diverse base of young individuals across the country, and his campaign claims that he can beat Trump with the highest voter turnout in history. But what if he is the nominee and people do not turn out as his campaign expected? What if they do turn out, but it is not enough? 
+Even if you are a Bernie supporter you have to admit that, if he is the nominee, he very likely may win the popular vote and lose the presidency. Yes, it is true that many polls have Bernie — and most of the other candidates — beating Donald Trump in head-to-head matchups. But remember what happened in 2016? The polls were wrong. The last polls that were released leading up to the 2016 presidential election showed Hillary Clinton beating Trump, some by huge margins. Do not put blind trust in these polls. We do not need a repeat of 2016.
+Bernie is quite admirable. He has consistently fought for the working class for decades. His record regarding climate is outstanding. Nonetheless, his biggest victory has been inspiring the younger generations to engage in politics and vote. Despite these feats, he is one of the most divisive figures in Democratic politics, and this must be reckoned with. 
+The term “socialism” makes voters uncomfortable because they do not realize that programs like Social Security and Medicaid are largely based on the same social policy ideals. To clear the record, Bernie Sanders is a Democratic Socialist, but that does not change the fact that some people may not be able to get over the “socialist” part of his political alignment. Believe it or not, this could cause issues down ballot for Democrats if Sanders sits at the top of the ticket. 
+In 2018, the Democrats took control of the House of Representatives, largely by appealing to middle-class suburban voters and flipping red districts. Although you may be used to seeing Congresswoman Alexandria Ocasio-Cortez on social media, she is not representative of her freshman class. Most of these new seats that were gained are held by moderate members. These moderates are critical to retaining the majority in the House, and if Sanders is at the top of the ticket, these members of Congress will have to spend a lot of time and resources distancing themselves from him and his campaign. 
+This group of about 30 freshman members already face tough re-election races, and Sanders, as the nominee, will make it tougher. Usually after a candidate wins a primary, they move closer to the center to appeal to a wider electorate. While the Sanders campaign touts Democratic unity, it is highly unlikely that he will move to a center-left position for the general election. As a result, Bernie could lose the suburbs and rural areas by not appealing to moderate Democrats and Republicans. If this happens, we would lose many House seats and possibly the majority.
+Members of Congress like Colin Allred, Kendra Horn, Max Rose, and Lauren Underwood could lose their seats if Bernie Sanders is the nominee. Rep. Lauren Underwood is a former nurse, and she is the youngest black woman ever elected to Congress. Much like her freshman colleagues, she brings a unique voice to the House chamber, and it would be a shame to see her and other freshman members voted out of office as a result of nominating Sanders for president.
+First-term Congressman Dean Philips of Minnesota warned of the dangers about putting Sanders atop the ticket, saying, “I think it would have some significant down-ballot effects…the five or six states that are going to matter in the Electoral College makes it a real question mark in maintaining the House of Representatives. There are probably 25-30 seats that absolutely would be impacted directly by having a self-avowed socialist at the top of the ticket.” Phillips went on to say that he wished more people realized that Sanders is not a member of the Democratic Party. He's an independent that caucuses with the Democrats.
+On top of retaining the House, winning back the Senate is critical for Democrats in 2020. Even if the Democrats win the House and the Presidency, Mitch McConnell will block everything. Picking up seats in Colorado, Maine, Arizona, and North Carolina can help Democrats regain control of the Senate, so long as they do not lose any seats. Doug Jones from Alabama is the most vulnerable Democratic Senator up for reelection in 2020, and Sanders, as the nominee, would make it next to impossible for Jones to keep his Senate seat. 
+Ultimately, if Senator Bernie Sanders is the nominee, the Democrat’s majority in Congress hangs in the balance. He also has a very good chance to win the popular vote, but his pathway to 270 electoral votes is less clear. So when you vote this spring in the primary, think about the larger picture and the implications it could have for 2020. This is the most important election of our lifetime and it important to remember that the Democratic nominee must rely on moderate members of Congress and voters for electoral success. With Bernie, this may not be possible.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+“Elite universities...are not meant to mold free thinkers, only the next generation of capitalists and imperialists.” 
+Reading this tweet and its following thread, I had an immediate gut reaction of, “that’s not us.” To put it plainly, we are not an Ivy League university, though we are reaching that level of prestige, and our institution in a grander context is relatively new, with Carnegie Tech forming in 1900 and Carnegie Mellon forming in 1967. However, upon reflecting on the university’s activity within the past few years, I made the daunting realization that we are not only the epitome of this tweet, but we are also not even trying to hide it.
+Though our student body jokes about and disavows the “CMU Bubble,” it has proven itself to be part of a purposeful and intentional system that aims to maintain the capitalistic and imperialistic goals of the university. It sounds dramatic in this one sentence, but let me explain.
+First, you get to campus for orientation week; the schedule is purposely filled to the brim with nonstop activities and meetings for you to get to know your classmates. There are Pittsburgh Connections — sightseeing activities that are meant to connect students to the city — but you only go to those if you have the money to afford them or the interest to enjoy them. There are bare minimum efforts from the university to connect you to real grassroots organizations in Pittsburgh, but you ignore that, thinking you will explore the city — or at least the nice areas the map in the Cohon Center highlighted until the other week — eventually.
+You won’t. Or, if you do, it’s quick trips to wealthy or gentrified areas of Pittsburgh. Carnegie Mellon wants to really make sure you have your head in the game: the game of giving Carnegie Mellon a better reputation (and more donations) by getting a fancy tech internship, or a job at one of the big-name consulting companies. So they make classes incredibly difficult, no matter what your major is. When you aren’t in class, you’re eating, sleeping, or doing homework. You start to feel lonely. It’s hard to make meaningful connections when you are working day in and out as if you were a machine.
+Clubs, you are told, are a good way to make friends. But after buying or renting numerous books and textbooks for your classes, getting an iClicker, or purchasing hundreds of dollars worth of art supplies, dues are just too much. And, again, can you risk wasting time that can be spent studying?
+Two or three months later, when you are a victim of microaggressions or blatant racism. You feel lost, especially when the perpetrator is a TA or professor. You thought your classmates listened as they did workshops and discussions during orientation, or that Global Histories provided enough context. You thought Carnegie Mellon, as a global university, carefully selected and trained staff, faculty, and professors. But boy, were you wrong.  
+Later in the year, your friend is sexually assaulted, and no matter how much support you give them, they probably won’t reach out to Title IX. It is just too bureaucratic and emotionally exhausting. Sometimes Title IX won’t even serve justice. Their perpetrator is let off the hook.
+It’s midterm season. Everyone around you is losing sleep, slipping into episodes of anxiety and depression. Your friend has multiple all-nighters and makes jokes about it. You start to feel helpless yourself, so you go to CaPS. There is a wait time, at least three weeks. Then, when your “free trial” is over, you are helpless, again.
+There's a new tradition on campus, the Tartan Community Day. You’re excited to have the day off, but not for the reasons he wants you to be excited about. After sleeping for a grand total of three hours the previous week, you want to relax and hang out with friends. Unfortunately, your professors gave you homework anyway, so a day off is another day at work.
+You get an email about a Strategic Plan. You heard about the Campus Climate Survey, the Diversity, Equity, and Inclusion Task Force, and it is so confusing.  The email says the administration has been working very hard to reach culture-changing goals. Unfortunately, real results won’t appear until way after you graduate. Yet, for some reason, you still have hope that Carnegie Mellon University cares about you and their global and local impacts. They don’t. 
+Through numerous areas of university expansion — literal and financial — Carnegie Mellon has made its intentions perfectly clear. Our endowment is around $2.4 billion, which though nowhere near the likes of Harvard or Stanford, is increasing steadily. With more money, you would think we would truly invest in low-income, first-generation students. Instead, we have a disappointing 4 percent of the student body from the bottom 20 percent of the average income percentile, and only 15 percent of students are Pell Grant recipients.
+With our $2 billion Make Possible campaign, we have built the Tepper Quad and ANSYS Hall, we’re building a new Scaife Hall, and more. The Tepper Quad — the building's namesake being a hedge fund manager — represents crony capitalism at its finest, with spaces named after CEOs of big-name companies. 
+No matter how much Carnegie Mellon University makes it a point to appear as a unique alternative to Ivy Leagues, we are making an active effort to be more like them. Carnegie Mellon will do anything in their power to achieve prestige and national recognition, even if it means fewer students of color, less low-income students, fewer students who exist in different intersections of race, class, gender, sexuality, and so on. Even if it means we foster a toxic stress culture with a student body so disconnected from reality and the outside world, it becomes detrimental to their mental wellbeing. 
+The Twitter thread ends with a short, simple statement: “[The institution] wants to make a donor out of you, above all.” The Make Possible website — particularly the section about fostering a better Carnegie Mellon University community — is grossly vague for a multi-billion dollar project that is already halfway complete. The website doesn’t forget, however, to clearly display all contact information available for future donors to make "it” — a capitalistic and imperialistic present and future — possible. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+On Wednesday’s Democratic debate in Nevada, one moderator asked, “Are Senator Sanders and his supporters making it harder for Democrats to unify?” Somehow the “Bernie Bro,” a pejorative term used to describe Sanders supporters, became a debate-worthy issue in the election — but it shouldn’t be. 
+First, Sanders' supporters shouldn’t be generalized only as malignant online bullies. On Twitter, the platform most cited by people criticizing the candidate’s supporters, only 60 percent of users lean Democratic. What’s more, only 13 percent of tweets are explicitly about national politics. Of that 13 percent, 97 percent of them are made by the chronically online top 10 percent of users (of which 65 percent are women). It doesn’t make sense to view such a small slice of people on a platform that only 22 percent of American adults use as representative of Sanders’ base. Even then, you’d have to assume every single one of those extremely online Democratic users supports him. 
+What happened to the adage of “Twitter isn’t real life?" What’s more likely to be happening here is that because political journalists and campaign operatives are spending so much time on Twitter, the “shouting class” on the platform is distorting their view of what a Sanders supporter looks like. If Biden supporters were more active on social media, we would’ve likely seen stories about the “Biden Bro”, given that survey data from September found his supporters held the highest levels of both “hostile sexism” and “racial resentment” among supporters of the leading Democratic candidates.
+However, even if we were to assume that there’s something unique about the Sanders supporter that makes them angry and harmful, Sanders is not his supporters. He doesn’t encourage his supporters to post and message any of the hostile things that people feature as examples of their toxicity.
+Some pundits and politicians have used hateful tweets from Sanders supporters to equate him to Trump, but that argument is ignorant at best and deceitful at worst. Unlike Trump, Sanders doesn’t single out people to personally bully. Unlike Trump, he hasn’t gone along with a supporter when they said at a rally that they should shoot people. Unlike Trump, he doesn't call for his political rivals to be jailed. Unlike Trump, Sanders’ rallies don’t likely contribute to an increase in area hate crimes. Sanders’ rhetoric is not like Trump’s rhetoric.
+That hasn’t stopped Michael Bloomberg’s campaign from using a small share of his supporters’ tweets as a point of attack, using them to criticize Sanders as divisive and inciting hate. Last Monday, Bloomberg posted a digital ad with a compilation of angry tweets (presumed from Sanders supporters) attacking Democratic candidates. That video is itself a microcosm as to why it’s a bad argument to attack Sanders through his supporters. The ad ends with a clip of Sanders saying, “It is vitally important for those of us who hold different views to be able to engage in a civil discourse.” It showed how Sanders doesn’t behave like the very people they’re trying to tie him to. Bloomberg’s campaign account tweeted a similar compilation of Bernie Bro tweets on Saturday, many of which were found out to be from Trump supporters. 
+Pete Buttigieg similarly tried to use the angry Bernie Bro narrative against Sanders during the Democratic debate on Wednesday, arguing, “I think you have to accept some responsibility and ask yourself what it is about your campaign, in particular, that seems to be motivating this behavior more than others.” But this argument still assumes that Sanders is doing something to motivate people to act in a certain way. I don’t see what that is, but if there is something about Sanders’ campaign, I wish Buttigieg just said what it was instead of posing a rhetorical question.
+Framing this around “leadership,” as Buttigieg does, misses the reasons for why Bernie Bros are angry in the first place, and it’s not because of what Bernie Sanders says or does. Typically young, they are facing enormous pressures that aren’t being addressed. Their student debt has dramatically increased. They have less wealth than Baby Boomers did at their age, even though they have more education. They see an oncoming climate crisis that they are going to have to live with while the government response has been limited. They are angry at what they see as an unjust system destroying their generation’s hopes.
+The stereotypical, extremely-online Sanders supporter would be mad and aggressive with or without Bernie Sanders. He has little to nothing to do with their behavior. 
+As a general rule, don’t judge a candidate exclusively by who votes for them.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Controversial "Kent State gun girl" Kaitlin Bennett has come back in the news after having been chased away from Ohio University by protestors. I don't know what I find most astonishing about the situation: the lack of injuries or arrests or the fact that the protestors successfully removed Bennett from campus. It feels like just yesterday that Richard Spencer, the coiner of the term "alt-right," couldn't be stopped from speaking at Auburn University, and he had a handful of supporters escorted by police to attend his event at Michigan State University. Still, Bennett's tweet claiming that she will "bring an army of gun owners for an open carry walk through campus," is concerning.
+It would be easier to dismiss the gun in that viral photo as a provocative photo prop if the photo was posted without its caption. However, her claim that the 1970 Kent State massacre would not have happened if the university had open carry policies is asinine, to say the least. It's naive at best to believe that the U.S. National Guard would see armed college students and respond calmly. It's even sadder that the tragedy was manipulated to fit an agenda that is antithetical to the purpose of the protest in 1970.
+This leads to the question: how desperate is the pro-Second Amendment movement for a gun rights activist? If such a prominent face of the movement is someone who claimed she needed an AR-10 to protect herself, yet also had police to escort her to ensure her safety (so much for self-protection) and didn't actually own a gun until months later, they must be desperate. 
+This country needs to hold fruitful discussions about gun politics and gun safety now more than ever. Yet it feels impossible when half of the conversation appears to be dominated by the rhetoric that Bennett expressed when she proudly exclaimed: "as an American, I do not need to care about any other part of the world."
+It's ironic. By addressing this incident, I'm arguably helping her build her platform. Part of me hopes that she's provocative for the sake of attention, and is merely playing into the "gun girl" character she's built. This hope dies out a little more every time I see her name pop up in the media, but I'll hold onto it for as long as I can for my sanity's sake. Or at least, until the conversation on guns becomes less about personal agenda and more about public safety.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+

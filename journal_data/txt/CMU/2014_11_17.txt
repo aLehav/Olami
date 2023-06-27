@@ -1,0 +1,763 @@
+In the final game of the season, the Carnegie Mellon football team faced off against Washington University in front of the home crowd. With the seniors playing their final game, the team was determined to end its season on a positive, and it paid off; a late touchdown gave the Tartans the victory, 17–16.
+Things weren’t always looking up for the Tartans, after their opening possession ended with a blocked field goal attempt by first-year placekicker Tyler Kohman. The turnover led to Washington getting the ball at mid-field and an early 3–0 lead for the visitors.
+Trying to keep the momentum going, the Bears attempted a surprise onside kick, but got a little too antsy and touched the ball early, leading to great field position for the Tartans to respond. After a few short plays to slowly move the chains, junior quarterback Andrew Hearon escaped the pocket and ran to the one-yard line before getting shoved out of bounds. Sophomore goal line back Zach Cree was able to finish the job as he punched it in for the score, giving Carnegie Mellon the 7–3 led after a Kohman extra point.
+On the ensuing Washington drive, the Tartans forced a fourth down and presumably a punt, but instead saw a poorly executed fake that ended up with an easy interception by senior wide receiver Shae Sealey. The Tartan offense tried to take advantage of the stop, starting with a 40-yard run by first-year running back Sam Benger, who ended up with a career high 175 yards in the game. After slowly moving the ball into the redzone, a sack on third down, and a completed pass for lost yards on fourth caused Carnegie Mellon to give up the ball.
+The Bears took possession and proceeded to drive down the field for another field goal. The next possession for the Tartans saw a little trickery backfire, as Cree attempted a pass after lining up in the backfield, but had it intercepted. The next two drives ended in a punt for Washington and a Hearon interception for the Tartans before the Bears were able to drive down and make their third field goal of the game to take the lead 9–7, which is how the teams went into half after a missed Kohman 42-yard field goal attempt.
+At the start of the third quarter, neither team could move the ball very effectively, resulting in several punts before the Bears started driving with a little over half the quarter already gone, ending with their first touchdown of the game, pushing their lead to 16–7. The Tartans quickly responded with a field goal on the next drive off the leg of sophomore kicker Gabe Renna. As Washington drove to start the fourth quarter, it looked like they were headed for another score when junior cornerback Vince Demarchi made a clutch interception at his own three-yard line to keep Washington off the board.
+The next drive for each team ended in a punt, resulting in Carnegie Mellon getting the ball back with 2:27 left, down 16–10. Hearon proceeded to run the two-minute drill he had been practicing all season, calmly walking the ball down the field with a series of short throws and timely scrambles to set up the Tartans at the one-yard line with 11 seconds to go when Cree rushed in for his second touchdown of the game. The ensuing Renna extra point gave the Tartans the 17–16 victory. The last second victory gave Carnegie Mellon a 4–6 record for their 2014 campaign.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Carnegie Mellon women’s soccer won their first round matchup in the NCAA tournament 3–0 over Penn State Berks. Even the lopsided score does not justify how thoroughly Carnegie Mellon dominated the flow of play. The crowd engaged in some playful banter with the referee — not entirely unwarranted — but it would take more than just a few missed calls to put a dent in the conquering of the Tartans’ opponents. Carnegie Mellon was the faster, smarter, and more talented team from wire to wire, and convincingly advanced in the NCAA tournament.
+The first half frustrated the Tartans as they put up chance after chance with ill-timed mistakes and bad luck foiling the opponent, which led to a scoreless half. The Tartan’s first chance came just as the game started, when a cross was played into the box, slipping just past two Tartan forwards, setting the tone for a match where Berks could muster no real chances. Carnegie Mellon found more chances in the eighth, 10th, and 13th minutes. All of those times were close calls to breaking the deadlock, but Carnegie Mellon just could not find the back of the net. Berks’ deepest possession of the half appeared in a hopeless run into the corner that culminated in a corner kick that was quickly turned away by Carnegie Mellon’s defense.
+Carnegie Mellon’s best chance might have come in the 22nd minute when junior midfielder Carson Quiros beat two defenders and nearly slotted the ball into the bottom right corner, but the shot missed narrowly. Quiros did more than shoot; her presence in midfield played a huge part in Carnegie Mellon’s maintenance of the ball in the attacking third, mounting the pressure on Berks.
+The floodgates opened for the Tartans in the second half. Ten minutes into the half, the Tartans finally got on the board after a gorgeous chip from senior defender Lauren Simicich. She had been overlapping with some success all game, setting up lots of attacking play. The ball found senior forward Savina Reid on the right side of the box, who tapped the ball across the goal to sophomore forward Megan Bartoshuk. Bartoshuk then beat the Berks keeper on two touches by putting the ball into the right side of the net, pushing the Tartans in front 1–0. In the 66th minute, the Tartans added to their lead as junior midfielder Amanda Broderick put a corner directly in front of the goal while Reid split the keeper and a defender, putting Carnegie Mellon up 2–0. Carnegie Mellon continued to dominate and left no chance for Berks to redeem themselves.
+While the excellent work by Carnegie Mellon’s midfield and defense left sophomore goalkeeper Katie Liston with little to do during the match, she was on point when the moment called for it. Liston set the Carnegie Mellon record for shutouts in a season, with her 12th of the year. She has let in only six goals for the entire year.
+Carnegie Mellon’s third goal came in the closing moments of the game, as first-year defender Katie Strycharz and first-year forward Sienna Stritter set up first-year midfielder Nicole Winegardner, who beat the keeper to the right, and finalized the score at 3–0.
+Carnegie Mellon continued their tournament run after an overtime victory over Catholic Univerisity of America 2–1 on a winner from Bartoshuk.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+It’s not every day that a graduate with a statistics degree becomes involved in sports. That, however, is not the case for visiting assistant professor Andrew C. Thomas, whose many interests include stochastic methods for modeling relational data and development of computational methods for hierarchical models. Hierarchical models organize the lowest-level units in a data set into successively higher-level units. As a hobby, he applies his research on stochastic modeling to sports, and most recently, hockey.
+Thomas hosted the 2014 Pittsburgh Hockey Analytics Workshop on Nov. 8, where various sports writers and academia members involved with the subject presented their research findings on competitive analytics. Thomas started the event with a few opening remarks that emphasized the importance of interpreting data in terms of player potential and development, which can give coaches clues into how to improve players’ skill sets and game tactics in the long run.
+For this workshop, Thomas was accompanied by two of his research assistants: statistics Ph.D candidate Sam Ventura (who co-hosted the event) and junior math and economics double major Benjamin Zhang. Each presented his own competitive analytics project. Ventura presented on zone transition time, which is the time it takes to move the puck from the offensive zone to the defensive zone, and vice versa. 
+Ventura’s presentation postulated that the time it takes for the defending team to remove the puck from their zone, as well as the time they spend keeping the puck in the offensive zone, can all be estimated from a real-time scoring system. This is a technique that makes calculations in the moment.
+On the other hand, Zhang presented his findings on expected shot probability outcome, or ESPO, by blending chess methods with scoring rates. The ESPO is designed to track a team’s true merit by predicting game outcomes, shot ratios, and game ratios. A change in team skill causes the ESPO to change, useful in predicting real-time outcome at any point in the game. 
+The report can be expanded further to include factors such as home ice and score effects.
+These findings by Zhang and Ventura have the potential to bring significant insight into how methods of comparing teams and players — as well as probabilistic analyses of live, in-progress hockey games — can be improved. 
+Thomas suggested possibilities for their findings to improve technologies such as SportVU, which the NBA currently uses. This technology collects data via cameras that are placed all around the court. These cameras can capture any player’s actions at any time, even more subtle ones such as muscle movements before taking a shot, down to the millisecond. This accuracy, Thomas said, allows commentators and sports analysts to predict when a shot will be made, as well as the quality of the shot, or when a move will either cause harm or improve the team’s progress during the games. 
+Thomas predicts that analyzing numbers derived from such instances can assess a team’s current potential and predict the team’s progress in future games.
+“I’m encouraged that there’s a growing community of fans who are learning how we can ask these questions with the new kinds of data we have available,” Thomas stated during an interview.
+Indeed, there are fans who keep the questions coming including Thomas himself, who expects his next big draw to be in basketball after his term at Carnegie Mellon ends and he takes up role as a visiting professor at the University of Florida. 
+It looks like the Florida Gators can look forward to a new team member who can greatly impact how they play.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+[BOLD]Cross Country[BOLD]
+On Saturday, the Carnegie Mellon men’s and women’s cross country teams competed in the NCAA Mideast Regional.
+The women’s team placed seventh out of the 52-team field. Junior Liz Snyder led the team with her time of 22:10.0, qualifying her for sixth place overall. Senior Erin Kiekhaefer was the second Tartan to cross the line at the 22:46.1 mark and placed 25th overall.
+The men’s team finished first overall, led by senior George Degen and his eighth place individual finish with a time of 25:15.9. Junior Brian Bollens and sophomore Ryan Archer were the other top 20 finishers for the Tartans, placing 15th and 17th respectively, with times of 25:35.3 and 25:38.3.
+This was the men’s second regional title since 2008 and gives the team automatic qualification to the NCAA Division III Men’s Cross Country Championship this upcoming Saturday.
+[BOLD]Volleyball[BOLD]
+Carnegie Mellon hosted the Eastern College Athletic Conference (ECAC) Southwest Region Volleyball Championship on Saturday.
+In the semifinals, the Tartans faced off against Bethany College, where they squeaked out a victory in four sets, 25–20, 14–25, 26–24, and 31–29. First-year outside hitter Heather Holton led the team with 19 kills while sophomore defensive specialist Molly Higgins had a game high 25 digs.
+Next up for the Tartans was Geneva College in the finals. This time, Carnegie Mellon had a little less luck in tight games and was barely outplayed in the 1–3 loss 26–24, 23–25, 25–22, and 25–23. 
+Holton and Higgins again led the team in kills and digs with 18 and 33, respectively, while sophomore middle blocker Jackie Gibbons dominated at the net with a game high six blocks.
+This completed the Tartans 2014 season with a record 23–12.
+[BOLD]Women’s Basketball[BOLD]
+The Carnegie Mellon women’s basketball team opened its season on Saturday when they traveled to Waynesburg University.
+The Tartans jumped out to a hot start leading 8–1 in the first two minutes and never gave up the lead. Carnegie Mellon was able to take a 29–23 lead into the break after Waynesburg went on a 7–3 run into the half. However, a 9–0 run to start the second half allowed the Tartans to create and maintain a double digit lead the rest of the way to eventually win 80–67.
+Sophomore Lisa Murphy led both teams with 23 points while sophomore Jackie Hudepohl led the Tartans with eight assists.
+The Tartans play their home opener on Wednesday when they face off against Allegheny College.
+[BOLD]Men’s Basketball[BOLD]
+On Saturday, the Carnegie Mellon men’s basketball team opened its season by travelling to the University of Pittsburgh at Greensburg.
+The Tartans had a bit of a slow start, trailing until 2:51 was left in the first half when they were in the middle of a 16–4 run that eventually gave them a 41–36 lead. That lead was immediately relinquished when Pitt-Greensburg scored seven points straight to take a 43–41 lead into half.
+The Tartans finally took the lead back for good with a 17–4 run, with senior Seth Cordts and first-year Ryan Maha accounting for all 17 points. 
+Carnegie Mellon pushed to a lead as large as 11 before eventually winning 99–93.
+Cordts led the team with a career-high 34 points while sophomore Jack Serbin had a double-double with 13 points and 10 rebounds.
+The Tartans will have their home opener Tuesday against Geneva College.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+What is dark matter, and where is it? For many years, physicists have been exploring the very concept of dark matter, an invisible mass that is extremely important to our universe. On Tuesday, Nov. 11, Neta Bahcall, renowned astrophysicist and the Eugene Higgins Professor of Astrophysics at Princeton University, came to Carnegie Mellon to speak at the third annual Bennett-McWilliams Lecture in Cosmology.
+Bahcall started her lecture with a quote from the webpage of Carnegie Mellon’s McWilliams Center for Cosmology: “Visible matter … makes up only a small fraction of the matter in the universe. An elusive dark matter and a dark energy form the bulk of the universe.”
+Introducing dark matter and its effect as “one of the most fundamental questions in cosmology and physics today,” she then posed the question of how dark matter relates to what we can see through the telescope — in other words, how dark matter relates to visible stars and the light they emit. To offer a comparison, Bahcall first showed how darkness and light are distributed on our planet. However, she emphasized, what we have in the universe is not like what we observe on Earth. It is thus a vital task to study the effect and the distribution of dark matter in our universe.
+We know there is a lot of dark matter existing in clusters of galaxies, which is evidenced by the gravitational lensing of distant galaxies — the phenomenon through which the presence of dark matter warps light and causes multiple images to be captured by modern telescopes.
+But how exactly do we estimate the relevant data of dark matter? A classical measure is to use the comparison of distribution of mass and light, known as the mass-to-light function. Think of the following scheme: There are planes flying in the night sky. We cannot determine what the total mass of the planes is in the sky because we cannot see them. But once we can measure the light each plane emits, and once we know what one plane weighs, we can find out the mass density per unit light, which further gives us an idea of the mass of the “dark” planes. Similarly, the mass-to-light function tells us the ratio between mass and light for galaxy systems.
+This method yields the result that, assuming our sun has a ratio of one solar mass per solar luminosity, then our universe has a value 300 times as large. That suggests the presence of a huge amount of dark matter. Additionally, if we plot the function of mass-to-light with respect to the scale size, we would find that the mass-to-light ratio increases as we go to larger and larger scales: galaxies, groups, clusters, etc. Clearly, when we go to a larger scale, we will have much more mass and much more light. But the fact that the ratio grows reveals that as we go from, say galaxies to groups, we have much more matter than light.
+One way to interpret this is that clusters are even more dominated by dark matter than galaxies. This analysis, Bahcall pointed out, shows that “most of the dark matter is in huge haloes around galaxies.” 
+Nevertheless, it was noted that we do not expect such a ratio would go on increasing forever; actually, the matter-to-light value flattens on very large scales. 
+“We do not have more and more dark matter as we go to larger and larger scales,” Bahcall said. This flattening out means that mass and light trace each other very well: Mass and light “know” where the other is.
+The method of studying gravitational lensing, according to Bahcall, is so far “the best way to determine mass directly, on any given scale.” Recent relevant research again confirms that, beyond some hundreds of kilo-parsecs, mass and light trace each other very well, making the function flatten. Since this measurement is really the average of hundreds of thousands of systems in the universe, it is believed to be quite a good estimation.
+Thus, we are able to find the mass-to-light ratio and get the mass density in our universe. The final result turns out to be 25 percent of the critical density, a hypothetical value at which the expansion of the universe would cease. Such a result is found to be consistent with many observations made so far.
+Further, the result also indicates that most of the dark matter seemed to be contained in the haloes around individual galaxies. The mass of such haloes dominates the total mass. Even though the dark matter halo cannot be observed directly, its existence can be deduced from its gravitational influence on the stars and gases in galaxies. When all this information is combined, dividing the mass-to-light value by the fixed stellar-mass-to-light value tells us that, in reality, the stellar mass only accounts for one percent of the total mass in our universe. Such a value is approximately valid for all scales above 300 kiloparsecs, in essence because of how gas and stars were formed in the early stage of our universe.
+So what do we have now? Bahcall concluded the lecture by using the image of darkness and light on Earth, which she showed at the beginning of her lecture, again. Unlike the case on Earth, where the dark places are solid continents, in the universe, “wherever we see the light, that is where the dark matter is distributed,” Bahcall said. In other words, mass and light follow each other perfectly. 
+This information of dark matter distribution tells us, as Bahcall put it, “quite an amount of information” — not only the nature of dark matter, but more importantly, how they are put together to form the whole skeleton of the great universe as we know it.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Researchers have had recent success in understanding the genetic basis for neuropsychiatric diseases. 
+Kathryn Roeder, an assistant professor in the department of statistics and the Lane Center for Computational Biology at Carnegie Mellon, and Bernie Devlin, professor of psychiatry at the University of Pittsburgh, recently led an international research team that successfully identified 33 genes that contribute to autism risk. Their study, published last week in Nature, utilized new approaches that take advantage of all the information that can be learned when comparing genetic data.
+According to the Autism Society of America, almost one percent of the world’s population is autistic, and autism affects more than 3.5 million Americans. Scientists are trying to understand what causes the disease so that therapies can be developed.
+The human genome contains over 20,000 genes, and it remains a challenge to identify the genes that form the basis of complex diseases. Roeder has devoted her time to using statistical and computational approaches to identify the changes in proteins at the molecular level that could lead to the symptoms of autism.
+She explained that previous approaches compared the genomes of children who have autism and their parents to identify changes in the DNA that would cause loss of function mutations in a gene. It is important to determine whether these changes are statistically significant and found in enough of the patient population. In other words, the changes must not be due to random chance, but must instead be directly related to the disease.
+Roeder explained that, using this established method, they had identified nine genes, but the progress was slow. She knew that they “had a long way to go to making significant progress and would never make it there in a reasonable time.”
+Roeder and Devlin noticed that many of the children and parents that were analyzed were simply ignored because there were many significant changes that directly caused mutations. Also, there may have been unique cases where the mothers might have contained the mutation and passed it on to their child, but were not autistic themselves because women are more robust to autism than men.
+In essence, Roeder and her collaborators built a model that utilized both the important changes and the less significant changes to rank genes in relation to the disease. Using this method, she explained that they were able to identify relevant genes “twice as fast.” However, Roeder expressed that simply identifying a list of genes does not directly mean that we are immediately closer to a cure. Roeder focused largely on determining the relationships between the genes and the roles they play in biological processes.
+Now that this research has identified interesting genes to explore, other scientists can perform direct biological experiments by knocking out the gene of interest and identifying the phenotypic changes that lead to autism.
+Roeder was amazed at the cooperation between the numerous collaborators that contributed patient data for this study and believes that the sharing of data to benefit the bigger whole is necessary for significant progress moving forward.
+She will continue to work on the project to identify when and where these genes are active. For example, if a gene is found to be relevant in the frontal cortex during development, biologists will be able to develop treatments that directly target the causes of autism. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+This week, in lieu of our weekly meeting, Pugwash invited investigative journalist Jeremy Scahill to take part in a discussion on technology and warfare of the United States’ involvement in the Middle East. Scahill is known as one of the founding editors of The Intercept, a platform used for the distribution of Edward Snowden’s documents involving the NSA. He has written two successful non-fiction novels, Blackwater: The Rise of the World’s Most Powerful Mercenary Army and Dirty Wars: The World is a Battlefield, which is now a documentary film. In a discussion attended by Carnegie Mellon students, as well as members of the public, focus turned to unmanned aerial vehicles, commonly known as military drones.
+Scahill first explained why drone warfare has become so prominent in the Middle East. He voiced that drones were introduced to the United States’ leaders as a way to “sanitize war.” The use of drones not only offers more precise attacks but also reduces the necessity for U.S. ground troops, leading to fewer deaths. Drone usage is marketed as being more strategic than conventional warfare.
+There are a lot of misconceptions about drone warfare. The use of drones is far less emotionally removed than the general public believes. Scahill pointed out that although drone pilots are physically far from the battlefield, they still experience post-traumatic stress disorder. Drones are also less prominent than many other military aircrafts. Scahill noted there are only six stations in the world that participate in drone strikes. He also explained that oftentimes, the media incorrectly attributes strikes from manned aircrafts to drone attacks.
+Scahill emphasized that the problem isn’t actually the drones, but how drones are interfering with United States policies. Scahill stated that Obama is now expanding foreign policy powers to give the United States military the ability to use drones more secretly and more often. Scahill asserted that the executive branch is presenting this pro-assassination policy as a way to prevent more American casualties to satisfy the public, which makes it easy to explain to the public why drones are killing terrorist-affiliated targets without due process and ignoring international laws. The solution, Scahill claimed, is not to ban drone warfare, but for policy makers to realize that conducting drone wars is wrong. Unmanned aerial vehicles are vicious and effective weapons, but the real danger is  in the immoral ways to conduct warfare that they have made possible.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+In a world in which we rely so much on our touchscreen devices, it’s hard to imagine that such technology did not exist until a few decades ago. But, in fact, touchscreen technology had a long history before it became that smartphone in your pocket.
+Historians believe that touchscreen technology first emerged in the 1960s. At the Royal Radar Establishment in Malvern, U.K., E.A. Johnson introduced capacitive touch. A decade later, American inventor Dr. G. Samuel Hurst developed the resistive touchscreen while conducting atomic physics research at the University of Kentucky.
+Later, in the 1980s, a number of researchers were involved in the development of multitouch technology, including Nimish Mehta, Myron Krueger, and Bob Boie. At the same time, touchscreens were beginning to be heavily commercialized. In September 1983, the Hewlett-Packard Company (HP) introduced the HP-150, which was a computer that used infrared (IR) emitters and detectors to sense the user’s touch. However, not only was HP-150 costly, but it also possessed some usability issues.
+Then came the 1990s, when touchscreen technology was applied to smaller devices in the form of cellular phones and personal digital assistants (PDAs). The Palm Pilot PDA found the most success during the era, especially in the business world. However, it wasn’t until the 2000s that the advancement of touchscreen technology began to elevate dramatically. The world was in for a shock when, in a 2007 Apple press conference, Steve Jobs demonstrated the slide-to-unlock and swipe-to-scroll hand gestures on the first iPhone. The rest is history.
+But how exactly does a touchscreen work? In truth, there is no straightforward answer, as touchscreens come in multiple variations. Here, we will explore the basics of a few existing touch technology systems.
+As mentioned earlier, capacitive touch was the first touch technology to be developed. In a capacitive device, the capacitive system is located on a glass panel of a monitor, which consists of inner and outer metallic glass layers that conduct electricity. Sandwiched between the layers is an insulator. When you bring your finger toward the screen,  you take in some of the charge from the capacitive layer. The decrease in charge of the capacitive layer is quantified by circuits situated at the corners of the monitor, allowing a computer to determine exactly where you touched the monitor. The computer then sends the calculated location to touchscreen driver software. In contrast to capacitive touch, resistive touch transmits less light from the monitor, providing a less clear picture. Nevertheless, resistive touchscreens are inexpensive to produce, making them the most popular design used. They have the ability to recognize multi-touch input, which has given rise to many of our current touchscreen devices.
+Similar to the capacitive system, the resistive system is made of two layers with an insulator. However, in a resistive system, the upper layer is composed of a flexible and conductive, polyester plastic. As you press your finger on a resistive screen, you bring the polyester into contact with the glass, which creates a circuit. In comparison to the capacitive system, the resistive system is more accurate in calculating the coordinate location of your touch as it takes note of the change in the electric field.
+There are also touchscreen technologies that can sense your fingers through sound. In a surface acoustic wave (SAW) system, the glass plate of a monitor contains transmitting and receiving transducers, as well as reflectors, that are positioned along the perimeter of the screen. Ultrasonic sound waves are reflected from one transducer to the other. However, when you touch the screen, you disrupt the flow of sound beams, while also absorbing their energy. The location of the touch can then be recorded by the receiving transducer. Possessing no metallic layers, the system has excellent light transmission, making it ideal for displaying high quality graphics.
+As touch systems continue to advance, the consumer world continues to demand more current technology. At the same time, the explosive growth in technology within the past decade foretells a future of endless possibilities. But as we continue to tap or swipe our phones or tablets, we should not lose sight of the extraordinary human collaboration that went into creating the touchscreens that, decades ago, could only be found in science fiction and movies.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Whooping cough booster shot safe for pregnant women
+Researchers from the Health Partners Institute for Education and Research in Minneapolis, Minn. have determined that pregnant women can safely get a Tdap booster shot during pregnancy without increasing the risk of their having problems during birth. The Tdap booster shot protects against tetanus, diptheria, and pertussis, also known as whooping cough.
+The Centers for Disease Control and Prevention (CDC) recommend that women receive the Tdap booster during the last few months of pregnancy in order to protect themselves against pertussis, and also provide protection for the newborn, which is otherwise unprotected until eligible for the shot at two months old.
+The results of this study have been published in the Nov. 12 issue of The Journal of the American Medical Association.
+Source: Science News
+New technology improves lung cancer detection
+John Roeske, a professor of radiation oncology at Loyola University Chicago Stritch School of Medicine, along with a team of researchers, has developed new technology that allows for improved detection of early-stage lung cancer during radiation therapy.
+The technology combines the current method of dual-energy imaging with fluoroscopy, which allows for enhanced visibility of tumors. The researchers believe this new technology could be cost-effective for hospitals because the combined approach would require new software and, therefore, would not require the hospital to replace their current X-ray machines.
+Roeske and his colleagues have patented this technology and recently presented this research at the annual meeting of the American Society for Therapeutic Radiology and Oncology.
+Source: Science Daily
+Jupiter’s Great Red Spot caused by ultraviolet light
+Researchers at NASA’s Jet Propulsion Laboratory in Pasadena, Calif. have discovered that Jupiter’s Great Red Spot is caused by chemical decomposition due to sunlight. Using ultraviolet light to simulate the sun, they discovered that breaking down ammonia and acetylene, two chemicals known to be found on Jupiter, produced a color similar to that of Jupiter’s Great Red Spot. 
+The researchers also determined that this color is greatly dependent on altitude. The Great Red Spot’s extremely high altitude allows for ammonia particles to be higher in the atmosphere and, therefore, closer to the sun, which facilitates the break down of ammonia and acetylene. This decomposition is also promoted due to the vortex shape of the Great Red Spot, which traps ammonia particles in a single location.
+Source: Science Daily
+Serotonin shown to mediate pain and itch in mice
+Researchers at the Washington University School of Medicine in St. Louis have determined that serotonin, a chemical messenger produced in response to pain, is also involved in the regulation of itch.
+The researchers found that mice with decreased serotonin levels didn’t respond as much to itch-causing irritants as mice with normal serotonin levels. They discovered that mice’s response to itch is regulated by A1 and gastrin-dependent peptide receptors activated by serotonin. When a mouse scratches an itch, pain causes the release of serotonin. This release activates the two regulatory receptors, which cause the mouse to again experience an itch. Researchers believe this mechanism explains why, excluding immediate relief, scratching increases itchiness instead of reducing it.
+Source: Science News
+U.S. and China commit to carbon emission cuts
+On Wednesday, Nov. 14, President Obama and President Xi Jinping of China announced their commitment to achieve specific cuts in carbon emissions. 
+President Xi Jinping declared that China’s carbon emissions would peak around 2030. President Obama announced that, by 2025, the United States would cut emissions by at least 26 percent from 2005 levels.
+Despite these concrete goals, experts still say these cuts are not enough to prevent an increase in global temperature of 3.6 degrees Fahrenheit, which is thought to be the point at which global warming will become irreversible. These targets are precedents to the 2015 United Nations Climate Change Conference set to begin Nov. 30. 
+So far, no other countries have announced specific plans to reduce emissions.
+Source: The New York Times
+Link between depression and infectious disease
+In a recent paper, Turhan Canli, associate professor of psychology and radiology at Stony Brook University and the director of Stony Brook’s Social, Cognitive and Affective Neuroscience Center, has suggested that major depressive disorder (MDD) be considered an infectious disease.
+He supports this suggestion by noting that patients with MDD exhibit behavior that suggests an illness-related cause, that parasites, bacteria, and viruses can alter emotional behavior, and that microorganisms greatly affect physiology and genetics. Canli proposes that research on depression should be shifted toward explicitly defining the link between MDD and infectious disease.
+Source: Science Daily
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+So, a bit of a disclaimer here — I don’t really like Walk the Moon’s music. As in, they’re not something I would ever listen to recreationally. However, I don’t think that fact impacts my enjoyment of the concert at all for a few reasons. First of all, the music I can actually listen to recreationally, and the music I can have fun with at a concert or a party fall into two very, very different spheres. Second, there’s a lot more to a concert than the actual music — stage persona, the crowd, the venue, and more can all have a huge impact on the enjoyment of a concert. So whether I liked the concert, and I did for the most part, is more of a culmination of other factors, namely Walk the Moon’s infectious on-stage energy and their willingness to experiment, than solely a statement of how enjoyable their music is.
+Walk the Moon is an indie pop rock band based in Cincinnati, Ohio with two feature length LPs already out and a third, Talking is Hard, to be released in December. Their show on Saturday in Wiegand Gymnasium, presented for free by AB Concerts as the official Fall Concert, was mainly based on tracks from their first self-titled album, from which you may remember the track “Tightrope,” which got quite a bit of radio airplay.
+Without getting into review territory here, they sound exactly like you expect a band that has toured with Panic! at the Disco and Grouplove to sound. Their music consists of simplistic lyrics, poppy synths, and catchy choruses. However, this simplicity translates pretty well to a concert atmosphere. The danceable melodies went hand-in-hand with lead singer Nicholas Petricca’s enthusiastic energy, which inspired the crowd to fistbump and bounce up and down, as we’ve all seen at numerous Carnegie Mellon parties and concerts. Despite the crowd’s unwillingness, or perhaps inability, to attempt something that resembles dancing, seeing Petricca stomp and groove on stage almost made up for it. The rest of the band played their part as well, not being afraid to mix things up by adding bass lines or stripping down some of the synths. I even saw the guitarist occasionally dig deeper past the same three pop chords in his repertoire.
+Of course, Wiegand Gymnasium is not really the optimal venue for anyone, but every single time a function is held there, I’m surprised at just how much AB Concerts can transform the gymnasium into something that actually looks like a place where you would hold concerts and functions. It really does have an entirely different feel, and especially when you’re focusing on the stage, you almost never get the feel that you’re actually in a gym. However, by the time I arrived the crowd didn’t fill in anywhere near the spacious area, which was a bit disappointing. Perhaps they should have released more tickets. Still though, AB Concerts did a fantastic job with the space.
+Admittedly, the concert was over before it should have been. At 10:30 p.m., when the concert ended, it seemed like a lot of people were surprised, but that might be a testament to how much they enjoyed the concert. In sum, it was definitely an experience not to be missed, particularly if you are actually a fan of Walk the Moon or enjoy that genre of music in general.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+New York Times bestselling author Lauren Groff visited Carnegie Mellon on Tuesday evening to deliver a reading from her upcoming novel Fates and Furies and an in-progress short story. Before taking the stage at Kresge Theatre in the College of Fine Arts, she sat down in the Baker Hall Swank Room to answer questions from students in a fiction workshop taught by Kevin González, a creative writing professor.
+The students, including myself, had read her most recent novel, Arcadia, one of the best books of 2012 according to Kirkus Reviews, The New York Times, NPR, and several other media outlets. Students asked Groff about the novel, which is about the life of Bit Stone. Born on a hippie commune in upstate New York, Bit is forced to adapt to life “Outside” after the commune collapses, all the while navigating complex relationships with his mother, wife, and daughter.
+Among the advice she offered students was the need to be passionate no matter what path they choose to pursue. She said that students need only “one thing for a career: You have to say ‘I’m going to f****** do this.’”
+After discussing craft and her unique method of revision, which centers on rewriting the entire story by hand multiple times without referring to earlier drafts, the class made its way to the Center for Fine Arts where a small crowd had gathered to hear Groff’s reading.
+González introduced Groff by listing her accolades and relating a humorous story about the time her insistence that Pittsburgh is a Midwestern city, and not in the mid-Atlantic or on the East Coast, led to the two of them and a third anonymous writer getting kicked out of a taxi in Texas. He concluded by saying “Her prose will mend and break and mend and break your heart.”
+Groff took the stage and read first a short story featuring an au pair who runs away from home shortly after returning to the United States from France. She then read from Fates and Furies, a novel centered around marriage.
+The passage Groff read, which involved the protagonist reflecting on the day she became a wealthy widow, had flashes of humor against a poignant backdrop, much like the short story and Arcadia. She delivered her readings in an easy voice with a cadence described by students as “hypnotic.” She only altered her voice slightly to the dialogue of different characters, enough to highlight the difference in accent or tone without trying to actually speak as that character. Her reading was overall easy to listen to and provided an excellent way to experience her strong, yet subtle, writing.
+After the reading, Groff joined students and faculty for hors d’oeuvres outside the theater.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Trojan Women: A Love Story, the School of Drama’s latest production, is a modern reinterpretation of the aftermath of the Trojan War. The play opens with a classical Greek chorus. Actors wearing masks appear before a curtain, one representing Hecuba, and the others representing  women who lament the fate of Troy. Then an explosion, representing the nuclear bomb that has been dropped on the city of Troy in this modern adaption, blows the chorus away and the curtains open to reveal a home torn asunder as if by an earthquake. The frame is disjointed from the rest of the house, the furniture is thrown about, and the people and their possessions are littered on the floor.
+More of a character study than a plot-driven play, Trojan Women focuses on how each individual woman has been affected by the destruction of Troy. As junior dramaturgy major Kate Robinson explains in the program, “We do not seek to recount the death tolls, the threats, or the politics behind these contemporary struggles, but rather the stories of the subjugated, the victimized, and the plundered: those seen as objects to be traded, or prizes won.”
+Queen Hecuba of Troy, played by senior acting major Olivia Lemmon, delivers a powerful opening monologue to set the scene. Troy is “a world destroyed by those who thought themselves the creators of civilization,” where “optimists believe they will be buried next to their families,” and “the world is a bleeding wound lit by the sun’s last glow.”
+From the wreckage emerge the other members of the royal household: Hecuba’s daughter-in-law Andromache, played by senior acting major Colleen Pulawski, twirls onto the stage in a printed flower dress and a heart heavy with resentment. She is upset that her spotless reputation, which she strove to maintain at the cost of personal fulfillment, is now meaningless in the face of the destruction. Furthermore, the Greek soldiers discover her infant son and rip him from her arms to be killed, leaving Andromache sobbing that her desperate measures to protect her son were all for nothing.
+Suddenly, the prophetic princess Cassandra, played by senior acting major Madeline Wolf, pops up, singing “Crazy” by Gnarls Barkley. It’s an abrupt mood killer to what had been a very touching scene, especially since the character is so maniacal and brash. Cassandra’s anger and energy incites the other women, but she quickly runs off stage as the Greeks chase after her.
+Polyxena, played by senior acting major Cathryn Dylan, is Hecuba’s youngest daughter, whom the Greeks want to sacrifice. It is apparent that she is young, as her clothes all seem to have been bought from Hot Topic. Polyxena gives herself up despite her mother’s willingness to be sacrificed in her stead. 
+She then starts a rather awkward conversation about why men don’t call before she is ripped from her mother’s arms.
+Helen, played by senior musical theatre major Maya Maniar, gets the full spotlight treatment when she walks on stage dressed in (there is no way to put this tastefully) stripper-iffic lingerie. Helen is the character deserving the least sympathy; she is least affected by Troy’s woes and blames everyone around her for why she left with Hecuba’s son Paris for Troy, starting off the decade-long war between the two nations.
+After Polyxena dies and Hecuba sees the body, she declares “savagery must be answered with savagery.” This realization prompts her to seek out her hiding son Aeneas and tells him to gather whomever is left in Troy, flee, and one day take revenge on the Greeks.
+The play emphasizes the fragility of women and brutality of men, but also offers more of a nuanced view on gender politics. The Greek soldiers, portrayed by senior musical theater major Philippe Arroyo and senior acting major Luke LaMontagne, are opportunistic brutes who try to justify their behavior, while the Greek messenger Talthybius, played by senior acting major Brady Dowad, is a diplomat in suit and tie who is rigidly duty bound. Helen’s husband Menelaus, played by senior acting major Sawyer Pierce, wants to kill Helen but eventually his lust for her is greater than his wrath. There is also Aeneas, the Trojan prince who is just as shattered as any of the women of Troy, but who the women brand as a coward.
+The most interesting parts of the production are the exchanges between the Greeks and Trojans. At times, they sling insults at one another. At other times, they come to a quiet tolerance and occasional moments of pity. There is such a fluid line between enmity and humanity, as well as disgust and sympathy. It’s not quite a love story, but it’s definitely an interesting conversation between the conquered and their conquerors.
+However, the play seems to meander a lot in tone and direction. There doesn’t seem to be enough focus on one particular character or subject to establish a strong connection with them. Also, some of the music featured in the play can seem strange. At the end, Polyxena with her throat cut sings a song called “I Don’t Want to Grow Up,” which sounds like it should be at the end of a quirky indie film rather than a play about war and destruction. Furthermore, the play’s numerous reworkings, from ancient Greece to the 18th century to modern day, results in dialogue that is partly formal and prose-like, mixed in with modern day language, references to TV, and explicit references to sex. It seems wildly foreign to any time period, whether Greek antiquity or modern day.
+These odd shifts in tone can make it challenging to follow Trojan Women at times, and it can be unclear whether the play is trying to be tragic and harrowing, ironic, or objective. Though there are many individually engaging scenes and aspects of the play, the overall work would benefit from being more structured around a central tone. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+If for nothing else, 23-year-old trap producer RL Grime will certainly be remembered for his excellent moniker. To a generation whose bookshelves all contained at least one *Goosebumps*I title, the name sticks no matter what you think of his music. That being said, Grime, who has been building a following ever since his massive remix of the Kanye West posse cut “Mercy” dropped in June of 2012, is certainly a cut above other artists in the genre.
+Whereas most producers go for rinse-and-repeat snare builds and lumbering drops, Grime knows how to add little flourishes that make his tracks stand out. After a slurry of singles, including “Infinite Daps,” a collaboration with former touring partner Baauer, and the 2013 High Beams EP released by A-Trak’s label Fool’s Gold, Grime has arrived with his full-length debut, Void.
+Out today on WeDidIt records, Void shows Grime expanding his sound to touch a number of different markets. While the traditional American trap sound is there — a style borne out of the Atlanta rap scene of the late 90s and early 2000s — Grime incorporates elements of European house music and pop sensibilities. The questions is: can an artist spread their sound so thin and still retain their individual identity? Void demonstrates that, perhaps, they can’t.
+The album begins with the dreamy “Always” before an ominous bass signals the beginning of “Danger,” a collaboration with German house producer Boys Noize. The song begins with hard, banging drums before falling into a bouncing Euro-house beat. This is certainly a large departure from the heavy trap of early Grime tracks like “Flood.” This kind of shift toward more popular forms of dance music is present throughout the album, and is indicative that Grime is trying to cover every base he can. He wants his songs in Parisian clubs, festival stages in Middle America, and everywhere in between.
+While Grime changing up his sound isn’t necessarily a bad thing, there are other elements on Void that feel aimed at capturing a wider audience that fall completely flat. Exhibit A? “Kingpin,” a collaboration with Detroit rapper Big Sean, which never should’ve left the theory stage. Big Sean screams a bunch of nonsense in one of the most annoying rapper yells ever to grace a digital file. The beat sounds like it could’ve been made by anyone — nothing special, just bass and drums with a bunch of bells in the background. Sean stumbles through some awkward semblance of flow. It’s a shame because if Grime hadn’t gone for star power and instead found a rapper with a reputation for skill, this track easily could’ve been a highlight. Picking through the “lyrics,” it turns out Sean has a thing for foreign girls who don’t speak English. It must be painful to have all of one’s relationships remain so surface level. Perhaps there’s a deeper pain in Big Sean, buried beneath his obsession with big asses.
+Where Void shines is the places where Grime does what he built his name on: trap bangers. Album highlight “Valhalla” kills with out of control snare drums and machine gun bass.
+“Core” pulls out all the stops, and takes an unexpected move at the drop. Instead of exploding in a fury, Grime lets the bass slink out, giving the track more of a groove than normally exhibited in the genre. “Scylla” is a moment where it all works; the blending of new, big-room-friendly Grime with the bangers of his past. A nice crescendo into an epic drop, full of all the proper bells and whistles that made Grime a standout in the genre.
+The most interesting moment on the album is the experimental “Site Zero/The Vault.” Grime takes listeners on a roughly eight-minute musical journey here, complete with distinct movements that communicate vastly different feelings while flowing into one another. Of the many styles and directions Grime throws around on Void, hopefully this is one that he sticks with. It’s a far better use of his talents than some of the pop-friendly crap.
+RL Grime is rapidly ascending to become one of the top artists in the trap genre, mostly due to his ability to cross genres to increase his appeal. I’ve heard underground DJs mix his songs into sets during a 2 p.m. side stage slot, and then hear the 9 p.m. main stage headliner do the same. Now that he’s got a full-length under his belt, as well as a headlining tour that’s currently crisscrossing North America, it’s not crazy to say that Grime will be conquering the world by next summer.
+I just wish he’d play “Mercy” again.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+If I Stay
+Friday, Nov. 21 — 8, 10:30 p.m.
+Sunday, Nov. 23 — 8 p.m.
+If I Stay is a movie based on a young adult novel of the same name. It focuses on Mia (Chloë Grace Moretz), a talented teenage cellist who gets into a car accident and experiences an out-of-body sensation. She can see herself and her family lay lifeless on the ground as she wonders around the crash site while the paramedics take her to the hospital. Throughout the whole movie, she is in a coma, deciding whether or not to wake up. The suggestion of heaven is also very strong throughout this movie, with the allure of the “white light” as a constant theme. But rather than being a movie about Mia’s struggle for life and death, it turns into a straight-up Hollywood love story revolving around her rocker boyfriend Adam (Jamie Blackley). The movie flashes between the present and past scenes from their relationship. It’s clear that this movie did not care so much about the integrity of the book and more about just finding a way to capitalize on the success of The Fault in Our Stars.
+Divergent
+Saturday, Nov. 22 — 8, 11 p.m.
+Following with this weekend’s theme, Divergent is also based on a young adult novel, but this time of the dystopian persuasion. Divergent takes Shailene Woodley out of her Secret Life of the American Teenager obscurity and into the shoes of Tris Prior, a headstrong 16-year-old girl. In the dystopian Chicago future, there are five factions. The selfless go to Abnegation, the peaceful go to Amity, the honest go to Candor, the smart go to Erudite, and the brave go to Dauntless. On their 16th birthdays, all children go through a Choosing Ceremony where they are assigned to one faction. But the kids that are assigned to more than one are labeled as Divergents, hence the title. And guess what? Tris is a Divergent, more specifically, Abnegation, Erudite, and Dauntless. I smell a moral a’brewin’. She can’t be put in a box, fellas. Anyway, Tris chooses her non-native faction and, throughout the movie, learns the way of her new faction, forcing her to step out of her comfort zone.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Dear Evan,
+I went to Palo Alto for a critical job interview this weekend, and I think it went really well. There’s just one problem: I spent all my time getting ready for the job interview and neglected to do any of my coursework. Now it’s Sunday, and some friends want to go out for drinks, but I’ve got a couple huge problem sets to wrangle before tomorrow. Should I stay behind and get my work done, or go get wasted and sleep on the plane ride over?
+Worriedly,?
+Gently Ruminating At Day’s End, Already Engorging Generous Gulps of Hefeweizen, like an Eye of A Duck
+Dear GRADE-A EGGHEAD,
+You’re such a good student! It makes me want to punch you.
+Go out for drinks! You probably just won a job — that’s what you’re in school for! Yes, I understand, you go to Carnegie Mellon, you have a reputation to maintain, a QPA to keep up, gobble gobble gobble gobble. What’s life without the possibility of throwing up on a plane the morning after?
+It’s about time for you to catch the disease that’s sweeping the nation. No, I’m not talking about Ebola. Don’t you remember senioritis from high school? Probably not — you were probably the only kid who showed up to his AP Government class with the blubbering, senile, regrettably tenured teacher during the last week of school. 
+Nice oddly placed Black Books reference that no one’s going to get,
+Evan Kahn
+Dear Evan,
+I’ve been keeping this secret pent up for months now, and it’s beginning to be too much to bear. I’ve started biting my nails; my hair’s started going gray. I just have to tell someone, and since I don’t have any friends or money for a psychiatrist, The Tartan is the next best thing.
+I’m still playing 2048. Every day. I’ve gotten the 8192 tile, and I can’t stop. Should I kick the habit? Keep going?
+Please hurry,
+Dire Repercussions, Upset if Game Gets Impromtorily Erased 
+Dear DRUGGIE,
+You know, I used to have the same problem — but then I came to terms with my addiction, and it’s made me a better person. Now I don’t hide the fact that I play 2048 during class, or when I’m hanging out with friends. It’s made me a much happier person.
+What color is the 8192 tile, by the way?
+Evan Kahn
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Despite gray skies and near-freezing weather for most of the day, Conflict Kitchen’s reopening last Wednesday — after it closed due to a recent letter containing death threats — was met with all-day traffic and enthusiastic support. On the day of the reopening, a line stretched from the counter to the edge of Schenley Plaza, accompanied by a visible police presence. The restaurant, which aims to promote cross-cultural understanding, currently offers a menu of authentic Palestinian street food.
+Conflict Kitchen attracted local and international media attention as a result of controversial statements printed on pamphlets distributed along with meals at the counter. The pamphlets contain a collection of quotes from Palestinians both locally, in the U.S., and in the Middle East on subjects related to general American perceptions of life in Palestine. The quotes, some Carnegie Mellon students and media outlets said, are anti-Israel.
+Conflict Kitchen received a death threat the week before last, causing the restaurant to temporarily close. In the meantime, the University of Pittsburgh’s chapter of Students for Justice in Palestine organized a series of sit-ins. 
+Students met for an hour Nov. 10–12 and showed support for Conflict Kitchen’s goal of spurring dialogue and understanding about the current Palestine-Israel conflict. They left numerous messages of encouragement and support for Conflict Kitchen — both as a concept and as an establishment — attached to the front of the store, which were still there during the reopening.
+Culinary Director of Conflict Kitchen Robert Sayre said that the reopening had good energy, and that they saw the same number of customers as on a peak day despite the inclement weather.
+“Obviously [receiving the death threat] was not a pleasant experience,” Sayre said, “But the community response does make you feel a bit blessed.”
+Sayre continued to say that he was very pleased by the showing of support and the help provided by the University of Pittsburgh Police Department.
+Michael Moody, one of the patrons standing in line to order at Conflict Kitchen, had dual motivations for braving the cold weather. 
+“I haven’t tried the Palestinian food yet,” he said. “And I wanted to make sure they know people [are] interested.”
+“Regardless of any bias, they’re personal statements,” Moody said of the quotes on the Conflict Kitchen materials and the reaction they have provoked. Moody felt that Conflict Kitchen was intended to give voice to people whose voices were generally not heard by the public more than to support one side over the other. “It’s a shame people don’t appreciate its purpose,” he said.
+Another patron the day of the reopening was Anna Rosati, a sophomore drama design and production major, who was quickly finishing her order before it grew cold in the near freezing air.
+“I think Conflict Kitchen is an important thing with a really great intent,” Rosati said, feeling it was a worthwhile goal to help people understand other places as other cultures, not governments. “All you hear is what our government and theirs are doing.”
+Rosati stressed the importance of understanding that while governments are interacting with each other, individuals and societies are not necessarily the same thing as their governing bodies.
+She expressed dismay, but not surprise at the death threats. “In anything there are going to be extremists who take what they learn and apply [it] in a narrow way.”
+Despite the death threats, Conflict Kitchen’s first day back turned out to be quite a success.
+However, Conflict Kitchen may likely remain at the center of discussions for some time yet. Tartans 4 Israel, described as a “Zionist group” by the Hillel Jewish University Center website, will be hosting a “Co-Existence Kitchen” on Nov. 19 in reaction to the perceived anti-Israeli sentiment of Conflict Kitchen.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Carnegie Mellon robotics professor Martial Hebert became the director of the university’s Robotics Institute as of Nov. 15, after the Robotics Institute announced the change in leadership on Nov. 6. Hebert, who specializes in computer vision and perception in autonomous systems, will replace robotics professor Matthew Mason as director.
+Hebert’s recent promotion to director is the latest development in a long and successful career at Carnegie Mellon University. He has worked in the Robotics Institute for over 30 years, after emigrating from the Parisian suburb of Chatou, where he was born. Throughout his career at Carnegie Mellon, Hebert has focused on computer vision and perception, which involves teaching computers how to understand visual data. Understanding visual input is a skill that can impact a wide range of different types of technologies in fields like personal computers, construction technology, or military field applications, Hebert said.
+“Any system that interacts with its environment must understand its environment, just like we need to see,” Hebert explained. “Vision is not the only way to understand the environment — one can understand by touching and so forth — but in my case, I’m working with the vision part.”
+Hebert’s research has far-reaching implications for any technology that interacts with its environment, from smartphones to personal robots to autonomous vehicles. In fact, Hebert worked on one of the first autonomous vehicles in 1988.
+Hebert emphasized not only his own research, but also the work of other campus members. “It’s not just my work,” he said. “It’s the work of this community.”
+Hebert has an appreciation for what he described as the Robotics Institute’s communal culture. As director, he will be responsible for charting the Institute’s future course in terms of research and its general visibility. But Hebert emphasized the importance of the faculty’s contributions to the Institute’s rich intellectual life. “[The Institute] is the kind of organization that is a very grassroots organization. We don’t rely on top-down directives. We have amazing initiatives from individual faculty.”
+One of those initiatives is the Institute’s new master’s degree program in computer vision. The program is the first of its kind in the U.S., and is accepting applications for its inaugural class this year. While many universities offer courses in computer vision, full-fledged programs at the undergraduate level are very rare, and programs at the master’s level have been practically nonexistent. However, industry demand for scientists with background in computer vision is rapidly growing, Hebert said, and the master’s program is a response to that increasing demand.
+Associate professor of computer vision and robotics Srinivasa Narasimhan stressed the importance of the new program. “For a long time, computer vision has stayed inside a lab,” Narasimhan said. And it’s time to move out into the real world. We’ve seen big successes, like Google street views and Facebook.... They are all big successes of computer vision. There’s a lot of demand for computer vision. Software engineers need to know how to run computer vision programs.”
+Yaser Sheikh, another associate professor of computer vision and robotics, explained that the master’s program was a perfect example of Hebert’s leadership skills: “It’s clearly Martial’s doing, but he has conducted it like a peer leader. He has gotten the entire vision group involved and invested in it, and all of us feel like it’s our thing as well, even though the vision was entirely his.”
+Sheikh explained that Hebert has a seemingly contradictory mix of two qualities that will contribute to his leadership of the Robotics Institute. “The first is that he is visionary, but at the same time he’s very selfless,” he said. “He’s very selfless in that he’s always promoting all of us.”
+This balance is not the only place where Hebert combines apparently opposing forces. Sheikh described Hebert’s emphasis on “the fact that there has to be concurrent and equal respect of intellectual, academic, theoretical contributions, as well as practical systems and deployment credentials as well. Both of these things have been equal in the Robotics Institute, and that has been the secret of success.”
+Hebert has a broad-reaching vision of the Robotics Institute’s new initiatives. Beyond the master’s program, he wants the Institute to have an increased presence in robotics education in general. “We need a lot more qualified, highly educated people,” he said, continuing to say that he’d like the Robotics Institute to be a “one-stop shop for those skills.”
+One of the Robotics Institute’s unique skills is the wide range of knowledge it offers its students. 
+In Hebert’s words, “We offer the entire spectrum, from the most fundamental mathematical techniques, and the entire spectrum works together. That’s unique to the Institute, and that’s something I want to promote.”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Given the many time commitments and responsibilities the average Carnegie Mellon student juggles daily, it could be hard to understand why one would want to find yet another reason not to sleep. Yet for some undergraduate men at Carnegie Mellon, the opportunity to create a new community of friends and leaders was too exciting to turn down.
+Alpha Sigma Phi and Phi Delta Theta are the newest arrivals on Carnegie Mellon’s ever-developing fraternity scene. Alpha Sigma Phi is still in the early “colony” stage of formation, while Phi Delta Theta was officially designated a chapter in October 2013. Alpha Sigma and Phi Delta stand as the most recent examples of the continually expanding fraternity life on Carnegie Mellon’s campus. At least one new fraternity has started every year for the past 5 years.
+Alpha Sigma Phi, founded in 1845 at Yale University, began forming a prospective group of brothers after they learned that Carnegie Mellon’s Greek life was eager to expand. According to L.T. Piver, coordinator of expansion and growth for Alpha Sigma Phi, Carnegie Mellon has a long history with Alpha Sigma Phi. In 1915, the Alpha Sigma chapter at Carnegie Mellon was the first non-departmental fraternity on campus. Although that chapter closed in 1935 due to the Great Depression, the current colony will become an Alpha Gamma chapter because of the University’s historical relationship with the fraternity.
+Alpha Sigma saw Carnegie Mellon as a promising expansion site because of certain perceived characteristics of the university’s undergraduate students. “We know the type of students at CMU,” Piver told The Tartan via email. “Our organization was founded on high literary principles at Yale in 1845, and we knew that CMU was a very academically focused university with students that would continue to uphold that value of our organization.”
+Jeremy Applebaum, a junior chemistry major, is the secretary and a founding father of Alpha Sigma Phi. When Piver approached Applebaum about becoming a founding father, Applebaum was excited about the chance to help shape and establish a fraternity on campus.
+“It truly is ours to craft,” Applebaum said via email. “One of the things I like most about Alpha Sigma Phi is the dedication to forming better men. We truly try to better the world by portraying our values (silence, charity, purity, honor, and patriotism) in our everyday lives.”
+As of now, Alpha Sigma Phi is only a “colony,” and hopes to become an official chapter in May 2015. A colony, Applebaum said, has to meet many requirements before it’s chartered.
+“We’re currently doing a lot to become an official chapter. We have a set of chartering goals that we need to accomplish before we can apply. These include specific recruitment, philanthropy, and service benchmarks amongst others. For example, right now, we’re in the middle of our ‘A Dollar Does It’ campaign that is raising funds for Big Brothers Big Sisters of Greater Pittsburgh’s Mentor 2.0 program, a new program that equips low income students with skills necessary for college entry.”
+Carnegie Mellon’s Phi Delta Theta chapter officially received its charter in the fall of last year. J.R. Marshall, president of Phi Delta Theta and  policy and management and Chinese double major, was approached in high school about starting a chapter of Phi Delta Theta. Phi Delta Theta was founded at Miami University of Ohio in 1848, and its official website lists its principles as “friendship, sound learning and rectitude.”
+After Marshall convinced his freshman roommate at Carnegie Mellon that this fraternity’s message was worth sharing, the two rounded up enough men to start a colony in the fall of 2012. Three semesters later — after budgeting, consulting from official Phi Delta officers, and the housing application process — Phi Delta received its charter in October 2013. The chapter occupies a house on the Greek Quadrangle on Morewood Avenue, and established a zero-alcohol policy in the residence.
+“I think we differentiate ourselves in that we don’t look for a specific niche of person,” Marshall said in a recent interview. “Don’t become the best Phi Delt you can be, but become the greatest whoever you are, because that’s what it’s all about — it’s about surrounding yourself with people who are going to make you work harder, who will hold you to a standard, and who are going to expect things from you.… And I think becoming a Phi Delt isn’t an excuse to be a frat boy. I think becoming a Phi Delt is actually an obligation to hold yourself higher than a frat boy, a college student. It’s indeed something much higher than that.”
+Marshall also theorized as to why Carnegie Mellon has recently seen such an increase in men interested in fraternities.
+“From what I can tell, in recent years, we’ve had a lot [of fraternities] go off [campus]. And, I think with that, that means a lot come on,” he said. “And I think it’s good for the university to approach it that way because I think the more opportunities you have, the more diversity you have, the more you’re going to push each organization to be better…. I don’t think we’re anywhere near capacity. I know we’re about 22 percent, 23 percent Greek at CMU. I know there are a lot of campuses that are around there or lower, but I know a lot of campuses that are 50 percent Greek — that are 75 percent Greek. I think CMU Greek life has even more room to expand, and I would like to see that happen.”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+College students around Pittsburgh were disappointed early last summer when an investigation by the Pennsylvania Public Utility Commission (PUC) led to cease-and-desist orders for both Uber Technologies Inc. and Lyft Inc. On Thursday, however, the PUC voted 4–1 to grant an experimental license to Uber, allowing the company to operate across Pennsylvania. Before, Uber and Lyft were both operating under temporary authority from the PUC.
+Uber and Lyft were founded in San Francisco in 2009 and 2012, respectively. Both companies use an app — available on iOS and Android — to give rides to users from drivers at a cheaper rate than most existing taxicab services. Uber, which serves over 200 cities worldwide, came to Pittsburgh earlier this year, followed closely by Lyft.
+According to the terms of the PUC’s decision, Uber has to meet several demands within the next 30 days to continue operating in Pittsburgh, including enforcing background checks on drivers and ensuring that drivers inform their personal car insurers that they are driving for the company. Every driver, according to the decision, has to agree in writing to tell their auto insurers about their ride-sharing activity.
+“Subject to certain conditions, we believe that this new type of transportation service can be of great benefit to the traveling public and should be certificated by the commission,” PUC Chairman Robert Powelson and Commissioner Pamela Witmer said in a joint statement.
+PUC Vice Chairman John Coleman gave the dissenting decision at the hearing, saying that he did not think that Uber would meet the PUC’s stipulations, citing the fact that Uber and Lyft both continued operating, despite heavy fines, after the PUC issued the original cease-and-desist orders. While its fate was undecided, Uber appealed to its Pittsburgh user base with emails and petitions to keep the company in the city.
+Carnegie Mellon students are glad that Uber received a license to operate in Pittsburgh. “I think it’s a good service,” junior neuroscience major Lawton Tellin said. “On a very cursory level, it’s so nice to be able to click one thing with your thumb and have a taxi come and pick you up.”
+Tellin said that ridesharing services like Uber and Lyft are, in his experience, typically more reliable than Pittsburgh’s other, PUC-sanctioned taxi services. 
+“I don’t have very much experience with trying to take the taxi, the yellow cab in Pittsburgh, but the two times I tried was just like, the most unpleasant experience. Either they don’t pick up the phone, or they’re just like, ‘no.’ And I’ve only had wonderful experiences with Uber,” Tellin said.
+Senior decision science and professional writing double major Meagan Leach, although she has a car in Pittsburgh, still uses Uber and Lyft. “[Uber and Lyft] are really great to use on weekends,” Leach said. “When you go out to bars and stuff like that, you don’t have to worry about driving home. That’s the only time I use them, though.”
+Uber charges a base fare of $2, plus a “safe ride fee” of $1 and $.30 a minute or $1.25 a mile. Lyft, similarly, charges a base fare of $1.35, a $1.50 “trust & safety fee,” and $.27 per minute, or $1.13 a mile. The Pittsburgh Yellow Cab Company charges riders a base fee of $2.25 plus $1.75 per mile.
+“The PUC confirmed today that Uber provides the safe and reliable rides that Pennsylvanians need and deserve,” Uber spokesman Taylor Bennett told the Pittsburgh Post-Gazette. “We look forward to working with the PUC and the state legislature to get the details right so we can establish a permanent home for UberX ride-sharing in all of Pennsylvania.”
+Last week Uber announced that it will no longer pick up passengers at the Pittsburgh International Airport. The ridesharing company won’t have the authority to do so until they are also granted a permit from the Airport Authority.
+This decision does not change the situation in Philadelphia, where the Philadelphia Parking Authority controls the taxi service, and has not yet made a decision regarding either company. The PUC’s decision also doesn’t apply in nine other counties across Pennsylvania, because they were excluded in Uber’s application for license.
+Lyft’s hearing will likely be during the PUC’s December meeting.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Ex officio report: Pascal Petter
+Director of Dining Pascal Petter presented to Senate about upcoming changes in Dining Services. Petter spoke about the new Tartan Express food truck, and showed a rendering of what Skibo Café will look like after the Jared L. Cohon University Center is expanded.
+Committee updates
+The Academic Affairs committee is working on several initiatives, including Professor Talks — when professors announce campus events during the first minute or two of their class — and student spotlights, which would feature academically strong students. The Academic Affairs Committee is also still working on the Academic Relationships Code, a set of tenets meant to define policies for interactions between students and professors.
+Special Allocations
+Student Senate voted to allocate $4,500 to Project Rwanda. Senate also voted to allocate $312.44 to Bhangra in the Burgh and $120 to Lambda Phi Epsilon, to cover the cost of the Asian Pacific American Pageant that the organization is planning.
+Presentation of Fiscal Policy changes
+Junior economics and decision science double major and Finance Committee Chair Landon He presented a series of changes to Senate’s fiscal policy. These changes redefined how a special allocation can be denied, as well as the voting policy on different types of recommendations. These changes, and another round of changes proposed two weeks ago, were both passed with a vote.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Net neutrality debate continues
+This week, the long-standing conflict between media conglomerates and the Federal Communications Committee (FCC) was reignited in public forums when President Barack Obama formally vocalized his support for net neutrality. Net neutrality essentially treats the Internet as a public utility and protects it from regulation by media corporations such as Time Warner Cable and Comcast. Companies such as these, with a large interest in competitive pricing and consumer rates, are attempting to gain an advantage over the market by significantly slowing or even completely cutting off Internet services to consumers who are not subscribed to their service or offering deals to content providers (such as Netflix) to expedite content to consumers. Obama’s support puts pressure on the FCC to create regulations for what he has called “an open Internet” and has prompted national debate over government regulation of a public market and whether or not the Internet should qualify as a utility.
+Source: The New York Times
+Elections begin to play out
+Last week, midterm elections resulted in Republicans seizing the Senate majority. Kentucky Senator Mitch McConnell was voted in as the Senate majority leader, and Nevada Senator Harry Reid will continue to lead the Democratic caucus, along with Massachusetts Senator Elizabeth Warren and Alaska Senator Amy Klobuchar, who have taken leadership positions that were newly created for them.
+Source: USA Today
+Obama travels to China
+Last week, U.S. President Barack Obama traveled to China to talk with Chinese President Xi Jinping regarding climate change and what the two countries could do about it. After long talks, they eventually agreed to target problematic greenhouse gas producers and cut emissions by 2030, the first significant move from China to decrease national emissions. A few days later, the U.S. Postal Service announced that its database had been hacked by Chinese hackers, who stole the information from hundreds of thousands of postal workers. The information included names, dates of birth, social security numbers, and work dates. No consumer data was leaked.
+Source: Washington Post
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Parents in Royal Palm Beach, Fla. would rather pull their children from school than let them continue their education in an environment that values testing over learning.
+During a meeting in a high school auditorium, parents expressed concern regarding the stressful environment in which their children spend the majority of their time. According to The New York Times, one father said that “teaching to a test is destroying our society,” even driving students to take performance-enhancing drugs such as Xanax in order to cope.
+Parents and educators across Florida are taking part in a widespread national protest to remove the controversial Common Core State Standards Initiative for teaching mathematics and English language arts in the public school system. Alongside concerned parents are educators who are pushing for a more “flexible” classroom. However, if it’s the stress from tests that concern parents, then that should be the focus of their protests, rather than gutting the Common Core. I and many fellow Carnegie Mellon students would agree that our health should come first in education. 
+The well-being of students is incredibly important for learning to take place. Generally, students dealing with extremely high levels of stress do not have the best performance in classrooms. Florida parents want a classroom environment where they feel comfortable sending their children — one that supports students’ health and social well-being.
+Removing the Common Core alone from the public school system will not necessarily reduce the stress affecting students’ well-being. In lieu of the Common Core, school districts and states will create their own local standards. These local standards will most likely still include tests. 
+Although most of our university professors and teaching assistants don’t particularly enjoy spending hours grading the stacks of midterm exams piled upon their desks, exams exist and will probably continue to exist. Exams are simply an accurate way of evaluating the learning that occurs in the classroom.
+The stress from tests is unavoidable, and parents and educators have a point in that the classroom should not be a place that students fear. However, tests are valuable learning tools that allow educators to evaluate their students and make improvements to their teaching method if necessary.
+We must understand that the Common Core is not a curriculum in itself. It does not necessarily place educators in a box, that keeps them from implementing their own ideas. Instead, it sets standards for curricula with the goal of reaching a certain level of academic success. Let’s think about job interviews. Job interviews are evaluations for employers and recruiters. Just like tests, interview environments are highly stressful, but we put ourselves through the process anyway in pursuit of a greater goal. If you want a career working for a company, big or small, the company will ask for an interview. There is no getting around it, because it’s the best and, typically, most fair method of evaluation. 
+As states have already taken action to reduce the number of tests, we have yet to hear of a school district eliminating tests completely. Advocating for an improvement in the classroom environment to promote a healthier kind of learning is feasible, but treating the Common Core as a scapegoat is not the answer.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Carnegie Mellon is embarking on a critically important strategic planning process. This process will set the stage for the evolution and development of Carnegie Mellon both in the next few years and for the next decade. 
+As a member of the Carnegie Mellon community for 45 years, I have witnessed a number of strategic planning events led by former Presidents Cyert, Mehrabian, and Cohon. Each one resulted in significant changes in the direction of Carnegie Mellon, and these have been critical evolutionary steps that have brought the university to its position of prominence today.
+As I think back over previous strategic planning initiatives, however, I am struck by the absence of strong direct student involvement. Yet nearly every aspect of the strategic plan will have a direct impact on our student body, and we want to encourage student input in the strongest possible way.
+I am writing to encourage broad student participation in this planning process — along with all other members of the campus community. President Subra Suresh has identified three major thrust areas: Transformative Teaching and Learning (led by Richard Scheines, dean of the Dietrich College, and Nathan Urban, interim provost), Transformative Research Creativity, Innovation and Entrepreneurship (led by Jim Garrett, dean of the College of Engineering and Farnam Jahanian, vice president of research), and the Transformative CMU Experience (led by Ramayya Krishnan, dean of the Heinz College and Michael Murphy, vice president of campus affairs).
+I want to encourage all of you to become engaged in this process. There are a number of ways to participate. First, there will be a campus-wide town hall meeting — the first in a series of such meetings — scheduled for Nov. 17 at 4:30 p.m. in the Posner Center, at which many of the thrust leaders will be present to gather campus input. 
+Second, you can contact any of the thrust leaders mentioned above and convey your ideas. 
+Third, you can visit the strategic planning website at www.cmu.edu/strategic-plan, or send an email to strategic-plan@andrew.cmu.edu. Finally, you can discuss ideas within your own student organizations and have those organizations directly engage in the process.
+Strategic plans are important and lead to real change. Planning in the Cyert administration resulted in each department narrowing its research agenda to a few areas in which it could be nationally competitive, as well as a concentrated focus on interdisciplinary research and teamwork. This led to the development of signature programs like engineering and public policy.
+Under the leadership of President Robert Mehrabian, the strategic plans emphasized the quality of the undergraduate experience. This resulted in the improvement of faculty teaching and advising, and the construction of the Jared L. Cohon University Center as a tangible way to enhance the students’ academic and nonacademic experience.
+There were many changes that took place under President Jared Cohon. In my mind, one of the most significant was the strategic decision to strongly develop the university’s capabilities in the biological sciences, even though Carnegie Mellon did not have a medical school. This required a significant investment by the university, and led to the strengthening of the department of biological sciences, the creation of a department of biomedical engineering, and the creation of the Ray and Stephanie Lane Center for Computational Biology, each of which have greatly broadened opportunities for our faculty and students.
+President Suresh has been in office for only 16 months, but he has already shown the ability to accelerate new initiatives, such as the Simon Initiative in technology-enhanced learning and BrainHub, which is integrating our many brain science activities across campus while also creating new global academic partnerships. The current strategic planning effort is especially important given our president’s great strengths in creating and executing major initiatives.
+The strategic plan will focus on both short-term and long-term directions, and there are many simple and radical ideas that must be explored. 
+For example, should we change the university calendar? Should we institute some sort of winter term for either nonacademic or academic short courses, service projects et cetera? Can we make better use of technology to eliminate many of the large lectures and replace them with smaller, more interactive classes? Is it advisable to increase the course offerings that combine faculty from different colleges, such as the new IDeATe program? 
+Although we have substantial diversity in our undergraduate student body, how can we enhance interaction among the many distinctive groups on campus? Can we bring more of the academic portion of the undergraduate experience into the dorms? What changes can we make to further enhance the student experience?
+These are only a few of the areas that the upcoming strategic plan can address, and each would have a significant impact on our students. At this seminal moment in Carnegie Mellon’s history, I call on the entire campus community to engage in the process and have a hand in setting the university’s course for the next decade.
+John Lehoczky
+Interim Executive Vice President
+Carnegie Mellon University
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+No doubt you’ve already stopped by the newly renovated Legacy Plaza; The Tartan actually has been chronicling its evolution these past months, complete with the opening of the food truck two weeks ago.
+The redesigned plaza, once known more for bicycle parking and smokers, took a page right out of the “placemaking” playbook, providing a truly inviting space for social and active interactions to happen.
+The repaved surfaces, the string lights, and the new modern tables and chairs have created a pleasant and bright space between a heavily pedestrian-trafficked area and Margaret Morrison Hall’s north entrance.
+However, there are several decisions which I find troubling, both from a design standpoint and a master plan perspective.
+First, while I understand the notion of using food as a tool to bring activity to the site, I think this food truck is problematic because it is in direct competition with the existing off-campus diverse and local food trucks along Margaret Morrison St. The university’s investment in a food truck on-campus seriously undermines its image as a part of — and supporter of — the local business community; and a food truck is not appropriate and out of scale for this site. 
+Why couldn’t there have been pedestrian-scaled food carts or stands, instead? Placing an industrial truck on campus along a major pedestrian thoroughfare, and having it parked there for days, shows a lack of sensitivity for the pedestrian scale.
+Second, the redesign does not provide any bike parking. In fact, the existing bike racks on the north entrance of Margaret Morrison Hall were relocated on Nov. 3 to the north side of West Wing and Resnick House. 
+This is all part of the university’s larger plan to keep bicycles on the perimeter of campus. I believe this policy and the removal of bike racks to these perimeter areas is misinformed because, as dictated by convenience, cyclists will park their bikes at the closest entrance of their destination and lock up to whatever is most convenient: trees, the railing, benches, chairs, and maybe the food truck itself. This rogue parking will only add clutter to the new Legacy Plaza and diminish its quality.
+Additionally, the relocated bike racks will be placed in an area that is not visible and not easily accessible from the main thoroughfare of the campus. This goes against good planning principles, which would never put a parking garage entrance in a hard-to-find area, and it shows the inherent problems that come from the lack of a campus-wide Mobility Master Plan.
+The university’s current plan (to keep bicycles on the perimeter) shows their misunderstanding of how their own community (students, faculty, and staff) travel to and within the campus, whether by car, on foot, or on bicycle. A Mobility Master Plan would help to create a more inclusive and inviting campus environment.
+I hope that the editorial team at The Tartan will begin to take a deeper look at how our beautiful campus’s design and future master plan can actually add to not only the local neighborhood’s, but also Pittsburgh’s, rededication to an active street life and more livable communities.
+Bruce Chan
+Master of Urban Design Candidate
+School of Architecture
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+In the wake of a Republican electoral takeover, the political Right just got more good news. The Supreme Court decided to take up King v. Burwell, the latest legal challenge to the Affordable Care Act. Understanding this challenge to the law requires understanding of the complex architecture of the ACA, so here goes.
+To expand coverage to those with pre-existing conditions, a major goal of the ACA, Congress did three things. First, it forbade insurers from turning down those seeking insurance who had a pre-existing condition; this is called guaranteed issue. But to ensure that people didn’t game the system and just enroll for insurance when they got sick and needed care (which was my plan once I found out about the ACA), they created the individual mandate, requiring United States citizens to have health insurance at all times. This mandate was declared unconstitutional in a prior Supreme Court challenge to the law, but it survived by being construed as a tax.
+The final overarching mechanism of the ACA is the establishment of exchanges to deliver subsidies to low-income Americans so that they can buy health insurance. It seems pretty Orwellian to require people to buy insurance and then not help them pay for it if they don’t have the money to do so. The law asks each state to set up its own health insurance exchange, and many did, giving them catchy names like Covered California and Kynect in Kentucky. However, 34 states, including Pennsylvania, opted to not set up exchanges. The law accounts for this option, and sets up a federal exchange so that Americans in those states have a place to go to buy insurance. This place is www.healthcare.gov.
+Understanding exactly how the ACA works is no small feat, but this is where it gets interesting. The King v. Burwell to the law concerns the distribution of subsidies on the federal exchange — healthcare.gov. The text of the law makes subsidies for purchasing health insurance available to those who “were enrolled through an Exchange established by the State under section 1311 of the Patient Protection and Affordable Care Act.”
+By specifying that subsidies were available on exchanges established by the state, it excluded healthcare.gov, and therefore, citizens of two-thirds of states in the union. The IRS, however, has interpreted the text of the ACA to allow subsidies to be issued through healthcare.gov. King v. Burwell specifically challenges the IRS regulations that enable the distribution of subsidies on healthcare.gov, because they are not provisioned for in the text of the act.
+If the court does strike down the subsidies, we can backtrack the consequences of this decision up the ladder of ACA architecture. This decision would mean that requiring low-income Americans to purchase insurance would become impractical because they wouldn’t be able to get subsidies, which would weaken the individual mandate. Without the individual mandate, the premise of guaranteed issue falls apart because then people (like me) can game the system, leading to what critics have called “The Health Insurance Death Spiral.”
+In the death spiral, prices would increase uncontrollably because the pool of insured people get sicker and sicker. This trend happens because without the mandate, healthy people won’t buy insurance, knowing that they can get it whenever they need medical care. Health insurance works because healthy people pay more for their insurance than the cost of the services they receive with the guarantee that if they ever need more services than they’re paying for, their healthcare costs will essentially stay the same.
+The surplus from the healthy people is what covers the cost of sick people in the system who need services that cost more than what they’re paying into the system. When there’s no surplus from healthy people because they’re not buying insurance, the actual cost of insurance will have to rise because the population of the insured is sicker on average. This increasing cost will then deter more healthy people from buying insurance until eventually only sick people are buying health insurance and paying exorbitant amounts for it. Then, the system collapses.
+In sum, if these subsidies are struck down, the ACA collapses. Of course the architects of the bill couldn’t have wanted this to happen, and many liberal readers interpret the exclusion of subsidies on healthcare.gov as just a typo, because it would essentially undo the act, and because it was never publicized as part of the ACA. Many think that if states had known that their citizens wouldn’t receive subsidies if the state didn’t set up an exchange, states would’ve complied with the law and set up exchanges. Paul Krugman recently wrote an article in The New York Times asserting just that. Unfortunately, there’s evidence to the contrary.
+Videos of Jonathan Gruber, an MIT professor and the primary architect of the Affordable Care Act, have recently surfaced where he attributes the passage of the ACA to “the stupidity of the American voter” and catalogs some of the deception used to pass the ACA. Most notably, however, is a video in which Gruber says the following:
+“What’s important to remember politically about this is if you’re a state and you don’t set up an exchange, that means your citizens don’t get their tax credits. But your citizens still pay the taxes that support this bill. So you’re essentially saying your citizens are going to pay all the taxes to help all the other states in the country. I hope that that’s a blatant enough political reality that states will get their act together and realize there are billions of dollars at stake here in setting up their exchanges and that they’ll do it. But once again the politics can get ugly around this.”
+The system Gruber describes functions exactly as the system the law outlines. The Obama Administration has recently been downplaying Gruber’s role in creating the bill, but it is documented that Gruber was a paid consultant to the White House for the creation of the technical details of the ACA. At the end of the day, this becomes an issue of he said, she said, but Gruber’s remarks make a plausible case that this exclusion is not a typo, and that this is the way that the law was designed to function.
+At best, Congress didn’t think through the consequences of this part of the bill. At worst, the bill was passed in such a rushed, corrupt, and non-transparent manner that Congress didn’t know what was in the bill they were passing. Nancy Pelosi, then Democratic House Majority Leader famously said, “we have to pass the bill so you can find out what’s in it.”
+After the suit was filed, several lower courts ruled on the decision with two courts — one Oklahoma court and another D.C. Circuit Court — finding that healthcare.gov isn’t authorized to distribute subsidies but many more courts finding to the contrary. These contradictory rulings would usually be good cause for the Supreme Court to take up the case, however after the D.C. Circuit Court ruling, the Justice Department then stepped in and asked the Supreme Court to wait while the Circuit Court ruled on the suit en banc.
+This decision essentially means that the entire set of justices on the Circuit Court would review the case, and not just the three who initially heard it. The Obama Administration asked for this because Democrats recently changed Senate judicial nomination rules and packed the court with liberals, assuring that the subsidies would be allowed once the entirety of the court (and therefore Obama’s nominees) reviewed the case. Once this pro-Democratic party ruling came out, there would appear to be court unity and the more conservative Supreme Court would hopefully be less likely to take up the case.
+To that, conservatives in the Supreme Court said, D*nm your dreams, Obama, and decided to take up the case anyway, before it was ruled en banc. In order for the Supreme Court to take up a case, four justices must agree to rule on it, which makes it likely that at least four justices are prepared to rule against subsidies on healthcare.gov. 
+If the Court wanted to preserve the act, it would’ve waited for the en banc ruling. From the prior ACA case, we can guess that the four justices prepared to rule against it are the four justices who authored 2012’s scathing dissent ending with, “We would find the act invalid in its entirety.”
+Assuming that Justices Kennedy, Alito, Thomas and Scalia are prepared to again rule against the ACA, and the four liberal Justices, Ginsburg, Sotomayor, Breyer and Kagan are prepared to rule for it, this scenario again establishes Chief Justice John Roberts as the crucial swing vote in deciding the fate of the ACA.
+Roberts will not opt to save the ACA again. Roberts has demonstrated repeatedly that he is a textualist. He has authored extensive opinions that reflect the intent of the Framers of the Constitution to have a government of laws, not a government of people. 
+The Supreme Court’s job is to interpret the will of Congress, and Roberts believes that the will of Congress can only come from the text of the statutes that Congress writes, and not the surrounding circumstances or remarks that politicians have made.
+Though Roberts did rule in favor of the act before, that was because he could construe the text of the ACA for the less controversial outcome and preserve the statute. Roberts still opted to use the conservative view of the scope of the commerce clause and call the mandate as it was written unconstitutional. In this case, Roberts will ask himself if there is any way that he can construe the text of the law to preserve the subsidies.
+The text very clearly states that subsidies can only be administered through state exchanges, and Roberts will struggle to find a way around the simplicity of that argument. In the end, he won’t set a precedent that allows executive branch agencies to issue regulations out of thin air regardless of what the law says. Roberts will bind the rule of law to the text on the pages and not the flimsy whims of politicians and bureaucratic agencies.
+Next July, the Affordable Care Act will be dealt a crippling blow when only a third of the country’s citizens can receive subsidies. It will then fall to the largest Republican majority in Congress since the 1920s to fix the law, and they’ll do everything in their power to repeal it around Obama’s veto pen. Perhaps Obama will settle for a weaker, Republican alternative to the ACA that achieves some of its goals but leaves liberals disappointed, but it’s impossible to predict political dynamics seven months out. The balance of power will largely depend on how popular the new Republican Congress becomes after its first six months in office.
+In the meantime, the United States healthcare industry, fully one-sixth of the country’s economy, will spiral out of control. Insurers will re-evaluate their entire cost structures, plans will be cancelled, and the already esoteric information systems controlling health data will struggle to keep up with the onslaught of bureaucracy thrust upon it by the nation’s changing healthcare architecture.
+The reverberations of this decision will be felt across the country by every American family, and we will turn to a dysfunctional and complex government to fix an even more dysfunctional and complex healthcare system. If you’re thinking about becoming a doctor, you should reconsider your career path. Healthcare as we know it is about to change dramatically.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Last week, pop superstar Taylor Swift pulled her entire catalogue of music, including her fifth studio album 1989, from the popular music streaming platform Spotify. By doing so, Swift moved to the center of an ongoing debate about the monetization of artists and the future of the music industry.
+Swift is arguably one of the most powerful women in music today. 1989 is the first album to hit 1 million sales in the United States this year, selling more in its first week of sales than any album since 2002 and automatically going platinum. Simply put, Swift’s opinions on the music industry have a lot of clout, and she has taken a stand against streaming services like Spotify. In a statement to Yahoo, Swift said, “I’m not willing to contribute my life’s work to an experiment that I don’t feel fairly compensates the writers, producers, artists and creators of this music.” But does Spotify really undercompensate industry creators? Spotify offers free streaming funded by ads along with a paid subscription service without ads, and boasts 50 million active users worldwide, 12.5 million of whom are paid subscribers.
+It is undoubtably the largest music streaming platform, and growing. While Spotify dedicates 70 percent of its revenue — last year almost $1 billion — to rights holders, a large chunk of that is divvied off to record labels with artists themselves only seeing a fraction of a penny for each song play. This amount is significantly less than artists’ revenue from album sales, radio, and paid subscription streaming services. Scott Borchetta, the CEO of Swift’s record label Big Machine Records, told  Time magazine that, “Over the last year, what Spotify has paid is the equivalent of less than 50,000 albums sold.”
+For a powerhouse like Swift, taking leave from Spotify is more a protest than a business move. Swift’s paycheck will hardly be the worse for wear, but she is the exception. The same cannot be said for the smaller artists who make up the bulk of the music industry and are inadequately compensated by Spotify’s meager pay rate.
+Swift has said she is against “perpetuating the perception that music has no value and should be free.” Despite the validity of that statement, it’s also more than a bit naive. The music industry has been “declining” for years, not in the sense that people have stopped loving music but that they’ve stopped loving to pay for it. The floodgates of streaming have been thrown open for good, and not even the most powerful artist in the industry will be able to close them again. 
+In a world where artists shouldn’t devalue their art by giving it away, and consumers won’t pay for what’s available for free, the solution to the debate won’t be found under the traditional model. Creators and consumers need to think outside the box to find a solution that benefits them both. They need to work with the evolving music industry and stop trying to control an unstoppable force.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Interim Provost Nathan Urban emailed the campus on Tuesday to condemn violent threats received by Conflict Kitchen, an art project created by Jon Rubin and Dawn Weleski (CFA ’10), a Carnegie Mellon professor of art and an artist, respectively. The Kitchen shut down on Nov. 7 after affiliates received death threats, but has since reopened.
+In the email, Urban states “Threats of violence ... have a chilling effect on free expression, have no place in civilized society, and deserve universal condemnation as well as appropriate judicial action.” The university’s decision to comment on the threats and place itself in the midst of the controversy stirring over the Kitchen shows a heightened support by the university for campus members’ work that members of The Tartan’s editorial board have not often witnessed during their tenure at the university. The decision to comment on the death threats is a promising indicator that the university will continue to back its students and faculty in the face of conflict.
+The last prominent controversy surrounding a student’s art occurred when a student dressed as the Pope with a cross shaved into her pubic hair for what would be the art school’s last annual Anti-Gravity Downhill Derby during Spring Carnival 2013. After the performance art was decried by the Roman Catholic Diocese of Pittsburgh, Carnegie Mellon followed up with disciplinary action for the student and condemned her actions. 
+While the student’s actions were admittedly controversial, this instance showed a lack of support by the university for its student’s act, which was comparable to previous performances at the Derby. In that instance, it seemed as if the university bowed to outside pressures.
+The support for Conflict Kitchen, however, shows a marked turn in the university’s support for its campus members. The university had no obligation to comment on the Kitchen and place itself on the side of the project when there are ardent supporters and detractors. The Tartan hopes that this public announcement by the university regarding Conflict Kitchen is not a singular instance of support, but becomes a consistent trend.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+The city of Pittsburgh’s new budget may include a revenue stream where non-profits and educational institutions including UPMC and Carnegie Mellon pay contributions into the city’s budget. The city does not currently collect direct tax revenues from nonprofit and educational institutions. Instead, these institutions and nonprofits make voluntary contributions to city funds.
+As the Pittsburgh Post-Gazette  reported in September, Mayor Bill Peduto went on the record saying that the city had a 50/50 chance of reaching a long-term deal for financial contributions to the city budget from these non-taxable organizations. This article also said that these contributions had been “erratic” over the past decade, underscoring the desire for the city to strike a consistent, long-term deal for collecting contributions from organizations. 
+As of last week, the Pittsburgh Business Times confirmed that the University of Pittsburgh, Carnegie Mellon University, UPMC, and Highmark are in dialogue with the city regarding the establishment of a standardized system of contributions to the budget. Carnegie Mellon and other Pittsburgh not-for-profits should make a strong effort to reach an agreement on a long-term payment deal with the city of Pittsburgh.
+All four of these organizations bring in large amounts of revenue and are cornerstones of the Pittsburgh economy. The city benefits directly thanks to the employment opportunities provided by these nonprofit organizations, and from the businesses they attract to the region. However, the numerous tax exemptions are widely viewed as being undeserved, particularly in the case of UPMC, which besides being the largest employer in the state of Pennsylvania gives its CEO $6 million in salary and has 26 executives who earn more than $1 million annually.
+There are valid reasons for these nonprofits to remain free of taxes. In addition to providing important services to the public, they argue that taxes could lead to them needing to lay off workers and curtail their public services. Removing nonprofit status to fill city coffers could also start a trend of the city using this tactic even on deserving nonprofits whenever a new source of revenue is needed.
+Pittsburgh is a more than gracious host for Carnegie Mellon, the University of Pittsburgh, Highmark, and UPMC. So it is not only fair but in the best interest of these organizations that they establish a long-term deal through which they can financially contribute to the city, while maintaining their exemption from standard taxation. Creating a standard deal for these contributions would be a socially responsible action, benefiting the city and the communities surrounding these organizations.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Want to watch your favorite channel on YouTube? For a steal of only $4.99 a month, you can add the online video streaming package! Want to see results on Google pertaining to your favorite sports team? The all-access sports package can be accessed for an amazing $14.99 a month! While this sounds ridiculous, regulations are currently not in place to prevent this from happening.
+Last week, President Obama addressed the Federal Communications Commission (FCC) with a statement in favor of preventing this from happening, stating that Internet Service Providers (ISPs)should be subject to the following rules: “no blocking,” “no throttling,” “increased transparency,” and “no paid prioritization.” He stated that if implemented correctly, this would hold no extra heavy burden on ISPs and would guarantee that the principles of an open and free Internet remain in the future. Nearly anyone can agree that blocking and throttling services are bad for everyone, though the claim for “no paid prioritization” takes the issue into murkier waters and opens up the issue to many more questions.
+Connections to Internet addresses should not be discriminated by based on how much the service has paid to an ISP. Connections to the Internet should be treated as a utility. Like water and electricity, the Internet is a shared resource. Therefore, it should be treated like one, and companies like Comcast should simply be providing the gateway to them. Whenever Internet providers begin to degrade quality on the terms that services pay up, everyone suffers.
+Earlier this year, when Comcast demanded ransom from Netflix in order for its users to be provided with normal access speed, it overstepped its boundary and showed just what is possible if we let the oligopoly of ISPs have power over the entire Internet. Until Netflix paid up, customers of the service suffered with degraded quality, and Netflix was burdened with loads of extra customer service requests. Comcast charging Netflix for its popularity among customers would be similar to electrical companies charging Apple because people are using up a lot of the power grid charging their iPhones and iPads. This move by Comcast was anti-competitive and gave other companies an unfair leverage.
+While connections to the Internet should not be discriminated against, paid prioritization should be allowed in some cases. Differentiation should be made between simply discriminating against someone’s service and providing special hardware to optimize its speed. For example, if a company such as Apple or Google wishes to provide an online television service or OnLive wishes to provide online gaming directly through hard wiring with a company like Comcast, this should not be banned by net neutrality legislation. 
+Things like set top boxes with hardware lanes to specialized online services should be allowed; this would essentially mirror the concept of a television service. In addition, net neutrality laws should not ban things like Comcast’s Content Delivery Network. Some companies have already paid Comcast and others to build direct hardware interconnections, which the FCC is currently not classifying as a net neutrality issue. 
+In this case, Comcast is providing a service to online companies by allowing them to use specialized content delivery networks to speed up access; this is different from tiering the cost of Internet speeds for services or forcing services to pay up in order to remain online. In this case, companies are paying Internet providers for a direct connection to their servers, which improves their services and in no way degrades the connections of services not using hardware specialization.
+Barriers should be put in place to ensure that Internet providers do not slow down the connections of companies who do not pay up or remove access to their site altogether. The Internet is open and free and should remain as such. However, at the same time, net neutrality should not stand as a barrier to innovation. Providers should be allowed to provide premium access to content delivery networks or direct hardware implementation into their servers. Providers should also be allowed to create hardware optimizations for specialized uses. However, we must also ensure that the rest of the Internet does not suffer and be placed in a slow lane.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+The Tartan had a great time at the Walk the Moon concert this weekend. So we asked, "Who do you want to play next year's concert?"
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+

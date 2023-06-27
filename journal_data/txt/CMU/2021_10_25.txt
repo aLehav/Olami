@@ -1,0 +1,331 @@
+We’re back, after a week off for mid-semester break. Week 7 saw no top-10 games, but an upset that nobody saw coming, with Iowa’s stunning loss to unranked Purdue. Week 8, widely predicted to be boring, ended up producing two top-10 upsets and nearly several more. Week 9, though, is guaranteed to shuffle things up — so stay tuned.
+This week’s rankings:
+This week saw both #7 Penn State and #8 Oklahoma State lose games they should have won, effectively removing both from the playoff picture. Penn State invited Illinois to Beaver Stadium for their homecoming game, in what was expected to be a blowout. But quarterback Sean Clifford and the Nittany Lions’ offense was unable to produce, and we were instead treated to a defensive battle that just went on, and on, and on — ultimately taking nine overtimes, more than any football game (any division, college or pro) had in the past — before Illinois backup quarterback Brandon Peters found Casey Washington in the end zone for the ugly 20-18 win. As for Oklahoma State, they lost a thriller to Iowa State on the road, 24-21, essentially blocking their path to the playoff.
+For the third consecutive week, #1 Georgia remains comfortably atop the table. After a Week 7 thumping of #11 Kentucky and a bye in Week 8, the Bulldogs sit at 7-0 and face relatively little trouble from here to the SEC Championship. A trip to Florida might have some potential for trouble next week, but there’s nothing too worrying for Georgia on the horizon.
+Next up is #2 Alabama. After dropping to #3 with a loss to Texas A&M in Week 6, the Tide have roared back, blowing out Mississippi State on the road and edging Tennessee at home. Now at 7-1, Alabama faces relatively few tests for the rest of the season — although, with one damaging loss, every game is a must-win. Their toughest may be the two last two of the season, in what figures to be a shootout with feisty Arkansas and then the annual Iron Bowl against #19 Auburn.
+Next is #3 Ohio State. The team has the baggage of a loss, but aside from dropping an early game to #10 Oregon, has looked flawless and can make the case to have the best offense in college football. That loss in Week 2 continues to provide an issue in the rankings, but the 6-1 Buckeyes, coming off a blowout win against Indiana, have the potential to shake up the picture big-time with a win against #6 Penn State this week.
+Following up is #4 Michigan, one of this season’s great success stories. In the preseason AP poll, they were unranked, and only crawled into the rankings in the first couple of weeks. But since then, with a string of seven consecutive wins, they have shot upwards and appear to be playing better football than any other team in the Big Ten aside from Ohio State. That said, they still lack a dominating win, and dates with Michigan State, Penn State, and Ohio State as the season winds down will determine if this team is for real.
+Next is #5 Cincinnati. After edging out Navy, the Bearcats suddenly have an inside track to a playoff spot. With a cakewalk of a schedule for the rest of the year — and an impending Michigan-Ohio State game on the last week of the season that’s guaranteed to knock out one of those two teams — Cincinnati appears to be in control of their own destiny. Yet given how close the Navy game in Week 8 was — topping the Midshipmen by just a touchdown after a last-second interception — it’s hard to know if the Bearcats are for real.
+Rounding out the top-10 are Oklahoma, undefeated but with too many narrow wins for comfort, at #6; Michigan State, jumping Oregon, at #7; Ole Miss, climbing back into the rankings, at #8; Iowa, taking Penn State’s place once again in the top-10, at #9; and Oregon at #10.
+Next Week
+Instead of justifying the rankings, this week’s column will mostly be a preview of what’s to come. And, spoiler alert: the rankings are about to shift a lot.
+While most top-10 teams have easy schedules next week, the stage is set for an absolute brawl in the Big Ten East. With three teams in the top-10, and one just a week removed — #3 Ohio State, #4 Michigan, #7 Michigan State, and former #4 Penn State — this was bound to come sooner or later. But coming out of Week 9, two of these teams will have wins, and two will have losses. Let’s look at both games.
+First, #4 Michigan travels to East Lansing to play #7 Michigan State in what promises to be a marquee battle. Both teams are currently 7-0, but equally importantly, neither have earned a quality win against a ranked opponent. A Michigan win would send Michigan State falling in the rankings, likely out of the top 10; a Michigan State win, by contrast, would likely mean that the two teams effectively switch rankings, with Michigan State having a case for the top four.
+In the other big game of the weekend, Penn State travels to #3 Ohio State. Penn State’s luck in Columbus recently has been far from stellar, and the Buckeyes will be looking for their third win in a row. That said, this game might be existential for both teams involved. Penn State still has a path to the playoff, but it’s narrower than ever, and this is a must-win. Ohio State has a loss, too, and each knows that their path to the playoff likely runs through the Big Ten Championship in January. And while Ohio State could arguably make it into the championship game with only one conference loss, Penn State — whose losses came to Big Ten Iowa and Illinois and not Pac-12 Oregon — would be stuck with three, dicing their final playoff hope. Long story short, whoever wins will be doing well; whoever loses is circling the end of the season on their calendar.
+Craziest of all for the four teams in the Big Ten East chase? Two more loaded gamedays, in Week 11 and Week 13, will see shakeups just as big as the one coming this week. And whoever emerges from the mess — whether undefeated, with one loss, or even with two — will have a likely date with Iowa in the Big Ten Championship.
+Given all this, it’s not too early to start talking about playoff implications. Could two teams from the Big Ten make the cut? While it’s never happened before, it could. At this point, the two most impressive teams are Alabama and Georgia, both from the SEC, and neither look like they’re going to pull out of the playoff hunt anytime soon, leaving two spots for everyone else. This presents an interesting predicament for the College Football Playoff selection committee, who will meet to do their work in December. If we assume, say, one-loss Iowa and one-loss Ohio State face off in the conference championship, what happens then? An Iowa win should put them in the playoff, but what of Ohio State, who would have put down Penn State, Michigan State, and Michigan, in order? Would that team really be less deserving of the fourth spot than, say, an undefeated Cincinnati team?
+And what if Ohio State wins that game? Should an 11-1 or 10-2 Michigan team or a 10-2 Penn State team who only lost to top-5 teams really be left out, while a team like Oklahoma gets in?
+I don’t think so. Which means that the home stretch of this season is going to be mayhem, and it’s going to be a joy to watch.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Looking into the genome of a cell with machine learning
+Genomes, the complete set of genetic information in our cells, are made of protein structures called chromatins. These chromatins are folded and arranged in certain ways that can change gene expression, influencing aspects such as whether the cell is healthy or develops disease. Researchers from Carnegie Mellon's Computational Biology Department developed a machine-learning algorithm called Higashi, a name based on a Japanese sweet, that allows those studying chromatins to better visualize the folds in the protein, how chromatin interactions differ from cell to cell, and other genomic events like protein production in the cell.
+Why not both? Accuracy and fairness in machine learning
+Accurate machine learning models can often have biases against minority demographics and those with low socioeconomic status. But researchers from Carnegie Mellon's School of Computer Science and Heinz College argue that models can also be both accurate and fair, releasing a paper discussing machine learning's ability to allocate resources in four different contexts in which resources are limited. While they found that some models optimized for accuracy also exhibited bias in deciding who would get resources, they found that by tweaking the algorithms, both accuracy and fairness could often be maximized at the same time.
+Using AI to better purify water
+Pittsburgh is notorious for having poor water quality, having reports of lead contamination in the water regularly, and around the globe there are hundreds of millions of people that lack access to clean water. To purify non-drinking water, one can pass it through a membrane that will desalinate, or remove salt and ions, from the water, but this is a time consuming process. To make the process more efficient, a team led by Amir Barati Farimani, assistant professor of mechanical engineering, took single-layered graphene, a material with many favorable mechanical properties, and used AI to find which atoms on the layers they could remove to create pores that would best filter out the clean water.
+Greta Thunberg rickrolls climate concert
+The famous climate activist from Sweden rickrolled the Oct. 16 Climate Live concert, singing and dancing to Rick Astley's famous "Never Gonna Give You Up." Staged before the United Nations Climate Change Conference COP26 starting on Oct. 31, the concert aimed to promote Climate Live's petition to the world leaders at COP26, advocating for leaders to take further, more decisive action sooner such as reaching net zero greenhouse gas emissions by no later than 2030 and converting systems to using 100 percent renewable energy.
+Salmonella outbreak in onions and salami sticks
+The Center for Disease Control has recalled ProSource onions and Citterio salami sticks after 652 and 20 patients of each item respectively have been found to be infected with salmonella. The CDC recommends throwing away any onions or salami sticks of the recalled brands. 
+Facebook planning to change name next week
+Facebook is planning to change from "primarily being a social media company to being a metaverse company," as CEO Mark Zuckerberg told The Verge. Like companies such as Google, which created a parent company Alphabet, and SnapChat, which rebranded itself to Snap, Inc., Facebook's name change signifies the company's ambition to expand beyond their most notable social media platforms. This metaverse is described as a "set of virtual spaces where you can create and explore with other people who aren't in the same physical space as you."
+However, some argue that the news of the name change was released to draw attention away from the backlash Facebook faced after former employee and whistleblower Frances Haugen testified before Congress with thousands of company documents as evidence that the company knowingly continued to harm the mental health of its users in favor of prioritizing profits. Currently, an anonymous second whistleblower also claims that Facebook prioritized profits over combating hate speech and misinformation.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+You can say what you want about Coldplay, but one thing cannot be disputed: they sure know how to be thematic. With eras more distinct and dedicated than Taylor Swift’s, the band has moved from stark minimalism (“A Rush of Blood to the Head”) to robotic futurism (“X&Y”) all the way back to the French Revolution (“Viva La Vida”). After following their ultra-pop rainbow “A Head Full of Dreams” with “Everyday Life,” which can only be described as earthy and awake, Coldplay takes a steep departure from, well, Earth. Their newly released “Music of the Spheres” is exactly what it sounds like; an album about space. Or maybe an album in space.
+Maybe Chris Martin has always had an obsession with the heavenly bodies. In the words of “Pitchfork” editor Ryan Dombal, “Here he goes again, looking at the stars, seeing how they shine.” Though the stars and space have entered Coldplay’s lyricism from time to time over the years, the strongest reminiscence of “Music of the Spheres” is certainly “Ghost Stories,” a nine-song ode to utter darkness. A lot of this new album is a reminiscence of what Coldplay has been and of what they want to be. 
+Cheesy optimism has always been Coldplay’s insignia, but this album goes above and beyond even “Mylo Xyloto” in that respect, all the way down to the songs titled with emojis. Yes, I said titled with emojis. Not even the cool ones, either. The red heart, the planet, Earth with the U.S. out front, the glitter symbol, and an infinity symbol. The glaring and horrible design choices don’t stop here, with the title of one song spelled “Biutyful” for no apparent reason. With the exception of “Infinite” and “Heart,” the emoji songs are mostly 20-30 second sound bits (one being almost entirely composed of applause, which sounds conceited even for a globally successful band). “Heart” features We Are KING and Jacob Collier, while “Infinite” is sparse on vocals, though it samples chordal patterns directly from “A Head Full of Dreams” and “Amazing Day.” With artists like Lord Huron and Lady Gaga adopting the 20-second interlude track and artists everywhere messing with capitalization and character choices in song titles, it's hard to gauge whether “Music of the Spheres” is a true expression of Coldplay’s creative interests or merely an exaggerated reflection of pre-existing trends in the music world. 
+Part of my somewhat naive equivocation here comes from the opinion that much of Coldplay’s older music, even the cornier stuff, was delivered with a sense of genuineness that is somewhat lacking in “Music of the Spheres.” Borderline ridiculous motivational ballads like “Up&Up” were always accompanied by songs with more grounding, like “Everglow” in the case of “A Head Full of Dreams.” Here, the only respite comes in the form of “Coloratura,” Coldplay’s first-ever 10 minute piece, and a beautifully composed wandering of the mind. The band only ever shows off their gift for instrumentation every once in a while, like in “Clocks” or “بنی آدم” (Bani Adam), so from that perspective “Coloratura” is somewhat of a gem. But lyrically, structurally, and just in comparison to other Coldplay classics, “Coloratura” seems to have it all, climaxing with a gut-wrenching guitar solo that brings a listener back to their deeper work, like “Death and All His Friends” off of “Viva La Vida.” In all, there's a sense here that all the ideas have been left on the table, a sense of satisfaction that closes out the album and redeems it all at once.
+Besides my obvious bias towards “Coloratura” and against the emoji songs, I’d say the album has just a bit left to offer, especially if you’re a fan of the motivational pop side of Coldplay. “People of the Pride” and “Let Somebody Go” are outliers somewhat, with Selena Gomez contributing vocals on the slow and morose “Let Somebody Go.” “People of the Pride" is a classic Coldplay call to revolution (What kind? Against whom? Nobody knows) reminiscent of “Viva La Vida” in general, or “42” specifically. Other than that, “Higher Power” and “Humankind,” while generally bland, pack some serious 80s retro-pop punch. In fact, one could argue that the verse of “Higher Power” plagiarizes directly from Bruce Springsteen’s 1984 classic “Dancing in the Dark.” Both songs also hold strong ties to former albums, namely “A Head Full of Dreams” and “Ghost Stories” (which, in all honesty, seem to have mated and birthed “Music of the Spheres"). “Biutyful,” too, calls to mind “Army of One.” Besides its horrific altered vocals at the beginning — think a singing five-year-old — the sentimentality of the song makes it a standout on the album. The biggest hit on “Music of the Spheres," though, is “My Universe,” a pop hit with a sick bassline and a pop-culture-supported feature from K-pop band BTS. It's an adrenaline rush of a song, bursting forth using the same fuel as some of the other more energetic pieces it accompanies. Though it certainly has its flaws, “Music of the Spheres” is certainly nothing new coming from Coldplay. A breath of fresh, synthesizer air after the acoustic dryness of “Everyday Life,” it reminds us that Coldplay has been around for a long time and is definitely not going anywhere anytime soon. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+This past week, I had the privilege of seeing both the Carnegie Mellon School of Drama’s production of "Power/Trip" as well as Scotch 'n’ Soda’s production of "The Rocky Horror Picture Show" back to back. I cannot think of two shows that are more different. "Power/Trip" is an original play (this was the script’s premiere), a complex exploration of the role of faith in the American government, explored through the lens of Shakespeare’s "Richard II." "The Rocky Horror Picture Show" is a cult musical from the 70s about a prim, square couple who stumble into a mansion owned by a mad, cross-dressing scientist who seduces them until they ultimately become … blasted off into space? 
+A review of both shows is in order. "Power/Trip" was phenomenally executed, as to be expected from productions at the School of Drama. Both written and directed by MFA student Anne Demelo, the play takes place in a community center, where members of a small American town are staging Shakespeare’s "Richard II." However, once the town’s local rich boy, named — if you can believe it — Richard, starts throwing a wrench into the rehearsal process, the line between reality, fiction, religion, and politics gets blurred until everyone is lost in the sauce ....
+The play ruthlessly questioned America’s relationship to institutions of faith and power, but boy, did we have fun along the way! "Power/Trip" featured, among many things, live music (including multiple renditions of Abba’s hit single "S.O.S"), phenomenal media design (have you ever seen the clip of Nixon claiming the president is allowed to break the law? Because once you see it it cannot be unseen), and of course, beautiful performances from the entire ensemble, both in the Shakespearean scenes as well as those rooted in realism. I could highlight specific performances and design choices, but they are all my classmates, so I will settle by saying everyone was amazing. If you want to know my thoughts on anyone’s specific performance, ask me in confidence, preferably after buying me dessert, and all will be revealed ....
+Across the lawn, Scotch n’ Soda’s production of "The Rocky Horror Picture Show" was absolute madness, luv. I have to say that, in complete honesty, I did go see the 11 p.m. showing (known colloquially as the "drunk show"), and boy, did the audience live up to its nickname. However, I consider myself to be a strong enough critic to be able to be the final and most authoritative voice on any play, no matter what state of intoxication I, or others, might be in, so I’ll share my complex artistic observations here:
+Darn it, this stupid little school has a stupid amount of talent. I mean … Frank-N-Furter both looked and sounded so good it was practically rude. The instrumentation was bombastic (and loud enough to sing along to!), the costuming was just as raunchy as necessary, and the performances sounded, in my artistic opinion, DUMB good. While I did have the time of my absolute little life screaming the callbacks, I almost felt rude screaming over Caroline Holmes and Charlie Botts stellar voices. More than anything, I was reminded of how fun theatre can be when those on stage are having a ball and those in the audience are right there with them.
+This brings me to my final observation of the week: thank god we can see plays again. Due to the famous and critically acclaimed global pandemista of 2019, 2020, possibly 2021 … (Miss Alpha Delta Psi Corona Part Two Electric Boogaloo just will not quit!) I didn’t see a single play for a solid 18 months of my sad, long life. In these two productions, I experienced a concentrated representation of the two extremes of why I go to the theatre: first, as an intellectual challenge, a sacred experience to transform my understanding of the world around me; and second, as an immediate, visceral, brainless, and JOYFUL activity in abandoning myself in a beautiful, surreal world far from my own. And for this, I am profoundly grateful to the cast and crews of these shows: thank you so, so much for sharing your gifts.
+Just kidding! I have one more observation before I close up my column. If you’re reading this, I beg you, on bended knee and with my head hung low, please please please go see plays. Even if you are not a member of the School of Drama, go see School of Drama plays. There are three coming up next month (check out the event calendar for more information!) and all three will be phenomenal, I can already tell. Also, tickets are free if you’re a student, and if anything, spending two hours in a theatre is a good, cultured excuse to procrastinate from doing your homework! Secondly, if you are someone who doesn’t usually go to see Scotch 'n’ Soda’s productions, go see Scotch 'n’ Soda’s productions. There is such a huge talent pool of artists at this school, even (and perhaps, especially?) outside of Carnegie Mellon’s big ole College of Freak Art. Take your special crush to a play, bring all your friends and yell at the actors when they mess up a line, steal props from backstage, get up on stage and start acting yourself … going to the theatre is fun, and I want every single person in the world to do it, constantly! Seeing theatre is a privilege, and I will never take it for granted ever again.
+We are ALL suffering and we are ALL getting caught in the rain, and we are ALL waiting for the bus and we are ALL constantly out of breath, sweaty, and smelling horrible from walking uphill (okay maybe that’s just me).
+And we should ALL go to the theatre, together. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Mid-show exhaustion was just beginning to set in and I honestly thought I was hallucinating when I heard the intro to ABBA’s “S.O.S.” emanating from the cello and violin and guitar in the corner of the stage — Richard’s cello and violin and guitar.
+They were his, he reminded us. They belonged to him, just as everything else in Anne Cecilia Demelo’s "Power/Trip" (performed last week at CFA) belonged to him, a highly ironic effect in a show about the impotence and toxicity of government leaders.
+Richard, played by senior Jonathan Champion, commanded attention from the very beginning, sulking near the instrumentalists and failing to make himself known until it was quite necessary, a pattern that would continue throughout the show. When he did make himself known, particularly in his layman form, it was consistently to raise objections. "Power/Trip" featured two versions of Richard, one being a wealthy, whiny man and actor, and the other being King Richard II from Shakespeare’s famous play, which was performed as part of the show. Throughout, layman Richard’s comments called attention to his privilege — his rights and values that conflicted so thoroughly with those of the other actors. When another actor offered that she would be videotaping the performance process of "Richard II," Richard condemned video and media as a violation of God’s work, citing his privacy rights as a reason that he should not be videotaped. As the play rehearsal continued, other characters began to discuss more in-depth the political and social conflicts presented by the play and by the world around them. Each time, Richard emphatically attempted to cut short the conversations around him, reminding his fellow cast of the sacred nature of acting and the importance of remaining present. Sometimes his chiding seemed like encouragement and at other times a manipulative forcing of these players back into a play that was quickly consuming them whole.
+In terms of the play-within-the-play, a wonderfully meta nod to the Shakespearean roots of the show, Richard took his own advice. Fully embodying the role of King Richard II, he was the first actor to don his Shakespearean costume. By becoming more than an actor, more than a man, he promptly became more than a king, proving one of the predominant themes of the show. References to his divine body, his covenant, and his representation of his people served to ridicule the relationship between political power and religion which has been consistently present throughout history, from the divine right of kings to swearing on the Bible. After he’s been dethroned, Richard’s incredulity manifests itself in this particular role: he assures himself that he will survive his fall because he is more than a king, he is a child of God.
+In the meantime, there is an obvious sense of insecurity that comes with Richard’s character. Explicitly, he threatens violence when he senses rebellion, but internally, there is a struggle that threatens to break all structure by revealing his vulnerability. In his power and his glory he is isolated and for much of the play he is truly unreachable, living in his own mind. His grandeur often betrays him though, and it is in his most focused moments that we hear an obvious cry for help. Richard would appear on stage alone, speaking directly to the audience with persuasion and manipulation and what appeared to be the truth. He asked us to fix him, to be his friend. He told us that history would portray him, but that we would know the truth. He begged us, please, please, not to leave him, to believe in him. I wanted to. I wanted to think that I could trust him, just like we all want to think that we can trust the people who decide our laws and our lives; the alternative is too scary to contemplate. Inside, he must know what is right and what is wrong — everyone does.
+It is important to note that two wide doors upstage remain closed until these moments occur, widening to expose the black backstage void behind them the closer Richard comes to breaking down. A clear metaphor for the exposition of Richard’s desperation, the set change added depth to the story and to the stage, changing the lighting composition and pulling the audience in deeper. As Richard grew more and more irritable, the doors opened more and more, often with him having disappeared somewhere behind them; by the end of the show, it was difficult to remember that the doors had ever been there at all.
+Here I would like to return to the scene that I opened with: the spontaneous performance of ABBA’s “S.O.S.” by a sequin-clad Richard quite out of nowhere. Besides the obvious nature of the song — S.O.S.! — there was something extremely sinister about what was essentially a self-glorification and power grab and a vivid nightmare all in one. As an audience, we’d already been through his compelling run-around a few times, and by the time he was singing, I was just about sold. How could someone evil sing disco? Two key changes and a confetti shower later, though, I felt more embarrassed than anything — for him, and for myself, too. Eventually, he was gone, but the confetti stayed, a reminder of everything that was going on inside while he pretended to be okay.
+The rest of the cast did what they could to undermine Richard’s credibility, criticizing his inability to handle conflict, his naivety, insufferability, and his tendency to make mistakes. But none of it meant anything in the end. In a classic Shakespearean death sequence, Richard admits his wrongs and his desire to change and is promptly stabbed in the back by another cast member, leaving the audience with a violent sense of loss. We trusted him all along, he told us to trust him and we were right to comply. It is unclear whether or not this world is better off without him. It is unclear whether or not anyone in the cast was paying enough attention to fully understand what happened. The intensity has grown and shattered, and no questions have been answered. The king is dead.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Q. I want to save money on Ubers, but I keep missing the bus! How do I get around the city cheaply?
+A. This question is irrelevant because space as you know it is a construct. I won’t get all Neil De-Ass Tyson on you, but what you have to understand is you’re already where you need to be. If you have to go to Target, just paint a bullseye on your bathroom mirror and BOOM ... you’re in the produce aisle. Need to get to the Manor? Just put your hand in front of a lamp and pretend like your little piggies are Daniel Craig and Rami Malek.
+Q. I’m feeling really overwhelmed, mainly because I let my assignments pile up. How do I keep from procrastinating so much?
+A. A common problem, to be sure. Why do something hard now when you can do something easy? Why do something easy now when you could do nothing at all? Why even ask yourself these tough questions? Why even write an advice column trying to tackle them?
+Q. Late night studying is a must, but coffee makes me jittery. How do you stay up late to get your grind on?
+A. First things first, don’t say “get your grind on.” It’s not 2005 anymore. But to answer your question, I would look no further than the polygraph test. One way people have found to fool the ol’ lie detector is to stick a thumbtack in their shoe, raising their overall stress level and throwing off the readings. So there. Put something sharp in your shoe and lie to yourself, mainly about the fact that everything will be fine and you’ll finish your assignment in time.
+Q. Whenever I’m at Schenley Park, I see people laying out, basking in the fall air. How do I learn to relax and be in the moment like those guys?
+A. You could start with a hammock, but something tells me you’ve thought of that already. No, you need something heavy-duty. If you really want to find your zen in the out-of-doors, I strongly recommend a practice known as “loaming.” This is where you dig a hole about a third of your height and hop inside. You fill the hole again as compactly as you can and stay as still as possible. Eventually, you will become one with the Earth, or at least so bored that you’ll forget to worry about whether you’re “chill enough.”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Last week, the Allegheny County Police Association (ACPA), the union representing Allegheny County’s police force, filed a complaint with the Pennsylvania Court of Common Pleas asking for an immediate injunction of the vaccine mandate instated by the county for its employees last month. Out of its 203 members, 47 are not vaccinated (roughly 23 percent). 
+The mandate called for proof of vaccination of all county employees by Dec. 1, and those who remain unvaccinated face losing their jobs. The complaint, an extension of a Sept. 30 charge of unfair labor practices, challenged the vaccine mandate primarily on the grounds of constitutional liberties and the effectiveness and safety of available vaccines. According to the filing, it infringes on members’ “bodily autonomy with no public health justification.” 
+In a recent 90.5 WESA article, however, medical experts weighed in on the complaint and found that it was “full of false statements and gross misinterpretations of data.” 
+The ACPA’s complaint questioned the necessity of the vaccine as well as its effectiveness. The filing argued that those who have recovered from the virus had greater immunity than those who had received the vaccine, citing a recent study from Israel. However, the paper is still being peer-reviewed, and concrete evidence for the greater protection given by natural immunity is still pending. 
+The filing went into detail about each of the three vaccines currently offered, suggesting that they were either not ready for distribution, dangerous, or otherwise unethical or ineffective, at times perpetuating myths that have since been debunked. In one section, it claimed the “viral vector that forms the backbone of the J&J vaccine is grown in a continuous (“immortalized”) human embryonic cell line derived from the abortion of a healthy 18-week-old fetus,” citing a Religion News Service article from March 2021. It claimed that not only was the vaccine unnecessary and unsafe, but that it was also unethical. 
+Earlier this year, there was a wave of misinformation about the vaccines including claims that the Johnson & Johnson vaccine includes aborted fetal cells. “It is true that decades ago scientists decided to use fetal tissue to start the cell lines we use to test drugs today,” infectious disease expert James Lawler writes. “However, the description of ongoing modern fetal tissue harvesting to create vaccines is dishonest sensationalism.” No fetal cells have been collected for use in vaccines since the 1960s. Instead, Johnson & Johnson uses reproductions of the original cells from said cell lines, which allow the original cells to reproduce indefinitely by mitosis, negating any need to harvest new cells.
+A judge will hear arguments for the case in late November.
+“According to the CDC, COVID-19 overall has a 99.74% survival rate,” the ACPA wrote as part of their argument against the necessity of the vaccine. “Among young people, that number is even higher. For people aged 18 to 29, the survival rate is 99.97%.” 
+As of Oct. 23, 30,903 Pennsylvanians have died from COVID-19.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+In May 2020, the murder of George Floyd sparked conversations about race and civil rights around the globe. Since then, these conversations have brought critical race theory (CRT) to mainstream discourse.
+In addition to discussing critical race theory in the context of general society, CRT is starting to be used more often to address issues within universities. Carnegie Mellon's virtual panel discussion "Critical Race Theory Within & Beyond the University" with moderator Jason England, assistant professor of English at Carnegie Mellon, garnered over 80 participants interested in tackling how universities and the nation as a whole could alleviate racial inequality through the lens of CRT.
+What is critical race theory?
+Critical race theory is a legal and academic framework focused on the idea that "race is a social construct, and that racism is not merely the product of individual bias or prejudice, but also something embedded in legal systems and policies," according to EdWeek. 
+Panelist Roderick Ferguson, Yale professor of women's, gender, and sexuality studies, noted how CRT was based on the field of critical legal theory, but while critical legal theory sought to address "the subjectivity of the Constitution," CRT sought to address the "racial embeddings" in the Constitution.
+Response to critical race theory
+A key point of discussion was how to counter the strong sense of resistance toward the idea of critical race theory. Leigh Patel, University of Pittsburgh professor in learning sciences and policy, mentioned how some saw CRT as a threat, afraid that CRT will engender resentment and division in the country and cause individuals to attribute blame to white people. She referenced an executive order filed in September 2020 under the Trump administration, which argues that diversity and inclusion training could perpetuate "racial stereotypes and division … Similarly, [we] should not teach our heroic men and women in uniform the lie that the country for which they are willing to die is fundamentally racist." Patel emphasized that instead of blaming white people, she believes that CRT's core purpose is to look at how racism is embedded in social systems, and that instead of trying to promote uniformity, we should celebrate diversity. 
+The panelists seemed to agree that there was pushback from the right on implementing CRT. Ferguson referenced the late Supreme Court Justice Lewis Powell's Memorandum, which asserts that the "American economic system is under broad attack.” While the memorandum does not directly address CRT, Ferguson argued that it tried to suppress "emergent languages" related to diversity and CRT and turn them into "dead languages." Martinez brought up how conservative activist Christopher Rufo openly tweeted about the right's efforts to turn CRT into a negative word by attaching negative connotations to the term.
+Some may believe that liberals are more accepting of CRT, but for Aja Martinez, University of North Texas assistant professor of English, that was not the case until recently. She talked about how she used to get pushback from mainstream liberals on integrating CRT into her classroom materials, but now that there is less resistance from them she felt skepticism of the motivation behind their acceptance.
+Implementing critical race theory's teachings
+Moderator England reflected on the remarks of the panelists, wondering how people could rescue CRT from its integration into normality, and prevent the discipline's language from being appropriated by bad actors.
+One option, advocated by Martinez, is counterstory. Martinez earlier discussed a book she authored called "Counterstory: The Rhetoric and Writing of Critical Race Theory." She defined the methodology of the counterstory genre as a "critical race theory-informed justification for the work" which recognized that narrative and experiences were valid research material and that there was no truly neutral or objective critical race research. She believed that counterstory could make difficult documents like the Constitution more accessible, referencing authors like Derrick Bell, who wrote the book "And We Are Not Saved" where one of the characters travels back in time to the Constitutional Convention of 1787.
+Patel advocated for reading the papers of the Black Reconstruction Collective, which she had been doing in her classroom, hoping that it would "pop off the lid of lies" that the U.S. was not a racist country. Ferguson said that the first step is to give a name to the misuse and mis-attachment of connotations to CRT so that teachers could tell students to not fall into that trap. He also emphasized that it was important to come up with new terminologies to avoid old ones becoming "dead languages," a sentiment Patel echoed.
+Critical race theory and universities
+In the context of the university as a system, Patel said that "what's going on in universities is really connected to what's going on outside universities." She believed that diversity, equity, and inclusion (DEI) initiatives were often created to be "non-performatives," in which students air their grievances around DEI under the illusion that they will be addressed, but are instead effectively ignored. She questioned whether the university as an institution was really a force of social change as many have claimed it to be.
+Martinez talked about how she held class discussions on "diversity as a marketable concept," referring to the way that universities will emphasize their diversity in order to market themselves while perhaps not actually being that diverse. She mentioned how universities would sometimes make "DEI hires," hiring faculty members of color and having them teach elective courses on themes of DEI, but not integrating these classes into the core curriculum. 
+Overall, the panelists expressed worry for the pushback against critical race theory and were skeptical of the trend of performative diversity efforts in both universities and the nation as a whole.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+This week, Carnegie Mellon's Pittsburgh campus had four cases of COVID-19 among students on campus, four cases among students off-campus, and three cases among staff and faculty on campus. This is consistent with last week's cases, when there were four cases among students on campus, seven cases among faculty and staff on campus, and four cases among faculty and staff off-campus. No isolation or quarantine bedding is in use, and 116 beds are still available. From Oct. 19 to Oct. 21, Tartan Testing flagged two positive cases out of 1,164 tests.
+Additionally, Carnegie Mellon now reports 98 percent of its Pittsburgh community is fully vaccinated against COVID-19, and 98 percent of students, 99 percent of faculty, and 95 percent of staff are fully vaccinated. The vaccination rate may have topped out, as Carnegie Mellon has approved vaccine exemptions for 1.73 percent of the population.
+This week, Carnegie Mellon announced that it will offer booster shots of the Pfizer-BioNTech vaccine next month for eligible community members. The CDC expanded its eligible group for booster shots. Now, the CDC recommends that anyone who received a Pfizer or Moderna shot six months ago who is also older than 65, works in a long-term care setting, has an underlying medical condition, or works in a high-risk setting gets a booster shot. Anyone who received the Johnson & Johnson vaccine over two months ago and is over 18 should get a booster shot, the CDC recommended. People can find out if they are eligible for a booster shot at https://www.cdc.gov/coronavirus/2019-ncov/vaccines/booster-shot.html.
+For those who are eligible for a booster shot, the CDC also advised that the booster shot does not need to be the same type as their original shot, allowing for "mixing-and-matching" of vaccines. CVS, Rite Aid, and Giant Eagle are all scheduling appointments for booster shots among other locations.
+The Allegheny County Health Department reported 698 confirmed cases of COVID-19 and 19 hospitalizations in the week beginning Oct. 17, compared to 1,907 confirmed cases and 144 hospitalizations the week before. There have been 76 deaths due to COVID-19 in Allegheny County in October. The CDC reported 28,185 COVID-19 cases and 485 deaths in Pennsylvania in the past seven days. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+From somewhere in northern Italy to somewhere in the depths of a candy-flavored hell, the American cinema is addicted to shoving this curly-haired sapling into any movie that can fit his skinny frame. We’ve known the film industry is a soulless money-making machine for years, but truly, God, why have you forsaken us? Is Greta Gerwig directing? Will young Willy fall for a wily, willful, whimsical young Oompa Loompa played by Saorise Ronan? The names of both are similarly stupid.
+In all seriousness, how can anyone be serious about this? Roald Dahl is rolling in his peach pit grave. I don’t want to know what Wonka did prior to his chocolate factory. Did he have a chocolate start up? A chocolate GoFundMe? A degree in material sciences? I don’t CARE. Make it stop. He’s so skinny he looks like he’s never even seen a chocolate bar, much less eaten one. Armie Hammer would have been a more appropriate choice, as Hammer at least shares similarities with Wonka himself. Both are similarly unhinged, profoundly strange men that are obsessed with eating questionable things that aren’t very good for you.
+To add to the confusion, the supporting cast is similarly insane: Olivia Coleman (British?), Keegan Michael-Key (Not British?) and … Mr. Bean (Rowan Atkinson). That’s right, Mr. Bean himself has been given a supporting role in the feature, perhaps to heighten the already excruciating embarrassment of the film’s premise to new heights. I can’t wrap my mind around the fact that all these actors are somehow going to be in a room together, acting with deadpan seriousness in scenes with a purple pantalooned Timothée.
+Oompa loompa doompety doo, this movie is made for … who? I cannot help but feel the same helpless confusion I experienced when I first violently witnessed the “Cats” (2019) trailer. Simply why are these movies being made? When I was a child, all I wanted to watch was claymation movies about sheep and Barbie’s “The Princess and the Pauper.” Exposing our children to these off-the-rails “adaptations” with star-studded casts will corrupt their ability to judge good movies from bad ones. What will these children expect next? An adaptation of “The Princess Bride” starring Victoria Pedretti and Penn Badgeley? A retelling of “Fantastic Mr. Fox” from Mrs. Fox’s perspective, starring Anya Taylor-Joy and Ansel Elgort in the main roles? Doja Cat stars as Maria in a new adaptation of “The Sound of Music”? Dua Lipa plays Mary Poppins? 
+I feel like a character strapped into Wonka’s crazy boat, hurtling down a psychedelic tunnel on a river of chocolate, unable to escape the poop-colored torrent of “content” flooding my way. Where’s my golden ticket, my great glass elevator to save me from this world of pure — no — sick imagination?
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+We are motivated to speak following many dismaying reactions to the GSA's March 8, 2021 statement within the Carnegie Mellon University community. We recognize that the specifics of the GSA's statement are divisive and the tastefulness of many aspects are debatable. We are alarmed, however, by larger trends within Carnegie Mellon which were illustrated by this incident — specifically the perceived punishments for discussing the on-going atrocities in East Turkestan (aka Xinjiang), and the widely expressed denial of these occurrences. Our central concern is ensuring truth, representation, and awareness continue to evolve at Carnegie Mellon, and that none of these pillars be stifled by any crowd reaction, no matter the size. To this end, we stand behind the following:
+To the extent that the international community knows anything about events in the world over the last several decades, we acknowledge that the events mentioned in the third paragraph of the GSA's statement are true and accurately reported. 
+Of particular note, we recognize that there are systematic attempts to push the Uighur people and distinct cultures of East Turkestan into extinction — facts that could imply a cultural genocide and exploitation of an ethnicity for forced labor (for instance, [2 - 25]). The seriousness of these claims requires complete frankness in any community which dedicates itself to diversity, equity, inclusion, and general human rights. Members of Carnegie Mellon’s community must, at a minimum, continue to discuss these verified stories and spread cognizance of these issues. Not only are discourse and growth of understanding in line with the foundational values that any legitimate university should have, they are essential to ensure that all members of our community — especially those whose own lives are being radically reshuffled by the events cited — are not disserved by silence at Carnegie Mellon.
+We are gravely concerned that recent reactions to the GSA's statement at Carnegie Mellon give a false message that those who speak supporting these reports’ veracity will face consequences, regardless of whether that signal was intentionally sent or not. Many reactions we observed have included vocal and deeply disturbing denials of facts — troubling responses which at best result from lack of prior informedness regarding the distressing accounts. In the face of these reactions and their magnitude, we believe that our statement — and continued efforts by Carnegie Mellon’s members, organizations, and administration — are adequate steps to ensure that the growing seeds of awareness and discourse are not stomped out.
+Carnegie Mellon can, and should, lead by example in fostering a dynamic academic environment conducive to its core values and hopes — principles also broadly held by its community. We make our statement to aid in that pursuit, in order to counter fears which promote stagnation, increase silence, disserve underrepresented members of our community, and otherwise run counter to the core values of the university. Neither silence nor ignorance are virtuous, productive, or kind — they are often the default and easiest paths. It is up to all of us at Carnegie Mellon to ensure these are not the paths taken, especially when confronted by serious events that stand entirely antithetical to human dignity.
+To sum up, this resolution by the Turkish Student Society (TUSO) and the Iranian Student Association (ISA) at Carnegie Mellon University calls on all members of this prestigious institution to recognize and denounce racism, discrimination, and religious intolerance in all their incarnations — and particularly in the outrageous forms being executed in East Turkestan.
+Appendix: Referenced Material and Brief Overview of Claims
+Reports of human right abuses in East Turkestan (aka Xinjiang) have been raised by numerous independent media outlets and international organizations, spanning multiple countries and cultural spheres. Reports cover an astonishingly wide range of practices apparently geared toward the erasure of the Uighur ethnicity and cultural identity, including, but not limited to: forced sterilization; forced abortion; involuntary reeducation camps for adults and children; forced labor; systematic rape and torture; mass surveillance; separating Uighur children from their extended families, including by involuntary adoption; compulsory housing of government overseers in Uighur family homes to enforce anti-religious, pro-party customs; thinning of the regional Uighur population density by coerced relocation to elsewhere across China; systematic attempts to erode Islam in East Turkestan by banning attendance of mosque, religious head-garb, and traditional phrases with religious etymologies (e.g., as-salamu alaykum), as well as compulsory consumption of haram nutriments (e.g., pork and alcohol); and destruction of mosques and landmarks indicative of the local cultures in East Turkestan. A small, representative sample of related reports are provided here in references [2 - 25].
+[1] GSA’s March 8th Message On Anti-Asian Sentiment (The Wayback Machine).
+[2] Uyghurs | Human Rights Watch (hrw.org)
+[3] Uyghurs for sale | Australian Strategic Policy Institute | ASPI
+[4] WATCH: Undercover in the Most Dystopian Place in the World (vice.com)
+[5] U.S. Declares China's Human Rights Abuses Against Muslim Uighurs 'Genocide' | Here & Now (wbur.org)
+[6] Uighur Refugees Describe Conditions and the Crackdowns in Xinjiang (Moscow Times)
+[7] Uighur Women Reportedly Sterilized to Suppress Population (Deutsche Welle, DW)
+[8] Systematic Tracking and Arrests of Uighurs (DW)
+[9] New Evidence of Arbitrary Oppression of the Uighurs (DW)
+[10] Exploitation of Uighurs Called Modern-Day Slavery (DW)
+[11] Video of Uighurs in Questionable Conditions (Australian Broadcasting Corporation, ABC)
+[12] Satellite Images Expose Forced Reeducation Camps for Uighurs (ABC)
+[13] UN Demands Access to Uighur Region of East Turkestan (Al Jazeera)
+[14] Leaked Internal Documents Show Details of Xinjiang Crackdown (Al Jazeera)
+[15] Germany Raises Issue of Abuse of Uighurs’ Human Rights (Al Jazeera)
+[16] UN Panel: One Million Muslim Uighurs Held in Secret Camps (Al Jazeera)
+[17] Dutch Parliament Says Treatment of Uighurs is Genocide (Al Jazeera)
+[18] Academics Condemn Reeducation Camps in Xinjiang and Urge Sanctions (Al Jazeera)
+[19] Newlines Institute Calls Treatment of Uighurs Genocide (Al Jazeera)
+[20] Overview of Uighur Reeducation Camps as of October 2018 (British Broadcasting Corporation, BBC) 
+[21] Who are the Uighurs and why is China being accused of genocide? (BBC)
+[22] UK accuses China of 'gross' human rights abuses against Uighurs - BBC News
+[23] Escapees Report of Reeducation Camps in East Turkestan (Haaretz)
+[24] Report Accidentally Released Indicating Forced Relocation, Retraining of Uighurs (Canadian Broadcasting Corporation, CBC)
+[25] Independent Report Calls Treatment of Uighurs Genocide (CBC)
+Appendix: Student Organizations that Wish to Publicly Support this Statement:
+The Arab Student Organization (ASO)
+The International Student Union (ISU)
+Mayur - South Asian Student Association (SASA)
+The CMU Hillel Jewish Student Association (JSA)
+SIAM (Thai Student Association)
+The Spanish and Latin Student Association (SALSA)
+The Muslim Student Association (MSA)
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+On the morning of Oct. 11, the Carnegie Mellon community arrived on campus to a new coat of paint on the Fence, a normal sighting. However, this specific design, painted by the Carnegie Mellon College Republicans, has caused many students to speak amongst peers on social media to express their anger and discomfort with the messaging. However, the backlash against the messaging on the Fence is more than just disagreement amongst differing political alignments. Instead, it is a gross display of privilege, in which the members of Carnegie Mellon College Republicans are speaking over the voices of marginalized groups on campus and minimizing their concerns.
+The phrasing on the front of the Fence, “Republican is not a bad word,” is a direct play from a phrase that was painted on the Fence the week before, saying “Abortion is not a bad word, ” painted by various members of the community in response to anti-abortion protestors that came to campus. In addition to painting the Fence, these community members also raised over $300 for the Western PA Fund for Choice. For the Carnegie Mellon College Republicans to see this display of solidarity against the systemic oppression of women, and then conflate that serious issue to a perceived feeling of ostracization for one’s political affiliation, caused a lot of hurt amongst community members directly affected by anti-abortion rhetoric and our allies.
+In addition, Oct. 11 marks two important holidays for marginalized communities: Indigenous Peoples’ Day, which is meant to honor Native people in the United States and acknowledge the harm inflicted upon them throughout the history of this country, and National Coming Out Day, a day to empower those in the LGBTQ+ community to live as their authentic selves. Both of these communities still face significant violence in the United States. The National Institute of Justice has found that Native women are 1.2 times more likely to experience violence in their lifetime than their white counterparts. A study done by the Williams Institute at UCLA Law School reported that LGBTQ+ people are four times more likely to experience violent victimization than people not in the LGBTQ+ community. Whether intentional or not, having “Republican is not a bad word” painted on the Fence on these holidays further perpetuates the cycle of violence against these different marginalized groups by minimizing voices on a day that was meant to amplify them. It created an environment in which people at Carnegie Mellon felt uncomfortable.
+Throughout history, rhetoric and policies pushed by members of the Republican party have had deep, long-lasting negative impacts on so many different communities. This month, Republican lawmakers in Texas passed a law that would outlaw almost all abortions, violating the autonomy of all women living in the state to make decisions about their own bodies. When this is the latest addition to a legacy that continues to harm so many, why would we not see Republican as a bad word?
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Carnegie Mellon students are notoriously stressed: a point of pride for some, emotional distress for others, and, for most, just another part of life on campus. The university makes frequent attempts to encourage students to seek help and find ways to relax and let loose. However, it is hard to not feel like these encouragements are half-hearted when little is done to make student life less stressful. After slaving away for midterms, Carnegie Mellon students were treated to a single Thursday off and were expected to get right back to work the next day. This is not much of a break, as many had exams soon after and spent “fall break” in Hunt. Even worse, some had exams on the day of mid-semester break, effectively making it just another school day.
+Mid-semester break is derived from the psychological understanding that breaks after stressful periods are crucially important to mental health. However, how are students supposed to take a break when they have to spend their single day off in the middle of the week, still stressed and bombarded with work, counting the days until Thanksgiving? 
+Not only that, but Carnegie Mellon students must watch their counterparts at other universities relish in several days off, if not a full week, while they are stuck in their rooms surrounded by papers due the following day. On the official Carnegie Mellon 2021-22 Academic Calendar, they had to mark Oct. 15 as a class day (in a vibrant red) because there was confusion about if there was class that day. While some were hoping for a long weekend, their hopes were dashed by the break day only lasting a single Thursday.
+Not to say there is no logic to a single day off, after all, the length of the semester was made to ensure classes can be taught at a reasonable pace. Even the Thursday off has logic behind it — with Friday and Monday classes so often being canceled, Thursday classes could afford to take one class off. Still, while well-intentioned, the Thursday off did little to alleviate the pressure of midterms and quite honestly just became another day of homework and studying. 
+Due to the shortening of the semester to just 14 weeks instead of the pre-COVID 15 weeks, many classes are feeling more rushed to cover content or have ended up cutting content from the course. As such, some classes cannot afford for students not to complete work over a break day. 
+If a class has their weekly assignments due on Friday and there is no class, the professor might choose to move the due date to the following Monday, granting students the weekend to complete their assignment. However, a Thursday break day would grant one additional day for the student to get the assignment done — on a day that should be separate from academic work. This, of course, assumes the professor moved the original due date. This could lead to a pitfall for many students; they plan to do their work on their day off but wind up taking the day off since they are so burnt out and no work ends up getting done. The assignment is still due the following day, but it remains incomplete or rushed when the deadline arrives. 
+Having a single Thursday off in the middle of the semester is not the break that Carnegie Mellon students needed. While it may have been useful to balance out the academic calendar by taking a Thursday off instead of a Friday, the break failed to serve its purpose for many in the student body. While students at other universities were treated to several days off, Carnegie Mellon students were treated to a continuing cycle of stress and work.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+

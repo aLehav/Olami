@@ -1,0 +1,688 @@
+
+This is Penalty Shouts, The Tartan’s sports column inspired by the The New Yorker’s column Daily Shouts. This satire-fueled column will focus on anything and everything funny in the sports world that is deserving of our comedic attention.
+The Tartan’s publication schedule means that the Super Bowl won’t even have started by the time we send our paper to the printer, so it’s a Schrödinger’s cat situation for any Super Bowl recap. And by the time next week’s edition is published, the sports world has already moved on to baseball spring training as pitchers and catchers report between February 11 and 16. I’m in a bit of a pickle.
+So congratulations to the New England Patriots! And to the Los Angeles Rams! And sorry… to both teams. Everyone played well, and there was so much love on each side of the field, mostly because of Josh Gordon. Tom Brady doesn’t feel human emotions because he’s a robot. And a Nazi.
+One of the high points of the evening was when Maroon 5 came on field in the middle of the game, not unlike the University of California and Stanford game in 1982 when the marching band ran on the field. Per usual, Bill Belichick was stone-faced. The referees started dancing to “Girls Like You.” Ndamukong Suh stepped on Adam Levine’s hand as he dropped back for a mic pass to feature performer Snoop Dogg.
+Eventually the team got off the field, and the action commenced again when Maroon 5 actually came on for their halftime performance. It was fine, but way less exciting than their surprise gab at the end of the first half.
+In the second half, the game came down to the wire as Tom Brady, or Todd Gurley, threw up a last ditch Hail Mary to win the game, and as it came down and the dust settled, the other team rose up with the ball sending the game into overtime.
+In overtime, the team that won the coin toss immediately went down field to score a touchdown because the NFL’s overtime rules are silly. Of course whoever gets the ball first is going to score to win the game. If you don’t score on the first drive in overtime, then do you even deserve to be an NFL football team? I’ve seen more effort in pee-wee football. Next time just throw the ball into the endzone. It’s not actually that hard.
+Hopefully, the game ends with just a few fights between fans, so I have something fun to write about next week. Or maybe Tom Brady spontaneously combusts mid-touchdown pass to thunderous applause. Maybe something will make me happy. I know the Patriots won’t do that. The food won’t even make me happy. Thanks, Patriots.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Historically, people who follow soccer have not paid much attention to statistics. Some may argue that talent and skill cannot be quantified easily, or they might suggest that numbers and mathematical models fail to acknowledge the beauty and elegance of the game. For the most part, they are right. Soccer is a low-scoring game with few other standard statistical markers. The game also involves 22 different players whose actions — for the duration of ninety minutes  — influence the final result. These players make the outcome, which is simultaneously influenced by external, uncontrollable factors like weather conditions, hard to predict and blurs individual talent in numbers.
+This unpredictability stands in contrast with other sports, which have been implementing mathematical models and statistical data in analysis of their respective games. Baseball, for example, had its Moneyball movement in the early 2000’s. This movement saw teams beginning to use data collected on players to drive recruitment and devise responsive on-field strategies to increase their likelihood of winning. The best example of this analysis in baseball is its increased use of advanced statistics, like Wins Above Replacement (WAR), and teams continue to develop more advanced statistics that relate the average launch speed of a batted ball to a player’s BABIP (Batting Average on Balls In Play).
+Part of the reason that statistics have advanced far more in sports like baseball and basketball in comparison to sports like soccer is the collection of data. Aside from goals, assists, and clean sheets, individual actions in a soccer game are hard to quantify. This statistical roadblock is why systemic tracking of players and match data only began around ten years ago. Before this, keeping up with multiple matches occurring in different locations across different leagues made the reliable collection of numbers difficult, if not impossible. Social media and the Internet and better computer processing power, which only really became widespread around a decade ago, made it easier for fans to compile objective data in a sport not classically known for its statistical side. This relatively new practice means that soccer analytics are less advanced. It also means that the average fan lacks a nuanced understanding of some of the controversial statistics being used to interpret the game, like expected goals, often referred to as xG.
+So far, the implementation of statistics into soccer has been positive. Teams can easily gather information about their opponents and their tactics. This convenience allows managers to create well-thought out game plans that suit their team, maximize opponents’ weaknesses, and increase their chances of winning. However, the most important change soccer analytics has produced is in the player recruitment process. While not being known as a sport for the people, soccer has a reputation of being a game that favors the wealthy. Considering Real Madrid and their galacticos plan to purchase some of the most well-renowned footballers to teams like Paris Saint-Germain and Manchester City, both of which spend billions of dollars on the transfer market for the biggest names, fans know that teams with more money are likely to have better players and, consequently, dominate both domestic and international competitions.
+Refreshingly, statistics and computational models are helping to level the playing field. Clubs with less resources have taken advantage of the accessibility of player data to facilitate player recruitment and minimize the financial risk that comes with team transfers. Some teams have even gone as far as creating football analytics departments that lead the development and the maintenance of data collection, as well as the interpretation of this data to help their teams progress. Other teams have created their own models that use numbers collected on players to evaluate whether the player would be a good fit into their team and whether the financial risk associated with the player purchase would be worth it. Famously, Leicester City signed Riyad Mahrez from French second division side Le Havre for less than half a million pounds. He went on to be a crucial part of their title-winning team in 2015-2016 and was later sold to Manchester City for upwards of sixty million pounds.
+Though fairly recent, the incorporation of statistics into soccer has brought new life into the game. Soccer is the most popular sport in the world, perhaps because of its unpredictability. However, there were only ever a handful of teams that would win the top-flight leagues, like La Liga or Bundesliga, killing the odds of surprises towards the end of competitions. Leicester City’s performance was more than just a fluke. It was a sign of the times to come. Despite its flaws and its recency, analytics are helping smaller clubs catch up with the bigger ones. Those hesitant to embrace and exploit the benefits soccer analytics can produce should look forward to soccer’s Moneyball revolution, if not for the advancement of the sport, for the sake of more competitive leagues and more exhilarating matches.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Last weekend, the Australian Open concluded with women’s and men’s single champions, both familiar faces, but in very  different moments of their career. Naomi Osaka solidified her place as one of the stars of the next generation of tennis players, winning her second grand slam in a row at just 21 years old. Novak Djokovic won his 15th slam, his seventh in Melbourne, inching on Roger Federer’s 20-slam record and proclaiming the longevity of his legacy as one of the greatest tennis players of all time.
+Osaka’s slam final was a test of will. After beating Ukraine’s Elina Svitolina and Czech Republic’s Karolína Plíšková in the quarter and semi-finals, respectively, Osaka met Czech Republic’s Petra Kvitová in a tight match. Osaka took the first set in a tie breaker but unraveled late in the second set. Up 5-3, she blew three championship points as Kvitová came back from love down to take the set and break Osaka. Kvitová went on to win the set and force a third. Osaka regrouped, however, to eventually win the third set and the championship with a powerful serve.
+Though this Australian Open is Osaka’s second, it feels like the first that is completely and unconditionally hers. Last year’s U.S. Open championship match against Serena Williams was riddled with controversy, and though Osaka was on her way to the slam win before the referee and rule disputes, they overshadowed her stellar play on the court and the unexpected arrival of a new contender in the women’s tennis world not named Williams. This time, her championship win and the personal adversity on the court she overcame signals that she’s ready to become the new face of the sport.
+Her shy personality off the court endears her to people, as does her accomplishments at such a young age. Osaka also has a multicultural and multinational appeal that could shoot her into the stratosphere if she continues performing on the court, as she is half-Japanese, half-Haitian, and grew up in the United States. Now the world No. 1 for the first time and with a long career ahead of her, Osaka is not just the future anymore. She’s the present.
+On the men’s side, there was no new, young upstart in the championship final. In the semi-finals, Djokovic and Rafael Nadal defeated France’s Lucas Pouille, 24, and Greece’s Stefanos Tsitsipas, 20, respectively, in straight sets. Djokovic is 31, Nadal is 32, and Roger Federer, who just lost in the quarterfinals, is 37, and all of them seem to have something left in the tank. Andy Murray has announced that he will retire at the age of 31 after this year’s Wimbledon, but it doesn’t look like any new blood will be winning slams anytime soon on the men’s side. Since 2010, only two players (Stan Wawrinka and Marin Čilić) besides Djokovic, Nadal, Federer, and Murray have won a slam, just four out of 37. Going back even further, only two more players have broken the Big Four’s hold on the championships since 2004. Their dominance is astounding and doesn’t look to end anytime soon.
+This final was a familiar competition between two long-time rivals. Everyone was expecting a grudge match between Djokovic and Nadal that looked to be déjà vu of the 2012 Australian Open men’s singles final, a six-hour marathon that Djokovic won over Nadal in five sets. But it was starkly different. Djokovic burst onto the court with his usual speed, agility, and power, and seemed to counter everything Nadal gave him. In the 6–3, 6–2, 6–3 match, Djokovic had complete control, and the match felt decided long before the final point was played. He easily won his 15th slam, 11 years after winning his first one in Melbourne.
+With this championship, Djokovic continues his furious pace since his injury struggles in 2017 and into 2018. He now holds three slam titles — Wimbledon, U.S. Open, and Australian Open — and has a chance at Roland-Garros in May to hold all four titles at once for the second time in his career. At 31, Djokovic is playing the best tennis of his career, and now, unlike earlier parts of his career, it doesn’t look like there’s anyone to seriously challenge him. If he continues this pace, he can reach Federer’s 20-slam record, and perhaps cement a place as the best tennis player ever.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+For decades, engineers and computer programmers have been teaching robots how to play popular games like chess and Go. Artificial intelligence has even claimed the global top spot in some of these games, like when Google DeepMind’s AlphaGo software defeated Go world champion Lee Sedol nearly three years ago. Now, researchers at the Massachusetts Institute of Technology are training a robot to play Jenga.
+Swahili for “to build,” Jenga was created by Leslie Scott in the early 1970s, based on a game played by children in her family. After stacking 54 rectangular wooden blocks into 18 layers, the objective of the game is to carefully remove blocks and place them at the top of the tower without toppling the entire structure. 
+The robot at MIT uses the industry-standard 6-axis RB 120 robotic arm from ABB (also used in electronic and food manufacturing) to interact with Jenga blocks. While it is certainly impressive to watch the robot prod at the tower and slowly push blocks out of their place, the real advancement is in the technique used to train the machine.
+Traditional machine learning algorithms require extensive training data, covering all possible scenarios that might occur given a particular action. It would take tens of thousands of attempts at removing a block from a tower to gather enough data about Jenga. Additionally, since Jenga is a physical game that does not translate well to simulation, the robot needed training on how to operate in the real world.
+Alberto Rodriguez leads the team that developed the Jenga robot. He is a Walter Henry Gale Career Development Assistant Professor in the Department of Mechanical Engineering at MIT and received his Ph.D. in robotics from Carnegie Mellon University. “Unlike in more purely cognitive tasks or games such as chess or Go, playing the game of Jenga also requires mastery of physical skills such as probing, pushing, pulling, placing, and aligning pieces,” Rodriguez said in an MIT press release. “It requires interactive perception and manipulation, where you have to go and touch the tower to learn how and when to move blocks. This is very difficult to simulate, so the robot has to learn in the real world, by interacting with the real Jenga tower. The key challenge is to learn from a relatively small number of experiments by exploiting common sense about objects and physics.”
+The team at MIT devised a novel method of training their Jenga robot that relies on precise measurements and learning along the way. Initially, the robot arm randomly chose blocks in the tower and a location to push against. However, rather than extracting each block completely, it applied just enough pressure to get the relevant visual and force readings, and groups similar attempts into clusters representing block behaviors. After just 300 attempts, the robot had a reasonable idea about which blocks might be hard to move, easy to move, or topple the tower. Researchers even developed a model that allowed the robot to predict a block’s behavior given its current physical state based on visual and tactile measurements of the tower.
+MIT graduate student Nima Fazeli, lead author of a paper in Science Robotics about the robot, says the clustering technique drastically improved the efficiency of the robot’s training phase and is motivated by human behavior. “The robot builds clusters and then learns models for each of these clusters, instead of learning a model that captures absolutely everything that could happen,” Fazeli explained.
+Of course, the researchers couldn’t resist putting their robot to the test against human Jenga players and earlier machine learning algorithms. They used a simulation called MuJoCo to compare performance and found that even with the data collected through their sensors, other algorithms generated less accurate models than Rodriguez’s team. Additionally, while humans usually maintained an advantage against the robot, the gap between them was surprisingly small. Miquel Oller, another graduate student on the project, thinks the difference is due to the strategies used by experienced human contestants to plan their moves so that it becomes difficult for their opponents to extract blocks from the tower. For now, though, the researchers aren’t worried about rising to the Jenga throne.
+The tactile learning system they developed could have massive applications beyond games with wooden blocks. According to Rodriguez, “There are many tasks that we do with our hands where the feeling of doing it ‘the right way’ comes in the language of forces and tactile cues. For tasks like these, a similar approach to ours could figure it out.”
+Machines used on assembly lines today are hindered by their inability to respond to non-visual cues, and existing methods of teaching them physical skills require too much time and labor to be feasible. But this research could be applied to all tasks requiring physical interaction, including categorizing recyclable items and garbage as well as putting together consumer goods.
+“In a cell phone assembly line, in almost every single step, the feeling of a snap-fit, or a threaded screw, is coming from force and touch rather than vision,” Rodriguez said to MIT News. “Learning models for those actions is prime real estate for this kind of technology."
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+We are constantly surrounded by energy in the form of electromagnetic waves. Wouldn’t it be nice if we could take advantage of it? In a recently published paper in the journal Nature, a future Carnegie Mellon University faculty member, Dr. Xu Zhang, and co-authors describe a novel device that can charge electronics using the energy from radio frequency waves, including Wi-Fi signals. 
+Envisioned by Nikola Tesla, wireless energy transmission was made possible in the 1960s with the invention of the rectenna. A blend of the words rectifying and antenna, rectennas are receiving antennas that convert energy from electromagnetic waves into electricity. Passive RFID cards are one familiar example — when they are within range, the tags can use energy from the radio waves emitted by the reader to transmit back their identifying data.
+Wi-Fi signals are also made of radio waves. Receiving antennas can wirelessly harvest electromagnetic radiation in the Wi-Fi (2.4 GHz and 5.9 GHz), global satellite positioning (1.58 GHz and 1.22 GHz), the cellular communications fourth-generation (4G) (1.7 GHz and 1.9 GHz), and Bluetooth (2.4 GHz) bands and convert the energy from these electromagnetic waves to alternating current (AC). The AC electricity is then sent to the rectifier, which converts it to direct current (DC) electricity.  
+Previously, devices able to efficiently harvest radio frequency energy have required rigid materials. The device these researchers are working on is novel because it features a flexible two-dimensional rectenna outperforming all previous flexible rectennas. 
+They do this using a rectifier made from a molybdenum disulfide (MoS2) layer that is only 3 atoms thick. At this thickness, the MoS2 behaves differently than the bulk material — the atoms rearrange themselves when exposed to certain chemicals. This means the material can behave like a switch, changing from a semiconductor to metallic structure. The MoS2 creates what’s called a Schottky diode, a junction of semiconductor and metal. The diode described in their paper can convert signals at higher frequencies because the structure reduces the extra energy stored by certain materials used in electronics, known as parasitic capacitance. The researchers’ design reduces parasitic capacitance by an order of magnitude compared to current flexible rectifiers, meaning they can capture the previously elusive high-frequency Wi-Fi band radio waves. 
+“Such a design has allowed a fully flexible device that is fast enough to cover most of the radio frequency bands used by our daily electronics, including Wi-Fi, Bluetooth, cellular LTE, and many others,” says first author Xu Zhang. Dr. Zhang, who is currently a post-doctoral researcher at MIT, will join us at Carnegie Mellon as a tenure-track assistant professor in the Electrical and Computer Engineering department in September. The paper lists 15 other co-authors from MIT, Technical University of Madrid, the Army Research Laboratory, Charles III University of Madrid, Boston University, and the University of Southern California.
+The authors describe their design as a building block: something that can be integrated into and provide power for the fast-evolving world of flexible electronic systems. The MoS2 sheets for the rectifiers can be produced inexpensively, enabling the researchers’ vision of a “smart-skin” application: a distributed network of sensors covering and providing information about our buildings and infrastructure. 
+Another potential application for this technology is in medical devices. Co-author Jesús Grajal from the Technical University of Madrid says that they could allow implantable medical devices to transmit patients’ health data, since radio waves in the form of Wi-Fi, Bluetooth, and cellular signals are constantly surrounding us. This presents an advantage over current lithium-ion battery technologies, which can be fatal if they leak and have far more limited capacity due to space and chemical issues.
+Right now, the device can produce 40 microwatts when exposed to typical Wi-Fi power levels, which is enough to power an LED or a silicon chip. It doesn’t yet produce enough power to charge a smartwatch, but the authors plan on continuing their work of building arrays of these devices, which could scale to provide the amount of power needed for these appliances, creating a world of self-sustaining electronics.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Titanium is a highly commercialized metal with a broad range of applications, from golf clubs to airplane wings. With the same strength as steel but half the density, titanium also boasts a high resistance to corrosion, making it ideal for withstanding extreme conditions that other metals cannot. However, with rampant technological growth comes the need for more advanced materials — ones that do not occur naturally.
+Enter metallic wood.
+In a new study published in Nature’s Scientific Reports, researchers at the University of Pennsylvania, the University of Illinois at Urbana-Champaign, and the University of Cambridge have succeeded in creating “metallic wood," something that has the same strength as titanium but is four to five times lighter. As the name suggests, the secret is in the assembly process: composed of nickel in porous sheets, the structure mimics that of wood without compromising any integrity. What’s more, because the material is still metallic in nature, the internal cavities can help with storing and propagating energy, thus allowing the creation of mechanisms that can serve a functional purpose while also acting as capacitors. These properties open a broad range of possibilities, especially for devices that are energetically independent without a reliance on bulky battery packs.
+The motivation for this study came from the fact that materials, no matter how crystalline or perfect, still have defects that compromise performance. This issue is especially common when raw metals are not strong enough for commercial uses; hence, the process of alloying was devised to combine different metals and create interstitial combinations, a whole that exceeds the sum of its parts. But even this process has its limits, and by taking control of material design at the nanoscale level, these defects can be mitigated.
+So does this mean that metallic wood will soon replace titanium? Probably not, especially since the global demand for titanium continues to grow thanks to the automotive and construction industries. Currently, the process of creating metallic wood is fairly involved and not nearly efficient enough to yield the gargantuan outputs that would be required, though it will surely improve in the future. Research is ongoing, and we will likely see this new material expand beyond its niche uses into everyday life.
+Perhaps even more exciting is what this new approach to material synthesis entails. Could this same method be used for biological materials? Is there a limit to improving mechanical efficiency? Might this new approach help our ailing environment? Only time will tell.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Movies
+A Serious Man
+A Serious Man is one of the Coen Brothers’ most forgotten movies in their canon. Miller’s Crossing and maybe one or two others are a little more far gone, but A Serious Man is everything that people love about a Coen production. The story is the bumbling everyman who happens into increasingly horrifying situations that are increasingly comical in the light of the protagonist’s sheer ineptitude. What makes A Serious Man unique compared to the rest of the Coen’s filmography is the minimizing of the drive for an economic resource by the protagonist. In their most famous films, Fargo, The Big Lebowski, O Brother, Where Art Thou, No Country for Old Men, etc. the goal is the same — money — but the goal for the serious man in his namesake film is to understand the world, and the world to understand him. He wants to be taken seriously, but the mechanism by which he convinces himself that he will be taken seriously is an understanding of the natural world. After all, the protagonist is a professor of physics in a Midwestern, suburban world that just doesn’t make sense at any level. I believe that the years will show A Serious Man to be the Coen Brothers’ most complete movie.
+Hell or High Water
+This was my second favorite film in 2016, and it is now on Netflix for everyone to view. This modern western follows two brothers who pull off a series of small armed robberies to save their family ranch from being repossessed by the bank. The film is a straightforward, entertaining masterpiece. The script is so tight and fluid, and populated by so many likable characters. The dynamic between the two brothers was really fun, and it also served an important point to the story overall. The rowdy older brother and the smarter, quieter younger brother really complemented each other. The performances are all spectacular. Chris Pine and Jeff Bridges in particular stand out amongst the stellar cast. It is also a very topical and relevant film that explores the complexities of economic inequality. It’s really well shot and directed, with a lot of great subtle and visual storytelling. The shootouts were fantastic and entertaining. It’s just a near perfect film and I highly recommend checking it out. It’s also a great watch with some friends. I watched it with a few of mine, and we got a kick out of several scenes in the film.
+TV Shows
+Cowboy Bebop
+Cowboy Bebop is one of the greatest anime series of all time. It first aired in Japan in 1998, but you can watch it on Hulu today. The show is set in 2071. Earth has largely been abandoned and humanity is scattered on planets and moons throughout the solar system. The series follows two bounty hunters, referred to as “space cowboys,” as they chase down big time criminals for big time cash. Each episode is structured like a Western. A villain is introduced, Spike and Jet pursue them, and after a chase scene spectacularly choreographed to jazz, they almost always come up short. Though this may sound formulaic, what ties the 26 episodes together is the relationships between the four protagonists. The audience watches unlikely comrades Spike, Jet, Faye, and Ed collide as they escape their crumbling pasts. Struggling with their individual solitude, they fail to embrace their new friends again and again. Cowboy Bebop is chiefly known in the anime world for its beautiful animation, its fantastic english dub, its heartfelt themes, and its subtlety. The moments of freedom, flashbacks, friendship and loss never hit you over the head and that’s why they’re so effective. In my mind I can visualize the final sequence of the first episode, “Asteroid Blues.” Spike swoops down in his red spacecraft in pursuit of a drug dealer, Asimov, and sleekly shoots down two irrelevant parties. As the world underneath them rushes by, a saxophone searches over dreamy, escalating chords. Asimov’s wife realizes they’re not gonna make it. Bang.
+Sex Education 
+Season one of Sex Education follows Otis Milburn, an awkward 16-year old who teams up with his classmate Maeve Wiley to start a cash-only sex therapy clinic in their high school. As Otis, who can’t even bring himself to masturbate, helps his classmates navigate sex and relationships, he is faced again and again with his own problems surrounding the subject. What makes the show great isn’t necessarily its protagonist but the weaving of secondary characters’ stories and the honesty it brings to conversations about sex. Sex Education takes high school tropes like the bully, the popular squad, and the gay best friend and gives each a compelling story. It almost serves as an implicit, hilarious, and touching sex-ed curriculum on its own, taking awkward moments not usually depicted on screen and giving them the representation they need. The writing ranges from juvenile anatomical humor to Virginia Woolf references and manages to appeal to a mainstream audience without being problematic. If it were up to me, I’d replace the existing sex-ed curricula in Texas, Arizona, and most of the South with this show.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+When people think of Carnegie Mellon University, the first word that comes to mind is probably not fashion. However, sophomore computer science major, Darren Mok, hopes to change that. He wants campus to be seen as more than “one-dimensional.” As the creator of the CMU Lookbook page on Instagram (@cmu.lookbook), Mok hopes to bring awareness to the existence of the “underrepresented” style scene on campus and how it “tends to surprise you.”
+While Carnegie Mellon may be like many other college campuses in that a lot of people will just throw on some sweats and call it a day, there are also many hidden gems on campus, and the goal of CMU Lookbook is to provide a platform to show that “people’s efforts are being noticed.”
+Mok started the page back in Spring 2018, but had a small following of roughly 40 people. With merely a phone in hand, he was not a big fan of the aesthetic of his work, and took up more of an interest in the work once he was able to borrow a friend’s camera and eventually bring one of his own. After the account’s reboot in the Fall, however, things started to take off. CMU Lookbook has more than 500 followers and Mok’s photos have even garnered the positive attention and feedback of more than 5000 users on the r/streetwear thread on Reddit. Now, he brings a camera with him everywhere he goes, and he is extremely passionate about what he does, stating that it “motivates [him] to go to class,” since he shoots as much as he can when he has a free moment in the day.
+While Mok himself tends to lean towards a grayscale wardrobe, he is also a huge “sneakerhead” (sneaker enthusiast) and advocates for color blocking, layering, patterns, and experimentation. When out and about taking photo, he approaches people based on the composition of the look, rather than something like brand name. If you scroll through the page, you’ll notice a lot of bright colors and bold patterns.
+Mok has been interested in fashion for quite a while. Having lived in places like Taipei, Seoul, Shanghai, and Hong Kong, he has been exposed to a wide variety of styles and trends in Asia. He feels that he “has definitely been influenced by the looks in Seoul…the people there are such innovators when it comes to style and fashion.” In the future, after getting more involved on campus, he hopes to bring the page abroad and try out new mediums like video lookbooks.
+As for advice for those who may not be sure about how to step up their style game, he believes it is crucial to experiment and step outside your comfort zone. Some easy recommendations are to experiment with different sizing and fits, and to thrift since it is a cheap way to try new looks.
+Make sure to keep an eye out for Mok on the Cut throughout the week, and don’t be afraid to experiment with your own style!
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Ruth Bader Ginsburg’s name has become synonymous with resilience and perseverance, especially among her liberal-minded supporters, who want her to keep fighting against an overturn of Roe v. Wade and other liberal legislation — at least for the next two or so years. But even though Ginsburg (or the “Notorious RBG”) has garnered an almost celebrity status throughout her tenure on the Supreme Court, the story of how she acquired her fiery determination was almost as little-known as the names of some of her less famous colleagues.
+On the Basis of Sex aims to change that. The film takes a closer look at Ginsburg’s beginnings at law school and her first job as a Rutgers professor before tackling her breakout court case. Felicity Jones portrays Ginsburg as a brilliant and ambitious scholar, yet commands her audience to sympathize with her as she is faced with the systemic sexism trying to hold her back, from Dean Griswold (Sam Waterson) asking her to explain why she feels entitled to take a seat at Harvard Law that could have easily been given to a man, to her thirteenth job interviewer after graduation denying her due to the close-knit nature of the predominantly male firm and their fear that “the wives might get jealous.”
+Ginsburg eventually accepts a professorship where she will teach a class on sexism and the law, despite her over-qualification for the job. Audiences are left feeling especially moved when her husband Martin (Armie Hammer) tries to console her by saying she is leading the next generation of lawyers to change the world, and Ginsburg responds by crying out, “But that’s what I wanted to do!”
+As a woman, I empathize with the pain Ginsburg experienced throughout the film when being faced with sexism head-on. But it wasn’t “as a woman” that I went to go see the movie — it was as a constitutional law nerd with a few years of Moot Court under my belt and a travel-sized US constitution in my back pocket. So when Martin Ginsburg handed her a tax law case and said that “you might want to read this,” I felt especially excited to finally get the chance to see Ginsburg’s famous legal analysis work in action.
+The case, Charles E. Moritz v. Commissioner of Internal Revenue, concerns a man, Moritz, who had been acting as a caretaker for his elderly mother. He hired a woman to help with the care-taking, as it was becoming too big a task on his own since he was also a full-time employee. He then attempted to deduct the caretaker’s salary on his federal tax returns under a special caregiver’s deduction, but his request was rejected due to a technicality in the law. The law read, “There shall be allowed as a deduction expenses paid during the taxable year by a taxpayer who is a woman or widower, or is a husband whose wife is incapacitated or is institutionalized [emphasis added], for the care of one or more dependents… enabling the taxpayer to be gainfully employed.” The government had successfully argued in court that, seeing as Moritz had never been married, he did not qualify for the tax deduction.
+In the film, Ginsburg identified Moritz v. Commissioner as being one of the first cases to challenge a law discriminating against men. She instantly recognized that it was far more likely to win on appeal in front of a panel of all male judges than a case that challenged a law that discriminated against women. She also recognized that, upon victory, it had the potential to establish a new precedent for other cases of discrimination on the basis of sex — although making a case without precedent is still incredibly difficult. In the legal world, precedent is a big deal — judges are much more likely to decide in your favor if judges have ruled that same way in the past. The representation for the commissioner (the respondents) had the advantage of over a hundred years of precedent in treating men and women differently under the law, thereby making the argument for Moritz (the petitioner) significantly more daunting — there was no legal precedence, and the jury was skeptical that discrimination on the basis of sex was even an issue.
+On the Basis of Sex is a brilliant movie that allows ordinary people the opportunity to look back on the history of discriminatory laws, and appreciate the struggle of women like Ginsburg to lead the change in the court’s interpretation of “equal.” Although On the Basis of Sex chooses to omit more of the legal nuance than I would have hoped, it serves as a fascinating and inspiring glimpse into Ginsburg’s past, and a rallying cry for women and men hoping to continue her mission well into the future.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+week of 2.4.19 - 2.10.19
+WRCT Massive Movie Week (Row House Cinema)
+2.1.19 - 2.7.19
+CMU Art Lecture: Ulrike Müller (CFA 300)
+2.5.19 6:30 - 8 p.m.
+Hanif Abdurraqib (City of Asylum)
+2.5.19 7 - 8:30 p.m.
+Spark the Movement - A Discussion: Media and Representation (Center for Student Diversity and Inclusion)
+2.6.19 5 - 6 p.m.
+CSA Event: New Year Extravaganza 2019 (UC)
+2.8.19 - 2.9.19 10 p.m. - 1 a.m.
+Taco Trail: A Tour of Pittsburgh’s Best Tacos and Margaritas (Mad Mex)
+2.9.19 1 - 5 p.m.
+Women Direct Horror (Row House Cinema)
+2.8.19 - 2.14.19
+week of 2.11.19 - 2.17.19
+Galentine’s Day (The Melting Pot)
+2.11.19 - 2.12.19 4 - 10 p.m.
+Black Bottom Film Festival 2019 (August Wilson Center)
+2.15.19 - 2.24.19
+Bloomfield Saturday Market
+2.16.19 11 a.m. - 2 p.m.
+empathy machine work in process showing (The Space Upstairs)
+2.16.19 7:30 p.m.
+Carnegie Mellon Contemporary Ensemble - “now it’s time” (Kelly Strayhorn Theater)
+2.16.19 7:30 - 9:30 p.m.
+HACK-A-SONG 2019 Performance (CUC Rangos 1)
+2.16.19 8 - 11 p.m.
+week of 2.18.19 - 2.24.19
+Carnegie Mellon Chamber Series: “Music of the Americas” (Kresge Theater)
+2.18.19 7:30 - 9:30 p.m.
+CMU Art Lecture: Thaddeus Mosley with Naomi Chambers (CFA 300)
+2.19.19 6:30 - 8 p.m.
+Reception: CMU Design Exhibit - Generous Feedback (Miller ICA)
+2.21.19 6 - 8 p.m.
+week of 2.25.19 - 3.3.19
+Pittsburgh’s Harry Potter Film & Cultural Festival 2019 (Row House Cinema)
+2.24.19 - 3.7.19
+CMU Art Lecture: Lenka Clayton & Jon Rubin (CFA 300)
+2.26.19 6:30 - 8 p.m.
+Bloomfield Saturday Market
+3.2.19 11 a.m. - 2 p.m.
+Lunar Gala 2019: Anomie (UC)
+3.2.19 8 - 11 p.m.
+ongoing
+Colorism: Thinking Outside the Paper Bag (Phosphor Project Space)
+Open until 2.16.19 - open Sundays 1 - 4 p.m.
+Orchid and Tropical Bonsai Show: Eye Candy (Phipps Conservatory)
+Open until 3.4.19 - open every day 9:30 - 5 p.m. (10 p.m. on Fridays)
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Cold War is director Paweł Pawlikowski’s second attempt at canonizing a sociopolitical history of his home country, Poland. The first was Ida, a family tragedy in the wake of the Holocaust and the new politics of a Soviet bloc state post-World War II. Now, in Cold War, the politics remain, but Pawlikowski takes on the transcendent human experiences of music and love rather than ones of grief and loss.
+Opening in the mode of observational cinema, the emotional core of the film, outside of the romantic relationship, is set by two men performing a Polish folk song in Lemko, a dialect of a blend of Ukrainian and Polish languages. They’re singing about lost love. The first act continues in the same manner, developing the anthropological goals of state-run performance group, Mazurek, the protagonist, Wiktor (Tomasz Kot), and co-director of Mazurek, Irena (Agata Kulesza). At the same time, the political goals of the state-appointed cultural director of the Mazurek, Kaczmarek (Borys Szyc), run parallel, creating dramatic tension, and then, Wiktor and femme fatale, Zuzanna (Joanna Kulig), share their first moment of romance over a series of vocal exercises. Each relationship is dynamic and the reversal at the end of the first act makes plenty of narrative sense: Zuzanna caves to the political games.
+From there, the movie only focuses on the relationship between Zuzanna and Wiktor. There are only flashes of the early relationships developed in the movie. A few others are developed, but not at the level of intimacy of the first act. The movie of differing loyalties to cause becomes a movie about distance in love. All of the cinematic qualities remain: Pawlikowski and cinematographer, Łukasz Żal, develop shots that resonate with the romantic relationship in the movie, and at the same time, retain the emotional sterility of an aesthetic not dissimilar from L’Avventura.
+As the movie progresses into the later stages of its brisk 87 minutes, it loses the old emotional core of the struggle between culture and state in favor of a way less interesting battle between West and East. Instead of the West staying as an enigmatic place where the state does not interfere in artistic creation, we actually see Wiktor engage in the practice, and almost all of the tension from the first act is resolved before the movie reaches its conclusion. The story is then solely about the relationship between Zuzanna and Wiktor. We see the West and its artistic freedom, which most artists would realize as patently untrue considering the United States’ economic interests in Hollywood and MFA programs nationwide. If the A plot is the romantic relationship between Zuzanna and Wiktor, the B plot is a meandering stream of musical creation that loses any tension outside of the A plot after the first act.
+But the romantic relationship can carry all of the emotional weight of the film with the support of the music. Music and lost love are the two languages spoken by this movie that everybody can understand regardless of their fluency in Polish, and they combine to create the third language spoken — film — which can be understood by everybody without the dialogue in the movie. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+On a very frosty Wednesday, Josh Peck came to Carnegie Mellon, giving students an excuse to leave their rooms during the polar vortex. Peck told several stories that revealed a lot about his career, his family, and his general outlook on life. The first half of the event was a moderator asking him questions, while the second half of the event was a question and answer session with the audience.
+It was amazing how naturally funny and likable he was. During the question and answer portion of the night, he frequently had the audience crying with laughter. He took to roasting some of the students asking him questions, and his casual attitude made asking questions really easy and fun. He obliged a fan’s request to say his catchphrase from Drake and Josh, “Well I ain’t calling you a truther!” He shared several embarrassing stories without hesitation as well as his most fun stories from his career. He even offered some valuable insight about his life, saying that he feels blessed and is really happy with how his life has turned out. He treated the audience like his friend, and it was a treat to watch him.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Welcome to Marika’s Menu, a new column all about the joy of cooking! I’ve always loved food, but it wasn’t until I got to college when my love for cooking blossomed. From making a simple stir-fry, to throwing something in the oven, to trying something more complicated, I’m excited to kick this off and share different recipes that apply to all different sorts of occasions.
+This week’s recipe is inspired by a semi-impromptu dinner my roommate and I whipped up when we realized we had a lot of stuff in the fridge that was going to expire soon. It also goes perfectly with Super Bowl weekend — or any weekend to be honest, as long as you love tacos.
+My shrimp tacos include four toppings: stir-fry shrimp and tomato, stir-fry mushroom, guacamole, and shredded cheese, all on corn tortillas.
+Stir-fry Shrimp and Tomato
+This is the star of the show, the main dish of the tacos. To balance the sweetness of the shrimp, I add tomatoes for a sour, acidic kick.
+Ingredients:
+- 1 tbsp of olive oil
+- 3 cloves of garlic, minced
+- ½ onion, chopped
+- 1 cup of shrimp
+- 2 tomatoes, chopped
+- ¼ cup of water
+- Salt and pepper, to taste
+Directions:
+1. In a skillet, heat the olive oil. Add the garlic and rest of the chopped onion.
+2. When the onion is halfway cooked, about one minute, add the chopped tomato and water, and stir fry for two minutes.
+3. When the tomatoes are nearly fully cooked, begin forming a paste.
+4. Add the shrimp, and cook until their color is soft orange, about 1 minute. Add salt and pepper to taste. Remove the dish from the skillet into a bowl.
+Stir-fry Mushroom
+I love having this topping simply because I’m a huge fan of mushrooms. However, I know that mushrooms are hit or miss, so this simple stir-fry can be done with almost anything: eggs, spinach, corn, and so on.
+Ingredients:
+- 1 cup of mushrooms, sliced
+- 1 tbsp of soy sauce
+- Salt and pepper, to taste
+Directions:
+1. In the same skillet used for the shrimp and tomato, toss the mushrooms until cooked.
+2. Add soy sauce, salt, and pepper to taste.
+Guacamole
+There are many different ways to make guacamole, from simple mashed avocado with salt and pepper to complicated concoctions with several ingredients. My version adds onion and tomato for more flavor.
+Ingredients:
+- 3 avocados, peeled and pitted
+- 1 tomato, chopped
+- ½ onion, chopped
+- 1 tbsp of lemon juice
+- Salt and pepper, to taste
+Directions:
+1. Mash the three peeled and pitted avocados in a medium-sized bowl.
+2. Mix in the chopped tomato and onion, along with the lemon juice
+3. Add salt and pepper to taste.
+Corn Tortillas
+For the corn tortillas, I like to heat and fry them for a minute or so in a skillet for some extra crisp, but they are perfectly fine straight from the package. With a bowl of shredded cheese, your table is set with three dishes. Pile the toppings on your tortilla, and voilá, your taco is ready to eat. Bon Appetít! Or more appropriately, Buen Provecho!
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+This week, Creed II will be screening in McConomy and was reviewed in an earlier edition. 
+Creed II is a really solid Rocky film. It's not as good as the original Creed but it's up there. In terms of being an inspiring boxing film that's part of a long-running franchise, this is almost as good as it gets. The film was really enjoyable overall with some solid stakes. For those who don't have context, Adonis Creed's father, Apollo, was killed in the ring during the events of Rocky IV by Ivan Drago. This film has Adonis going up against Ivan Drago's son, Viktor, and there are some heavy emotional stakes on the line for both families.
+The motivations and characterization for the Dragos are surprisingly fleshed out, and it made the conflict that much more palpable. In a lesser Rocky film, the Dragos would have been caricatures with hilariously fake Russian accents, but Creed II does a good job making the audience care about them. That made the fight scenes, all of which were pretty great, that much more engaging. 
+Michael B. Jordan is incredibly well cast as Adonis, and seeing Sylvester Stallone again as Rocky is always a blast. The semi father-son dynamic between the two is really endearing and fun to watch. There isn't really a bad character in the film at all. It's just a really well made Rocky movie and a really well made boxing movie. Creed II shows that while not every film has to be a masterpiece, they can still be well done pieces of entertainment. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+By now, I feel like I should’ve outgrown emo bands, but it feels like Bring Me the Horizon (BMTH) has been an integral part of my adolescence. In middle school, I thought my friends and I were so cool because we gushed over the lead singer, Oli Sykes, and screamed in Sempiternal as if that put us on an intellectually superior level to those who gushed over One Direction or Justin Bieber. In my senior year of high school, That’s the Spirit had some of my anthems and carried me through my last year. Now, three years after their previous album, the band has now released their sixth studio album, amo.
+Here’s a track-by-track review of the songs:
+Track 1: i apologise if you feel something (6/10)
+This is a decent enough interlude, but the lyrics are what you would expect from a 12-year-old’s Tumblr bio. The band does scream teenage angst, but this song falls flat even then.
+Track 2: MANTRA (6.5/10)
+Would it be a BMTH album without a stab at organized religion? This catchy beat tells the story of one creating a cult to find a purpose “through this existential misery.” As with most other BMTH songs about religion, it shows the band’s — especially Sykes’ — belief that organized religion erases individuality and autonomy. Aside from the obviously edgy lyrics, the overall song just feels generic at best. But it’s catchy; I’ll give it that.
+Track 3: nihilist blues (feat. Grimes) (6.5/10)
+I applaud the band for venturing outside the typical genre. That’s the Spirit dips its toes a bit outside of their traditional screamo, but this track incorporates inspiration from disco and electronic dance music. Keyboardist Jordan Fish praised singer Grimes, who collaborated with the band. “She’s someone we respect, and not really someone you’d expect to find working with a metal band. Or a rock band. Or whatever it is we are…” he said to Kerrang!. This track is far from my favorite, but it has definitely grown on me a bit, and I’ve come to appreciate it more.
+Track 4: in the dark (9/10)
+This is easily one of my favorite tracks. Although it sounds a bit generic (hence why it did not rack up a perfect score), it’s catchy and the lyrics are actually somewhat clever and memorable (my favorite being “don’t ask God, He never asked you”). The pop-ish elements are somewhat reminiscent of tracks from That’s the Spirit, especially “Follow You.”
+Track 5: wonderful life (feat Dani Filth) (7/10)
+This track earns a marginally better rating than “MANTRA” and seems to echo the albums I grew up loving. It has a similar musical feel and is almost as lyrically edgy. Again, it sounds generic, but also like a good anthem to blare in a car with friends.
+Track 6: ouch (6.5/10)
+For what it is — an interlude between “wonderful life” and “medicine” — it’s decent. Fish explains that “it’s got some lyrics from another song that we didn’t end up using in the end, but we really liked the words and they tie in nicely with the themes of the record. So we wanted to find a way of keeping them.” Although this wasn’t the weakest lyrically, the track did feel like a filler and a quick way to rack up an extra buck on iTunes. Despite that, it wasn’t terrible, nor did it make me wonder if I could get two minutes added back into my life.
+Track 7: medicine (8.5/10)
+This appears to be the album’s most successful track, and I can see why. It’s hard to not jam along, and it starts off with a hook: “some people are like clouds you know / ‘cause life’s so much brighter when they go.” Again, this song feels like it would fit with the previous album. Unfortunately, the lyrics aren’t as creative as “in the dark,” so it ranks right below. Still, it’s a solid track.
+Track 8: sugar honey ice & tea (8.5/10)
+This song would be close to rivaling “in the dark,” but the bridge just had to knock half a point. The lyrics are clever (most notably, those surrounding the title of this song); I need to give them credit for that.
+Track 9: why you gotta kick me when i’m down? (4.5/10)
+Sykes dabbles a bit into hip-hop, almost as if he’s trying to emulate Linkin Park’s fusion of the two genres. However, it falls flat. I understand that the band was trying to do something different, but the mixture of the genres feels forced, and the lyrics, again, feel as though they’re ripped out of my diary from when I was 12.
+Track 10: fresh bruises (2/10)
+Why. Just why. Judging from Kerrang!’s interview with Fish, it doesn’t appear the band knows, either. “This is another interlude. There’s not really much to say about it other than it’s very different for us.” It literally repeats two lines for over three minutes and doesn’t really transition the tracks, so it doesn’t even serve a purpose like “ouch” does. I would like those three minutes back. Still, a 1/10 feels harsh and I feel like a true 1/10 exists somewhere; this isn’t quite there.
+Track 11: mother tongue (6.5/10)
+This is where the title of the album comes in; the chorus kicks off with “So don’t say you love me ' Fala amo [speak love].’” The reason BMTH chose Portuguese as their love language specifically is not apparent, but the title fits the song. Even though this song wasn’t the album’s strongest links, it at least makes sense why it’s incorporated. It’s one of the poppier songs, but it’s a love song; what more could you expect?
+Track 12: heavy metal (feat. Rahzel) (8/10)
+Again, amo dabbles into rap by collaborating with rapper Rahzel. Rahzel’s beatboxing meshes surprisingly well with the rest of the song. This whole song screams irony; although “’a kid on the ‘gram in a Black Dahlia tank says it ain’t heavy metal,” this song is perhaps one of the heaviest on the track. It ends with Sykes screaming with heavy guitars in the background, a nod to BMTH’s origins.
+Track 13: i don’t know what to say (8/10)
+Like the previous album, the name of last track summarizes how I feel about the album as a whole (That’s the Spirit’s was “Oh No”). Lyrically, this album was actually one of the strongest. Sykes originally wrote the lyrics before his now-late friend passed from cancer. The heavy usage of the synthetic string orchestra cheapens the quality of the track, making it sound like it would come from a cliché movie soundtrack. It’s unfortunate; the cheesy “orchestra” distracts from a song that is emotionally tolling for Sykes and the band.
+Overall, I’m disappointed with the album, which got an average of about 6.73/10. The online reviews appear to hover around the 3.5/5 star mark, so I can’t say I’m surprised. I can appreciate changes and growth in style, and I understand that BMTH is continuously experimenting with new sounds and genres. However, half of the tracks felt like they were fillers and were thrown in for the sole purpose of completing an album. amo had the potential to be a strong EP instead. However, Sykes appears to be happier, and so does the band. In 2014, between the release of Sempiternal and That’s the Spirit, Sykes was hospitalized for drug abuse. “When I got out of that rehab, I didn’t want to scream anymore, I wanted to sing from the f***ing rooftops.” Judging from That’s the Spirit and now amo, it looks like the band is experimenting with new sounds and having fun. Sykes sure looks happier in performances. At the end of the day, that’s all I can ask for.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Hey Hollywood,
+So I’ve noticed you haven’t been making much money recently, and all you bigwig executives are wondering why. No, it’s not Rotten Tomatoes’ fault (although that’s an article for another day). Allow me, a 19-year-old amateur filmmaker and watcher of cinema, to explain it to you because I know better than you.
+Part 1: What’s with the lack of originality?
+Let’s take a look at the number of remakes and sequels coming out in 2019. Do you want to guess how many they’re releasing? The answer is too many. There are live-action remakes of Dumbo and The Lion King coming out, with the Dumbo remake being made by Tim Burton of all people. That’s the equivalent of letting Logan Paul host a travel documentary. How devoid of ideas do you have to be to want to remake old animated movies? I’m sure you could find some fanfiction writers on Tumblr who have something you can adapt. I’ll give you some ideas for free. I’m sure you could get Nick Cage to star in it.
+Part 2: Stop making movies on literally anything you see.
+This is pretty obvious. Whenever you do make original movies, you tend to make the wrong ones. No one wants a YouTuber movie. No one wanted an emoji movie but you made one anyway. No one wanted an escape room movie. What’s next? A movie about sporks? A movie about dabbing? A movie about dabbing sporks? That sounds so stupid, but it might be possible at this point. Even if you want to make movies on the most ridiculous things and trends, you could at least give the project to someone with talent. I guess the problem is all the talented people are making the movies you don’t advertise.
+Part 3: The Oscars are a sham and represent everything wrong with you.
+Recently you gave Black Panther a Best Picture nomination in an attempt to stay relevant. Except you’re missing the point. People don’t watch the Oscars because you all take yourselves too seriously and you pay for the winners. You make easy jokes about Donald Trump thinking people care about your opinion of it. News flash: none of us do. Just make a good speech, and if you want to get political, do so with some semblance of honesty. The fake liberalism espoused by the industry is very transparent. Keep in mind that you all championed women’s rights while Harvey Weinstein’s crimes were an open secret. Maybe turn your criticism towards yourselves and people will actually care about what you say. It’s kind of bad that the only criticism about the industry is coming from BoJack Horseman, a cartoon. Also, don’t hire Jimmy Kimmel to host. Rotting corpses have more charisma than him.
+So now the question becomes: what can you do to make more money? Well, the answer is obvious. Give the people what they want. Give them something good. Stop being a bunch of hacks. Stop being this self-congratulatory echo chamber of false politics. And maybe, just maybe, you’ll make more money again.
+Lots of love,
+Sujay
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+The Army Futures Command, said General John Murray this past Friday, makes the Army like “a startup overseeing a merger.” Though Carnegie Mellon has its fair share of students working at startups, academics, politicians, and Army personnel gathered this past Friday to mark a collaboration that is perhaps even more familiar for the university — the Army AI Task Force represents only the most recent chapter in a 70 year history of Carnegie Mellon working with the Department of Defense. 
+Secretary of the Army Mark T. Esper released an Army directive on Oct. 2, 2018, oulining the purpose of the Army AI Task Force, housed at Carnegie Mellon’s National Robotics Engineering Center, which is “to enhance our warfighters, preserve peace, and, if required, fight to win.” 
+Specifically, the task force is meant oversee the initiation of “Service-sponsored projects,” compliance with “DoD National Military Initiatives,” the establishment of a development structure for these projects, and “[the review of] policies that prohibit or impede machine learning, deep learning, and automation, and coordinate resolution.” 
+Specific funding for the project was not disclosed but President Farnam Jahaninan said that the project wasn’t one meant to be undertaken for a couple of months, or even a couple of years, but instead was intended to take a “long perspective,” and funding for the project would reflect that. The Army, Jahanian said, would not only likely fund future joint projects undertaken with Carnegie Mellon, but also projects with outside partners in business and academia undertaken within the task force.
+The directive also implies that “initial operating capability” of the Army AI Task Force was established 30 days from the date of the directive, thus beginning Nov. 1, 2018, though the partnership was not announced on the University’s side until a Dec. 4, 2018 university press release. 
+Matt Nagal, Associate Vice President of Content & Communications at Carnegie Mellon explained that this was simply the “best time for the Army and CMU” as well as “key partners from both academia and industry from across the country.” 
+The press release highlights the importance of Army “engagement with the local innovation ecosystem of defense companies, small businesses, and startups in the Pittsburgh region.” One Breaking Defence article explains that the project serves as not only a space for technological development, but also to “connect the Army to a much wider world that it has struggled to connect with — a world where many key players, such as Google, have outright refused to work directly with the military.” 
+General Murray told The Tartan that the Army has “closed out any innovation, any free thinking into how we have solved problems from a material standpoint and a lot of other standpoints for many years.” Murray follows that the task force will “get young students [and] young developers together with young soldiers,” continuing, as when he referred to the Army as a “startup,” to adopt the language of Silicon Valley to describe the projects handled by the task force. Nagal expanded on this by saying “In essence, we are replicating what leading companies have done to become more innovative and that is a big reason why the Army is moving closer to universities.”
+As President Jahanian told the Tartan, “CMU serves as a hub, and as a connection point to academics and industry partners across the country.” Because of this, the Army Future Command found Carnegie Mellon to base their initiative to “Forge the Future,” as their official slogan states.
+The Army AI Task Force activation ceremony took place Friday, Feb. 1, 2019, at the National Robotics Engineering Center. The hanger-like, Lawrenceville building was divided by a stage holding a large screen, showcasing videos of federally-funded Carnegie Mellon research projects.
+As the ceremony commenced, Army personnel, Carnegie Mellon researchers, and government officials took their seats. John Fetterman, Lieutenant Governor of Pennsylvania, sat near the front with Pittsburgh Mayor Bill Peduto. 
+The first guest to speak was General John Murray, four-star general and first commanding general of the U.S. Army Futures Command. He noted that the Army AI Task force was the “last piece of Army Futures Command to come together.” 
+Murray said that as the “character of war” continues to evolve, noting quantum computing, ventures into space, directed energy, AI, and machine learning, artificial intelligence will be “in everything, and everywhere.”  The task force, according to Murray, is not just meant to “make our soldiers and units of the future more effective,” but “better yet” may end conflict because “there will be nobody in the world who will challenge [the U.S.].”
+The next to speak was Carnegie Mellon president Farnam Jahanian, who excitedly stated “Carnegie Mellon stands ready to assist the Army” to advance breakthroughs in the future of multi-industry artificial intelligence development.
+Following Jahanian, the Secretary of the Army, Mark T. Esper, took the stage. Formerly vice president of government relations at Raytheon, Infantry Officer in the Army, and chief of staff at the Heritage Foundation, Esper was appointed to the Secretary of the Army position by President Trump following the withdrawal of two other appointees to the position.
+Many stressed a presumed inevitability of these developments in AI weapons systems, with Esper predicting that a “decisive edge on the battlefield for years to come” would be given to “whoever gets there first,” referring to advances in military AI technology. Murray later echoed his sentiment and added, “I would also argue that regardless of what we do there are others in the world that do not have the same ethical considerations.”
+Murray suggested that these same ‘ethical considerations’ would follow whatever inevitable technological development arose from the task force, stating at the press conference, “the policy, those discussions will have to come. But [what] we can’t afford to do is pace ourselves on policy. We are going to have to push the envelope a bit to get the policy discussions going.” In terms of policy, part of task force is concerned with attempting to “remove barriers to its ability to move fast, while maintaining safety and rigor, as [the task force] brings new technology and new capabilities to its forces.
+Jahanian was also pressed by reporters at the press conference about the process of ethical consideration before accepting this partnership with the Army, that will likely involve work towards the development of autonomous weapons. Jahanian deferred to the potential nonmilitary applications of the technology developed at Carnegie Mellon, finding that “all of the applications that I talked about, which [have] broad civilian as well as military application, that benefit society, not only do I not have any concerns about working in AI and robotics but given the examples that I gave you, why wouldn’t we want to save the lives of soldiers?”
+The Army AI Task Force, now launched, will begin to oversee AI projects for the military and serve as the blueprint for other branches of the task force that are to launch in Washington D.C. and at the Pentagon. Whether or not these developments are inevitable, those asking ethical questions likely are not going to wait for the technology to push the envelope to try and get answers.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Alcohol Amnesty
+Jan. 27, 2019
+Officers responded to West Wing in response to reports of an intoxicated Carnegie Mellon student. The student was provided medical attention and no citations were issued, due to alcohol amnesty. 
+Alcohol Amnesty
+Jan. 27, 2019
+Officers responded to Morewood Gardens to aid an intoxicated University of Pittsburgh student. The student was provided medical attention and no citations were issued, due to alcohol amnesty.  
+Motor Vehicle Accident
+Jan. 27th, 2019
+Officers observed a motor vehicle accident on Fifth Avenue adjacent from Carnegie Mellon-owned property Residence on Fifth. During this time, a non-affiliate was observed to be under the influence of alcohol. Standard field sobriety tests were conducted and the non-affiliate was charged driving under the influence of alcohol or a control substance.  
+Access Device Fraud
+Jan. 28, 2019
+Officers responded to The Hub for a report of fraudulent charges discovered on a Carnegie Mellon student’s identification card. The investigation is ongoing.
+Disorderly Conduct
+Jan. 28, 2019
+Officers responded to Welch House after reports of an odor of marijuana. Officers made contact with a Carnegie Mellon student who provided the small amount of marijuana and drug paraphernalia. The student was issued a non-traffic citation (disorderly conduct). 
+Alcohol Amnesty
+Jan. 30, 2019
+Officers responded to Donner House for an intoxicated Carnegie Mellon student. The Carnegie Mellon Student was provided medical attention and no citation were issued, due to alcohol amnesty.
+Disorderly Conduct
+Jan. 31, 2019
+rd observed two Carnegie Mellon students smoking marijuana outside of the main entrance to The Underground.  Officers arrived on scene and made contact with the two Carnegie Mellon students who admitted to smoking marijuana. Non-traffic citations were issued to both parties, due to smoking marijuana and the drug paraphernalia recovered.  
+Theft and Vandalism
+Jan. 31, 2019
+Officers responded to Mudge House after receiving reports of broken glass on a vending machine. It was discovered that numerous food items were stolen from the vending machine. 
+Vandalism
+Jan. 31, 2019
+Officers responded to the Greek Quadrangle to investigate graffiti discovered on the storage barrels used for kitchen materials.
+Theft of a Wallet
+Jan. 31, 2019
+A wallet was stolen in the Cohon University Fitness Center. A Carnegie Mellon student reported that their wallet was taken from the locker room area. An investigation is ongoing. 
+Burglary, Unlawful Entry
+Jan. 31, 2019
+Officers responded to Carnegie Mellon-leased property Fairfax Apartments for a burglary. A Carnegie Mellon student reported that money was taken from their apartment. The investigation is ongoing. 
+Alcohol Amnesty
+Feb. 1, 2019
+Officers responded to Mudge House to check on an intoxicated Carnegie Mellon student. The Carnegie Mellon student was provided medical attention and no citations were issued, due to alcohol amnesty. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+While students at Carnegie Mellon University and much of the northern United States battle the polar vortex, it almost feels like the flu season has been nearly non-existent, away from minds preoccupied with staying warm and finishing schoolwork. But the flu is very much alive, though at much more average levels compared to last year’s epidemic.
+The  2017-2018 flu season was the worst since 2009, with the influenza-like-illness percentage at 7.5 percent. It was also one of the longest flu seasons in years, ramping up in Nov. 2017 and peaking in Jan. and Feb. 2018 across the country. While reports discussed low effectiveness levels of the vaccine, the larger reason why the flu season was so widespread was because of a low number of vaccinations.
+Skirting the vaccine is common among college students — the percentage of vaccinated college students is modest, ranging from as low as 8 percent to 39 percent each year, according to a 2016 report by the National Foundation for Infectious Diseases. The flu virus is most harmful for the elderly and young children, and it has proven to be difficult to attract young, healthy adults to get vaccinated. For students particularly, it’s just not on their radar.
+Sophomore computer science major Andrew Conlon was one of the students who did get the flu vaccine last year, though it didn’t have any effect for him. He was not protected from the virus and contracted it early in the season in Dec. 2018. This year, Conlon, as he does each year like clockwork, received the flu vaccine and has stayed healthy thus far.
+For Carnegie Mellon’s University Health Services, getting more students vaccinated is a top priority. Hanging posters, sending out emails, and holding vaccine clinics are some of the different methods they have used to reach students and spread the word about getting vaccinated, even if they feel completely healthy. So far this year, though the flu season has been quite normal, Health Services has seen an uptick in vaccinations compared to this time last year.
+“We’re trying to get more and more students vaccinated before a significant illness hits campus,” said Beth Kotarski, Director of Health Services in an interview with The Tartan. “We’re up about 11 percent from last year at this time of students being vaccinated…up about 400 students vaccinated this year from last year at this time, so that’s a very good sign.”
+While many students who walk into Health Services for the vaccine are healthy and proactive, Health Services also has measures to aid students who are already showing common flu symptoms. The flu is not bacterial, so antibiotics will not help combat it, but Health Services offers an anti-viral, symptom-reducing medication that helps control the illness.
+For students and the general public who are interested in learning more about the flu, and seeing what may be coming next, consider Carnegie Mellon’s Delphi Group, which conducts research on epidemiological forecasting on illnesses, especially the flu. Delphi’s forecasts have been named by the U.S. Centers for Disease Control and Prevention (CDC) the most accurate for four consecutive years.
+Delphi uses two main systems to make forecasts on the current and future states of the flu season, a statistical system and a human system dubbed “Wisdom of the Crowd.” The statistical system combines historical data and additional data from other sources that correlate with flu trends, such as flu-related queries searched on Google, and it has been more accurate with short-term flu forecasts. The Wisdom of the Crowd system uses predictions and comments from humans collectively to see what is coming next, and has been marginally more successful in creating long-term forecasts.
+Currently, Delphi uses Pennsylvania state data to make their predictions. Ryan Tibshirani, Associate Professor of Statistics and Machine Learning and co-leader of Delphi, says that the group is looking to gain access to local data to make accurate forecasts at a local level.
+“At the moment, we’re using data at the level of the state, which is better than regional or national data, but it’s still far too big,” Tibshirani told The Tartan. He continued, “It’s not really a public interest yet…If I told you that [the flu in] Pennsylvania was worse than New York, that wouldn’t affect your daily life that much.”
+Tibshirani compares the importance of local-level predictions to that of weather forecasting. People check the weather app every day, sometimes multiple times of day, from the moment they wake up. If weather forecasts only predicted the weather at the state level, they wouldn’t be applicable to the general public.
+For example, Pennsylvania is a relatively large state, and the weather in Pittsburgh can vary greatly from the weather in other cities. Going further, in California, the weather in San Francisco is very different from the weather in San Diego. But with local data, meteorologists can forecast the weather specific the small towns next to each other. While this ultimate goal is something Delphi is hoping to work towards, it won’t happen for many years.
+He elaborated, “it’s going to take a while, and it’s going to take better data… but it would be absolutely fantastic if you have an app on your phone where you check not only the weather, but you check how risky it was to go out in Pittsburgh that day for fear of flu and other major things. That would I think be a fantastic resource.”
+For now, students are best equipped the combat the flu by taking care of themselves and being vigilant as they go about their daily lives. Kotarski and Health Services are focused on getting the word out on getting vaccines, but simple things like sleeping enough each night and eating meals are also vitally important to protect against the illness.
+“We’re hopeful that… students are getting the message about taking care of themselves, getting enough rest, getting good nutrition, getting good sleep, washing their hands a lot, you know, those basics that really go so far in protecting our immune systems, and that’s really the message about trying to prevent the flu,” Kotarski said. “Not everybody is going to prevent it that way, but many, many people will, and that helps all of us.”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Carnegie Mellon’s campus was unusually quiet on both Wednesday and Thursday of last week. With weather forecasts calling for windchill temperatures as low as -20°F, Carnegie Mellon administration canceled classes out of concern for the safety of students and faculty. The students that usually hustle to and from class on the walkways, occupy the lecture halls, and stake out the libraries were encouraged to stay at home. The campus looked like a desolate tundra.
+Rodney McClendon, Vice President for Operations, told The Tartan that the “university administration wanted to ensure the health and safety of our students, especially those with a lengthy commute to campus via foot or public transportation.”
+As the campus remained publicly open, however, staff, which includes admissions counselors, tech support employees, and Facilities Management Services staff were still required to work.
+Students and faculty generally appreciated the cancellations of class. According to McClendon, “most people appreciated that safety comes first in our campus community.” Many students and faculty reported being “surprised” that classes were cancelled. 
+Many professors have had to amend their syllabi and set their lessons back a day. Since most bi-weekly classes meet on either Wednesday or Thursday, there are few classes that were not affected by the closures.
+Professor Bhikasta Raj did not let the cancellations get in the way of his curriculum. Raj gave the 5th lecture of Introduction to Deep Learning to an empty Baker Hall lecture classroom and emailed a recording to his students, which he had uploaded to YouTube. Raj begins his lecture; “I am nevertheless going to pretend there are people in class and we are going to continue where we left off.”
+This is the first time that Carnegie Mellon has cancelled classes since February 2010, “when the university closed for three days during a snowstorm that brought more than 21 inches of snow to Pittsburgh,” as told by McClendon. 
+Hours before canceling Wednesday classes, Carnegie Mellon communications sent an email out to the Carnegie Mellon student body about “Preparing for Extreme Cold Weather.” The list of safety tips included instructions like: “Wear a hat,” and “Mittens are better than gloves.”
+Many other colleges in the greater Pittsburgh area cancelled classes on Wednesday. California College of Pennsylvania, Edinboro University, Slippery Rock University, and Clarion University cancelled all classes for Wednesday and Thursday by Tuesday, as reported by the Pittsburgh Post-Gazette. 
+The University of Pittsburgh did not cancel classes until 7:30 am Wednesday morning, when many students and faculty were already on their way to campus.
+Temperatures in the Pittsburgh region were so cold that the Schenley Skating Rink and Boyce Park ski slopes were closed by Pittsburgh recreation officials to encourage people to stay inside. Experts warned that frostbite and hypothermia could occur within a matter of minutes in exposure to -20°F windchill.
+The temperatures in Pittsburgh were part of a cold snap felt across the Midwest. In Iowa, temperatures fell to -14°F. Temperatures in Chicago fell to a record low -27°F, where city officials warned that frostbite could occur immediately upon exposure. 
+A freshman student at the University of Iowa, Gerald Belz, was found unconscious outside of a campus building and later died in the hospital. As of Friday, 21 people were reported to have died across the Midwest in cold weather related incidents.
+In a tweet sent out on Monday, President Donald Trump suggested that the cold snap was evidence against global warming. He mocked, “What the hell is going on with Global Warming? Please come back fast, we need you!” 
+Many researchers assert that the drop in temperatures was a consequence of the shifting “polar vortex,” a phenomenon whose increased frequency is linked to climate change. The extreme cold in the U.S. occurs when the polar vortex, a system of winds that usually hold cold air in the Arctic Circle, breaks down, and frigid air flows southward. These polar vortex events have been happening more frequently in the 21st century. 
+Studies suggest that this may become the new normal. The Polar Vortex is predicted to continue to break down, increasing in frequency. A researcher, Dr. Judah Cohen, told The New York Times that “winter is shortening, but you’re getting these more intensive periods in that shorter winter.” Thus, this might not be the last time Carnegie Mellon has to cancel classes due to extreme cold.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Tuition hikes, much like death and taxes, are one of the few sure things we can cling to in this time of mass uncertainty. That helped blunt the sinking feeling that came with the recent communique from our friendly Carnegie Mellon, letting us know that the benevolent board of trustees “has approved” a “2.9 percent increase in undergraduate tuition…as well as fees for all students.” 2.9 percent this year, 2.87 percent last year, 3.0 percent the year before. As regular as clockwork, as dependable as the tides. It’s at least comforting to know that “CMU is committed to keeping any cost increase as low as we can.” It might feel a little exploitative otherwise. 
+Carnegie Mellon is not alone in their love of rate hikes; tuition has increased across the country, across the board. From private to public to for-profit the price of every institution of higher education has increased dramatically in the last 40 years, far outstripping the rate of inflation, all while these universities tout the “value” of their degree programs and promise a better, more stable, higher-earning future for graduates.
+According to the 1989 Carnegie Mellon Factbook, the total estimated cost of attending Carnegie Mellon in 1984 was $13,200. Adjusted for inflation, that’s equivalent to $31,433.89 in 2019 dollars, or less than half the current estimated total cost of $72,283. The trend is universal: school costs more than it used to. But the universal nature of the trend doesn’t mean that we should just throw up our hands, sign our student loan documents, and accept the burden of a lifetime of payments. The Carnegie Mellon Enrollment Services document, “The Value of Carnegie Mellon”, states that “various factors” influence tuition hikes, like “the competitiveness of faculty salaries” or “the role of tuition revenue in the university’s budget” or the hilariously vague “national and international economic factors.” The spectacular cost of a degree from Carnegie Mellon is spoken of as an inevitability in the document, with the university justifying the cost without directly engaging with it. Instead of writing, say, “We charge this much because we can,” they write “Like many of its peers, Carnegie Mellon is an expensive institution.” It can't possibly be the university’s fault, or President Jahanian’s $800,000 a year base salary, or the crystal inauguration palaces, or the constant churn of building projects. Tuition just goes up every year because it goes up every year.
+It wasn’t always this way. According to a CNBC article, when Harvard raised its tuition in 1971, it was “the first time since 1949 that the school, which was chartered in 1650, had boosted tuition two years in a row.” The increase was $200, from $2,400 to $2,600.
+Part of this is is rooted in the 2008 financial collapse. After bankers brought the world economy to a shuddering halt, states were forced to cut public funding for universities, shifting more of the costs onto students and their families. This in turn forces students to take on debt, the fancy student loan kind. Since student loan debt is not affected by bankruptcy, according to “The Value of Carnegie Mellon,” students are then trapped under the weight of “several hundred dollars a month toward their student loans for a period of approximately 10 years.” According to The Washington Post, the current student loan debt in the United States is $1,530,000,000,000, a collective burden on our society that is driving more and more young people to put off buying houses, having kids, or living the lives our parents and grandparents were able to live. 
+Not that we should all aspire to have those lives – houses and kids aren’t for everyone, and middle-class life creates carbon emissions in the billions of tonnes each year. However, the fact remains that the barrier to a dignified existence — the one we were all led to believe relied on good grades, a good school, making the right moves — is much higher for us than it was for previous generations. Wage growth has stagnated, even as the stock market soars. Economic gains are being shuttled off to the upper class, meaning private universities like Carnegie Mellon have no incentive to cut tuition. Most of the student body can absorb the cost, and those who can’t will compete for scholarships or take out even more loans. 
+In the absence of wealthy parents, a student graduating from Carnegie Mellon is guaranteed a lead weight around their neck for decades, especially if they aren't joining corporate America. Without one of those golden tickets to an Amazon company town or Raytheon Acres, the “several hundred dollars a month” Carnegie Mellon tells us to expect becomes a crippling burden. Better hope you don’t get sick, or your rent doesn’t go up, or you aren’t laid off in a ritual bloodletting of human capital.
+A report from the University College of London found that student loan debt has huge consequences for those living with it, negatively affecting “career choices, home ownership, health, finance, retirement, and, for women, getting married and having children.” The university should be making every effort to keep students debt free, not turning the screws and justifying it with cheap excuses. Carnegie Mellon’s endowment increased 11.2 percent last year, making it now worth $1,900,000,000. If enormous returns like that can’t stop the tuition hikes, it’d be great to know what would. 
+More than 3,000 students signed a petition to cancel classes last Wednesday, Jan. 30. These signatures might not have influenced the administration’s reversal at all, but they do demonstrate the ability we students have to demand change. Online petitions are online petitions, but if we band together and demonstrate the power we have as a collective body, we could end up end up turning the tide.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+There are few topics as polarizing in our national conversation as abortion. While beliefs about abortion exist on a continuum, as with all other controversial issues, the extremes are what come most easily to mind: hardcore pro-lifers and hardcore pro-choicers engaged in an endless war, neither side willing to yield an inch to the other, the two trapped in a perpetual ideological deadlock.
+Adding to the ideological conflagration, New York State recently passed the Reproductive Health Act (RHA) on Jan. 23, a bill, that in effect, codifies protections granted under Roe v. Wade. The bill was signed into law by New York Governor Andrew Cuomo who claimed the act was a push towards a socially progressive legislature. The RHA guarantees a woman’s right to an abortion without restriction until 24 weeks of pregnancy, and it further protects the right to a late-term abortion should there be substantial danger to the mother’s health or doubts regarding the fetus’s viability. The timing of the legislation is also crucial: with Brett Kavanaugh’s appointment to the Supreme Court and mounting fears over narrowing interpretations of reproductive rights, solidifying such protections are now more important now than ever before.
+Unsurprisingly, Cuomo saw immediate criticism from various bishops of the Catholic Church, with many calling for his excommunication over what they saw as an inappropriate and cruel law. Various pro-life organizations have also voiced their anger, arguing that the RHA is a gateway to greater access to late-term abortions.
+Regardless of your individual beliefs, I think we can all agree that abortion is an incredibly complicated problem at the intersection of society, politics, and religion. It would be inaccurate to portray the question of reproductive rights as binary, because there is no correct or incorrect answer. When peoples’ beliefs differ so widely, the best possible option compromise, and Roe v. Wade was a good attempt at balancing both sides by providing restrictions while still allowing access. This case doesn’t necessarily suggest that such compromises always work, as laws are always being reinterpreted in narrower or broader ways, but at least it provides a starting point for future deliberations. In the same vein, the RHA should be considered in a holistic sense regarding its potential impacts rather than immediately praising it as revolutionary or criticizing it as inhumane.
+With increasing restrictions on access to contraceptives and birth control, unwanted pregnancies have become more frequent, meaning that the demand for abortions is increasing. In some situations, going through with having a child can lead to greater financial burden and lower quality of life if that child cannot be adequately supported, both of which are unfavorable outcomes. Giving birth may also pose a legitimate threat to the mother’s health. With nearly 700 deaths due to childbirth every year, this is a vital consideration. In this sense, increasing access to abortions can be beneficial, provided they are early enough. Furthermore, the increased accessibility can also benefit rape victims who become pregnant. Victims of sexual assault are often reluctant to come forward to share their story or to seek help, so by making such services more readily available, it might help those who find themselves in such a difficult situation.
+That’s not to say that there are no causes for concern. Some argue that the protections for late-term abortions are often exploited as a way to terminate a pregnancy after the deadline has passed, leading to an unjust loss of life. Perhaps most troublesome is that the law allows abortions to be carried out by health professionals other than doctors, which, while increasing the available pool of service providers, could also lead to health complications later on.
+How the RHA will affect the scope of reproductive rights remains to be seen; with different laws for every state, it is difficult to gauge the national attitude on such a hot-button issue. Nevertheless, it is important to approach such complicated matters with reason and tact rather than uncompromising beliefs: intransigence didn’t work with politics, and it certainly won’t work with something as sensitive as abortion.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+On Jan. 22, the Supreme Court voted to uphold the Trump administration’s transgender military ban, reversing a progressive step made by the Obama administration. The Supreme Court was mainly concerned with the expense of transgender men and women’s medical treatment. This reason is severely unpersuasive and lacks supporting data, the counter-arguments substantially more coherent and sensible.
+From an objective standpoint, Trump’s decision was irrational, considering the fact that the military fell short of its recruitment goal this year by 23,500 soldiers.The high selection standards mean that less than 30 percent of young Americans can make the cut to join the military. With this ban, a certain population would be prevented from joining the military, thus further narrowing down the already limited candidate pool. In a hypothetical scenario, if a skilled transgender person is replaced by an unskilled cisgender individual, would the cost of training this unskilled individual be necessarily less than the medical cost of the transgender person? Since the logic of this ban can’t be justified, the true motive becomes clear: discrimination. 
+The impact of this ban on the trans community, or the LGBTQ community in general, is devastating. Trans individuals currently serving in the military will be the direct victims of the policy. They face the choice of either quitting their job or hiding their identity. If they choose to stay hidden, this policy would be constant torture to their perception of self, triggering alarming mental health problems in the future.
+For the trans community, this is an overt act of discrimination, and demonstrates that they still have a long way to go to be fully accepted by the American public. Not to mention a president who claimed in a tweet that trans individuals are “disruptions” to the military further promotes a skewed and biased view of the trans community.
+While the future for the LGBTQ community in the U.S. seems grim, global prospects aren’t optimistic either. Around the same time, on Jan. 25, Japan’s Supreme Court upheld a law that “effectively requires transgender people to be sterilized” before they can change their gender on the official documents. The Supreme Court’s supporting argument was equally fragile — “to reduce confusion in families and society” — as if clarifying confusions for an unforeseeably impacted group weighs more than the freedom of trans individuals.
+Other LGBTQ groups also continue to be targeted globally. During Thanksgiving last year, Taiwan voted against same-sex marriage in a referendum. Last year in May, a lesbian couple in Beijing got beat up by security after entering the gate for a secretly organized LGBTQ parade.
+It’s almost shocking that although the concepts of personal freedom and liberty have been the basis of democratic societies for hundreds of years, people still shamelessly try to impose limitations on minority groups’ freedom and liberty, prohibiting them from enjoying the same fruits of our society.
+In response to these bigots, we will fight. Let rainbow flags and love spread. We will continue to educate those who are mired in ignorance and hate. We have faith in our success because, in the end, love wins.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+A study has found that Puerto Rico received drastically less federal disaster aid post-Hurricane Maria than Texas post-Hurricane Harvey and Florida post-Hurricane Irma in terms of both dollar amount and efficiency, even accounting for the geographical differences between island and mainland.
+According to the study, while Texas and Florida received about $100 million in Federal Emergency Management Agency (FEMA) funds in the nine days after Harvey and Irma, Puerto Rico only received about $6 million in the same amount of time post-Maria.
+Around the same time, Department of Housing and Urban Development Deputy Secretary Pam Patenaude left her post after allegedly clashing with the White House over funding for Puerto Rico. One of these incidents apparently occurred when President Trump tried to divert funding Congress had appropriated for the island to Texas and Florida. Trump was angry at Puerto Rico because he believed — with no factual basis — that Puerto Rico was using disaster money to pay its debts, even telling then-chief of staff John Kelly and budget director Mick Mulvaney that he did not want a single dollar going to Puerto Rico.
+In a similar vein, Politico has reported that the White House has been cutting food aid for Puerto Rico’s poor, and gave another reason for Trump’s treatment of Puerto Rico: the fact that he was angry at Ricardo Rossello, the governor of the island, for endorsing Democrat Bill Nelson in Florida’s 2018 Senate race.
+While we can have an endless debate about the exact amount of dollars that should go to each aspect of disaster recovery and welfare programs — which are, after all,  complicated operations — the inequity cited in the study, Trump’s alleged comments, and his general treatment of Puerto Rico post-Maria led  me to think about a broader theme: empathy in leadership. Whether in schools, in workplaces, or in the country at large, we all want our representatives to have empathy for their constituents. When those in charge become too insulated in their bubbles and stop caring about who they are leading, the anger at being forgotten is almost guaranteed to bounce back, and may eventually get strong enough to push out the leader.
+Puerto Ricans certainly felt forgotten and dismissed by politicians in Washington, particularly the president, whose lack of empathy was sharply reflected in his comment, “I don’t want a single dollar going to Puerto Rico.” To Puerto Ricans, it fundamentally displays modern-day American colonial attitudes. Because of a quirk of history, Puerto Ricans are U.S. citizens who can freely travel to the mainland and back, but cannot vote in general elections and do not have voting representation in Congress — only a non-voting representative in Washington. Politicians, on the other hand, are very xian shi, a Chinese word meaning “practical” but with a negative connotation, and won’t bother themselves with the interests of non-voting citizens since they don’t affect reelection chances. Ideally, we would like representatives to have empathy for all citizens, voting and non-voting alike. In reality, many seem to reserve their “empathy” only for the voters they rely on each election cycle. This seems to be the case in past elections, where Puerto Rico’s problems were absent or barely mentioned on the stump; no voice means the group is left out of the conversation and ignored by those in power. This was apparent in President Trump’s slow and cruel response to the needs of Puerto Rico; he makes it obvious that he doesn’t care about the island, likely because he knows he won’t have to answer to them, or at least those still living on the island, in 2020.
+President Trump’s background wasn’t exactly helpful in nurturing an empathetic heart either. There is another Chinese saying to describe this: xian zhe jin tang chi chu sheng, translated as “born with a golden spoon in his or her mouth”. In Trump’s case, money and fame didn’t teach him to care about the struggles of the left-behind, and seems to have had the opposite effect. Because his background led him to think that he deserves everything he has and more and that struggling people deserve their suffering, the challenges of poorer people are ignored. The president sees no problem in being verbally mean to Puerto Rico despite the island’s many struggles because he sees everything through his own lens, colored and distorted by the Washington bubble and his own wealthy background. In that lens, like the evil magic mirror in the Snow Queen fairy tale that shatters to pieces and corrupts people by entering their eyes and heart, what is right becomes wrong and what is wrong becomes right.
+I’m not an expert, and I don’t pretend to know whether statehood or independence is best for Puerto Rico, nor the ins and outs of disaster aid and welfare policy.  But Puerto Rico deserves so much better than petty verbal assaults and federal feet-dragging whenever it gets hit with a natural disaster, and that starts with politicians on the mainland showing more empathy towards the island. Perhaps if leaders everywhere could open their hearts just a little wider, the light of compassion and empathy would shine farther and light up more people’s lives.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+After her email to first- and second-year students at Duke University encouraging them to “commit to using English 100% of the time,” Professor Megan Neely has since apologized, and has been asked to step down from her position as director of graduate studies in Duke’s biostatistics master’s program. While she remains an assistant professor for the university, Professor Neely faced serious backlash for her email — in America and beyond.
+The email, sent on Jan. 25th, said that two faculty members had approached Professor Neely complaining about students speaking Chinese “very loudly” in an academic building. The two members wanted to identify such students in order to “remember them” when the students would eventually ask for an internship opportunity or seek to work with them in the future. She ends the email pleading with Chinese-speaking students to “keep these unintended consequences in mind” when simply talking with friends or colleagues in an academic or “professional” setting.
+After screenshots of the email went viral on social media, international students penned a petition demanding that Duke investigate further, because this incident is not isolated. For example, in Feb. 2018, Professor Neely sent an email with the same general message: speaking Chinese can give faculty the impression that you are willingly avoiding English, thus hurting your chances in future professional endeavors. On the international scale, users of the popular Chinese social media app Weibo have shared their thoughts extensively: two days after the email was sent, a hashtag about the incident had been used more than 6.7 million times. 
+In her apology, Professor Megan Neely notes that although her email came out very offensive and discriminatory, “it was not meant to be hurtful.” However, the act of sending not one, but two attempts to police Chinese students is hurtful in itself. The intentions of the emails may have been “good” (in this case, preventing students from losing professional and research opportunities), but in the end, Professor Neely ruined her white-savior justification with harmful language, like calling attempted blacklisting by two racist faculty members at Duke University the “unintended consequences” of speaking your mother tongue. 
+Time and time again, Asian students face the consequences of normalized racial micro-aggressions. From the lighthearted “jokes” on social media about assuming your nail-lady is talking badly about you simply because you do not understand what they are saying, to the use of slurs like the C-word, to the murder of nail salon worker Nhu Ngoc Quynh Nguyen over a $35 manicure, Asian people are consistently treated as unwelcome in this country simply because they are Asian. Furthermore, there are people with the audacity to use the model minority myth as an excuse for their racism. The Duke University email scandal, while relatively harmless and isolated, is another example of the centuries-old history of American racism towards Asian immigrants and Asian-Americans alike. 
+There is comfort, safety, and community in hearing, speaking, and engaging with others in your mother tongue — especially for international students, who travel far from home to pursue an education in the United States. Having that right threatened is thoroughly un-American. To see a fellow research university like Duke embroiled in this incident is upsetting; it is also a reminder that there is still much to be done in educating not only fellow students, but also faculty, about diversity of language, ethnicity, race, economic status, sexual orientation, and more.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+

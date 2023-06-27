@@ -1,0 +1,625 @@
+On Wednesday night, the Pittsburgh Penguins hit the ice to start the 2018 Stanley Cup Playoffs, as they seek to capture their third consecutive championship.
+Their quest this year began against the Philadelphia Flyers, the Pens’ fierce in-state rival. Crosby and company handled the Flyers deftly in Game 1, scoring a dominant seven goals and shutting down Philadelphia’s offense altogether, holding them to just 24 shots. Goaltender Matt Murray completed the shutout, allowing no goals on a series of stellar saves.
+The game was a non-stop parade of Pittsburgh sports dominance, and the atmosphere in the arena reflected that. From the first puck drop, it was clear the Pens were more lively than the Flyers, and the crowd at PPG Paints Arena fed into that energy. With some key players injured from the start, Philadelphia came onto the ice looking jaded and demoralized. Game 1 ate them up, and the Penguins’ two-time defending championship team looked as strong as ever.
+Being at Game 1 Wednesday night, the veteran talent really stood out to me. Evgeni Malkin danced around defenders to score in the first period with weightless skating that reminded me of Connor McDavid. Assists from Kris Letang, Derick Brassard and Patric Hornqvist were snappy and played to modern NHL tendencies.
+And then, there was Sidney Crosby. Crosby had a hat trick and he didn’t even score until the second period for Pittsburgh’s 5th goal of the game. That goal was a dazzling no-look mid-air deflection that seemed to defy the laws of physics. Crosby has made a few mid-air goals this year, a skill he seems to have improved even at 30 years old.
+But Wednesday night’s deflection was special. The puck moved at near full speed to Crosby’s left, with his back turned away from the goal. Without looking to the net, he batted the puck when it passed his side, and it sailed over Philadelphia goalie Brian Elliott’s shoulder to land top shelf. The crowd’s response was noticeably quieter than that of the first four goals of the night, mainly because people were staring in disbelief at what they just witnessed.
+Even seeing the goal from the middle of the upper bowl, it was clear to me how incredible what Crosby had done was. The crowd darted to the replay, and as the slow-motion video played for the first time, the crowd gasped again, before rising into the loudest uproar of the night. For the rest of the game, chants of “Sidney Crosby” persisted. It certainly did not hurt that he followed that up with two more goals, one of them being another — but slightly less impressive — mid-air deflection.
+I left the arena Wednesday night with the impression that the Penguins would sweep the Flyers in four short games. Philadelphia’s offense looked completely static, and the defense and goaltending appeared helpless against Pittsburgh’s unforgiving attack. So I was shocked following the score of Game 2 from my phone Friday night. The Flyers pulled ahead to a 2-0 start through two periods, and added a third goal just 90 seconds into the third period.
+The Penguins, unable to score, were visibly frustrated. Crosby slammed his stick into the opposing net as the end of the second period sounded, having just barely missed a great scoring chance. If Game 1 saw the Pens as a consistently dominant team steamrolling their rivals, then Game 2 exemplified the exhaustion of playing through long regular seasons and four grueling rounds of playoff hockey for two years in a row catching up to them. Philadelphia was the more physical team in Game 2 as well, and even if it took a questionable Claude Giroux hit on Kris Letang, the Flyers won the mental battle of Game 2.
+Now, the Penguins travel to a bloodthirsty Wells Fargo Center in Philadelphia for Games 2 and 3, with an even series score and a chip on their shoulder. This is going to be a great series.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+The Carnegie Mellon University Baseball Analytics Workshop was held last Saturday, April 7. It was the first installment in what Carnegie Mellon’s Department of Statistics & Data Science hopes to be a series of workshops that deal with sports analytics. Around 60 participants of all ages gathered to learn some of baseball statisticians’ tools of the trade.
+Mark Patterson, Director of the Quantitative Social Science Scholars Program at Carnegie Mellon, gave the participants an introduction to R and RStudio, a statistics program that can be used to do a plethora of fun things with baseball data. Patterson walked the group through the massive Lahman package, an immense data dump of season-to-season statistics for both players and teams. Patterson showed the group a few ways to plot different baseball metrics such as home runs, walks, and strikeouts.
+After lunch, Jim Albert, Bowling Green State University professor in mathematics and statistics, gave the afternoon’s keynote speech on the topic of new developments in advanced statistical analysis in baseball, specifically what can be done with PitchFX and Statcast. PitchFX provides analysis on every single pitch that’s thrown in a baseball game. Multiple variables are recorded, like location, movement, and velocity. Statcast, introduced in 2015, analyzes players and player movement on the field. Things like launch angle, exit velocity, and other “hot” statistics becoming more prominently discussed are because of Statcast’s integration into MLB stadiums.
+Ron Yurko, a Ph.D. student in statistics at Carnegie Mellon, led the group through a more advanced exploration of RStudio. Because the Pittsburgh Pirates were due to play the Cincinnati Reds later that day, Yurko took a look at Reds first baseman Joey Votto’s statistics, creating a few different graphics in RStudio. He analyzed things like Votto’s OPS and Whiff rate in 2017 varied by pitch type, learning that Votto does incredibly well when trying to hit sinkers and curveballs.
+Yurko also created a heat map of where Votto was most likely to swing at pitches. Because Votto has incredible discipline as a hitter, his strike zone heat map was hot in the strike zone, and it sharply cooled off outside the strike zone. To compare, Yurko referenced the heat map of Reds center fielder Billy Hamilton, whose swing probabilities extended well outside the strike zone. Finally, Yurko brought up a spray chart of where Votto’s batted balls were most likely to land.
+After the presentation, the group traveled to PNC Park for a pregame Q&A session with Pirates Director of Baseball Informatics Dan Fox and his analytics staff, where they answered many questions concerning their day-to-day workflow, resume advice, and personal opinions on baseball statistics.
+After the session, those who were a bit more daring stayed to catch a chilly game between the Pirates and the Reds. Ultimately, the Bucs fell 7–4.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+The NBA Playoffs are already underway! What is in store this year? Will anyone break the Cavs-Warriors finals? Or, will the two teams meet for the fourth time in a row (Warriors lead the “championship series” 2-1)? Can the Rockets finally break through? Here are The Tartan’s NBA Playoffs Predictions.
+Eastern Conference
+The East definitely has less star power than the West, but it does have one star above the rest: LeBron James of the Cleveland Cavaliers. In his 15th NBA season at age 33, James hasn’t shown any sign of letting up. He has played all 82 games for the first time, leading in minutes per game, and posting career numbers. He is defying all expectations, is continuing to be the best player in basketball, and is vying for his eighth straight finals appearance. It wouldn’t be surprising if he can carry the Cavs to the finals yet again.
+Before all the injuries, first to Gordon Hayward in the fall and recently to Kyrie Irving, the Boston Celtics were on track to make a deep playoff push. The team’s early success helped secure them the number 2 seed in the East, but the path through Round 1 against the Milwaukee Bucks won’t be a breather.
+And finally, we have the red-hot Philadelphia 76ers, coming off their 16-game winning streak that finished their season. Even with their best player Joel Embiid out with a friendly-fire injury, the Sixers are young, hungry, and ready to win. This team is young: inevitable rookie of the year Ben Simmons has been impressive this season, and even 2017 first round pick Markelle Fultz has battled back from injury to be effective off the bench. The Sixers are a breath of fresh air, and Philadelphia is ready to sweep sports championships after the Eagles took the Super Bowl, and Villanova won the NCAA men’s basketball tournament.
+Western Conference
+Here are the stars. The Golden State Warriors will be without Steph Curry for at least the first series against the San Antonio Spurs, but the sheer talent of their team should help them coast by the Kawhi Leonard-less Spurs. The Warriors have been riddled with injuries this season, but with Kevin Durant, Klay Thompson, and Draymond Green playing their best basketball, this team shouldn’t have a problem to at least go to the Western Conference finals, especially when Curry returns to the lineup. But the real question is if they can win their third championship in four years. They can, but that doesn’t mean they will.
+The Warriors’ biggest challenger in the West is the Houston Rockets, who set out last offseason to create their own Warriors-style super team, adding Chris Paul to team star James Harden. During the regular season, the Rockets were the best overall team in the league with a 65–17 record, boasting an NBA-leading offense and a defense that can’t be ignored. They have the talent and the ability to reach the finals, but they will have to go through the Warriors.
+Among other teams in this very strong conference, the Oklahoma City Thunder’s offseason experiment  with adding Carmelo Anthony and Paul George to this  Russell Westbrook-led team (after Westbrook’s historic MVP season last year) has  led to mixed results, and has not met the pre-season expectations. The Thunder should make it past the first round against an exciting upstart Utah Jazz team on sheer talent alone, but they haven’t put it all together to make a run all the way to the finals.
+The Tartan Finals Prediction: Cavs-Warriors 4.0; the Warriors win the championship in six games.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Women's Tennis
+The ninth-ranked Carnegie Mellon University women’s tennis team traveled to Westminster College on Thursday, April 12 to battle the Titans. The Tartans defeated the host team, 9-0, for their third straight win and 15th of the season.
+First-years Hannah Rosenfield and Alex Iordache kicked off the day 8–0 win at third doubles. The second doubles pair of junior Marina Selenica and first-year Nila Ramaswamy also finished with a 8–0 score before sophomore Courtney Ollis and first-year Elizabeth Schulz won 8–3 at first doubles.
+Ollis was first to finish singles play with a 6–0, 6–0 victory at the fourth position. Ramaswamy earned the match point with the same score at fifth singles.
+Schulz also won by a 6–0, 6–0 score at sixth singles while Selenica won at first singles (6–0, 6–2), Rosenfield won at second singles (6–0, 6–1), and Iordache won at third singles (6–0, 6–1).
+The Tartans will host 23rd-ranked Kenyon College on Sunday, April 15 for their next match. The time is set for 1 p.m.
+Women's Track & Field
+The Carnegie Mellon University women’s track and field team competed at the Westminster College  Invitational on Saturday, April 14. The Tartans finished seventh out of 23 teams and third amongst Division III teams with 33 points.
+Sophomore Emmalyn Lindsey won the 3,000-meter steeplechase in a time of 12:09.49 to lead the Tartans.
+Sophomore Michelle Karabin earned a second-place finish in the pole vault after tying her career-best by clearing 3.65 meters.
+Junior Alexa Barriero took sixth in the javelin throw with a mark of 34.80 meters.
+First-year Isabelle Chickanosky earned a fifth-place showing in the 1,500-meter run with a time of 5:06.03. Fellow first-year Parvathi Meyyappan also placed fifth on Saturday when she finished the 5,000-meter run in 18:56.83.
+Men's Track & Field
+The Carnegie Mellon University men’s track and field team finished third at the Westminster College Invitational on Saturday, April 14. The Tartans finished first amongst Division III teams with 101 points.
+The big event for the Tartans was the 5,000-meter run where six Tartans placed in the top eight. Junior Kevin Cory won the event in 15:15.75 with junior Aadi Mhatre taking second in 15:17.18. Placing third was sophomore Josh Kalapos in 15:24.19 with first-year Naveen Pai finishing fourth in 15:28.54.
+Sophomore Fred Dauphin placed third in the triple jump with a mark of 14.04 meters with senior Eloy Fernandez placing fourth after a jump of 13.68 meters.
+First-year Bram Miller came in third-place in the discus throw with a mark of 44.79 meters to lead the Tartans. Senior Jacob Schofel was sixth in the event with a mark of 42.86 meters. Miller turned in a second top-five finish for the day in the shot put when he tossed the element 14.20 meters to place fifth.
+Schofel earned a victory in the hammer throw when he tossed it 55.06 meters.
+Junior Mark Moody placed second in the 800-meter run in a time of 1:58.18 while first-year Michael Cabral was fourth in 1:59.08. In the 3,000-meter steeplechase, sophomores Hunter Hartshorne and Harry Branch-Shaw finished second and third with times of 9:36.43 and 9:45.58, respectively.
+Women's Golf
+The Carnegie Mellon University women’s golf team competed at the Westminster College Spring Invitational on Saturday, April 14, bringing home the team title for the fourth straight year. Carnegie Mellon carded a team score of 320, matching the fourth best score in school history, at the 18-hole event held at the New Castle Country Club.
+First-year Catherine Tianhong Yu earned individual medalist honors with a career-best score of 74 to lead the Tartans who had the top four finishes on the day. The top honor for Yu is the first of her career and her second top-10 finish of the year. Finishing second behind Yu was sophomore Yedin Lui with a 79.
+Junior Carly Jordan entered the clubhouse with an 83 to finish third, as sophomore Charlotte Simpson recorded an 84 and took fourth place.
+Senior Summer Kitahara carded a 91 to round out the top five players for the Tartans.
+First-year Shanice Lam, sophomore Sanchi Gupta, and senior Isabelle Tseng entered the tournament as individuals and finished the 18-hole event with a 90, 92, and 94, respectively.
+The Tartans will be back in action Sunday, April 15 at the Saint Vincent College Invitational at Champion Lakes Golf Course in Bolivar, PA.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Measuring the pressure inside the skull — called intracranial pressure — is essential for properly and safely treating traumatic brain injuries. Carnegie Mellon researchers Jana Kainerstorfer and Alexander Ruesch have developed a new way to monitor intracranial pressure that is far less invasive than current methods.
+Traumatic brain injuries, often caused by car accidents, falls, or infections, are common but dangerous. When a patient suffers a traumatic brain injury, their brain can swell, cutting off blood vessels and doing brain damage that can be permanent or even fatal.
+Doctors can watch out for the signs of swelling by monitoring intracranial pressure. This usually means performing surgery to drill a hole in the patient’s skull, a procedure that is both involved and invasive.
+Kainerstorfer, an assistant professor in the Biomedical Engineering department, and Ruesch, her PhD student, are working on implementing a less invasive procedure that uses light to measure intracranial pressure.
+Their method uses optical fibers to send near infrared light into the brain, where it penetrates the skin and skull to reach blood vessels. Some of the light is reflected back out. By measuring the proportion of light that’s reflected, they can monitor changes in the amount of blood flowing through the brain.
+As in the current standard monitoring procedure, doctors can intervene if that amount dips below healthy levels.
+“If we can replace a very risky, invasive surgery and still get the information we need by shining light into a patient’s head, that would be much safer and much more cost-efficient. A non-invasive approach would be helpful for patients who are bedridden and need their brain to be constantly monitored. With our system, physicians won’t have to worry about jeopardizing the safety of their patients,” said Ruesch in a university news release.
+Kainerstorfer and Ruesch will soon implement their method to help pediatric brain trauma patients recover at the Children’s Hospital of Pittsburgh.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Smart buildings are no longer restricted to the realm of Disney Channel original movies.
+Dr. Hae Young Noh, an assistant professor in the Civil and Environmental Engineering (CEE) department at Carnegie Mellon University, works on “structures as sensors” — that is, embedding sensors in buildings and other objects so they can tell us what the humans in and around them are doing.
+Vibrations in buildings are often thought of as a nuisance, but according to Dr. Noh’s team, they actually contain a lot of information. 
+One promising application of this information is location tracking. Whether it be in a retail store, a bank, or a hospital, we often want to know where people are, and what they are doing without having to keep an eye on them ourselves, according to a Carnegie Mellon press release.
+The researchers use sensors called geophones, which measure vibrations and convert them into voltages. 
+Because the vibrations from footsteps are often very small, it can be easy to miss a few. So, they use an amplifier to make sure they capture the signal from each individual step.
+It takes a certain amount of time for a vibration to propagate through the floor and reach each sensor, depending on how far the sensor is from the location of the footstep. The system measures the difference in the time it takes for that signal to arrive at each sensor; with four sensors, it can figure out where a person is walking, accurate within about a foot.
+These systems don’t just measure location; they can also tell us a lot about the walker’s gait. Dr. Noh’s sensors can be calibrated to measure walking speed, stride length, and how much force is associated with each step, to within five percent of the individual’s body weight.
+This aspect of the system makes it a promising tool to protect the elderly from dangerous falls when it’s installed in buildings.
+Elderly folks with imbalances in their walking patterns are almost three times more likely to fall than those without. There are many different tests to measure gait imbalance, but they are often subjective and require a lot of direct attention from the evaluator. Recently, more technological approaches have emerged, such as pressure-sensing mats, 3D video capture, and wearable devices. But they aren’t perfect; they might be restricted to specific rooms full of sensors, or require direct interaction from the user.
+One advantage of Dr. Noh’s system are that it requires relatively few sensors, and can quantify the imbalance, while other methods are often only qualitative. 
+Another advantage is that it is completely unobtrusive — it only needs to be present in the room in order to do its job.
+The system needs to be calibrated for each new location, because of all the possible different types and configurations of floors. But, because they know the way waves propagate through solid materials, if the team can identify the floor’s structural properties, they can figure out how strong the original force was. From there, they can compare the forces from steps on someone’s right and left foot.
+The system can be trained to use the information gathered to predict when a person’s gait is deteriorating, which is a big predictor of fall risk. One potential application is a warning system for an individual, a sort of alarm saying “don’t push yourself.” They can also design a system that notifies emergency responders and family members, even if the person is unconscious.
+These types of sensing systems aren’t restricted to floors — the team is also testing the use of such sensors on beds. 
+Dr. Noh, along with Dr. Pei Zhang, Associate Professor of Computer Engineering, and several doctoral students, will install the sensors for testing in a local hospital. The sensors measure the vibrations in the bed frame as its occupant moves around, and the program can be trained to identify their intent: are they trying to get up, or just roll over?
+Roughly one million patients fall in hospitals each year. It isn’t always possible to have staff monitoring patients who are at high risk for falls, but with this system, a nurse or caregiver can be notified in time to reach the patient and prevent a potentially serious injury.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Sweet potato beat humans to Polynesia by thousands of years
+For years, it's been thought that determining how long ago the sweet potato took root in Polynesia would reveal when ancient South Americans and Pacific Islanders first encountered each other. Anthropologists are interested in this question because when Europeans arrived in Polynesia, they saw plenty of sweet potatoes — native to South America — growing on the Pacific islands. Many believe they were brought there by Polynesian sailors who made trips to South America.
+But that may not necessarily be the case. A new genetic analysis, published April 12 in Current Biology, appears to indicate that sweet potatoes actually arrived in the Pacific about 100,000 years ago, without human help. Sweet potato seeds are able to sprout even after exposure to salt water, and could easily have been carried by birds.
+However, anthropologists are not taking this to mean Polynesians and South Americans never met.
+“This paper shows sweet potatoes were already in Polynesia when the islands were first colonized by humans thousands of years ago,” says Lars Fehren-Schmitz, a paleogeneticist at the University of California, Santa Cruz. “But it can’t prove there was no contact between Polynesians and South Americans before Europeans arrived.”
+Source: Nature
+Record numbers of scientists running for office in 2018
+As cities across America prepare for the second March for Science, hundreds of scientists are running for office around the country at the local, state, and federal levels. 
+Scientist-candidates cite the country's current political climate as the main reason they are seeking election, pointing out that the current administration has a tendency to reject scientific evidence.
+“The attacks on science certainly didn’t start with Trump,” says Ted Bordelon, spokesperson for advocacy group 314 Action. “But he has been a huge catalyst. That may be one of the bright spots of his presidency — more scientists saying they want to be in the ring when it comes to lawmaking.”
+"After Trump was elected, I thought, ‘I have a nice job, I’m tenured, I’m safe,’ but I felt so pessimistic,” explains physicist Elaine DeMasi, running to represent New York's First Congressional District.
+For many of these candidates, science is its own platform. “Evidence-based politics is what I care about. I don’t care if it comes from the right or the left or the other right or the other left. As scientists, we are trained to prove ourselves wrong,” she says. “Government should have the same open mind.”
+Source: Science News
+Cargo ships must cut their emissions in half by 2050
+In a first for the shipping industry, a new United Nations deal will restrict the greenhouse gas emissions of cargo ships.
+The tens of thousands of cargo ships that transport goods around the world each year have primarily been powered by heavy fuel oil since the 1960s. According to James Corbett, an expert in global shipping at the University of Delaware in Newark, heavy fuel oil contains 1,800 times as much sulfur as diesel fuel. 
+The fuel burned by cargo ships produces two to three percent of greenhouse gas emissions annually — roughly the same amount as the entire nation of Germany. The 2015 Paris climate accord did not address these emissions at all in its plan to mitigate global warming.
+The U.N.'s International Maritime Organization (IMO) is working to rectify that, with a new deal ratified April 13 by 170 nations. The plan is to reduce cargo ship greenhouse gas emissions below 50 percent of 2008 levels. 
+The IMO plan encourages shipping companies to reduce emissions with more energy-efficient ship designs, cleaner fuels, and better business practices.
+According to Veronica Frank, an adviser to Greenpeace, the restrictions are “far from perfect, but the direction is now clear — a phaseout of carbon emissions.”
+“Clearly the IMO is moving into the 21st century,” says Corbett.
+Source: Science News
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+“Everyone deserves a great love story,” declared 20th Century Fox when promoting the movie. And, a great love story is definitely what you get. But, Love, Simon is so much more than a cute high school romance. It is also a powerful story about identity, growth, and pushing back against societal expectations. Though unfortunate that it has taken so long, it seems appropriate then that Love, Simon broke the Hollywood mold by becoming the first romance with a gay protagonist to be produced by a major film studio.
+Whoopi Goldberg once said that “normal is nothing more than a cycle on a washing machine.” Normal therefore should not be an adjective for people. Society should not have standards for others’ identities. And, in the new romantic comedy Love, Simon, this issue of social normalcy is of utmost importance. Simon wants to know, “Why is straight the default?”
+Adapted from young adult novel Simon vs. the Homo Sapiens Agenda by Becky Albertalli, Love, Simon follows Simon Spier, a high schooler in Atlanta who has a secret: he’s gay. The only one who knows is his online pen pal, Blue, another closeted gay teen at his school. After exchanging many emails (under the pseudonym Jacques), Simon begins to fall in love with his mystery classmate. However, as he begins to get closer to Blue and tries to determine his identity, Simon’s life quickly grows more and more complicated.
+After Simon accidentally forgets to log out of his email, his classmate Martin discovers his secret and threatens to expose Simon to the whole school unless he helps him to get the attention of one of Simon’s best friends, Abby. Unfortunately for Simon, his efforts to help his blackmailer are futile and chaos ensues as Martin vengefully outs him online.
+Inspired in some ways by John Hughes’ films, director Greg Berlanti had large shoes to fill, but he does not disappoint. (And if you know me, you’ll know I am a huge John Hughes fan.) The film has its own unique story and charm, but it also shares characteristics of some of the most iconic teen flicks of the 1980s. Love, Simon deserves to be acknowledged in contemporary film canon.
+With a fantastic cast, including Nick Robinson, Katherine Langford, Jennifer Garner, and Josh Duhamel, the story truly came to life. Each cast member was perfect for their respective roles and the relationship Simon had with each of the characters truly felt human and authentic. In particular, Simon’s relationship with his parents was unique and raw. Unlike most fictional worlds following teen characters, Simon actually had a strong relationship with his family and continued to maintain that relationship throughout the film. Oftentimes family is removed or is a negative source of energy in teen characters’ lives, but this was refreshingly not the case in Love, Simon.
+As a book addict with high standards for movie adaptations, I was pleasantly surprised by how everything translated to screen. I was especially nervous how they would handle the email exchanges, but they presented it in an exciting way, juxtaposing Simon’s messages with vignettes of Blue’s life based on Simon’s imagination as he struggles to solve the mystery. Most adaptations have to cut beloved scenes and details when presented in film, but Love, Simon remained true to its roots and gave the fans what they wanted, Oreo obsession and all.
+Love, Simon is a must-see film. It made me cry, it made me laugh, and it definitely made me flail in excitement like the fangirl I am. It authentically captures the teen experience, from the highest highs to the lowest lows, and perfectly balances humor, fun, and an adorable romance with critical topics about identity and acceptance.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+When I first saw the trailer for Steven Spielberg’s Ready Player One, I honestly was a bit intimidated. There seemed to be so much going on in the movie, and I didn’t think I’d be able to handle all the chaos that had appeared on my small YouTube screen. However, one thing led to another and somehow, I ended up watching the film on a giant movie screen at The Waterfront.
+I’ll just be very upfront and say that I found the movie to be just okay. This certainly wasn’t the reaction I expected to have before watching the movie; at least I was able to handle all the virtual world chaos. The graphics were all great and the overall concept of the movie was interesting, but the story was simply alright. I just think there were too many cliches in the movie. I felt as though I had already seen or heard a story like this before. Of course, the setting of the virtual world of the Ontologically Anthropocentric Sensory Immersive Simulation (OASIS) was unique and that was surely one of the more fascinating aspects of the film for me. Also the theme of technology and its interference with our interactions and perceptions of reality was very relevant and intriguing. However, the story itself was somewhat predictable, and I found many of the intentionally humorous punchlines to be a little cringe-worthy. I thought of Ready Player One as an odd take on an action-adventure children’s movie, with curse words you could only find in R-rated films, scattered throughout.
+Aside from the cliched storyline, I thought the acting in the movie was pretty good. Tye Sheridan, who portrayed the main character Wade Watts, was a very brave and convincing hero in the film. I was also very impressed by Lena Waithe and Olivia Cook’s performances as Helen/Aech and Samantha Cook/Art3mis (respectively), who were very strong and badass female characters in the film. Something that I definitely appreciated about the film was the diversity of the entire main cast. The actors and actresses represented various ethnic and racial backgrounds, from African-American actress Lena Waithe to Japanese actor and singer Win Morisaki, who portrayed Toshiro/Daito in the film.
+It truly was nice seeing the cultural inclusion and timely social topics presented in the film. I felt that the movie could have been much better if it built more on its strengths, especially in regards to themes of reality and technology. The scenes that really focused in on the topic seemed a bit rushed, and I wish they could have done more with that. I also felt like other parts of the storyline were a bit underdeveloped in the film, especially the romance between Wade and Samantha. Hopefully, the things that I felt were not covered as thoroughly in the film were covered in Ernest Cline’s novel. I guess I’ll have to read the book to find out.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+In August 2016, after years of total silence, Frank Ocean finally reemerged with new music. It started with a mysterious livestream of a mostly empty warehouse, watermarked with an Apple Music logo in the bottom corner of the video. What followed was two and half weeks of mundane construction, as Frank himself cut wood and spray-painted boxes with little context and no explanation. At one point, he completely disappeared from the stream, until he suddenly returned to the shock of eager fans who had been watching a loop of an empty room for days on end. Upon his return, it became clear that Frank was building a staircase, and after a few more hours of assembly the video was accompanied by new music. Frank completed the staircase, walked to the top as the music swelled, and the stream cut out. Fans went into a frenzy, begging for a new album and were frustrated after watching what was essentially an extended black-and-white construction tutorial. Their pleas for new music came finally just a few minutes later, as Frank’s sophomore album Endless was released in the form of a 45-minute edited video of the construction that took place during the livestream. However, after only a few hours after releasing Endless, an Apple Music representative informed the music press that Frank would have something more to share in a few days. That something more was Blonde, Frank's seminal 2016 album that persists in its relevance in music culture almost two years later.
+But as Blonde rose to prominence, and Endless was never released in proper album format, the latter faded into obscurity aside from a handful of dedicated fans who made bootleg album files ripped directly from the video. Fans lauded over "*Endless* CDQ," an almost mythical original version of the album that wasn't washed out like the version played in the original video (CDQ stands for "compact disk quality"). 
+Then, a New York Times profile of Ocean revealed how his Def Jam contract had interfered with his work for years, and thus explained why the artist had been absent for so long. In that profile, Frank shared how he got out of his Def Jam contract: he was obligated to release one more album under his contract, but wanted to release his next true album independently. So, he made two albums: Endless, the visual album, which fulfilled his contract obligations to Def Jam but would never be a full traditional album release, and Blonde, which was released independently two days after he fulfilled his contract. The wait for new Frank Ocean music was, in large part, caused by an extended game of contractual chess that culminated in a double album release after four years of silence.
+Frank also revealed in the profile that he bought the rights to all his original masters for his music back from Def Jam after going independent, and thus held the rights to later release Endless on his own terms. Hardcore fans hoped that this meant a re-release was imminent, but in true Frank Ocean fashion, they heard nothing for over a year. And then, in November 2017, seemingly out of nowhere, Frank listed CD, DVD, VHS and vinyl copies of Endless - along with some new posters - on his website for sale. 
+Fans rushed to purchase copies, and found that product listings said that the physical releases would ship in 6 to 8 weeks. Of course, 8 weeks came and went, and no news was shared over the status of their orders, despite having already been charged. And then, after even more months of waiting, customers received physical copies of Endless for the first time last week. Ripped versions of the CD were uploaded online and the Endless CDQ was finally realized, a year and half after its original release. Debates over the official tracklist were finally resolved, and fans got to hear the album in its intended crisp, fully mastered format.
+The album itself is nothing short of magnificent. Some fans of Ocean's debut album, Channel Orange, were disappointed by Blonde's experimental sound. Endless is even more experimental and indulgent, bordering on ambient in nature. Tracks like "UNITY" and "Slide on Me," though, bring the distinctly "Frank catchy" originality that has brought him such acclaim. "Rushes" and "Higgs" are some of the more impressive vocal showcases in Frank's discography, while album-closer, "Mitsubishi Sony," features an extended instrumental outro that is as lavish as it is industrial. The album shines lyrically, too, as Frank's poetic lyrics are made stronger and more impactful by his otherworldly range and performance.
+The story of Endless is a microcosm of Frank's story itself. Its existence and release were mythicized for years, and its absence from streaming platforms would drive most fans to lose interest. But upon its long-awaited release, every agonizing second of waiting was proven to be worth it. Endless is fantastic, and should be a nice treat for listeners of Blonde who have never heard the perpetually absent album.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Ready to have a fun filled movie night? Take this quiz to figure out which movie you should watch tonight with friends, family or even cozy in your bed alone!
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Hey Izzy,
+It’s my last Carnival, and I feel like I’ve experienced everything: from the Carnival Concert to Booth to Pavilion to getting drunk and waking up in someone else’s house. I almost debated just skipping Carnival this year and going away for the weekend. But alas, my friends convinced me to stay, saying “it’s your last Carnival you gotta experience it one more time.” But, I’m not really sure what other new, exciting things I can do. I guess I’ll go to all the usual things, like the Carnival Concert and Booth and Pavilion and I’ll probably end up getting too drunk and waking up in someone else’s house, but I’ll still have a whole weekend of stuff left to do. Do you have any ideas?
+So Excited, NOT, Inneed Of Rest
+Dear SENIOR,
+In my opinion, your friends are right — it is your last Carnival and you should make the most of it. You’ll never see anything like Carnival at any other college, or really anywhere else for that matter — it’s not only a great break from the hustle and bustle of the intense stress of the last few weeks before school ends, but just a greatly timed surprise and a great way to spend time with friends or reconnect with people you haven’t seen.
+See what your friends are doing, if anything. While some of the events are the same, what is always different are the new memories you make with friends along the way (cheesy, I know. Sorry). Wander around a bit and talk to people! Since Carnival is a break within the school year, it’s a great chance to surround yourself with friends and good vibes, and just have fun because school can be the worst sometimes.
+And while some of the events are the same, that doesn’t mean what they offer every year is the same too. The Carnival Concert always has different artists, so maybe that difference in genre will pan out. Instead of the EDM music they usually have for almost every concert, this year Activities Board is bringing rapper Wale out to The Cut. Scotch’n’Soda will still be putting on a tale of questionable morality, but this time it is set in 1920s Chicago rather than a high school in the 1980s. And instead of having their outdoor comedy show or, whatever Activities Board (AB) did in previous years, AB is bringing Chris Gethard to Carnegie Mellon this Carnival! There’s a bunch of events listed in our Carnival calendar, so check it out.
+But, more importantly, Carnival is a time to relax. If you end up just doing that, that’s also fine. You can choose to not do work, but also knock out some big projects out of the way. In the end, it’s really your time and experience, and what matters is that you make the most of it. 
+Love,
+Izzy
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+This past Friday was my third time attending Carnegie Mellon’s K-Pop Dance Club’s (KPDC) showcase. I think it’s safe to say that after attending a few of these events, I’ve now become somewhat more of a K-Pop fan. Before this semester’s showcase, titled Dream High, I was most looking forward to being exposed to new K-pop songs (and adding those new songs to my K-pop Spotify playlist). I was also excited about seeing all the group outfits, dances, and just learning a bit more about the whole K-pop culture. This year’s showcase definitely delivered all those things, and in some ways, exceeded my expectations. 
+My friend and I arrived at Rangos Ballroom in the Cohon Center about ten minutes early, and even then we noticed that there weren’t that many people seated in the audience. It was surprising because at previous events, the whole room was packed with people. I guess this was a good thing for me and my friend at the time, since it made it really easy for us to find good seats. However, as it got to the last minute before showtime, all of a sudden so many people started coming into Rangos. It really was fascinating to see everyone so excited to support their friends performing, and to also dance along to their favorite K-pop songs. 
+What was noticeably different about this semester’s showcase was that they were selling glow sticks for the audience members to wave around during the performances. The colors of the glowsticks represented the different dance performances, and I found that to be a clever way of showing support for the various dance groups. Having some of the audience wave around their glow sticks throughout the night surely added to the fun and upbeat atmosphere of the event. 
+This year, I was especially impressed by all the dancers and performances. Having several friends who are members of KPDC, I was told that people from all levels of dance experience join and work equally hard to put on a successful showcase at the end of each semester. For me, it was pretty hard to distinguish the more experienced dancers from the less experienced ones. One of my favorite performances was the opening performance with Blackpink’s “BOOMBAYAH,” which had a lot of upbeat vibes and hairflips. Other favorites of mine were the smooth dance with GOT17’s “Teenager” and the bubbly dance for iKON’s “LOVE SCENARIO.” The final performances of TAEMIN’s “MOVE” and  BTS’s “Go Go” were two great dances to end the show. They also happened to be the dances that KPDC will perform at this semester’s Dancers' Symposium. I won’t say too much about those dances (you’ll just have to see for yourself at Dancers' Symposium), but what I loved most about them was how different the choreography was for both songs, yet they still fit perfectly together. 
+Something I realized after my third time attending the KPDC showcase, that I had never realized before, was how easily K-pop can bring people together. KPDC has so many members on campus and off, and it amazes me how their love for the music genre, the dances, and the overall culture is what drives them to work together to create a successful showcase like Dream High. So many people participated and attended the showcase to support their friends and be in a comfortable space where they could express themselves and share their love for K-Pop. There was one part of the showcase where Carnegie Mellon’s a cappella group Joyful Noise performed a musical tribute to Jonghyun, a member of the popular K-pop band SHINee who died by suicide last December. Before their performance, KPDC’s president, Alina Yu, spoke to the audience to raise awareness about mental health. Such a topic of discussion is very relevant today, as it affects individuals all over the world in various ways. She reminded everyone to support and be there for one another, and it was clear that everyone in the audience took her words to heart. I didn’t think I’d learn so much from my experience at this year’s KPDC showcase. I will definitely be attending their future events, and I encourage you to do same. You never know, you might learn something new and surprise yourself.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Thursday 4/19
+Buggy Showcase
+Wiegand Gym, CUC
+12 - 2 p.m.
+Come see student organizations show off their buggies this year at the showcase and watch them race each other throughout the entire weekend. It’s a Carnegie Mellon tradition we’ve been waiting all year for, you won’t want to miss this! 
+C# Carnival Concert: *The Fantastic World of Film*
+Doherty Hall Room 2315
+5 - 6:30 p.m. 
+Come see Carnegie Mellon’s a cappella group C# perform and host their third annual Carnival Vocal Music Showcase: The Fantastic World of Film! Watch and listen to various singers on campus sing iconic songs from some of your favorite fantasy movies. 
+Activities Board Presents: Chris Gethard
+Midway Stage (Rain location: McConomy Auditorium, Cohon Center)
+7 - 9:30 p.m.
+Are you into comedy shows? Then you’ll definitely want to check out Activities Board’s Spring Carnival Comedy show. This year, they’ll be hosting actor and comedian Chris Gethard, who has been featured on Conan and has his own show! 
+Saturday 4/21 
+AB Presents: Spring Carnival Concert 2018 feat. Wale & Shlohmo
+The Cut (Rain location: Wiegand Gym, Cohon Center)
+7 - 10 p.m.
+Dance it out and have a good time with your friends at this year’s Activities Board Spring Carnival Concert, with rapper Wale and electronic musician Shlomo. You won’t want to miss this!
+Holi
+The Mall
+12 - 3 p.m.
+An annual event filled with excitement, fun, and lots of colors, Holi is something you won’t want to miss! Buy your tickets and t-shirt for Holi before they run out!
+All Weekend
+Scotch'n'Soda Presents: *Chicago*
+Rangos Ballroom, Cohon Center
+Thursday at 7 p.m, Friday at 7 p.m. and 11 p.m., Saturday at 2 p.m. and 7 p.m.
+Get your tickets to see Scotch'n'Soda’s annual Carnival Show! This year, they’re putting on a production of Chicago, a story set in the 1920s about Roxie Hart and Velma Kelly, two women who have murdered their lovers and must beg for innocence against the raunchy, vaudeville of Chicago. Filled with amazing dances and show-stopping performances, Chicago is sure to be “all that jazz!”     
+Classified
+Large house in Squirrel Hill for rent
+Includes: equipped kitchen, formal dining room, free laundry, two porches, and hardwood furniture.
+Accessible on CMU bus-line. Needs two Carnegie Mellon graduate students for co-occupancy.
+Cost: $600 plus utilities, security deposit, and last month rent.
+Contact: delucaj2@aol.com or call 4122184728 on weekends and after 5 p.m. on weekdays
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+When you search for the meaning of the word “adaptation,” you find several different meanings on Google. There’s the obvious, which defines the word as “the action or process of adapting or being adapted.” For the purposes of Steven Spielberg’s latest blockbuster Ready Player One, an “adaptation” is defined as “a movie, television drama, or stage play that has been adapted from a written work, typically a novel.”
+As a blockbuster movie, I was a bit surprised by how much fun I had. As an adaptation, Ready Player One is incredibly poor and disappointing.
+Ernest Cline’s 2011 hit novel Ready Player One*was a book I knew I’d always love, even when I first read it last March. I loved its expansive world and Cline’s natural construction of character progression, rewarding readers with a big emotional payoff during its final act. I loved its many, many eighties references, and it only made me want to explore more into the decade. I loved how the novel instantly pulled you in to the Ontologically Anthropocentric Sensory Immersive Simulation (OASIS) and the world of protagonist Wade Watts. I found it surprisingly easy to get through 200 pages in a sitting. And, I loved how even though the book pulled you in to the OASIS, the novel was still very much tied to reality, balancing time between the virtual reality world and Wade’s dystopian Columbus, OH. There were a few problems, and a few of *Ready Player One’s main storylines don’t stand strongly against the test of time, but it’s still a solid novel.
+And, in a broader sense, I did enjoy the movie and I had a lot of fun. You can easily get sucked into Spielberg’s mindless (but a little bit lazy) adaptation. It has an almost video-game like feel in how the characters, storyline, and visuals drag you in. The big landmark scenes of the movie, like the final fight and the (albeit unnecessary) various car chases, are entertaining and fill you with a surprising amount of heart and energy. If you had read the book, it’s still interesting to see how Spielberg handled the admittedly hard task of adapting Cline’s beloved novel to the big screen.
+But there are some moments where I feel like the screenwriters assumed the audience of this film would have read the book before going to see the movie, as if they knew Cline’s novel was a massive hit and assumed it was like Harry Potter, where everyone and their mother would have read it. In fact, I feel like I would have struggled with this movie had I not read the book first, which feels a bit disheartening and making the movie — as an adaptation — even more disappointing. There are some references in the movie from the novel that weren’t explained very well, such as the “High Five,” which refers to the five main protagonists’ avatars — Parzival, Art3mis, Aech, Daito, and Sho, the top five ranked players in a contest for control of the entirety of the OASIS, established by OASIS creator himself James Halliday after his death.
+Additionally, there doesn’t feel like there’s a lot of payoff or stakes in this movie. Instead of showing protagonist Wade Watts’ rags-to-riches rise from the very start of the contest, like in the novel, the movie glosses over this detail and starts the story from close to the end of the discovery of the first gate. Watts is supposed to be this expert on all things Halliday and 80s pop culture, but you don’t really get a strong sense of that throughout the entire movie. While the novel still integrated much of reality and real-world stakes despite focusing a lot on the OASIS, most of the movie takes place inside the VR game and its translation of real-world stakes is infantilized to small issues like losing all your OASIS avatar’s stuff and money. It’s almost a little bit demeaning. In fact, this movie feels like it trades that payoff for a larger heavy-handed focus on overall social issues, which were underlined discreetly throughout the novel and executed a bit haphazardly in Ready Player One. In the movie, it feels like the entire contest is shaped around it, taking away a bit of the fun from the adaptation.
+However, the movie’s worst crime is that the adaptation took out a lot of the things that made the novel great. Details from the novel are switched around to benefit the story, and just simply don’t make sense when comparing it to the base product. The movie couldn’t find a unique balance between being fun and trying to tell a larger story, with more weight on being an entertaining movie than having a cohesive plot. This movie, as a matter of fact, wasn’t very unique at all. I don’t blame this entirely on Spielberg, but rather the movie’s writers Zak Penn and, yes, Ernest Cline, for taking something unique — Cline’s own unique creation — and making it a typical flashy sci-fi hit trying to kick off the summer movie season early in the middle of March before Avengers: Infinity War does the same thing a month later.
+There’s one definition of “adaptation” that stuck with me when I was writing this review. In biological terms, Google defines “adaptation” as “a change or the process of change by which an organism or species becomes better suited to its environment.” I knew that Steven Spielberg’s Ready Player One would be an inferior adaptation of the novel and that adapting the movie would be a difficult task, but I didn’t expect to be so torn and, ultimately, disappointed.
+According to the Los Angeles Times, most of the movie’s changes were to eliminate scenes that would be uninteresting on the screen, such as when Wade accomplishes a perfect score in Pac-Man, or when Wade recites all the lines from the film WarGames. This detail sums up the movie pretty well. Rather than telling a unique story about one nerd’s rise and fall and second rise to glory, the adaptation of Ready Player One focused more on making the story fit in general to the screen rather than telling the story in general. It focuses more on making the film exciting rather than engaging. Rather than conveying how we should spend more time with human company rather than on a screen, Ready Player One is a perfect example of how Hollywood treats mainstream adaptations: as a tertiary priority over overt visual decadence and audience simplicity, resulting in just another action movie.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+You may have noticed that your trusty Bar Buddy, Jade Crockem, didn't write this week! But, don't be fooled, she didn't stop going to bars. This week, Jade and I took a group of friends to a trusted favorite — Hofbräuhaus Pittsburgh. Hofbräuhaus is a German brewery and restaurant, and, on one glorious night (Thursday) from 9 p.m. to 11 p.m., it's College Night. 
+The location: Located in Southside Works, Hofbräuhaus is a great location for a group that wants the fun and excitement of spending a night out at the bar, without the hectic environment that ensues among the hustle and bustle of East Carson. It's also a nice change from Shadyside, Squirrel Hill, and Oakland, so you get to see some new faces for a change. You can catch a 61 or 54 bus, but it'll take you about 30 minutes. But I can confirm that an Uber was less than $10, which is a nice price to pay for a change of scenery. 
+The drinks: Though you can order any classic cocktail at the bar, Hofbräuhaus is, after all, a German brewery. They specialize in beer — really good beer — and I'd have to recommend it. As an added bonus on College Nights, a one-liter stein will only cost you $6, and the in-house beers are a nice switch from your Buds and Millers. And for those of you who may not want to commit to a liter of beer you'd never tried (can't relate), half-liter steins are only $3!
+The vibe: The vibe is really unlike any other bar in Pittsburgh. You get the unique and personal feel of a brewery; your group can grab a table for the night and comfortably hang out with your friends while your server brings you drinks, as opposed to your run-of-the-mill bar where everyone crowds the bartender flailing their $20s, and you unfortunately get stuck behind that one really tall guy who orders 10 drinks at a time (you know who you are). The music is also great. They play a successful mix of popular dance favorites and group classics that everyone knows all the words to, with a few German drinking songs mixed in. Admittedly, the place gets packed around 10 p.m., but you never feel cramped like you would at a club. Let's get to the real reason why college students flock to Hofbräuhaus on a Thursday night: they encourage you to stand on the tables! Steins in hand, everyone climbs up onto their seats, singing and dancing with their friends. Just try not to be that guy and be the one who trips off the table.
+Lit or nah: Hofbräuhaus gets a 100 percent on the Lit test. The music is great, the beer is great (and cheap!), and the location is a nice a change. On top of that, you truly get an experience that you don't have anywhere else in Pittsburgh. That being said, if you're just going out for a few yummy cocktails with your friends and aren't anticipating anything too crazy, this might be a pass. Like I said before, you're encouraged to climb onto your table and get a little rowdy, and that's not always for everyone. But, if you're looking for a unique place with the advantages of small brewery coupled with all of the added excitement of a bar or club, Hofbräuhaus Pittsburgh's College Night is the place for you.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+On April 9 and 10, the inaugural K&L Gates Conference on Ethics and Artificial Intelligence (AI) sought to bring to light some of the prevailing issues that surround artificial intelligence, including “effects on the workforce, social justice, fairness, privacy and many other sectors of society,” as the conference website states.
+In 2016, a $10 million donation from Pittsburgh-headquartered international law firm K&L Gates funded the establishment of the K&L Gates Endowment for Ethics and Computational Technologies at Carnegie Mellon University.
+The conference utilized this endowment to bring together some of the most important thought leaders, academics, industry heads, and others to discuss the boundless implications that come out of technological advances.
+David   Danks, philosophy department head and co-chair of the Steering Committee for the K&L Gates Endowment for Ethics & Computational Technologies explained in a university press release that “computational technologies, particularly AI and robotics, are often developed and deployed without enough public engagement or discussion about their impacts.” Because of this, the conference attempts to discuss issues that have a public stake, with the collective good in mind.
+His efforts, along with those of Professor Illah Nourbakhsh of the Robotics Institute at Carnegie Mellon University, co-chair of the Steering Committee, and others on the committee, had the job to “identify key topics, develop a list of speakers, assemble the panels, and generally produce the content side of the conference,” Danks told The Tartan.
+On this content side of the conference, speakers included 12 university-affiliated academics, members of the press Natasha Singer, a Technology Reporter at The New York Times and Tom Simonite, a Senior Writer for WIRED, as well as other influential players like Kerstin Vignard, the Deputy Director at the U.N. Institute for Disarmament Research, and Rasu Shrestha, the Chief Innovation Officer and Executive Vice President of UPMC, among many others.
+The keynote speaker Eric Horvitz, the Technical Fellow & Director at Microsoft Research Labs, spoke of the potential dangers of AI to serve as a form of “tyranny” if given to a government or corporation that doesn’t have the best interest of its populace, and on the issue of an “adversarial attack on attention” given by AI applications online and in social media.
+He also presented potential guidelines: that moving forward, we need to “collaborate widely” to create and utilize technology, and continue to “address costs, influences...and ethical and human rights challenges” of AI technologies to better understand intelligence and to ensure that technology isn’t used as a form of active oppression.
+The last section of the panel discussion looked at the issue of "Agency and Empowerment" and how such concepts will be affected in an AI-rich world. Questions of how to use AI technologies effectively were raised, as Chad Jenkins, associate professor of computer science and engineering at the University of Michigan, noted that it is a “vicious or virtuous cycle,” depending on who you ask, that turns students of AI into people who work for capital gains.
+Other panelists discussed how to use AI for things that benefit society, how to make sure disenfranchisement isn’t furthered by technological growth, and other big questions: as Wendell Wallach, Senior Advisor at Yale University’s Hastings Center, put it, “what kind of world are we trying to create here.”
+Other events of the conference included panels on the topics of "Equity of Access & Equity of Impact," "Trust," and "Policy and Governance," as well as a Professorship Spotlight Talk and sections to allow the inaugural K&L Gates Presidential Fellows, four Carnegie Mellon University doctoral students, to present their research.
+The conference concluded with a speech by Jeffrey Sachs, economist, director of the Earth Institute at Columbia University, and special advisor to the U.N., who spoke not on the technological aspects of AI technology, but the societal impact and economic side of things. He presented the claim that “work is not replaced when automation [occurs]” but continues, “what smart machines allow us to do is take a little time off.”
+He added to this argument for increased leisure time critiques of America’s lack of wealth redistribution and presented policy recommendations including the aforementioned, as well as worker retraining, shared labor, promotion of human-machine complementarities, and intellectual property governance.
+Conferences like this one serve three main roles, David Danks told The Tartan, that “they can serve to break down accidental barriers between different communities,” allowing interdisciplinary stakeholders to share ideas and connect, they can “help raise public awareness and engagement on issues around ethics & AI,” and can “promote CMU’s leadership in the area of ethics and AI/robotics.”
+Despite having “over 40 faculty [members] at Carnegie Mellon University working in this broad area,” Danks explains, Carnegie Mellon University has “never before held a major multidisciplinary event such as this one.” The conference is the first of hopefully many future events that serve an important role in keeping this massively important issue discussed and out of the shadows.
+If you were not able to attend the conference and have interest in the contents, the conference website is archival, containing all of the presentations from the conference, including the panel discussions, the keynote speech, and more. It is located at https://www.cmu.edu/ethics-ai/agenda/webcast.html.
+The 2020 conference does not have a published, confirmed date, but  is the next scheduled year for the K&L Gates conference according to the closing remarks of the 2018 conference. The conferences focus on subject matter that is sure to become only more impactful in our lives, so the goals of the conference and its importance will remain fitting in coming years.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+This past week, people across the world held events for Holocaust remembrance week. On campus, the Hillel Jewish University Center of Pittsburgh organized a series of events and installed an adaption of the famous poem, “First they Came,” on The Cut, where they held a vigil on Thursday. One of these events was a Genocide awareness panel featuring professors Jay Aronson, Michal Friedman, and Ricky Law.
+A genocide is ideologies of sovereignty implemented to the most violent extremes. It is the worst in humanity. It is a lack of respect for humanity. Most members of society can assert that it is important to study past genocides in order to prevent them from happening again, and it was with this attitude that these three professors held this panel.
+No genocide has been studied more commonly in American society than the Holocaust, but there have been plenty of lesser-known catastrophic genocides in the past century; the Armenian genocide, the Rwandan genocide, Bosnia’s racial cleansing, and Cambodia’s killing fields. American slavery, though sometimes not categorized as a genocide, systematically dehumanized people on the basis of their race, resulting in the death of an estimated two to five million people.
+All genocides stem from a sovereign group’s attempt to dehumanize a target group and show that they are lesser, but Professor Aronson poses that defining genocide may not be the most productive effort. “I don't know how productive generalizing genocides is for the future. I don't know how useful coming up with a caricature of genocide is helpful to preventing them.” He argues there are factors in every conflict that don't carry over.
+When studying the past, Professor Friedman asserts that it is important to learn about the victim’s culture beyond their destruction. One example he gave was that the Rwandan genocide was the result of a post-colonial conflict, not a major war breaking out.
+Professor Friedman asked students to focus on the lives of victims beyond the genocide to remember the victims and what their cultures valued, reminding, “Their individual lives were powerful.” Aronson added that the victims lived through our memories of them and that the day we forget is the second time the victims die. He says that his son often quotes a line by Macklemore in an assertion of this idea, “heard you die twice, once when they bury you in the grave. And the second time is the last time that somebody mentions your name.”
+It was apparent that each professor did not simply consider genocide a historical concept. There are always cultures and people in conflict with one another, and national powers are constantly attempting to rewrite and manipulate history. 
+You may be wondering, all these points are grand, but how can I — one single person — do anything to help prevent genocides?
+“Don't be complacent,” answers professor Law. As a society, he asserts, people need to be wary that anything from the past can come back. “I am very alarmed that the themes I developed in understanding the 1920s and 1930s are so present in 2018. It keeps me up at night.”
+Professor Aronson extended this point to our reception of the news. He warned never to assume that resolution in the news means a legitimate resolution of the conflict. “Be vigilant about not accepting the first story you hear.” It is important, Aaronson pushed, for everyone to pick topics that are important to them and become citizen experts. “Be vigilant about trusting one source, especially when it validates your views.” Friedman noted the conflict between the Spanish and the Catalans as one to keep watching and added that, if you are bilingual, reading the news of other counties' local papers in their local dialect is an important source to utilize.
+Though the discussion was empowering, it focused primarily on staying informed about the horrors of the world, which can take a toll on students. Aaronson took a moment to acknowledge the need for self-care in the pursuit of being informed. “One more piece of advice, keep your sanity. There is a sense of trauma that you receive from following the news today and seeing images. I would recommend taking breaks. The world won't stop spinning because you stop following the news for a day.”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+The internship scramble puts college students everywhere in the weird position of having to prove their worth to various companies over, and over, and over again. It's time-consuming, demoralizing, and can feel so consequential for students who need to earn money while still advancing their career.
+Max Mirho, a junior studying business administration with a focus on entrepreneurship, worked with Pittsburgh start-ups that he knew were eager to hire Carnegie Mellon students. This sentiment did not align with the number of struggles his friends had every year, looking to work at a start-up. Thinking that there was something he could do to fix this information imbalance, he leveraged his contacts to start a biweekly newsletter for people looking to work at Pittsburgh start-ups, found at https://www.yespgh.com.
+This journey started with an early success. “One of my friends, his name is Connor, was looking for specifically an internship at a start-up, hardware or software, he was interested in tech," said Mirho. "So I connected him with one of my friends that I knew at an accelerator locally and he connected with a start-up, and he managed to get an internship and he actually had a lot of fun with it!" This led him to understand that being able to facilitate contact between students and businesses interested in hiring students might be a way in which he could ease the process, which is often stressful on all sides. He thought: "Hey, I’m contributing a little bit of value here, maybe I can actually do this on a larger scale, because it’s not too hard to reach out to companies and it’s probably not too hard to reach out to students, and so I created a little newsletter.”
+Mirho has seen more success in the reaching out to companies front than he has in getting students involved in his newsletter. Mirho is trying to establish a network of students at Carnegie Mellon and the University of Pittsburgh, but he has seen some challenges establishing his base.
+Mirho found that talking to companies that he made contact with through accelerators or co-working spaces in Pittsburgh garners a more favorable response than students individually trying to contact companies. Though there is a need on the part of companies for student interns, if they don’t reach out, it’s hard to figure out which which companies have that need. Says Mirho, “Sometimes you try to create that need on your own, you don’t know if a company needs something so you try to convince them you need me, I’m a good intern, I can help you a lot. It’s kind of a battle on both sides and for some reason reaching out on behalf of the general student population and saying ‘Hey, if you have any internships open, I can post them here’ is a lot less irritating or intimidating to companies."
+When asked about whether he is looking to expand into informing students about opportunities at more established companies, Mirho insisted that "the start-up focus is definitely key" due to the difficulty students generally have getting in touch with smaller businesses, because they don't have the infrastructure to reach out to students. Mirho advocates for the experience of working at a start-up, finding that the small team means you have contact with key decision makers "you have a much larger and versatile experience, it’s not like a larger company where you are jammed into one specific role."
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Carnegie Mellon University held its fifth annual Three Minute Thesis (3MT) Championship last Tuesday, April 10, at Kresge Theater. The competition challenges PhD students to orally present their thesis in three minutes in a way that is clear and interesting to a non-expert audience. Prizes of $3,000, $2,000, and $1,000 are awarded to the first, second, and third place winners, decided by a panel of judges, as well as prizes of $500 that go to the People's Choice Award, selected by the live audience, and the Alumni Award.
+The 3MT began at the University of Queensland in Australia in 2008 and has expanded all over the world in many universities. The competition is open to all doctoral students in any field at Carnegie Mellon. The 2018 3MT group was as diverse as the school, with the eight finalists representing biology, architecture, language, engineering, and English.
+Will Penman of the department of English won first place and was voted the People's Choice Award. In second place was civil and environmental engineering student Navid Kazem, followed by Ardon Shorr of the Department of Biological Science in third place.
+This year was Penman's second time participating in the 3MT, after competing last year.
+"Last year I enjoyed competing, but I was pretty nervous in the final round," Penman said in an interview with The Tartan. "I wanted to come back this year with a more comfortable presentation and a more engaging talk. So, I decided to have fun with it this year and treat it more like a performance."
+Penman's thesis is about the relationship between rhetoric and race, using the call-and-response method as a concrete communication structure for enacting inclusive beliefs about race.
+"I decided to structure my talk so that the audience wasn't just learning about call-and-response, but actually trying it out," Penman said. "That way people could experience it for themselves."
+Many of the theses were interdisciplinary in nature, drawing elements from several different fields. Second-place winner Kazem's thesis integrates his civil and environmental engineering field with mechanical engineering and physics to develop an insulative and conductive rubber, dubbed "thubber." Shorr's thesis discussed how scientists can use astronomy tools and techniques to learn about proteins — looking at proteins the same way we look at stars.
+For Penman, the 3MT was an opportunity to hone his presentation skills and practice how to summarize and present his thesis. He also got the chance to learn about the eclectic research subjects of his fellow competitors.
+"I was really impressed by the amazing work that Carnegie Mellon students do, and would encourage others to attend the finals next year," said Penman. "Each of the contestants has put in so much time to create a compelling presentation, and you really get a window into the work that people are doing."
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+The harsh realities associated with police work such as murder, rape, and corruption were all realistically captured in Steven Bochco’s various television dramas. Bochco’s repertoire of television programs includes NYPD Blue, L.A. Law, and most notably, Hill Street Blues which paved the way for a new and unexplored genre of television in the later twentieth century. He also fueled the successful career of now culturally iconic star Neil Patrick Harris who appeared in Bochco’s medical comedy-drama television series Doogie Howser, M.D.
+After a hard-fought battle with leukemia, Bochco, the 1966 graduate of Carnegie Mellon University’s School of Drama, recently passed away on Sunday, April 1, at the age of 74. He was aided in his fight against a rare form of leukemia called blastic plasmacytoid dendritic cell neoplasm by a man named Jon Kayne who donated his stem cells in a transplant that extended the legendary screenwriter and producer's life for a few years.
+The realistic account of the life police officers leads in Bochco’s revolutionary program Hill Street Blues starkly diverged from the conventional formula of television entertainment at the time. He attributed his inspiration for the setting of Hill Street Blues to his impression of the poverty-ridden slums of Pittsburgh’s Hill District further entrenching his work in something reflective of real life.
+He created NYPD Blue with the intent of challenging the notion that network one-hour dramas did not belong on the more adult-fare broadcasting typical of cable networks. He pushed for the inclusion of quality prime-time drama in cable television, commenting “the atmosphere is far friendlier and the creative environment more conducive to doing original work”.
+“His writing focused on dramatic realism, something that the industry hadn’t seen on the small screen at the time Hill Street Blues premiered in 1981,” says Dean of Carnegie Mellon’s College of Fine Arts Dan J. Martin, in a university press release. “He truly led the way for a new genre of innovative television.”
+One of the first screenwriters to use an ensemble cast and hand-held cameras in Hill Street Blues, Bochco altered the structure and form of television drama. He further innovated television through his writing in which he implemented multi-episode storylines and a mixture of drama and comedy to bring levity to serious topics. His inventive thinking would influence the next generation of television dramas and numerous accolades including 10 Primetime Emmy Awards.
+Throughout his career, Bochco consistently contributed to the livelihood and development of Carnegie Mellon University and its students. His numerous donations and work with students helped Carnegie Mellon’s drama department become what it is today. In 1986, Carnegie Mellon University awarded him an Alumni Achievement/Merit Award for his five decades of groundbreaking work.
+Bochco touched the lives of many individuals including Hill Street Blues cast member and close personal friend Charlie Haid. Also an alumnus of Carnegie Mellon University, Haid served as the associate producer of the original stage production of Godspell in 1971 at Carnegie Mellon.
+“Steven had a profound influence on my life, both personal and professional,” Haid recounts in a press release. “We created magic and madness together, laughed and cried, fought and forgave, for more than 50 years. I’m but one of an amazing family that grew up together with Steven and mourn the loss of our pal.”
+Steven Bochco’s legacy as an envelope-pushing producer will live on as television and screenwriting inevitably mutate into something newer and exciting. His ideas and forward-thinking mindset have impacted creatives and will do so for generations to come.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+36 percent of college students across the United States were food insecure in the last 30 days, according to “Still Hungry and Homeless in College”, a report published this month by Sara Goldrick-Rab and the Wisconsin Harvesting Opportunities for Postsecondary Education (HOPE) Lab.
+Food insecurity describes the inability to acquire or lack of access to safe, nutritious foods. Not only is it linked to, in the most extreme cases, physiological hunger, but also is associated academic performance, poorer health, depression, and higher stress. Often, food insecurity stems from the inability to afford safe, healthy foods, or the lack of geographic access to those foods, or both. Lower rates of eligibility for public assistance for college students and stigma attached to socioeconomic status also present additional barriers to food security.
+As a response to this growing issue and to find ways to better support students on campus who may be struggling with basic needs issues such as food insecurity, the Graduate Student Assembly has created the Basic Needs Working Group. Since its initiation, the working group has been focusing its efforts on researching the feasibility and implementation of an on-campus food pantry to address the geographical and financial barriers to food security for the Carnegie Mellon community.
+Basic Needs has also been meeting with the Campus Food Insecurity Committee, composed of relevant and interested members of administration from across the university, to discuss implementation and other ways Carnegie Mellon can support members of the community who are experiencing food insecurity. Specifically, Basic Needs is looking to get support to meet the funding, space, and staffing needs of its proposal. Currently, it is looking to partner with the community food banks, 412 Food Rescue, Student Leadership, Involvement, and Civic Engagement (SLICE), Health, Wellness, and Dining Services to make the food pantry a reality.
+The current proposed model is similar to the food pantry operated by the University of Pittsburgh. The Pitt Pantry is a student volunteer-run, shop-through food pantry open to all of the Pitt community, including students, staff, and faculty. As part of our research, Basic Needs and the members of the Campus Food Insecurity Committee are in the process of touring the Pitt Pantry and gaining a deeper understanding of its operations, and how those operations would translate to a similar pantry on Carnegie Mellon’s campus.
+Basic Needs hopes to begin marketing and holding events before the end of the semester. It is currently planning to host an end-of-the-year food drive and Entropy drive to collect initial stock to be used once the pantry is open to the community. It is working towards having a first iteration of the pantry open by next semester.
+If you are interested in tackling basic needs issues on campus, considering joining the Basic Needs Working Group! For more information or to express interest, please email Sarah Pesi at spesi@andrew.cmu.edu.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Hit and Run
+April 7, 2018
+University Police responded to Craig Street after being alerted that a vehicle struck five vehicles parked on South Craig Street. An investigation determined the identity of the driver who was determined to be a non-affiliate and was issued several citations.
+Open Lewdness
+April 11, 2018
+A Carnegie Mellon student reported that she observed a male masturbating while sitting inside his vehicle on Forbes Avenue. An investigation is ongoing.
+Suspicious Man
+April 11, 2018
+University Police received a report that there was a suspicious man in Hamburg Hall. Upon investigating, it was determined that the man was a Carnegie Mellon student.
+Theft of Money
+April 11, 2018
+A Carnegie Mellon student alerted University Police that $40 was unlawfully taken from his wallet. An investigation is ongoing.
+Vehicle vs. Pedestrian
+April 13, 2018
+University Police reported to Fifth Avenue after being alerted that a vehicle had struck a pedestrian. A student was provided with medical attention on scene and transported to the hospital.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+What comes to mind when you think of eating disorders? Whatever type you may think of, the stereotype of a frail, white girl is the picture for most of us. But, what about an overweight male? An Asian with a healthy Body Mass Index (BMI) but has self-destructive eating habits? A queer black person whose obsession with exercise and clean eating intrudes daily life? Those images probably don't come as intuitively, but the statistics say you may need to reconsider your prototype.
+At the National Eating Disorder Association (NEDA) Walk on April 7, at Schenley Park, the lack of inclusiveness in the dialogue for eating disorders was explicitly brought up. One of the speakers at the event shared her journey of suffering and recovering from an eating disorder. She concluded her speech by questioning how her journey towards recovering may have differed if she did not fall into the traditional prototype of a person with an eating disorder. She probed whether she would have been treated the same way if she were in the LGBTQ+ community, male, a racial minority, or not emaciated. Her speech called for a demand for intersectional dialogue on eating disorders: one that sees no barriers from qualities such as race, gender, or sexuality.
+I observed the attendees of the walk. Most were female, and the few males who were in the crowd were walking beside a woman and carrying a poster saying they walked for their fiancee or girlfriend. Perhaps the lack of male attendance lies in men showing solidarity and support through different means than women do. However, I could not help but wonder how many sufferers are out there and cast aside because they do not fit into the prototype and fear they may be treated or perceived as anyone but someone who suffers from a critical medical condition.
+The reach of the lack of inclusiveness does not stop at a single walk. At various health centers on and near campus such as the University of Pittsburgh Medical Center (UPMC) and University Health Services (UHS), I have seen flyers about a group therapy program geared towards women who suffer from eating disorders. I understand that gender can play a role in health and recovery. Women may feel more comfortable opening up and may get more out of therapy if there is a treatment group with women who can better understand the psychological and physical toll that eating disorders take. However, never once have I seen either healthcare centers show any support for men with eating disorders. Getting help is hard enough; men should not have to face the additional obstacle of not having resources available.
+One may argue that there isn't one for men because more women are impacted by eating disorders. However, as of 2016, over one-third of people with a diagnosable eating disorder are male. As many mental illnesses go undiagnosed, it would come as no surprise if the number of men who are not diagnosed with eating disorders but need treatment was significant enough to skew these numbers. Psychiatrist Kimberli McCallum estimates that up to 80 percent of men with eating disorders go around undiagnosed. Before thinking of eating disorders, many doctors might say the culprit of the health problems is gastrointestinal problems or thyroid problems. The apparent lack of participation or demand for such a support group may lie heavily on diagnoses going unknown and not having treatments inaccessible for many men.
+Furthermore, we must acknowledge that unrealistic beauty standards are not exclusive to women. We are all familiar and conscious of the standards imposed on women: picture a skinny hourglass body and thigh gap grazing the cover of Sports Illustrated or on the runway. Most of us are aware of the extent Photoshop is used to enhance photos of women. The rise in awareness has led to companies such as Target and Aerie to have photoshop-free models, advertising them as "real" women. Although we should maintain transparency when it comes to Photoshop usage in magazines and social media, where is the awareness of male beauty standards and photoshopped male models?
+Think of the "ideal" male body: lean and muscular usually pops into mind. However, how many ad campaigns have you seen going against that grain? In order to achieve that ideal male body, men often have to sacrifice their mental and physical health. Bodybuilders boast their low body fat percentage, which can go even lower than five percent. To put that number in perspective, the average male body fat percentage lies around fifteen to twenty percent, three percent being absolutely vital. Although most of them do not keep that ratio when they are not in the limelight, they are being presented as people with sustainable and attainable bodies. Consequently, men can be put under the notion that they, too, should reach these ideals. Men's struggle to reach these unsustainable bodies mirror those that women face when reaching their respective "ideal" bodies: coldness, low energy, negative change in mood, and poorer physical health, to name a few.
+Eating disorders are the deadliest mental illnesses. To combat this, we must not look at one demographic who suffers; we must reach out to all who suffer. In order to do so, we must remain cognizant of factors that impact not just women but men. We must keep dialogue and resources open and accessible to anyone regardless of their identity. Fighting an eating disorder is hard enough by itself; we should not implement barriers that make it even more difficult for others to recover.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+The Simpsons is far and away one of the most influential, well-recognized animated television shows. The show has run for 29 seasons and counting and has racked up 31 Primetime Emmy Awards as well as numerous other accolades, often earning a top spot on “greatest TV shows” lists.
+But The Simpsons has been more than just wildly successful for the past few decades; since 1990, the show has been reinforcing a damaging stereotype of South Asians through the character of Apu Nahasapeemapetilon, the Indian owner of the “Kwik-E-Mart” convenience store. For a long time, Apu was not widely considered an issue. However, last fall, a truTV documentary called The Problem with Apu, written by Hari Kondabolu, brought the controversy to light, exposing how the problematic character of Apu helped proliferate harmful stereotypes. In the documentary, Kondabolu spoke with several other South Asian-American entertainers — including Aziz Ansari, Kal Penn, Aasif Mandvi, and Hasan Minhaj, and detailed his own experience living in the shadow of Apu. They traded stories of how the stereotype his character popularized has dominated their lives, from being constantly called “Apu” to hearing the character’s famous catchphrases shouted at them by strangers to being asked to deliver their lines “like Apu” while performing. 
+The documentary also highlighted the disturbing (but not entirely unsurprising) fact that Apu is voiced by a white man, Hank Azaria. Azaria, who also voices several other characters on the show, avoided answering questions for Kondabolu’s documentary, but has addressed the issue in the past. In a 2013 Huffington Post interview, he stated that “[he really does] love the character and [does] try to do right by him accent-wise and character-wise” but that he did “understand why people could have been offended or upset, and [he’s] sorry for that.”
+On Sunday, the creators of The Simpsons finally addressed the controversy in a new episode. However,  instead of acknowledging their mistake, the show’s dismissive response deflected the blame to an over-eager politically correct culture. In the scene, Marge, the mother of the Simpson family, reads a book to her daughter Lisa that she has edited to make less culturally offensive. Lisa then looks directly at the camera and states, “Something that started decades ago and was applauded and inoffensive is now politically incorrect.” As she looks at a picture of Apu with Bart’s catchphrase, “Don’t have a cow!” written alongside it, she asks, “What can you do?” Marge then offers a cryptic response, saying, “Some things will be dealt with at a later date.” “If it all,” Lisa adds, before the scene comes to a close.
+Many people instantly criticized the show, with Kondabolu tweeting, “Wow. ‘Politically Incorrect?’ That’s the takeaway from my movie & the discussion it sparked? Man, I really loved this show. This is sad.” He later also tweeted: “In The Problem with Apu, I used Apu & The Simpsons as an entry point into a larger conversation about the representation of marginalized groups & why this is important. The Simpsons’ response tonight is not a jab at me, but at what many of us consider progress.”
+However, the biggest issue, with The Simpsons’ response to the controversy is that it is yet another attempt to normalize the stereotype. The show has been doing this since Apu was introduced, and much of the reason derives from the show’s structure. The satire-based show seems to revolve around stereotypes with many of the characters fitting directly into them—such as Ned Flanders (the goofy, overly-friendly neighbor); Chief Wiggum (the donut-eating, lazy, negligent cop); or Mayor Quimby (the power-hungry, opportunistic politician). Many of the show’s jokes riff off of these stereotypes. The character of Apu also fits directly into a stereotype, but while Flanders, Wiggum, and Quimby all conform to occupational stereotypes, Apu’s is a product of his race. Despite this crucial difference, the show does not approach Apu’s stereotype in a different way, and therefore attempts to make a blatantly discriminatory stereotype seem acceptable.
+The Simpsons’ recent response tries to do the same thing. Lisa’s line “Something that started decades ago and was applauded and inoffensive is now politically incorrect” is particularly troubling. Here —via the show’s writers — she is essentially arguing that because something has been accepted and praised before, it should not be criticized now. By looking to the past, The Simpsons tries to make the stereotype appear normal. But like Kondabolu declared in his tweet, this form of normalization is a dismissal of “what many of us consider progress.”
+This argument in favor of tradition and the normalization of what was considered acceptable in the past shares a lot in common with the “make America great again” ideals of many on the far right. Much of what they are fighting for stems from preserving what has been established and preventing political correctness from spreading. While this is not to assume that any of The Simpsons writers subscribe to this political ideology, their excuse for keeping around a damaging and hurtful stereotype echoes the far right’s claims, with an attempt to look to the past for what was considered normal and socially acceptable.
+Perhaps even more ominous are the final lines of the scene. While Marge’s line, “Some things will be dealt with at a later date” suggests a glimmer of hope, Lisa’s follow-up, “If it all,” immediately casts doubt on whether The Simpsons will ever fully acknowledge the harm that Apu’s stereotype has caused and if the show will ever make a change.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+

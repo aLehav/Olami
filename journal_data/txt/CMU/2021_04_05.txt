@@ -1,0 +1,215 @@
+For the Carnegie Mellon Swimming and Diving team’s first competition of the 2020-2021 season, the Tartans hosted an intersquad meet. Although there were no outside competitors, the Tartans performed spectacularly, setting career bests and breaking school records.
+On the women’s side, sophomore student Mathea Myhrvold won the 100-yard freestyle with a career-best equaling time of 56.66 seconds. In the 200-yard individual medley, senior Jessica Chau set a pool record, edging out her competitors to win the event with a time of 2:08.09.
+In the women’s three-meter springboard, first-year Kelli Kuramoto put on an especially impressive performance, scoring a total of 495.00 across 11 total dives, setting a new pool record and a new school record in the first collegiate competition of her athletic career. Kuramoto also performed well on the one-meter springboard, finishing behind senior Maddie Mianzo who set a new career-best to win the event, having scored 429.82 across 11 dives.
+The men’s team excelled as well. Junior Sean Ream broke both the pool record and the half-decade old school record by propelling past his competitors with a 1:47.28 in the 200-yard butterfly, before surpassing a 23-year-old 100-yard butterfly pool record with a winning time of 48.51 seconds. Junior Richard Dauksher then won the 400-yard IM with a time of 4:00.88, setting a new pool record, before setting yet another pool record of 1:40.66 in the 200-yard freestyle.
+In the 400-yard medley relay, the A team consisting of junior Oliver Lance, junior Colin Daniel, first-year Chris Stange, and sophomore Erik Feldmann broke another 23-year-old pool record, beating out their opponents with a time of 3:21.63. Sophomore John McNab then beat the pool record Dauksher had set, swimming 200 yards of freestyle in 1:39.76 during his leg of the 800-yard freestyle relay. This 800-yard freestyle relay team, consisting of McNab, Dauksher, senior Max Gonzalez, and junior Daniel Ng, also set a new pool record of 6:43.12.
+Although these last few semesters have been difficult on the Carnegie Mellon sports teams, athletes and coaching staff have persevered, continuing to develop and train under COVID-19 restrictions, and it is clear that all of their hard work has paid off.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+CMU researchers design conductive silver hydrogel
+Choosing the right materials is critical in designing robotic systems, and different applications require different choices. In hard robotics, metals are a mainstay, as they provide rigidity and conductivity — both important properties when working with electrical and mechanical systems. However, incorporating metals into soft robotics is difficult, which means that conductivity is a problem. Recognizing this issue, researchers at Carnegie Mellon have developed a unique silver-hydrogel composite that is deformable and conductive, making it a game-changer for soft robotic systems by achieving a better tradeoff between conductivity and rigidity.
+Read more about it here.
+Big data accelerates biodiversity research
+Big data can hold big insights, and that is especially true when looking at the study of global biodiversity. With the increased digitization of museum datasets on cataloged specimens, there is a large influx of data on biodiversity around the globe, but extracting knowledge from these large volumes of information is a perpetual challenge. To overcome this hurdle, several databases have been created, such as the Global Biodiversity Information Facility (GBIF). Mason Heberling, assistant curator of botany and co-chair of collections at the Carnegie Museum of Natural History, and Scott Weingart, program director for the Digital Humanities at Carnegie Mellon University, applied a machine learning algorithm to a large collection of papers published in the GBIF, showing the need for such databases and discovering some novel trends in global biodiversity studies.
+Read more about it here.
+New course bridges divide between art and science
+While artistic and scientific disciplines certainly have their differences, interdisciplinary collaboration often provides invaluable insight and innovation that would otherwise have never been possible. To better foster this interdisciplinary atmosphere and to show that science and art can have a symbiotic relationship, Rich Pell, an associate professor in the School of Art, and William Hatleberg, a postdoctoral researcher in the Mellon College of Science, have come together to teach a new course called Art and Science that encourages art students to think scientifically and science students to think artistically. Through critical readings and creative projects, the course seeks to manifest the interdisciplinary mindset that is so valuable today.
+Read more about it here.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Imagine watching your favorite medical drama. The surgeons are scrambling to save the patient, who is lying on the table, cut open and under the influence of anesthesia. Just before the surgeon can finish their beautifully-written speech about how they endured medical school for this very moment, they are interrupted by a loud, flatline sound. Suddenly, all is silent and the scene cuts to black. Everyone knows that a heart stops beating when a person dies, but what about the brain? 
+It seems that there may be a missing piece of the puzzle in understanding the phenomena behind brain activity after heart death. Last week, researchers from the University of Illinois at Chicago (UIC) discovered a certain subset of microglial cells with increased gene expression during the hours postmortem. Named after the undead corpses from popular culture and media, these genes are known as “zombie genes.”
+Microglial cells are the immune cells local to the human brain, as well as the central nervous system (CNS). Their main functions involve removing damaged neurons and infections from the CNS, sometimes after brain injuries such as strokes. For this very reason, some neurologists are not surprised that microglial cells show increased gene expression postmortem. 
+The researchers used fresh brain tissue samples collected from routine brain surgery procedures, removing them to mimic the postmortem interval (PMI). From this, they observed the changes in gene expression between zero and 24 hours after the induced death and were able to witness microglial cells growing appendages in the brain. 
+In fact, the postmortem brain was found to have an entirely different pattern of human gene transcription. Along with the increased microglial expression, the researchers found a rapid decline in neuronal gene expression that lasted at least 24 hours. This was confirmed histologically by observed neuron degeneration and glial cell outgrowth. 
+Dr. Jeffrey Loeb, head of neurology and rehabilitation at the UIC College of Medicine and the head of this study, believes that this has important implications. Postmortem brain tissues have been analyzed by many scientists in the past to find treatments and potential cures for neurological disorders including autism, schizophrenia, and even Alzheimer’s disease. However, many do not account for postmortem genetic expression or even cellular activity in the brain, which could alter the conclusions drawn from research on these treatments.
+Loeb and his team noticed that the pattern observed in their study was nothing like the already-published findings about neurological decline within brains affected by neurological disorders. By using fresh brain tissue samples, Loeb and his team did not have to worry about RNA degradation, which would usually occur if the samples were older. As a result, the total amount of RNA per milligram of tissue was constant over the course of the study, though Loeb and his team claim that this is because the increase in glial cells compensates for the neuron degradation. 
+Loeb states that "Our findings don't mean that we should throw away human tissue research programs, it just means that researchers need to take into account these genetic and cellular changes, and reduce the postmortem interval as much as possible to reduce the magnitude of these changes.” He says that by knowing which cells degenerate postmortem, and which genes are stable, postmortem studies on all types of brain tissue can be better understood. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+All Times are in EDT
+AB Presents: Virtual Cooking with Sohla El-Waylly
+Monday, April 5: 7:30 p.m. via Zoom
+Sohla El-Waylly stars in The HISTORY Channel’s online Ancient Recipes series, and now, she’s sharing her knowledge with you! Join the Activities Board Monday night to learn more about the origins of some of your favorite food and the distinction between its original and modern forms! Register for the event here.
+Stay Grateful: A Weekly Gratitude Practice
+Tuesday, April 6: 1:30 p.m. - 2:30 p.m.
+The Carnegie Mellon University community is meeting again this week for an exercise in mood regulation, resilience, happiness, and satisfaction. As the semester continues to be stressful, learning about gratitude can help with stress management. The Zoom Meeting link is here.
+Graduate and Professional Student Appreciation Week: Wednesday Giveaways
+Wednesday, April 7 all day
+Are you a graduate student who loves giveaways? Check out these deals on campus!
+The Underground: Free small scoop of ice cream (10:00 a.m - 10:00 p.m.)
+The Exchange: Free small coffee (8:00 a.m. - 11:00 a.m.)
+La Prima Espresso: Free 12 oz. coffee or tea (12:00 p.m. - 4:30 p.m.)
+Entropy+: Free small coffee (8:00 a.m. - 6:00 p.m.)
+Tartan Express Food Truck: With every purchase of a sandwich, receive a free side (11:00 a.m. - 8:00 p.m)
+Beefsteak: Free gazpacho with purchase (11:00 a.m. - 6:00 p.m.)
+Innovation Kitchen or Back Bar Grill: Free cookie with purchase (4:30 p.m. - 9:00 p.m.). Please note that these locations are GET online ordering only. Show your ID for your free cookie when picking up your order.
+Au Bon Pain: Free cookie with the purchase of any whole sandwich (7:30 a.m. - 2:00 p.m.)
+When my Heart Isn’t In the Work
+Thursday, April 8: 4:15 p.m. - 4:45 p.m.
+To process and navigate white-dominated spaces, join CaPS in their judgement free, weekly discussion. The link to join is here.
+Immigrant Connection Hour
+Friday, April 9: 1:00 p.m. - 2:00 p.m.
+If you are an immigrant interested in finding a safe space to connect with other immigrants, join Dareen Basma, Shubhara Bhattacharjee, and Mengchun Chiang’s Immigrant Connection Hour. The Zoom ID to join is 969-6481-1810.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Do you like sweet food? Are you also trying to be healthy at the same time? Do you find that it’s hard for you to maintain both? Well, I have a whole slew of baking recipes that will help you keep a healthy diet while satiating your sweet tooth cravings. I saw this one I’m about to write below on the keto recipes forum on Reddit, so if you have never been on there before, I highly recommend checking it out. This particular recipe is from u/sammysamgirl with tweaks to the directions and ingredients. 
+Low carb lemon bars
+Crust ingredients: 
+Lemon filling ingredients:
+Have some powdered sugar on hand if you want to dust the top of the squares. 
+Directions for the crust:
+Directions for the lemon filling (start prepping while crust is baking):
+You can store these lemon bars in the fridge for several days. They’re actually better colder, so if you want, you can put the pan in the fridge after you’ve let it cool completely before you serve your lemon bars. I hope that this is a tastier, healthier alternative to normal lemon bars. I certainly wouldn’t be able to get through this health-conscious phase without these low carb substitute recipes. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+The Senate general body meeting on March 25 discussed special allocations for Lunar Gala and recommendations for housing and bathroom changes to support the trans, intersex, and nonbinary (TIN) community.
+Last week’s Senate general body meeting on April 1 discussed the work of the Commission on Academic Freedom and Freedom of Expression, adjusted fiscal budgets, and election ratification meetings.
+Lunar Gala is an annual student-run fashion show with more than 130 people involved in its production. Because of COVID-19, the show will be virtual this year, and tickets to attend are free. They filmed their performance a week earlier and found that there were unexpected costs in renting the media equipment to film. The Joint Funding Committee (JFC) had previously allocated media equipment funds to Lunar Gala, and, under bylaws, the JFC was not able to reallocate funds for the same purpose, so Lunar Gala instead requested the Senate to fund their unexpected costs, which is permitted under bylaws. The special allocations request passed 13 to 0 to 1.
+The Senate's Business Affairs Committee also introduced two resolutions in support of the TIN community. One resolution was endorsing a document written by Business Affairs in support of all-gender housing at Carnegie Mellon. The document recommends making all-gender housing the default option for students and making single-gender housing opt-in. It also recommends renovations to communal bathrooms in housing, such as making floor-to-ceiling bathroom stall walls, and changes to the roommate selection process to ensure the safety of TIN individuals against roommate violence through single-occupancy housing. The document stated that "An all-gender default resists society’s current gender binary which is harmful to members of the TIN community, without inherently exposing cis- and gender-conforming students to violence." Business Affairs had conducted an earlier survey and found that 68 percent of the student body would either be interested in or would have no preference in all-gender housing. The resolution was passed 12 to 0 to 1.
+Another resolution requested the Senate's endorsement of "Actionable Steps For All-Gender Equity at CMU," a document written by Carnegie Mellon's Trans, Intersex, and Nonbinary Alliance (TINA). In addition to wanting all-gender housing as described in the document written by Business Affairs, TINA requested renovating bathrooms in campus buildings to add all-gender single-stalled bathrooms to promote the safety of members of the TIN community, allowing for chosen and legal names and genders to be more easily updated within university information systems, promoting health resources and TIN bias training for students, and more. The resolution was passed 12 to 0 to 1.
+Last week, guest speakers Roberta Klatzky and Jonathan Caulkins presented the work of the Commission on Academic Freedom and Freedom of Expression, created in response to the university-wide debate around the hiring and actions of Richard Grenell. They mentioned that there were three subcommittees within the commission: one for creating forums for discussion around the topic, one for discussing "points of discomfort," as Klatzky said, related to academic freedom and freedom of expression, and another for discussing policy creation related to the topic at Carnegie Mellon. 
+Senators asked the speakers questions about the diversity of the commission, the boundaries of acceptable speech at Carnegie Mellon, and whether hiring should consider social media platforms that hirees use and the audiences that they reach. The speakers asserted that departmental diversity had been taken into consideration when choosing the committee, the members of which are published online. Caulkins said that it was difficult to determine when to penalize academics for holding invalid beliefs that are unrelated to their field and that cases where academics did hold beliefs counter to norms in their field sometimes help promote scientific advances. Caulkins added that an issue the commission had to face when considering statements on social media in the hiring process is that hirers could be biased by the individual's personal life instead of solely considering professional qualifications.
+The Finance Committee also presented a resolution on reducing Senate committee budgets for the fiscal year of 2021 due to COVID-19. Overall, the fiscal year budget for 2021 was reduced by about 40,000 dollars to a total of 160,000 dollars.
+Senators also passed a resolution 19 to 0 to 1 affirming the resolution for a joint meeting of the Undergraduate Senate and Graduate Student Assembly. The meeting would ratify the results of the student government election, which is currently running, and elect the executive chair of the Activities Board. Students can vote in student government elections here.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Since our last campus-wide newsletter at the start of the semester, Undergraduate Student Senate has made progress on a number of important initiatives. In this mid-semester update, we have several upcoming events to announce, as well as new projects recently launched by several of Senate’s committees.
+As always, you can get in touch with your Senate representatives and committee chairs on our website, via social media, or at our weekly general body meetings. 
+Progress On Initiatives
+This week, Senate voted to endorse the Business Affairs Committee’s recommendations regarding all-gender housing at Carnegie Mellon University. Since the fall, the committee has been working alongside Carnegie Mellon University’s Trans, Intersex, and Nonbinary Alliance (TINA) to survey students on shifting on-campus housing towards an all-gender model by default. Additionally, the general body approved the committee’s resolution to endorse the full list of demands made by TINA as part of their document “Actionable Steps For All-Gender Equity at CMU,” drafted in the fall of 2020.
+Recently, the Carnegie Mellon community gained full digital access to The New York Times, following Senate’s vote to fund subscriptions through the student media fee, and with generous assistance from the University Libraries. Access is quick to activate, active until graduation, and student accounts do not need to be renewed. We are currently securing funding for this to continue through the fall and in future semesters. 
+At our meeting on March 11, Senate approved a pre-investigative paper from the Finance Committee, beginning an initiative which will examine the possibility of compensating students who are contributing to the university’s diversity, equity, and inclusion efforts by sitting on university advisory committees. The Finance Committee has also continued reviewing special allocations requests to cover unexpected expenses from a number of different student organizations. 
+The Campus Life Committee is looking for student input on potentially bringing electric scooter sharing services to the Carnegie Mellon campus — you can add your input to their survey here. Additionally, Campus Life is announcing the first event in this year’s First Lecture Series: on Wednesday, April 7 at 6 p.m., the committee has invited three graduating seniors to give talks on what they have learned in their time at Carnegie Mellon. The following First Lectures event will be Wednesday, April 21 — stay tuned for more details!
+Find Out What Your Representatives Are Working On
+As part of this year’s efforts to make Senate’s work more transparent to students — particularly with the challenges posed by the pandemic — Senate’s Executive Committee is launching a Senate-wide initiative tracker. This document is public to the entire Carnegie Mellon community and will allow students to view the projects that members of Senate are working on in one place, along with information about how to provide your feedback to initiatives or get in contact with the relevant members of Senate. As this is still a work in progress, we encourage you to submit to us any feedback that you have about how we can make this tracker as informative and accessible as possible. 
+Ongoing
+Are you required to purchase any resources for a course which are not covered by financial aid? We can cover the cost of these — submit a short funding request here. The Academic Affairs Committee is pushing courses to move away from requiring such resources and shifting towards free alternatives where possible. 
+Similarly, the Finance Committee can fund the costs of new projects started either by individuals or student organizations, or new and currently not-JFC-funded student organizations, through the Special Allocations process. Any project which you or your organization has started and which has some benefit to the broader undergraduate community can be eligible for Special Allocations funding.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+As a once university admissions-obsessed college confidential stalker, I am beyond intrigued by the intricacies of the college admissions process. I still find myself helplessly amused by the typical “chance me” posts on Reddit threads and the infamous YouTube college decision reaction videos. I watch them like they are Netflix shows: it’s a rabbit hole I haven’t been able to escape since my own admissions process in high school. America has grown into a nation obsessed with the glory of elite universities, and everyone wants one of those universities’ names or logos on their LinkedIn profile. We have grown up learning our worth is equal to our grades, our activities, our standardized test scores, our admissions decisions, and our school’s names. We sit at laptop desks and ask random internet strangers to tell us if they think we’ll gain admission to selective universities. Did we create this culture of admissions toxicity, or are we a result of it?
+The truth is that in a way, we are both. Comparing trends from elite colleges in 2007 and 2019 shows how a significant increase in Common Applications have allowed selective schools to become far more selective than ever before. According to IvyWise, Carnegie Mellon’s 2007 acceptance rate of 27.9 percent differs significantly from its 2019 acceptance rate of 15.4 percent. Similar trends are seen at universities like Cornell University, with a 2007 acceptance rate of 21.4 percent compared to a 2019 acceptance rate of 10.7 percent, and the University of Chicago, with a 2007 acceptance rate of 34.9 percent compared to a 2019 acceptance rate of 6.2 percent. From these statistics, we see an overarching trend towards more applications for roughly the same number of spots in a graduating class, resulting in a lower acceptance rate for applicants each year. 
+With the COVID-19 pandemic, universities across the country have chosen to go test-optional, meaning applicants can decide whether or not they want to submit standardized test scores in their applications. The debate over whether universities should implement test-optional policies has been growing for years, but pressure from students who have been unable to take standardized tests such as the SAT and ACT have forced colleges to implement test-optional policies for the 2021-2022 and even the 2022-2023 application season. Scott Jaschik from Inside Higher Ed writes “Through Feb. 15, only 44 percent of people using the Common Application submitted SAT or ACT scores. Last year's total was 77 percent.” Jaschik explains that because there are less requirements to apply to universities and more time to write supplemental essays during the pandemic, the average number of universities students have applied to this year has significantly increased. On the other end, Leslie Cornfeld, founder and CEO of the National Education Equity Lab, explains, "I think we have known for quite some time that standardized tests like the ACT and SAT can mask talent in the Black and Latino communities,” continuing, "It is critical that we think about alternatives to the SAT and the ACT in this country." While some specific universities in the United States have been test-optional in previous years, there has never been so much momentum for a nationwide movement striving to break away from standardized testing as a barrier to entry.
+The questions now become: do we take this national opportunity to reform a severely broken college application system? Should test-optional admissions remain, and if so, will this fix a root problem or exacerbate another one? If schools are to remain test-optional, could an overreliance on GPA provide similar problems with inconsistency and a disadvantage to marginalized students? The simple answer is that, while we may not know the long-term effects of going test-optional on a national scale, it is a step in the right direction towards ensuring a more equitable and inclusive college application process. Not only will it allow more students a fair chance to gain admission into selective universities, but it will also alleviate stress from high school students balancing standardized testing preparation alongside schoolwork, extracurricular activities, part-time jobs, internships, and other commitments. Instead of asking how students can stop feeding into this toxicity by posting “chance me” questions on college confidential, Reddit, and YouTube, we must evaluate the admissions considerations of individual universities, urging them to provide transparency, support, and resources for applicants during the admissions season. This is how we can end the cycle of admissions toxicity.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Every year, the academic year at Carnegie Mellon gets shortened. Two years ago, there were 70 school days in the fall semester. Then it was 69, then 68, and next year, there will only be 64 — a week less than this year. The extreme jump from 68 school days to 64 school days from this year to next year has already sparked outrage on Facebook and the SCS Piazza.
+Of course, the “why” is beyond us, since the administration so seldom includes its stakeholders — faculty, staff, and students — in its decision-making process, and is rarely on the same page we are. However, we can assume with a strong degree of confidence that the administration would simply prefer to spend less money on our education while freezing tuition for the upcoming school year. Mark Stehlik, who chaired the Calendar Innovation Committee along with Rebecca Nugent, noted little of value on the SCS Piazza discussion other than a lack of flexibility and calls the issue a “difficult optimization of multiple constraints,” mentioning issues like ample time for exam grading and dorm preparation between semesters.
+Regardless of the justification, it is clear that this trend of reducing school days is detrimental to our learning, and thus to the value of a Carnegie Mellon education — which helps no one.
+First and foremost, we’ve already seen with this school year that a condensed timeline, especially in a pandemic, results in one of two possible outcomes: either the pacing of the material is accelerated, or some material is skipped.
+With an accelerated curriculum, students will struggle proportionally more to take in the content presented. We are also placed under greater undue stress, as the same problem sets, projects, labs, and exams are no longer spread out as intended — rather, our average weekly workload becomes heavier, not only reducing our sleep and free time but also our flexibility to accommodate unexpected confusion or address technical issues, as noted in the Piazza thread. In short, we are prone to fail more often and burn out more quickly.
+Removing material from the curriculum is worse, if even possible. “Cascade failure,” as Stehlik terms it, has been raised as a concern: with classes that have many prerequisites, corequisites, and post-requisites, it is difficult to coordinate curriculum changes in a timely manner. Chances are, even with some existing curriculum overlap between classes, students will be spending more time learning essential topics by themselves, cutting into the already-reduced time available for studying and review before exams.
+The rest of the Carnegie Mellon experience is also tarnished: in a shorter semester, there is simply less time to connect with our professors, engage in research endeavors, or enjoy sports, clubs or campus life as a whole. Extracurricular activities have already struggled to maintain involvement and quality because of the pandemic, and a shortened semester will further exacerbate this struggle.
+It must be noted that all of these changes also affect faculty. It is not easy to redesign curriculum, especially classes that build off years of adjustments and fine-tuning to produce, say, extensive codebases or efficient support systems. It is remarkably difficult for them too to manage more frequent lectures, grading, etc. It will also be interesting, to put it kindly, to see how faculty will rebalance teaching with other commitments such as family and research as well.
+Suffice it to say we struggle to explain this consistent reduction in school days across years. There is no reason for us to have faith in the administration now and believe that the administration has our best interests in mind as it prepares “to run the 2021-22 ‘experiment’ as best [it] can, collect feedback both from S21 and 2021-22 and try to determine a best path forward.” We must know: why does the administration believe less learning in the classroom is appropriate year after year, especially without properly consulting faculty and students? If professors and other stakeholders have already weighed in and had all concerns addressed, what planned changes could be viable enough to ensure student success?
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+

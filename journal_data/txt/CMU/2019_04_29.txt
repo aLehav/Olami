@@ -1,0 +1,527 @@
+Walking into the gym in the Cohon University Center, the first level is filled with the sound of weights clanking, machines squealing, and students breathing heavily. From the large mirrored walls to the primary colors of the machines and weights, the area may seem like an unlikely place to inspire a tech startup.
+Outside his room and his office, this is the place Matt Spettel is most likely to be found. A junior electrical and computer engineering major at Carnegie Mellon University, Spettel has a passion for working out, for setting goals and making gains. Last summer, an idea popped into his head: what if he could track his work out progress automatically, like a Fitbit for lifting?
+The first person Spettel texted about his idea was Gabe Madonna, an old friend who was interning at the same company that summer, and the person who originally dragged him to the gym. Madonna, a junior computer science major at MIT, was immediately on board. Within a few days, they had a rough hardware prototype with sensors and wiring that managed to detect some exercises with a degree of accuracy. And thus, the startup Delta Band was born.
+“[Delta Band] is a software platform that automatically tracks your workouts in the gym and uses all the data from that to give you personalized recommendations on how to make progress faster,” Spettel explained in an interview with The Tartan. With his expertise in hardware and embedded systems and Madonna’s background in machine learning, they believed they could meld their strengths to create their own product.
+Soon, Delta Band proved to be more than just another idea. By the beginning of the fall semester, the startup was part of the Swartz Center for Entrepreneurship, with an office in the epicenter of the Tepper Quad. While CEO Spettel is in Pittsburgh and CTO Madonna remains in Boston, they have worked together to make progress, just as their product does.
+The first thing the duo built was automatic tracking software that collected information from workouts and presented them to users visually with graphs. After thousands of reps of every single exercise they could think out, Spettel and Madonna built machine learning models that could classify the different exercises based on what they look like in terms of acceleration and angular velocity.
+The algorithm, dubbed "Repcognition," works in three stages. First, the sensors recognize if users are working out or not, dependent on repeating movements. Second, once users are within a set of an exercise, the software recognizes where the specific rep is — where it begins and ends — allowing for the third and final step, that classifies the specific exercises users are doing.
+“You put all that together, you get the exercise performed, the number of reps performed and you can extract things like how explosive the user was and how much time and attention they spent, all these useful things,” Spettel said.
+Within the next few weeks, they are looking to publicly launch Delta Band’s beta to collect data and feedback from lifters around the country. They also recently filed a provisional patent for “Repcognition,” their workout tracking software.
+Early on, however, Spettel realized that this tracking service was catered to people like him and Madonna, self-described “techy gym bros” who had enough experience to look at the data and make decisions. This is where the progress and recommendation aspect of the Delta Band is unique.
+“[We realized that] in order to provide value to most people, we have to act on this data,” Spettel said. “If you just want to get bigger arms or you want to get your six-pack, or lose your love handles… those are all goals we can now guide any experience level towards.”
+In less than a year, Delta Band has grown and developed from an idea to a full-fledged startup near the brink of public consumption. In March, the team won first place in Carnegie Mellon’s McGinnis Venture Competition in the category for graduate students. They received a $25,000 prize.
+Delta Band is also a part of the Swartz Center’s VentureBridge initiative, receiving $25,000 funding to move to Silicon Valley and San Francisco this summer to work in an ecosystem designed to connect rising startups from Carnegie Mellon with alumni and mentors.
+Working in the Bay Area for the summer will allow Spettel to devote himself full-time to the startup. During the school year, he spends an average of 40 to 50 hours a week on Delta Band on top of his school commitments. Madonna didn’t turn in his first assignment for a class because he was working on Recognition.
+Spettel sees a future for a company that extends beyond saturating the Apple Watch market and building the brand, but at the heart of the startup is his and Madonna’s love for fitness. Delta Band serves as not only a place for lifters to reach their goals, but also a platform to help people get started in the gym.
+“I see a future where Delta Band allows us to guide anyone in the world, be it to make more progress, find new lifting buddies, hit personal fitness goals, or just learn how to get started,” Madonna said.
+For Spettel, developing a startup is the perfect fusion of his engineering background and his passion for building something new and growing it each and every day.
+“There's just something so exciting about building something this real and this influential from nothing. The scariness is very exciting to me,” he said. “With Delta Band, when I wake up in the morning, I have no idea what I’m going to be doing that day… the world is my oyster.”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Of the many things that we learn from our STEM education, there are a few that are as deeply ingrained as reflexes. We know, for instance, that the mitochondrion is the powerhouse of the cell, PV = nRT, nothing moves faster than the speed of light in a vacuum, and that the entropy of the universe is always increasing. We take such truths for granted as the foundations of countless experiments and theories, confident that they regulate our world in predictable and observable ways.
+What we often don’t realize is that these laws of nature, as well-defined as they are, still leave room for some pretty strange phenomena, as physicists as the University of Zurich recently proved with a thermodynamics experiment. Using a Peltier element — a component that can transform electrical currents into temperature differences — researchers created a simple device that can temporarily allow heat to flow from a cold to a warm object without an external power supply. This goes against the intuition that under passive conditions, heat flows from a warmer object to a cooler object until the two achieve thermal equilibrium, not the other way around. While at first this finding appears to contradict the laws of physics, the researchers showed that the entropy of the entire system continued to increase throughout the process, meaning that it remained in accordance with the second law of thermodynamics and does not actually break science.
+Of course, the potential applications for this technology are still far in the future. The temperature differences measured in the study were only around 2 °C, pointing to the limitations of the commercial Peltier elements. This technology could theoretically perform amazing feats, such as cool boiling water down to ice without any energy input, but that would require the invention of a more efficient Peltier element. Such challenges mean that the large-scale use of this technology is not in the near future.
+Nevertheless, this seemingly magical act shows us that there is a lot of gray area when it comes to what is possible and impossible according to our current laws and encourages us to think beyond present boundaries. With equal parts imagination and scientific rigor, who knows what we will discover next?
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Have you ever stopped to wonder about what gives a song its character? The history, the culture, and story behind a piece of music can impact the way it’s written and, as a result, how it’s heard. Meet Theresa Abalos, a junior BHA in global studies and music performance, who is working to understand the traditions and culture behind songs.
+Abalos has spent her three years at Carnegie Mellon at the intersection of arts and humanities, inspired to find the context behind music and how people use it to shape the world around them. "Sometimes, you can't articulate why the world is so complex, but you can engage with it by creating something that's breathtaking and moving, often in healing ways," said Abalos.
+Her flute professor, Alberto Almarza, has encouraged Abalos in her endeavors to balance the musical and non-musical portions of her degree. Her minor in Hispanic Studies provides a linguistic context for her research, while the BXA program has helped her “become a more critical musician.” In Abalos’ words, “while music is transcendental, it’s also rooted in the specific places and histories from which it was created.” 
+Alongside Assistant Musicology Professor Alexa Woloshyn, Abalos has made the case that tradition and modernity can work together. Her research project, "Who are the 'folk' in música folclórica? Indigeneity and the Performance of Belonging in Argentina," delves into the vague title that is “folk music” in Argentina, which has been used to refer to a variety of types of music. 
+Abalos’ research builds on experience from her 2018 study abroad in Argentina, where she connected with world-renowned flutists and indigenous musicians who are shaping the modern soundscape of Argentina. These folk musicians have helped Abalos learn about their use of musical traditions in their performances.
+“Their identity as indigenous does not mean they are frozen in the past; rather, they're engaging with and helping to build what we consider modern, leading to movements both ideologically and across rural and urban spaces,” said Abalos.
+In addition to her research in Argentine, Abalos recently went on an interview with WQED’s Voice of the Arts podcast, where she spoke about a collaboration with public artist Molly Rice. The collaboration took the form of a performance project, Khūrākī, in which Abalos and other musicians worked with five Afghan women refugees to tell their stories.
+Although you may have just missed Abalos’ junior recital on April 19th, she will be presenting her research at the 2019 Meeting of the Minds on May 8th. On May 6th, she will be performing at City of Asylum at Alphabet City in Pittsburgh as part of Khūrākī (which is now sold out.)
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+This review will contain no spoilers for Avengers: Endgame out of respect for everyone.
+When Iron Man came out in 2008, I remember watching it in theaters the day it came out as a kid. I have been following the franchise from day one, and for the last 11 years, I have watched every single Marvel movie and almost all of the TV shows. Avengers: Endgame is the culmination of the 11 years of investment in this franchise, and I’m happy to say that it couldn’t have been a better ending to the Infinity saga.
+Marvel has mastered serialized storytelling. While not every Marvel Cinematic Universe film was great, one can’t deny the effort and hard work that went into planning this universe and keeping it internally consistent throughout. It’s a feat of storytelling that no one else has been able to pull off, and props should go to Kevin Feige and everyone else on his team, such as the Russo brothers, who directed Infinity War and Endgame. The universe was a risk, and it’s paid off really well.
+There is something special having grown up with these characters. It’s like watching real people at this point develop and grow in front of you. The names of each of these people have permeated into the popular consciousness, and you feel this sense of attachment to each of these people. Even if you don’t know all the films themselves, you still know the names, and that’s what makes the Avengers films work even if you haven’t seen all of the standalone films.
+As for the film itself, Endgame is one of the most satisfying films I’ve seen in quite some time. For a three hour film, it didn’t feel that long at all. The pacing was mostly great and they made some smart choices with the storytelling that allowed each of the characters to get their own moments to shine. If Infinity War was Thanos’ movie, Endgame belongs to the Avengers.
+All the performances were really stellar this time around. Not a single cast member was weak and everyone had a great acting moment. The standout in the cast was Robert Downey Jr. This is his best performance as Tony Stark, playing a man broken by the events of Infinity War and faced with his own obligations. Chris Evans, Chris Hemsworth, and Scarlett Johansson also turn in their best performances as their respective characters. There were only a few weak performances in the movie (I’m still not convinced by Brie Larson), but it would be a spoiler to reveal who I’m referring to.
+What I didn’t expect was that the film would take the risks it took. Those who have seen the film will know what I’m talking about. There are so many choices taken by the film that will surprise you, but in a good way. Your expectations will likely be subverted, which could upset some people who have hardcore theories. But when you’re watching the movie, you’ll forget about whatever expectation you have coming in and just go along with whatever is thrown at you.
+It’s hard to say this without spoilers, but there are just so many moments that will make you feel giddy and excited. While it’s a decently somber film, there are also just so many satisfying moments that had me chuckling in disbelief that I got to experience it. The film took advantage of the investment you have in the heroes and the universe, and used it to maximize the emotional impact of many of the scenes and payoffs throughout the film.
+If I have a complaint, it’s that it’s not the most clean narrative. The first part has to set up a lot, but it could have been done in a more clean manner. Without spoiling too much, there will be a lot of questions you’ll have about some of the plot points that may have to be ignored. If you think about it too much, things may start to not make sense.
+But to be honest, the film is so enjoyable that I don’t want to nitpick those details. I had an absolutely great time watching Endgame and I’m not ashamed to say that it made me cry a little bit. It’s sad to see the last 11 years of the franchise come to a conclusion, but there is more ahead. No franchise is ever really gone. I’m hyped to see what else Marvel comes up with. I have full faith in them.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+For the past two months, Taylor Swift has been updating her Instagram feed, swapping out the dark, snaky aesthetic of her sixth album Reputation for pastels, hearts, and flowers, hinting at a new era to come on April 26. In early April, Lauv began his own pastel transformation, his bright teal hair standing out even more with each of his photos posted against a bubblegum backdrop, announcing his newest single, “Drugs & The Internet” to be released on April 25.
+The week for both of these artists’ reveals has just come and gone, and I have a lot of say about Swift’s “ME!” and Lauv’s “Drugs & the Internet,” as well as their respective music videos that dropped the same day.
+Music matures with the artist, especially when they write their own songs, and that is evident in both artists’ releases. I’ve been a fan of Swift’s music since middle school, and have appreciated every era and transformation, although Reputation was probably my least favorite. Lauv hasn’t been on the music scene for long, but I was an immediate fan since “I Like Me Better” came out in 2017 (and I met you when I was 18. (the playlist) was one of my favorite albums last year), so I was super excited to hear he was releasing new music. I don’t think I need to go into detail about all the criticisms Swift has faced about her genre switches and public persona, but I wouldn’t have realized Lauv faced the same issues until he posted on his Instagram story the day of the song’s release.
+He essentially told his fans that it’s all fine and good if they like the “old Lauv,” but that’s not who or where he is anymore. He has grown as a person and an artist, so if they’re going to complain about how they don’t like his new stuff as much, they should just listen to the old stuff and leave him be. He was definitely not as harsh as I’m probably making him sound, but he just wanted the creative freedom to be able to grow as an artist, and he felt his fans were stifling him.
+I honestly feel like they’re not real fans if they don’t support him through his journey. Then again, I’m probably being hypocritical. I’ve had my fair share of artists I love that I temporarily stopped listening to because I hated the direction they took (such as Imagine Dragons’ Smoke and Mirrors), only to realize later how wrong I’d been for being dissuaded by a few changes. (Ironically, Smoke and Mirrors is now one of my favorite of their albums.) It’s the same way I feel about iPhone updates, particularly when they make drastic design changes, like way back in 2013 with the major iOS 7 revamp. I refused to update for months, then finally cave and realize I was being silly the whole time. Fortunately, it doesn’t typically take me months to warm up to new music, probably because if I like an artist enough, I’ll listen to their songs on repeat, nonstop, for weeks at a time.
+It’s strange because I don’t think there is a single artist or band out there that has continuously produced the exact same type of music. Sure, artists may stick to the same genre (or may not, like Swift’s transition from “country” to pop), but there are so many creative directions that you can take with it, and experimentation with what works and what doesn’t is part of the process. It’s what makes music so great. It’s constantly evolving, unlike other industries like film that rely on the same tropes over and over. (See my co-Pillbox Editor Sujay Utkarsh’s many rants for more on the issues with Hollywood though.)
+I’m guessing discussing the new music itself is what you came here for though. So let’s start with Taylor Swift. Her newest song, “ME!” features Panic! At the Disco’s Brendon Urie, and is a fun, upbeat, bubblegum-y pop song. It’s simultaneously catchy and cringey. The whole “Hey kids / Spelling is fun” part was a mess. Especially when Urie and Swift sing, “You can't spell awesome without me.” This isn’t Sesame Street. Just no. Please stop the cringe.
+Ultimately though, the song’s message is good. While Swift recognizes her flaws, she also believes that she’s one of a kind and worth it to be with. So many contexts have made me worry about a line like you’re “not like the others” (i.e., I like you because you’re not like other girls), but Swift doesn’t make it a negative thing. She constantly goes back to the line “there's a lot of cool chicks out there,” seeming to build herself up while not tearing other girls down in the process. To be honest, as much as I love Panic! At the Disco and Urie’s songwriting, I wasn’t really sure the point of Urie co-writing and singing the song. A lot of his lines could have been sung by Swift and the meaning wouldn’t have changed, and the whole “there’s a lot of lame guys out there” part just seemed unnecessary. I love a good parallel structure, but it was a bit off-putting, especially with the good-natured vibes of Swift’s similar lyric.
+It’s a nice change of pace from the more aggressive Reputation, and you can immediately see the shift when watching the music video, before the song even starts. It opens with a pastel-chalked street and a pale pink snake slithering across, only to burst into millions of butterflies. Interestingly, both animals are representative of change (although the snake was originally her embracing a negative label she received from the public), with snakes shedding their skins and caterpillars’ metamorphosis to become butterflies. The scene is oddly set in France, with Swift and Urie yelling at each other in French in front of Swift’s famous cats before she storms off, past the wall of paintings of “cool chicks” (of the baby chickens in sunglasses variety), and bursts into song as she leaves. The cinematography and special effects are whimsical and fun, and there are clear nods to well-known classic musicals like Mary Poppins and Singing in the Rain, but something about Swift and Urie’s execution throughout seemed off-putting. I still don’t know how to feel about it, but I’d still say it’s worth a watch.
+With Lauv’s “Drugs & The Internet,” we continue to see a trend against the love songs he used to write (starting us off in that new direction with “I’m so tired…”, his collaboration with Troye Sivan). While it’s definitely a change from his usual music, I don’t think that it is that drastic a change that fans should be rioting over. He sings that “I traded all my friends for drugs and the internet” and then contemplates whether it was worth it, asking “am I a winner yet?” He also realizes that he does not want to be a person who is affected by others’ opinions, yet he “sold his soul” and “all [he] got [was] likes from strangers, love on the internet.” It’s definitely a relevant song for this day and age, and I appreciate that it is introspective while also being a bop.
+While Swift’s video was all pastel, Lauv’s consisted of neon pinks and stark whites. It’s a trippy, Alice in Wonderland-esque alternate universe filled with smashed, blocky 90s-style computers and motionless, blank-expression people around a table with bowls of various rainbow-colored pills and jellos. In between these scenes is Lauv alone in the dark, with various Snapchat-style filters exaggerating his emotions and distorting his face. When he tries one of the jellos, he starts to gag, realizing that this environment isn’t where he wants to be. It’s quite the music video, and I definitely feel like it enhances the listening experience.
+It’s hard for me to say exactly what direction Taylor Swift and Lauv are taking with their music, but both releases were decent and I look forward to what they have in store next.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+One Night In Beijing (ONIB) is an annual showcase presented by Awareness of Roots in Chinese Culture (ARCC). Every year, ONIB features a play recreated from a well-known story or a legend in Chinese culture. The play is interwoven with dances of different genres, such as traditional Chinese minority dances, hip-hop dances, Wushu performances, and this year, ONIB even added a piece performed by Carnegie Mellon's Ballroom Dance Team. 
+The play of this year’s ONIB, Journey to the West, is an adaption of a short excerpt from the complete novel of the same name, one of the four great classical novels in China. It told the story of Sanzang Tang and his three disciples’ arduous pilgrimage to the west, during which evil Yao Guai (loosely translated as “monsters”) would take advantage of Tang’s group's weaknesses and sins to prevent them from reaching their destination. The only way for them to finish the journey was through purifying themselves. Journey to the West is a fantasy story that incorporated both cultural and religious elements of ancient China, making it a suitable choice for ARCC to present to the campus.
+ONIB cleverly used each dance piece to convey the setting of a specific scene in the story. Chinese minority dances were used to establish the extravagant illusions Yao Guai created in order to lure Sanzang Tang into her trap; the Wushu performances illustrated the fights between Sanzang Tang’s disciples and the Yao Guai. The two pieces that I took part in were both urban dances, one introducing the dangerous creatures living in the mountains ahead and the other setting an intense mood for the final combat between good and evil. The mixture of acting and dancing gripped the audience’s attention and filled them with anticipation for the entire two hours. In the dressing room, I would hear excited screaming coming out from Rangos, wondering what I had missed.
+I have to confess, as a dancer for the ONIB showcase, I put way more time into preparing for the show than I expected. On top of the regular duty of remembering the choreography, we also had to attend extra rehearsals to help ONIB weave the show together. I am often impressed by how efficient and professional students are, and this showcase was definitely another example that boosted my regard. On Friday night, we had one full run-through of the showcase, and while I was sitting in a corner in Rangos watching the rehearsal, I saw actors forget their lines, stage props not in place, and directors making up impromptu standing positions; all I could do was try to focus on my homework instead of soaking in disappointment. The second run-through was scheduled to start on Saturday morning at 8:30 a.m. I came in reluctantly, expecting nothing from the showcase. However, I ended up completely mind-blown by the improvement the acting team made overnight. All the mistakes were fixed, actors unleashed their inner energy, and along with face paint and costumes, the show’s quality magically increased exponentially. 
+I guess when you put together a group of perfectionists and workaholics who take on countless tasks for the thrill of the challenge and refuse to compromise on the quality of their work, you make magic happen. On Friday night, I comforted myself that I was only there to dance, but by the end of Saturday night, I had learned yet another lesson from my meticulous peers in ARCC.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+As someone who grew up Catholic, the Notre Dame fire hit especially hard. I had never visited myself, but it was (and still is) on the top of my "places to visit" bucket list. Although it's comforting to know that much of the church was kept intact and nobody was hurt, the burning of the church highlighted how much the Catholic Church appears to conflate a place of worship with the faith itself.
+Of course, it's tragic that such a historic place of worship was damaged. However, I wish that the Catholic Church, collectively, could take this zeal and energy that we have for a church building and enact change. It's clear that we have the means to if we cared enough, since we managed to amass so much financial support for a church in such little time. So why aren't we taking that energy to practice the teachings from our faith?
+There's also the vocal concern of how more people were willing to donate to help an inanimate building than they were to help actual sentient beings. Obviously, donating to a church and donating to humanitarian causes aren't mutually exclusive, and I don't think anyone's really debating that. However, it really is telling how people seem to care more about feeling like a good person than actually trying to be a good person. It's not like we have a dearth of opportunities to help rebuild our world. Millions around the world are living in poverty and many more face food insecurity. Within our own country, we have religious persecution against various faiths (no, getting sued for refusing to bake a wedding cake for a gay couple isn't persecution, especially when there are churches being burned down and people whose lives are at stake for their faith). As one of the most prominent faiths and the largest denomination of Christianity in the world, we have the means to congregate and enact change.
+Where was this energy when scandals regarding the members of the Church emerged and led to a #MeToo movement? When the Vatican Secretary of State, Cardinal Tarcisio Bertone, blamed homosexuality for the predatory behavior within the church? When people like Bishop Robert Morlino explicitly called for "more hatred" to ward off the "homosexual subculture" that "runs" the sex scandal?
+Part of the reason I temporarily left the Catholic Church was that I needed to learn to separate my faith from individuals and figure out what faith means to me. Strangely, I found that my time in Pittsburgh strengthened my faith far more than growing up in suburban Alabama, the latter where Christianity is much more prominent. Seeing how people held onto their respective faiths taught me more about my own faith than joining an exclusively Catholic youth group and being torn between feeling excluded and trying to integrate. 
+During these past few years in college, I learned that worship shouldn't be just a one-hour-a-week commitment. I learned to appreciate the teachings I gained every Sunday and to implement them in my life, to hold myself accountable all hours of the week. In light of the Notre Dame fire, I challenge others of all faiths — especially other fellow Catholics — to ask themselves if they are tethering their beliefs to an object.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Earlier this month, Carnegie Mellon’s music magazine The Cut chatted with Toronto-based punk band PUP’s guitarist Steve Sladkowski about their new album Morbid Stuff and their upcoming show in Pittsburgh on April 30 at the Rex Theater.
+How’s the start of the tour going?
+Uhhh… we’ve been ironing out the kinks. [Laughs] We haven’t been out on tour for a while, and it feels like that. The shows have been awesome and the people have been stoked. We had a real sweaty show last night, crowd surfers flipping offstage and knocking out gear.
+It’s been a good start, so far. It’s one of those things, you know it’s gonna be a long year of touring, so it’s kinda taking it easy. Hydrate, take supplements, start some good habits that are probably gonna be broken in a couple months anyways. Just trying to take it easy and put our energy into the show.
+You guys performed on Late Night with Seth Meyers recently. How was that experience, making your TV debut?
+It was fucking nerve wracking. The most insane thing we’ve ever done. Kinda blacked out when it happened, but it was pretty fun, ya know? I think we held it together and it was imperfect and a little off the rails, which is how we kind of prefer things to be.
+In the performance online, it seemed like maybe a guitar wasn’t working.
+Oh yeah, things get mixed differently for television than they do in the room. So in the room the whole time you could hear everything, but for broadcast they have to make it more vocal heavy. T.V.’s always gonna have that mass appeal, you know like my parents were stoked, right? It’s a big mom-and-dad moment, not that it’s any less important or significant than it is. You just gotta be a little bit zen and approach it as another gig, and not like Amy Schumer is across the hall from us! Gotta treat it like just another gig, even though it’s obviously not. It’s a really cool thing that I thought would never happen to us.
+What was the production of your latest album, Morbid Stuff, like?
+From a lyrical, subject matter perspective, I think Stefan [Babcock, PUP’s vocalist] really mined the darkness within himself and came up with a really amazing look at the places you can go when you are feeling emotionally and mentally unwell, but still maintaining that sense of humor and light that we all kind of love in music. And in terms of musical production, we actively forced ourselves to take time off from touring for the first time. We took way longer in the studio than we ever have before, like six weeks. That allowed us to experiment. The songs were all finished and we were able to get a good performance. That’s a fundamental part of our band, you can come to our show and the songs will sound like they did on the record, basically. But the time let us experiment with tone and stuff like gang vocals or the accordion on Scorpion Hill. Just doing things that pushed us out of our comfort zone, in a way that still felt like our band but allowed us to explore the space we had already mapped out for ourselves.
+We were able to use the time to write the songs in our jam space and then go into studio and be like “Ok, the parts are all written, now we can focus on getting good performances, and what we can do to flesh it out.” We had time to really focus on the nuances and show what we can do as musicians.
+You guys have had some awesome music videos, both in the past (including “Sleep in the Heat” and “Guilt Trip,” featuring a pre-Stranger Things Finn Wolfhard, and the animated “DVP” and “Dark Days” videos) and in the present with the “New Kids” and “Free at Last” videos. Where do the ideas come from, and what should we expect for the new album?
+A good part of it is Jeremy Schaulin-Rioux, who has been a big part of the band from day one. He’s the director, videographer, and mastermind of the videos. We’ll sit down and he’ll try to explain an idea that he can’t quite explain, he’s just very excited and saying half-sentences, just sputters “I know it sounds stupid, but trust me it’ll be great!” so we trust him and try and go with that. He’s one of our best friends and closest creative collaborators. We just put out a few songs and try to figure out what’s going. There really is no grand fucking plan [laughs]. When something comes up that we can invest the right amount of time in and is worth putting out, that’s what we do.
+Alright, now it’s time for the silly question. What bread product do you think you could throw the farthest?
+Can I manipulate it?
+Let’s say yes.
+Alright, I’m taking a loaf of Wonderbread and wadding it up into a ball-like shape. I played competitive baseball until I was 18 years old, so I would hope I still know how to throw. [pause] Yeah, I think I could at least throw out at second-base with a ball of Wonderbread.
+How did you guys get involved with the video game Dream Daddy: A Dad Dating Simulator and how involved were you?
+We basically just allowed our music to be played. Vernon Shaw [a writer for Dream Daddy] is a really cool video game/Twitch personality who really loves punk. He reached out about music to help promote it, and it just sounded like a really fun, kind of silly idea. But at the same time, we really do care about LGBTQ people and ensuring there is that kind of representation in those kind of mainstream things, so the “dads going on dates with dads” was fun, but also still had a very inclusive aspect to it. And they all seemed so nice and passionate, so it was the kind of fun idea that we wanted to run with.
+Anything else that you want people in Pittsburgh to know, about the album or your shows?
+Focused and mature, the best record we’ve ever done. And we really love touring in Pennsylvania, and Pittsburgh’s always been really great to us, whether it’s been Cattivo or Spirit Hall or somewhere. We’ve played in Pittsburgh probably five or six times now and always had a really great time, had Primanti Bros. for the first time.
+And how did you feel about your Primanti Bros. experience?
+I liked it! I don’t know if I want fries on my sandwich all the time, but it was definitely good. One of the really cool things about touring is that you get a really immediate, insider’s perspective on a city. I’ve really come to appreciate the “local food thing you need to try,” because people take pride of a city in terms of food, and there’s a lot of value to that. You learn a lot from that, just like a sports team or something similar.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Welcome to Maddy's Monthly Meme Madness, where we take a look at the Top 5 most-liked memes on Carnegie Mellon Memes for Spicy Teens posted in a month.
+"Carnival/Summer Break" by Madeline Kim (10/10)
+Note: to avoid conflict of interest, this meme is reviewed by Nora Mattson.
+This spoke to me as someone who always plays Mario Kart with the sound on. This evidently is something that most of the student body relates to as well, since it was the most liked meme. Or maybe they just relate to the feeling of intense time pressure and stress we feel during this time. Either way, it represents that feeling beautifully. 
+"Canvas assignment" by Bobby Davis (9/10)
+We've all been there: submitting an assignment at the last possible minute and tossing out our last scraps of dignity that we didn't know we had before the deadline. The only reason that I knocked off a point is the lack of originality; this was posted on various college meme pages with no changes (I'm on all the college meme pages I know of). Nevertheless, it's comforting to know that we are all standing in solidarity of carrying the burdens of our failed potentials.
+Yet another spicy meme from Jose and a format that I don't believe I've seen much of. I almost love it as much as I would love Carnegie Mellon to stop raising tuition. Almost.
+Jahanian's #Farnival was one of the top 10 anime betrayals, and Squidward's disappointment reflects mine. I'm still waiting for my Farnamoji shirt. C'mon, Farnam.
+The only thing stopping this from being a 10/10 meme is the font choice. We are no longer in the dark ages of the early 2010s memes; please, for the love of god, use a different font. Nevertheless, the post-Carnival-pre-summer grind never stops. Please excuse me as I cry from my tenth mental breakdown for the day.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+The meal I ate yesterday at Thai Gourmet was the best Thai food I’ve ever eaten in my life, without a doubt.
+The restaurant’s façade on Liberty Avenue, in the Bloomfield neighborhood of Pittsburgh, is unassuming. When I entered I was greeted by high ceilings, warm lighting, and walls filled with a rich assortment of Thai art and artifacts. Portraits of Thai royalty hang on guided plaques next to framed restaurant reviews written by the Pittsburgh Post-Gazette from when Thai Gourmet first opened in 2004.
+A few groups of people were finishing up their meals when I sat down. The restaurant wasn’t empty but it wasn’t crowded, and the food looked good. A friend of mine had said that Thai Gourmet was her favorite Thai restaurant in Pittsburgh, but besides that I didn’t know what to expect. The menu had the sections one might expect from Thai cuisine; noodles, curry, fried rice and stir fry. But it also had a section for salads and soups, which intrigued me — I love Thai food, but as of late, green curry with chicken has been feeling too routine.
+I ordered the Yum Neuh, a flank steak salad topped with a spicy lime sauce, and the Tom Yum, a lemongrass soup with tofu and mushrooms. I’ve never had either of those dishes, but I wanted to shake things up.
+The soup came out first. It was served in a small round bowl, in which the broth looked foggy and red. After slurping down the first spoonful my eyes jolted up. My taste buds were excited by a brilliant tang with a slight spice to it. Another spoonful. It tasted of tomato, citrus, and cilantro. The tofu was nicely soft — but not too soft — and the mushrooms were delicious.
+When the waitress brought out the salad, I said, “This is fantastic!” She smiled at me and said, “Wait until you try this.” I took a bite and tasted vibrant lime. The flank steak was crisp and chewy, and the salad’s greens and cucumbers complemented the sauce’s spice really well.
+As I munched down I was overwhelmed by goodness. I didn’t know what to do. I quickly texted my friend who had recommended the restaurant “Holy shit!” Then I texted my uncle, who is a bit of a foodie, a picture and said, “You have got to try this.” I hadn’t been planning to write about my meal, but it was too good not to.
+In the midst of finals season, the food at Thai Gourmet is tasty enough to brighten your day and make you feel like maybe, just maybe, it’s all worth it. Thai Gourmet is definitely worth the trip to Bloomfield, which is only a short bus ride away from campus. This meal will probably lead you to consider studying abroad in Thailand, or at least coming back for seconds.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+This past month, the Pittsburgh City Council unanimously passed changes to municipal waste code 619 that will primarily affect renters and landlords in Pittsburgh. The changes will go into effect this summer. According to the office of Erika Strassburger, who spearheaded the changes, the “ultimate goal is to make it easier for people to recycle and hopefully increase the amount of material that is recycled.”
+Among the changes made, new provisions now require landlords to “provide both waste and recycling storage containers for their tenants, these must be watertight with close fitting lids,” and to provide Pittsburgh specific recycling literature “to tenants as part of leases,” said Moira Egler, Councilperson Strassburger’s Chief of Staff, in an interview with The Tartan.
+In addition to these changes, violations of the new waste code will now result in notices being sent to both the tenant and landlord and the mandate to recycle will be made more explicit in the code itself.
+Small recycling changes have been clarified, as stated in the Pittsburgh Public Works waste regulations website
+These include the ability to place recycling out in blue translucent bags and the codification of set out times as being “no sooner than 6 p.m. the day prior to collection, no later than 6 a.m. day of collection,” and bin retrieval times as being “by 10 p.m. the day of collection.”
+The legislation was an effort made in partnership with the City of Pittsburgh Bureau of Environmental Services and with the office of Pittsburgh Mayor Bill Peduto. It passed unanimously in the council with few amendments.
+The only pushback on the legislation came from a collection of residents that raised concerns about the code’s initial bin retrieval time, which was that bins had to be removed from side streets no later than 7:00 p.m. Some residents, like those working odd hours or with afternoon and night shifts, would be negatively affected by this set time.
+Addressing these concerns, the latest possible retrieval time was pushed back to 10:00 p.m. in the now-passed legislation. Previously, the legislation did not enforce a specified removal time.
+In response to the prospect of rent increases due to the mandate that landlords provide waste bins, Egler stated that the office “[hasn’t] heard concerns” about such an issue, and that “the containers are pretty reasonably priced.” Egler then noted that the mandate is specifically for “apartment buildings with five and fewer units,” and that these changes are “common sense provisions that are not a hardship in any way but are practical in keeping these properties clean as they can be problematic, especially in places like Oakland.”
+The office of Councilperson Strassburger also consulted with the Oakland Planning and Development Corporation, who have “a lot of contact with landlords,” to ensure that the legislation was a “pretty reasonable ask for landlords,” Egler stated.
+Egler is confident with how the Pittsburgh Department of Public Works is poised to undertake what might be an increase in recycling rates. She noted that “[the Pittsburgh Department of Public Works] is perfectly capable of taking on more… we have a pretty extensive fleet of trucks.”
+The code also clarifies something that has always existed but was once “kind of buried,” in the code: that Pittsburghers are indeed required to recycle. This legislation makes this mandate far more explicit to residents.
+Egler admits that this code update is a “first basic step” towards a more eco-friendly Pittsburgh, and is in line with what District 8’s Councilperson Strassburger, a longtime advocate for environmentalism, ran on. “[It is a] really important first step to accomplishing some larger zero waste goals [we] have,” Egler said.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Pittsburgh Mayor Bill Peduto is continuing his effort to get his stalled fund for social and sustainable action in Pittsburgh, OnePGH, off the ground.
+A panel this past Thursday titled “The City of Pittsburgh, OnePGH, and Alignment with the Sustainable Development Goals” brought this discussion to Carnegie Mellon’s campus. Speaking alongside Peduto was the head of Heinz College in Washington, D.C., Amb. Sarah Mendelson, serving as the panel moderator, and panelists Leah Lizarondo, Heinz alum and CEO of 412Food Rescue, Jerry MacCleary, CEO of materials company Covestro, and Anthony Pipa, Senior Fellow at the Brookings Institution.
+The talk was framed around Pittsburgh’s interpretation of the Sustainable Development Goals (SDGs): 17 markers developed by the U.N. as a guide for global growth. These goals, Peduto claims, align with the 10 areas developed by the Rockefeller Foundation and the City of Pittsburgh for the city’s 12-year resiliency plan. These, in turn, became Peduto’s proposed OnePGH fund, which would funnel money from the city, local nonprofits, and corporations to organizations working toward 47 planned projects.
+Peduto emphasized the importance of action on the city level, citing a “vacuum of leadership in Washington.” However, according to Peduto, OnePGH is neccesary because the City of Pittsburgh does not have the leverage to act on its own. “[The projects] can’t happen under old models. Old models are city government,” said Peduto.
+“We don’t have the capacity to address hunger and poverty,” said Peduto, “but if we create a separate organization that then helps those that are on the ground addressing hunger and homelessness, and being able to use that organization to prop up the nonprofits throughout the city and this region, then we can get to our goals together.”
+MacCleary, when asked by Mendelson how private industry can fit into the SDGs, said that Covestro was motivated by the need to “attract the best and the brightest, and if you’re not doing the right things, you’re not going to have a sustainable business for very long.”
+Lizarondo was the respresentitive on the panel of the nonprofits that OnePGH might partner with. She highlighted how her organization, 412Food Rescue, represents a combination of social action and sustainability efforts. “SDG 12.3 is ‘reduce food waste,’ SDG 2 is ‘end hunger,’ so these are interconnected,” she said.
+Peduto notably floated an idea during the panel to influence outcomes by leveraging the purchasing power of cities. If cities bought only from distributors who didn’t make “cop killer” bullets or sell automatic weapons to civilians, Peduto asked, “Imagine the effect that would have on the market. Now imagine the same thing if we were purchasing based on SDGs. We could change the industry internally.”
+“If you want to change behavior, you have to change how you procure,” agreed MacCleary, citing Covestro’s policy of working with companies that have environmental action plans, continuing, “I think that you can get there without the regulations and legislation sometimes.”
+When speaking to members of the press after the event, Peduto was pressed about the timeline for OnePGH.
+“We don’t have a hard commitment that people are looking for from the universities and the hospitals. We have a commitment, but [haven’t drilled] down to specifically what that will be,” said Peduto in response to a question about the launch of OnePGH, which has failed to meet Peduto’s timeline, continuing that he doesn’t want to progress without concrete numbers: “I don’t really want to have an announcement just with a plan.”
+These contributions to the fund are expected to be made up in large part by large tax-exempt organizations like UPMC, Highmark, the University of Pittsburgh, and Carnegie Mellon. Nonprofits own 36 percent of the city’s land, according to the Pittsburgh Post-Gazette, for which the city collects almost no tax revenue. Elected officials, the Post-Gazette finds, often point out that these same organizations benefit from city services. This fund would be an alternative to voluntary “payments in lieu of taxes” to the city government.
+The plan has received criticism from County Controller Chelsa Wagner, who told the Post-Gazette that “the OnePGH concept, to the extent that it has been defined at all, smacks of the outsourcing of government to elite, private interests.”
+In response, Peduto told reporters that the alternative, payments in lieu of taxes, would be smaller and directed towards the current city budget instead of the resiliency goals outlined for OnePGH. “If we’re going to address the major issues facing the city over the next 12 years, we need to be able to do it in a way that is outside of the way it was done in the past.”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+“Numbers do not speak for themselves,” said Sir David Spiegelhalter, a world-renowned statistician, to a crowd of nearly 100 professors and students who had gathered in McConomy Auditorium to hear him speak. “The stories we tell, the way they’re packaged makes all the difference to their emotional impact.”
+We are living in the age of data. Technology plays a bigger role in people’s daily lives than ever before, and many of society’s core issues can be reframed as statistical problems. Yet it is also the age of misinformation, and the field of statistics is facing more challenges than ever before.
+Sir David Spiegelhalter’s lecture on Monday, April 22, was the second installment of the Stephen and Joyce Fienberg memorial lecture series. Stephen Fienberg, who died of cancer in 2016, was the head of the Carnegie Mellon statistics department. He was highly respected and influential in the field of statistics for his dedication to applying statistics for societal good. Joyce Fienberg, Stephen Fienbergs’s wife who perished in the Tree of Life synagogue shooting last Oct., worked as a researcher at the Learning Research and Development Center at the University of Pittsburgh and was a great supporter and friend of the statistics department at Carnegie Mellon.
+“Steve sets a high bar for how statistic are communicated,” said Sir David Spiegelhalter. In his lecture, he focused on how statistics are manipulated for sensational and persuasive means. Spiegelhalter serves as a chair at the Winton Centre for Risk and Evidence Communication, which is part of the University of Cambridge’s department of mathematics. In his career, he has published over 200 papers and written several books. He has spent the last decade focusing on the application of statistics to everyday life, appearing in numerous T.V. specials on BBC and CNN to discuss issues related to probability and climate change. In 2014, he was knighted for his service to medical statistics, but he jokes that his greatest achievement is an appearance on the game show Winter Wipeout.
+Spiegelhalter explained the pipeline of statistical evidence. Initially, data is collected by researchers and statisticians. Their research is then passed on to journals and the commissioners of the research, all of whom may have “selection biases.” Then the research is turned over to the press offices “who decide what to put out and how to package those numbers so that it will get coverage,” said Spiegelhalter. Then, journalists interpret the press release and write an article, editors slap a headline on, “and then finally we see it,” said Spiegelhalter.
+“As soon as I see a story with statistics in it, on principle, I don’t believe it,” said Spiegelhalter. For a story to be published in the news, it must have passed through a cycle of distortion, sort of like a game of telephone, and he sees that as reason for skepticism. “The end result is this,” he added, motioning towards a graphic of the Daily Sun’s front pages. Attention grabbing headlines were printed in all-caps on each, including “Snoring raises dementia risk,” “Eat curry to beat dementia,” and “Snoring linked to Alzheimer’s.”
+Spiegelhalter delved into multiple case studies of how statistics can be distorted. He showed one Scandinavian study that found a consistent association between high socioeconomic status and higher rates of brain tumors. He explained that this could be an “artifact,” an inconsequential or erroneous finding because “rich people get better health care and are more likely to be diagnosed with anything that’s wrong with them.”
+But this caveat did not stop the press offices from publishing the study with the headline “High levels of education linked to increased risk of brain tumor risk.” News sources all over the internet then published articles with headlines that read “University causes brain tumors.” The audience in McConomy erupted into laughter.
+To demonstrate how numbers are used to persuade rather than inform, Spiegelhalter deconstructed the Brexit Leave campaign’s infamous red bus ad that read “We send the EU £ 350 million a week.” This bus ad, which he called “nonsense,” is said to have won the Brexit campaign.
+“It is a powerful emotional appeal,” but Spiegelhalter showed how the statistic is not exactly truthful. If you calculate that number per British citizen, of which there are 60 million, the number falls dramatically. If you calculate it per day, it’s about eighty pence, the price of a pack of cheese and onion chips. “So: we send the EU a packet of cheese and onion potato chips everyday,” said Spiegelhalter. “It doesn’t sound so good does it?”
+At multiple points in the lecture, Spiegelhalter’s clicker malfunctioned. “No, no, no, no — too fast, too fast” Spiegelhalter said as the presentation rapidly progressed through dozens of slides. The audience laughed, and Spiegelhalter, whose sense of humor was on display, played along. “Oh, this is disastrous,” he said, and resorted to using his laptop.
+In order to combat the misuse of statistics, Spiegelhalter and his colleagues at the University of Cambridge have been working with the press offices to disprove or mitigate the sensationalism of statistical findings before they cause public health scares. They successfully challenged a statistical finding about the danger of burnt toast in 2017. Yet, not every case can receive so much attention.
+Spiegelhalter resolved that statisticians need to demonstrate trustworthiness by being honest about where uncertainty lies in their studies. Research has shown that audiences do not trust a range (between A and B) any less than a single result (A). For accountability, the background information of any study should be made accessible and readable.
+Because of this responsibility, Spiegelhalter closed his lecture by calling for statisticians to be trained in ethics and communication, and to be more active in the public sphere.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+On Saturday, a gunman entered a synagogue in California shouting anti-Semitic slurs, and opened fire with an AR-15 style gun, as reported by The New York Times.
+The shooting left a 60 year old woman dead, a rabbi wounded in his hand, and two others injured by shrapnel wounds.
+It occurred on the Sabbath, and the last day of Passover, a week-long holiday that celebrates Jewish liberation from slavery.
+The shooting took place at the Chabad of Poway. Poway is a suburban town about 25 miles north of San Diego.
+The shooting occurred exactly six months after the Tree of Life synagogue shooting that jarred Pittsburgh and the Jewish community at large on Oct. 27, 2018. It is the most recent in a series of deadly attacks in houses of worship, including the mass shooting in mosques in New Zealand last month and the church bombings in Sri Lanka last week.
+The gunman has been identified as John Earnest, a 19 year old from San Diego. He fled the synagogue after the shooting, but soon after called the California Highway Patrol to report his location and was apprehended.
+Police are reportedly investigating a manifesto that was posted on 8chan before the shooting, which is filled with white nationalist conspiracy theories and racist slurs, as reported by The New York Times.
+Last year, a study released by the Anti-Defamation League found a 57 percent increase in anti-Semitic incidents.
+Jonathan Greenblatt, the chief executive and national director of the Anti-Defamation League, told The New York Times that “This was a pointed attack on Chabad, on the visible Jewish community here, and this is a collective attack on all Jewish communities — this is anti-Semitism unleashed.”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Driving Under the Influence
+A university police officer conducted a traffic stop on a vehicle that was driving the wrong direction on Forbes Avenue.  The driver was found to be intoxicated and was placed under arrest for driving under the influence.
+Domestic Incident
+Carnegie Mellon University Police assisted the Pittsburgh Police Department with a domestic incident on Forbes Avenue between two non-Carnegie Mellon affiliates.
+Suspicious Male
+ University Police responded to reports of a suspicious male who was sleeping inside the Cohon University Center.  A non-Carnegie Mellon affiliate was escorted off campus and issued a defiant trespass warning.
+Retail Theft
+University Police responded to the Tepper Quadrangle for a retail theft.  An investigation is ongoing.
+Hit and Run
+University Police responded to the East Campus Garage after a vehicle struck a parked vehicle and failed to leave their contact information.  An investigation is ongoing.
+Theft of a Bicycle
+A Carnegie Mellon student told university police that their bike was stolen outside of Purnell Center.  An investigation is ongoing.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Now that finals and summer break are just around the corner, it’s a good time to reflect. Specifically, it’s a good time to reflect on our collective attitudes about stress and summer break. After a year of rigor and stress, students are under the impression that the summer exists only for more rigor and stress, whether it’s from that coveted internship, taking an infinite number of summer courses, or research. There’s as much unhealthy stress surrounding what to do during the summer as there is around academics. 
+Carnegie Mellon’s culture of hard work and stress is well-documented. Based on one Business Insider ranking, Carnegie Mellon is ranked fourth in terms of the most hard-working students. Lists consistently rank the university as one of the most stressful colleges in the US. This reputation that precedes the university has an impact on the student body too. Students are generally aware of this and know how tough it is here. The stress of the university is a source of endless jokes, and there are constant complaints about the rigor and difficulty of the university. 
+While the work is difficult, this cycle of stress is mostly self-inflicted. The university pushes students to take more and more difficult courses, but stress culture is not solely the fault of the university. Rather, it’s that students can’t seem to find a good balance. As a whole, the student body opts to take as many difficult courses as possible during the semesters to make themselves more competitive and qualified. Sometimes, students will do it just for the sake of it. Everyone has an anecdote of those friends who take Concepts and 112 in the same semester because “they have to,” or because others are doing it. To top it off, there is constant pressure around future plans, from what to do for the summer or what to do after college. This generates a feedback loop as a result, where in order to secure a good future plan, students overwork and tire themselves out. 
+Future plans are important. But there is a misconception, promoted by Carnegie Mellon, that studying at a university is a gateway to getting a job. While there's some truth to that, there's much more to it than that. Colleges are communities for individuals who value education and learning. They're opportunities to explore, meet new people, and develop passions. But students don’t treat it as such. The mentality is that the work is all in service of a "greater" goal, mostly to either get a job or find some stereotypical form of success. 
+As a result, many students don’t find university a fun place to be, and many just can’t wait to leave. Going to school isn’t inherently fun, but it shouldn’t be such a dreadful experience that the only thought a student has while there is how much they want to leave. Imagine how much more productive and fulfilling university life could be if the mentality changed from maximizing the likelihood of getting a job to maximizing how much they can get out of their university experience. 
+We speak about this problem universally because Carnegie Mellon is not alone in this issue. The problem is very apparent here, but the culture of overwork is hugely prevalent in modern society. College stress culture is a plague for many universities and there is no easy way to address it; it's so rooted in our society’s views of what success means that it may not be possible to completely separate the two. 
+The worst aspect of stress culture is our view of breaks. Breaks are no longer a time to be able to de-stress; instead, they have become an opportunity to do more work. If students don’t get a prestigious internship during a break, then that’s viewed as a failure in their eyes and only prompts them to overwork themselves more during the semester. 
+But it doesn’t have to be this way. There are small things that we can do to deal with stress culture. Maybe instead of studying all night for an exam and trying to cram in as much information as possible, get some sleep and trust your ability based on what you know. Instead of taking every difficult course in one semester, spread out the workload instead.
+Most of all, we want to encourage everyone to use your breaks wisely. If you are working at some company, doing research, or taking classes, try to take it easy as much as you can. If you don’t have any summer plans and are frantically looking for something, don’t stress about it. Everyone should use the summer as a time to rebuild themselves and branch out, explore, and maybe even have some fun. 
+The present is fleeting, and the future will be affected by how you treat your present. If you treat it as a time to stress yourself out, then that just negatively impacts your future. You’ll look back on your time with anxiety and you’ll likely continue the same practices of stress in your future. So take the time to slow down now and take a break: a real one. Your future self will thank you for it.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+I visited the Notre Dame cathedral around middle school. I remember sliding into one of the pews, taking out my sketchbook, and drawing the visual spectacle that was before me. I have that sketchbook at home, the plastic wrap still covering the page as my makeshift prevention device from the graphite rubbing off.
+That memory obviously remains a very pleasant one, and I still feel very connected to the cathedral and Paris in general. Seeing Notre Dame burn was sad and surreal, and I can only imagine what it was like for the actual residents of Paris or Catholics who find the building symbolic and important. 
+As with all situations of this kind, the worldwide community demonstrated solidarity and unity by offering messages of support and fundraising. While heartwarming in a vacuum, it felt incredibly unfortunate to see the type of response that so many previous tragedies could have benefited from had they only been less in the periphery of the Western world. When the smoke cleared, it revealed the ugly underside of an inward-looking white world. 
+The National Museum of Brazil suffered a devastating fire in September 2018. Unlike Notre Dame, which lost just a roof and spire (and most artifacts were saved), the museum lost 92.5 percent of its near 20 million objects. The museum had some of the most unique specimens on Earth, and along with the fire, the world lost quite a bit of very irretrievable knowledge. Yet ask almost any random person on the street, or even anyone who posted a Notre Dame picture with hearts on it to their Instagram story about the museum fire, and most will draw a blank. 
+The world is a lot more Eurocentric than we think or realize. It wasn’t until I saw the Notre Dame fire and felt assured that it would be quickly rebuilt with worldwide fundraising efforts, despite no construction having started yet, that it occurred to me to look up where the National Museum of Brazil is now. While I did not expect it to raise all the money it would need to rebuild, the number I read was lower than anything I could anticipate: about R$1.1 million (Brazilian reals), or approximately $280,000.
+That’s an appalling number, and even more so considering the fact that the museum will likely require R$400 million, or approximately $100 million. The museum is not the only location that has been neglected just because is not the priority of predominantly white societies. The same can be said of Puerto Rico, Flint, black churches in southern Louisiana, Haiti, and many more. 
+It doesn’t necessarily have to be limited to buildings or geographic locations. If the same vigor that was applied to a roof was dedicated to fixing world hunger, malaria, and climate change, the world would be a lot further along. 
+Support for Notre Dame and these museums, diseases, cities, and black churches are not mutually exclusive. The Notre Dame fundraising effort has received nearly a billion dollars and deserves every penny, whether it be for rebuilding or the subsequent maintenance. Nevertheless, rich people have money to spare, so donations should not be limited to places in the Western world that look nice with stained glass windows and gargoyles.
+More attention needs to be given to problems and tragedies outside of our Western bubble. If you want to help, a good starting place could be to donate to the National Museum of Brazil.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+In March 2016, I found myself moving out of my first-year dorm, against my desires, because I believed it was the only thing I could do to feel safe again. It has taken me three years since then to fully understand the complicated layers of the events that led me to move out. I believe that Carnegie Mellon could have done a lot more to help me understand how I had been victimized and abused.
+As it turns out, I was involved in a case of domestic violence and stalking my first year that I would only begin to understand much later, when my abuser reentered my life. Back then, I knew that I was scared, but I did not understand that I was being abused. Abuse comes in many forms, and it can sometimes be much harder to recognize when you are being manipulated. My perceptions also depended so much on how others reacted to my situation. When my roommate and I told our housefellow that we felt unsafe around my abuser — he continued to show up wherever we were — our housefellow told us that he could not make him move but that we could move if we needed to. This response twisted my own understanding of the situation, and I blamed myself for everything. We loved our first-year floor, and the individuals who had been our very first and closest college friends. We reluctantly packed up our suitcases in the middle of the semester and trudged across campus into an enormous building of over 600 upperclassmen residents.
+It is important to understand that the situation I was involved in is not unique. In March 2018, the findings from Carnegie Mellon’s second “Sexual Assault and Relationship Violence Study” (SARV) were released to the community, the second study of its kind here. Focusing on undergraduates, the response rate of this study was 29.5 percent. In this sample, 25.8 percent of women, 7.9 percent of men, and 22.9 percent of non-binary students reported experiencing completed sexual assault. Additionally, the same study found that 21.7 percent of women, 18.7 percent of men, and 17.1 percent of non-binary students reported experiences indicative of relationship violence. These results are not significantly different from the results of the 2015 version of the same study, so it is clear sexual assault and relationship violence at Carnegie Mellon are not becoming any less of a problem.
+As time passed, I buried my experiences deep and never really stopped to think much about them. In fact, it was too painful for me to think about. Over the coming months, I was supported by a therapist in Counseling and Psychological Services (CaPS), my housefellow, and my friends, and I began to feel safe again. I worked as an RA and received some training on mandatory reporting with cases of sexual assault and relationship violence. I learned how to refer other students to Title IX. However, I still could not understand my own situation as abuse, and what I learned was not enough to help me deal with my own very real situation. I forgot about my abuser entirely, and I really never saw him around campus again until the fall semester of my senior year.
+When my abuser began to show up at a regular event I was running, I expressed my feelings of discomfort to my advisors. I was told yet again that there was nothing they could do to make him leave the groups, but that I could take a backseat on the event I had created and stop attending. This response further altered my understanding of the situation, but two-and-a-half years later, I finally recognized that something was not right. This was the second time I was being forced to accommodate my abuser. I spent many months trying to understand this, and I had many conversations with faculty and staff that never led to any results. Finally, when unexpectedly telling my story to another housefellow this year, he suggested that I go to the Title IX office. This was the first time in two-and-a-half years that I recognized myself as a victim. This was the first time I understood that it was not my fault and that Title IX could be a resource for the things that were happening to me.
+For a long time, I thought that maybe my story had changed over the years as I told it, and that was why other faculty and staff had failed to refer me to Title IX for so long. I thought that I had failed to make it clear to others that I had been abused since I, for so long, could not fully articulate it myself. But when I look back now, I know that is not true. My story was always the same. The stalking and the violence were right on the surface. The fact that my voice was not being heard was further reinforcing my own beliefs that it was all my fault. When I look back at all the people who failed to support me, I feel deeply saddened. There is no anger, no desire for condemnation or consequences; only sadness. Sadness for these faculty and staff who I know to be deeply good people, but who are still failing to support victims on our campus. Sadness for the students whose voices I fear are not being heard.
+The 2017 SARV study additionally reports that between 38.1 percent to 49 percent of students do not tell anyone at Carnegie Mellon about their assault experiences. 14 to 23 percent did not report because they did not know how, but between 8 to 18 percent did not report because they thought they would not be believed, and between 3 to 20 percent did not report because it was too traumatic to talk about. It is clear that our students need support, now more than ever.
+I want to protect my fellow students. I want you to feel comfortable reporting situations of abuse right away, and I want you to be heard the first time you tell your story. I believe our faculty and staff have an obligation to us. I believe they should have the training and knowledge to recognize abuse and refer victims to the right resources. Both students and faculty are failing to recognize abusive situations because they are not well educated on the reality of these situations. The bottom line is that peers and faculty/staff need to become better at recognizing abuse.
+I believe I was lucky. Despite a long, emotional process, I ultimately received the support I needed through our Title IX office. I also believe that they are trying to improve. In fact, Sexual Assault and Relationship Violence Prevention Week is currently underway, and Title IX is partnering with many organizations across campus to educate students and raise awareness on these issues.
+However, I also see a lot of holes in my education. I believe Title IX has many other great resources in place that are being under-advertised, under-taught, and consequently under-utilized. Unfortunately, most of the Title IX education during orientation involves consent. While this is extremely important, it is a small fraction of the education young 17-year-olds should be receiving when entering college for the first time. I believe we need to make enormous improvements in how we educate students during orientation and throughout their first year. Students need to learn from the moment they arrive on campus about what abusive situations look like, using scenarios and behavioral signs, and the specific resources Title IX provides. They should be told up front, before the abuse ever happens, what it looks like to place themselves in such a vulnerable scenario as reporting. Just as importantly, our campus faculty and administrators need to become more comfortable learning and talking about these issues, so that they can properly recognize situations and support students. It is even more important as we move forward that our faculty support our victims, as the reforms in the U.S. Department of Education Title IX become our new reality. 
+These reforms reverse the progress our government had made under the Obama administration in supporting victims, as they loosen the university’s requirements to respond to sexual assault and relationship violence. While the university used to be in violation of Title IX when they did not respond to situations they should have reasonably known about, soon they will only be required to respond when multiple reports of the same person are made to our campus Title IX office. These reforms only further silence the voices of our victims. We need our faculty and staff to stand up for us now.
+As for that housefellow who first directed me to Title IX, I will forever be grateful for how he empowered me and helped me find my voice. I hope that the students that come after me can more easily find the validation and support that he gave me.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Just last Sunday, Ukraine held the second part of their national elections to decide the president for the next five years. The comedian Volodymyr Zelensky won a landslide victory, defeating the incumbent, prominent politician and oligarch Petro Poroshenko. Zelensky had already won the first part of the elections, which narrows the choice of president to two candidates from a set of 44. This initial result came as a surprise to most commentators, but they assumed that Poroshenko, a serious politician, would win the second election as he would rally the votes from the smaller parties. This did not happen, and Zelensky won with almost 75 percent of the votes.
+Zelensky has a very difficult job ahead of him. Ukraine has become one of the most conflicted areas in Europe since Russia annexed Crimea, a peninsular region in southeastern Ukraine, as well as some regions on the eastern border.  The country has been in a heated war for almost five years. Further, Ukraine is divided between those who favor a relationship with western Europe, the North Atlantic Treaty Organization (NATO), and the EU, and the pro-Russia factions. A divided nation and a nation at war would be difficult for any seasoned politician to handle. Challenging is a nice word to use for the situation that now faces Zelensky, and his complete lack of political experience will not make it any easier. 
+There are many ways that the story of Donald Trump can be imposed onto Zelensky's election, but the most significant is how platforms were projected onto the candidates. Trump was infamously incredible at taking multiple positions on the same topic. It was rare that Trump’s history, tweets, and interviews would agree with his stated positions. This allowed for voters to project their platforms onto Trump, and a strange paradox was created, where two voters who held opposite positions on the same issue would both vote for Trump. Both kinds of citizens voted for an image of Trump that they created to fit the president they wanted, and neither knew the real Trump’s motivations.
+This same phenomenon occurred with Zelensky's campaign. With no serious and committed platform, or any voting history to check with, voters projected their platforms onto the candidate.  Some thought he would be pro-European, and others thought he would be pro-Russian, two highly motivating but mutually exclusive stances. 
+Further, both Zelensky and Poroshenko emerged from an incredibly distrustful political environment, where an outsider candidate can gain significant appeal. Zelensky ran strongly on anti-corruption, a position that sounds appealing but is difficult to implement. It’s a hugely popular issue in Ukraine, with a [2019 Gallup poll] finding that (https://news.gallup.com/poll/247976/world-low-ukrainians-confident-government.aspx), “91 [percent] in Ukraine say corruption is widespread in government.” Poroshenko’s image as a seasoned politician did not help him here, as his history was easily transformed into an image of corruption. This environment mirrors the situation during the 2016 elections, where “drain the swamp” became a prominent Trump slogan. Hillary plays the role of Poroshenko, and the demonization of her was either equal or greater. An anti-corruption position is almost always populist in nature, and it is clear both candidates maximized their public appeal by supporting unrealistic but popular positions. Zelensky promised $4,000 salaries for teachers and ambiguous reductions in tariffs and prices.  
+Very few know where Ukraine will go from here, but it is clear that the road will not be any smoother than before. Many think that Zelensky will be just as corrupt as his predecessor. One thing can be agreed upon: a weak Ukraine will benefit Russia and Vladimir Putin. It remains to be seen if Russia had a hand in Zelensky's election, but if Zelensky turns out to be easily corruptible or in Putin’s pocket, then Ukrainians may be facing another tough decade. 
+I think one important moral of this story is to show how effective new electioneering methods have become. As the 2020 U.S. elections rapidly approach, it's important that we remember what we learned from 2016: outsider candidates are not inherently good and platform projection is incredibly dangerous and misleading.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+I am a Chinese doctoral student attending Carnegie Mellon University and have spent almost five years on campus. Since the first day I arrived at Carnegie Mellon, I have been  surprised by the large Chinese or Chinese-American student community here. I sincerely appreciate the university's policies and assistance that make us feel at home — like the support to the Chinese Student Scholar Association (CSSA), language assistance to  Chinese students, and other China-related extracurricular activities — while concurrently providing us with the same knowledge, English language abilities, and the values of the U.S. that are extended to any other students regardless of their nationalities and ethnicities. 
+However, a news article on this weekend concerns me a lot. A Carnegie Mellon professor of the Institute for Politics and Strategy, Kiron Skinner, made an anti-Chinese racist remark during the Future Security Forum of the think tank New America on April 29. When she talked about the escalating competition between the U.S. and China, she argued that "it's the first time that we will have a great power competitor that is not Caucasian." While I do not want to comment on her opinion toward the trade war and mounting tension between the two countries, I am offended by her claim that since China is not a country of Caucasians, it should be treated differently from other "white" countries by the U.S. I feel that this kind of remark from a Carnegie Mellon professor is in contradiction of the values held by the university, and perhaps also by this country. Considering the large population of Chinese at Carnegie Mellon, such a remark has a detrimental effect on many students and scholars because there is a professor holds such a discriminatory view. 
+I would like the university to take this incident seriously and assure Chinese students and scholars that they will be treated fairly, regardless of the trade war or other confrontations between these two countries.
+The author is a Chinese doctoral student who wishes to be anonymous due to potential professional repercussions.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+In the next chapter of the U.S.’s drug crisis, opioids have taken center stage. What makes the opioid epidemic stand out from the other crises is that, while the others had a lot of international influence, such as cocaine from Colombia in the 1980s, the opioid epidemic has been engineered in the country itself by companies like Purdue Pharma. Since the development of Oxycontin, Purdue falsely marketed the drug by downplaying how addictive it was to drive up their profits. This led to them paying a $600 million fine in 2007, but it hasn’t really stopped the company since then. 
+Recently, Stat and ProPublica obtained a sealed deposition of Richard Sackler, who was president of Purdue Pharma and served on the board of the company. The deposition, as well as other lawsuits like a Massachusetts lawsuit, reveal a lot about him and the company, and it’s honestly very troubling. 
+The opioid crisis is primarily the fault of these large companies like Purdue Pharama and individuals like Sackler, and more has to be done to hold them accountable. They aggressively marketed to doctors and heavily downplayed the addictive properties of Oxycontin. They then had these doctors prescribe the drugs for whatever ailments they could, including basic arthritis and back pain. Their irresponsible tactics then led to Oxycontin abuse skyrocketing. Of course, since drugs like Oxycontin have only gotten more expensive, many turn to heroin as a result, which is cheaper and even more dangerous. 
+Several companies over the years have settled several lawsuits about their roles in the opioid crisis. But, when these companies pay settlements for lawsuits, how does that absolve them from crime? That just shows that they were guilty, but they are still allowed to continue. The fines are only a mild inconvenience for them. Purdue Pharma paid over $600 million in fines, but that’s nothing compared to the billions in revenue that Oxycontin brought them. 
+What’s amazing about these lawsuits and depositions is that it’s hard to even obtain these documents. The deposition that was leaked was sealed as part of the settlement agreement in 2015, and there were apparently 17 million pages of documents that were ordered to be destroyed as part of the settlement. What does Purdue not want the general public to see, and why do states agree to let them get away with destroying so much important context for the opioid crisis? These companies have so much power that they’re able to take so much advantage of the legal system to continue getting away with their crimes as they continue to profit off this crisis. 
+To add insult to injury, Richard Sackler himself was directly involved in these dealings. In the Massachusetts lawsuit, it was found that he was notorious for micromanaging as part of the board. At one point, he also said that the Oxycontin release would be followed by “a blizzard of prescriptions.” As the crisis worsened, he also urged the company to blame abusers of Oxycontin for the crisis to focus attention away from them. There is even more information like this that reveals just how much Purdue Pharma and Sackler knew about their role in the opioid epidemic. How he’s allowed to still walk free is baffling. 
+The U.S. has its priorities wrong. There is so much focus on drugs coming over the border, but when it comes to American drug cartels like Purdue Pharma, there isn’t much that is done against them. Richard Sackler should be in prison. So should several other executives of pharmaceutical companies that have mismarketed drugs and carried out egregious practices that have worsened the opioid crisis. They have the blood of tens of thousands of Americans on their hands, and they need to pay for it. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+College kids tend to be more socially conscious, and students at Carnegie Mellon are not an exception. Many of us feel that we have a moral obligation to take care of our environment and invest in our planet's future. Different projects around campus this academic year have demonstrated the impact of plastic waste. 2019's Carnival theme centered around sustainability. Different hackathons encouraged our undergraduate students to conjure up policies that could help curb our carbon output. All of these are fantastic initiatives, but what happens once we receive our diplomas and enter the workforce?
+In early March, our editorial board mentioned the lack of coverage on climate change. Although there are obviously parts of the topic that are outside our control (such as the impact big corporations and massive consumerism have on our planet), many of us are unaware of how our individual impacts can shape our future. We're cognizant of the usual "stop using plastic straws" and "cut back on meat and dairy" proposals, but what about one key aspect of our everyday lives after college: our careers?
+I'm not telling readers to abandon their ambitions of working for Google (I know too many of you are planning on camping out right outside Wiegand to secure a spot with a Google recruiter in the TOC). However, I don't think that challenging students in a university that prides itself on innovation and groundbreaking discoveries to consider how they can use their education to further advancements into building a more sustainable planet is too much to ask for, either. 
+It's easy to shift the blame for climate change entirely on people with more money, power, and resources than we do. Our individual impacts seem minuscule at best; what difference will swapping a beef patty for a veggie patty make on carbon emissions? However, by enrolling in such a prestigious institution of higher learning, it is our responsibility to strive to become leaders. We are privileged with high-quality education and resources that many people can only dream of having access to. Being complacent with the status quo not only undermines our potential, but also prevents the potential for a better future. Today as students, we can say that it's Big Oil's fault for tearing up our ozone layer, but tomorrow we may be using our business or computer science degrees to contribute to cryptocurrency mining (which has a catastrophic impact on our climate).
+Regardless of our majors or our fields of expertise, we can use our passions to help causes that will not only impact our current generations but generations to come. The purpose of education is to give us tools we can use to help society progress. Whether a degree in humanities to communicate information, or a STEM degree that helps us find more efficient sources for energy, or a degree in the arts to remind us of our humanity and why we should care for our future, we can all make an impact, even after we throw our graduation caps in the air and move on to the next chapter.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+

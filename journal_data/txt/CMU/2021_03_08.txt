@@ -1,0 +1,272 @@
+It’s no secret that Pittsburgh doesn’t have the highest water quality. From the presence of lead to disinfection byproducts, contaminated drinking water is dangerous for everyone, especially vulnerable populations like children and pregnant women. Consequences of impure drinking water include birth defects, developmental defects, and various cancers, so ensuring that the water you drink is safe is crucial for your short- and long-term health.
+One of the easiest ways to do this is by purchasing a filter, the most popular brand being Brita. Many of you probably use Brita filters already or are at least familiar with the product and its variants, from the pitchers to the sink attachments. To the average consumer, Brita filters are just black boxes that take in tap water and output relatively cleaner drinking water. However, the science behind them is surprisingly simple for something that plays a pivotal role in our health and wellbeing.
+The fundamental principle behind Brita filters is adsorption, not to be confused with absorption. Most filters, Brita included, contain a large amount of activated carbon distributed across a large surface area. This activated carbon layer acts as a sponge and causes contaminant particles, like lead, mercury, chlorine, and pesticides, to adhere strongly to the carbon. This effectively traps the contaminants, preventing them from proceeding into the drinking water. In addition to the typical activated carbon layer, Brita filters also have an ion exchange resin which helps capture copper, zinc, and cadmium.
+Brita filters are great at what they do, but it’s important to remember that no matter how well-designed the filter is, it has its limitations in both effectiveness and longevity. While Brita filters can screen out a lot of heavy metals, pesticides, and organic materials, they can’t remove everything. However, the purification from the Brita filter combined with the water treatment systems employed by cities yield water that is safe enough to drink, so while it’s not perfectly pure, it’s good enough for consumption.
+It’s also very important to pay attention to the lifespan of a filter. Because they work through adsorption, once the surface area of the activated carbon layer has been taken up by trapped contaminants, the filter is not nearly as effective. Using a filter past its limit is risky, so replacing the filters according to specifications is critical. It’s an easy thing to do, but it's even easier to forget; if you have a Brita filter somewhere that’s well past its lifespan, now is the time to switch it out.
+In an increasingly polluted world, the purity of our water supplies is becoming harder to maintain. Investing in a filter is a great way to ensure the safety of your drinking water, so if you are not already using some kind of filter, go out and get one. Any kind of filter is better than no filter, and filtered water beats tap water in every way.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+AI tracks bias in movies across the decades
+Recently, some old movies came under renewed scrutiny for glorifying racism and misogyny. Seeking to quantify some of these social biases in films, Carnegie Mellon Language Technology Institute (LTI) researchers Kunal Khadilkar and Ashiqur R. KhudaBukhsh used automated analysis to study 100 Hollywood and 100 Bollywood films over the last 70 years. By analyzing the subtitles of each of these films, they found evidence of gender and cultural biases. For example, they found that between the 1950s and today, movies have used noticeably more male pronouns than female pronouns, and births depicted in movies during the '50s and '60s were more often males.
+Read more about it here.
+Researchers show how wildfires may affect cloud formation
+As climate change contributes to deadlier weather events such as wildfires, researchers, including Carnegie Mellon Professor Ryan Sullivan, have tried to understand how wildfires contribute to changing weather patterns. The researchers burned biomass and studied the ice-nucleating particles that the smoke released. These are particles that can make water freeze at a higher temperature in the atmosphere, and it was found that these particles became more effective as they aged. This may help researchers understand weather patterns better in the future, as ice-nucleating particles affect whether clouds precipitate.
+Read more about it here.
+CMU lab recognized for cataloging emissions
+The Shenango Channel, a collaboration between the CREATE Lab and Allegheny County Clean Air Now (ACCAN), received the Constellation Prize, an award that honors engineers who "elevate the values of environmental protection, social justice, human rights, and peace." The CREATE Lab helped set up high-definition cameras pointed at the Neville Island Shenango Inc. coke plant and recorded thousands of emissions. The Shenango coke plant shut down in 2016 after The Shenango Channel's reports resulted in multiple citations by the Allegheny County Health Department.
+Read more about it here.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Thanks to a new breakthrough from Northwestern’s McCormick School of Engineering, it may be possible for surgeons in the near future to treat many neurodegenerative diseases by inserting healthy neurons into ailing patients. 
+Using a new biomaterial, scientists may be able to mimic the properties of healthy human brain tissue and “grow” neurons in a laboratory. These lab-grown neurons can then be transplanted into patients with Parkinson’s, Alzheimer’s, and other neurodegenerative diseases. In addition, this biomaterial can be combined with the patient’s own healthy neurons to create personalized treatments. 
+Much of this research began all the way back in 2018. Dr. Samuel I. Stupp, director of Northwestern’s Simpson Querrey Biomedical Research Center, and his team published a paper that brought to attention special molecules that were said to be “highly dynamic.” These molecules had the ability to travel over long distances and organize by themselves into bundles of nanofibers. These bundles of nanofibers eventually earned the name "superstructures" due to their ability to cover long distances.
+Once the researchers discovered means of controlling the self-organization of these molecules, they were able to modify the superstructures that they created, both from a nano-scale and the scale visible to the human eye. 
+Stupp eventually went on to direct the research group that continued his work with dynamic molecules in 2020. The formation of a new biomaterial created by these superstructures was found to enhance neuron growth due to a molecule in the biomaterial mimicking the protein that activates neural connections. Known as tropomyosin receptor kinase B (TRKB), this protein usually serves as a receptor for many neurotrophins, or growth factors that influence neurons. One of the main neurotrophins that activates TRKB is brain-derived neurotrophic factor (BDNF).
+BDNF allows neurons to be more “plastic” by enabling them to form more connections. In addition to plasticity, increased levels of BDNF in the human brain have also been linked to increased sensitivity in the reward-circuit. When observed, however, its past usage as a form of therapy for injuries in the spinal cord has proven to be expensive. 
+Thus, engineering neurons within a laboratory may be a more affordable alternative to BDNF engineering.
+As far as the next steps of this breakthrough are concerned, Stupp has proposed further research in other areas of regenerative medicine, mainly cartilage and heart tissue, by applying new chemical changes to this biomaterial.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+I've been trying to find creative ways to meal prep a bunch of food at once recently. But rather than make something really bland and boring for the prep, I’ve tried to not be boring and make something that I wouldn’t get tired of after seven days of eating it while still being pretty healthy. If you’re in this boat, here are two recipes that you can try out that aren’t too hard to make. There will be one non-vegetarian recipe and one vegetarian recipe (the vegetarian recipe is also vegan). 
+For the record, I am no chef by any means. I just take stuff and throw it together and I eyeball all the measurements for spices. You can adjust any of this as you see fit, and I’ll specify how much of the main ingredients I used to make your life easier. 
+The non-vegetarian recipe: jambalaya
+This recipe is based on this recipe I got here, but I changed around a few steps and am adding in some important details to help make your cooking life easier. Jambalaya is a really rich and flavorful rice dish, and it perfectly balances every food group, which is an added bonus. 
+Ingredients:
+Equipment:
+Preparation: 
+The actual cooking: 
+This should last you a while. I made a giant pot to split with my housemate, and it took us a week to get through it. 
+The vegetarian recipe: tofu coconut curry
+This is a recipe my best friend helped me come up with (meaning she told me what to throw together because I am incompetent) and that I’ve adjusted a bit since then. It’s sort of a Thai-Indian fusion that works better than it should. I normally would make this as a fish curry, but since I’ve started eating more vegetarian recently, I have substituted the fish with tofu. If you are non-vegetarian and want to use fish (which I highly recommend), just replace the vegetable masala in the ingredients list with a fish curry masala and use fish and/or oyster sauce instead of using sesame oil and soy sauce. 
+Ingredients: 
+Equipment:
+Preparation
+Cooking
+This is a really fun recipe, although finding all the spices will be a chore in and of itself. You can also just improvise with a lot of the spices and do your own thing. That’s part of the fun of cooking. Also, as I said earlier, you can use fish instead of tofu, but you can also sub in whatever protein you like for this. The steps will still be the same. You’ll just have to adjust which masalas you want to use. I also highly recommend doing overnight marinating. I’ve found that it’s better, it splits the effort over two days so you’re not spending too much time on one day cooking, and it forces you to plan when you want to cook, which is good if you’re like me and bad at managing your time. 
+I hope these are fun recipes for people to try out. Like I said, they’re healthy and you can make a lot of it to last you for several meals. Given that I’ve gone bald and am complaining about how social media is ruining us, I should accept my role as a grandpa and just cook for everyone. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+All times are in EST
+Leading Conversations in AI: The need for more women in AI is now!
+Monday, March 8: 4:00 p.m. - 5:00 p.m. via Zoom
+Carnegie Mellon’s School of Computer Science empowers women to challenge STEM stereotypes. The leading conversation in AI? We need more women! Hear from notable women in AI on gender equity within their field. You can watch the discussion, presented by the Deloitte AI Institute and Carnegie Mellon's Integrated Innovation Institute, by clicking this link. 
+Stay Grateful: A Weekly Gratitude Practice
+Tuesday, March 9: 1:30 p.m. - 2:30 p.m.
+The Carnegie Mellon University community is meeting again this week for an exercise in mood regulation, resilience, happiness, and satisfaction. As the semester begins to become more stressful, learning about gratitude can help with stress management. The Zoom Meeting link is here. 
+School of Drama presents New Works Series
+Wednesday, March 10: 6:30 p.m. - 11:00 p.m.
+Watch the next generation of dramatic writers in the School of Drama’s New Works Series! Stream the series to watch their works and learn about how the School of Drama is fostering collaboration between students of various disciplines to mirror the creation of work in the professional world.
+Startup Job Fair
+Thursday, March 11: 12:00 p.m. - 3:00 p.m.
+Are you looking for a job with a startup? If so, the Startup Job Fair is the perfect opportunity for you to network with employers, learn more about companies’ initiatives, and find your fit! The link to register is on Handshake.
+Immigrant Connection Hour
+Friday, March 12: 1:00 p.m. - 2:00 p.m.
+If you are an immigrant interested in finding a safe space to connect with other immigrants, join Dareen Basma, Shubhara Bhattacharjee, and Mengchun Chiang’s Immigrant Connection Hour. The Zoom ID to join is 969 6481 1810.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+The Hollywood Foreign Press Association’s (HFPA) 78th Golden Globe Awards took place this year on Feb. 28, 2021, from 5:00 - 8:00 p.m. EST. Hosted by fantastic comedians Amy Poehler and Tina Fey, each gave their opening monologue bicoastal: Poehler from the Beverly Hilton in Los Angeles and Fey from the Rainbow Room in New York City. They poked fun at the distance as well as being virtual in an award ceremony setting. They highlighted a portion of the nominees in which the technology team was able to cut to live Zoom video feeds of said movie and television stars watching the ceremony from the comfort of their homes. 
+As they should have, Poehler and Fey highlighted the severe lack of diversity and representation in the Hollywood Foreign Press Association as well as their disregard for nominating a more diverse pool of actors and crew members from underrepresented films or television series. Poehler mentioned specifically that “A number of Black actors and Black-led projects were overlooked” by the HFPA. In addition to this, they mocked Sia’s movie Music by referring to it as a “flopperoony” and emphasizing the controversy of the casting decisions made. 
+Some of the selected winners of the 78th Golden Globe Awards were as follows:
+Best Picture Drama: Nomadland 
+Best Picture Musical/Comedy: Borat Subsequent Moviefilm 
+Best Actress, Motion Picture Drama: Andra Day (The United States vs. Billie Holiday) 
+Best Actor, Motion Picture Drama: Chadwick Boseman (Ma Rainey’s Black Bottom) 
+Best Supporting Actress, Motion Picture: Jodie Foster (The Mauritanian)
+Best Supporting Actor, Motion Picture: Daniel Kaluuya (Judas and the Black Messiah) 
+Best Director, Motion Picture: Chloé Zhao (Nomadland) 
+Best Animated Picture: Soul 
+Best Picture Foreign Language: Minari 
+Best Drama Series: The Crown 
+Best Musical/Comedy Series: Schitt’s Creek
+Best Television Motion Picture: The Queen’s Gambit
+The Cecil B. DeMille Award is awarded each year to a recipient “for outstanding contributions to the world of entertainment.” This year it was awarded to Jane Fonda, who has acted, written, and produced, as well as been nominated 15 times for Golden Globes and won eight. The Carol Burnett Award for Achievements in Television was awarded to Norman Lear, whose work, including shows such as All in the Family and Sanford and Son, has been groundbreaking for the television industry. 
+All in all, the Golden Globe Awards didn’t look the same as a normal year, but Amy Poehler and Tina Fey were still able to host and pull off a great award ceremony for those projects recognized this year. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+At the Senate general body meeting on March 4, the Senate discussed special allocations for the Spring Theater conducted by the Awareness of Roots in Chinese Culture (ARCC) club, a fiscal policy override, an elections rules override concerning percentage minimums, and a discussion with administrators on exams during the pandemic.
+Awareness of Roots in Chinese Culture requested special allocation funds for their Spring Theater performance, which will happen virtually this year. The funds would go to purchasing video services, promoting the event, purchasing costumes, and shipping costumes to domestic and international members. A modified version of their special allocations request that excluded items that the Joint Funding Committee (JFC) has previously funded passed 15 to 0 to 1.
+The Senate also discussed diverting money from the JFC Capital Fund Account in order to more greatly benefit the student body. The JFC Capital Fund Account is only to be used by clubs for long-term purposes, typically items that will be needed for at least three years or more. Money in the account cannot be taken out easily, and due to the pandemic, fewer clubs have been requesting funds from this account: less than $10,000 have been withdrawn, and $264,000 remain. The proposal would override article IV, section 3B of Student Government Fiscal Policy for the spring semester to leave the $150,000 originally allocated to the JFC Capital Fund Account in the JFC Main Account instead, which has fewer restrictions for usage than the Capital Fund Account. The proposal passed 15 to 0 to 1.
+As it is currently the General Election season, some senators were concerned with the process of setting percentage minimums after the single transferable vote (STV), proposing to instead have the percentage minimums set before the STV process. As described in article V of Student Government Elections Rules, percentage minimums refer to the minimum amount of votes from both undergraduate and graduate students required that, combined with the votes that the candidate received, determines the winner of the election. This policy was adopted in order to encourage candidates running for office to reach out to both the undergraduate and graduate populations. The senators introducing the proposal hoped that assessing percentage minimums before the STV process would lead to a more transparent and fair process. However, some senators expressed that while they felt the existing percentage minimum policy was ambiguous, moving it before the STV process would not solve its issues. One issue is that percentage minimum calculations must be able to be written as a program by the Student Government Chief Technical Officer, which, if the percentage minimum policy is too vague, is not always possible. With a vote of 0 to 15 to 2, the resolution was voted down.
+The Senate also held a discussion around potentially changing the current examination policy with Vice Provost for Education Amy Burkert and Associate Vice President and Director of Enrollment Services and International Programs Lisa Krieg. Burkert and Krieg are two of many in a group formed to examine the current examination policy, which is 18 years old. The group is focusing on how to modernize the exam policy, make exam scheduling and notices more timely, and emphasize flexibility, not only with respect to exam windows and timing but also alternative formats for assessment outside of exams, such as projects. Burkert and Krieg then asked senators for their input on how the examination policy could be changed. Senators argued there was a disproportionate weight put on tests in many classes, and hoped the examination policy group would encourage professors to make exam schedules more flexible to reduce time pressure.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+In an email on Thursday, Feb. 25, Provost Jim Garrett announced that Dr. Kiron Skinner has decided to step down as director of Carnegie Mellon’s Institute for Politics and Strategy (CMU IPS). As its inaugural director, she was instrumental in the creation and development of IPS and the degree-granting programs it offers. She has also directed the Center for International Relations and Politics, Carnegie Mellon University’s Washington Semester Program, and the Institute for Strategic Analysis. Thanking her for her contributions, Garrett noted that she will continue to serve as the Taube Professor for international relations and politics.
+He wrote in the announcement, addressed to faculty, staff, and students of IPS, that she made this decision to “enable increased focus on the completion of two books currently in process, her work with The Heritage Foundation on an Atlantic Strategy initiative, and her involvement with the newly formed Forum for America and the World.” Skinner declined a request for an interview for this article. 
+This move came weeks after the Pittsburgh Post-Gazette reported that she is considering running as a Republican for Pennsylvania’s U.S. Senate seat in 2022. A well-known academic, especially in conservative circles, Skinner had served as a member of former President Trump’s national security transition team in 2016. She also worked on the presidential campaigns of former President George W. Bush, former Speaker Newt Gingrich, Senator Rand Paul (R-KY), and Senator Mitt Romney (R-UT) when he was Governor of Massachusetts.
+Skinner had previously taken leave of her post at Carnegie Mellon in September 2018 to work in the Trump administration’s State Department as director of Policy Planning, a move she termed as her “first real deep dive into government.” She worked on advancing former President Trump’s “America First” foreign policy agenda and diversifying the State Department. However, she returned to campus in less than a year after being dismissed from the State Department, which Politico reported was due to allegations of an “abusive” management style. Anonymous State Department sources alleged that she made homophobic comments, accused people of having affairs, and abused her authority, all charges that Skinner denied. In an interview with The Tartan, she characterized some of the reporting as “out of context” and denied making any homophobic remarks. She claimed that most of the internal conflict had stemmed from her big plans for the Office of Policy Planning. She also noted that no official State Department investigation has been made prior to her departure. Several high-profile diplomats and colleagues, including some at Carnegie Mellon, came to her defense over these reports.
+In October 2019, some current and former IPS students spoke to The Tartan under the condition of anonymity about the circumstances around her dismissal from the State Department, and expressed mixed feelings about her return to Carnegie Mellon University and disappointment at her controversial remarks on China. 
+More recently, Skinner has come under scrutiny for her appointment of former Ambassador to Germany and Acting Director of National Intelligence in the Trump administration Richard Grenell as a senior fellow at IPS, which sparked swift backlash among students and faculty members. The announcement of the appointment in June 2020 was met with condemnation as many felt that Grenell’s highly divisive rhetoric had no place at Carnegie Mellon. As calls increased to rescind the appointment, including signed petitions from thousands of students and hundreds of faculty members, Skinner released a statement defending her department’s decision, citing her commitment to “intellectual diversity.” In an interview with The Tartan, elaborating on her department’s decision to hire Grenell, she stated that she hired Grenell not for his viewpoints but because of his background. She also explained that it is standard to bring former government officials into academia, a practice that is now being scrutinized as universities face pressure to vet ex-officials from the Trump administration. The controversy surrounding his hiring reignited, drawing local and national press coverage, after the 2020 presidential election when Grenell started spreading election misinformation about voter fraud after Trump’s defeat. 
+On Jan. 7, the day after the Capitol Hill riots, Skinner sent an email to colleagues who expressed their disappointment at a press release that IPS put out congratulating Grenell on being awarded the National Security Medal on the same day of the riots. The Chronicle of Higher Education reported that when presented with Grenell’s false claims about the election, she wrote that “Many people are seeing different facts and parts of the story about what happened in each state” in an email chain, redacted screenshots of which were leaked on the Overlooked at Carnegie Mellon Facebook group. While she conceded that she had made “process fouls" in terms of the timing of the press release, she rejected claims that Grenell’s incendiary tweets could have had an effect on the Capitol Hill violence. She also did not respond to the questions in the email chain on whether she believes Biden won (she admitted later that she believes Biden won when pressed in an interview by The Chronicle of Higher Education).
+In the announcement email about Skinner stepping down, Garrett wrote that Carnegie Mellon University and Skinner “remain unwavering in their commitment to the mission of IPS and to fostering an environment where all viewpoints and the free exchange of ideas are welcomed as the bedrock of our academic community.” He also announced that Dr. Mark Kamlet, university professor of economics and public policy and provost emeritus, will assume interim leadership of IPS.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+From Brett Kavanaugh to Donald Trump to Joe Biden to Andrew Cuomo, it is evident that the media has treated sexual harassment allegations as a political ploy in the face of ongoing election cycles. The media’s immoral and disheartening pattern of using allegations as pawns against influential men in power while brushing over their own candidates’ allegations is hypocritical to say the least. Sexual harassment should not be treated as a political issue. We must hold liberals’ claims with as much weight as we hold conservatives’ claims; we must hold Democratic politicians as accountable as we hold Republican politicians.
+The double standard when it comes to the media’s treatment of sexual misconduct is outrageous and concerning. While it is easy to say that Fox News likely covered less of Brett Kavanaugh’s allegations than did CNN or MSNBC (and vice versa for Andrew Cuomo’s allegations), it is not enough to solely educate yourself based on what your news station chooses to talk about. A Vox article finds that The Washington Post’s distinction between perpetrator and victim is often racially motivated, as white rapist Brock Turner was described as an “All-American Stanford swimmer” going through “a stunning fall from grace,” while Black rapists committing the same crime were described as “no angel.” We must hold abusers to a more uniform and equitable standard because when there’s inconsistency, there’s de-legitimacy.
+The “Believe All Women” slogan arose out of the #MeToo movement as a statement about supporting female victims as they disclose their sexual harassment experiences either in public or in front of a courtroom. This slogan is countered most prominently by those who instead adopt the idea of “innocent until proven guilty.” While the distinction between these two philosophies was once considered political, with #MeToo supporters being mostly Democrats and “innocent until proven guilty” supporters being mostly Republicans, the political lines between the two have become far more blurred in recent years. As Democratic candidates have become perpetrators of sexual harassment in similar ways to their Republican counterparts, the political standard of “innocent until proven guilty” and “Believe All Women” has become far more ambiguous to both the media and voters. 
+Sady Doyle, a writer for Medium, urges readers to “recognize that false allegations are less common than real ones.” Doyle’s claim is substantially correct, as The Cut’s “Almost No One Is Falsely Accused of Rape” writes that only about 5 percent of all reported rapes are false accusations, and this number is skewed by the fact that almost 95 percent of victims do not report their rapes to the police. In the same article, Doyle writes that false rape allegations are at least five times as common as false accusations of other types of crimes. So why the distinction? Why falsely accuse someone? If we can get to the root of why false accusations exist at all, then we can stop people from relying on “innocent until proven guilty” and start believing all women.
+Most false accusers have some motive behind their actions: racial stereotyping and political destruction can play a role, but more often than not, a real rape case is dismissed by the court system and thus deemed a “false accusation.” The media’s dismissal of sexual abuse charges shows its bias in relaying information to the American public. During the Biden campaign for the presidency, for example, the Democratic party began to split in its support for Tara Reade in her statement that Joe Biden had touched her inappropriately without her consent. While some news stations chose to cover the allegation in thorough detail to adequately alert the public about these allegations, others brushed over Reade’s statements to continue grooming Biden as a frontrunner during the Democratic primary. The questions then become: if you believe all women, how do you choose political support for candidates who have some allegation of sexual misconduct against them? Can you still believe all women while voting for someone who doesn’t believe all women? 
+As an active voter and New Yorker, I’ve been plagued by this question during each election cycle, and most recently, by Cuomo’s allegations. Why is it so hard to find a candidate who hasn’t used their power to abuse victims? Is there even a “lesser of two evils candidate” in a world where such injustices are tolerated by our election system?
+The answer to these questions depends on how you view your role as a voter. If you believe that your political affiliation must align with your view of the world and that politics are equitable to morals, then supporting someone with sexual assault charges against them should be a difficult task. But if you are looking to find the “lesser of two evils candidate,” ask yourself how you measure “evil.” Is it the number of sexual assault abuses? A certain amount of damage to the environment? The economy? Until the world and the media can find a way to prevent sexual abusers from entering the political stage, society will inevitably be stuck choosing between two old white men who have committed some level of “evil” to the surrounding world. 
+As a voter, here is what you can do to break the cycle: educate yourself on sexual assault allegations from both sides of the aisle, read news articles that you may not normally read to see coverage of allegations, and speak out when you think an injustice has not been rightfully covered. Biden won the primary election ahead of younger Democratic candidates who have no allegations against them such as Andrew Yang and Pete Buttigieg, so putting support behind those candidates in future elections would provide a glimmer of hope for the future of “Believe all Women.” By believing all women in the face of political polarization and media hyperpartisanship, we can end the perpetual cycle of “lesser of two evils candidates.”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+A few weeks ago, President Biden declared that “America is back” to American allies. The week after, the administration carried out an airstrike on Iranian militants in Syria as retaliation against a Feb. 15 strike against a U.S. military base in Erbil, which is situated in the Kurdistan region of Iraq. This is an easy to criticize move, and rightfully so. Why are we continuing to engage in our “forever war” doctrine in the Middle East? What is Washington gaining from doing this anymore? Doesn’t this jeopardize further diplomatic agreements with Iran?
+All those are important and valid questions to ask, and Biden’s team will need to be held accountable on those points. Throughout his campaign, Biden’s foreign policy plan has painted a picture of an administration that wants Washington to find a balance between leading by the “power of America’s example” while scaling back unnecessary and expensive efforts. It will be important to see how this promise plays out, but those with high hopes may find themselves disappointed if their expectations aren’t tempered. But criticisms against Biden, including my own, will also need to be more nuanced in their approach.
+The Biden administration has promised to engage more diplomatically rather than overusing hard power capabilities, which the Syrian airstrike seems to contradict. However, on its own, the basic principle of “retaliate when you’re attacked” is an understandable one. In addition, the retaliation was in response to an attack on a base in Iraqi Kurdistan. The Kurds are not only an important partner in the region, but they rely on the U.S. military to provide safety for them given that no other government in the region really accepts their right to exist. The alliance is also inconsistent, such as when the previous administration allowed Turkey to continue shelling Kurds or when former President Bush Sr. didn’t defend the Kurds against Iraqi tanks rolling into their territory in 1991. Given the Biden administration’s desire to reinforce their alliances, their decision to retaliate for an attack on a base in Kurdistan is somewhat understandable.
+With that being said, there is also a fear that these retaliatory efforts will result in another tit-for-tat series of attacks that will result in more troop presence in the region, which happened last year. Given Washington’s current desire to approach Iran with a new nuclear deal after the increase in tensions over the past few years, it would be more fruitful to cut our losses and approach Iran with a more assertive diplomatic agenda. After all, it was the U.S. who withdrew from the Joint Comprehensive Plan of Action (JCPOA) agreement despite Iran following the guidelines of the nuclear deal at the time. It would make sense to engage in less retaliatory military efforts and push more strongly to renew talks for negotiations with Tehran.
+Ultimately, this is representative of a larger problem. The U.S. wants to both be a beacon of diplomacy while also asserting its dominance and refusing to make concessions. Unfortunately, there is a trade-off there, and different situations will require different strategies. While the goal of the military may be to avoid losing any battle and forcing an adversary’s hand, it often contradicts Washington’s diplomatic aspirations. The opposite is also true, where diplomatic aspirations can contradict situations where the U.S. should take some stronger action. There are also contradictions within different types of strong actions and diplomatic aspirations.
+All of these contradictions exist because the U.S. has not had a clear foreign policy plan for the last several decades. Each administration has pursued some degree of throwing whatever they can at the wall and seeing what works. While Biden’s plans appear to be more focused, they fall into that same trap of inconsistency.
+Let’s look at Saudi Arabia and Yemen as an example of this inconsistency. Biden’s administration has signaled their desire to end the war in Yemen, and they already have ended military aid and weapons contracts that supported the Saudi-led coalition. This is also in line with the administration’s promise to end “forever wars.” However, despite Biden’s promise to punish Crown Prince Mohammad Bin Salman for ordering the death of The Washington Post journalist Jamal Kashoggi, the administration walked back that promise last week since they fear losing diplomatic relations with the Saudis. This will only make it harder for us to end the war in Yemen and may end up prolonging our presence in the war despite efforts to leave it.
+The relationship with Saudi Arabia is also further complicated given their power dynamic with Iran. The animosity between Saudi Arabia and Iran in the region outlines the larger Shia and Sunni Muslim divide in the region. As unreliable as Saudi Arabia is as an ally, keeping that alliance is important for the balance of power in the region. There are vested economic and resource interests, but I wouldn’t count those as justifying allying with Saudi Arabia given that the U.S. has increased its own capacity for oil and natural gas domestically.
+On the other hand, it is unjustifiable for us to continue to keep treating Iran as part of the axis of evil, which they have been on since former President Bush’s declaration in 2002. Iran thrives on living in a gray area where it's unclear what their weapons capabilities are, and they have continuously baited the U.S. into taking strong actions, which helps them justify their decision to continue staying in their gray area. To break through this cycle, the U.S. has to cut through the bait and continue to normalize relations with Iran. Unfortunately, as a means to that end, the U.S. is continuing stronger military actions to force Iran into a position for negotiation, which does not appear to be working very well.
+These are just some of the complexities faced in addressing the power politics of the region, and as futile as it is, it is still manageable. Counterinsurgency and nation-building in the Middle East have been a whole other story. It is a perfect encapsulation of the strategic blunders and inconsistencies that have existed in Washington’s agenda for the region since 2001, which has entrenched the U.S. in a “forever war” in the region.
+To that end, the Biden administration is also signaling that they will pull the vast majority of troops out of Afghanistan by May 1, which would officially bring an end to the war. This is the large point the Biden administration has committed to, continuing last year’s agreement made by the U.S. government and the Taliban, which the Biden team is continuing to review.
+However, it is very likely that after this, Afghanistan may fall further into the control of the Taliban, and the Afghan state will end up collapsing. But those efforts were supported by a U.S. presence being a crutch to uphold stability. If you take the crutch out, it will inevitably fall. Without any domestic support for these efforts, the justification for years has been to spend some more money and spill more blood to ensure it ourselves. But that should not be our concern. Foreign policy goals need to balance our own interests with the self-determination and sovereignty of others. It is not our responsibility to maintain stability in the country, and we’re not doing local citizens who don’t want an American presence there any favors by continuing to do so. It’s a bottomless hole, and to get out of that hole, we have to stop digging first.
+So as the Biden administration continues to mop up the mess of previous strategic blunders while trying to avoid their own, they will have to keep in mind and accept that sometimes the U.S. should accept failure and cut its losses. As far as it goes, U.S. hegemony isn’t going to go away any time soon, and we already greatly benefit from the current international system. Accepting a few losses won’t destroy that hegemony. He should follow through in his efforts to expand our soft power capabilities while scaling back our hard power capabilities a reasonable amount. Our retaliatory efforts should be more focused and justified, and our diplomatic efforts need to be more reliable. We have enough of our own problems to fix, so being more consistent and concentrated with foreign policy efforts will be beneficial for everyone.
+In short, the U.S. needs to stop being stupid. The jury is still out on Biden’s administration, but I certainly hope he is able to follow through with that goal.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+With the sun beginning to peak out of the relentless, grey Pittsburgh clouds and spring right around the corner, the only thing missing is the buzz of students around campus. And as the temperature begins to increase, it is time for Carnegie Mellon University to start facilitating outdoor activities so students can safely engage with the campus and bring some excitement and energy back to the school.
+Historically, March has been the month of constant bustling as students rush to finish not only their classwork but also their booths and buggies. But this year, there is a noticeable and significant loss of anticipation over Virtual Carnival that Carnegie Mellon could help mitigate through a larger push for in-person activities or physical spaces for students. 
+However, the number of COVID-19 cases in Allegheny County, where Carnegie Mellon University is located, has steadily remained above 1,000 in the past few weeks, according to the official Allegheny County website. With this in mind, it is imperative that the school continues to prioritize the safety of our community while also creating opportunities for safe socialization. 
+“I think that students are craving safe social interaction,” said Elizabeth Koch, the associate director of student leadership, involvement, and civic engagement (SLICE). “They genuinely want to find ways to abide by the campus policies in ways that allow them to connect with their friends and organization members."
+But students currently have very limited access to resources or activities on the Carnegie Mellon campus. And starting from the beginning of the fall semester, there have been approximately 70 reports of unsafe gatherings, said Koch. These gatherings range from small dinner groups that break social distancing protocols to larger parties at off-campus locations. 
+Students attending these gatherings have received reprimands like writing letters of reflection and disciplinary probation. Punishing members of the Carnegie Mellon community who flout COVID-19 restrictions is fair and necessary. However, the university should offer ways for students to be able to meet and interact safely as a way to disincentivize them from breaking the rules when they get lonely. 
+“Having the tables and tents outdoors in the fall semester provided some of that structure,” Koch said. “But there is always opportunity to build upon those kinds of resources to make them more appealing to a broader array of students and potential activities.”
+Some ideas to safely populate the campus would be to rent out free picnic blankets, so students can sit outside on the green grass with people in their own pod. Another idea would be to put overheads over the tables on the Cut so students can enjoy the fresh air without being blinded by the sun or drenched by the rain. SLICE and the Activities Board have also proposed an outdoor stage to help performance-based student activities that are having trouble converting to an online model. 
+“We saw an opportunity for the university and student government to invest in an outdoor performance venue that would be predominantly self-service with a socially-distanced audience set up,” Koch said. “In the fall we did a survey of 50 organizations that we thought could benefit, and their enthusiasm sent us in the direction of creating a formal proposal.”
+We acknowledge all of the hard work from SLICE, the Activities Board, and other groups that have been involved in improving the student experience during this pandemic, but, as Koch mentioned, there is always room for improvement.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+

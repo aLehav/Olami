@@ -1,0 +1,198 @@
+In the fall of 2019, Carnegie Mellon University received a $35 million grant from Highmark Health, a not-for-profit Pittsburgh-based insurer and healthcare provider. This amount was gifted to assist in the funding of a transformative initiative involving the construction of a new wellness and athletics center geared towards improving the health and wellbeing of Carnegie Mellon students.
+As The Tartan reported then, the proposed 160,000 square foot facility would expand on Skibo Gymnasium on the corner of Frew Street and Tech Street. The plan, which involved the deconstruction of most of the Skibo center save Skibo Gym itself, would see Carnegie Mellon working with an architecture firm to design a building stretching to the sidewalk of the intersection between Margaret Morrison Street and Tech Street.
+In a recent interview with the Pittsburgh Business Times, Bob Reppe, Carnegie Mellon’s senior director of planning and design, stated that the university intends to do “some renovation of the existing historic structure, some demolition of the parts of it that don't work so well, and new construction in that we'll ultimately introduce a new health and wellness center.” The center would include a new space for Counseling and Psychological Services (CaPS), as well as providing a “new, upgraded performance gymnasium for our basketball and volleyball teams and a new home for the athletic departments as well.”
+These renovations, which comes on the heels of the opening of Tepper Quad back in 2018, are the next big step in the university’s 10-year plan to improve students' health and quality of life while fueling campus growth. The vision is to utilize “thoughtful planning and exemplary architecture, urban design and landscape management” in order to create “a vibrant environment that enables [Carnegie Mellon] faculty, students, alumni, and staff to advance the university’s vision and mission.”
+According to Reppe, who plans to schedule a design activities meeting on the project within the next month, the development of the new space may occur under a faster time frame than originally mapped out. This no doubt comes as welcome news to athletes and the campus community as a whole, with the new center representing a culmination of the wellness-focused programs fostered and advanced over the last couple of years.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Once considered science fiction, brain implants and research into brain-computer interfaces have made gargantuan strides, with implants helping paralyzed individuals drink beer and letting humans play pong with their minds. Brain implants have become a recurring hot topic in recent years thanks to Elon Musk’s startup, Neuralink, with many following the company’s experimentation on monkeys and pigs with great interest. In a recent video released to YouTube, the company documented its success in using a brain implant to allow a monkey to play pong, once again grabbing the internet’s attention.
+In the video, Pager, a 9-year-old macaque monkey, is shown playing pong on a screen without joysticks or physical controls. Previously trained to play pong with a joystick through reinforcement learning with a banana smoothie as a reward, Pager had a Neuralink implant for six weeks prior to the video’s filming, as the implant had to first learn the neuron patterns associated with the hand movements used to control the game. Once the physical controls were removed, Pager’s brain reproduced the same patterns, allowing him to play the game with his mind.
+While similar feats have been achieved using human subjects, Pager’s success at playing pong seems to be a big step forward for Neuralink, with Musk talking about big plans for the future of the technology, from enabling paralyzed individuals to tweet faster than their non-paralyzed counterparts, to using systems of implants to enable paraplegics to walk again. Of course, these are all tentative goals, but given Musk’s track record of rapid development, it would not be surprising to see such advancements soon. 
+Neuralink is not the only startup to investigate the possibility of mainstream implants, although it is certainly the most well-known. Companies like Synchron and Paradromics are also investigating the use of implants — they are, however, taking alternative approaches to invasive, surgically-implanted systems. For instance, Synchron uses electrodes inserted through a vein near the back of the neck — a method that is touted as more stable and robust.
+With these startups leading the way, we are moving closer to a future where we are not only connected through our screens but also directly linked through our brains. Whether this is a good or bad thing is up for debate, as there are many ethical considerations that still need to be sorted out, but simply reaching this stage shows how quickly technology has advanced in relatively new and niche fields.   
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Recording the inner activity of a cell
+With how small cells are, it's difficult enough to see what a cell does, let alone see what's happening inside a cell. But researchers from Carnegie Mellon and Istituto Italiano di Tecnologia believe that they can make recording the activity within a cell easier using their microelectrode platform. They pulse a laser over electrodes made of graphene, a cheap and flexible carbon material, which opens pores on the cell's surface and allows them to record the inner electrical activity of the cell. Their method using graphene allows them to damage the cell as little as possible and hence can be repeated on the same cell over and over again. This work can help research on neurological and cardiac diseases, and the team hopes to use their findings to monitor the effects of drugs on heart cells.
+Read more about it here: https://engineering.cmu.edu/news-events/news/2021/04/07-intracellular-recordings.html
+Making a social media platform to study the spread of misinformation
+Misinformation is rampant on the internet and many researchers are interested in figuring out how to preserve the accuracy of the information on social media, but there are limits to studying trends on already existing social media platforms. Researchers from Carnegie Mellon University’s CyLab decided to create their own open-source social media platform mimicking Twitter to study how post credibility is associated with post likes. By creating their own platform, they would be able to monitor the changes in the user network from the very beginning. They were also able to create their own custom features, such as displaying user credibility scores based on whether they shared videos containing misinformation. Through this, they were able to find a relationship predicting the authenticity of a post based on its shares, likes, and other information.
+Read more about it here: https://engineering.cmu.edu/news-events/news/2021/04/05-sharing-online.html 
+Audio conferencing may be better than video conferencing
+Video conferencing has been adopted globally in response to COVID-19 as companies and organizations struggle to recreate in-person meetings and collaboration. However, researchers from Carnegie Mellon’s Tepper School of Business and the Department of Communication at the University of California, Santa Barbara found that video conferencing did not seem to have many benefits over audio conferencing in promoting team problem solving, which the researchers called "collective intelligence." In addition, they found that visual cues from video conferencing seemed to allow some participants to speak out of turn and dominate the conversation more easily, while participants in audio-only conferencing were more likely to speak in turn.
+Read more about it here: https://www.cmu.edu/tepper/news/stories/2021/march/video-conferencing-research-williams-woolley.html
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+All times are in EDT
+Graduate Women Gathering
+Monday, April 12: 1:00 p.m. - 2:00 p.m. via Zoom
+Women in graduate programs, faculty, and staff are invited to share their ideas and experiences about how to create an empowering environment at the Center for Student Diversity and Inclusion’s Graduate Women Gathering! Note that the event is open for all genders to attend, and you can register here. 
+Stay Grateful: A Weekly Gratitude Practice
+Tuesday, April 13: 1:30 p.m. - 2:30 p.m.
+The Carnegie Mellon University community is meeting again this week for an exercise in mood regulation, resilience, happiness, and satisfaction. As the semester continues to be stressful, learning about gratitude can help with stress management. The Zoom Meeting link is here. 
+No official events, Carnival begins after classes
+Wednesday, April 14: all day
+When my Heart Isn’t In the Work
+Thursday, April 15: 4:15 p.m. - 4:45 p.m.
+To process and navigate white-dominated spaces, join CaPS in their judgment-free, weekly discussion. The link to join is here.
+Immigrant Connection Hour
+Friday, April 16: 1:00 p.m. - 2:00 p.m.
+If you are an immigrant interested in finding a safe space to connect with other immigrants, join Dareen Basma, Shubhara Bhattacharjee, and Mengchun Chiang’s Immigrant Connection Hour. The Zoom ID to join is 969-6481-1810.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Seaspiracy faces valid criticisms, but they should not detract from the central message of the film that commercial fishing is bad for the environment. The documentary, produced by Kip Anderson of Cowspiracy: The Sustainability Secret fame, chronicles filmmaker Ali Tabrizi’s journey to uncover the environmental and social impacts of the international fishing industry. Through interviewing scientists and non-profit advocates, Tabrizi concludes that not only is fishing bad for the environment, but it is also bad for human consumption as well. The resounding message of the film is one of responsibility, but it is unclear who Tabrizi wants to hold responsible.
+As with most pro-vegan documentaries, the film’s ultimate call to action falls onto the laps of consumers in the form of a plant-based diet. The idea that individual actions can change systematic issues is a core tenant of neoliberalism. Namely, that the market, rather than governmental institutions, is the most efficient strategy to enact change. Most importantly, this change can only be driven through the act of individual consumption. There are many arguments for veganism that I agree with (I have been a vegan for six years). However, the idea that consumers should be held responsible for the actions of producers is not one of them. 
+Perhaps the embodiment of neoliberalism, the documentary centers on Tabrizi himself. The opening shot pictures Tabrizi alone on a beach picking up trash. He tells the camera that he is concerned for the health of the ocean and he single-handedly wants to figure out what is ailing it. This causes him to lead a naïve journey throughout the world to investigate the real threats the ocean is facing. This quest for knowledge centers the narrative of the film on Tabrizi rather than the issue itself. 
+He begins his quest at a cove in Taiji, Japan, where dolphins and whales are killed every year. This is where the documentary begins to veer into murky waters, muddying the line between journalism and entertainment. As with most dramas, the plot is driven by conflict. In Tabrizi’s case, this conflict is spearheaded by Japanese police who are apparently following him and his film crew (filming in Taiji is severely limited). Because of this, the team ultimately decides to change locations for “safety” reasons. Throughout his travels, Tabrizi receives warnings that he is in danger of either arrest or murder, sometimes both. These warnings are coupled with footage (and sometimes cartoons) of people on boats, either being held captive or thrown off. While I do not doubt some of the places Tabrizi visited were dangerous, the sensationalization of the crew's experience detracted from the issues that the film attempted to address. It is easy to forget that Seaspiracy is in fact a documentary and not an international crime drama along the lines of Captain Phillips.
+Throughout the documentary, Tabrizi came across as an arrogant Westerner. It is important to note that most of the countries he visited and criticized were developing countries such as Liberia or Thailand. While it is true there are many labor issues in developing countries, some as extreme as slavery, Tabrizi never mentions the history of colonization in these countries as to put these practices into context. Furthermore, it is never mentioned that most of the demand for fish comes from the West, which is driving worker exploitation in the East. It is not surprising that Tabrizi seems to have a flawed perspective. As Brian Kahn from Gizmodo says, “[He] comes off as ‘I alone can fix this problem I have only recently learned about,’ and that solution is my preferred method.” Rather than letting the research speak for itself, Tabrizi opted to center himself in the narrative. This method only works if the documentarian is likable, and unfortunately, Tabrizi is not.
+So is commercial fishing really to blame for the death of our oceans? The answer is yes, but it is much more nuanced than the documentary leads its viewers to believe. The leading cause of ocean death is climate change, as increased carbon in the atmosphere leads to ocean acidification, which kills coral and fish alike. Surprisingly, climate change in relation to the oceans is never mentioned in this film. Commercial fishing is certainly bad for the environment. Trawling destroys sea beds and overfishing causes extinction. But climate change, unlike commercial fishing, is a positive feedback loop. Namely, we can stop fishing, but if we wait too long to stop emitting greenhouse gasses, we cannot stop the climate from changing. So regardless if we are fishing or not, the ocean will die. Critics say that this film is vegan propaganda, and this fact makes it hard to dispute. It is important to note that the fishing industry is a large emitter of greenhouse gasses, so its elimination would certainly be a good thing. Still, Cowspiracy, Seaspiracy’s sister film, spent most of its time examining how animal agriculture causes climate change. Seaspiracy does not mention this once. 
+Perhaps the strangest flaw of Seaspiracy is that capitalism is never mentioned. How can a film that critiques an industry not critique the economic system that gave birth to that industry? Most of the problems of commercial fishing exist because of the profit motive. Humans have been fishing for thousands of years, and before industrialization, overfishing was almost unheard of. It would seem that fishing itself is not the problem; rather, it is a symptom of a much larger culprit: the economic system that pushes for infinite growth on a planet with fixed resources. Instead of calling for a complete economic overhaul, the film calls for even more consumption, but in the form of a vegan diet instead of a meat one. It is contradictory to critique a problem caused by capitalism and then call for more capitalism. Even worse, the film never mentions what would happen to the 36 million workers worldwide if the fishing industry was abolished. It seems Tabrizi believes that as long as they all go vegan, everything will just work itself out.
+In the end, Seaspiracy took the complex problem of climate change in relation to the global food supply and boiled it down to a simple problem of consumer choice. Even more annoying, this was framed as a problem that was discovered by the filmmakers instead of the thousands of scientists and researchers who have been studying this issue for years. What’s worse, this discovery was dramatized to make the viewers believe the filmmakers were at risk of death the whole time. While it has its issues, Seaspiracy still portrays important criticisms of the fishing industry that should not be ignored. However, it is unfortunate that many people will be drawn away from this issue and most likely veganism itself because of the way it was sensationalized. Like I said in the beginning, regardless of its many shortcomings, the main takeaway of Seaspiracy should be that the fishing industry is indeed bad for the environment. Go vegan if you want, but that alone won't save us. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Welcome to Maddy's Monthly Meme Madness, where we take a look at the Top 5 most-liked memes on the Facebook group, Carnegie Mellon Memes for Spicy Teens, posted in the past month.
+In the words of the beauty influencer’s version of Voldemort: “can’t relate.” But casting that aside, Carnegie’s words are awfully topical for this situation. The Impact font is excusable due to it being a parody of other inspirational quote memes. But the slight white border on the left of the Carnegie meme? Absolutely not.
+The text modification is hastily yet artfully done, adding value to this meme. I’ll have to dock a point off only because this isn’t specific to Carnegie Mellon, as required by the Facebook page’s requirements. Still, this is a struggle that is all too familiar, especially as many of us enter the workforce under such… less-than-optimal circumstances.
+Call me nitpicky, but the capitalization irks me enough to dock half a point on this rating. Still, this meme had me awkwardly trying to suppress a laugh during a Zoom lecture. Dual logins are a pain to use, but they have a purpose. I guess the same can be said for the… other kind of protection.
+Short version of my review: OUCH.
+Extended version: This meme is painfully accurate. The mental health days are appreciated, but Kim captures how one day of lip service for mental health is inadequate. It’s been said before, but I’ll say it again: we are in a global pandemic. In addition to usual pressure from school and personal life, students are put under additional stress from current circumstances.
+This meme gets full marks for including two of my favorite things in one photo: cats and bread. Biased much? Sure. But even among you dog lovers out there, this meme hits too close to home. Five consecutive days off of classes for spring break vanish in the blink of an eye; five random days scattered throughout the semester do even more so. Power through, Tartans; we’re at the home stretch!
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Vice President for Student Affairs and Dean of Students Gina Casalegno announced last Thursday that Carnegie Mellon University has partnered with the Allegheny Health Network (AHN) to provide vaccine appointments to the Carnegie Mellon community. 
+In an email to the university community, Casalegno wrote that Carnegie Mellon community members will have access to vaccine appointments with the AHN by the end of the month. The AHN will distribute the single-dose Johnson & Johnson vaccine as part of its partnership. The Johnson & Johnson vaccine is one of three vaccines authorized for use in the U.S., the others being the Pfizer-BioNTech vaccine and the Moderna vaccine. However, the CDC recommends getting any authorized vaccine you are eligible for. The AHN has been approved to vaccinate people in phases 1A, 1B, and 1C. They have registration for eligible people on their website.
+The announcement from Casalegno comes as Pennsylvania expands its vaccine eligibility and moves to phase 1C of its vaccine rollout this Monday. On April 5, Pennsylvania moved to phase 1B, adding education workers, including those in higher education, to the pool of people eligible to be vaccinated. As phase 1C starts, essential workers in a variety of industries will be eligible to get vaccinated. All Pennsylvanians 16 and older will be eligible for vaccination when phase 2 begins on April 19. Pennsylvanians (except for those living in Philadelphia) can check whether they are eligible on Pennsylvania's Your Turn website.
+Pennsylvania has a map of registered vaccine providers on its website. After checking whether you are eligible, the website recommends finding a provider from that website and scheduling an appointment with them to receive a vaccine. The Allegheny County Health Department also has registration and pre-registration for the vaccine on its website.
+Carnegie Mellon University's partnership with AHN also comes after Casalegno and Chief of Staff and Vice President for Strategic Initiatives Daryl Weinert wrote on April 2 that Carnegie Mellon University had helped arrange over 1,000 appointments for Carnegie Mellon community members eligible under phase 1A as part of another collaboration with Giant Eagle. However, as vaccinations have increased across Pennsylvania and the U.S., the number of COVID-19 cases has crept back up nationally, in Pennsylvania, and in Allegheny County. 
+In their April 2 email, Casalegno and Weinert wrote, "Participating in weekly Tartan Testing and practicing all mitigation protocols of wearing facial coverings, handwashing, physical distancing, and completing the daily self-assessment surveys are important tools to help curb the spread of COVID-19 in our community."
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+The joint meeting between the Undergraduate Student Senate and the Graduate Student Assembly (GSA) on April 7 ratified the results of the student government election, and also set a new precedent by holding the first election of the Activities Board (AB) Main Chair.
+Alexis Ozimok and Catherine Taipe were elected as student body president and vice president respectively, receiving over 50 percent of the 1147 ballots cast and also receiving over the minimum one percent of the graduate vote. The Elections Board also mentioned several potential violations in the election process by candidates and the penalties that had been incurred. There were reports of misinformation from the Ozimok/Taipe and Hyder/Abrams campaigns, candidates Sarah Abrams and Clarissa Liang cold-emailing students using the Andrew Directory, and candidates Ozimok/Taipe, Abrams, and Ariana Carden using their power in social media groups to spread their campaign. 
+After careful consideration, many of these reports were dismissed as not violating any rules or having much consequence. However, the Hyder/Abrams campaign received a three percent penalty under section 5.E.1 of the elections rules for plagiarizing the Ozimok/Taipe platform, and another 10 percent penalty under section 5.E.8 for posting about their campaign in large social media groups where Abrams was the only one out of all candidates to be an admin. The Elections Board also penalized the Hyder/Abrams campaign under section 5.E.5 for cold messaging students and asking whether they had received promotional messages from the Ozimok/Taipe campaign, which the Elections Board determined to be voter intimidation. This 13 percent penalty did not affect election results, as Ozimok and Taipe had already received the majority of the student body vote.
+Despite the nearly unanimous vote of 45 to 1 to 1 by the GSA and 15 to 1 to 1 by the Senate to ratify the results of the election, senators raised concerns over the use of cold messaging in this campaign. The Ozimok/Taipe, Hyder/Abrams, Ariana Carden, and Clarissa Liang campaigns all messaged students on either email or social media, but only Hyder/Abrams received a penalty. The Elections Board considered other candidates' use of the publicly available Andrew Directory to email students and their messages to students in online chats. However, they found that other candidates' messages did not have a power dynamic, and the Elections Board decided neither of these warranted penalties. GSA Representative Adam Boucek (TEP) felt that the penalty on the Hyder/Abrams campaign for asking might be excessive. Senator James Gallicchio (SCS) voiced concerns over allowing candidates to mass-email through the Andrew system, as the directory website states that the system is for reaching individuals and not for mailings.
+In addition, many senators were concerned that some seats were left unfilled because more people voted for no-confidence than for write-in candidates. The no-confidence vote expresses that the voter would rather have no one elected if their chosen candidate was not elected. One example where senators were concerned was when there were several open seats for College of Fine Arts senators, but only one candidate on the ballot. There were two write-ins, but because no-confidence gained the same number of votes as those write-ins, the write-ins did not get elected. Senators also noted that the Ozimok/Taipe campaign advocated for voters to vote no-confidence after their first-choice candidate. Senator Diana Crookston (DEH) speculated that perhaps students did not realize the impact of no-confidence on write-ins, and GSA Representative Roger Iyengar (SCS) proposed messaging to make it clear that having a second or third choice would not hurt first-choice candidates. Senator Kayla Griffin (DEH) suggested asking candidates to refrain from asking their supporters to vote no-confidence, but Senator James Gallicchio (SCS) felt that the no-confidence vote is not necessarily hurtful and could instead serve as a sign that voters truly did not want candidates other than their chosen ones.
+In addition, the Senate and GSA held their first election of an AB Main Chair. Having the Senate and GSA vote on the AB Main Chair is one of AB's efforts to better integrate AB with the rest of the student government and have more transparency in the organization. This year, there was only one candidate, Andrew Chuang. He said his goals include increasing student engagement and member retention in AB and holding more events with the Senate and GSA to allow for students to better understand what student government does. Since this was the first AB Main Chair election conducted by the student government, most of the discussion was centered around understanding the election process. Chuang was elected as AB Main Chair by a 12 to 0 to 0 vote by Senate and a 48 to 0 to 0 vote by GSA.
+Editor's Note: Sarah Abrams is a Pillbox Editor for The Tartan.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+I have found myself struggling to discuss politics recently, and I wasn’t quite sure what to make of it. It’s never been an easy subject to discuss, but I’ve found that it’s taken on a different level of darkness in the past couple of years. It was hard to pin down why, but I remembered one interesting research paper I had read a while ago that got me thinking about an answer.
+The paper in question is a bit long and technical, but there is one important and key takeaway. There’s been a decline in the social fabric of the country, particularly social trust, and that decline is driven by a loss of confidence in political institutions, dissatisfaction with income, and unemployment. It seems obvious, but it’s one of those points that only clicks once you see its effects play out. Right now, we are at a period in history where we are watching this play out around the world.
+Unfortunately, this decline in social trust drives a lot of the racial tensions we see in the country. It’s much easier to distrust those who don’t look like you than it is to distrust those who do. Our opinions about politics and culture are becoming more extreme and polarized, and social media is accelerating the rate at which we understand our own suffering as well as accelerating the rate that misinformation is spread. Combine that with the declining trust and constant stress of 21st-century late-stage capitalism, and we have a deadly concoction for social, political, and economic instability that is entirely unsustainable and leads to violence, particularly against minorities.
+This was one of the reasons I found myself struggling to articulate my feelings about racism in America against the Asian American and Pacific Islander (AAPI) community. On one hand, we need to understand the reasons for violence committed against the AAPI community. But on the other hand, we can’t and shouldn’t inadvertently legitimize violence against a group of people just because the majority in a country feel insecure and unstable in their own lives. There has to be a balance between understanding what drives violence and condemning the violence that is committed. But I couldn’t find it.
+In the same way, I had found it difficult to talk about the fetishization of AAPI women and the way that drives violence against AAPI women. I don’t want to inadvertently give any legitimacy to desperate men who entrench themselves in right-wing and white supremacy spheres because they’re lonely and frustrated. There’s also the other issue that I am a man and will never experience this. But these are difficult conversations that we need to have that are only getting more difficult to have. So how do we do that?
+The short answer to that: I don’t know.
+I think it’s okay to not know at this point in time. That was a tough pill to accept. The best thing any of us can do is listen to those who are vulnerable to the ills of our unsustainable social fabric. Part of increasing social trust is listening to the most vulnerable, and of course, it differs based on different contexts and scenarios. Harm reduction is our best strategy in this current time period, and hopefully, we can do enough of that to start rebuilding our social fabric again.
+Yet I can’t help but feel scared. When I first moved to this country, it wasn’t the rosy American Dream picture that gets pitched to all immigrants, but there was still a certain warmth that I remember the country used to have more of. Even though I have experienced racism before and have been bullied by racist people when I was younger, I still wasn’t as afraid of going outside then as I am of going outside now as a pretty big 21-year-old guy. I know there are many others who feel the same way.
+But the night is darkest before dawn. We have had many dark chapters in history, and this is one of them. It doesn’t help that social media makes this dark period more difficult to manage because there’s so much information and news out there. But I’m certain of one thing: just listen and remember to take breaks. You don’t have to be worried about every issue all the time. Change will take a lot of time, and you won’t miss out on it just because you took a few days off from caring about the world to take care of yourself. Ultimately, we’re all in this together, whether we like it or not. If we listen to each other and ourselves, I think we’ll all get through this just fine.
+Or maybe we won’t. It’s a frightening possibility, but we’ll figure that out when we get there.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+

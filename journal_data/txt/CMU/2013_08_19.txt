@@ -1,0 +1,605 @@
+The last time the Pittsburgh Pirates had a winning season — not to mention the last time they made the playoffs — the majority of Carnegie Mellon’s current senior class had not yet been born. Now, 21 years later, the Pirates are on the precipice of not only their first season over .500 in over two decades, but a division crown to match.
+For the past two seasons, the Pirates have been toying with the city of Pittsburgh, leading the National League Central Division into July before crashing back to Earth and, ultimately, into more losing seasons. The main difference between those seasons and this one is the success of the whole team, not just the success of a few all-stars.
+This season has seen the growth of the Bucs lineup surpass last year’s crew, which revolved solely around all-star center fielder Andrew McCutchen and featured a largely inconsistent batting order. As a result, the Pirates’ success in the past closely relied on that of McCutchen at the plate. This season saw the maturation of several young Bucs, namely third baseman Pedro Álvarez and left fielder Starling Marte, with the addition of veteran catcher Russell Martin. These changes have allowed the Pirates offense to become more consistent and successful without McCutchen hitting unworldly numbers. 
+Álvarez and Marte are part of the new wave of talent that Pittsburgh has been developing through two decades of high-draft picks. In the past, a few of these top picks grew into their potential. However, when the time came for them to get paid, they were traded for more prospects, of which only one or two would hit the major leagues. These types of trades were typical of past Pirates management, which prioritized saving money over winning games. In 2008, with the introduction of an entirely new managing team from majority owner to general manager, the Pirates began yet another rebuilding project.
+After a few years of repeating the same veteran-for-prospect trading system, Clint Hurdle was hired as manager, and the Bucs felt they had finally amassed the right talent to begin pushing for wins. Starting with Hurdle’s inaugural season in 2011, the Pirates were at least discussed by competitors, until the Pittsburgh Steelers began training camp in the beginning of August. The Pirates even reversed their previous trade trends and acquired a pair of veteran bats at the trade deadline, but to no avail.
+The 2012 off-season witnessed the beginning of the Pirates’ competitive strategy, with the free-agent acquisition of proven, undervalued veterans providing leadership and relieving some pressure for the developing youth. The addition of starting pitchers A.J. Burnett during the 2012 off-season, Wandy Rodríguez at the trade deadline, and Francisco Liriano before the 2013 season gave the Bucs the veteran start-of-the-rotation presence needed to truly compete for a division title, and possibly a World Series. All of these pitchers were picked up coming off bad seasons and have experienced career resurgences since their move.
+These veterans, combined with the emergence of all-star Jeff Locke and former first-round pick Gerrit Cole, have given the Pirates one of the better starting rotations in the National League, even with Rodríguez spending a large chunk of the season on the disabled list. The Pirates bullpen has been cobbled together in the same fashion as the rotation, with grizzled journeyman veterans Jason Grilli and Mark Melancon leading up the bullpen, also known as the “Shark Tank.” Grilli, who served as the closer, recently went down with a strain in his right arm and will return just in time for the Pirates’ hopeful playoff run. In the meantime, Melancon has made the seamless transition from setup man to closer, and he has yet to give up an earned run since taking over the role in late July.
+The Pirates are still looking to add another veteran bat before the Aug. 31 wavier trade deadline, after failing to do so by the nonwavier trade deadline of July 31. But even as they are — 11 wins shy of their first winning season in most of our lifetimes and three games up on the St. Louis Cardinals for the NL Central division lead — the Pirates appear to be making a new kind of history.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+If you’ve ever tried drawing or writing on a touchscreen, you may have noticed that the lines drawn on the screen aren’t exactly where you wanted them to be. This “fat finger” problem arises because your finger is pretty large or “fat” compared to the small touchscreen. Recently, a team of computer scientists from Carnegie Mellon and Microsoft Research developed an app that automatically corrects drawing strokes while preserving the user’s artistic style.
+This app, DrawAFriend, is currently available to download from the Mac App Store. It is a two-player game in which one player draws a picture of a celebrity or mutual Facebook friend while the other guesses the name of the person drawn in a Hangman-like fashion. The app automatically corrects users’ strokes, often without them noticing. “Our goal was to make it invisible to the user, so people wouldn’t even be aware the correction is taking place,” said Alex Limpaecher, a Ph.D. student in computer science, in a university press release.
+The team consisted of Limpaecher, computer science professor Adrien Treuille, Ph.D. student in computer science Nicolas Feltman, computer science professor Adrien Treuille, and Michael Cohen, a principal researcher in Microsoft Research’s Interactive Visual Media Group.
+Initially, the main goal of the app was to gather data, which it did by encouraging users to draw sketches of Angelina Jolie, Brad Pitt, and other celebrities for their friends or other users to guess. In its first week, the game generated 1,500 images a day, creating a huge database of drawings with stroke-by-stoke information. The game is still operational, and the database now exceeds 17,000 entries. This huge database of drawings allowed the team to analyze the drawings and come up with a stroke-correction algorithm. They applied the algorithm to future drawings on the app, allowing current users to create more precise sketches.
+This is one of many problems that have been solved using big data. “Big data” refers to the collection of a large amount of specific data — in this case, drawings — to observe patterns in the data and solve a problem. The larger the data set, the more precise the patterns become and the better the solutions will be. In this case, a large database of drawings was essential for the researchers to correlate the strokes in the images, thus creating the algorithm for eliminating the noise associated with the fat finger problem.
+In a press release, Treuille said that the drawing assistance app is just one example of how big data can be used to enhance drawing and writing on touchscreens and even provide insight into art and perception. The trick has been to create drawing databases large enough to leverage, which the research team did by developing DrawAFriend.
+According to Limpaecher, the idea for the game stemmed from earlier projects and a need to address the difficulties of gathering data involving drawings. Limpaecher had personally dealt with this problem. In a previous project, his team collected the data set from an artist. Not only did it take a long time to get the drawings; they were able to obtain only 154 images, not nearly enough to support a drawing assistance app. The goal here was “to create a drawing helper that used other people’s drawings to help you draw,” Limpaecher said via email.
+At the moment, the app only helps people who are already adequate at drawing on a touchscreen but may need some assistance. Limpaecher says that in the future, he would like to add features that can help people at any talent level.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Incoming first-years always recieve a ton of advice: go to office hours, make new friends, try out new restaurants. Among these pieces of advice is one that warns students that hot plates and other similar cooking appliances are not allowed in dorm rooms; they’re fire hazards. Stripped of these cooking appliances, many students turn to preserved foods in their quest for a rejuvenating midnight snack. Humans have been preserving food for hundreds of years to ensure they would have stores of food in tough conditions like famines (and finals week).
+The purpose of food preservation is to ensure that bacteria do not reproduce. When bacteria multiply in food, they release waste that causes the food to look, smell, feel and taste bad. Certain pathogens can also cause the spoiled food to become toxic. According to Arimi Foods, the same bacteria that cause food to spoil also thrive in warm temperatures in the range of room temperature to 104˚F. This is why one of the most common methods of preserving foods is refrigeration. The cold temperatures present inside a fridge slow down the reproduction of bacteria. Kept this way, most foods tend to last for about a week.
+However, temperature can be lowered further to keep food safe for longer. The freezer, which uses below-freezing temperatures to store food, keeping it fresh for months. Since water is no longer available to the bacteria, they are not able to grow or react chemically with foods.
+Canning is another way to preserve foods. This can take take the form of produce canned at home, or factory canned food available in supermarkets. In both cases, the food is heated to kill bacteria present at the beginning of the canning process. Afterwards, the food is put into an airtight container and sealed, preventing new bacteria from entering the food. Foods preserved this way can keep for several months. 
+Canning also has the additional advantage of not requiring the energy needed to maintain a low temperature continuously, like in refrigeration and freezing. For this reason, canned foods are popular in disaster-relief kits and emergency kits, as they can keep for a long time and be consumed in situations where power is not readily available.
+Yet another popular food preservation technique is drying. This technique works because drying food removes all moisture, which bacteria need to grow and react with foods. An advantage to drying is that dried foods take  up less space to store than food preserved by other means, says the College of Agriculture, Consumer, and Environmental Sciences at the University of Illinois. However, drying changes the taste and appearance of foods unlike other forms of food preservation. To dry food, www.dryit.com explains, it is placed where warm dry air can move past it continuously. This warm air absorbs the moisture from the food and carries it away, thus dehydrating the food. Dried foods are often further vacuum sealed to keep them safe for longer. According to fantes.com, vacuum sealing ensures that the foods don’t come into contact with oxygen. Without oxygen, oxidation of the food cannot take place. Furthermore, bacteria cannot thrive in a vacuum.
+Food is an essential human need, and human ingenuity lets people have food even when it is not readily available in its natural form. So while incoming freshmen might not be able to prepare their favorite meals in the comfort of their rooms, they will be able to snack on a variety of preserved foods. 
+Or they could just order pizza.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Astronomers discover distant blue planet
+A deep azure-blue planet has been discovered orbiting a star 63 light years away; this is the first time astronomers have been able to determine the color of a planet outside our solar system. The feat was accomplished using Hubble’s Space Telescope to measure how much light was reflected off the surface of the planet before, during, and after it passed the star that it orbits. 
+Other features of the planet include having a daytime temperature of 2,000˚F, wind gusts up to 4,500 mph, and raining liquid glass. It is also 2.9 million miles away from its planet star — 10 times closer than Mercury is to our sun. The planet is classified as a “hot Jupiter,” a planet similar in size to a gas giant but close to its parent star.
+Source: CNN
+Scientists produce edible meat from cow shoulder cells
+The future of food has taken a new direction with the invention of lab-grown meat. Mark Post, a Dutch researcher from the University of Maastricht, has pioneered a way of growing meat using stem cells (cells that can differentiate into tissue-specific cells) from cow shoulder muscle. The cells were multiplied in a nutrient solution and put in petri dishes, where they grew into muscle cells and formed strips of muscle fiber, a process which was developed through a $325,000 project.
+A five-ounce burger was made from 20,000 strips of fiber, breadcrumbs, salt, and some natural colorings. While the lab-grown burger received subpar ratings in its taste test, it has introduced the idea of cultured meat to the world. 
+Source: The New York Times
+Live tissue and organs produced by 3-D printers
+3-D printing has gained increasing popularity in the past few years, with 3-D printers for the home recently becoming feasible. However, the newest breakthrough in this form of manufacturing technology is the 3-D printing of live tissue. Researchers at Hangzhou Dianzi University in China have developed the Regenovo 3-D printer. 
+Regenovo prints living tissue — in particular, it has successfully printed small human ears. Several months ago, a team at Cornell University were also successful in the 3-D printing of ears. At Organovo in San Diego, researchers are working on 3-D printing of fresh human livers. The development of these kinds of technologies may revolutionize the world of biomedical engineering, facilitating surgeries such as organ transplants and making them more personalized.
+Source: New Scientist
+Robot uses slime to express different set of emotions
+Ella Gale, a researcher at the University of the West of England in Bristol and the Bristol Robotics Laboratory, has discovered a way of using slime mold to give emotions to robots’ faces. Slime mold, although unicellular, is able to find the quickest path to food and has even shown signs of having memory. 
+Gale has developed a way of expressing emotions on a human-like robot face by hooking up the robot face so that its expressions are controlled by electrical signals. These signals are produced when slime mold shies away from light or moves towards food. Because slime mold produces electrical signals as it moves across electrodes, Gale and her team were able to assign different emotions to different signals.
+Source: New Scientist
+Researchers look into evolution of the X chromosome
+The X chromosome has typically been considered the “female” chromosome, and the Y the “male.” This would suggest that since the second X chromosome in females is disabled, its evolution was slowed down and its genes would be similar in most mammals. 
+However, recent studies show that it is not only the Y chromosome that contains the genes responsible for sex determination, male development, and male fertility. Rather, the X chromosome has been found to contain genes that are only active in tissue that is destined to become sperm. After sequencing human and mice X chromosomes, geneticists discovered that there are a lot of unshared genes between the human X and mouse X, indicating that the X chromosome may have undergone evolution.
+Source: Wired
+Dolphins respond to unique sounds of their own name
+It is a well-known fact that dolphins communicate with each other with clicks and whistles. However, a new observation has been made: Dolphins actually respond selectively to signature whistles, the same way a human being would respond to someone calling their name. This finding is one of the first examples of naming in mammals and suggests that there is a parallel between dolphin and human communication. 
+Biologists recorded signature whistles and played them, along with computer-synthesized distortions of them, through a hydrophone in Scotland’s eastern coast. The wild bottlenose dolphins ignored unfamiliar whistles while whistling back to their own signature whistles.
+Source: Wired
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+On a festive occasion involving Carnegie Mellon students, faculty, staff, and alumni from around the world, former National Science Foundation (NSF) director Subra Suresh assumed office as Carnegie Mellon’s new president at the end of last school year. Suresh began his term on July 1 as the university’s ninth president, succeeding President Jared Cohon. 
+Suresh was selected by a 17-member committee, which included representation from the university’s Board of Trustees, faculty, and alumni. Anthony Rollett, former head of the Faculty Senate and professor of materials science and engineering, chaired the faculty committee. The search committee selected Suresh from hundreds of outstanding candidates. 
+“As the co-chair of the search committee, it was extremely rewarding to work with the entire community in the search process and to succeed in attracting such an outstanding individual as our new president,” Rollett said.
+Suresh received his bachelor of technology from the Indian Institute of Technology, Madras in Chennai in May 1977, his master’s in science from Iowa State University in May 1979, and his doctorate from the Massachusetts Institute of Technology in August 1981. After completing his post-doctorate research at the University of California, Berkeley, he joined the Brown University faculty in December 1983.
+After 10 years at Brown, Suresh joined MIT in 1993 as the R.P. Simmons Professor of Materials Science and Engineering, and later became the Vannevar Bush Professor of Engineering. In 2000, he was appointed head of the department of materials science and engineering. In July 2007, when he began his tenure as the dean of MIT’s School of Engineering, he became the first Asia-born dean of any MIT school.
+During his time as dean at MIT, Suresh recruited a record number of women faculty members in engineering and promoted cutting-edge interdisciplinary study. As an accomplished engineer, he made medical discoveries by studying the mechanical nature of individual human cells and highlighting their connections to human disease states.
+Suresh’s ability to pioneer innovation by combining academic disciplines set a precedent for the broad scope of research and career applications for MIT scholars, in engineering or otherwise. He remained at MIT until September 2010, when he was nominated by President Barack Obama and unanimously confirmed by the Senate as director of the NSF.
+As NSF director, Suresh focused not only on keeping the United States at the forefront of scientific development, but also on empowering current and future generations of scientists. The focus of his initiatives included training young scientists to balance work and family life, accelerating commercialization of university research, teaching researchers to transform their ideas into products, and emphasizing international scientific collaboration.
+“Science and science policy are inextricably tied together, and Dr. Subra Suresh has power in both courts,” said Diane Turnshek, special faculty member in the department of physics. Beyond his leadership at MIT and the NSF, Suresh has been recognized worldwide for his work in the fields of engineering, life sciences, physical sciences, and medicine. He has co-authored over 240 research articles, collaborated on over 20 U.S. and international patent applications, and co-edited five books. He has also authored three widely used materials science textbooks: Fatigue of Materials, Fundamentals of Functionally Graded Materials, and Thin Film Materials. 
+“The MSE faculty are absolutely delighted to have such a distinguished scholar as Subra Suresh as a member of the materials science and engineering department and we look forward to supporting him in any way that we can,” Rollett said via email. 
+Suresh has been acclaimed by ScienceWatch.com as one of the decade’s most eminent and most cited materials scientists worldwide. Suresh made additional contributions to the field of engineering through his development of strategies to optimize strength, ductility, and damage tolerance of materials using nanoscale internal interfaces; his discovery of nanocrystallization during room-temperature mechanical contact in metallic glasses; and his identification of key mechanisms that influence the growth of fatigue cracks in a wide variety of brittle and ductile materials.  
+Aside from his research highlighting important links between individual cell processes and human disease states, he has contributed to the medical field through his development of new microfluidic platforms for human disease diagnostics, therapeutics, and drug efficacy assays. 
+Among many honors, he has received the American Society of Mechanical Engineers 2012 Timoshenko Medal, the highest global recognition in the field of theoretical and applied mechanics, and the 2007 European Materials Medal, the highest honor bestowed by the Federation of European Materials Societies. His work on nanobiomechanics was cited by Technology Review magazine as one of the top 10 emerging technologies that “will have a significant impact on business, medicine, or culture.”
+“Carnegie Mellon University is a guiding force in the world today, and I celebrate that at its helm is a leader who has been trained as a scientist and engineer,” Turnshek said. “His record demonstrates that he’s thought deeply and scientifically about solutions to our global problems.”
+With the dawn of the new academic year, Carnegie Mellon welcomes a president who is not only a distinguished scholar and esteemed leader, but also an individual who has remained committed to empowering scholars across disciplines.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+You’ve officially arrived at college. While you’ll be busy over the next few days getting to know the campus that will be your home for the next four or five years, it’s also important to explore outside the Carnegie Mellon bubble. Pittsburgh is a wonderfully diverse city with lots to offer, especially to college students. Read on for an overview of the neighborhoods of Pittsburgh that we here at The Tartan don’t think you should miss.
+1. Strip District
+Vibe: An eclectic mix of just about everything Pittsburgh has to offer.
+Favorite eats: For brunch, try Deluca’s, a cheaper and homier version of student favorite Pamela’s Diner. If you’re looking to splurge on a nice dinner, Bar Marco has you covered. Recently named one of Bon Appétit’s 50 best new restaurants in 2013, Bar Marco’s menu is constantly changing and always full of delicious surprises. On a related note, definitely go there when you turn 21; the only things better than their food are their cocktails.)
+Favorite attraction: The weekend markets are the main attraction for the Strip. The neighborhood’s streets are bustling in the morning hours with crowds of people stopping in boutique shops and at sidewalk vendors. The Strip is also home to one of Pittsburgh’s most popular concert venues, a church-turned-club called Altar Bar.
+To get there: Making the trip can be a challenge, but if you time it right, the 54 from N. Craig Street and Fifth Avenue will take you straight there.
+2. Lawrenceville
+Vibe: A young, hip community where you’ll probably bump into a Carnegie Mellon art professor or two.
+Favorite eats: The best Italian restaurant in Pittsburgh, Piccolo Forno, is located in the heart of Lawrenceville and is a great choice for an adventurous date — where the adventure would be getting there via public transportation. If you’re in the mood for a great hot dog, check out Franktuary, where you have myriad choices for your hot dog — or veggie dog. We recommend trying it “Pittsburgh style,” with a smooshed pierogi and slaw.
+Favorite attraction: For a night of good, clean fun, try Arsenal Bowling Lanes. Think of it as your favorite bowling place as a kid, except it’s actually cool and geared toward adults. Every year they put up some intense Halloween decorations, so we recommend heading over there then. Bowling aside, Lawrenceville is just a great area to spend an afternoon. With lots of great shops and wonderful coffee at Espresso a Mano, it’s well worth the hassle of getting over there to spend a quaint weekend afternoon.
+To get there: Biking there is your best bet, but it is possible to get there by bus. You’ll have to transfer buses or walk a bit, so we recommend pulling this one up on your smart phone.
+3. East Liberty
+Vibe: Trendy, up-and-coming neighborhood with all of the necessities.
+Favorite eats: East Liberty has lots of great food options, from grocery stores to restaurants. With Whole Foods, Trader Joe’s, and Giant Eagle all within walking distance of each other, your grocery needs are covered here. For a night out, try BRGR, an awesome burger joint complete with heavenly milkshakes. If you’re in the mood for barbecue, check out Union Pig and Chicken, where you’ll be seated at picnic-style tables, and where in one sitting you’ll eat enough food for an entire week. Or now that you’ve been warned, you’ll just have really great leftovers.
+Favorite attraction: East Liberty is also home to the nearest Target, and which is convenient for getting dorm, apartment, and school supplies. The East Liberty Presbyterian Church is also worth a visit; its huge tower can be seen from miles away and it remains at the heart of the neighborhood, even as all the run-down buildings around it are converted to upscale shopping and office complexes.
+To get there: Take the 71 A, B, or C or the 75 bus from N. Craig Street and Fifth Avenue.
+4. Bloomfield
+Vibe: The “Little Italy” of Pittsburgh.
+Favorite eats: Bloomfield has tons of amazing bakeries and Italian restaurants to check out, including Alexander’s Italian Bistro, Sanchioli Brothers Bakery, and Paddy Cake Bakery. Go hungry and go often.
+Favorite attraction: Also home to numerous art galleries, Bloomfield is where much of the Penn Avenue Art Walk, which happens every first Friday of the month, takes place. While the neighborhood is well worth a visit on any given day, the art walks really bring the community to life.
+To get there: Though it’s close enough to walk on a nice day, Bloomfield is also reachable by hopping on the 54 from Fifth Avenue and N. Craig Street.
+5. Shadyside
+Vibe: A chic, clean neighborhood with trendy shops. 
+Favorite eats: For a cheap burger, check out Stack’d, a burger joint where you build your own burger from the bun up. For a nicer evening out, head across the street to Girasole, a fabulous Italian restaurant with a classy, old-world vibe. If sushi is your thing, Umi is your place. Located on Ellsworth Avenue, this restaurant is known for its fresh, delicious sushi.
+Favorite attraction: Walnut Street itself is worth the short trip to Shadyside. This spot has nearly every kind of shopping you could desire, from the Apple Store to Banana Republic to Francesca’s Collections. Take a walk down the street for window shopping, coffee, and some delicious gelato.
+To get there: Hop on any of the outbound 71 buses from Fifth and Morewood avenues. Or you could walk down Fifth Avenue and turn down S. Aiken Avenue. It’s pretty close.
+6. Squirrel Hill
+Vibe: A less expensive, quirkier version of Shadyside.
+Favorite eats: For the best pizza in all of Pittsburgh, head to Mineo’s Pizza House on Murray Avenue. Then, if you still have room, check out Gullifty’s for delicious desserts. These local favorites are small and quaint but will blow you away with their delectable goodies. For a classic, quality dinner before a movie, check out the Murray Avenue Grill; their French fries are to die for. 
+Favorite attraction: The old-timey and intimate Squirrel Hill movie theater — the Manor Theatre — is the perfect place to check out a new movie in a building with a fantastically vintage vibe. It’s nestled among just about every kind of restaurant you could dream of, so it’s easy to make a night of it.
+To get there: Grab an outbound 61 from the corner of Morewood Avenue and Forbes Avenue, then jump off at Forbes and Murray avenues. You’ll be in the heart of Squirrel Hill in no time.
+7. Oakland
+Vibe: A tried and true college community.
+Favorite eats: For breakfast, head to Pamela’s; there is no contest for a better, greasier, more satisfying breakfast. When it comes time for lunch, if you’re somehow hungry after that huge breakfast, head over to Primanti’s for a signature Pittsburgh favorite. For dinner, come back toward Carnegie Mellon and dine outside at The Porch at Schenley Plaza. With a hip but mature ambiance, it’s the perfect dinner for an evening out. 
+Favorite attraction: The Carnegie complex includes three amazing and free venues, all of which you should take advantage. First off is the Carnegie Library of Pittsburgh, which has not only every book, magazine, or movie you could desire, but also a multitude of free events to attend. The Carnegie Museums of Art and Natural History are next on the list: They’re both free with your ID and packed with interesting and thought-provoking material. Best of all, you don’t even need a bus to get there. 
+To get there: Hop on either an inbound 61 from Forbes and Morewood avenues or an inbound 71 from Morewood Avenue and Fifth Avenue. Or just walk — it’s practically in your backyard.
+8. South Side
+Vibe: A vibrant shopping center and party place.
+Favorite eats: The famous Buca di Beppo is a fun trip, especially for a big group. This quirky, almost cheesy Italian restaurant serves good food family style. You’ll be full of pasta before you can say “Mamma Mia.” For an especially awkward and hilarious dining experience, ask to sit in the Pope room, where a bust of the Pope watches you eat. 
+Favorite attraction: Station Square is a must-see for anyone who is going to call Pittsburgh home for the next four years. Head there for the Cheesecake Factory, trendy shopping, beautiful fountains and gardens, and a short walk to the river’s edge. 
+To get there: This one’s a little harder. Grab an inbound 61 bus from Forbes and Morewood avenues, and get off at Sixth Avenue and Wood Street. From there, walking across the Smithfield Street Bridge will put you off at W. Carson Street, right in Station Square.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+As an incoming first-year, you may be unsure of what is and isn’t acceptable to wear on a daily basis in college. While you may have heard that everyone wears sweats or pajamas to class every day, this is isn’t entirely true. On the other hand, you might think that the absence of the dress code you had in high school is your chance to wear things you couldn’t before, like revealing or offensive clothing. 
+Since you're coming to Carnegie Mellon, the latter is probably not the case for you, but here are a couple of dos and don'ts that can guide you in the right direction. Remember that it’s important to be comfortable and express yourself, but you also want to make a good impression. 
+Do try to look presentable. You don't have to get dressed up for class, but find a balance between looking your best and looking like a slob. It’s okay to occasionally give the impression that you rolled out of bed and dragged yourself to class, but every day is a bit much. An outfit as simple as jeans and a T-shirt can make a difference. 
+Don't get too dressed up if there’s no reason to — during Orientation Week, for example. If I could do it again, shorts and T-shirts are the extent of the effort I would put forth.
+Do stay hygienic. This may seem like common sense, but you would be surprised. Just make sure you shower and brush your hair, for obvious reasons. 
+Don't wear your pajamas to class. The occasional sloppy day in sweatpants is excusable, but leave your Spongebob-patterned sleepwear at home. 
+Do dress up for events that require you to. You may have to dress formally sometimes if you’re in a certain major or program, so take these things seriously.
+Don't wear stuff with offensive words or images. Hopefully, you know the difference between what’s acceptable and what isn’t. Stay away from the latter.  
+Do dress appropriately for the weather. Pittsburgh weather is notably bipolar, so wearing layers is smart. 
+Don't get too caught up in what you’re wearing during finals. Lots of people don’t care what they’re wearing during this week, since most of their time is spent studying at the library anyway. Wear something comfortable, and bring everything you need to avoid making multiple trips back to your dorm. 
+Do put your own personality into what you’re wearing. College is all about independence and individuality, so express yourself!
+Don't forget to carry your umbrella with you, since it invariably rains at least once every day in Pittsburgh.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Looking to take in some live music during your time at Carnegie Mellon? Here’s a breakdown of the more frequented venues Pittsburgh has to offer.
+Stage AE
+Located between Heinz Field and PNC Park, Stage AE is a pretty standard venue. The acts booked there are usually moderately priced ($30–$50) and well known. The indoor hall is divided into floor and balcony areas, both of which are typically for standing audiences only. The venue is nicely sized; even back at the bar, you have a good view of the stage. It boasts a second outdoor stage for warm weather, also sizable.
+Coming from campus, Stage AE can be a bit of a pain to get to by bus: You have to take a 61 to Downtown, and then take a bridge over the Allegheny River. When the weather’s warm this is a pretty pleasant experience, but it can be uncomfortable when Pittsburgh begins its deep freeze.
+Altar Bar
+Located in the Strip District, the Altar Bar is small — very small — but that’s one of its strong suits. There is very little separation between the audience and the artist; the stage is small and low, and there isn’t a no man’s land inhabited by angry bouncers. The venue is also a renovated church, with an upstairs balcony with tables and chairs where you can sit and relax.
+The Altar Bar is also relatively easy to get to by bus: If you take a 54, you’re left off about a block from the front door. If you take a 61, the walk is a little longer, but it still gets you there. The shows are inexpensive (rarely over $30 and often much, much cheaper) and it’s a beautiful place, so definitely catch a show there if you get the chance.
+Rex Theater
+Located in the South Side, shows at the Rex are cheap (usually $10-$30) and can go until 2 a.m. The venue is just big enough to pack in a good-sized crowd (around 500), but small enough that even in the far back, you’re closer to the stage than you would be if you tried to fight your way to the front at Stage AE. It’s also easy to get there by bus: The 54 drops you right in front. Go see a show at the Rex if you can. You won’t regret it (unless the artist you’re seeing isn’t good, in which case it’s not the Rex’s fault).
+Consol Energy Center
+I admit I haven’t seen a concert at Consol, but I did go to a Penguins game there. Consol follows the standard model of massive, 20,000-person arenas. Enjoy watching the video screen and emptying your wallet for a bottle of Dasani. That being said, there is something pretty amazing about being part of a massive crowd: When I saw Jimmy Buffett play Madison Square Garden, I was awestruck at the sight of so many inebriated men and women of all ages, dressed in Hawaiian shirts belting along to “Margaritaville.”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Buying a dinosaur toy? $5. Seeing a movie about dinosaurs? $15. Getting to see the skeletons of the real thing? Priceless.
+Actually, it’s free for you through a Carnegie Mellon program known as Arts Pass. 
+Sponsored by the Student Dormitory Council, the Student Senate, the Graduate Student Assembly, the College of Fine Arts Dean’s Office, and the Division of Student Affairs, the program is designed to expose students to all that Pittsburgh has to offer culturally.
+The program grants students free admission to the Carnegie Museum of Art, the Carnegie Museum of Natural History, the Carnegie Science Center, the Carnegie Science Center’s Highmark SportsWorks, the Andy Warhol Museum, the Mattress Factory, the National Aviary, and Phipps Conservatory and Botanical Gardens. In order to experience any of these impressive venues, all you need to do is flash your Carnegie Mellon ID upon entry.
+The venues included in the Arts Pass program offer a wide variety of “culture.” For the art junkies, there’s the Carnegie Museum of Art in Oakland, a traditional art museum featuring most genres and types of work you can think of, from Japanese prints to Victorian furniture to photography. It covers art across the millennium and presents it in a clean, insightful manner.
+Attached to the Museum of Art is the Museum of Natural History, which features stunning geological, botanical, and anthropological exhibits in addition to the ever-popular dinosaur and Egyptian exhibits. It really has something for everyone, and it’s worth a trip just to see the Egyptian tomb restoration. 
+The close proximity of the Carnegie museums — they’re just down the street from campus — makes it even easier to experience these world-class institutions.
+If you’re interested primarily in contemporary and modern art, use your Arts Pass to check out the Mattress Factory, a museum that features only modern art. Small but powerful, the Mattress Factory largely features full-room exhibits called installations. The museum spans three repurposed buildings on the North Side and is well known for its thought-provoking exhibits.
+Another artistic gem — one that is 100 percent Pittsburgh — is the Andy Warhol Museum. This museum features all things Warhol, from sketches and prints to videos. But beyond showcasing just Warhol’s work, the exhibits feature artists influenced by Warhol that embody the contemporary artistic style he trademarked. 
+For the more science-oriented among us, the Carnegie Science Center is a definite must-see. Nestled by Heinz Field on the North Shore, the center features exhibits on all things science-driven: a submarine; an aquarium exhibit; the world’s largest permanent robotic exhibit; a miniature railroad exhibit; Body Tech, a hands-on surgical exhibit; and a two-story walk-in model of the International Space Station, just for starters. 
+Right next door is the Carnegie Science Center’s Highmark SportsWorks, which is dedicated to the exploration of science through sports. It focuses on three areas. Physics of Sports explains the science behind athletics through interactive exhibits like the human yo-yo. LifeWorks describes the medical and nutritional aspect of sports. Challenge features more conventional sports activities, such as a rock wall and an Olympic sprint.
+These two attractions are unique to Pittsburgh and truly define hands-on learning, making your visit not only worthwhile and educational but also fun.
+At the National Aviary, students can experience a unique zoo that exclusively features birds — nearly 150 species and a total of around 500 birds. Located on the North Side, the aviary (and its cast of adorable feathered friends) is a one-of-a-kind attraction.
+Finally, located just across Flagstaff Hill from campus is the Phipps Conservatory and Botanical Gardens. A beautiful collection of some of the world’s most interesting flora and fauna, Phipps is a perfect place to slip away from campus life and relax for a few hours. Close to the holidays, the staff decks everything out in lights, and the spring flower show features butterflies that flit around and even land on you. Unique and breathtaking, Phipps should be on everyone’s Pittsburgh to-do list.
+Sometimes forgotten amid tests, papers, and projects, the Arts Pass program is a fantastic resource of which students should take full advantage. The venues included in this program are not only culturally enriching, but also educational. Regular admission for these attractions generally runs from $10 to $20 — a price that, for many living the broke college-student lifestyle, would make these experiences too expensive to afford on a regular basis. Thanks to the Arts Pass, though, that’s not the case.
+For more information on the program and participating venues, visit studentaffairs.cmu.edu/StudentActivities/artspass.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Carnegie Mellon is infamous for late nights, early mornings, and insufficient amounts of sleep, all starting during the week of Orientation. So what’s a Carnegie Mellon student to do in order to stay awake and not miss any of the fun? Everyone’s favorite mild liquid stimulant — coffee — can be found all over campus and in the neighborhoods nearby. So whether it’s 4 a.m. on a Sunday and you’re finishing a few lines of code, or you just need a quick pick-me-up before a nighttime recitation, Carnegie Mellon can offer an abundance of choices to satisfy that caffeine craving.
+Skibo Café (University Center, second floor)
+Since coffee isn’t listed on the main Skibo menu, there are fewer coffee orders to fill. The fewer the orders, the more likely you’ll end up with a half-decent cup of coffee that isn’t totally burned. They’ve got your standard lattes, cappuccinos, and some nice flavor shots like vanilla and hazelnut. The beans are ground after you order, so the coffee typically tastes pretty good. If it’s really busy, the person making your coffee might be in too much of a rush to properly warm up your milk. Just ask; the staff will rectify the situation, and Skibo has some of the nicest staff of all the campus dining locations. Just don’t show up on a Friday or Saturday night. 
+Rating: 3/5
+Carnegie Mellon Café (Resnik House, first floor)
+Another eatery that tends to run out of coffee at key times during the day — breakfast, lunch, and dinner, for example — the Café serves black Starbucks coffee in three different sizes. If you happen to catch a fresh pot, it’s a great option for a quick cup of coffee before running to class. Be warned, though: Since the Café is predominately a place for food, the line can get extremely long during meal times. On the plus side, however, you can get your cup of coffee on a block: The Café is one of the only dining locations that allows you to get a decent cup of coffee with your meal without an extra charge. 
+Rating: 2.5/5
+The Underground (Morewood Gardens, Basement)
+Coffee here comes straight out of a silver contraption with a nozzle. The coffee sits in there until it’s empty and the staff decides to make a new pot. Think diner coffee, except you get to serve yourself, and sometimes there just isn’t any coffee left. Also available is some sort of sugar syrup that is called coffee, but no one is really sure whether you get the jitters from the supposed caffeine or the amount of pure sugar coursing through your veins after one cup of the stuff. Either way, the coffee will leave you a bit disappointed and wishing you’d walked just a little further to get a drink.
+Rating: 1/5
+Ginger’s Express (Baker Hall, basement, or Purnell Center for the Arts, first floor)
+Unless desperation strikes, avoid both outlets of Ginger’s Express if you can. The location in the basement of Baker Hall is fine if you’re really in a hurry, since there usually isn’t much of a wait except in the early morning. The coffee is Starbucks black. It’s usually lukewarm unless you’re there right after it’s made. The muffins and other snack offerings are somehow so greasy they could stain a shirt, and so dry you might choke if you swallow too quickly. It’s definitely not a “don’t-miss” stop for a cup of coffee — or anything. 
+Rating: 1.5/5
+La Prima Espresso (Wean Hall, fifth floor)
+La Prima is arguably one of the busiest places to grab a cup of coffee any time people aren’t sitting in class (during breakfast, lunch, and breaks between classes). But it’s definitely worth it. The employees are friendly and funny, the coffee options are vast, and it’s worth it to pick up a croissant, biscotti, or another treat if you’d like something yummy to accompany your coffee. Although it’s not viable as a place to stop in a hurry, and it isn’t open after classes finish for the day, the line past the bank of elevators will tell you that your fellow students think the wait is worthwhile.
+Rating: 5/5
+Maggie Murph Café (Hunt Library, first floor)
+Although the coffee is nothing special, you’d be hard-pressed to find a Carnegie Mellon student who hasn’t thanked the powers above for the existence of the Maggie Murph Café at least once. Open 24 hours a day, five days a week, the Maggie Murph Café has the most robust menu options of on-campus Starbucks coffee locations. The variety of syrups, specialty coffees, and made-to-order drinks means that the line is long during peak times like breaks between classes, but you’ll be able to get what you want. It’s also the best location to bond with other sleep-deprived students and café employees any weeknight after 3 a.m.
+Rating: 3.5/5
+Tazza D’Oro (Gates Center, third floor)
+Arguably the best stop on campus for an iced or hot beverage, an ever-changing and amusing playlist, and totally hipster baristas, Tazza D’Oro is certainly not to be missed for anyone seeking a made-just-for-you cup of the good stuff. It’s one of the few spots on campus that isn’t run by CulinArt and doesn’t serve Starbucks coffee, and there are plenty of cool — albeit bizarre — brightly colored seating options even after the café is no longer open. Maybe someday our beloved Tazza will stay open to serve the late-night coders all over Gates every night of the week.
+Rating: 5/5
+The Zebra Lounge (College of Fine Arts Building, first floor)
+A stop at the Zebra Lounge, which offers your typical Starbucks hot coffee options, is worth it for the ambiance and décor. True to its name, the Zebra Lounge has plenty of zebra-patterned seats, tables, and other accents, and boasts a decent range of coffee accompaniments like donuts and sweet breads. If you grab a cup of coffee during an off-peak time, like the mid-morning lull between the breakfast and lunch rushes, it’s a nice place to enjoy a leisurely cup of coffee in peace. With no windows except high overhead, the location is a nice escape from campus if that’s what you need.
+Rating: 3/5
+Bagel Factory (420 S. Craig St.)
+Just a few blocks down the road from campus, the Bagel Factory is a favorite eatery of Carnegie Mellon students, University of Pittsburgh students, and Oakland residents alike for its yummy variety of breakfast and lunch fare, full range of coffee options, and abundance of other fresh treats. Although frequently busy — sometimes packed from wall to wall — the Bagel Factory has some of the best off-campus coffee that’s still within walking distance from most dorms on campus.
+Rating: 5/5
+Starbucks, Craig St. (417 S Craig St.)
+Although Carnegie Mellon offers Starbucks coffee, the actual Starbucks outlet on Craig Street typically has better and fresher-tasting coffee than its on-campus counterpart. Also a very busy spot for local college students, Pittsburgh residents, and people visiting the museums or colleges nearby, if you’re craving a cup of coffee that tastes the same no matter where you go, Starbucks is a safe choice. But unless you get lucky or arrive at some off-peak time of day (which is extremely unlikely), it’s nearly impossible to find a seat in the too-small indoor seating area, and there’s no outdoor seating. Head across the street and sit outside the Carnegie Museum of Art if it’s a sunny day and you’d like to enjoy the fresh air away from campus for a little while, or get your coffee to go. 
+Rating: 4/5
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Over the summer, students received an email from Provost and Executive Vice President Mark S. Kamlet announcing the appointment of Keith Webster as dean of libraries.
+According to the email, Webster will hold the rank of principal librarian, and will receive a courtesy academic appointment at the H. John Heinz III School of Public Policy and Management.
+Webster, whose appointment began on July 1, is succeeding Gloriana St. Clair.
+St. Clair, who served as dean of libraries 1998–2013, has led projects such as the Universal Library and the Million Books Project, according to the Carnegie Mellon website. St. Clair is also a J.R.R. Tolkien scholar; she wrote her doctoral thesis on Tolkien’s use of Norse mythology in his books.
+St. Clair’s time as dean of libraries was marked by an embrace of the ever-growing role of digitalization in today’s libraries. A Pittsburgh Post-Gazette article on the subject calls St. Clair a “national leader in digitizing library material” and highlights her role in providing digital access to Carnegie Mellon academic papers and journals. According to Kamlet’s email, St. Clair has now transitioned to emeritus status.
+Webster brings experience from several previous appointments at other universities.
+Before being appointed dean of the libraries at Carnegie Mellon, Webster was vice president and director of academic relations and strategy for the global publishing company John Wiley & Sons. He was also dean of libraries and university librarian at the University of Queensland in Australia.
+Kamlet wrote that the University of Queensland library is “one of the largest libraries in the southern hemisphere,” while the University of Queensland website calls its library, which comprises 15 branches, “the state’s [Queensland’s] largest research collection.”
+Webster has also served as the university librarian at Victoria University in New Zealand and as head of information rights at HM Treasury in London.
+Webster received his B.S. in library studies and computer science from Loughborough University in Leicestershire, U.K., and his master’s degree in management of libraries and information services from the graduate school of the University of Wales, Aberystwyth. Webster is currently completing a master’s degree in international economics and finance at the University of Queensland.
+Kamlet also described in his email Webster’s role as “principal investigator on significant government and foundation grants in Australia, England, and Scotland.” Webster’s projects include directing the creation of Text Queensland, described on its website as “a unique and dynamic collection of full-text, searchable, digitized sources on Queensland colonial and state history.”
+Webster is on the board of directors of the National Information Standards Organization and was a trustee of the John Campbell Trust, according to Kamlet’s email. 
+Webster is also the chair of the deans and directors of the libraries of the Universitas 21 consortium, an organization of research universities self-described on its website as “the leading global network of research-intensive universities, working together to foster global citizenship and institutional innovation through research-inspired teaching and learning, student mobility, connecting our students and staff, and wider advocacy for internationalization.”
+The search committee responsible for Webster’s appointment was chaired by Vice Provost Amy Burkert and comprised of nine other participants: administrators in the library system, faculty members from across the university, and Dietrich College Dean John Lehoczky.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Carnegie Mellon faculty members continue to succeed when they leave academia. Recently, three former computer science professors — Rick Rashid, Peter Lee, and Jeannette Wing — benefited from the revamping of Microsoft Research. 
+Lee is the head of Microsoft Research after previously leading Microsoft’s U.S. research operations; he took over for Rashid, who is now a member of Microsoft’s Operation Systems group.
+Randal E. Bryant, dean of Carnegie Mellon’s School of Computer Science, described Microsoft Research: “Microsoft has a separate research laboratory.... It’s one of the largest corporate research laboratories in the world, and they have branches that span literally across the whole world.” Bryant estimated that MSR has about 800 people working for it. Branch locatons include Redmond, Wash.; Mountain View, Calif.; Cambridge, Mass.; Cambridge, England; and Beijing, China.
+Wing noted the similarities between Microsoft Research and the world of academia. “Companies usually have research labs, but Microsoft Research is a little different from any other company because it really supports basic research, much like the kind of research that is done at academia. We’re very open about what it is we do — we publish openly,” she said.
+“The difference of course between Microsoft Research and an industrial research lab and an academic institution is that we are funded by the company, Microsoft — we’re actually a very small part of that company,” Wing said. “But it also enables researchers at Microsoft Research access to have an impact on the company, impact on the product and services that Microsoft produces.”
+Still, researchers have academia-like freedom to choose the problems they work on, Wing said.
+Bryant discussed the former professors’ departures from Carnegie Mellon. “First to leave was Peter Lee, and he got lured away, and then Jeannette got lured away last January. Both of them had been heads of the computer science [department]. Both of them were really great, both in their research and their teaching, and Microsoft was eager to have them. And recently — about a month ago — it was announced that the former head of Microsoft 
+Research, Rick Rashid, was stepping aside, and Peter Lee was going to take over his position. And then Jeannette is sort of his deputy.”
+Rachid was a senior faculty member who left the university around 1992, Bryant said. “At the time Microsoft didn’t really have a research organization, and Bill Gates decided they really needed one and he chose Rick Rashid and recruited him ... and he’s been doing great with it.”
+Wing was a longtime Carnegie Mellon faculty member. “I started at Carnegie Mellon in 1985, as an assistant professor ... and during that time, I’ve been department head twice, spent a couple sabbaticals away from Carnegie Mellon, and I also served at the National Science Foundation for a few years,” she said. 
+Wing, who left the university in January, takes over as corporate vice president of Microsoft Research.
+On the dynamic between herself and Lee, she said, “We are like partners. We run all of Microsoft Research together. For the most part, he and I are running Microsoft Research jointly. We make joint decisions about budget and hiring and policies and so on.”
+The concept of becoming a leader at Microsoft Research did not seem impossible to Wing. About her transition from faculty member, Wing said, “I think it was really natural. In academia, a professor is required to write proposals for funding research for himself or herself or for his or her students, and always coming up with new ideas: looking ahead, looking to the future … and first and foremost, advancing the students’ art. I think it’s natural for a faculty member to move into a research management position where you’re doing overseeing in an organization that itself is doing that.” 
+Wing’s experience in guiding the computer science department also helped with the transition. “For me, I also think it’s natural because as department head, I’m representing all areas of the wing, not just my own research,” she said. “In my position at Microsoft Research, I am representing all areas of computing and beyond. So there are other science and engineering areas that I represent, and it’s all about pushing the state of the art, much like in academia.”
+For Bryant, the recent news is bittersweet. “We’re sorry to see them go. It means we’ve lost some very great faculty members, but we have a new head, Frank Pfenning. He’s doing an excellent job, so we’re pretty confident that we’ll be able to continue on.”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+The Carnegie Mellon University community was notified, via a Health and Safety Alert, of the presence of Legionella bacteria in a cooling tower on campus. Following the alert, sent out on July 23, the tower has been cleaned and inspected. 
+The alert reported that the bacteria was identified by a “periodic testing program for Legionella [that] revealed high levels in a single cooling tower on campus,” according to an email from director of Environmental Health and Safety Madelyn Miller. 
+The tower, which was marked with yellow caution tape, is located near the Collaborative Innovation Center (CIC) and the Facilities Management Services (FMS) buildings. 
+The bacteria has not spread into the surrounding air or water. Miller’s email stated that “because the water in the cooling tower is not recirculated into the building’s air or water supply, indoor air quality and drinking water on campus are not affected,” and that the tower was being treated to kill the bacteria. 
+“We dosed the towers heavily with chlorine and will take down the yellow tape,” Miller said. 
+Following the treatment, the tower was tested again for presence of the bacteria. Miller stated that the results revealed that Legionella was no longer present. 
+“We were very confident that our treatment protocol would be effective,” said Don Coffelt, director of FMS.
+Before this incident, the university tested for Legionella twice per year. “One of the outcomes of this event is that we’re increasing our testing to monthly,” Coffelt said.
+“I don't know if I've ever been to the building and it's definitely not in a high-traffic area,” senior international relations and politics major Corinne Rockoff said, “so I can't imagine it ever being a danger to too many students. I hope it's not a problem for any of the FMS employees.”
+The Centers for Disease Control’s (CDC) website states that Legionella is often found in areas of warm water such as hot tubs, cooling towers, plumbing systems, and fountains. Breathing in water droplets containing the bacteria can lead to Legionnaires’ disease. As the CDC describes, “One example might be from breathing in droplets sprayed from a hot tub that has not been properly cleaned and disinfected. The bacteria are not spread from one person to another person.”
+Common symptoms of Legionnaires’ disease are coughing, shortness of breath, high fever, muscle aches, and headaches; these begin two to 14 days after being exposed to the Legionella bacteria, according to the CDC website.
+The Health and Safety Alert urged members of the campus community to contact University Health Services if they developed “a cough, high fever, and other flu-like symptoms,” and had been near the water tower between the CIC and FMS buildings.
+Miller explained that the only people who have come down with Legionella are immunocompromised — people with AIDS, liver transplants, and similar conditions that significantly lower one's white blood cell count. 
+“I think people should know that Legionella is ubiquitous in the environment,” Miller said.  “It comes up in water-borne aerosols.” Miller said that it is common to find legionella in shower heads or the mist used to clean lettuce at grocery stores.
+Junior economics major Radowan Khan said, “The email gave me the impression that the university is taking its precautions seriously. It sounds like people are doing their jobs and I'm not at all concerned.”
+Coffelt emphasized that the Legionella was “isolated from water in the building,” and compared the cooling system to a radiator for a car. Fluid from the radiator does not enter the engine — it is used instead to regulate temperature.
+“Because the population is so dense on a university campus, we try to keep our levels down to a hospital’s level,” Miller said.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Student gets first master’s degree in bagpiping
+During Commencement ceremonies on May 19, Carnegie Mellon granted the first known master’s degree of music in bagpipe performance in the United States to Andrew Bova.
+Bova began his musical career with the flute at a young age; he became inspired to pick up the bagpipes when playing for a war re-enactment at Fort Meigs in his hometown of Perrysburg, Ohio.
+“I wanted to be part of a conservatory training program, to be immersed in my craft,” Bova said in a university press release. “There is a pervasive standard of excellence at Carnegie Mellon, no matter what area of study you’re in. That standard is so high, you’re always pushing yourself to do better, and I wanted that type of environment.”
+Bova plays the bagpipes as part of the Canada-based 78th Fraser Highlanders Pipe Band, considered one of the world’s top pipe bands according to the press release. He also organized and performed in a benefit concert for Operation Smile, an organization that provides free cleft palate surgeries. Bova himself was born with a cleft palate and would not have been able to pursue the bagpipes without corrective surgery.
+“The concerts were my way of giving back,” Bova said. “Plus, you can educate people about the instrument.”
+Bova received an undergraduate degree from Carnegie Mellon in bagpipe performance in 2011. His master’s thesis was titled The Contemporary Performance Practice of Music Played on the Great Highland Bagpipe. He recently interviewed with the Royal Conservatoire of Scotland in Glasgow with hopes of earning his doctorate there.
+Researchers’ software helps blind learn braille
+Eight Carnegie Mellon students from both the Qatar and Pittsburgh campuses worked this summer on a technology research project in India to aid the visually impaired.
+The team included senior business administration major Aveed Sheikh, senior cognitive science and computer science double major Madeleine Clute, junior civil and environmental engineering and biomedical engineering double major Madelyn Gioffre, robotics graduate student Poornima Kaniarasu, junior electrical and computer engineering major Aditya Kodkany, junior electrical and computer engineering major Vivek Nair, design graduate student Shree Lakshmi Rao, and senior applied and computational mathematics major Avia Weinstein.
+The students spent the summer in Bangalore, having been selected to join the 2013 innovative Student Technology ExPerience (iSTEP) internship. They worked in partnership with the Mathru Educational Trust for the Blind on developing a software device that helps blind students learn Braille.
+“It is a wonderful learning experience to work with a multitalented international CMU-Q team to make a positive difference,” Sheikh said in an article in The Peninsula, an English-language newspaper in Qatar.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+​For those striving to create a better world for LGBT people, the Catholic Church has stood as both a physical and symbolic obstacle. With 1.2 billion members (according to a study by the Catholic Near East Welfare Association) looking to the Pope and the Vatican for religious guidance, the Church is a powerful force when it comes to social issues. It is difficult for the gay rights movement to gain traction among people whose spiritual leaders, while they no longer view homosexuals as expressly evil, still see the homosexual lifestyle as a surrender to an intrinsically immoral urge and a perversion of God’s will.
+​However, it appears that Pope Francis desires a change. Speaking on rumors of a gay lobby in the Vatican, Pope Francis stated in late July that, “If a person is gay and seeks God and has good will, who am I to judge?” according to the Los Angeles Times. Such a statement from Pope Francis shows an unprecedented level of acceptance for homosexuals, especially coming from that highest Church authority. Such an open and clear statement from Pope Francis reveals his willingness to break from the formal conservatism of the Church’s views — at least on homosexuals.
+​In many ways Pope Francis seems like a good candidate for bringing change to the Church. He is already a pope of firsts, being the first Jesuit pope and the first pope to hail from the Southern Hemisphere, as well as from the Americas. Already Pope Francis has been lauded for bringing a sense of humility to the papacy and professing a desire to reach out to other cultures.
+The election of such a man indicates that there is a possibility that the Vatican — and the archbishops and priests who comprise it — are changing. However, it is not certain that the rest of the Church hierarchy is quite as willing to move toward tolerance as Pope Francis. Additionally, while the Pope’s words clearly express a desire for tolerance, it is important to realize the difference between tolerance and acceptance. Pope Francis still sees homosexuality as a sin. While he may tolerate LGBT individuals, he does not fully accept them.
+​The Catholic Church has never been known for it’s willingness to change. For example, when it comes to women, the Catholic Church professes a belief in the equality of sexes, and women play a major role in the ministry. However, the involvement of women stops at the priesthood, and the Vatican remains an organization dominated by men. The Vatican’s position on women seems to show that the Church can adopt a liberal ideal while maintaining the overall status quo. Despite Pope Francis’ kind words, it is doubtful that the Church will change the canon on homosexuality anytime soon.
+Within the Catholic Church, there is far too much organizational inertia for LGBT people to find real and lasting acceptance. Hundreds of years of institutionalized discrimination and well-fossilized religious doctrine will go a long way in preventing the Vatican from embracing the rainbow. True change within Catholicism, as a religion and an organization, will come from everyday Catholics taking Pope Francis’ words to heart and refusing to pass judgment on the LGBT community. Pope Francis can be a great force to improve relations between homosexuals and the Church, but Catholics all over the world will have to embrace his message and be prepared to accept change. Without popular action, Pope Francis’ words will never translate into reality.
+​Although an ideological revolution within Catholicism regarding the Church’s teachings on homosexuality may now be an elusive fantasy, the fight for tolerance must be maintained in the hope that acceptance comes with time.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+There are over 280 student organizations on campus recognized by the student government, each with members working to create something different. The campus’ organizations range from theater groups like No Parking Players to service-oriented ones like 1000plus to those that publish student work like readme. Each organization has its own social personality and level of commitment, and represents a unique student interest.
+Finding the right niche can be pivotal in building strong foundations for a student’s four-year academic career. 
+The doorway to this niche is often found in campus organizations, especially at a university where students channel their passions through extracurricular activities just as strongly as through their studies. First-year students must not hesitate to explore these organizations in order to find their niche.
+Some students might find the right organizations for them immediately, but many do not. Clubs are an invaluable resource for forming bonds with others who may not share academic interests. They also allow students to become deeply involved in something that they are passionate about — besides their majors.
+Students can try organizations with the option to join when something sparks their interest, or leave if the experience fails to live up to their expectations. 
+Many students use the Activities Fair and initial group meetings to decide if they will enjoy organizations, but students should also feel comfortable talking to those in leadership positions — maybe even taking on important roles themselves — to decide whether or not the organization is a good fit.
+The first year of college is a time for exploration — not only in coursework, but in the bonds students can pursue outside the classroom. It’s true an initial commitment to an organization does not mean a permanent commitment. However, the permanent commitments that students eventually make are sure to greatly impact their lives at Carnegie Mellon and beyond.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Robin Thicke’s “Blurred Lines” topped the Billboard Hot 100 for nine weeks and counting this summer and generated a storm of controversy over the allegedly sexist nature of the song’s lyrics and music video.
+“Blurred Lines” has many problematic aspects, which are especially apparent in the explicit version of the music video. In this version, fully-clothed Robin Thicke, Pharrell Williams, and T.I. are surrounded by topless women dancing about in skin-colored thongs. The song may be more sexist than other songs pervading popular culture today, but more interesting about the sudden fame of “Blurred Lines’” is Robin Thicke’s own reaction to the controversy. Of course an artist defends himself when criticized for a piece of his work: Thicke’s piece was merely meant to “inspire conversation,” he claimed. “It’s actually a feminist movement within itself. It’s saying that women and men are equals as animals and as power,” the artist said to NBC’s Today Show.
+Where is the evidence within the song or the video to back up this claim? In the refrain, Thicke repeatedly croons, “I know you want it... but you’re a good girl.” In no way do these lyrics express the equal power between men and women. There is no indication that Thicke is unable or unwilling to express his own desires because he’s a “good boy.” Some of the language also indicates that the woman he sings of wants sex, but Thicke merely operates under the assumption that she does, as evidenced by lyrics like “The way you grab me/Must wanna get nasty.”
+Thicke also told VH1 with regard to the the explicit video that he “just wanted to break every rule of things you’re not supposed to do and make people realize how silly some of these rules are.” How does the song constructively oppose the rules of what we can and cannot do? A model in Thicke’s video clutches a baby goat to her naked chest, and at one point, Thicke pretends to inject a solution into a woman’s rear with a five-foot syringe. In the first instance, what is Thicke trying to say about bestiality? The image of a nude woman holding a goat does not push social boundaries or make us reevaluate cultural ideas. In the second case, the image is incredibly phallic, which is nothing new or different for Western media.
+“Blurred Lines” is a pop song, which means that on some level, it’s meant to be light and simple. But Thicke himself claimed on the Today Show that it’s meant to inspire discussion, and that “good art [is] supposed to make us talk about what’s important.” This statement is absolutely true — good art generates conversation and makes us rethink our cultural values. However, simply saying that a work is meant to inspire conversation after actively supporting tropes or stereotypes is cheating. An artist has a responsibility to engage with cultural norms and ideas, not simply perpetuate them.
+Chloe Thompson (@cet) is personnel manager for The Tartan.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Taneya Morris, one of Carnegie Mellon’s most beloved CulinArt employees, was dismissed in late May. As much of the student body laments her dismissal, I know I speak for most when I say I will sincerely miss her bubbly personality and colorful nail polish this year as someone else swipes my blocks at Pasta Villaggio or rings up my afternoon caffeine fix at Entropy+.
+Morris was the sunshine of campus food — an invaluable CulinArt employee with a positive energy unmatched by others. 
+She knew a large number of students by their first names, and even knew their descent or celebrity doppelganger, although her notes were not always spot on.
+According to Morris, my name was “Elaina,” I was fresh from the Middle East, and my petite blond roommate looked just like a white Kim Kardashian.
+When I approached her register between classes, she always greeted me with a smile and something like, “Hey Elaina, how’s your day going? I feel like I haven’t seen you in forever. Your hair has gotten so long! You’re just so exotic looking. How’s your roommate?”
+Even though she had been swiping my DineX for two years, I never had the heart to tell Morris that my name was pronounced with an “ah” in the middle, that my ancestry could not be farther from Arabia, and that my roommate frankly didn’t look like Kim.
+Our interactions simply made me laugh. They calmed my frantic afternoons and added a spark of fun to my rushed coffee runs between classes, but I was always afraid that she would be devastated if I told her two years after our first meeting that all of our interactions were based on a lie. I looked forward to our Entropy+ interactions too much to break the routine.
+As I left for class, I often heard her greet the person behind me in line with the same enthusiasm: “How are you doing today, sweetheart?” followed by the student’s name and a sincere compliment. She made each student’s day, one interaction at a time.
+I was too caught up in knowing that Morris actually cared about me and the other students on campus to correct her errors. While I have never encountered an outright cruel CulinArt employee, Morris set herself apart with her ability to truly connect with students. Most employees don’t make the same effort to interact with students the way Morris did, unless you count asking whether a meal will be paid for with a block or DineX.
+But now that she is gone, did my neglect to correct her about my name or ancestry even matter?
+As I try to imagine a post-Morris CulinArt, I envision a world in which George Orwell’s 1984 meets a post-zombie apocalypse era: a manifest of caffeinated students mechanically hunkering through Entropy+, somewhat lost even though they are in a familiar place, as if they are wandering through an old home without sunlight.
+As the student body wanders through the new campus dining darkness, it will be hard not to miss the way Morris made our days sunny with her bubbly persona, smile-stretching compliments, and most importantly, her natural ability to bond with students unlike any other employee.
+Elana Goldberg (@edgoldbe) is a staffwriter for The Tartan.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Last month, a jury of six women acquitted George Zimmerman of second-degree murder and manslaughter, after claiming self-defense against 17-year-old Trayvon Martin in Sanford, Fla. on Feb 26, 2012. 
+The ruling prompted protests, rallies, and marches on the issue of race across the United States. Although racial issues have surfaced amid the Zimmerman trial, U.S. citizens need to look at the nation’s future, rather than its past, to ensure that similarly tragic events do not occur again.
+President Obama questioned the public in a surprise speech on July 19, asking, “How do we learn some lessons from this and move in a positive direction?” One of his best responses was to have governors, the Justice Department, and mayors work with law enforcement to examine if certain state and local laws encourage incidents similar to the Zimmerman and Martin confrontation.
+When considering the future, Florida’s stand-your-ground law and similar laws need to be revisited. Zimmerman did not directly use the stand-your-ground law in his defense, but it was cited during the trial. Essentially, this law allows people to defend themselves with a firearm if they believe someone is trying to harm them. Some organizations, such as the Dream Defenders — a student-led group occupying Florida Governor Rick Scott’s office to protest the stand-your-ground law, according to CNN — have already begun requesting change, although the group ended the occupation of his office on Aug. 15. 
+Similarly, Brooklyn dance group Dancing for Action (DFA) successfully held a flash mob outside of Senator Chuck Schumer’s New York office on Aug. 14, requesting an end to the law, according to NewsOne.com.
+If the stand-your-ground law and similar laws are not repealed or reconsidered after this catastrophic event, society will believe that it is still acceptable to use firearms even when a confrontation can be avoided by a perpetrator. Citizens should not be able to initiate a confrontation with the knowledge that they have the upper hand already, such as legal and personal reasons to fire a gun.
+Society must now learn from this devastating event by executing appropriate actions, such as reconsidering controversial laws, to prevent a similar occurrence in the future. As Obama stated, the most efficient and effective action that can now be taken is to have federal, state, and local lawmakers work together to investigate whether certain laws allow behavior comparable to that exhibited in the Zimmerman and Martin incident.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+The Olympic games are designed to bring people of every color, creed, and belief together through the shared experiences of sport and competition. Hosting these games is an honor for the host country, and the International Olympic Committee (IOC) takes many factors into consideration when deciding on a city. However, given the lack of action taken by the IOC with regard to current laws in Russia, where this year’s winter games will be held in the city of Sochi, it seems that human rights were not a priority during this process.
+After the fall of the Soviet Union, it seemed that gay rights might be positively addressed in Russia when the Duma, Russia’s parliament, repealed a law from the old regime outlawing the act of homosexual intercourse. However, two decades later in Putin’s Russia, the gay rights movement and LGBT Russians face a new round of threats and persecution.
+At the end of June, the Duma unanimously passed a law that bans exposing those under the age of 18 to “gay propaganda.” Any form of advocacy for LGBT rights in public, or anywhere a minor may access it without a warning about age appropriateness — including the Internet — carries with it the possibility of jail time and thousands of dollars in fines. Foreigners face immediate deportation for the same offenses. The term “propaganda” in this case includes “the direct promotion of homosexual relations among minors,” according to Russian news agency Ria Novosti.
+This law comes at a time when LGBT members of the Russian community are in particular need of protection from the government, as pro-gay protesters are frequently violently beaten and harassed by other Russian citizens during gay-pride events, according to independent news organization Mother Jones. Some Russian lawmakers say that the laws that inspired those protests and led to those beatings will be fully enforced in Sochi during the Winter Games, according to The Huffington Post.
+The IOC has offered little comment on the matter, and while the Russian government has said it will not prevent gay athletes from taking part in the games, what ability these athletes will have to speak on their rights remains unclear. 
+The IOC’s lack of commentary is troubling, especially after the creation of the Pride House in the Olympic Villages of the 2010 Vancouver Games and the 2012 London Games, which provided a place for LGBT individuals involved in the Olympics to share their experiences and help educate visitors about the issues in their communities.
+It is discouraging to see the IOC remain silent on an important human rights issue in a country hosting the games. This event will help raise the prestige of the Russian Federation at a time when it is mistreating a large minority group deserving of protection.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+“The Affordable Care Act will shatter not only our hard-earned health benefits, but destroy the 40-hour work week that is the backbone of the American middle class.”
+Sounds like typical Republican slander, right? What’s surprising about this quote is that it doesn’t come from any right-wing nutjob, but from a letter penned by three of the nation’s largest labor unions: the International Brotherhood of Teamsters, the United Food and Commercial Workers International Union, and UNITE HERE. These are Democratic supporters and donors that, at the time of Obamacare’s passing, supported the law and, in fact, provided some of the political pressure that eventually secured the law’s passage. What changed?
+In a word, nothing. The economy didn’t recover. Jobs haven’t been created. While unemployment has nominally fallen from 7.8 percent from when Obama took office to the current rate of 7.4 percent now according to the Bureau of Labor Statistics (BLS), that number doesn’t mean anything. If unemployment were calculated today the way it used to be — counting the number of workers that have been discouraged and left the job market, as well as the number of workers who have work well below their skill level or can only find part-time work — it’s actually 14.3 percent, says the BLS.
+To help paint this dismal picture of American reality, home ownership is at an 18-year low, according to the United States Census Bureau; Labor Force Participation is at a 31 year low, according to the BLS; and middle-class median income has fallen 5 percent since Obama was sworn in, according to Sentier Research. Fifteen million more Americans receive food stamps now than when Obama took office according to the Department of Agriculture, and the poverty rate has increased from 14.3 percent to an estimate from the Census Bureau of over 16 percent during Obama’s reign.
+After four years of recovery, the middle class is unequivocally worse off than it was at the start of the recovery, let alone before the Great Recession.
+To circle back to Obamacare, the law is directly responsible for some of the middle class’ economic woes. The U-6 unemployment number — which counts part-time workers and people “marginally attached to the labor force” — is steadily rising according to figures from the BLS because Obamacare requires companies with 50 or more workers to provide health benefits to all workers working more than 30 hours a week.
+Since Obamacare passed, you’d be hard pressed to find a chain restaurant worker, or any other low-skilled laborer, working more than 30 hours a week. It makes more sense for companies to hire four 30-hour employees without laying out for their healthcare instead of three 40-hour employees with healthcare benefits.
+Unions, the organizations responsible for putting laborers securely in the middle class, are understandably upset. 
+Shockingly enough, the people who have benefited the most from Obama’s presidency are the rich. From 2009 to 2010, the top 1 percent saw their incomes increase by 11.6 percent while everyone else’s grew by just 0.2 percent, according to Emmanuel Saez, professor of economics and director of the Center for Equitable Growth at the University of California, Berkeley.
+This underscores a truth about big government known for decades. As former president Ronald Reagan put it, “You can’t be for big government, big taxes, big bureaucracy, and still be for the little guy.” Big government can only serve to help special interests, the well-off, and the well-connected. Obamacare exacerbates this problem by putting the government even more directly in control of healthcare, 18 percent of our nation’s economy. We can’t expect the middle class to start doing any better than they are now until Obamacare is repealed.
+Kyle Henson (@kahenson) is a staffwriter for The Tartan.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Carnegie Mellon’s Software Engineering Institute released a study on July 31 that details the recent efforts by IBM to update and modernize Pennsylvania’s computer systems. According to the Pittsburgh Post-Gazette, the program is over 42 months behind schedule and has cost the state $166.9 million, over 56 percent more than the originally planned contract price. 
+As a result of the study, the state of Pennsylvania will not renew the contract with IBM.
+The fact that Carnegie Mellon was chosen by Pennsylvania legislators to conduct this study is an indication of the university’s reputation as a premiere computer science and engineering school. Legislators should continue to consult experts in the field to make more informed decisions about such ventures.
+This is hardly the first instance of a massive project failure in a government effort. From 2000 to 2005, the Federal Bureau of Investigation developed a Virtual Case File application, which updated the FBI’s information infrastructure from paper-based forms and documents to a more modern, digital solution. 
+According to the Gallup Business Journal, the project was cancelled for being unusable in real-world scenarios, and cost U.S. taxpayers $100 million.
+Experts can objectively assess projects and scrap the wasteful ones before they become problematic. Perhaps further partnerships between educators, experts, and legislators can diagnose issues even earlier in the project development process, saving time and taxpayer money and ensuring the integrity of projects. For example, the University of Pittsburgh, equipped with one of the nation’s largest medical complexes, UPMC, could be consulted in matters such as healthcare reform or narcotics legislation.
+These partnerships are vital to smart public policy developing and avoiding major financial waste. Had the SEI been brought on to evaluate the computer system development earlier, perhaps less money would have been wasted due to inefficient and unsuccessful projects.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+

@@ -1,0 +1,513 @@
+While we are getting accustomed to having a black cylindrical device responding to our questions and playing music for us, our sci-fi dream remains unfulfilled: when can we have our own home robots that move and finish tasks according to our verbal commands? 
+Associate professor at the Language Technologies Institute (LTI) Louis-Philippe Morency and Ph.D. student Chaitanya Ahuja have developed a computer model that can translate our daily language describing physical movements directly into minimalistic, computer-generated animations. They named this neural architecture Joint Language-to-Pose or JL2P, with the goal of turning film scripts into animations.
+In a press release, Morency said, "Right now, we're talking about animating virtual characters. Eventually, this link between language and gestures could be applied to robots; we might be able to simply tell a personal assistant robot what we want it to do.” With this goal in mind, researchers are teaching robots to understand human language and move accordingly. 
+Morency noted that the novelty of this research is the fact that, unlike the existing learning process, where robots learn movements and languages separately, JL2P is able to realize simultaneous learning of language and movements, allowing semantic associations to be projected onto movements. 
+With their model, robots would be able to associate words such as “run,” “jog,” and “walk” closely together, while discriminating their meanings. Instead of only responding to detailed commands exclusively in computer languages that disassemble every movement into single-joint operations, robots would be able to comprehend high-level commands in English and execute compacted movements. “Language [would be] their guide,” Morency concluded, on the way JL2P would empower robots’ learning capacity. 
+The Tartan also sat down with Ahuja, who presented JL2P last week in Quebec City, Canada, at the International Conference on 3D Vision. Ahuja further explained the mechanism behind JL2P’s central idea: the process of mapping sentences with motions. Since the same sentence can be represented with different animations — “a person walking” can be translated into animations walking at different speeds — their model breaks down sentences and treats words such as “walk” as concepts. 
+“Making those concepts requires joint embedding,” a process that vectorizes sentences into numbers, says Ahuja. Through joint embedding, they are able to translate semantic associations into conjunctions of concepts understood by computers. Ahuja provided an example of how conjunctions capture the complexity of language: “If ‘bank’ comes in conjunction with ‘money,’ it means it’s a ‘bank’ for money transactions, not a sea ‘bank.’”
+In regards to their research’s future direction, Morency said in a press release that their goal is moving from “narratives to pose” to “speech to pose." Eventually, they hope their model will be able to animate “what people say.” This step requires not only an adaptation of verbal commands, but also an ability to animate people’s emotional expressions, that are pervasive in daily dialogues. To face their next challenge of animating emotions, Morency explained that introducing emotions can drastically increase the space of a commanded action, so getting a large amount of sample data would be crucial in advancing their model.
+As Morency, Ahuja, and other researchers continue their journey of pushing the boundaries of human creation, they envision a future of close interactions between humans and robots.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Although cats are popularly well known for their independent and aloof nature, a recent study published in the journal Current Biology on Sept. 23 discovered that the responses of cats raised as pets to their caregivers is quite similar to those of human children and dogs. 
+The researchers concluded that the degree of attachment that cats have to their human caregivers and their socio-cognitive abilities have been vastly underestimated in years past. Children, dogs, and cats alike forge both secure and insecure bonds with their owners. Many researchers in the past thought that only canines had the ill-defined traits that allowed them to bond with animals from other species, but this new study demonstrates that these traits are clearly not canine-specific. 
+"Like dogs, cats display social flexibility in regards to their attachments with humans. The majority of cats are securely attached to their owner and use them as a source of security in a novel environment,” explained Kristyn R. Vitale Ph.D., a researcher at Oregon State University (OSU) who specializes in cat cognition and behavior, in an interview with Cell Press. 
+A time-tested method to study the attachment behavior of infants is to watch the reaction of an infant in a new area to reuniting with their caregiver, after the caregiver in question leaves for a brief period of time. Infants who have formed secure bonds decide to explore the area as leisurely as they had been before the departure of their caregiver, whereas those who have formed insecure bonds are either excessively clingy, or act in an avoidant manner. Although this method is typically used to test infants, tests of this nature have also been conducted with canines and primates. Therefore, it seemed like an obvious experiment to Dr. Vitale and her colleagues to conduct the same experiment with cats.
+Vitale and her colleagues conducted the experiment by placing an adult cat or a kitten in a room completely new to them alongside their caregiver. They then instructed the caregiver to leave the room for two minutes. The caregiver was then told to return to the room and reunite with their cat for two minutes. Each cat’s attachment style was determined based on how they responded to reuniting with their caregiver.
+The study showed that cats actually bond similarly to human infants. A full 65 percent of infants have formed a secure bond with their caregiver. Indeed, a full 65 percent of cats and kittens have also formed a secure bond with their caregiver. 
+Vitale speculates that cats' ability to form stable human attachments may have led to their popularity as pets. 
+"We're currently looking at several aspects of cat attachment behavior, including whether socialization and fostering opportunities impact attachment security in shelter cats,” Vitale stated in Cell Press. Vitale and her colleagues are currently looking at the implications of their work on the thousands upon thousands of cats and kittens now stuck in animal shelters.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+This past Friday, three indie alt-pop acts — Lostboycrow, joan, and flor — came together at The Club at Stage AE. Despite the three performances being within the same genre, each had an individual take. Lostboycrow was whimsical and full of narrative, joan was danceable and upbeat, and flor was more conventional modern alt-pop.
+The Club is a smaller section of Stage AE with a bar, a tight crowd space, and a small stage. This was my first time seeing a performance in this part of the venue, but I’m certain it won’t be the last. The crowd energy felt more concentrated, and both the smaller space and audience size made the concert feel more intimate.
+Lostboycrow (Chris Danks) was first on the set. He performed a handful of songs from his latest release, Santa Fe, as well as a couple of older releases like “Devil’s in the Backseat” and “Adolescent.” His performance embodied his stage name, which is inspired by the Crow Nation’s tale of the lost boy. The nation’s ancestors’ philosophy “believed the greatest accomplishment one could achieve was to dream. Seek a vision for your life that would help those around you.” This inspires how he presents his art. His ethereal sound and poetic lyrics make it sound more like he’s telling a story rather than simply producing music.
+Out of the three performances, Lostboycrow’s surprised me the most. In the studio, his voice sounds more “chill,” almost more subdued. However, on stage, his voice was much more powerful and captivating. It felt like he was crooning, yet his energy and voice overpowered the venue. His music was the one I was most acquainted with, yet his performance was the one that I was the most mystified with.
+Next up was the duo, joan (Alan Thomas and Steven Rutherford). The ‘80s inspired synth-pop encapsulates the best part of the ‘80s: catchy choruses, poppy synth beats galore. Even their name ties with the ‘80s theme. Neither is named Joan; the two simply picked the name because the name was common in the ‘80s. If I had to explain the band, I would say that it’s most reminiscent of The 1975. Their act made me almost want to bring back leg warmers. Almost.
+Flor ended the show with a bang. The band sonically sounded just like they did in their recordings, but the live performance gave their songs a kick that no recording could pick up. They bounced back and forth from their two albums, come out. you’re hiding and ley lines, the latter which just dropped earlier this month. Their part of the show was definitely the flashiest of them all in more ways than one. The band incorporated lights that seemed to flash per drum beat which was fun at first but became overwhelming later in the show. I didn’t mind too much, given that the synergy of the band and crowd was so intense that it almost matched up.
+After the show, all three groups were available for a quick meet-and-greet, signing tickets and taking photos with the concert attendees. Ones to Watch, a platform for emerging artists, put their stamp of approval on flor when they decided to present the band, and I’m ecstatic to see what comes next for them and their opening acts. Stay tuned for an upcoming interview with flor!
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Tyler, the Creator's show at Stage AE was an electric performance of his new album, IGOR. He captured the crowd immediately with the blaring intro to his album, and he bounced around his catalog of songs to give a raw and exciting show.
+The show began with songs from IGOR. The autotune and multi-tracking that are signatures of his album, which might have made the songs difficult to perform live, were replaced with Tyler performing the main parts of his songs, and he rose to the challenge. He sang, yelled, and screamed to match his songs' effects. This developed into a unique performance apart from the album and gave a more up-close view of the feelings of romantic jealousy and hopelessness he describes in his songs. It resulted in a performance that gave fans of the album what they wanted while expanding on IGOR.
+Among the songs Tyler, the Creator performed were also some of his signature songs from past albums like Flower Boy. He sang more romantic songs like "See You Again" and "She" that felt natural alongside Tyler's romantic struggles in IGOR. Of course, he also sang crowd-pleasers like "Who Dat Boy" to get the crowd hyped with his bark-rapping and crude lyrics. 
+The best part of the show was Tyler, the Creator playing the part of Igor, the character in his album. He wore the suit and blonde wig that have become symbols of the album, and he danced wildly during interludes to keep moving throughout the show. He head-bopped, ran in place, and marched to the beat of his songs. The variety of personas he adopted gave fans many angles to enjoy the show from. The piano rendition of "EARFQUAKE" and other slower songs complemented the energetic performances he is more known for, creating a deeper story and sound within the short time of the concert. 
+Tyler, the Creator's performance built up to a captivating show. Tyler, the Creator has been known for having violent and offensive lyrics, and his crowds have a reputation for being chaotic as well. After Flower Boy and IGOR, though, Tyler seems to have evolved from his angry, controversial self into a somewhat more accessible artist. There are still explicit lyrics and violent ideas, but the complex feelings and sound behind them make Tyler, the Creator's IGOR an exciting concert.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Ad Astra is in much the same vein as the other recent, hyperreal, science fiction features about a near-future world with just a hint of dystopia: Gravity, Interstellar, and The Martian. Much like these others, our main character (Brad Pitt) travels to the far reaches of the galaxy to find out just how much he loves the Earth. As a whole, the movie is a generally successful work, that hits the right notes about increasingly aloof psychological states, extraterrestrial life, and the limits of science; additionally, it’s only slightly preachy and referential to Kubrick and Tarkovsky.
+All of the parts of the movie were basically good.
+Max Richter’s score is adequate. The neoclassical composition is probably the only thing that would have worked well for the movie. The editing is in the classic style of Hollywood: nothing too heavy-handed or obtuse. Cinematographically, there are a few interesting choices, like filming a dope moon car chase scene from miles above, but generally, it feels like a pastiche of all the great cinematic moments of Gravity and The Martian, with a touch of Kubrick. There is little in the set or costume design to distinguish itself from other science fiction movies. However, Pitt’s sneaker game is the essential drip. Pitt’s performance may have been the standout aspect of the movie, but it’s often minimized by a voice-over that explains his interior narrative.
+As for the plot of the movie, it’s the classic family melodrama dropped into space. It’s well-constructed, hits all the beats, and the implications of the relationship between Pitt’s Roy McBride and Tommy Lee Jones’s Clifford McBride are more effective emotional confrontations than those presented in Once Upon a Time in Hollywood. Both feature cult-like leaders or an adjacent representation, and both feature main characters played by Pitt, who is almost tempted into the world of the cult by a person his character loves (or is sexually attracted to). In the end, Pitt escapes by metaphorically murdering the part of his character that is attached to the cult, and he returns to the normal world.
+Ultimately, I think this movie is very close to being the best of the recent science fiction production, even one of the best movies of the year. But there are just too many moments that diminish the really successful things the film does. If James Gray went back to the editing room, took out half an hour of Pitt staring at nothing, removed a lot of the voice over, and cut the preachy moments that don’t fit into the standard science fiction schmaltz, then Gray would have a tighter movie — one that isn’t just forcibly emotional and purposefully intelligent, but a movie that’s intelligent by way of emotional relations.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+2019 has been a big year for AWFBEAT, the musical duo consisting of Uni Hunte and Grant Glazier. The two sophomores have released two tracks on Spotify, “Better than Me” and “Side Eyes,” and amassed over 20,000 monthly listeners on the platform. They also opened for bülow at the Activities Board-sponsored concert earlier this month.
+Hunte is originally from Harlem while Glazier is originally from D.C. The two artists’ paths coalesced when they met at a pre-college program here at Carnegie Mellon. There were no long-term expectations then. They simply created a group to make music over the program and expected to never see each other again afterward.
+Fast forward to Orientation Week 2018. The two found out that they both lived in Stever and immediately rushed to see each other. Their complementary personalities and skills allowed them to take off with AWFBEAT from there. Hunte took over writing the lyrics, and Glazier filled in with the music production.
+The name “AWFBEAT” may have been coined from a random word generator spitting out the words “off” and “beat,” but they have begun to attribute deeper meaning to their moniker. The deliberate misspelling of AWFBEAT’s name encapsulates the two’s desire to do something different or even something conventionally considered “wrong.” By naming themselves something that most artists aim to avoid or be otherwise skeptical to dabble in, the pair demonstrates that they aren’t afraid to go outside the norm.
+AWFBEAT doesn’t see their schooling and musical career as a zero-sum game where they have to choose one or the other. Both believe that their Carnegie Mellon experience has greatly contributed to the development of their musical career. AWFBEAT’s first songs were written using Carnegie Mellon’s piano in Stever.
+“Not prioritizing school doesn’t seem like an option,” Hunte succinctly summarizes.
+“Better Than Me” was released in February. The song appears to be a standard love song about admiring someone from afar, but it actually was inspired by “true infatuation with someone’s talent.” Being in an environment like Carnegie Mellon where one is constantly surrounded with incredible talent and passion can be overwhelming, and that aura did not go unnoticed by the duo. Ultimately, this culminated “genuine awe in meeting someone” and seeing someone who makes one go “damn, she is ‘better than me.’”
+“Side Eyes,” as stated by the duo, is about the story of a woman dealing with a man who is awful to her. Hunte draws from his upbringing “by strong women,” most notably his mother and his two sisters, saying that he “learned the most” from them. After coming to Carnegie Mellon, he and Glazier both met people with inspiring stories and personalities that all helped shape their further development into early adulthood.
+Their contribution to the creative scene at Carnegie Mellon doesn’t stop at their music. Now, they reach out to other campus resources and collaborations with other students. Most recently, the two collaborated with Charles Wang of White Porcelain on some merchandise, which was sold when they opened for bülow. As they expressed in the making of their track “Better Than Me,” the two recognize the outstanding amount of talent and passion on campus and want to expand their network to both showcase their talent and other students’ talents.
+What does the future look like for AWFBEAT? Just like any other college student, both Hunte and Glazier are taking it day-by-day.  Attending Carnegie Mellon and being emerging artists are both difficult as is individually. Juggling the two is demanding and keeps the two on their toes.
+For now, though, they’re going to work on learning to “take care of ourselves” and allow their art and schoolwork to influence one another. Their hearts are truly in the work, which is bound to take them far.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+I saw Bastille for the first time in 2017 at Xfest presented by 105.9 the X at Stage AE. As much as I had a blast during Bastille’s set at this festival (and met one of my closest friends through the concert), Bastille was the only group at the event that I actually wanted to see. So, I was thrilled to find out that they were returning to Stage AE for their first headlining appearance in Pittsburgh. It was great not enduring five hours of random other groups’ music while waiting for one of my favorite bands to take the stage. Bastille stopped in Pittsburgh on Sunday, Sept. 22, and the experience seeing them perform was even better than the first time around.
+The Doom Days Tour follows the release of the band’s newest album of the same name over the summer. Although their past albums — Bad Blood and Wild World — were absolutely brilliant, I loved the maturity and cohesiveness of both theme and sound throughout the songs in their newest record.
+Joywave opened the night for Bastille. Part-way through the set, Joywave’s lead singer Daniel Armbruster admitted that someone on Twitter likened him to a “used car salesman,” and although I didn’t think he was the most charismatic and felt he was hard to understand over his bandmates’ loud instruments, it was still a decent performance and they intrigued me enough to give them another shot after I got home. Listening to their 2015 album How Do You Feel Now?, there were a handful of songs I genuinely enjoyed (now that I could actually understand and appreciate their lyrics and overall sound). Notable songs include “Tongues,” “Traveling at the Speed of Light,” “Now,” and “Somebody New.” I look forward to taking on their 2017 release Content next, and whatever music they release in the coming year before their own tour in early 2020.
+I can definitely understand why Bastille paired up with the band for the tour. They both have such an interesting and distinct style, but they complement each other well. In fact, the song “Destruction” in particular reminds me a lot of songs from Bastille’s second album, Wild World. Interestingly, both bands had their start in 2010.  However, there is something definitely less “mainstream” about Joywave.
+Neither are “mainstream” per se, but I’d say that Joywave falls further into the indie category than Bastille. For one, their utilitarian, safety vest-style shirts made quite the statement, and the photo of them in the same uniforms posing in front of a Pittsburgh ambulance that they posted on Instagram with the caption, “Thanks for calling 911 Pittsburgh. What’s your emergency?” also exhibits a strange sense of humor that falls a bit short.
+Bastille, on the other hand, continues to wow me with every show I’ve been to. The concert was divided into three acts — “Act 1: Still Avoiding Tomorrow,” “Act 2: Those Nights,” and “Act 3: The Morning Doesn’t Reach Us” — and each one was as incredible to witness as the one that came before it.
+Lead Dan Smith often takes a brief interlude to discuss the work, and this time, he spoke of how music is a form of escapism, but his band also has a tendency to take their music in darker directions.
+The struggle between seeking an escape and facing reality is prevalent in Bastille’s work, and this conflict is seen in “Act 1: Still Avoiding Tomorrow,” both in the title and content. The last three songs in this section particularly summed up these thoughts, with Doom Days’s “The Waves” and “Bad Decisions,” and Bad Blood’s “Flaws.” There is a clear contrast between the two ideas in “The Waves.” The third and fourth lines of the song encapsulate the escapism: “We never, never give up on the lost boy life / So here we are, escaping from the world outside,” but later, they reveal the dangers of people “get[ting] carried away” and “caught up in the waves” at parties. “Bad Decisions” simultaneously accepts and rejects reality, with an emphasis on “tak[ing] a bow for the bad decisions that we made” while also continuing to “make the same mistakes / ‘Till the morning breaks” as the world possibly falls apart around us.
+“Act 2: Those Nights” took a perceptibly darker turn, with the lights dimming and Smith donning a hooded jacket, casting his face in shadow with the hood up for much of this segment and into the third. Opening the act, Smith was splayed out on a rotating couch, singing the honest lyrics of “Those Nights,” a song made more powerful by the slower tempo and minimal instrumentals. The group then transitioned into performing songs like 2012’s “Bad Blood” and the album’s eponymous track “Doom Days.” In an interview with Billboard, Smith spoke of the writing process for “Doom Days,” the last song he wrote for the album, and explained that “it allowed me to look back at the record and think, if it’s an album about escapism, I needed to articulate what I needed escaping from. I wanted it to have no structure and flow like a rap, and to cram in as many references and points about life and anxieties in 2019 as I possibly could.”
+Closing out the night, “Act 3: The Morning Doesn’t Reach Us” included “Another Place,” “A Million Pieces,” and the 2012 hit “Pompeii,” tied together by lyrics that expose human vulnerability and desperation for an escape from reality once more. In “Another Place,” Smith sings of flings, struggling between asking to “lie to me tonight and pretend ‘til the morning light / And imagine that you are mine” and what is really wanted, to not “make promises to me that you’re gonna break / We only ever wanted one thing from this.” In “A Million Pieces,” there is a difficulty in facing the horrors of reality, trying to push away the bad thoughts and difficult conversations that need to be had: “Leave it ‘til the morning / I don’t wanna know / Breaks my heart / Breaks my heart into / A million pieces.” With “Pompeii,” the world is crumbling as we know it, but we still cling to what once was: “But if you close your eyes / Does it almost feel like/ Nothing changed at all?”
+Each aspect of the concert — whether it be the subtle costume changes, the videos playing on the screen behind the band, or the way that Smith interacts with his bandmates, the set, and the audience — adds a new layer that really elevates Bastille’s performance and shoots them to the top of the list of my favorite bands to see live. Smith continued to apologize for being sick and not being able to sing to his full potential, but I couldn’t even notice because he carries himself so well on stage. Whether he’s jumping off platforms, wandering through the crowds during a song, turning the mic out toward the audience, or merely just crossing from one side of the stage to another, he feeds off the energy from the audience and knows how to liven up a show. Bastille put on another spectacular performance at Stage AE last Sunday, and I hope they continue to include Pittsburgh on their tours because they’re a group you won’t want to miss.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+It’s a Monday night. A crowd of people funnels into the Carnegie Library Music Hall, skirting around tables brimming with brightly colored books. They inch their way to their designated seats, tickets gripped in their fists. The air is hot; visitors fan themselves with their programs and push sleeves up to elbows. The lights go down. A few presenters prepare the crowd with speeches and thanks and words of excitement. Then Sigrid Nunez walks onto the stage, and applause erupts. 
+Nunez is an author of seven novels, including a memoir of Susan Sontag. Although she’s been writing for decades, Nunez exploded into the public consciousness in February 2018 after she published her latest novel, The Friend. It won the 2018 National Book Award and became an instant New York Times bestseller. Nunez became a literary sensation practically overnight.
+The Friend is a tale of love, friendship, grief, writing, healing — and most of all, a dog. The story follows a woman who loses a friend and mentor to suicide, and later inherits his old Great Dane. The Great Dane, dubbed Apollo, is struggling with the inexplicable loss as much as the narrator. Together, they navigate their grief and foggy future, forming a bond that’s strange and poignant in equal measures.  
+In her talk, Nunez discusses both her novel and her experience writing over the years. As a child, she ended all of her stories with "and then I woke up." Since she was told not to lie or make things up, she felt she had to qualify that her stories were a dream, unreal, made up. As she grew older, however, she discovered that’s the beauty of fiction. You can make everything up, it can all be lies, and it can still ring true with millions of people. 
+As an adult, she makes a lot of things up. She speaks for people that have never existed. Although she’s traveled to many places in Europe, she sends her protagonists to places she’s never been, and welcomes the research that comes along with it. She’s written about events both real and fake, and the latter always hits her harder. Our imagination is more powerful than observation, she says.
+The audience nods. Most of us have read her touching novel. We know how powerful imagination can be. 
+Since her novel was published, Nunez has received an influx of letters. They include people who have lost someone to suicide. People who have tried to commit suicide themselves. Writers who relate to the narrator’s cynical insights into the writing world. And lots and lots of pet owners, who appreciate a novel centered around the bond between a woman and her dog, the most important being in her life. 
+Since Nunez became a bestseller, she says she’s been busier. She has readings to attend, talks to give, and students to teach. However, her work hasn’t changed. She still has more writing to do. Once, when facing a block, she put a post-it note on her computer that declared the writing is almost over.
+“But then,” she says, a wry smile dancing on her face. “I woke up.” 
+The night ends. Visitors shuffle down stairs and through halls, stuffing crumpled programs into purses and backpacks. Some flee into the warm night air. Some pick up copies of The Friend from the lobby. Some huddle in groups of twos and threes, chatting and laughing. But although we go our separate ways, we are all connected by a hum of energy in the air, a shared experience of hearing Nunez’s talk, her words just as impactful in person as they were on the pages of her novel. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Hello, 
+I hope it is still in tradition to feel the rough edges of a piece of paper, to practice handwriting endlessly to please your teachers, and not everything has become the "Okay, Google" speech to text translation that doesn't understand the way my heavy accent speaks English. 
+I hope it is still in tradition to have huge bookshelves and watch them while you sip coffee and watch the pages turn yellow, as you watch every dog-eared page culminate to make it seem like it belongs in this imperfection. 
+I hope it is still in tradition to drink pure coffee and not like those liquid food cups in WALL-E. Oh boy, I sure do hope you are not in a spaceship right now. I also hope you have watched WALL-E and the amazing cinematic reveal of films like The Breakfast Club and Star Wars. More importantly, I just hope things are better in some cases, and in most, stay the way they are. 
+It might seem confusing, but I live in a time that is so conflicted, so energetic yet disastrous, that I feel like I am in the right and wrong generation all at the same time. I watch amazed as LGBTQIA rights become better every day, but also shed tears over how women get raped every hour in my home country. How the world economy is booming, and yet we are creating literal walls for ourselves. We are creating so many barriers that we are going to choke on them. But with every good deed, flowers sprout through these walls, and I just hope that these walls have broken. Or at least, that you have learned to climb over them.  
+It might seem overwhelming how different our worlds might be, but that's okay. I couldn't even believe my parents had never seen each other before the day of their marriage. And these are the things I hope have changed. I do hope that you are my long lost family, or that this letter was passed down by generations. I hope my books are still somewhere on shelves... if I even wrote them. It might seem confusing, but with every word I write to you, my mood becomes infinitely better. I do hope that with every word I write, beautiful sprouts of truth will emerge. But I know, somewhere deep in my heart, that all that will grow on this paper is the finest layer of dust, and as you blow that very dust off to read this paper, that truth will dance in the sunbeams. 
+I hope above all that humanity is as marvelous as it always was. We make mistakes, and they may seem huge right now, but bear through it. Write another letter to be found in a hundred years, and who knows? Might these words come true? Might you in a hundred years actually still be me? Oh, that would be awesome!  
+Remember this, I am 17 and young and probably stupider than ever. I'll spot this letter while packing for university, and I will sit and rewrite it. So if you read this one in a hundred years, know that this the mind of someone who believed in change, in all things better, in humanity being the best of hope. 
+If you are fed up with the world, never be. You are part of the most innovative race that has ever existed. You don't need to be at the front of everything. You don't need to be at the top of the pedestal to be safe. I hope you get some satisfaction and some motivation knowing how much our worlds have changed. 
+My own mindset might change as I watch the world progress. I'll want you to remember new things, closer to my heart: my first dog, my first boyfriend, my first confession, the fact that my country is still a beautiful assault on the senses... but what will never change is my hope in humanity and how much better it can be.  
+So amongst the threat of an impending WWIII, men and their mad hues, a prime minister using a foundation’s diverse skin color range to match my skin color (I am so flattered he even considered us!), where there is still a stigma over anything you want to be, as a woman, as a human, I hope your world is better. 
+I hope humanity learns its mistakes from now. And all I want is for you to remember these mistakes. Remember, for entropy might be both here and there where you are right now; it is part of the code of humanity. This is not a letter to you, but to all thy entropy: I hope you learned and remembered all the things you made us do. And I hope you became a little better. And that is all. 
+With all the hope that this is not the world of Fahrenheit 451, 
+This is the past, 
+Who still dreams of traveling the stars,
+Breaking our walls, 
+Signing out.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Welcome to Maddy's Monthly Meme Madness, where we take a look at the Top 5 most-liked memes on the Facebook group, Carnegie Mellon Memes for Spicy Teens, posted in the past month.
+1) "TOC Hack" by Tishya Girdhar‎ (9.5/10)
+This is an absolute genius master strategy; why did I not think of it? The cartoon's stylish pose also adds fabulous flair. However, what is up with the ungodly amount of white space on the top and bottom of the meme? I've said it before and will say it again: crop your memes.
+2) "Sleep @ CMU" by Malique Bennett (10/10)
+The Carnegie Mellon experience isn't complete until we pit ourselves against each other and compete over which college suffers the most. Although tongue-in-cheek humor about our poor work/life balance and our faltering mental health can be funny in moderation, please remember to take care of yourselves.
+3) "Subra skedaddle" by Alexander Chen (10/10)
+Alexander is back at it again with the dank high-effort memes. The meme somehow tastefully incorporates Comic Sans MS and captures the evanescence of different parts of Carnegie Mellon culture, such as the beep-boop (never forget).
+4) "Wean off of stress culture" by Cali Colliver (10/10)
+Everything about this meme is perfect. Firstly, the wholesome supportive message goes out to all of our students; all disciplines and colleges are valid and we are all suffering in this institution together (but should encourage each other to minimize the suffering!). Also, the caption on the original Facebook post, "Raymond John Wean is opposed to stress culture," is a nod to the striking semblance between Raymond John Wean's plaque in Wean Hall and Danny Devito.
+5) "Heart is in 122" by Fayyaz Zaidi‎ (9/10)
+Name something more Carnegie Mellon-esque than Andrew Carnegie himself and computer science. The summoned demon of Carnegie will continue to haunt my dreams and haunt me to keep my heart in the work.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+This is an ongoing series featuring short interviews from CMU students, some of whom choose anonymity, on their experiences at Carnegie Mellon.
+During freshman year, messing around with friends in our dorm or getting food together — just simple things — were some of my favorite moments at CMU. Once you become an upperclassman, you either move off campus, or you move into an upperclassman dorm, and people are less outgoing and talkative. So to hang out with people, you really have to make a lot more of an effort, whereas [in] freshman year, you just leave your room and you see people you know, you go into one of the common areas of your dorm and you see people you know — there’s just people around to talk to. I miss that availability of friends and people you know hanging out all around. Try to find your main group of friends — people you know you’re going to be able to stick with in your later years of university. But also branch out and try to get involved in activities, make friends in different majors, living in different dorms. Even if you’re a shy person, just do your best to be outgoing, meet new people, and really enjoy your college experience. Because you only get it once in your life.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+ongoing
+Morehshin Allahyari: South Ivan Human Heads (CFA Great Hall)
+ongoing until 10.17.19
+week of 9.30.19 - 10.6.19
+Joe's Odyssey: a 30-minute folk opera based on Homer's epic The Odyssey (McConomy Auditorium)
+9.30.19 4:30 p.m.
+School of Drama: Tiger at the Gates (Purnell Center for the Arts)
+10.3.19 - 10.12.19
+ReelQ: Pittsburgh LGBTQ+ Film Festival (Row House Cinema)
+10.3.19 - 10.12.19
+Late Night: Waving Flags (Black Chairs)
+10.4.19 10 p.m.
+Pittsburgh Dragon Boat Festival (North Park Lake)
+10.5.19
+Puzzlehunt CMU (Location TBD)
+10.5.19 12 - 8 p.m.
+week of 10.7.19 - 10.13.19
+Stephen Chbosky (Carnegie Library Lecture Hall)
+10.7.19 7 - 8:30 p.m.
+Carol Brown Lecture Series: Brandon Som (McKenna, Peter, Wright Rooms)
+10.10.19 4:30 - 6 p.m.
+This Skin of Ours (Miller ICA)
+10.12.19 - 11.17.19
+Intersections: Studio 30th Anniversary Exhibition (Miller ICA)
+10.12.19 - 11.17.19
+Noche Latina 2019 (Cohon Center)
+10.12.19 8 p.m. - 12 a.m.
+October 13th Neighborhood Flea (Neighborhood Flea)
+10.13.19 10 a.m. - 3 p.m.
+Made & Found Fall Market (Ace Hotel Pittsburgh)
+10.13.19 10 a.m. - 4 p.m.
+newly added
+A Magical Night At The Zoo (Pittsburgh Zoo & PPG Aquarium)
+10.3.19 5 - 9 p.m.
+AB Comedy Presents: Phil Hanley (McConomy Auditorium)
+10.3.19 7:30 - 9:30 p.m.
+Yinz'prov: College Comedy N'at (Point Park University's Pittsburgh Playhouse)
+10.5.19 8 - 10 p.m.
+Kappa Karnival 2019 (The Cut)
+10.11.19 2:30 - 5:30 p.m.
+The Originals Present: Vertigo (Rangos Ballroom)
+10.12.19 7 - 10 p.m.
+Halloween Happenings (Phipps Conservatory)
+10.25.19 4 - 8 p.m.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Democratic presidential candidate and former U.S. Representative Beto O’Rourke visited Pittsburgh on Wednesday as part of his 2020 presidential campaign. In the tent at Schenley Plaza, he hosted an event with supporters that was a mixture of town hall and rally. He is the fifth candidate to visit Pittsburgh since the campaign season began, following, most recently, a visit by Sen. Amy Klobuchar on Sept. 18. 
+According to an Aug. Franklin and Marshall poll, about 1% of Pennsylvanians support O'Rourke's candidacy.
+Standing on a black box in the middle of a crowd, he started off his speech with some personal stories, including the story of his last visit to Pittsburgh that was 25 years ago, and the fact that he had just celebrated his 14th wedding anniversary. Recalling how he first met his wife on a blind date, O’Rourke remarked that “this was 15 years ago, before Tinder was invented, and we didn’t have the chance to swipe left or right." 
+He transitioned to reflecting on his roots in El Paso, Texas. El Paso, as a city bordering another large city in Mexico, is home to a thriving international community. O’Rourke remarked proudly about how many El Paso schools now implement fully immersive bilingual education. 
+He reminded the crowd that El Paso is one of the safest cities in America to rebuke to the current president’s rhetoric about how immigrants allegedly increase crime rates in America. 
+O’Rourke then turned to his many criticisms of the Trump administration’s treatment of immigrants at the southern border. “No one sends their 8-year-old daughter [alone] on a 2,000 mile journey unless there is no other choice but to send their daughter on a 2,000 mile journey,” O’Rourke said, to cheers.
+O’Rourke then pivoted to discussing the shooting at a Walmart in his hometown, where the shooter allegedly targeted Mexicans because he was angry about what the shooter termed a “Hispanic invasion” of Texas, and the large-scale ICE raid in Mississippi that targeted low-income migrants that arrested hundreds. 
+From there, O'Rourke addressed his proposed gun control, domestic terrorism, and immigration policies. He reiterated his intention to implement a mandatory buyback of assault-style rifles because he believes there is no reason for civilians to own military-style weapons, to cheers, and to make combating domestic terrorism a top priority for federal law enforcement. One of O'Rourke's key issues on the campaign has been this gun control rhetoric, which has earned him progressive support and conservative criticism.
+O'Rourke told the crowd that ICE raids were sending a message of fear, and said that he intended to remove this fear aspect from these immigrants’ lives by legalizing undocumented immigrants and providing a path to citizenship for the young people brought to the US illegally as children known as Dreamers. 
+He brought up the drought in Guatemala that was forcing many families to escape north, and the fact that extreme weather events like it will become more common as the planet warms from human activity. “[The drought is] not caused by God or Mother Nature, but by you and me, our emissions,” he asserted. 
+He highlighted that places located at lower latitudes such as El Paso may be too hot to support life in the future if anthropogenic global warming goes unchecked. To combat this, he proposed that if he is elected as president, he would have a plan to implement carbon sequestration — processes that remove carbon from the atmosphere and thus reduce the percentage of greenhouse gases in the air — over the next decade. O’Rourke told people that as Americans, we should be taking a leadership role to “make sure we don’t cook this planet beyond supporting life.” 
+The rest of his speech touched on the key issues that Democrats have taken on: discrimination, healthcare, a $15 minimum wage.
+He also proposed a healthcare plan with a mixture of public healthcare and private plans. He addressed the need to end discrimination in the workplace by amending the Equal Rights Amendment, and criticized the fact that it is legal in Texas and other states to fire someone for their sexual orientation and to prohibit same-sex couples from adopting children. 
+O'Rourke rallied his supporters by ending with a statement on the high incarceration rate in the US, saying that the “war on drugs became [a] war on people,” especially minorities. He called for reparations to be made to descendants of slaves and for the nation to acknowledge both the deeper legacy of slavery and how it still disadvantages minorities to this day. 
+The former Texas congressman spent much of the rest of the event taking questions from the audience. One man in a wheelchair asked about the proposal for paper ballots to prevent election hacking, noting that some people like him cannot pick up a pencil and asked if there would be accommodations for disabilities. In response, O’Rourke promised to enact a provision for disabled people to be able to get help in voting and even promised to name it after the man who asked the question.
+A young woman from El Paso asked the candidate about gun control and reflected on her worries after the mass shootings in both El Paso and Pittsburgh, to which O’Rourke shared a story he had heard of a Mexican woman who refused to play traditional Mexican music in public after the shooting in El Paso. He also seemed to express that he understood how some gun owners liked the shooting power of assault-style weapons, but noted that there have been gun owners who told him that although they were supporters of Trump, they also wanted to keep our children safe and understood the premise behind O’Rourke’s gun buyback proposal. 
+In response to a question about how to pay for this buyback, he proposed taxing capital at the same level as income, raising the corporate tax rate to at least 28%, and ending the foreign wars America is involved in to save the money otherwise spent on these wars. 
+He concluded the event by greeting some supporters in the front and snapping the usual crowd selfies. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Attendees packed the McConomy Auditorium last Thursday as Michelle Alexander, author of the bestseller The New Jim Crow: Mass Incarceration in the Age of Colorblindness, led a discussion about mass incarceration and racial justice. Also on the panel were Heinz College professor Alfred Blumstein and Department of History postdoctoral fellow Anthony Pratcher.
+Blumstein started: “The U.S. used to have an incarceration rate of about a hundred for a hundred thousand... we are now about five times that level.” He discussed the findings in his field of criminology showing that 30 percent of the prison population’s disparity between white people and people of color could be demonstratively explained by bias against people of color rather than by people of color committing more crimes.
+Alexander acknowledged the staggering amount of people in jails and prisons as a serious problem but discussed how she and other activists refer to mass incarceration as “a much larger caste-like system” that includes people on parole and formerly incarcerated people who effectively live as second-class citizens. She also noted that while she fights to eliminate racial inequality in the system, she is “interested not in eliminating the disparities but eliminating the system itself.”
+Alexander was less personally interested in the statistics around bias in the justice system and more concerned with what she calls a racist political dynamic in our country.
+She said, “the rate of violent crime that we see in impoverished, segregated, jobless, ghettoized communities is a function of the fact that we as a nation have chosen to disinvest in those communities.”
+Alexander was heartened to see so many people turn out to her talk, and said that old-fashioned protest can create new political realities that are starkly different from the current ones. She cited the impact the Movement for Black Lives and the Ferguson protests have made. She pointed out that the issue of mass incarceration has become bipartisan to a degree. For example, she noted, The First Step Act, a criminal justice reform law, passed with bipartisan support this April.
+Pratcher brought up the topic of prison abolition as an alternative to prison reform. Alexander was quick to point out that prison abolitionism is not just about closing prisons, but about creating a democracy where prisons and jails “are not required, where we have developed alternative forms of justice...where we respond with care, compassion, and concern rather than punitive approaches.”
+She discussed how the current system fails survivors of violent crime, who often don’t get closure from seeing their assailant sent off to prison, and fails to redeem the imprisoned people, who spend time in a traumatizing environment that doesn’t improve them.
+Alexander proclaimed the unfairness in that white business owners are making a profit selling marijuana in states where it’s legalized while black people were torn from their homes for doing the same thing. She argued that reparations should be paid not just for slavery but for the impact of the drug war on communities of color.
+She also noted that the same infrastructure is used to lock up black people and undocumented immigrants and that both of their mistreatments are justified by similar political rhetoric that scapegoats members of both groups as dangerous.
+Alexander recounted what inspired her to write The New Jim Crow. Growing up, she noticed her white classmates in high school and college weren’t arrested for doing hard drugs and later went on to grad school and lucrative careers, while young people of color caught smoking marijuana were penalized and told they would never amount to anything.
+Alexander ended by discussing the broader political implications of the drug war and racism. “The drug war was declared with black folks in mind, but it’s a war that’s harmed people in communities of all colors. Today in our politics, I think we can see all kinds of examples of the way that white folks hurt themselves by their own racism.” She believes that America doesn’t have many welfare policies like universal healthcare because “things like welfare and federal support for education, for healthcare, for housing and the rest got tainted through the racial politics of the Southern Strategy.” To some degree, she argues, white Americans don’t support policies that would benefit them because they would also benefit people of color.
+When it comes to enacting change against the injustices she describes, Alexander said, “It’s going to take activism and it’s going to take protest...In whatever walk of life one is in there is a role that one can play in contributing to this movement.”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Alcohol Amnesty
+Sept. 22, 2019
+Officers responded to Morewood Gardens twice, and once to E Tower to aid an intoxicated Carnegie Mellon student. The students were provided medical assistance and no citations were issued due to alcohol amnesty. 
+Simple Assault
+Sept. 22, 2019
+Officers responded to Kappa Sigma following a report of a simple assault. Officers attempted to make contact with the parties involved to gather information about the person involved. The investigation is ongoing. 
+Internet Scam
+Sept. 24, 2019
+Officers responded to Skibo Gymnasium following reports of an internet scam. A Carnegie Mellon employee told officers that they received an email from an individual attempting to portray a Carnegie Mellon associate requesting gift cards. 
+Theft/Larceny
+Sept. 27, 2019
+Officers responded to the College of Fine Arts building following a theft report. Officers made contact with a Carnegie Mellon student who reported their computer was stolen from a studio. The investigation is ongoing. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Pittsburgh is a city with a rich history of labor strength and unionization. An important step in the future of Pittsburgh workers was made last Tuesday when Google contract workers voted to unionize.
+The workers, contractors for Google working directly for a tech firm named HCL America, voted 49-24 to unionize with Pittsburgh’s United Steelworkers (USW). Now, they await approval from the National Labor Relations Board to certify the vote.
+As contract workers, they don’t exactly work for Google. But the nature of their work means that their jobs are extremely similar to those of direct Google employees. They’re typically college-educated, yet don’t receive benefits such as paid sick days and are often paid as little as $40,000 a year for their work. They also lack job security, with workers saying that abrupt firing is also a constant worry.
+Over half of Google’s workforce, or about 135,000 employees, are like the HCL America contractors: they work on Google projects, but are receive less compensation due to their temporary status, and do not get the same benefits that direct Google employees do.  In joining with USW, HCL employees who voted for the union hope that better representation can address these issues. 
+USW’s first efforts to bring workers together and collectively bargain for better contracts came at a much different time in labor history. The tech workers of today certainly aren't working in hundred-degree factories, tapping blast furnaces and routing slag. However, even though the physical working conditions are inherently different, the goals of unionization are essentially the same: better conditions and better compensations.
+For steelworkers in and around Cleveland, OH, where USW was founded in 1942, conditions were dire. It took several years to unionize the steelworkers, and after frequent strikes and other efforts, workers were able to collectively bargain for things like a $5 daily wage at Carnegie-Illinois Steel in 1937, and eventually, pension plans for workers at Bethlehem Steel in 1949.
+Those efforts might have looked different than unionization efforts of today: there was no dramatic strike or stakeout with HCL workers. But their demands remain similar to labor struggles of the past. 
+Johanne Rokholt, an HCL employee working at Google’s Pittsburgh campus said, “currently, the power dynamic between workers and the company is imbalanced. By standing together as a union, we can balance that power dynamic, and turn the monologue into a dialogue to get the fair treatment we deserve.” 
+Ben Gwin, HCL employee and union organizer, told the Pittsburgh City Paper, “we just want a voice in the process... and to be able to negotiate our own contract and have a more equitable workforce for everyone.” 
+Google employees in the past couple of years have led the technology workforce to recognize the value of their own labor. A walkout last Nov. that questioned the company’s handling of cases of sexual harassment led to policy change. Internal backlash and mass resignations prompted the company to not renew its contract with Project Maven, the controversial Department of Defense project, a branch of which is currently operating out of Carnegie Mellon’s army AI task force. 
+At Google, these efforts have stopped short of unionization. Even if Google employees unionized, it would not necessarily lead to unionization of the majority of workers at the company, since contractors, like those at HCL, outnumber the company’s full-time employees. According to a tweet by the organizers of the Nov. walkout, this arrangement “permit[s] Google to abdicate its responsibility to the majority of its workforce.”
+And HCL workers for Google are far from the only laborers working without full-time status benefits: in our economy, thousands drive for Lyft or Uber without benefits, warehouse workers for Amazon are frequently employed by temp agencies instead of corporate for lower costs, and content moderators for Facebook, who must view the most horrible and disturbing content on Facebook for hours on end, are mostly contract workers who make around $28,000 a year. 
+Intertwined with Pittsburgh’s deep history of labor organizing is the backlash that these efforts have faced. The Homestead Strike is famous not only for the new organizing techniques employed by the workers but also the bloody retaliation by the private security force, the Pinkertons and the state police. 
+In the modern gig economy, the temporary workers historically brought on as scabs and strikebreakers now constitute a large section of the workforce. Those workers are now beginning to recognize that their labor, whether temporary or not, is worth much more than what they get in return.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Just a year ago, Greta Thunberg was alone in the climate strike, striking outside the Swedish Parliament to highlight the Swedish government’s inaction on combatting climate change. This year, she is heralded as the leader of a movement that has inspired millions to join the strike. As much praise as she is receiving for "bringing momentum" to climate change activism, the criticism has been vicious. The two most prominent areas of attack have been her abilities and her age.
+There's no doubt that what Thunberg is doing is mentally tolling for anybody, regardless of their previous mental stability. However, the topic of mental health and ableism would not be in the conversation if a "normal" teenager were to lead the climate strike. In her 2018 TED talk, Thunberg shares that "she was diagnosed with Asperger's, OCD, and selective mutism." She calls her Asperger's diagnosis her "superpower," but that does not stop people from using her diagnoses as a way to "prove" she is mentally unstable or otherwise incompetent.
+Just as recently as last Monday, Sept. 23, Michael Knowles from the Daily Wire was a host on Fox News and called Thunberg a "mentally ill Swedish child who is being exploited by her parents and the international left." Since then, a spokesperson for Fox News told The Washington Post “the comment made by Michael Knowles who was a guest on The Story tonight was disgraceful — we apologize to Greta Thunberg and to our viewers.” However, Knowles refuses to apologize, defending himself by saying that "there is nothing shameful about living with mental disorders" but there is "with exploiting a child—particularly a child with mental disorders—to advance your political agenda."
+This leads to the other major point of criticism: her age. To some extent, I understand why people are uncomfortable with the thought of listening to a teenager. The power dichotomy feels reversed. Younger people generally look up to the expertise of older generations; Thunberg, in being the face of a global movement, flips those tables. I also think back to what I was like as a 16-year-old and I cringe. I'm sure most people will say the same about themselves. However, it's important to not project our embarrassment from our teen years onto other teens. These people are raising understandable concerns about the trajectory of our planet. Their futures are the ones being affected by our current policies and decisions.
+Also, I understand why someone's youth may be associated with naïveté or susceptibility. Teenagers can be prone to social pressures like peer pressure or parental pressures. However, Thunberg made it clear that her activism was based on her own passion, not her parents' ambitions. Last year, Thunberg's parents "weren’t very fond of [a school strike]," telling her that "if I were to do this I would have to do it completely by myself and with no support from them." Although they are much more supportive now and have changed their lifestyles to honor their daughter's cause, Thunberg herself took the first step.
+It's also important to note that Thunberg is not asking to be a leader of the climate change response, nor does she claim to know the exact policies that will save us from our climate crisis. Does she offer suggestions, such as limiting aviation and consuming a plant-based diet? Sure. However, on a larger scale, she is trying to raise awareness, directing the authority towards climatologists and holding policymakers accountable.
+There are far more young activists fighting for climate protection. Autumn Peltier, an indigenous Canadian, advocates for clean water. Alexandria Villaseñor founded Earth Uprising. Alongside Thunberg, she helped organize the Sept. 20 climate strike and filed a complaint against five of the world's largest emitters of greenhouse gasses. This is the tip of the iceberg; there are more young activists fighting for a cleaner planet.
+Frankly, I don't know the "right" answers to how to combat climate change. I don't know what policies will most effectively stop us from hitting the 2°C benchmark or how best to realistically protect the environment while allowing society to continue normally. Neither do the children who participated in the school climate strike. Even Thunberg and the other on-the-rise youth activists don't. All we simply ask is for dialogue that can help us find these solutions and policy to follow.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Capitol Hill has a problem. No, it is not Donald Trump. It is not extreme partisanship, either. Jobs and internships on Capitol Hill are highly sought after, yet not many people can actually afford these opportunities. 
+The issue is that, like most other major cities, the cost of living in Washington, D.C. is expensive. For those seeking internships and staff positions on the Hill, this can be a barrier. Because only certain types of people can afford to take up these positions, staff on the Hill is not as diverse as our country.
+Internships on the Hill are highly competitive. Political science undergraduates all over the country dream about walking down the halls of the Capitol with their Senator or Representative, but this dream is stopped short when they see the price tag of short-term housing in D.C. and the word "unpaid" in their offer letter. Many people who would love to intern on the Hill are barred from doing so because of money, which disproportionately affects minorities.
+Some student interns can receive outside funding from organizations like College to Congress, which will pay for all expenses incurred while interning in D.C. Programs similar to College to Congress help minorities and low-income individuals secure internships on the Hill. Nonetheless, as someone who did intern on the Hill, these programs have not cured all of the issues with the lack of diversity.
+Unpaid internships are often advertised as “good experience,” but the reality is that when they are unpaid without a travel stipend for gas or the metro, interns are actually paying money to show up to work. This is corrupt, especially given that most interns on the Hill do not actually receive the policy experience they seek. Rather, they are trained to answer phones and give tours of the Capitol building. The administrative tasks that interns on the Hill perform do not classify as “good experience,” thus these unpaid internships can no longer be justified with such an excuse.
+This past summer, the Democratically-controlled House of Representatives appropriated some funds to pay their summer interns. Each office in the House was given $20,000 annually to cover intern payment and the Senate offices are appropriated funds depending on the size of their state. Depending on the office and their average amount of interns, interns are paid at least $1,000 per month. This pales in comparison to what interns in the private sector are paid, but it is a start and interns can use some of the money to pay off their D.C. expenses. This low intern salary will still be a barrier to some.
+It is promising to see that Congress is trying to improve where they have failed and hopefully these new funds will create more opportunities for increasing the diversity of Hill interns. Although Congress is slowly moving on the matter of paying their interns, another problem remains: low staff salaries and the discrepancy of pay between senior staffers and everyone else. 
+Entry-level positions such as Staff Assistant or Scheduler have salaries of about $25,000 annually, before taxes. How is this sustainable? Such a minimal salary limits many people from being able to accept positions on the Hill.
+Other more experienced positions, like Chief of Staff, receive an average of $150,000 per year, according to the Congressional Research Service. Obviously the Chief of Staff should be paid the most, but other positions like the Press Secretary, Communications Director, Caseworker, and Legislative Correspondent are paid much less. In fact, most Communications Directors make less than $70,000 per year and Legislative Correspondents make around $45,000 annually. Many positions on the Hill offer salaries of less than $55,000 per year, which is probably why staffers do not stay on the Hill for too long.
+When Alexandria Ocasio-Cortez was elected to Congress, she vowed that each one of her staffers would receive a minimum salary of $52,000 per year. She does follow closely to her principle of paying her staffers a living wage, but in doing so she has made sacrifices. She has a much smaller team than most members on the Hill. And in reality, $52,000 per year is not that much in the grand scheme of things, especially when you are paying D.C. rent.
+It is no secret that government jobs are not highly paid, but when they are paid so little that staffers have to rely on their parents or a second job for extra funding, it is a crime. Staffers on the Hill do not work your typical nine-to-five job. Some staffers work on the weekends and late nights. Some never stop working at all. And they are not paid what they deserve. Congress came around in paying the interns, and it’s time for them to do the same for their staffers.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Have you heard about the sleepy new “Sustainability Initiative” the provost is trying to sell us? Let me tell you: that’s a bucketful of promises with a hole in the bottom.
+I can tell you all you need to know about the Sustainability Initiative. It includes no new staff hires. No monetary commitment. No actionable benchmarks. No structural change to the administrative organization. Instead, we get... what? More committees? More rhetoric?
+Our house is on fire, and the provost sees fit to offer such limp leadership? I believe this shows that he doesn’t care about us, friends. At our current pace, the runaway temperature rise will reduce the planet to a desert. Before then, billions will suffer. If the provost really cared, he would do something. Something meaningful. But he cares only enough to say he does and not an ounce more.
+Earlier this year, a faculty committee already provided a report recommending a real, concrete plan of action, with a plan to catch up to our peer universities and seize the lead in specific areas of sustainability research. The administration ignored it, and now we get a more pliant committee.
+On Sept. 23, 2019, Provost James Garrett attended a photo-op forum at a UN-affiliated event in New York City and gave vacuous commentary. (“We recognize that universities have invaluable roles to play in leading efforts to achieve...”) He did not mention that Carnegie Mellon — bizarrely — does not list any ecology courses taught by ecologists on SIO this academic semester, or that — alone among our peer universities — we do not have a high-level Office of Sustainability.
+Not too far away that same day, Greta Thunberg addressed world leaders at the UN Climate Summit. She said: “If you choose to fail us, I say we will never forgive you.” If our school provost can’t commit to concrete action, what hope do we have of our world leaders? Provost Garrett, we are running out of time, and you are failing us. And who will forgive you?
+Hadrian DeMaioribus is a current senior studying history at Carnegie Mellon University.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+There are a lot of symbols, numbers, and terminology associated with the stock market. We frequently hear about how the Dow Jones Industrial Average is performing or where the NASDAQ composite is sitting or whether the S&P 500 is on the upswing. While these numbers mean everything to the floor traders buzzing like caffeinated bees over at the New York Stock Exchange (NYSE), they don’t do very much for the average person other than giving a vague idea of whether the economy is doing “well.”
+The illusion of complexity is what drives people away, but to avoid investing in the stock market is a financial pitfall. With thousands upon thousands of stocks listed on the NYSE along with countless funds and options, it seems mind-boggling to try and understand and parse it all. And when it comes to investing, investing in things you don’t understand is a bad idea.
+The trick is not to understand everything about the stock market, but to take a big-picture approach, reading and studying just enough about the market as pertains to your investment strategies. After all, not even professional investors can digest all the information that’s out there. Large investment firms usually have armies of analysts grinding out the numbers round the clock, and even then are only just scratching the surface.
+So, what does it mean to look at the stock market from a big-picture perspective? A good place to start is to consider the different assets that are available, and how to invest in them. Rather than getting stuck on all the minutiae, we’ll go ahead and focus on three big asset classes: stocks, funds, and commodities.
+To begin, let’s take a look at the kinds of funds that are out there. Broadly, funds fall into three categories: index funds, mutual funds, and exchange-traded funds (ETFs). Index funds are designed to track a market segment (e.g. healthcare, large companies, tech) and serve as market indicators. However, they are not directly investable, meaning you can’t put your money into an index fund. For this reason, the focus is mostly on mutual funds and ETFs.
+Mutual funds are a form of pooled investments, where you and many others give up your money to be managed by a professional. Usually, mutual funds are designed with a specific market sector in mind and invest in that sector accordingly. It’s not uncommon to see mutual funds that are designed to track index funds, so if you’re interested in following a specific index fund, it’s best to invest in an associated mutual fund. Mutual funds are priced at the end of the trading day, meaning that if you were to buy into a mutual fund during an ordinary trading day, the price you would pay is the price when the market closes at 4:00 p.m. EST.
+Exchange-traded funds are different from mutual funds in that they can be thought of as a collection of securities. Essentially, the company that manages the ETF buys a bunch of one kind of investment, be it company stocks in a certain market sector or government bonds, and then parses it into lower-priced packages that it then offers to investors. For that reason, ETFs can be bought like stocks, since you can get shares of an ETF at a certain price, and they can be bought and sold during the regular trading day. ETFs are attractive since it gives investors exposure to a diverse collection, and often at a lower price than buying individual shares of stocks or individual investments.
+Next, we have commodities, such as gold, silver, and crude oil. Believe it or not, you can buy and trade these resources on the market. Investing in commodities is not always a great way to accrue wealth in the short term since gold and silver prices fluctuate dramatically over short periods. However, investing in gold and silver can be a good way to protect your money during times of market volatility since gold is gold the world over. So, in the long term, commodities can guard against market downturns, although the buy-in price is steep. We’ll discuss more about commodities later.
+Lastly, we have good old stocks. Everyone’s heard of stocks, but not everyone knows what it means to own a stock. To own some stock means you buy shares of the issuing company. So, if you bought say 50 shares of AT&T, you now technically own that fraction of AT&T, although that’s likely nothing compared to the literal millions of shares that investment firms have in these major companies. When you own a share, you are a shareholder of the company, and your fortunes from the stock depend on the company’s performance. Stocks can range from low-risk and low-reward to high-risk and high-reward, with the stocks of start-ups and new-born industries being the most volatile. Investing in stocks requires more diligence and attention to the data, as well as consistent monitoring of market conditions and trends.
+With that brief overview, hopefully, the markets don’t seem so overbearing. Of course, there’s a lot of nuance within each of these three very broad categories, but the majority of investments available fall into at least one of these classifications. Moving forward, we will focus our attention on each of these groups, starting with funds, followed by commodities and then stocks.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+

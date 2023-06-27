@@ -1,0 +1,253 @@
+Between Dec. 27 and Jan. 2, the U.K. Office for National Statistics estimated that over one million people in England suffered from COVID-19. This figure equates to around 2.06 percent of the population of England, and while an average of 1 in 50 people are estimated to be infected in the nation as a whole, the Office for National Statistics estimated the ratio to be as high as 1 in 30 people in London.
+In a press conference on Jan. 5, Prime Minister Boris Johnson acknowledged that 1.3 million people across the U.K. had been vaccinated, including 23 percent of those over 80 years of age in England. However, the 40 percent increase in hospitalization compared to hospitalizations during the first peak meant that he had “no choice” but to impose a new lockdown. The regulations, which could be in place until the end of March, mandate, among other things, that it is illegal for citizens to leave their homes without a “reasonable excuse,” and that an offense can result in a fine. The rules also state that while amateur sports teams will not be allowed, elite sport such as the Premier League will continue to operate.
+Despite the precedent of a three-month pause in accordance with the U.K. lockdown back in March of last year, it seems that the England top flight has avoided another suspension. Although health officials have repeatedly stressed the importance of reducing interpersonal contact and sporting facilities have been closed, the English Premier League, following the Scottish Premier League, will be permitted to train and play out their scheduled fixtures. Citing frequent, rigorous testing procedures coupled with established bio-secure bubbles, the league issued a statement on Dec. 30 stating, “The League continues to have confidence in its COVID-19 protocols to enable fixtures to be played as scheduled, and these protocols continue to have the full backing of government.”
+Of course, the Premier League’s exception has a precedent as well, since it escaped the previous lockdown back in November. Given that the average number of new daily cases of COVID-19 in the United Kingdom has more than doubled since then, however, it begs the question of whether the government and the English Football Association (FA) have been too hasty in making this decision.
+After all, despite restrictions, guidelines, and cautions, the number of players and club staff who have tested positive for COVID-19 has climbed at a worrying rate. 58 positive cases surfaced in the two weeks leading up to Jan. 3 compared with 13 positives in the two weeks before that. From Jan. 4 to Jan. 10 alone, the Premier League reported 36 new positive cases out of 2,593 tests. These numbers have prompted several matches to be postponed, and teams like Manchester City have had nearly half their first team sidelined.
+While the mounting number of COVID-19 cases in the Premier League may be concerning, it is ultimately unsurprising. After all, players have become notorious for breaching pandemic restrictions, with several members of the top flight hosting and attending parties throughout the Christmas and New Year’s seasons. Plus, clubs are engaging in international travel for the sake of training camps. Furthermore, neither the English FA nor the Premier League clubs are willing to take serious disciplinary action against players that breach COVID-19 restrictions, with both sides claiming they have no jurisdiction, which makes the direct consequences for breaking the guidelines seem inconsequential.
+When the British government permitted the Premier League to continue despite a third national lockdown, officials cited that part of the reason was to preserve the joy and entertainment that elite sports bring to fans at home. Yet as the number of positive COVID-19 cases among the players and staff increase at an alarming rate, we must question whether this decision continues to be in the best interest of all those involved. Players choosing not to respect pandemic guidelines have already put their teammates and club staff at risk, and the absence of strict consequences seems to elevate their status to being above the restrictions (and therefore above the health and safety of others), while also setting a dangerous precedent for those not fully convinced by the gravity of the situation. Plus, with inconsistent fixtures, postponements, and first teams decimated by COVID-19, we must question the significance that each match, and perhaps even the league title itself, holds.
+In his Jan. 11 COVID-19 briefing, Health Secretary Matt Hancock stated that over 2.6 million vaccine doses have been administered across the U.K. Even with the steady rollout of vaccinations, however, it seems unlikely that COVID-19 cases in the Premier League will slow down. For better or for worse, the only reliable way to effectively stifle the virus in England’s top flight is for all club members to respect the given guidelines or, if they are unable to do so, for the government to intervene and enact another suspension.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+For several months now, online browsers like Google Chrome and Internet Explorer have greeted their users with a small message that support for Adobe Flash was going to be ending on Dec. 31, 2020, its End-of-Life (EOL) date. Adobe first announced this in a blog post titled “Flash & the Future of Interactive Content” on July 25, 2017. According to the blog post, the main reason for Flash’s demise is that the maturation of other options to Flash, like HTML5, WebGL, and WebAssembly, have made it less viable in the long run. Adobe gave the three-year advance notice for Flash’s shutdown to give developers time to port over their work to these other standards.
+Though support ended for Flash on Dec. 31, Flash content could still be run on Flash Player until Jan. 12, 2021, when Adobe completely blocked Flash Player from running. However, many browsers dropped support for Flash following the EOL date. Adobe strongly suggests that users uninstall it from their system since Flash no longer works and they will no longer be putting out updates and security patches for it. Adobe will be sending a prompt to users who have Flash still installed for them to easily uninstall it, or users can manually delete it from their system.
+With Flash finally leaving, what is the legacy that it has left behind? Since so many websites used Adobe Flash at its prime, there are few who have never seen a “Click to enable Adobe Flash” or “Flash was blocked on this page” popup. Many hold fond memories of playing Flash games like Run, Fireboy and Watergirl, or Papa’s Pizzeria at home or in a school computer lab when they were supposed to be doing work. Thanks to Adobe’s three-year notice, people have been able to save these games by updating them to HTML5, like coolmathgames.com did, or by putting them in a downloadable launcher like Flashpoint, which has access to over 70,000 Flash games that would otherwise be lost.
+But part of the legacy of Adobe Flash is also the number of vulnerabilities it has had over the years. According to CVE Details, which describes itself as “the ultimate security vulnerability database,” Adobe Flash has had at least 1,078 vulnerabilities over the years since its release. Despite how many security vulnerabilities Adobe Flash has had over the years, however, there was a time when nearly 30% of all websites used Flash.
+Though the end of Flash is the end of an era, Adobe will continue to contribute to the HTML5 standard and participate in the WebAssembly Community Group. Flash leaves behind an impressive legacy, and the development and usage of other standards build off of the legacy that Flash built for itself.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Nurse Sandra Lindsay from the Long Island Jewish Medical Center in New York was first to receive the new COVID-19 vaccine on Dec. 14, 2020, nearly 10 months after the March 2020 announcements of stay at home orders. This historical event shone a ray of light on the lives of many during a time of uncertainty. With the mass distribution of COVID-19 vaccines across the country, we can now see a reflection of the vaccination efforts in New York beginning to unfold in the city of Pittsburgh as well.
+On the same day that Lindsay received the first COVID-19 vaccine in the country, 67-year-old Advanced Nurse Practitioner Charmaine Pykosh at the University of Pittsburgh Medical Center (UPMC) was the first in Pittsburgh to be administered the Pfizer COVID-19 vaccine. Pykosh was followed by four other UPMC employees — Sylvia Owusu-Ansah, Christian Schott, Ja’Ray Gamble, and Manevone Philavong — all of whom “represented different sectors of the health system’s workforce.”
+Upon the initial administration of the vaccine on Dec. 14, 2020, the Pennsylvania Department of Health set forth a plan about further vaccinations which will be implemented in every area of Pennsylvania except for Philadelphia, where the city’s large population leaves funding and planning for the COVID-19 vaccination in its own hands. The plan outlines the order in which the COVID-19 vaccination will be administered to the residents of each city. While health care workers have been claimed to be the first of the Pittsburgh population to receive the vaccine, these workers are closely followed by “vulnerable seniors at long-term care facilities.” Following senior citizens is the third group of people to receive the COVID-19 vaccine, which will consist of essential workers and first responders. However, the extent to which this plan has become public ends there; the order of the administration of the vaccine to the remaining residents of Pittsburgh has yet to be determined. 
+Despite the long ordeal that awaits in making the COVID-19 vaccine available to the general public, Pittsburgh has already taken steps towards the vaccination of the entire city over the past few weeks. As of Sunday, Jan. 10, 2021, only about four weeks after the administration of the first COVID-19 vaccine in Pittsburgh, nearly 24,000 vaccines have been given in Allegheny County alone. Even more promising is that about 100 of the 24,000 vaccines have been given to unaffiliated or private healthcare workers by the Family Matters Direct Primary Care located in Allison Park. Unlike the UPMC healthcare workers, these 100 or so workers are those “who are not part of a larger healthcare system that was providing the vaccine to employees.” 
+The journey is definitely far from over. However, just like March 2020 placed a painful mark on the calendar, December 2020 brought about a renewed sense of hope not only in Pittsburgh, but also across the nation. Though it still cannot be said for sure what the future has in store, the creation of a COVID-19 vaccine has brought the world steps closer to the finish line. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Welcome to Maddy's Monthly Meme Madness, where we take a look at the Top 5 most-liked memes on the Facebook group, Carnegie Mellon Memes for Spicy Teens, posted since March, when our last roundup was published.
+1) "CM(inecraft)U (part 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8)  by Jared Cohen (10/10)
+This isn’t a meme so much as it is art: true qu*art*entine, if I do say so myself. Everything from Walking to the Sky, to the UC, to the Purnell Center for the Arts is covered (Scaife doesn’t count, sorry). Special recognition to the “Jared S. Cohen [sic]” sign outside the UC that is depicted in the seventh photo and the Scotty in the fifth screenshot.
+2) "Virtual CMU starter pack" by Chelsea Wang (10/10)
+What’s the quote, “desperate times call for desperate measures?” Wang succinctly summarizes how we shall continue the Carnegie Mellon spirit through our iconic traditions, even if we can’t carry them out as we usually do (only 90's kids remember Carnival, RIP).
+3) "Yinzer standoff" by Cali Colliver (9/10)
+If I didn’t know any better, I would imagine this was how the three mentioned universities’ administrations chose which university would move online first. Anyhow, this versatile meme fits too well in the given COVID situation.
+4) "Streaming subscriptions" by Abhishek Dedhe (7/10)
+Perhaps after seeing several colleges post their school’s take on this meme, I’m jaded. Regardless, it feels like it’s mandatory for a college’s Facebook meme page to share it, so no complaints here.
+5) "Venmo reparations" by Kellen Gibson (7/10)
+Basically any critiques I can make for this meme, I can make for the previous meme. College pages really did say "copy and paste" when it came to “Zoom University” memes. But hey, it's still pretty funny every time (or, until the reality of the pandemic hits you and you start crying).
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+In 2020, I saw one movie in theaters, and I didn’t like it. Fortunately, I didn’t feel as though my money was wasted, but the eight dollars I spent to see Parasite is nearly equivalent to the nine dollars I spend to watch Hulu over two months. It’s not just Hulu, either. There’s Netflix, which is nine dollars a month; HBO MAX, which is packaged with AT&T and T-Mobile cell phone plans; MUBI, which is free for students and cycles movies every 30 days; pirating movies is much easier, of course; and the world’s best platforms for movie-watching, YouTube and TikTok.
+To live in 2020 is to live in the most gluttonous year of movie watching in cinematic history. One article from Forbes titled “The Key to Gen Z is Video Content” notes that Gen Z, on average, watches hours of shows and movies every day, and I don’t find this particularly surprising considering our generation still goes to the movies on top of our addictions to YouTube, TikTok, and streaming services. Not only do we have the blockbusters like Tenet or WW84, we have a wide array of art films, from the high box office capacity A24 movies to the low-capacity international movies like Shoplifters, and there are still the Netflix B-movies, the HBO miniseries, YouTube influencers, and TikTok hobbyists.
+The former historical paradigm of agents packaging stars for certain pictures still holds true for one subsection of the movie-watching industry, and because of that, the theatrical movie industry will still thrive. People will still see Chris Evans, Chris Hemsworth, or Chris Pine at their AMC or theater chain, and their hunky personas still need a big screen.
+Where this ultimately leaves the consumer (me, you, Gen Z) of these videos is in a wonderland of current movies. It would take me two minutes to find a pirated copy of Hot Tub Time Machine 2, and I have to say I am quite a fan of Netflix’s To All The Boys movies. Plus, we’ve all seen masterpiece YouTube videos like “Charlie bit my finger,” “Charlie the Unicorn,” and “Potter Puppet Pals” from the mind of genius Neil Ciceriga, all of which are readily available on YouTube.
+There are the infamous Z movies with its current incarnation in The Room, but everyone has their own “so bad it’s good” movies to watch. Whether it’s the Troma collection on Amazon Prime, Robert Green’s The Wrong Ferrari, Rubber, Tremors, The Human Centipede, Troll 2 (not Disney’s Trolls), and all of the trash-core derivatives of post-war independent producers like American International Pictures, there is so much all the time.
+While this pattern will often miss out on some pictures of the past that were never quite successful, like Cecil DeMille’s This Day and Age, it will be up to future movie historians to dig up old prints. There are already millions of pictures lost to the ages, but a number of historically valuable pieces are already partially recovered, like Oscar Micheaux’s Symbol of the Unconquered, with only more to come.
+Ultimately, this just means that the movie industry is changing into a more substantial construction of communication. It’s no longer just the entertainment and news published by the studios. Today, movies are another system of communication, not dissimilar from the written word and the print publishing industry.  
+Buzzfeed listicles, short news briefs or press releases, and more are found with videos attached that replicate the text that’s linked. Not only are novels made into movies, but news articles are made into short documentaries in the same amount of time that it would take a person to write and edit the written word. In possibly the strangest of experiences, writers are starting to use their on-screen personas to sell writing to an audience.
+Since the movie industry is no longer the centralized system of power that it once was, instead relying on the breadth of entertainment and its attendant power brokers, the role of an oppositional critic is essentially pessimistic. As A.S. Hamrah puts it in his essay on the entertainment industry:
+When I think about those three films by Béla Tarr, Aleksei German, and Lars von Trier existing in the same world as the endlessly optimistic franchise films that keep coming out, the constant replacement of one thing by another that is just the same, the repetitive cycle of festivals that critics somehow manage to jet to every year on the fairy dust of other people’s money, the Tarr-German-von Trier pessimism keeps me going. They are the antidote that restores life by nullifying entertainment.
+With all of the fun and entertaining videos pumped directly into our eyes, giving us our daily dose of serotonin, it’s easy to forget about movies that challenge us and force us to contemplate exactly where our bread and circuses come from.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+During quarantine, the internet has been cooking up a storm. Some have taken the more literal route on cooking and chosen classics like banana bread. But, some users on TikTok instead revived an animated Pixar classic, Ratatouille.
+I was skeptical. Ratatouille is Disney's magnum opus. I hoped that a musical could do the film justice, and the snippets of the musical sounded fine. But producing a full-length musical put together in around a month? No "Le Festin"? And how could we forget the barriers that the pandemic has imposed?
+There's no going around it; the musical was far from perfect. However, it'd be naive to expect a Broadway production-quality performance, especially given the current circumstances. I bought an online ticket to the musical out of sheer curiosity, but I came out feeling excited. If this could be made in such a short amount of time and under the new normal, where could this musical go in the future?
+We all know the story of Ratatouille: a Parisian rat finds inspiration from a late renowned chef who firmly believed that "anyone can cook." Said rat defies expectations from rats and humans alike. With the help of a garbage boy who works at the late chef's restaurant, the rat wows the world with exquisite dishes and inventive flavors. The film also covers heavier themes such as sexism in the workplace, capitalism-driven greed, and prejudice. The musical attempted to do the same, but it felt like these topics were only lightly glossed over. Colette's experience as the only female chef in Gusteau's kitchen is mentioned in one stanza, and Chef Skinner's avarice is omitted altogether. In the musical's defense, it came up just under one hour; Pixar's runs for just under two. It's possible that the musical can be polished up in the future. If so, this could be an avenue that the creators could further dive into.
+The production was also corny, to say the very least, even by musical standards. The actors would be shown in a split screen whenever they were "performing" together, similar to the format of TikTok duets. The backgrounds were reminiscent of Zoom backgrounds, and the costumes (or lack thereof) fell flat. But these criticisms pale in comparison to the sheer talent of the cast and incredible work from each of the content creators.
+I fully expected Adam Levine (Emile) to be the star performer. Don't get me wrong, he was fantastic. But Tituss Burgess (Remy) caught me off guard. I caught myself at certain points forgetting that I was watching a TikTok musical and thought I was listening to a Broadway production soundtrack. At times, the TikTok-esque style of the musical served in Burgess' favor by providing more optimal views of the actor's performance. Ashley Park (Colette) was also spunky and brilliant, but could we have expected anything less from Broadway’s Gretchen Wieners?
+Overall, I'm pretty impressed. The tracks were enjoyable enough, and meme enthusiasts will probably be singing about "the rat of all my dreams" for the foreseeable future. Perhaps this musical will further develop and hit Broadway once the pandemic clears up. But the TikTok musical did not disappoint and raised over $1 million in its opening night for actors who were hit by the pandemic. At the end of the day, there's not much more to ask for.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Amazon donated $2 million to the Carnegie Mellon University Computer Science Academy (CMU CS Academy). The donation will support the CMU CS Academy as it expands to provide free computer science education, according to one of its founders.
+Two professors from Carnegie Mellon's School of Computer Science (SCS) founded the program, David Kosbie and Mark Stehlik. Launched with the financial support of SCS and other donors, the CMU CS Academy has made its mission to create an "online, interactive high school computer science curriculum that is entirely free," according to its website. 
+In an interview, Kosbie said that the Academy has served 60,000 students so far. In addition, he said a majority of the CMU CS Academy's students "are from Title I schools, which is to say underrepresented and under-resourced schools," referring to a federal program for schools with many students from low-income families. Kosbie said they "stalwartly stand on'' the content remaining free. However, he explained, "our cost exceeded our revenues."
+The donation from Amazon put the Academy's finances "in the black," according to Kosbie. It has also given the Academy room to expand. "We now have a Spanish language version we've built, so with the Amazon funds, we're prepared to go into Central and South America," Kosbie said.
+Amazon has continued to meet with the CMU CS Academy after their donation as well. "It's not like they said 'here's your check, good luck,'" Kosbie affirmed. "We very much welcome these meetings and their input and guidance."  
+The Academy is poised to expand greatly over the next few years. As the Academy began, Andrew Moore, then the Dean of SCS, gave the CMU CS Academy the goal of one day serving one million students, according to Kosbie. 
+"We have every intention of reaching a million students, of reaching that goal, and doing it, say, within the next four or five years," Kosbie said. 
+The CMU CS Academy has looked for more funding sources as well. In a separate interview, Stehlik said, "the path to the future is not relying on CMU's largess." He added that the Academy has been taking other steps to secure funds like soliciting alumni donations.
+Amazon's donation has also felt validating for Kosbie. "It feels like we're doing the right thing for the right reasons," Kosbie said. "It only affirms what we already knew."
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+In preparation for the new semester, Carnegie Mellon University is ramping up its latest addition to its COVID safety measures, Tartan Testing, as President Jahanian announced in December. 
+“We remain committed to all of our previous pandemic safety practices and mitigation protocols,” said Daryl Weinert, chief of staff, vice president for strategic initiatives, and COVID-19 coordinator, in an email interview. He continued, “In addition, we have developed the high-volume Tartan COVID-19 Testing Laboratory (Tartan Testing), which will increase our asymptomatic testing capacity by a factor of 10.” 
+Weinert added, “Tartan Testing allows us to significantly expand our testing capacity to all Carnegie Mellon asymptomatic students, faculty and staff within the Pittsburgh area.”
+Tartan Testing is based on the Yale School of Public Health’s SalivaDirect protocol, which does not require specialized equipment to detect RNA from the SARS-CoV-2 virus, utilizes saliva samples instead of nasal swabs, and yields results with comparable accuracy to the asymptomatic testing protocol using nasal swabs. The protocol site notes that saliva samples are easier to collect, but also may be difficult to work with. The FDA authorized SalivaDirect under an emergency use authorization for authorized laboratories to use. 
+Weinert stated in the email interview, “With regard to Tartan Testing, there are very specific regulations that the lab needs to be in compliance with — highly skilled staff were brought on board to assist both with this and the operations of the lab.” He continued, “We also have put much thought and effort into [ensuring] that the processes to schedule, register and provide a sample are as safe and efficient as we could make them.” 
+Weinert added, “This is the latest example of CMU leadership coming together to innovate and solve a pressing need for our community. The project involved over 100 people, both faculty and staff, working tirelessly over several months.”
+With Tartan Testing, the university expects that — at full capacity — all faculty, staff, and students on campus will complete one asymptomatic test per week, as stated in an announcement in early January by Michael McQuade, vice president for research.
+“Tartan Testing is the latest element of CMU’s ongoing strategy to mitigate the spread of COVID-19 in our community, it is not meant to be a panacea,” Weinert said in the email interview. He continued, “It is important to remember that any test only provides a snapshot of the moment at which the test is taken, so it is critical that we remain committed to our COVID mitigation behaviors.”
+At the start of the fall semester, PCR tests were administered to residential students and off-campus students prior to the start of on-campus classes and activities. During last semester, random samples of students interacting on-campus were invited to participate in asymptomatic testing. Asymptomatic testing was also offered prior to Thanksgiving and winter breaks. 
+“When CMU finally announced an asymptomatic testing strategy for the fall semester, I was shocked to see that the plan was to select just a few hundred students each week to test, considering that peer institutions were doing as much as testing their entire student body twice a week,” said sophomore Aneesha Sampath. 
+Sampath continued, “The new Tartan Testing strategy is a step in the right direction. This will make the campus safer next semester, as hopefully more positive cases will be caught before they have spread too far. It’s hard to tell how responsible students were in the fall semester given the infrequent testing, but, given the new strategy, if students can remain cautious, CMU could finish the entire spring semester in the hybrid format.”
+Many of last semester’s mitigation strategies will be maintained for the new semester. As stated in “A Tartan’s Responsibility,” students are expected to quarantine for a minimum of 14 days prior to returning to campus and complete pre-arrival safety and prevention training. The university also expects students to maintain social distancing, wear facial coverings, reduce the size of gatherings, practice good hygiene, and follow the university’s directions regarding travel. Other rules in “A Tartan's Responsibility” include complying with testing and contact tracing protocols and completing the daily self-assessment survey. 
+Tartan Testing is currently in a “ramp-up” period until the end of January, with an increasing number of students, faculty, and staff being invited to take part via email. People are able to sign up for a weekly appointment via the HealthConnect portal after receiving an email invitation. Participants check in for the test at Danforth Lounge in the Cohon University Center, and the Tartan COVID-19 Testing Lab will process the sample in-house. Results are expected to be returned within 2-3 business days. 
+“Our biggest challenge is keeping our community engaged to continue acting responsibly for their fellow community members,” Weinert said. He repeated, “It’s understandable to experience ‘pandemic fatigue’ and to let your guard down. However, it’s imperative for all of our community members to remain vigilant.”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+As the Trump presidency comes to an end, more and more Republicans have taken to denouncing his irresponsibility and “stupid political obsessions,” as Senator Ben Sasse (R-NE) terms it. However, it all comes too late: “Courage exercised only when the coast is clear is not courage; it is opportunism,” writes Tom Nichols, a founding member of the Never Trumpers. In the past four years, pieces like Senator Mitt Romney’s (R-UT) editorial decrying our lack of presidential leadership have rarely come from the right.
+Bold and conscientious endeavours that actively fight against tyranny, violence, and racism are more important than ever. As Lincoln once stated, “It’s not enough to know something is wrong, when it’s very wrong, and not do something.”
+In an attempt to spur on some much-needed change, several figures gathered to announce the founding of the Lincoln Project in December of 2019. These included George Conway, husband of past Trump advisor Kellyanne Conway; Steve Schmidt, who worked on campaigns for President George W. Bush, California Governor Arnold Schwarzenegger, and presidential candidate Senator John McCain; John Weaver, who also worked for the McCain presidential campaigns; and Rick Wilson, Florida field director for the George H. W. Bush presidential campaign. All of them have long been outspoken critics of Trump.
+Its task? To “[restore] to this nation leadership and governance that respects the rule of law, recognizes the dignity of all people and defends the Constitution and American values at home and abroad.” In short, defeat Trump and Trumpism at the ballot box. Over the course of 2020, this super PAC has released aggressive advertisements with the same overwrought relish the president shows in his jokes and insinuations. It has also taken to social media: the Project went on Twitter to call for photographs of veterans with the hashtag #WeRespectVets in September 2020, to counter Trump’s denigrating comments on the American war dead. Within an hour, the hashtag became Twitter’s leading Politics topic.
+For all of its popularity, however, the effectiveness of the advertisements, into which $67 million was invested, has come into question. In the 2020 election, President Trump won more than 73 million votes and broke the previous GOP record he set in 2016. Of the seven Democratic congressional candidates in key races supported by the Project, none won. It seems the advertisements only accomplished what co-founder Reed Galen calls “‘an audience of one’ strategy, which is clearly aimed at the president”: in response to the scathing attacks, Trump has angrily labelled the Project’s founders “Republicans in Name Only” who do not know how to win at the ballot box.
+The Project has also come under fire for funneling money to its advisory board and spending relatively little on airing political ads, resulting in an unusually high rate for production costs compared to other super PACs. Even so, these critics fail to take into account how the founders of the Lincoln Project have already “[burned] personal and financial bridges to the Republican Party that sustained them.” Nichols also points out that in the past few years, holding firm for democracy has been uniquely taxing and destructive for conservatives: “While some lost money, all lost friends. A few needed law enforcement to step in because of threats to their lives and to their families.”
+Regardless, the Project’s popularity and media success have helped secure record levels of fundraising and suggest that it may continue as a media business, with the potential to create a non-fiction film and a House of Cards-like fiction series. More concretely, the Lincoln Project has made clear that it will continue to operate against widespread misinformation and political polarization at both the state and federal levels, holding senators who have enabled Trump or abetted America’s adversaries accountable and detangling the Trump family from the Republican party.
+However, this hefty mission, undertaken by a single super PAC, will be nowhere near enough.
+Weeks before President-elect Biden’s inauguration, Trump was still contesting the Biden win with debunked conspiracy theories and wreaking havoc on our democratic institutions. On Jan. 2, he “alternately berated [Georgia’s secretary of state], tried to flatter him, begged him to act, and threatened him with vague criminal consequences” if Trump’s defeat in Georgia (by 11,779 votes) were not overturned, as was reported by the Washington Post.
+Trump also incited the chaotic breach of the Capitol building during the counting of electoral votes. Rioters pushed through barriers, vandalized the building, and even engaged in an armed standoff with police. It must be pointed out that a complicit police force met this violent insurrection, which resulted in not just broken windows but also five deaths, rather than the militias and armed forces responding to Black Lives Matter protests in the summer of 2020.
+So, even with President Trump’s overdue concession of the 2020 election, the difficult journey continues for us as a nation in solidarity. The Guardian reminds us that “Removing Trump from the White House is one thing — fixing America is another.” In the United States, Trumpism is up there on the list of severe, debilitating universal issues along with the stark racial wealth gap, corrosive inequality, and the climate crisis, to name a few. To exacerbate the issue, Trump has already begun preparations for the 2024 candidacy, and thus will be stoking the injustices and racism still present today.
+There is still hope. As long as we continue to denounce those who have manipulated our system of government and betrayed our democratic principles, and as long as we continue to harness our power as voters and activists to eradicate what the Lincoln Project rightly recognizes to be an “empty faith led by a bogus prophet,” we can still prevent Nichols’ worst nightmare: the “first iteration of an American dictatorship.”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+I was rewatching a few videos from a YouTube show called Middle Ground, which is about bringing three people who were on two sides of an issue together to see if they could find common ground. There have been episodes of people for and against gun control finding common ground or socialists and capitalists finding common ground. It is a well-intentioned show — some of the people invited to the show have some interesting commentary, and it is good to see people get along who normally would not.
+But the show lost me with episodes like “Flat-Earthers vs Scientists: Can We Trust Science?” There are merits to discussing the theoretical and practical applications of government intervention, even discussing opinions that may misinterpret the theoretical constructs of policy. Denying commonly accepted facts and reality, however, is not an opposing viewpoint.
+Conspiracy theorists are fairly easy to laugh at and deem as lunatics, but this problem exists in our political discourse as well. For example, regarding the Black Lives Matter protests from last year, there was fierce debate over what to do with the police. In order to have that valid discussion, we must first acknowledge that there is a policing problem that disproportionately impacts Black communities, for which there is a lot of evidence. Instead, much of the debate ended up becoming about whether the problem even exists or deflecting the blame of the problem on to the Black communities who have been brutally oppressed by the police. Essentially, the racists in the All Lives Matter crowd diluted the issue entirely, and they were allowed to do it because, well, they are the “other side" to which we should listen instead of the communities asking for help.
+Over the years, there has been a general trend of accepting hateful ideologies, such as white supremacy, as legitimate and informed opposition. Instead of actively pushing back these hateful views, their views have been coddled instead, which has normalized them and made them into mainstream political movements. The Capitol attack last Wednesday was a culmination of this normalization, and the course correction on rejecting these hateful ideologies has come too late. 
+One common argument heard in favor of continuing to hear out these hateful voices is that we can publicly reject them in the “marketplace of ideas,” which is a deeply flawed statement. Having a debate with a white supremacist would incorrectly imply the white supremacist has something of value to say in the first place. There is a reason that communication, or the lack thereof, has been a driving factor for conflict throughout history. Communication would mean accepting or conceding some level of power between multiple parties. In many cases, conflicts start with a lack of communication because at least one party is not willing to cede some power to the other by having an open dialogue. The most famous historical example of this is the nuclear arms race in the Cold War. However, it is also true that conflicts can start by giving power and amplitude to groups that should not have that power in the first place. In this case, giving white supremacists public platforms in the name of free speech to espouse their hateful rhetoric only gives them more power. We will not change the hearts and minds of those out there who already believe that rhetoric in the first place just because we destroyed a white supremacist in public with facts and logic. All we have done is to help those people reinforce their biases and views. 
+There is a lot that can be said about how disillusionment with the elite ruling class gets weaponized to create the foundation for right-wing extremist movements, but there are two primary points related to this that are worth discussing. 
+First, it is important to note that every Republican politician is absolutely responsible for this. As the party jumps ship and distances itself from Trump and his base of white supremacists, remember that they are the ones who weaponized the frustration and disillusionment of white America and gave a platform to white supremacists both directly and indirectly. Even Mitt Romney, who has become a fiercely vocal critic since the Capitol attack, is in that list of people because, despite notable instances of defiance, he mostly fell on the party line. His self-awareness of his own role in this, while welcome, has also come too late. 
+The second point, which I find more frustrating, applies to performative white liberals. The right-wing often complains about “PC culture,” and while that is just racist dog-whistling, I can see why they get that impression. White liberals over the years have played identity politics without material change to the point where it inadvertently diluted the cause. For many white liberals, they are trying too hard to prove that they are not racists, or that they have acknowledged the problem of white supremacy and trip over themselves trying to prove that they care about people of color while defending minorities in ways that do not involve taking real action to alleviate their struggle. That is the logic behind all of these cities run by Democrats putting up Black Lives Matter murals and saying “woke” things about racism, but they still refuse to implement any real reforms or provide reparations to communities that have been hurt. At the end of the day, not only have people of color not been helped, but Democrats have given ammunition to white supremacists who get to say that Democrats are these coastal elites who do not understand the struggles of “middle America.”
+Biases will always exist, but people need a reason to act on them. White supremacy was not something people immediately subscribed to because they are inherently racist or bad people. If you ignore peoples’ problems long enough, an opportunistic person will eventually come along who listens to them, gets them to act on those biases, and gives them a platform. Not only did we fail to address the issues that built the foundation for the hateful ideology, but we then acted as if it is legitimate. We are trying to make changes now, but it is far from over. As Biden has discussed plans to deal with white supremacy and domestic terrorism, he must remember that playing terrorism whack-a-mole will not solve the problem and can harm people of color even further. He has to remove the incentive for people to act on their biases by addressing the fundamental issues of disillusionment and inequality that drive it.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Richard Grenell has become the focal point of student newspaper articles, opinion pieces, and memes by those who feel strongly about his appointment as a senior fellow to Carnegie Mellon’s Institute of Politics and Strategy (IPS). The fact of the matter is, Grenell’s appointment is not as black-and-white as “conservative bad, liberal good.” Grenell’s nomination by President Donald Trump to serve on the Holocaust Memorial Council has transformed the university community’s disagreements into a larger controversy amongst Jews worldwide.
+Grenell’s critics agree with Halie Sofer, CEO of the Jewish Democratic Council of America, who says that Grenell “had in the past emboldened neo-Nazis.” In response to Sofer’s comments, Rabbi Abraham Cooper, Associate Dean of the Simon Wiesenthal Center, explained to The Jerusalem Post, “no U.S. ambassador posted to Berlin in recent history has done more to combat antisemitism in Germany… than Richard Grenell.” Thus, the question remains: has Grenell done positive things for Jews and Israel? As a member of the Jewish community, I sought to discover the multifaceted truths about Richard Grenell. Is Grenell inherently antisemitic? If he has, in fact, made strides towards dismantling antisemitism, can we recognize these while still condemning other parts of his political agenda? Is Sofer or Cooper unequivocally wrong, or can their statements coexist? 
+I posed these questions to undergraduate members of the Jewish community across Carnegie Mellon.
+First, sophomore statistics and data science major Etan Cohn writes that “Grenell may not be antisemitic himself, but he has used harmful rhetoric towards other marginalized communities, which fuels groups and people who are antisemitic….” Junior history major Jonah Dubin adds on, “... it frightens me, knowing… what the implication of a Grenell presence would result in for the Holocaust Memorial Council and broader Jewish history education among the American public….” Computer science senior Cece Brower explains, “Richard Grenell's support of nationalists and anti-establishment politicians in Europe and of Donald Trump [speaks] volumes and clearly demonstrates his antisemitism. Donald Trump is antisemitic regardless of what he has done for Israel. He supports Israel, but not because he cares about Jews. I believe the same to be true about Grenell.” Therefore, if Grenell does not truly care about the Jewish community, critics believe he should not serve on this highly esteemed council.
+Others criticize Grenell's political beliefs but do not share the concern about his appointment to the Holocaust Memorial Council. One Carnegie Mellon student writes, “Grenell’s political beliefs are atrocious, but he has advocated for Judaism in European and Middle Eastern countries which have historically pushed aside a Jewish haven in the name of extremism.” Another student continues, “Grenell values profit and greed above Jewish freedoms. This is not only seen in right-wing politics. We must acknowledge that Grenell is a product of the fundamentally flawed and corrupt system of American politics which continuously suppresses racial, ethnic, gender, and religious minorities. Within this antisemitic world there very well might be no better option.”
+Drawing upon responses from the Jewish community expressing their concern for Grenell’s presence on the Holocaust Memorial Council, a larger problem is unveiled. Members of the Jewish community believe that Grenell’s thirst for approval creates biases in his decision making; instead of acting in the public interest, he thrives off money and power. Carnegie Mellon IPS senior Aden Halpern writes, “The so-called U.S.-led ‘peace deals’ that [Grenell] advocated for between Israel, UAE, etc., are more about selling weapons than ending conflict. To Grenell, weapon contracts are more valuable than human lives.” While students at Carnegie Mellon overwhelmingly feel that Grenell has deceived the Jewish community into believing he is acting in their interests, German reporter Orbit Afra believes “Richard Grenell had been making the German-American relationship more open and honest than ever before and holding Germany accountable to their ethical, historical and political obligations.” Why do these differences in opinions persist? Does intention matter if the end result is a desirable outcome for Jews? Given that the Nazis killed and terrorized homosexuals as well, could Grenell’s identity as a gay man bring a unique perspective that better allows the memorial to honor those who were targeted during the Holocaust? 
+Thus, the questions remain: Is Grenell the proper fit for the U.S. Holocaust Memorial Council? Has Grenell encouraged antisemitism, and if so, is this prejudice unique to right-wing politics? Has Grenell fueled an American (or even global) system which oppresses minorities, or is he a result of this system? Despite whether Grenell’s nomination becomes an appointment, the sorrowful truth is that antisemitism will likely not be prevented either way. In a country where the Jewish community faces the highest percentage of religion-based hate crimes nearly every year, where the media is able to distort the true magnitude of antisemitism, and where the Holocaust is historically misrepresented for political gain, who is the right pick for this highly esteemed council? 
+The dialogue surrounding present-day antisemitism is embodied on the walls of Washington D.C.’s Holocaust Museum. From the museum’s walls hang a banner with the same thought-provoking reminder with which I leave you today: “This museum is not an answer, it is a question.”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+

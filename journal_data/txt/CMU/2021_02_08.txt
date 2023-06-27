@@ -1,0 +1,244 @@
+Following legislation introduced by New York State Assemblyman Colin Schmitt, along with a letter Schmitt sent to Governor Andrew Cuomo, the state of New York allowed high-risk sports to resume on Feb. 1.
+While low- and moderate-risk sports had the opportunity to practice and compete during their fall and winter seasons, higher-risk sports — characterized by the New York State Department of Health’s Interim Guidance for Sports and Recreation as those in which athletes have the “least ability to maintain physical distance and/or be done individually” — saw their winter seasons put on hold. Now, with updated guidelines, sports such as football, wrestling, basketball, and cheerleading have the chance to hold team practices and competitions.
+The final decision will be made by local county health departments, with several counties opting to operate under the four percent threshold: in these counties, high-risk sports will not be allowed to be played until the rolling seven-day COVID-19 test positivity rate declines to four percent or less.
+Still, the updated guidelines come as exciting news for athletes. With the state of New York being one of the earliest states to issue a stay-at-home order and order the closing of non-essential businesses last March, this, coupled with the fact that New York’s new daily case count has been steadily decreasing since mid-January, seems to paint a hopeful picture for a fuller resumption of high-risk sports and winter sport seasons.
+New York’s decision brings an air of optimism, but it will ultimately be up to the athletes and athletic staff to operate in a capacity that keeps all those involved safe. While carelessness and negligence could result in new waves of COVID-19 cases among the athletic community, responsible use of precautions and adherence to guidelines could allow for a successfully restored winter sporting season.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+A few weeks ago, I signed up to match with someone on subtle CMU dating and cmu.cupid. I know that conservative females are in demand on cmu.cupid, so I DM’d the matchmakers to say that I didn’t really care about political alignment to try to get a match. After some time snapchatting and messaging, I’m starting to regret it. I feel muzzled. She keeps talking about something called feminism, and I don’t think I can keep my mouth shut much longer. How can I tell her that I don’t want to hear her political opinions anymore so I can speak freely again? 
+-- xX_Free_Speech_LUVR_Xx
+Dear F.S.L.,
+When beginning a relationship, even if it’s one facilitated by others on an online forum, it’s important to stay true to yourself. Honesty is always the best policy.
+In light of that, I’d recommend having a conversation with this young woman to explain to her your political beliefs, and in the interest of staying true to yourself by being honest, I’d also recommend not selling your political beliefs short. Do you believe that the wage gap is fake? You do? Tell her that. Do you think that the government should police the choice to have a baby or not? Oh, you don’t believe women should have a choice? They’re simply vessels for your unborn child? Tell her that. You don’t believe women should leave the house, instead living like a naked mole rat in your basement only leaving to make meals and clean? Tell her that! 
+Maybe this young woman will be able to see past your political views to maintain your relationship, but there’s also the chance that she will see them as a deal-breaker. This is not an opportunity to start calling her names, berating her, or stalking her. The appropriate response in this situation is to say, “I understand. I appreciate your honesty, and I hope to keep in touch.” 
+Unfortunately, Carnegie Mellon has a bit of a stalking issue. Between 2015 and 2017, Carnegie Mellon reported 67 cases of stalking. The University of Pittsburgh only reported 10. Point Park University and Duquesne University reported six. Maybe you wouldn’t do that F.S.L., but certain obsessive personality traits are not cute in romantic relationships. See a therapist. 
+Considering your love of free speech, F.S.L., I’m sure you’re well aware that relationships between two private parties are not protected by the U.S. Constitution. If we take Carnegie Mellon as one private party and a random employee, say Richard Grenell, the university has every right to fire him for certain political speech. In fact, it happens all the time at the New York Times, Google, and Amazon. 
+It’s important to speak your mind, especially if you feel you’re not being true and honest by not speaking, but remember, there are repercussions for what you say. The government can’t mandate girlfriends (yet), so if she disagrees with your politics, maybe it isn’t a good fit. Or, maybe, you should think harder about what you believe. 
+Sincerely,
+Advice for awkward people
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Michelle Liu, a first-year in information systems at Carnegie Mellon, garnered a million users within the first 24 hours of the launch of her web application, Receiptify. The application produces receipts of your most listened-to songs for the past month, past six months, or past year, and it is an aesthetic way to keep track of your music listening habits.
+I spoke with Michelle a bit about her process and inspiration for Receiptify and her other projects.
+How did Receiptify take shape? How long did it take and what was the overall process like?
+ML: “I’d had the idea for Receiptify for a while after seeing this Instagram page called @albumreceipts, where albums are formatted in a receipt-like format, and thought it would be really cool if people could make their own, while also gaining some insights into their unique Spotify listening histories. For a club application, I had to complete a ‘creative challenge,’ where I had to code or design a web application, so I thought it was the perfect opportunity to make an idea into an actual website. I started at around 8 am the morning before it was due and finished it at around 10 pm, with a few food and TikTok breaks in between. It was a bit difficult initially, as the Spotify API was a little confusing to navigate at first, but after I figured out how to authenticate users and pull listening history, the rest flowed pretty smoothly!”
+When and why did you start creating apps? What’s your favorite part of the process?
+ML: “I’d been coding for a while through high school classes and had made a few static HTML/CSS websites, but when the pandemic hit I was looking for something to do in my spare time and decided to take some online web app development courses where I really learned a lot of practical skills for creating apps! I think my favorite part of the process is being able to be creative and bring my ideas into real life through code.”
+Do you have a particular creative process across your work or does it vary from project to project?
+ML: “When I get an idea, I usually begin by taking out my notebook and just jotting down any feature ideas that come to mind, then I start creating preliminary sketches of what I want the app to look like. After I’ve fleshed out the idea, I begin researching the tech stack I’ll need to develop it and then get to work coding!”
+How did you react when you found out a million people were using your Receiptify plug-in in the first 24 hours?
+ML: “I was really surprised! I’d tweeted the link out to my 20 or so Twitter followers the night I finished making it, not thinking anything would come of it, but I woke up to thousands of retweets and a bunch of people on my feed posting their receipts. It was definitely really cool to see and I’ve met a lot of awesome people through this experience.”
+I noticed you have over 100 Spotify playlists. What do you look for when creating playlists? What are you currently listening to?
+ML: “I don’t really look for anything in particular — I have monthly playlists where I just add whatever music I’m vibing with at the time, as well as some other random playlists that fit whatever mood I’m in. I’m currently really obsessed with Arlo Parks’ new record, Collapsed in Sunbeams, and I’ve also been listening to a lot of Mac Miller and Kate Bush recently. Olivia Rodrigo’s new song 'drivers license' has been on repeat too!”
+Are there any apps you love that you think are underrated/not talked about enough?
+ML: “I’m not sure if it’s still considered ‘underrated’ since it’s been getting a lot of attention very recently, but Notion has been a huge lifesaver for me for the past year! It’s really useful for planning out my day and keeping track of my to-do’s, but I think its note-taking utilities are really useful and under-utilized.”
+What artists, app developers, or other creators are you inspired by?
+ML: “I’m really fascinated by interactive and computational art, so I find Golan Levin and Lingdong Huang’s projects super fascinating. I also think Google Creative Labs has some really interesting and inspiring projects!”
+Are you working on any new projects we should keep an eye out for?
+ML: “I am currently working on an Apple Music version of Receiptify! It’s not fully functional yet and doesn’t work on mobile devices as of now, but there is a beta version of it out now. I also had an idea for another Spotify project, but it’s definitely still very much in progress. Besides my own personal projects, I’m also working on a few cool things with the TEDxCMU Innovation Team that will be out soon, which is really exciting!”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+INX Limited Speaker Event
+Wednesday, February 10: 8:30 p.m. - 9:30 p.m. via Zoom
+The Tartan is hosting a speaker event with Douglas Borthwick, CMU alum and CMO of INX Limited, where he will discuss the future of finance, cryptocurrency, and their new diamond commodity! To RSVP, click this link.
+Super Bowl Watch Party
+Sunday, February 7: 6:30 p.m. - 9:00 p.m. via Zoom
+Happy Super Bowl Sunday! Watch the game with CMU’s National Society of Black Engineers. See @cmu_nsbe for more info!
+LGBTQ+ Mixer
+Monday, February 8: 4:30 p.m. - 5:30 p.m.
+As part of CMU Slice’s Winter Week of Welcome, an LGBTQ+ mixer will be held on Monday, Feb. 8 from 4:30-5:30 pm. Come with friends, mingle, and play fun games with both undergraduate and graduate student participants! To register, click this link.
+Share your Submissions for Greek Sing Commercials!
+Tuesday, February 9
+2021 Greek Sing Commercials! This year’s Greek Sing will be in telethon style, featuring 20-90 second commercials between skits. Think mock Super Bowl ads, featuring your favorite real or made up products/services marketed to Greek Sing viewers. Share video submission with greeksingprchair@gmail.com on google drive by April 1, 2020.
+Intelligence & Government Virtual Career Expo
+Wednesday, February 10: 1:00 - 4:00 p.m.
+Are you interested in politics and government? Are you looking for internships or career opportunities within these fields? If so, go to the Intelligence & Government Career Expo! Here, top government agencies and contractors will meet with students interested in working within various government departments and agencies. The event is open for CMU, Pitt, and Duquesne students. To register, use Handshake!
+The Virtual Fair
+Thursday, February 11: 4:30 - 6:00 p.m.
+Joining student organizations is easier than ever with Thursday’s Virtual Fair! Join over 80 organizations online on the “virtual Cut” to learn more about each club’s goals, leadership, and initiatives for the semester. The link to join can be found on the CMU Events Calendar website!
+Lip Sync Battle
+Friday, February 12: 9:00 p.m.
+Are you a fan of Lip Sync Battle? Now’s your chance to sing for us all! Join CMU SLICE’s Winter Week of Welcome this Friday for a lip sync battle. Text in your requests, then let the DJ spin your tracks as you battle it out with your friends! 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Turing Award winner and model-checking pioneer Edmund Clarke passed away in December 2020 due to COVID-19. At Carnegie Mellon, Clarke taught courses on model-checking and bug-catching in the School of Computer Science (SCS) and advised many graduate, master’s, and post-doctoral students.
+"I have friends who have taken his classes and enjoyed them a great deal," said Charlotte Yano, who served as Clarke's administrative assistant during his time as a professor.
+Yano first met Clarke when she was hired by SCS and worked with Clarke's wife, Martha Clarke. She later became Clarke's assistant, finding that he "cared very deeply for his graduate students.” “They were an extension of family, and to a certain degree, his staff like myself were as well. It was very important to him that people feel taken care of and looked out for," Yano said.
+Clarke worked with many graduate students throughout his career, one being E. Allen Emerson. Clarke and Emerson wrote a proposal on model-checking, which means running algorithms on models of systems, like communication protocols and circuits, and verifying that the systems work as intended. Their proposal, coupled with the independent work of Joseph Sifakis, earned them the 2007 Turing Award, a prestigious honor in the computing world.
+Many of his graduate students, including Will Klieber, stayed at Carnegie Mellon and now work in Carnegie Mellon's Software Engineering Institute (SEI). Klieber wrote his thesis on using Quantified Boolean Formulas (QBF) to check whether a hardware model met its specification. 
+"He actually was the one who helped me decide to pursue QBF," Klieber said. "I talked to him about the possible topics I could pursue my Ph.D. with and he suggested that, and it turned out to be a really good choice for me. He was a great advisor; he definitely helped me learn the fields and got me to where I could have made sense of some advances in QBF."
+Today, Klieber is one of many using model-checking concepts Clarke helped pioneer. At SEI, Klieber is a security researcher, writing programs that detect and fix bugs in software, and much like in Clarke's work, verify that programs work as intended.
+"Model-checking is going to be increasingly important for the world, trying to ensure that our software is protected," Klieber said. "What I'm hopeful for is that 10 years down the road, we'll have much better capabilities for verifying software." Klieber added that if he could talk to Clarke again, he'd tell Clarke "how pivotal his work is and to express my gratitude for all that he's done."
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Datamatch is returning to Carnegie Mellon University this week to connect students on Valentine's Day.
+The annual dating survey, which started at Harvard University in 1994, is back for its second year at Carnegie Mellon. Starting on Feb. 7, students can fill out a questionnaire written by other Carnegie Mellon students. When the survey closes on Valentine's Day, Datamatch's algorithm will recommend several other Carnegie Mellon students to connect with based on their survey responses. Students can then "match" with each other in search of romance or friendship for Valentine's Day. 
+In a Zoom interview, Matías Jonsson, senior and question-writer for Datamatch at Carnegie Mellon, said, "The types of questions are humorous, like light-hearted, but sometimes also a little bit profound." Jonsson added, "You'll see lots of references to things that only people who go to CMU would understand." According to the Washington Post, one question from a Datamatch survey in 2018 asked students what they would do for money; possible choices included "marry Donald Trump" and "get back in touch with my deadbeat millionaire father." 
+Datamatch's main purpose is to be funny, according to its website. In Jonsson's words, a lot of people sign up for Datamatch "for the meme." Still, some users have found relationships through Datamatch. Jonsson could not refer to anyone at Carnegie Mellon who met a partner through Datamatch, but, in an emailed statement, the Datamatch team referred to a couple that met through Datamatch at Brown University.
+With the COVID-19 pandemic scattering Carnegie Mellon students across the world, Jonsson said starting a relationship through Datamatch seems unlikely. "I think a lot of people probably are pretty realistic about the fact you don't really expect this is going to necessarily work," Jonsson admitted. He added, "More importantly, it's going to be a fun way to meet people."
+Including Harvard and Carnegie Mellon, over 30 schools are participating in Datamatch this year, according to the program's website. In the same statement, the Datamatch team said that over 40,000 students took part across the 26 universities that participated last year.
+Jonsson acknowledged that Datamatch at Carnegie Mellon was small last year. He is hoping to improve upon the 342 students that participated in order to establish Datamatch as a tradition at Carnegie Mellon. He said, "If it becomes like a multi-year tradition the way it is at some of the other schools that are participating, it can become a fun thing that people look forward to."  
+Jonsson also organized virtual speed dating on Valentine's Day through his Facebook group, subtle CMU dating. Despite his own efforts to help students get together, he was pessimistic about Carnegie Mellon's dating scene.
+"I have discovered that dating culture at CMU really sucks," Jonsson said. He pleaded, "Don't waste prime time for finding people who are going places!"
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Perhaps the most singular conclusion we, at The Tartan, derive from Richard Grenell’s controversial appointment as senior fellow in the Institute of Politics and Strategy (IPS) is that the Carnegie Mellon administration fails to take into account student perspectives in its decision-making or provide adequate disclosure regarding its procedures.
+The former U.S. ambassador to Germany and former acting director of National Intelligence, Grenell was hired in June 2020, after the university imposed a hiring freeze due to the COVID-19 pandemic. This poor timing only exacerbated the campus-wide concerns regarding his history of inflammatory and pro-Trump public statements and tweets. Soon, both a student petition and faculty open letter called for his appointment to be rescinded. However, IPS Director Kiron Skinner defended the decision to hire Grenell, and Carnegie Mellon President Farnam Jahanian established a committee to investigate the legitimacy of the appointment, which ultimately found no issues.
+The hyper-polarization of national politics in 2020 intensified the debate over whether Grenell has upheld the basic requirements of a Carnegie Mellon employee, and thus whether he should continue to be employed. In question is Grenell’s disinformation campaign covering the COVID-19 pandemic, President Biden’s use of masks, and voter fraud in the 2020 U.S. elections. The only concrete action taken by the administration so far has been the establishment of a Commission on Academic Freedom and Freedom of Expression, which was charged with, among other vague statements, “[exploring] the meaning and inherent value of both freedom of expression and academic freedom.”
+The same day of the seditious storming of the Capitol building on Jan. 6, 2021, which left five dead, the university sent out a press release, later rescinded, congratulating Grenell for receiving an award from President Trump. Professors across multiple disciplines again raised concerns regarding Grenell’s employment at Carnegie Mellon. In a leaked but redacted email thread, they questioned Skinner’s intentions in hiring Grenell and what his employment means for Carnegie Mellon, both practically and symbolically. Some, however, were sympathetic to Skinner’s position and deferred to her expertise as a political scientist. The emails ended in vague promises to hold a formal discussion on the matter, but one thing is certain: no matter what happens, students will not be a part of it. Students rarely have the power to affect administration-level change, despite being the largest constituent of the university community. 
+The administration’s go-to solution has become clear: form a committee like the Campus Climate Task Force, wave off any concerns with verbose and vague letters from the provost or the president, and prevent full transparency.
+We do realize that in many institutions of higher education, concerns like securing funding prevent some instances of full disclosure and open communication. However, we at The Tartan do not understand why the administration discloses so little so often.
+We see no reason for Carnegie Mellon’s administration to rely solely on performative communications, like sporadically sending cumbersome, fluffy emails without detailing any concrete changes or actions. We cannot identify any obstacles to more inclusive decision-making that better addresses student (and faculty) concerns, nor can we justify the administration’s unwillingness to address community perspectives and properly explain the administration’s actions (or lack thereof) to impacted parties.
+We therefore call upon Carnegie Mellon administrators to recognize and address the concerns and values of all stakeholders. Decisions must be made with transparency and input from the general student and faculty population. Meetings like the proposed discussion on Grenell’s future at Carnegie Mellon should be open, and full disclosure should be ensured in all possible cases. Administrators must be more available for community engagement and must be willing to properly answer questions regarding their work and policies.
+Only with a strong academic community in solidarity can significant, concrete change be achieved. Administrators, the ball is in your court.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Being an international student at Carnegie Mellon is a strange experience, and each of us has our own anecdotes about what exactly makes it weird. Too often we find ourselves in social situations where we feel out of place, as if perhaps administrators, professors, and colleagues don’t know exactly how to interact with us. This is, of course, not to say that some domestic students don’t have very similar or worse experiences or not even that all these experiences are necessarily negative or discriminatory, but in our essay, we want to make the case that our poorly defined role within the university often works to our disadvantage and serves to exacerbate or perpetuate prevailing injustices.
+Let’s start with the assertion that by nature we should be a strong voice on campus simply because there are a whole lot of us. This is the case despite the abusive treatment we have received throughout the Trump administration, ranging from Muslim bans to unflattering descriptions of our homes such as “shithole countries.” During the pandemic, we were politicized and used as bait to exert pressure on universities to revert to in-person instruction quickly with the latent threat of otherwise kicking us out of the country. We would also be remiss to leave out the whole discourse around the pandemic with terms such as the “Kung Flu” and “Chinese virus” being used by even certain members of our university’s faculty. 
+On top of this, other immigration policies and enforcement that targeted specific portions of our international student population have been introduced. At the same time, the university administration was slow at communicating the impacts of these governmental attempts at making our lives harder, and it too put pressure on us to not travel to our homes to visit our families because it would lead to an added administrative burden for them. To this day, we hear on a regular basis anecdotal evidence of poor treatment of international students, the verbal attacks on Chinese students went uncommented, and it is unclear to us how the administration plans to guarantee that many of us will graduate safely into a pandemic labor market where our difference in immigration status is already a major disadvantage. When we inquired with administrators if we could obtain numbers of current students who are not even physically present on campus because they couldn’t obtain a visa, we were told Carnegie Mellon does not currently collect this data accurately. Despite all these obstacles, we still constitute a solid 60 percent of the graduate student population, majorities both among MS and Ph.D. students, and a significant minority of undergraduate students. These numbers have only recently started to stagnate and now decline with COVID-19.
+Differences in citizenship or immigration status are of course not the only prerequisites for discrimination. Latent and sometimes not so latent classism can affect Korean nationals just the same as it can affect ethnic Korean U.S. citizens. Because Black and brown people in the United States suffer from a system of racial authoritarianism in how they are treated by the state that endures to this day, it is only right that this issue is a central piece of the university discourse these days. Yet, in all of these efforts for diversity and inclusion now en vogue, there are no concrete items addressing the international student community. 
+We strongly feel that this is to the detriment of not just our own wellbeing as a constituency on campus, but also the notion of “inclusivity.” Many of us have a wealth of experience to draw on to contribute to current debates on campus and would be eager to participate, even if we sometimes lack depth on U.S. issues or face linguistic barriers. What we should realize, though, is that doing so is extremely difficult if the framing of diversity issues remains one with only a domestic perspective in mind. One example of this is the strong urge to “categorize” people into groups such as “Asian” and “Hispanic,” which often leads to head-scratching among international students. It is unfortunate to constantly use such a limiting frame for this debate because international students can often bring very interesting and informed perspectives to the table, e.g. in talking about their experience with Hispanic identities and how it might add to the understanding of current domestic trends in the U.S. Some of us also hail from countries with very dark and painful historical records and our own experience of how to grapple with grave injustices could greatly enrich the discourse on topics such as modern-day apartheid systems or extreme right-wing terrorism, to name just two pertinent examples. For this to occur, however, we need institutional support too. The administration and student government leaders should come up with a coherent vision for their diversity efforts that fully integrates international students and our experiences into the whole.
+Carnegie Mellon prides itself on being a world-class institution that is able to attract talent from across the globe. University leaders don’t shy away from attending global fora and use tools like the United Nations Sustainable Development Goals to justify our tepid efforts on sustainability issues. Our presence here as international students is beneficial to its reputation and bottom line and is often used in metrics to rank academic institutions. So our conclusion is a simple one: our voices matter, and they deserve to be heard. So why are we so often left out?
+The authors are Ana Cáceres and Peter Tschofen, Ph.D. students in Engineering and Public Policy and founding members of ISA-CMU, a new student organization which advocates broadly for international students.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+As a grueling year filled with the COVID-19 pandemic, lockdowns, political chaos, and economic uncertainty came to a close, millions cheered from their homes as the Times Square ball dropped on New Year’s Eve. Unsurprisingly, none of the aforementioned tragedies suddenly disappeared. While some had high hopes for the beginning of 2021, political differences proved too divisive and hyperpartisan for the healing of a distraught nation. Will President Joe Biden’s inaugural promise to unify the nation prove too difficult to achieve? Did Trump supporters’ riots on Capitol Hill make unity impossible? Is there an end in sight?
+Until last week, the answer was a surefire no. Trump’s loss also yielded major setbacks for the GOP, who lost not only the presidency but both houses in the legislature as well. Once election results were released in mid-November, both sides feared backlash nationwide. The Trump administration then filed and lost over 50 post-election lawsuits in an attempt to reverse electoral college votes in key battleground states such as Georgia, Pennsylvania, and Arizona. Weeks later, radicalized Trump supporters stormed the capital, claiming the election was rigged in support of President Biden. Speaker of the House Nancy Pelosi then released an article of impeachment to the Senate charging Trump with the incitement of an insurrection. Now, even with President Biden sworn into office, the impeachment process will still continue. In the same week that Twitter, Facebook, and other prominent social media companies banned Trump from using their platforms, Trump flew to Mar-a-Lago on the morning of Biden’s inauguration. Here, he broke an over 140-year-old tradition for former presidents to attend their successor’s ceremony. All this… and only in January.
+Political turmoil only added to the existing economic recession caused by the COVID pandemic and its corresponding lockdowns. As small businesses struggled to attract customers in the phases of limited capacity, teenagers and professionals turned their attention towards other avenues to reel in economic investment: the stock market.
+Americans combatted Wall Street hedge fund managers in a never-before-seen Reddit ploy to send near-bankrupt companies “to the moon” in stock sales. In fact, Tesla billionaire Elon Musk increased GameStop’s stock with a simple tweet on Jan. 26 saying “Gamestonk.” As hedge fund managers lost billions of dollars in stock sales, Robinhood, the largest stock exchange app, halted buyers’ ability to trade GameStop, AMC, and other companies’ stocks. Known enemies Representative Alexandria Ocasio-Cortez (D-NY) and Senator Ted Cruz (R-TX) agreed that Robinhood should end regulations and allow for a freer stock exchange. While political turmoil fueled chaos in the first half of January 2021, the stock market fueled chaos in the second half of the month.
+With only one month of 2021 in the books, it is already evident that 2021 will still be divisive and uncertain for Americans nationwide. With the pandemic still in full swing and the early stages of vaccine rollout showing promise, the Biden administration will be tasked with disarming the threats which plagued 2020. My prediction is that the conflicts will remain the same; COVID-19 will still exist, politics will still polarize, and the people will still look to find common foes. Instead of far-left Democrats and Trump-supporting Republicans fighting for electoral power, however, the people could center around a new enemy: the billionaires who own and control stock of global corporations. While the division of people will remain, the enemy could inherently change.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+It all started with a Reddit group. “Like 4chan found a Bloomberg terminal," it reads in its tag line. 
+Let’s back up a bit first. Wall Street hedge funds planned on “shorting” the GameStop stock. Shorting, or short selling, is a strategy used by traders who speculate that the stock’s price is about to go down. So, traders borrow shares of stock from a broker and sell them into the market at their current price. Once the share price goes down, traders buy them back, return the stock to the broker, and pocket the difference, making a huge profit. 
+However, the subreddit r/wallstreetbets, stylized in popular media as WallStreetBets, had different plans. On Jan. 22, 2021, users initiated a “short squeeze” — to rapidly increase the stock price — by buying up GameStop’s shares and options. By Jan. 26, the GameStop price increased by 600 percent, foiling Wall Street’s plans, and costing them 5 billion dollars. In response to r/wallstreetbets's involvement in the GameStop short squeeze, Robinhood, as well as other trading platform companies such as TD Ameritrade and E-Trade, restricted the trade of these heavily shorted stocks such as GameStop, AMC, BlackBerry Limited, Nokia, and Koss Corporation.
+These trading platforms’ restrictions on the trade of company stocks are blatant market manipulation which is unfounded and downright ironic. Preventing amateur investors from being successful goes against the “free-trade” spiel that Wall Street supposedly stands for. Now that the ones benefiting from the philosophy are normal people, who became successful at the cost of hedge funds, Wall Street is just trying to cover their backs and protect their own. 
+Wall Street investors are now complaining about how the gamification of the stock market is dangerous. Don’t let this fool you. Let me remind you that Wall Street has manipulated the market over and over again, often at the expense of the American people. In 2013, the New York Times reported that Goldman Sachs artificially inflated the price of aluminum, costing the American consumers more than $5 billion dollars over three years. Even in 2020, JPMorgan Chase had to settle charges after the Commodity Futures Trading Commission revealed that JPMorgan Chase was involved in "deceptive conduct" over a period of at least eight years that included hundreds of thousands of so-called spoof trades — orders that were placed and quickly canceled because they were never intended to be executed — designed to fool investors.
+Wall Street even used a similar practice to today’s scenario of negative speculation to trigger the Great Recession. During the early 2000s, Goldman Sachs created packages of mortgage-backed securities—collateralized debt obligations (CDOs)—that it sold to its clients, which included pension funds, insurance companies, and various other investors. With Goldman Sachs encouraging their purchase, clients spent billions buying them and for a while made some money off of these investments. Then, according to the New York Times, “Worried about a housing bubble, Goldman executives decided to change the firm’s overall stance on the mortgage market, from positive to negative, though it did not disclose that publicly”—in other words not telling its clients. So Goldman Sachs started shorting the CDO investments.
+When the housing market started to go bust and the CDOs did fall in value, Goldman Sachs made billions at the cost of its own clients. 
+So, when Wall Street investors manipulate stocks and harm people, it's “just how it is” and “free-trade;” but when Wall Street gets the short end of the stick, it's an egregious and dangerous mistake? That’s bogus. As former Secretary of Labor Robert Reich put it on Twitter, “If Redditors rallying GameStop is unacceptable market manipulation, what would you call it when greedy Wall Street bankers gambled away our entire economy in 2008 and faced no consequences?”
+It's also worth noting that the actions of these Reddit users are not illegal. In order for the Securities and Exchange Commission, which regulates the market, to allege market manipulation, they have to prove the Reddit users knowingly lied about the stocks or caused unknowing people to invest in GameStop, thinking that it's true value had increased. Simply expressing an opinion or letting other people know you’re going to buy a stock is not illegal. Also, Wall Street hedge funds started this entire ordeal! They are the ones who attempted to short GameStop to make a quick buck.
+I even think that the actions of WallStreetBets are a long time coming. Wall Street seems to escape punishment for most of their actions, and the little consequences they do receive still don’t compare to the amount of profit they make. For example, in 2012, the federal government settled charges of $500 million against JPMorgan for rigging electricity prices and driving up the electricity bills of Americans. But, to put in context how much harm they inflicted, in one case JPMorgan charged California utility companies $999 per megawatt-hour when the going rate was only $12. This is perhaps Wall Street finally tasting consequences — ironically as a result of a page from their own book — and to put it blatantly, it is quite refreshing. 
+Although shorting and short squeezing are both extremely risky practices — and it's unsure how far the Reddit investor will go — it is a small victory. Finally, small investors are benefiting from the stock market instead of being marks for hedge funds. Because of this, I hope these small investors are more careful than ever to not gamble away their new earnings back into the hands of Wall Street. While the actions of this community may not radically force the manipulative culture on Wall Street to change, I think it is a step in the right direction in making Wall Street a place for everyone — not just the uber elite. Sometimes, we need to root for the underdog. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+

@@ -1,0 +1,510 @@
+Inland Antarctic ice contains large quantities of water, capable of raising global sea levels significantly. The ice gradually moves towards the ocean, increasing the risk of melting, but the stability of these ice shelves has long been questioned by scientists. A recent study published in Nature asserts that glacial ice walls are essential to climate, preventing rising ocean temperatures and keeping ice frozen.
+Lead author and professor of oceanography at the University of Gothenburg Anna Wåhlin explains, “Current measurements indicate an increase in melting, particularly near the coast in some parts of Antarctica and Greenland. These increases can likely be linked to the warm, salty ocean currents that circulate on the continental shelf, melting the ice from below,” she said in a press release.
+The ocean stores more heat than the atmosphere, and the deep sea surrounding Antarctica stores thermal energy equivalent to heating the air above the continent by 400 degrees. From studying the measurements collected by instruments that Wåhlin’s international research team placed in the ocean around the Gertz glacier in West Antarctica, scientists have come to a better understanding of how the floating glacial ice walls remain stable.
+“What we found here is a crucial feedback process: the ice shelves are their own best protection against warm water intrusions,” said Céline Heuzé, climate researcher at the department of earth sciences of Gothenburg University. “If the ice thins, more oceanic heat comes in and melts the ice shelf, which becomes even thinner, etc. It is worrying, as the ice shelves are already thinning because of global air and ocean warming.”
+The Gertz glacier has a floating section approximately 300 to 800 meters thick, beneath which seawater flows into the ocean beyond. The glacier culminates in a wall of ice continuing 300-400 meters deep into the ocean. Warm seawater flows beneath this edge, towards the Antarctic continent.
+According to the study, we now know that ocean currents are obstructed by the ice edge, limiting the amount of warm water that reaches the continent. “We have long been stumped in our attempts to establish a clear link between the transport of warm water up on the continental shelf and melting glaciers. Now, we understand that only a small amount of the current can make its way beneath the glacier,” said Wåhlin. Approximately two-thirds of the thermal energy that passes from the deep sea towards the continental shelf never makes it to the ice.
+Informed by the measurements taken over the course of research, scientists are now better-equipped to predict future sea levels and develop more accurate climate prognoses. “From the Getz glacier, we are receiving measurements of heat transport in the ocean that correspond with the melting ice being measured by satellites. This also means that the floating glaciers — the ice fronts in particular — are key areas that should be closely monitored,” Wåhlin concluded. “If the ice walls were to disappear, much greater levels of thermal energy would be released towards the ice on land.”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Recently, research on nanoelectronic devices led by the University of Southampton enabled brain neurons and artificial neurons to communicate with each other. This is the first time where brain-computer interfaces, artificial neural networks, and memristors (a memory technology) have worked together. 
+Our brain functions due to circuits of spiking neurons that are connected by microscopic, complex links called synapses. In the University of Southampton study, scientists created a hybrid neural network where biological and artificial neurons in different parts of the world communicated with each other over the internet through artificial synapses. Research into artificial neuron transmission and synapses has been conducted in the past, but this is the first time they were used together in a unified network.
+The study involved experts from numerous institutions. Researchers from the University of Padova in Italy cultivated rat neurons in their laboratory, and partners from the University of Zurich and ETH Zurich created artificial neurons on silicon microchips. “One of the biggest challenges in conducting research of this kind and at this level has been integrating such distinct cutting edge technologies and specialist expertise that are not typically found under one roof," said Themis Prodromakis, Professor of Nanotechnology and Director of the Centre for Electronics Frontiers at the University of Southampton in a press release, "By creating a virtual lab we have been able to achieve this.”
+Researchers in the virtual laboratory created a system to control nanoelectronic synapses, known as memristors. Researchers in Southampton captured spiking events that were sent from biological neurons in Italy over the internet, and then distributed them to the synapses. Responses were then sent onward to the artificial neurons in Zurich, which also saw spiking activity. This process can also simultaneously work in the opposite direction from Zurich to Padova.
+In the future, this technology may enable further research in artificial neural communication. Researchers anticipate that their approach will ignite interest in a range of scientific disciplines and accelerate the pace of innovation and scientific advancement in the field of neural interfaces research. In particular, the ability to seamlessly connect disparate technologies through the internet is a step towards global collaboration. 
+On the future applications of this technology, Prodromakis said “On one side it sets the basis for a novel scenario that was never encountered during natural evolution, where biological and artificial neurons are linked together and communicate across global networks; laying the foundations for the Internet of Neuro-electronics.” The research also has applications in neuroprosthetic technologies, giving scientists insight as to how dysfunctional parts of the brain might be replaced with AI chips.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+The perception of Indian cinema is often associated with the insanity that is Bollywood. Us Bollywood fans have fun singing and dancing along to the songs, making memes out of classic scenes, and getting together to turn our brains off and just watch it. The Facebook group Subtle Curry Traits' very existence is dependent on everyone making fun of Bollywood movies. 
+Of course, it should not go without saying that many of the big mainstream Bollywood movies aren’t good. My father can’t even bear to rewatch some of his favorite movies from when he was growing up. A lot of them are considered mindless entertainment for a good reason. But there is a whole world of Indian cinema that Indians today don’t know about, and it would certainly stop people from claiming that India isn’t capable of making great movies or hasn’t made any great ones in the past. 
+One of these great films was directed by an avant garde Bengali director named Satyajit Ray, who many Indians will have heard of. He is essentially India’s version of Akira Kurosawa, though their films couldn’t be more different. Ray’s films are inspired by the Italian neorealists, but the timeline is often associated with that of the French New Wave or the Japanese New Wave. He is one of the main figures in Indian parallel cinema, which was started in West Bengal in the 1950s to make better films than the Indian mainstream. It was the first of the many New Wave movements in Indian cinema. 
+His most famous set of movies are Pather Panchali, Aparajito, and Apu Sansar, frequently called The Apu Trilogy. They’re incredibly immersive coming-of-age stories about an impoverished boy growing up in a village. Pather Panchali was made for about $3,000 at the time. One distinct quality about his style is how lyrical the films are. They flow more like songs or Indian ragas rather than traditionally structured films. The Apu Trilogy also pioneered bounce lighting, which is a method of lighting that allows filmmakers to recreate the effect of daylight.
+There are a lot of other greats in his filmography besides the Apu Trilogy. Nayak is a great drama about celebrity idolatry. Kanchenjungha explores the life of an upper class family with a hyperlink narrative structure similar to that of Babel. Ashani Sanket, my personal favorite, takes an unflinching look at the impact of the Bengal famine in 1943. 
+Indian parallel cinema has gone through various phases. Alongside Satyajit Ray was another director named Ritwik Ghatak, who directed Jukti Takko Aar Gappo, and Mrinal Sen, who directed Calcutta 71 and Padatik. Many of these films were not in Hindi, and all of them focused on the sociopolitical reality of India that the mainstream films would often sanitize.
+Ghatak’s protégé, Mani Kaul, made Hindi language parallel cinema films like Uski Roti and Duvidha, as well as Kumar Shahani, who directed Maya Darpan. The movement had spurts throughout the 1970s and 1980s. It started to decline toward the end of the 1980s as films became more commercial, and there was less desire to fund art films.
+However, as this happened, directors were also working on bringing parallel cinema to the mainstream, especially in the Tamil industry. One of those directors is Mani Ratnam, who has directed amazing films like Roja, Bombay, and O Kadhal Kanmani. His films take the traditional narrative structures and combines them with a lot of the neorealist styles of previous directors. He was able to break into the mainstream and make a film called Dil Se, which stars Shah Rukh Khan, one of the most famous actors in India. 
+South India has brought about some of the best directors in Indian cinema. Mani Ratnam was inspired by the legendary Tamil director Mahendran, who directed Uthiripookkal, a story about a sadistic man manipulating his village. Ram Gopal Verma is a Telugu director who introduced steadicam in India, and he has directed lots of notable films like the gangster film Satya, the political thriller Vangaveeti, and the horror film Raat. Ratnam’s contemporary, Bala, directed Sethu and Paradesi. The former movie is a dark romantic drama about a brash student union leader, and the latter is a political drama about the working class.
+The current independent film scene owes a lot to directors like Mani Ratnam and Ram Gopal Verma. The introduction of the elements into the mainstream breathed life into independent filmmaking across India, though the distribution and marketing for films is still monopolized by mainstream Bollywood. It was proof that art films had entertainment value, and that the regressive view of the mainstream was shifting. Over the past 20 years, many great directors have emerged and have been working to close the gap between the fringe art scene and the mainstream. 
+My personal favorite is Anurag Kashyap, who combines elements of Tarantino and Scorcese with neorealist cinema of the past. His two best films are Ugly, which follows the hysteria of an entire community concerning the disappearance of a wannabe actor’s daughter, and Gangs of Wasseypur, a sprawling, five-hour intergenerational gang war split into two parts. If his name sounds familiar, he also is one of the creators of the Netflix show Sacred Games, which is amazing. 
+Anand Gandhi made Ship of Theseus, which is about various characters exploring the meaning of life and death. Jahnu Barua is from Assam and has directed Ajeyo, which is about a revolutionary activist. Dr. Biju is a Malayalam director who has made masterpieces like Akasathinte Niram, which is about an old man on an island confronting a young man robbing him, and Perariyathavar, which is about a father-son scavenger duo. 
+Female directors are also becoming more prominent in the parallel cinema movement. Deepa Metha directed the Elements trilogy, Fire, Earth, and Water, all of which focus on social issues in India ranging from gay marriage, to partition, to the mistreatment of widows. Kiran Rao directed Dhobi Ghat, a series of stories about the lives of people in Mumbai. Aparna Sen is one of the best directors currently, with films like 15 Park Avenue, which is about a woman taking care of her schizophrenic sister, and Goynar Baksho, which is a horror comedy about a matriarch protecting her family jewels. 
+The Bollywood mainstream is seeing an increase in quality of films overall as a result of the growing acceptance of parallel cinema in India. Aamir Khan, another famous Indian actor, dedicates his studio to creating art films with commercial appeal, such as Talaash and Dangal, the latter being one of the highest grossing Indian movies. Zoya Akhtar has also broken through with famous films like Zindagi Na Milegi Dobara and Gully Boy. 
+The 2020s are looking up for Indian movies, with more unique voices entering the film scene, especially for female directors. Hopefully more Indians can take note of what India has to offer, instead of bashing the obviously bad content that Bollywood tends to push out.  
+Notable recommendations:
+Vanaja (Rajnesh Domalpalli)
+The Lunchbox (Ritesh Batra)
+Vihir (Umesh Vinayak Kulkarni)
+Mitr, My Friend (Revathi)
+Little Zizou (Sooni Taraporevala)
+Udaan (Vikramaditya Motwane)
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Welcome to Maddy's Monthly Meme Madness, where we take a look at the Top 5 most-liked memes on the Facebook group, Carnegie Mellon Memes for Spicy Teens, posted in the past month.
+1. *“Intellectual Support” by Komal Dewan** (10/10)
+Politics aside, you cannot deny the versatility of the Bernie Sanders “I am once again asking…” meme. Also, assuming that you have been to office hours at least once, you cannot deny that this has happened.
+2. *“Midterms: 112 vs 122” by Gram Liu** (8/10)
+I personally barely escaped 110, so my plebeian coding abilities may not be able to comprehend the complexity of this meme that everyone else in this STEM-ified university seems to be on board with. However, the true criminal offense of this meme is the alignment of the course numbers. Why is the black border on the top and bottom there? Why are the course numbers not centered?
+3. *“Secret Life of Tepper” by Jose Garcia** (10/10)
+Out of all the memes, this one made me laugh the hardest, so kudos to Jose. The absurdity of the meme comes to show that, as Abraham Lincoln once wisely stated, “don’t believe everything you see on the Internet just because there’s a picture with a quote next to it.” Or at least that’s who said it, according to the internet.
+4. *“112 Valentines” by Emily Zhang** (9/10)
+Again, the fact that I am a mere coding plebeian is called out in a top-liked meme. However, I feel less attacked here because as a fellow non-CS student, I, too, can relate to the feeling of exclusion based on falling outside the CS culture this institution guards.
+5. *“helth” by Sihan Wu** (9/10)
+Gen-Z’s favorite coping mechanism strikes again: expressing pain through humor. Although it’s nice to bond over a shared experience, The Tartan wishes to allow this review to be a reminder to take care of your health. Stay hydrated and try to make time for yourselves.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+On Friday night, students walking through the Cohon Center were immediately struck with vibrant live jazz music and posters of significant pieces of art by African and African-American artists. While Arnelle Etienne, a research associate in electrical and computer engineering at Carnegie Mellon University, was gracefully singing, members of SPIRIT were hanging up posters that showcased noteworthy pieces of fine arts, architecture, and entertainment from the black community.
+This event, which was held by SPIRIT, commemorated the end of this Black History Month with a celebration of some of the great contributions that African and African-American people have made to creative fields today.
+“I think it’s important to show the arts and crafts that African-Americans have contributed to the world and [how] their arts integrate with everyday society,” said Anfernee Williams, an attendee at the event.
+This event was created to highlight all aspects of African-American art and culture, but the most prominent facet was music. From popular genres like rap and hip-hop to soulful blues, black music has always had a meaningful impact on American culture.
+“My parents raised me on a lot of old music and showed me the importance of knowing your history when it comes to events surrounding the music and music, itself,” Etienne said. “For any genre that is American music, you could probably point [back] to a black genre.”
+Although African and African-American music has acted as a framework on which other genres and music today can build off, black culture is so much more than just its music.
+“Black culture is one of the richest cultures in the world,” Nana Anokye, a first-year attendee of the event, said. “We are so diverse, and there are so many aspects. It is just loving and inclusive, and it has a lot of important history. It is exciting.”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+DevaCurl, a brand credited for influencers’ curly locks, is the focus of a class action lawsuit after allegations that its products caused hair loss. How did a brand who received such online praise find itself the target of such controversy?
+DevaCurl started off in 1994 as a salon in New York City specializing in curly hair. Since then, the brand has expanded and is selling its products in retailers like Sephora and ULTA Beauty. The brand has ambassadors who model the products on the brand’s social media and — perhaps more convincing to the everyday consumer — influencers, who promote the brand through their own sponsored and unsponsored content.
+One such influencer, Ayesha Malik, had been a longtime fan of DevaCurl and even partnered with the brand multiple times in the past. However, she changed the channel with her video “Why I Stopped Using DevaCurl.” In the summer of 2018, she noticed her luscious ringlets beginning to dry out. This escalated to her hair falling out in clumps. The following year, she received photos of women who “all looked like they got struck by lightning.” She soon realized that the products she had loyally sworn by for years were the culprit. In an interview with Forbes, she reported that DevaCurl not only damaged the cosmetic appearance of her curls, but also irritated her scalp and caused headaches and ringing in her ears.
+Malik is far from alone. Online communities such as the Facebook group “Hair Damage & Hair Loss from DevaCurl - You’re not CRAZY or ALONE!” have racked up thousands of former customers who share their experiences after using DevaCurl. More former DevaCurl consumers experienced balding, damage to natural curls, scalp damage, headaches, brittle nails, and psoriasis.
+It's not news that internet influencers have increased their power over consumers. This booming phenomenon is rattling the marketing world as influencers are gaining more power over a brand’s image than even the brand itself. However, this trend poses the question: why do so many average consumers esteem influencers who lack credentials?
+Having credentials on a resume doesn't guarantee credibility or validity (see: Dr. Oz). However, it's alarming that consumers are putting such trust into those based on arbitrary characteristics such as an Instagram following or physical appearance.
+This naive trust can have cringeworthy, but benign, consequences. Will we look back and wince at cartoon-y block eyebrows popularized by Instagram gurus? Sure. But the results of blind faith in online self-proclaimed experts can have graver consequences that consumers may carry for life.
+Skincare brand Mario Badescu was once all the rage. However, 31 customers joined to file a class action lawsuit in 2014. Its products had unlisted surprises: steroids, hydrocortisone, and triamcinolone acetonide. These additions put consumers in danger of developing an addiction to these steroids and potential withdrawal symptoms. The plaintiffs in the case alleged these products led to "cataracts, glaucoma, mood disorders, heart issues, elevated cortisol levels, adrenal system suppression, and Cushing’s Syndrome." Some of the brand’s cult classics, like the face mists, continue to be popular. Even then, the brand has seemed to dwindle over the years and has failed to recover the hype it once had.
+Of course, I'm not suggesting that everyone should ship off all of their home and personal products to a chemist and get a full report. Nor am I saying that you shouldn't buy anything until multiple professionals in a field agree that there is no possibility it will cause an adverse effect. What I do want to ask, however, is this: what kind of weight are we putting on word-of-mouth influences? Opinions from those without expertise, education, or training? Of course, it’s irresponsible for companies to release detrimental products and for self-proclaimed experts to give advice to vulnerable consumers. Still, it’s irresponsible for us as consumers to naively believe a certain hair care product will restore luscious locks because it comes from a highly-esteemed guru whose knowledge is limited to a Google search rabbit-hole, especially when brands offer monetary incentives for influencers.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+ongoing
+Internet Cat Video Fest 2020 (Row House Cinema)
+2.28.20 - 3.5.20
+Orchid and Tropical Bonsai Show: Out of This World (Phipps Conservatory)
+ongoing until 3.8.20
+week of 3.2.20 - 3.8.20
+AB Presents: Hannah Hart (McConomy Auditorium)
+3.4.20 6:30 - 8 p.m.
+Killer Partners Week (Row House Cinema)
+3.6.20 - 3.12.20
+Pittsburgh Arts & Lectures: Esi Edugyan (Carnegie Music Hall of Oakland)
+3.9.2020 7:30 p.m.
+week of 3.9.20 - 3.15.20
+spring break
+week of 3.16.20 - 3.22.20
+Pittsburgh Humanities Festival (Cultural District)
+3.20.20 - 3.22.20
+The 2020 Pittsburgh Japanese Film Festival (Row House Cinema)
+3.20.20 - 4.2.20
+Philharmonic Soloist Competition (Kresge Theater)
+3.21.20 6 - 8 p.m.
+ScottyCon: Old-School (Cohon Center)
+3.22.20 11 a.m. - 11 p.m.
+week of 3.23.20 - 3.29.20
+TEDxCMU: Synapse (Cohon Center)
+3.28.20 9 a.m. - 3 p.m.
+Carnegie Mellon Greek Sing (Soldiers & Sailors Memorial Hall)
+3.28.20 5 p.m. - 9 p.m.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Students braved the cold and trekked across campus to 
+Mellon Institute for the annual No Instruments Aloud concert this past Friday, Feb. 28. Hosted by the C# Singers, the event brought all of Carnegie Mellon’s a cappella groups together for a night of free entertainment.
+First up for the night was the largest group, the Db Singers Choir, who started off the night with “Jenny” by Nick Myers. The several dozen voices mingled beautifully and impressed the audience further with their next song, a rendition of Moses Hogan’s “Elijah Rock.”
+Next was Carnegie Mellon’s all-male South Asian fusion group, Deewane. They offered unique takes on some popular songs, “Fix You” by Coldplay, followed by “Tonight” by Enrique Iglesias. I was surprised by how well the songs meshed with South Asian music, particularly “Tonight.”
+Soundbytes continued the night with “Paper Hearts” by Tori Kelly — which I feel like I’ve heard at every a cappella show I’ve ever been to — and “Movement” by Hozier, both solid performances.
+Counterpoint, the all-female group on campus, clad head to toe in denim (a stark contrast to a majority of the groups in red and black), performed “Scars” by Sam Smith and “Creep” by Radiohead, the latter of which was my favorite performance of the night.
+The co-ed Treblemakers followed up with “Fighting for You” by Us the Duo and “The Last of the Real Ones” by Fall Out Boy.
+Saans, the all-female South Asian fusion group, took some risks that really paid off with their arrangements of Adele’s James Bond track, “Skyfall,” and Rihanna’s “Don’t Stop the Music.” I would be terrified to tackle Adele or Rihanna, but they did a fantastic job infusing the two artists’ work with their own sound.
+The Originals went a bit meta with “A Cappella” by Daniel Caesar, a song that felt like it was over before I could blink — the original track is only 1.5 minutes long — and followed with “Don’t You Worry ‘Bout a Thing” by Stevie Wonder. They performed well as usual, but the typical favorite lacked a bit of their usual luster.
+Joyful Noise, the Christian a cappella group, was the penultimate performance. Their selections for the night were “You’re Not Your Mistakes,” a song from the Church of Jesus Christ of Latter-Day Saints, and “Witness” by Jack Halloran.
+C#, the hosts, closed the night with “Make it Better” by Anderson .Paak and Smokey Robinson and “Try” by Lawrence.
+All in all, No Instruments Aloud was a fun time, and it was a good way to relieve stress after a long week of midterms.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Memory Habit, the play written and directed by John Wells Directing Fellow Eben Joondeph Hoffer, was certainly unlike any other play that I had attended in the past. I had, likely unrealistically, expected a big-budget production like Into the Woods — which I reviewed last week — but Memory Habit, as a thesis production, had a far lower budget. With that said, I admired how well Memory Habit utilized its limited budget. 
+Memory Habit mainly focuses on the suffering that Jewish people endured during the Holocaust and how that pain remains with survivors and their children, but it also looks at the ongoing ramifications of other horrors including the slave trade, the Armenian genocide, and Native American genocides. Clips from intellectuals who work in the field of transgenerational trauma, the main theme of the play, were shown at select moments in the play, including Joy DeGruy Leary, Maria Yellow Horse Brave Heart, and Holocaust survivors. At times, quotes from these clips were interpreted by the actors. It is a testament to the quality of the acting that I was drawn in by these quotations from books and lectures. Of course, the original work of these authors should not be overlooked, as their words were profound, thoughtful, and intriguing. I had not known of the concept of transgenerational trauma before this play, so learning about it was horrifying, yet enlightening. It greatly saddened me and scared me to learn that people's trauma from generations ago can still affect their descendants today.
+The cast consisted of only two people, Matthew Sean Kirschner and Essence Stiggers, both of whom portrayed multiple characters. Their acting range was incredible; all of their different roles felt completely distinct from one another just through slight changes in the way they spoke and moved. They both conveyed the pain and torment felt by the Holocaust survivors and their descendents, as well as victims of other aforementioned horrors. In addition to Kirscher and Stiggers, the stage crew played a visible role in Memory Habit as they were visible while they made changes to the set. The stage crew did their jobs in a stoic and well-choreographed manner — which added to the somber tone of the play. In addition, I appreciate that the playwright put a spotlight on a group of hard-working individuals that do not receive enough credit for their work. Hoffer himself briefly joined the play when he played the guitar and sung beautifully in an impactful scene near the end, which served as a culmination of all the themes the story was building toward.
+At the start of the play, only a microphone, table, and chair were on the stage with Stiggers and Kirschner. Behind the stage was a grainy projector which frequently displayed images related to the topics the duo were discussing. The stage crew and the actors occasionally hauled suitcases filled with dirt and dumped them onto the stage, cleverly transitioning the set into an outdoor setting. Toward the conclusion of the play, Kirschner portrayed a Jewish child who survived the Holocaust and later wrote a memoir about all that he endured. Kirschner’s portrayal was absolutely heartbreaking as he discussed the massacres of thousands of Jewish families, including his own; he was the only survivor. Later, he talked about how his Soviet kidnappers hung a mother and her two children after they were caught hiding a wounded Jewish man in an occupied village. This is only one of the moments that highlights Hoffer’s commitment to revealing the injustices of both the past and the present.
+The play also addressed the Armenian genocide and how the U.S. and other powerful countries have avoided calling it a genocide out of fear of retribution from Turkey, as well as how Native Americans were killed and their children were kidnapped and raised to reject their culture and traditions. It also discussed more recent events such as the shooting of Antwon Rose and the shooting at the Tree of Life synagogue, and how they have affected the American people.
+All in all, Memory Habit was an intriguing, informative, and heartbreaking play and definitely one that will stick with me for a while. I would recommend that you watch this play when given the chance and that you keep an eye on Eben Joondeph Hoffer, Essence Stiggers, and Matthew Kirschner. I believe that they will all make it big in the future.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Friday begins with a hush. It’s sometime in the night, right around when the cold settles into your bones, and the ghosts that haunt the academic halls come out. These ghosts know our history, our past and present, and because of that, they know our existential battles. They’ve been on this planet long enough to see what is important, without the threat of death weighing over their heads. Ghosts are spectral interlocutors that exist to inform our future.
+Some say the Cathedral of Learning is haunted by a ghost, the Early American Nationality Room, specifically. But there is a different existential battle taking place center stage in the Cathedral. There are no ghosts here, as this battle is to determine the future. A number of students, anywhere from 15 to 50 at a given time, are occupying the Cathedral to protest against the University of Pittsburgh’s investments in fossil fuels. But it’s more than that, as Annalise Abraham, an organizer for the Fossil Free Pitt Coalition and Pitt student, asked, “When push comes to shove, are you willing to take big steps to save the planet?”
+The Fossil Free Pitt coalition is a union of various Pitt student organizations dedicated to a sustainable planet. In the past, they have disrupted meetings of the Board of Trustees in Johnstown, organized a protest in Jan. that called for the Board of Trustees to make the vote to divest at the Feb. 28 meeting, and now organized a sit-in that has stretched to a week and a half. Friday, Feb. 28 was day 7 of the sit-in, and the day of the Board of Trustees meeting that would determine the future of the school’s investments.
+On Friday, Fossil Free Pitt organized a group of students to attend the meeting of the Board of Trustees. At the meeting, the trustees would not answer the students’ demand for divestment. Instead, the trustees decided upon Chancellor Patrick Gallagher’s Socially Responsible Investing plan that would make the university carbon neutral by 2037, but that was not enough for Fossil Free Pitt. As Abhishek Vishwanathan, another organizer and student, said, “Carbon neutrality is not carbon zero. It is creative accounting.”
+One of the ways in which the university could move closer to carbon neutrality is by investing in property that contains forests, investing in energy alternatives, or even just ensuring the lightbulbs on campus are changed to be more energy efficient. However, as Viswanathan said, the university is “basically buying their way out of the problem,” since they chose to follow a carbon neutral path. Instead of denying the expense of additional carbon exposure through the fossil fuel industry, protesters say, the university has chosen to simply diversify their portfolio with more green energy investments.
+Fossil Free Pitt asks for more than carbon neutrality, however. They are demanding that the school divest any money in the endowment that is connected to fossil fuels. In 2016, it was revealed by the Paradise Papers that the University of Pittsburgh had invested in the hedge fund EnCap. This fund spends some of the university’s money on fossil fuel funding, so Fossil Free Pitt is demanding that the university divest their money from that fund and any other fossil fuel investments that the university may currently sustain. The university ultimately did not agree to the students’ request for divestment. The Board voted on a separate plan, but it does raise the question that Abraham asked: is the university willing to take the requisite steps to help the planet?
+Currently, Pitt’s goal of carbon neutrality by 2037 will come on the 250th anniversary of the school’s founding. They will promote carbon neutrality by extending their sustainability plan, which will decrease the university’s energy use by 50 percent, purchase more energy from renewable sources, increase infrastructure efficiency, and build collaboration between school leadership and students. Additionally, future investments for the endowment will have to go through a screening process to determine if they are socially responsible.
+The Board of Trustees meeting saw Fossil Free Pitt make their demands clear. The Socially Responsible Investing process, carbon neutrality, and ‘creative accounting’ are not enough to appease Fossil Free, so they disrupted the meeting. They sang “We Shall Not be Moved,” and they were, eventually, removed from the meeting. 
+But they simply returned to the Cathedral, where the other side of the occupied space saw two smiling students handing out cupcakes for Founder’s Day, the 233rd anniversary of Pitt’s founding. Fossil Free Pitt continues to hold out hope that the board will hear their demands, make the decision to divest, and ensure that there will be future ghosts to haunt the Cathedral — this time, perhaps, the ghosts of a fossil fuel industry.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+It’s been almost one academic year of tenure for Student Body President Evan Feder, a Statistics and Data Science major who ran for the position in 2019 against two other candidates. Neither Feder nor the current Student Body Vice President Wenyi Zhu, a Business Administration student, plan to run again for positions in Carnegie Mellon’s Student Government.
+When Feder and Zhu ran together in 2019, their campaign emphasized their three years of collective student government experience. With this experience, they hoped to establish more of a connection between students and their student government and to improve interdepartmental communication.
+During their campaign, Zhu told The Tartan that the student government is supposed to be a “bridge between the student body and administration,” yet many students don’t know how to express the problems they face. Feder said that because of this, serious grievances can end up as just “memes in the meme group.” The duo also aimed to address student quality of life issues; for example, the quality of toilet paper on campus.
+With Feder’s term as Student Body President soon to conclude, The Tartan sat down with him to discuss the efforts undertaken by the student government this year and to reflect on his time as president.
+A lot of Feder’s time as Student Body President, he says, has been spent on internal student government restructuring efforts. This year, he’s led an institutional review of the government body, “making sure that the positions that are there and who meets with who is actively representing all students, and it is the most efficient way possible.” He noted that the high-level student government positions are campus-wide positions, and that “the issues and tasks these individuals do should be completely agnostic to undergraduates and grads.”
+To this, Feder referred to some new bylaws passed in the Undergraduate Senate, but not yet in the graduate senate, which aim to “make elections more competitive and more interesting” by incentivizing candidates to make their appeal to all students, graduate and undergraduate, across all schools. He also referenced two proposed policies which have not yet passed, but are in the works. One would require candidates to get their petitions for candidacy signed by a certain number of undergraduates and graduate students, where in the past, only undergraduates were required. Another would provide candidates with a stipend for campaign materials.
+Feder also referenced the consolidation of the Activities Board, which runs events on campus through funding from the student activities fee, into the student government. “This year we worked to actively bring the Activities Board more into student government, and bring them more into the conversation,” Feder said. Student government is “looking to move [the Activities Board’s] budget more in line with student government budgets and make them more consistent year over year.”
+This year, Feder has also pushed to get more student involvement in faculty hiring, particularly for deans. “It’s really important to us to have a student in that room. The university or the independent colleges are not always happy or welcoming to have a student directly in the room at the committee meeting,” he said, citing the College of Fine Arts and the School of Computer Science as exceptions, as both of which allowed for student government representation on hiring committees.
+Feder told The Tartan that a big portion of his work as student body president has also been related to communication between the administration, separate schools, and the graduate and undergraduate student population. Carnegie Mellon is “a very decentralized place,” he said, noting how differently the administration runs compared to each college, and how each college has its own hiring practices, information distribution, and recruitment efforts.
+He paraphrased Provost Jim Garrett, who said that this decentralization encourages people to be highly involved in their own specific subset of the university, while not participating at a broader level. To help combat this, Feder says, President Farnam Jahanian and the Student Body President jointly host the yearly President’s Dinner, where students get to have direct face time with Deans, Jahanian, and administrators.
+Feder says that students often don’t know the best way to have their voices heard, and that this dinner is among the student government’s larger efforts to increase student feedback and participation. “We really want to see a broader campus involvement in broader activities, and a lot of people are interested in being involved, but don’t know the way to become involved because that information is not publicly available,” he said.
+However, many of the problems students face end up directed toward Facebook meme groups, instead of toward the student government. Because of this, Feder says, “the university actually has official people on their team watching the meme page, Overheard, and now Confessions.” The “university is very aware of the broader issues that are occurring on campus. It just takes a lot of time to think and make…institutional change,” Feder said.
+This year, seven people have filed petitions to run for the Student Body President position, and Feder says he’s aware of at least two more that plan to run. This number of candidates, already higher than the four on the ballot last year, might speak to the effectiveness of the student government’s outreach campaigns, Feder said.
+As for the campaign promise to ensure better quality toilet paper on campus, Student Body Vice President Zhu told The Tartan “I’m afraid we as a school are too poor to provide luxurious care.” She added, “I suppose there are other things the school prioritizes over our buttocks.”
+Feder says that he’s enjoyed the Student Body President role this year. “It’s been so cool to actually be the voice in the room advocating for student interests, someone [to] be like, yo, wait, students would hate that.” He looks forward to spending his senior year outside of the student government world, pursuing other campus activities like joining a dance group, TAing, or doing research.
+Zhu, on her time as student body vice president and her decision to not re-run, stated “you either die a hero or live long enough to see yourself become the villain. You feel?”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+On Valentine’s Day, 475 students attended TartanHacks, Carnegie Mellon University’s largest hackathon. While over half of young adults in America now report no steady romantic partner — up from 33% in 2004 — the opening ceremony emcees at TartanHacks “guaranteed” that no one would leave the event single.
+While there still might be a perception that college students have willfully abandoned traditional romantic relationships in favor of a “hookup culture,” research from the American Psychological Association in 2012 found that large majorities of college-aged men and women would prefer “a traditional romantic relationship as opposed to an uncommitted sexual relationship”. In a relationship survey of over 32,000 college students done by College Pulse, a public opinion platform created for students, 87% of respondents somewhat or strongly agreed that they wanted to be in a “committed relationship” — 47% of respondents were currently in one.
+Last month, a group of students organized and held a Scotty Speed Dating event on the evening before Valentine’s Day. Lucy Chen, one of the organizers, told The Tartan, “what I saw in the research [done on Carnegie Mellon students] was that people are reporting that they’re consistently lonely throughout the semester, but another study on CMU students showed that people felt that they had a network of relationships... My theory was that [the loneliness] might come from romantic loneliness.”
+While over 300 people signed up for the speed dating event, only four groups of 30 students had the opportunity to participate. Each person had two to three minute conversations with up to 15 potential matches over the course of an hour. Many of the students who attended expressed a desire to meet new people and potentially start relationships. Requesting to remain anonymous because they did not want to be connected publicly to their relationship history, one attendee expressed, “I don’t go to parties or am part of clubs so I find it difficult to meet new people who could possibly like me.” At the end of each session, between four to five pairs of students matched and received their coupons for two free large waffle cones at Dave & Andy’s Homemade Ice Cream.
+Carnegie Mellon offers an Intimate Relationships & Sexual Health mini course for students looking for education on the subject. While including intimate relationship skills in academic course listings not a unique phenomenon, Carnegie Mellon has seen its course evolve over the past few years.
+“The original course really focused on interpersonal communication… We really saw a demand for [sexual health education] from students that we work with. We felt it made more sense to spend more time talking about intimate relationships,” Health Promotion Program Director Kelley Shell said to The Tartan. From a public health perspective, she and Senior Health Promotion Specialist Lauren Aikin-Smith saw a need to provide students with the skills to navigate relationships in healthy ways and to avoid abusive ones.
+Marisa Rinchiuso, a senior in the School of Drama who took the course last fall, felt that “it really brought to light for a lot of people that this isn’t as terrifying as we all think, and we all are having this very similar experience.” She believes that at a broader level, groups promoting sexual health have the potential to demystify and destigmatize aspects of sexual relationships, so that they can better navigate them.
+Apart from this, online dating has now has now become the most popular way for couples to meet. Some researchers are citing it as the most significant shift in human courtship since the agricultural revolution.
+One such example of this is Datamatch, a “service created for college students by college students to find true love.” While created at Harvard University in 1994, the platform matching students together every Valentine’s Day has expanded to various colleges and was brought to Carnegie Mellon this year. 342 Carnegie Mellon students registered on Datamatch this year, where they had to complete a Carnegie Mellon-specific survey with questions like “Which Encompass person are you?” Responses included “Here for the free stuff” or “The chad with exactly three resumes written in Comic Sans.” The most commonly used words in student’s Datamatch bios were “like,” “love,” and “major.”
+However, as a means of connecting people, the 90 minutes per day the average user spends on Tinder might not be effective at resulting in real life contact. At the same time, it is potentially causing greater negative effects. Some of the projects at the TartanHacks hackathon sought to develop alternative ways using technology to form relationships with others.
+One group of students made DownToFrnd, “a product that will lead you to your next new friend or love partner” that is designed to take the dating search offline. Becky Button, a first-year studying electrical and computer engineering who was part of the team, felt that current relationship apps take people out of the present and are counterproductive to forming relationships. “A lot of technology puts a barrier to forming meaningful relationships, and we wanted to find a way to get people to talk to each other and be more present and vulnerable,” she explained as the motivation for their work.
+The changes in the general dating environment might be harder to identify as positive or negative. Ermina Lee, a senior who serves as a Peer Health Advocate and created a new digital dating program for the group, views digital dating “as an extension of social media.” She points to research identifying motivations for using dating apps besides love and casual sex, such as ease of communication, self-worth validation, thrill of excitement, and trendiness — similar to motivating factors for social media usage.
+With the growing ubiquity of dating apps, Lee argues, “These dating apps are just another socialization tool, and you can’t measure the goodness of them by ‘how many people got married off of this’ because that’s maybe not the point. Maybe it should just be a tool that people use to explore whatever they want.” She explained how the concept of dating needs to be approached more holistically, while labels “nowadays are becoming more and more relics.” 
+When asked about dating apps not leading to dates for some people, Lee explained, “I don’t think you should frame [it] in a sense where the purpose of the dating app is to meet a connection that you meet in person. I don’t think that’s the sole purpose because they’re built for engagement, to constantly be swiping for the next best thing; it’s all about engaging with the app, not the person.”
+Even with the changing technological and cultural situation around dating, students still appear to be longing for some form of love. On Valentine’s Day, a student posted to the Confessions from Carnegie Mellon Facebook page, “When u don’t have a cute gf because ur scared of rejection and don’t know if u could properly commit to a relationship with the hellish workload that is CMU.” This speaks to two of students’ most observed obstacles to actively searching for romance: fear of vulnerability and work culture.
+In her interview, Becky Button cited the use of phones and social media as inhibiting people from being vulnerable. Marisa Rinchiuso had voiced that a problem was people weren’t expressing their feelings. Ermina Lee also noted that a lack of clear communication with what people are looking for is a current issue within digital dating. Jonathan Jenkins, a sophomore who attended the Scotty Speed Dating event said, “People don’t have much relationship experience and are hence scared... Most of my friends express discontent about being single, but don’t know what to do about it.” Another event attendee, Aria Paradkar, a senior in electrical and computer engineering expressed that “people don’t talk to each other and are nervous to honestly tell people their feelings.”
+Michelle Guo, a junior studying computer science who was also at the speed dating event, thinks “especially in CMU, sometimes it’s hard to let go and relax, and therefore it would be hard to intentionally make time to go on dates and to get to know people. Along with that... the ratio of people looking for a relationship at this age seems smaller.” Anonymous CMU Confessions postings on Facebook noted that their long distance relationships sank “due to just trying to stay afloat at CMU” and that they can’t pursue a potential relationship because “I’m too busy to actually see what happens.” Single confessioners have also expressed sentiments such as, “I’m too busy to pursue a relationship. I can feel that this is going to end badly. Shit. Sometimes I wish I was a machine”, as well as, “Jfc can, like, those of us in the market make a gc or something??? Or is the dating scene here actually dead and all of us are loners focused on school.”
+As last fall’s  Life@CMU study  has found, around half of Carnegie Mellon students suffer from high levels of loneliness consistently throughout the semester. Previous reporting has found that students cite Carnegie Mellon work culture as a reason as a reason for this, just as some students are now struggling to develop intimate relationships. John Cacioppo, the late professor from the University of Chicago who extensively studied loneliness, described it as a vicious cycle. Former Surgeon General Vivek Murthy has talked about building social wellbeing like a muscle. There is a chance that the decline in intimate relationships is partly responsible for young adults’ increased despair.
+Students have often shown the ability to hide desperation and despair behind jokes. Some of the chronically-single members of Carnegie Mellon seem to exhibit this same coping mechanism. As one anonymous CMU Confession puts it, “To the girls who posted earlier complaining about being single, please date me. I don’t want to graduate without ever having gone on a date here.”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Since July of 2019, the U.S. Department of Education has been investigating undisclosed foreign gifts at elite schools. These investigations are an extension of federal government scrutiny about overseas income reporting practices in higher education. Carnegie Mellon is among the universities being investigated.
+Other universities being investigated include Cornell, Yale, University of Colorado Boulder, Texas MD Anderson, MIT, University of Chicago, University of Pennsylvania, Boston University, and Texas A&M.
+It is unknown what fraction of these foreign gifts Carnegie Mellon received. The U.S. Department of Education has not revealed what any other implicated school received either.
+Past gifts that were reported by the university total around 1.4 billion dollars. Carnegie Mellon has been funded by 29 different countries since 2013. Carnegie Mellon’s established top ten foreign donors, starting with top donors, include: Bermuda, Qatar, Thailand, Portugal, Japan, Rwanda, India, China, Hong Kong, and Canada.
+About half of that 1.4 billion dollars was paid by the Bermuda company Marvell Technology Group Ltd. in 2016. The donation was for a legal settlement for a patent on a computer data recovery technology invented by Carnegie Mellon.
+It is also known that Carnegie Mellon received about 374 million dollars in contracts from Qatar and another 27 million in a contract from Rwanda. This funding has likely been directed into running Carnegie Mellon campuses in those countries.
+Carnegie Mellon has acknowledged the report that there is an alleged $3.6 billion in foreign gifts that had previously been unreported.
+University spokesperson Julie Mattera told The Tartan and other media outlets: “Carnegie Mellon has always taken seriously our obligation to report contracts with and donations from foreign persons and entities, and we believe we have accurately disclosed these contracts and donations in compliance with Section 117 of the Higher Education Act. We have not changed the way we report.”
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Criminal Attempt of Theft by Deception
+Feb. 26, 2020
+Officers responded to the Gates and Hillman Centers after a Carnegie Mellon student reported receiving an email scam. The scam consisted of emails which falsely portrayed Carnegie Mellon affiliates and requested payments through gift cards. 
+Disorderly Conduct/Small Amount Marijuana
+Feb. 26, 2020
+Officers initiated a vehicle stop at the intersection of North Craig and Fifth Avenue for a non-affiliate who failed to yield to oncoming traffic. A small amount of marijuana was recovered from the vehicle, and the driver was issued traffic citations. 
+Criminal Attempt of Theft by Deception
+Feb. 26, 2020
+A Carnegie Mellon student reported to officers that they had received an internet scam through Facebook. The scam requested money, which the student did not pay. 
+Alcohol Amnesty
+Feb. 29, 2020
+Officers responded to The Underground for an intoxicated Carnegie Mellon student. The student was provided medical attention and no citations were issued, due to alcohol amnesty. 
+Driving Under the Influence of Alcohol
+Feb. 29, 2020
+Officers conducted a vehicle stop at the intersection of Morewood Avenue and Castleman Street for a vehicle that struck a curb. It was determined that the driver, a Carnegie Mellon non-affiliate, was under the influence of alcohol. Criminal charges were filed. 
+Alcohol Amnesty
+Feb. 29, 2020
+Officers responded to Delta Tau Delta for a Carnegie Mellon student who was intoxicated. The student was provided medical assistance and no citations were issued, due to alcohol amnesty. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+It’s no secret that the Allegheny County Democratic Committee (ACDC) likes to play inside baseball. Pittsburgh politics, generally, is founded upon a series of connections, with connected people helping other connected people attain their positions. The current Pittsburgh mayor, Bill Peduto was the Chief of Staff for his City Council predecessor, Dan Cohen. Peduto sat on the City Council for a decade, threatening to challenge the incumbent mayor Luke Ravenstahl a handful of times. Luke Ravenstahl’s father, Robert Ravenstahl Jr. is a magisterial judge in Allegheny County. Robert Ravenstahl Jr.'s father, Robert Ravenstahl Sr., served on the City Council. Adam Ravenstahl, Luke’s brother, is the state house representative for the North Side. Even Bob O’Connor, mayor before Luke Ravenstahl, has a son who is on the City Council, and connections between political figures in Pittsburgh and Allegheny County don't end there.
+Political legacies are not inherently a bad thing. A ruling class, while problematic, is not necessarily a sign of incompetence. The Kennedys are clearly a competent political dynasty. Although their politics have roots in monetary connections, their policies have led to support from unions and the working class. The Kennedys have recognized that their power has been granted to them by organized crime, working class voters, and the interests of a core of low income, urban workers. It’s why, in spite of the numerous deaths in the family, so many Kennedys are consistently elected to office. Their money helps, but a unified political message directed at their core demographic only solidifies their political power.
+What the Kennedys did right then, is what the Allegheny County Democratic ruling class is doing wrong today. The top members of the party in the Pittsburgh area are not unified in their messaging, and many ignore the base of their party: low-income, urban workers. A few weeks ago, the ACDC released their endorsements for the Pennsylvania democratic primary, which will take place on April 28 of this year. In two notable races, the ACDC endorsed a moderate candidate over the candidate in a better position to define the future of Pittsburgh Democrats. In State House District 34, challenger Chris Roland was endorsed over incumbent Summer Lee, and in State House District 36, Republican-leaning Heather Kass was endorsed over the progressive candidate, Jessica Benham. 
+District 34 contains Braddock, Braddock Hills, and Swissvale. District 36 contains Mount Oliver, parts of Baldwin, and the South Side of the city of Pittsburgh. What both of these districts share is a low-income, urban populace that is likely to vote for the candidate who fights for progressive policies, policies that enrich the district without sacrificing its character. In District 36, the choice to endorse Kass over Benham shows that the local party is not aware of its voter base, higher levels of politics, or even Kass’s own pronouncements on social media a few years back about “LAZY NO GOOD IDIOTS SUCKING THE SYSTEM [Obamacare] DRY.” Kass, almost dedicated to the Facebook idiocracy, has posted memes, all-caps rants, and anti-Hillary ads from right-wing groups. Her opponent, Jessica Benham, works for the Pittsburgh Center for Autistic Advocacy. Benham has helped organize University of Pittsburgh graduate students in their attempt to unionize. Most importantly, Benham has received the endorsement of some of the highest-ranking members of Pittsburgh’s political family: Bill Peduto, City Council Presidents Bruce Kraus and Theresa Kail-Smith, and three other City Council members. Benham is the clear choice for the endorsement of Allegheny County Democrats, but the local party disagrees.
+In District 34, Summer Lee is the incumbent, and in most places, would be the assured choice for endorsement. Incumbents rarely see their challenger endorsed by the party. It’s why political parties exist, frankly: to consolidate and maintain power. Still, the ACDC has endorsed her challenger, Chris Roland. Roland, a borough councilman for North Braddock, has also earned the endorsement of County Executive Rich Fitzgerald. Roland is also responsible for the care and maintenance of a local park, which is rather quaint, but the endorsement reeks of connections to Peoples Gas, as reported by WESA. At the same time, Lee, the incumbent house representative, has worked tirelessly the past two years to create a lasting change in the region. She has created UNITE PAC, which is designed to help progressive candidates challenge the party establishment, and she has remained a clear, confident choice for reelection after her win against Jay Costa two years ago. There is little reason why the party has chosen to go in the direction of Chris Roland, other than to steer the local government toward the broader Democratic establishment. 
+For Carnegie Mellon students, these endorsements are representative of two things. First, it is representative of the confusion among the Democratic Party from top to bottom. It can be seen in the push for a brokered National Convention, where party elites will have the final decision regarding the Presidential candidate, likely to be the wrong choice, failing to match the choice of the party’s electorate necessary to win the Presidential election. Obviously, this has yet to happen, but the confusion is clear in the Democratic Party. The confusion of the party at all levels leads to the second point, which is that we, future members of a highly-educated, mostly-liberal social class, will play a crucial part in determining the future of the party. We are the people with the time and the money to make change, and we will need to take a hold of the party machinery to fight for a better world. The current Democratic Party is not going to fight for the working class, minority groups, or anybody but the monetary interests which help elect them, so we will need to attend the local party meetings. We will need to fight for the change from the bottom, in local races for State House or City Council, and we will need to fight to define the future of American politics to show that our enemy is not an imagined other, but rather the brutal reality of wealthy elites and corporate interests.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+The presidential primaries are well underway, and every day in the news and online, there are dozens of takes on why the current frontrunner (whoever that is at the moment) would be a good candidate or not. But here’s the thing: who that candidate is will likely matter far less than everyone thinks.
+There are three reasons why this is the case: a misunderstanding of polling, an increase in polarization, and an inevitable media fiasco during the general election season.
+Exhibit A: polls showing candidate X is ahead of President Donald Trump (R) in swing states by this percent, while candidate Y is only ahead by this percent. I’ll say it once. General election polls this early in the cycle are garbage. A poll last Aug. found former Vice President Joe Biden ahead of Trump by 10 percent in Michigan, while Senator Bernie Sanders (I-VT) was only ahead by four percent. A poll from last week showed Sanders ahead in Michigan by seven percent and Biden ahead by only four percent.
+This inconsistency is not unique to 2020. Nationwide polls this time in 2012 showed Mitt Romney ahead of Barack Obama by four percent. Obama ended up winning by almost four percent, and no one needs a reminder of what the polls were saying in 2016.
+The discrepancy between primary polls and general election results leads to exhibit B: voters from the party. Numerous Democratic voters claiming they’ll vote for the Democratic party, but only if candidate X is the nominee. This has been one of the main arguments in favor of Biden since he can allegedly bring many conservative-leaning blue-collar whites from the Midwest back into the fold.
+Anyone who has been watching American politics in the past four years knows this is lunacy. Barring the occasional snap-back in 2018, Americans’ views on politics — especially regarding Trump — are extremely rigid. Sure, some Republican voters may profess uncertainty now, but in a couple of months, they will come home to the GOP, if not for love of Trump, then because of abortion or the Second Amendment or taxes.
+A good example was the 2018 Senate election in Tennessee. Moderate former governor Phil Bredesen (D) seemed like he had a good chance of luring back the historical Democratic voters who had voted for him in 2006 with a whopping 39 percent lead, and early polls showed him ahead by a few points. However, when the time came for Tennessee to go to the polls, Bredesen lost by 11 percent. Simply put, voters are more polarized than they have been in recent memory and less willing to stray from the party line. 
+The reason for this “coming home” effect is simple: Fox News. It is inevitable that right-wing media outlets will carpet-bomb the Democratic nominee with months of nonstop coverage that paints them as a communist devil out to steal guns and murder babies. It doesn’t matter whether the nominee is an actual avowed Democratic Socialist like Sanders or an easy-to-mistake-for-a-Republican moderate like Bloomberg; by Nov., most of those flip-floppers will believe that the nominee is Stalin.
+The moral of the story is that Democratic voters should not base their primary voting patterns on some vague and likely inaccurate notion of "electability," but rather on who they actually want to be president.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Picture yourself three years ago. You were probably still in high school, or just beginning your time at Carnegie Mellon. You probably looked a lot different, lived in a different city, had different things to worry about, or maybe even hung out with different people. 
+Three years ago, Hollywood film producer Harvey Weinstein was accused in reports from The New York Times and The New Yorker of raping, sexually assaulting, and sexually harassing more than a dozen women over his entire career, spanning nearly 30 years. As the years passed, that number grew to over 80 women. 
+In the three years since the reports, Weinstein has continually denied the accusations against him of “any non-consensual sex”. However, the public had quickly made their decision on Weinstein, recognizing a broken Hollywood system that must be made better. In response to the allegations, the #MeToo movement was revitalized into a powerful moment of female empowerment. 
+Last week, The New York Times reported that Harvey Weinstein had been found guilty, convicted on two of the five possible criminal charges. Weinstein was found guilty of two felony sex crimes, but was acquitted on the more serious charges, such as predatory sexual assault. Weinstein will receive his official sentence on March 11, where he will face between five to 29 years in prison. Weinstein also faces charges in Los Angeles and possibly in London.
+Weinstein’s convictions were lauded as a watershed moment for the #MeToo movement. According to The Dallas Morning News, 23 percent of rape or sexual assault victims in the United States report their crime to the police. Less than one percent of sexual assaults lead to a conviction, yet one in five women in the U.S. will be raped in their lifetime. The #MeToo movement aimed to help create an environment that encouraged further belief in survivors and “provide a mechanism to support survivors and move people to action,” according to founder Tarana Burke. Civil rights and employment lawyer Debra Katz told the Los Angeles Times that “this verdict will encourage prosecutors to rethink the idea that sex crime cases are too difficult to prosecute . . . This shows that juries have an ability to discern complicated facts, and they reached this result even though there was a lot of smoke and mirrors from the defense team.” 
+The Weinstein scandal was deeply personal for Hollywood. It pulled the curtain back on a troubling system of abuse and nepotism driven by greed, highlighting stark gender disparities and alarming sexism across workplaces — especially in Hollywood. When Weinstein was first accused three years ago, Hollywood was already resting on uneasy ground regarding its representations of the world around it, facing whitewashing scandals and cries for a larger presence of diverse filmmakers. The Weinstein scandal and the #MeToo movement further showed that Hollywood needed to change — and soon. 
+While still marginal in comparison to the white Hollywood landscape, studios are now putting a larger effort towards producing diverse content representing varieties of races and sexualities. It is easy to claim that, on paper, Hollywood has made progress in the types of content produced when compared to five years ago. Furthermore, Hollywood is also pushing forward films and media properties made from diverse perspectives across race and sexuality, helping to tell more authentic and moving stories. Yet in every monumental win like Parasite’s Oscar sweep or Black Panther’s unprecedented success, there are several steps back such as the perspective-blind Best Picture winner Green Book or the misogyny-fueled sandbagging and trolling campaign against Captain Marvel.
+Most notably, more survivors began to speak out against and accuse high-profile Hollywood stars such as Louis C.K., Kevin Spacey, James Franco, and Matt Lauer, among many others. Liam Neeson was right, in some ways: #MeToo was becoming more like a witch hunt, lacking direction and putting more spotlight on the scandal of the accused than on the bravery and voice of the survivor. You were just as likely to read an in-depth, detailed report from Ronan Farrow highlighting years of sexual abuse perpetrated by former CBS CEO Les Moonves or a lengthy investigative feature about director Max Landis as you were likely to read an unsourced article talking about how an unknown woman’s date with Aziz Ansari was “the worst night of my life” or a personal blog post accusing Backstreet Boys singer Nick Carter of sexual assault.
+This is not to derail the accounts and efforts of these women speaking up about their struggles. This is to highlight the power of a single moment where, in unveiling Weinstein’s history of sexual abuse, millions of women were also validated and seen. Former sex crimes prosecutor Wendy Murphy highlights this power in the Los Angeles Times, saying that “Women will compare their own circumstances to the narrative they’ve read about Weinstein, and they will be more willing to call the police,” when talking about Weinstein’s conviction. That power has proven to be incredibly strong but hard to control, strewn all over the landscape of the world in the past three years. Coexisting in an environment of mistruth and mistrust in the information age, the #MeToo movement has left individuals even more confused on whether anything has actually changed.
+When asked about Weinstein’s verdict, Tarana Burke told Variety that “[T]hough today a man has been found guilty, we have to wonder whether anyone will care about the rest of us tomorrow. This is why we say #MeToo.” It’s a statement that reflects a balance between hope and an unexpected feeling of hopelessness that parallels efforts regarding sexual assault awareness at large. It’s a stark reminder that should inspire people to inquire about the past and challenge how much further we need to go to achieve an ideal situation for all.
+When assessing the progress of these kinds of issues over the past three years, one can see parallel to life’s cyclical highs and lows, to the peaks and relapses of progress. It unfortunately shows that sometimes, progress can take a very long time. And when success is achieved, it is important to assess the past to help move forward on the long path ahead.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+The discourse was inevitable. With Asians making up at least 18 percent of the Carnegie Mellon student population as of the Fall 2018 Academic Year, the effects of the coronavirus outbreak were bound to be discussed on campus at large. Heated debates about sinophobia, racism, and the coronavirus already surfaced about a month ago on the Facebook page “Confessions at Carnegie Mellon”. The page posted a confession about an adjunct professor joking about the disease outbreak.
+The Tartan reported the university administration’s response to the disease outbreak two weeks ago. However, The Tartan has yet to synthesize the conversations on “Confessions at Carnegie Mellon” and analyze the social effects of the coronavirus outbreak that extend beyond infected areas. Now is the time to talk about the sinophobia and racism that came with the media coverage of the coronavirus. The excessive media coverage of the coronavirus perpetuates sinophobia and racism that have real, harmful consequences for local Asian communities.
+Ever since the World Health Organization released a statement declaring the Wuhan coronavirus epidemic as a “global emergency,” universities around the nation, including Carnegie Mellon University, have issued travel bans and have strongly encouraged people coming from China to self-isolate for 14 days. Although these precautionary measures are intended to prevent the disease from spreading to campuses, the policies inflate the severity of the coronavirus's social, rather than medical, effects and heighten public fear of Chinese people. Even though the flu is more likely to kill Americans than the coronavirus, the coronavirus receives more attention and needs specialized prevention policies. The recommendation of self-isolation seems drastic when the major concern of the virus is its novelty. The policies’ focus on people from China — despite cases of coronavirus being reported in Western countries such as Italy, Spain, and France — singles out China as the sole harbinger of disease. Therefore, avoidance of Chinese people becomes associated with coronavirus prevention.
+With the mainstream coverage of the coronavirus came the racist jokes on social media. These jokes, appearing as typical Gen-Z dark humor, circulate misinformation about the spread of the coronavirus by appealing to Chinese stereotypes of uncleanliness and “disgusting” food preferences. A popular conspiracy theory about bat soup causing the Wuhan virus outbreak was repeated in different tabloids to personally blame Chinese people for the epidemic. The jokes normalize racism against Asians. They treat the alienation of Asians as a casual, humorous response to a tragic crisis and reinforce the undesirability of Asians.
+The global sinophobia caused by the media is of important consequence. People use the coronavirus as an excuse to harass Asian university students and bully Asian children. Sinophobia killed a man in Australia as bystanders refused to perform CPR, fearing that he might carry the disease. Chinese restaurants are losing business, as people irresponsibly believe that all Chinese food is contaminated as a result of the outbreak. The coronavirus fear spread over the media needs to be addressed. It’s hurting Asian communities by rationalizing blatant racism.
+Luckily, government officials in the U.S. and China are already working to crack down on misinformation about the coronavirus. U.S. lawmakers are encouraging major social media platforms — such as Facebook, Google, and Twitter — to cooperate in promoting credible information about the virus outbreak.  Chinese President Xi Jinping announced that China must exhibit transparency in reporting the outbreak by releasing accurate information in a timely manner. However, individual community members must also join efforts to curb misinformation and sinophobia if Asians are to feel welcome in their communities. Everyone must speak out against racist memes and condemn sinophobic news coverage so that Asians can be included in solving the coronavirus epidemic.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+With a sweeping 8-0 vote, the West Mifflin Area School Board decided to increase support for transgender and gender nonconforming students. They proposed to direct its solicitor to collaborate with the board’s policy committee on a transgender and gender expansive student policy. The details on exact policies are still up for discussion at the board’s March meeting, but this vote is a step in the right direction.
+The board is not alone in recognizing the need for a transgender and gender expansive student policy. This January, teachers, parents, and students from the West Mifflin area called for policies like the one that the Pittsburgh Public Schools District has upheld since 2016. Pittsburgh Public Schools’ approach includes protecting students’ privacy, allowing students to use sex-separated facilities that align with their gender identity, and using students’ preferred names and pronouns unless the law mandates the legal name and legal gender. These measures are the least schools can do to create a supportive environment conducive to learning.
+What might transgender and gender expansive student policies look like for other schools? For starters, schools would have to make the message loud and clear: misgendering someone is not covered under “freedom of speech.” Even if a faculty member does not “agree” with being transgender (which then leads to the question of how one can “disagree” with another person’s identity?), they must agree to respect transgender students’ preferred names and pronouns. This seemingly simple gesture demonstrates that, at the very least, the student’s basic human dignity is recognized, which builds a healthier learning environment.
+Allowing the use of sex-segregated facilities, such as bathrooms and locker rooms, might be met with more resistance. However, the consequences of having students use facilities solely on the basis of their gender assigned at birth have been shown to be more harmful than the alternative. Moreover, there is no correlation between bathroom safety and allowing transgender people to use gender facilities that align with their identity. On the other hand, a 2019 survey found that transgender students in schools that mandated use of gender facilities that align with sex assigned at birth reported higher rates of sexual assault than transgender students in schools that allowed them to use facilities based on gender identity (36 percent versus 25.9 percent). That number of sexual assaults is still abysmal and demonstrates a larger picture of anti-transgender rhetoric that is more pervasive than we may want to believe, but letting transgender people use facilities that match their gender identity is a start.
+The National Center for Biotechnology Information states that transgender individuals globally are exposed to “widespread social stigma, discrimination, harassment, and physical and sexual abuse,” and public schools are no exception. In 2011, the National Center for Transgender Equality found that transgender or gender non-conforming K-12 students faced high rates of sexual violence (12 percent), physical assault (35 percent), and harassment (78 percent). In 15 percent of the cases of harassment, the victim had to leave the school. These traumatic incidents can follow anyone around for years and lead to worse health or academic performance. Coupled with higher rates of unemployment and further discrimination in the workforce, it’s even more pressing that schools provide transgender and gender non-conforming students a more stable educational background to help them develop more positively in these pivotal years. Such policies should also expand into bullying, harassment, and discrimination to protect students in case their gender identity or expression makes them a target of such incidents.
+Even today, gay and transgender panic defense is legal in 31 states. The American Bar Association defines gay and trans panic defense as “a legal strategy which asks a jury to find that a victim’s sexual orientation or gender identity is to blame for the defendant’s violent reaction, including murder.” This means that the victim’s sexual orientation or gender identity is a legal cop-out for the perpetrator’s action, letting them off the hook far too often. Washington state is the latest state to pass a ban, following the homicide of 17-year-old Nikki Kuhnhausen. This is just one example of the grim reality that many in the LGBT+ community face.
+Growing up is hard enough. If there are any extra hurdles that we can remove, it’s only fair that we do. School policies protecting transgender students will not erase anti-LGBT+ rhetoric or policies, but change must begin somewhere. Educating the next generation on tolerance and acceptance is a start.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+On March 25, 25-year-old Cho Joo-Bin nonchalantly spoke to the women he blackmailed into sexual slavery: “I apologize to those who were hurt by me… Thank you for ending the life of a demon that I couldn’t stop.”
+On the messaging app Telegram, Cho hid behind the alias “ baksa ” (“doctor”) and blackmailed dozens of underage girls and women. He is part of the “N bun bang” (“Nth Room”) case that, from 2018 to earlier this year, trapped 74 victims into sexual slavery. 16 of these victims were underage, with the youngest being just nine years old.
+Cho blackmailed women into performing sexual acts, carving “ nuh-yeh ” (“slave”) on their skin, and other unthinkable things.
+Unfortunately, the case does not stop at Cho. “Over 260,000 users", on the app Telegram, still continue to view and distribute the videos of the victims through pay-to-view chat rooms that they call “ N bun bang ” (“Nth rooms”). To join, these users paid between 200 thousand won ($164.25) for the lowest level or up to 1.5 million won ($1,200) for the highest level, depending on how much content they wish to have access to. They also had to “prove” themselves by posting sexually abusive content of their own and publishing misogynistic comments.
+Cho has been behind bars since Sept. 2019. However, this is hardly comforting. Cho may be locked away from society for now, but the users in the chat rooms continue to roam freely. While the victims’ faces and identities are exposed, these users can hide away their sinister secret lives and continue offline as if nothing happened.
+South Korea’s president, Moon Jae In, has at least publicly acknowledged the case. He called for police to establish a special investigation team and bring justice for the victims. He sent his condolences to those affected and assures measures will be taken to prevent another case like this.
+I want to believe Moon. I’m sure many others do, too. However, I know that these criminals hiding behind their screens will not receive so much as a slap on the wrist.
+Korea’s punishment for possession of child pornography is embarrassingly light. At most, the Nth room users will face a year of prison or pay a fine of 20 million won ($16,306.36). More realistically, they will not see a shred of punishment.
+Regardless of where you are, there are a handful of simple ways you can speak out. Companies need to be aware of how their platform is being used. Telegram currently displays an above-four-star rating on both the Apple Store and the Google Play store. Recent reviews on both show one-star reviews that shed light on this case.
+However, holding Telegram accountable is only a short-term solution. It would be only a matter of time before these predators take this case to another platform. A petition that will go to President Moon asks Korea if the country “will not protect children from child sex offenders,” that they at least “disclose the identity of all N bun members” to avoid another case like this.
+“Please share the list of the 260,000 criminals in the N bun bang: where  they live, where they work, and their age,” it pleads.
+To say I’m pessimistic about this case is a great understatement. How can one not be when there is hardly any legal precedent for cyber-sex crimes? It’s heartbreaking that these victims are forced into life sentences of psychological trauma.  Even if this petition or our best efforts can’t bring justice to this case, it’s imperative that Korea at least shows predators that they will not go unpunished.
+Allies must band together in hopes of sending the message that perpetrators of sex crimes must be punished for their actions. I – and, frankly, many others – feel absolutely feeble, but it’s even more important to take whatever action is possible. Even if all one can do is sign a petition that will go to Korea’s president, that’s still one more voice speaking out for those who had theirs taken away.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+

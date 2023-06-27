@@ -1,0 +1,158 @@
+The Tartans kicked off the week with the women’s golf team placing second at Montgomery Country Club Women’s Intercollegiate on Monday. The Carnegie Mellon women carded a school-record 36-hole score of 597 (312-285), breaking the three-year-old previous 36-hole program low of 604, and recorded a new single-round school record with a 285, beating the two-year-old previous lowest team score of 296. Sophomore Alexis Sudjianto and first-year Denise Pan both carded individual rounds of five-under-par 67, the lowest individual round scores in program history, with Sudjianto also breaking the program record 36-hole total with a 146.
+The Carnegie Mellon men’s golf team also found success, placing second at the 36-hole Wynlakes Intercollegiate held on Monday and Tuesday. The men tied the school record for the lowest 36-hole tournament score by totaling 570 (287-283). Senior Jason Folker won individual medalist honors by recording a total of 10 birdies and finishing with a six-under-par 138 to top the field of over 70 competitors.
+On Thursday, the softball team won two games at Franciscan University, playing a clean five-inning game one, scoring 18-0 and recording a program best-tying 23 hits. Despite heading into the seventh inning of game two 4-3 down to Franciscan, the Tartans scored five runs in the last inning to win 8-4. This sweeping victory means that their season record is now 10-5-1.
+Tartan track and field had a busy week as well, with both the women and men’s teams competing in the Slippery Rock University (SRU) Bill Lennox Invitational on Friday, followed by the Robert Morris University (RMU) Invitational on Saturday. 
+The Tartan women did well on the field on Friday, with first-year JoJo Huczko tying for fourth place in the pole vault, clearing 3.38 meters to set a new personal best. Sophomore Francine Leung took third in the long jump, landing at a personal best distance of 5.14 meters, and junior Agnes Zhou threw a personal best of 36.00 meters in the hammer throw. On the track, first-year Megan Baker ran a personal best of 5:25.14 to place seventh in the 1500 meter run.
+The men’s side saw first-year Andrew McGovern win the 800 meter run with a time of 1:58.16, over a second in front of his closest competitor. The Tartans then followed up on this momentum by winning the 4x400 meter relay, in which first-year Pranav Rajbhandari, senior Michael Cai, senior Grant Johnson, and McGovern recorded a time of 3:25.64, finishing the race nearly eight seconds ahead of second place.
+The Carnegie Mellon men put on a strong performance on the field as well, with senior Matt Sloan tying for first in the high jump, having cleared a height of 1.91 meters, before placing third in the triple jump, recording a distance of 13.44 meters. Sophomore Bailey O’Malley threw 13.95 meters to take second place in shot put, then recorded a personal best of 47.65 meters in the hammer throw to place fourth. Senior Bram Miller won the discus throw with a mark of 45.69 meters, and senior Logan Stahl took third in the hammer throw with a mark of 47.83 meters. Sophomore Len Huang set a personal-best mark of 39.75 meters in discus, placing eighth, and first-year Alex Petric recorded a personal best by clearing 4.21 in the pole vault to place fifth.
+The Tartans extended their success at the RMU invitational on Saturday, where senior Bram Miller placed first with a mark of 48.55 meters. Miller also won the shot put with a mark of 17.11 meters, breaking the decade-old school record by half a meter. Sophomore Bailey O’Malley won the hammer throw with a mark of 46.22 meters, and senior Marc Edwards placed second with a mark of 39.79 meters. O'Malley also placed second in shot put with a mark of 14.55 meters and third in discus with a mark of 39.87 meters. Junior Justin Kiefel broke his own previous school record, landing a 14.65 meter jump in the triple jump.
+In the 3000 meter steeplechase, senior Harry Branch-Shaw, graduate student Hunter Hartshorne, and junior Aidan O'Donnell placed first, second, and fourth with times of 9:08.97, 9:18.31, and 9:58.25, respectively, with both of the former recording new personal best times. Graduate student Liam Walsh and first-year Alex Ivanov took first and third in the 1500 meter run with times of 4:00.97 and 4:08.01, respectively. Junior Graham Eversden then placed third in the 800 meter run, setting a personal best time of 1:52.38.
+The Carnegie Mellon women put in a fine performance as well. Junior Kristen Seballos ran a 2:21.49 to place third in the 1500 meter run, setting a new personal best. After running a personal best time of 16.50 in the 100 meter hurdles to place ninth, graduate student Joanna Baranowski ran a second personal best time of 1:07.45 to take second place in the 400 meter hurdles. Junior Taylor Jacobs took third in the 800 meter run with a time of 2:21.49. On the field, senior Ally Tully threw 37.66 to place fifth in the hammer throw.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Snakebot goes for a swim
+Developed by Carnegie Mellon University’s Biorobotics lab, the Hardened Underwater Modular Robot Snake (HUMRS) is a flexible robot whose purpose is to inspect ships and submarines for structural damage. With its streamlined and modular design, this robot boasts not only precise control and the ability to fit into small spaces, but it can also be modified for different scenarios — both aquatic and terrestrial. The robot snake is a collaborative project between Carnegie Mellon and the Advanced Robotics for Manufacturing (ARM) Institute, with a grant from ARM providing the funding. Beyond military applications, engineers say that the robot could be used to inspect and maintain fluid-filled systems, making it a beneficial tool in various industries.
+Read more about it here.
+CMU/Yale PNA-based technique an essential part of gene editing toolkit
+Gene editing is a promising method of treatment for debilitating diseases, and continued research and development is bringing this technology closer to widespread use. By allowing scientists to directly modify sections of an organism’s DNA, gene editing could hold the key to curing genetic diseases that are otherwise untreatable. To help realize the potential of gene editing, the Somatic Cell Gene Editing Consortium (SCGE) was launched in 2018 to help accelerate discoveries in the field and to translate those breakthroughs into clinical applications. While much of the consortium’s work focuses on CRISPR-Cas systems, the SCGE stated in the April 8 issue of Nature that it is interested in fostering the development of other methods, such as the peptide nucleic acid-based gene editing technique developed by Professor Danith Ly of Carnegie Mellon University and Professor Peter Glazer of Yale University.
+Read more about it here.
+Vaccine hesitancy remains unchanged
+With the rollout of the COVID-19 vaccines from companies like Pfizer, AstraZeneca, and Johnson and Johnson, many believe the pandemic is coming to an end. However, having the vaccines is only half the battle, as infrastructure and public willingness are key to vaccinating the large swaths of the population required to reach herd immunity. In a survey study conducted by the Delphi Research Group at Carnegie Mellon University in partnership with Facebook, researchers found vaccine hesitancy persists due to concerns about side effects, especially among females, Black adults, and those with pre-existing health conditions. While 77 percent of surveyed adults are willing to get vaccinated, 23 percent remain reluctant, and overcoming this hurdle is vital for overcoming this pandemic.
+Read more about it here.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+This article was originally intended to be a review for Godzilla vs. Kong, the new entry in Legendary’s Godzilla universe. I enjoyed the movie for what it is. I paid money to watch a giant ape and a giant lizard fight, and I got that in spades. I also got a fight scene with MechaGodzilla, which is just a giant robot lizard with laser breath. This sounds awesome, right? 
+It is awesome. But everything else about this movie was truly awful. Every performance was clearly phoned in. Every character was annoying or forced. The writing made zero sense and unnecessary exposition bogged it down. There was a subplot with a deaf child that was slightly interesting but the acting ruined it. That’s not a fault of the child per se, but I’m tired of big-budget movies forcing child characters into movies as a cheap ploy to get the audience to care about the cute innocent kid. Yet, I overlooked all of that because that’s not what the movie is for. 
+Studios definitely understand this, and it’s very evident from the obviously committee-written script that they are well aware of their audience’s expectations. But if we keep writing bad scripts that loosely tie together fight scenes and images that audiences will want to see, we are inevitably making filmmaking dumber. It takes a lot of effort to make movies, especially the big-budget films where thousands of people are involved in the process. Yet for all the money put into it, it doesn’t show for Godzilla vs. Kong. It says a lot when the Godzilla movie released in 2014 looks better than the one released in 2021. Granted, there’s a pandemic and there likely wasn’t enough time to polish the visual effects. But that poses another issue of studios rushing to get films made instead of taking the time and effort to make sure the film is finished. 
+I felt this exact feeling for Zack Snyder’s Justice League. On its own, the movie isn’t that good. It is far too long with its four-hour runtime. It’s very melodramatic in a bad way and extremely preachy. Zack Snyder clearly has some obsession with the messiah complex but can’t seem to write it properly. There is lots of clunky dialogue and exposition. The film doesn’t look very good both in terms of visual effects and cinematography. Yet despite all this, I enjoyed it because it is so, so much better than the 2017 Joss Whedon cut of Justice League. At the very least, I got some cool scenes with The Flash, a coherent story, and character arcs that were serviceable at best. The studio, Warner Brothers, understood this and it netted them more subscribers for HBO Max, so it worked. 
+It’s unfortunate that we are giving studios a pass for creating clearly bad movies but giving us the bare minimum of what we want. Part of me wants to accept it and just go along for the ride. But we have to vote with our wallets and force studios to make better movies. It’s clearly not a sustainable model for the film industry, and it’s not doing any favors for creativity. If anything, it’s killing creativity. 
+These big-budget movies like Godzilla vs. Kong may make a lot of money, but people will get tired of seeing garbage. If that is the only material that continues to get mainstream recognition, it will not end well for the film industry. For now, though, Godzilla vs. Kong gave me good fight scenes, so I’m giving it a 4/10 instead of a 2 like it should deserve. But I’m going to stop paying money for these movies, and you should too. 
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+All times are in EDT
+Handling Grief and Finding Happiness in Times of the Pandemic for Graduate Students
+Monday, April 19: 2:00 p.m. - 3:00 p.m. via Zoom
+Attention graduate students! CaPS is hosting a session about finding happiness and handling grief during the pandemic. The link to RSVP and ask questions is here.
+Stay Grateful: A Weekly Gratitude Practice
+Tuesday, April 20: 1:30 p.m. - 2:30 p.m.
+The Carnegie Mellon University community is meeting again this week for an exercise in mood regulation, resilience, happiness, and satisfaction. As stress persists throughout the semester, learning about gratitude can help with stress management. The Zoom meeting link is here. 
+Dietrich Deep Dives: The Psychology of Conspiracy Theories
+Wednesday, April 21: 12:00 p.m - 1:00 p.m
+Are you interested in the psychology behind conspiracy theories? If so, this Dietrich Deep Dive is perfect for you! Hosted by Professor Gretchen Chapman, you will learn more about this fascinating topic through a virtual webinar. More information can be found here. 
+When my Heart isn’t in the Work
+Thursday, April 22: 4:15 p.m. - 4:45 p.m.
+To process and navigate white-dominated spaces, join CaPS in their judgment-free, weekly discussion. The link to join is here.
+Immigrant Connection Hour
+Friday, April 23: 1:00 p.m. - 2:00 p.m.
+If you are an immigrant interested in finding a safe space to connect with other immigrants, join Dareen Basma, Shubhara Bhattacharjee, and Mengchun Chiang’s Immigrant Connection Hour. The Zoom meeting ID to join is 969-6481-1810.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+As part of the annual Carnival festivities, Activities Board (AB) hosted a webinar discussion with Hasan Minhaj on Thursday evening. Hasan Minhaj is a comedian who is most well known for his tenure as a correspondent on The Daily Show, as well as his stand-up special Hasan Minhaj: Homecoming King and his talk show, Patriot Act with Hasan Minhaj. 
+The event began with Minhaj breaking his fast for Ramadan, which he quipped about for a few minutes before transitioning into a lengthy discussion about student loan debt and the modern political climate. He discussed the research he did prior to his testimony at the House Financial Services Committee, such as researching what congressional representatives paid to attend college and comparing that to the modern cost of attending the same colleges. 
+He expressed skepticism about the common conception that college students can overcome debt by simply working harder. He argued that the costs of attending college are too much for that to be the case, and he marveled at the fact that there isn’t bipartisan agreement on solving the student debt crisis. 
+From this, he transitioned into a discussion about his life experience in the U.S. Minhaj shared the story of how he met his wife in college, and how he knew she was the one. He also discussed how it felt surreal to him that his children were second-generation immigrants. It provided him an opportunity to highlight the cultural disconnect between first- and second-generation immigrants. 
+From this, he delivered a powerful lamentation of the recent hate against the Asian American and Pacific Islander (AAPI) community. He described racism he faced in the stand-up comedy world, where he was told to change his name for the act so he could make it big. He hoped that one day, the AAPI community, immigrants, and people of color, in general, are not seen for their appearance, but for who they are as a person. He especially hoped his children can embrace and be proud of their identity as a greater part of who they are as a person. 
+With the discussion at an end, Minhaj left students with one piece of advice. He encouraged them to not defer their student loans and take an income-based repayment plan instead.
+This webinar was recorded and will be made available on Carnegie Mellon’s Spring Carnival website in the coming week.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+Like many Carnegie Mellon traditions, Buggy is slowly rolling towards a return after Spring Carnival.
+Buggy, a Carnegie Mellon tradition since 1920 of racing small, motorless, cart-like vehicles designed, pushed, and driven by students, was scrapped last year when the university canceled Spring Carnival because of the COVID-19 pandemic. With the pandemic still ongoing throughout the year, and restrictions at the university level, Buggy was only able to return this March with practices. Freerolls were livestreamed last weekend as part of Spring Carnival. Additionally, Buggy will get one step closer to returning to holding actual races. There are currently races planned for the weekend of May 1 and May 2.
+There will still be restrictions in place during Buggy. Only participating students will be allowed to attend in-person, so, unlike past carnivals, alumni and other students will not be allowed to watch in person. Additionally, there are still COVID-19 restrictions that students have to abide by. For now, the crowds that normally line Tech and Frew are not coming back, but there will be a livestream and more details on the races to come.
+This year's Spring Carnival still featured celebrations of Buggy. One event, “Buggy is Loading,” showcased Buggy races from years past and a lego Buggy race (which really was just a bunch of lego go-karts sliding down a ramp). It also featured Chute the Sh!t, a Buggy podcast by the Carnegie Mellon Buggy Alumni Association, and Buggy All-stars, a game developed last year by Carnegie Mellon undergraduates as part of the Advanced Game Studio class. In an interview shown during the event, Tom Corbett, who teaches the class, said that his class is making a sequel to the game as part of this year's Advanced Game Studio. The event also revealed a Buggy mural to be installed in the Cohon University Center.
+Most students and alumni who are hoping to enjoy Buggy races at Carnegie Mellon may have to wait until next year. For now, Buggy is returning in a different form for those who missed it.
+A recording of "Buggy is Loading” will be available on the Spring Carnival Website sometime this week.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
+It's nearly guaranteed that with Spring Carnival comes an increase in COVID-19 cases. This is for a variety of reasons, such as perhaps the false sense of immunity that comes with the progress of opening up vaccine appointments to the general public. But a glaring and not adequately addressed reason is the extended break from classes allotted for the Spring Carnival.
+With four days of school off (weekend included), it is only natural that students will gravitate toward more social activities such as going on trips and hanging out with friends, similar to the issue with Thanksgiving break. And while it is important to preserve breaks for students in such a challenging and stressful university, it is important to acknowledge the risks of such an event. Thanksgiving is to the general public what Carnival is to Carnegie Mellon students, and hence the possibility for close-distance, maskless interactions is high in both cases. Unfortunately, while the university did its best to address the issues with a Thanksgiving break by having students shelter in place post-Thanksgiving, they are not doing the same for Carnival. 
+Worse yet, while the blame resides partially on the university, the university has focused its messaging and efforts on associating the blame with students. While individual interactions do significantly affect the rate of COVID-19 cases, simply asking individuals to be more cautious when the Carnival break allows for so much social interaction is in vain. It requires more action from the administration to make changes at a university level. 
+In addition, the university has appointed police officers to patrol the area around campus to "enhance the safety and well-being of our students who live in or visit these neighborhoods, while also responding to any disruptive or illegal situations that present a safety risk to the community," as stated in the April 14 message titled "'A Tartan's Responsibility' During Spring Carnival" by Associate Vice President of Student Affairs for Community Life John Hannon. We believe that such actions are not necessarily "a visible reminder about the importance of being thoughtful and considerate neighbors and ambassadors of CMU" as stated in the message and can instead be seen as hostile and punitive instead of encouraging social distancing behavior.
+More preventative actions can be taken, and future breaks and events can be better designed to encourage more COVID-19 guideline-compliant behavior. For example, the administration could be messaging students about COVID-19-safe alternatives to infection-prone behavior on breaks, creating more socially distant in-person events that students might prefer over going on their own trips, and having students quarantine for two weeks after Carnival, just to name a few possibilities.
+While individuals are responsible for their own actions, in order for the Carnegie Mellon community as a whole to stay safe, the university is responsible for creating policy and safe alternatives, not students. In the future, we can continue to have breaks while implementing a more concrete university policy to ensure safety.
+
+        We're testing a new look for The Tartan. Let us know what you think!
+
+        © The Tartan. 
+        Carnegie Mellon's Student Newspaper Since 1906.
+        
+
+Archives | 
+          Join the Staff |
+          Advertising |
+          About Us |
+          Contact Us
+
+
