@@ -1,0 +1,10 @@
+School_Name,Type_Bias,Granularity_Bias,Variance_Bias
+McGill,Negative,article_summary_var,0.004402377136752137
+McGill,Negative,full_article_var,1.4467712980607683e-05
+McGill,Negative,paragraph_summary_var,0.0008163726137477143
+McGill,Neutral,article_summary_var,0.01387803558527736
+McGill,Neutral,full_article_var,0.002712412527360999
+McGill,Neutral,paragraph_summary_var,0.005699940094985512
+McGill,Positive,article_summary_var,0.01254707429557693
+McGill,Positive,full_article_var,0.0027923990615942506
+McGill,Positive,paragraph_summary_var,0.006574598318570704
