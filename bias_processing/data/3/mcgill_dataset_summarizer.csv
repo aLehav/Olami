@@ -1,122 +1,236 @@
-Date,School,Keyword,Type,Full Article,Article Summary,Paragraph Summary
-2009-02-19,McGill,China,Positive,0.041835016835016836,0,0
-2009-02-19,McGill,China,Negative,0,0,-0.005000000000000003
-2009-02-19,McGill,China,Neutral,0.9581649831649832,1.0,0.995
-2009-03-16,McGill,China,Positive,0.14601078167115905,0.13333333333333333,0
-2009-03-16,McGill,China,Negative,0,0,0
-2009-03-16,McGill,China,Neutral,0.8539892183288409,0.8666666666666667,1.0
-2009-03-16,McGill,China,Positive,0.11463963963963965,0.006666666666666665,0.24666666666666665
-2009-03-16,McGill,China,Negative,0,0,0
-2009-03-16,McGill,China,Neutral,0.8853603603603604,0.9933333333333333,0.7533333333333334
-2009-03-23,McGill,China,Positive,0.17091398680684394,0,0.28750000000000003
-2009-03-23,McGill,China,Negative,0,0,0
-2009-03-23,McGill,China,Neutral,0.8290860131931561,1.0,0.7124999999999999
-2009-03-23,McGill,China,Positive,0.17091398680684394,0,0.28750000000000003
-2009-03-23,McGill,China,Negative,0,0,0
-2009-03-23,McGill,China,Neutral,0.8290860131931561,1.0,0.7124999999999999
-2009-03-26,McGill,China,Positive,0.1281696140738694,0,0
-2009-03-26,McGill,China,Negative,0,0,0
-2009-03-26,McGill,China,Neutral,0.8718303859261306,1.0,1.0
-2009-10-05,McGill,China,Positive,0.03788647342995168,0.10416666666666667,0.08368055555555556
-2009-10-05,McGill,China,Negative,0,0,0
-2009-10-05,McGill,China,Neutral,0.9621135265700483,0.8958333333333334,0.9163194444444445
-2009-10-08,McGill,China,Positive,0.09534380348333836,0,0.09333333333333334
-2009-10-08,McGill,China,Negative,0,0,0
-2009-10-08,McGill,China,Neutral,0.9046561965166616,1.0,0.9066666666666666
-2009-10-08,McGill,China,Positive,0.09534380348333836,0,0.09333333333333334
-2009-10-08,McGill,China,Negative,0,0,0
-2009-10-08,McGill,China,Neutral,0.9046561965166616,1.0,0.9066666666666666
-2009-11-03,McGill,China,Positive,0.050570721795211576,0.06,0
-2009-11-03,McGill,China,Negative,0,0,-0.10773809523809523
-2009-11-03,McGill,China,Neutral,0.9494292782047884,0.94,0.8922619047619048
-2010-01-25,McGill,China,Positive,0.03325041459369818,0.2,0.10432098765432098
-2010-01-25,McGill,China,Negative,0,0,0
-2010-01-25,McGill,China,Neutral,0.9667495854063018,0.8,0.895679012345679
-2010-02-13,McGill,China,Positive,0.10965447154471546,0.05,0
-2010-02-13,McGill,China,Negative,0,0,-0.011111111111111108
-2010-02-13,McGill,China,Neutral,0.8903455284552846,0.95,0.9888888888888889
-2010-10-25,McGill,China,Positive,0.049753817610960475,0.05,0.03243021346469622
-2010-10-25,McGill,China,Negative,0,0,0
-2010-10-25,McGill,China,Neutral,0.9502461823890396,0.95,0.9675697865353038
-2010-11-15,McGill,China,Positive,0.003522727272727278,0,0.036969696969696986
-2010-11-15,McGill,China,Negative,0,-0.3333333333333333,0
-2010-11-15,McGill,China,Neutral,0.9964772727272727,0.6666666666666667,0.963030303030303
-2011-01-22,McGill,China,Positive,0.09235192837465565,0.03125,0.06312499999999999
-2011-01-22,McGill,China,Negative,0,0,0
-2011-01-22,McGill,China,Neutral,0.9076480716253443,0.96875,0.936875
-2011-02-12,McGill,China,Positive,0.06371366728509585,0,0
-2011-02-12,McGill,China,Negative,0,-0.09999999999999999,-0.05416666666666664
-2011-02-12,McGill,China,Neutral,0.9362863327149041,0.9,0.9458333333333333
-2012-05-20,McGill,China,Positive,0,0.15000000000000002,0
-2012-05-20,McGill,China,Negative,-0.012245624745624753,0,-0.018749999999999996
-2012-05-20,McGill,China,Neutral,0.9877543752543753,0.85,0.98125
-2012-10-22,McGill,China,Positive,0.14602430555555557,0.05714285714285715,0.21250000000000002
-2012-10-22,McGill,China,Negative,0,0,0
-2012-10-22,McGill,China,Neutral,0.8539756944444444,0.9428571428571428,0.7875
-2013-01-24,McGill,China,Positive,0.07765615337043909,0.14448051948051946,0
-2013-01-24,McGill,China,Negative,0,0,0
-2013-01-24,McGill,China,Neutral,0.9223438466295609,0.8555194805194806,1.0
-2013-01-28,McGill,China,Positive,0.20826978114478112,0.5,0.12916666666666668
-2013-01-28,McGill,China,Negative,0,0,0
-2013-01-28,McGill,China,Neutral,0.7917302188552189,0.5,0.8708333333333333
-2013-06-25,McGill,China,Positive,0.013675444925444917,0,0
-2013-06-25,McGill,China,Negative,0,0,-0.12666666666666668
-2013-06-25,McGill,China,Neutral,0.9863245550745551,1.0,0.8733333333333333
-2014-09-22,McGill,China,Positive,0.14943898013750956,0.225,0.1666050903119868
-2014-09-22,McGill,China,Negative,0,0,0
-2014-09-22,McGill,China,Neutral,0.8505610198624904,0.775,0.8333949096880132
-2014-10-06,McGill,China,Positive,0.038873532623532624,0,0
-2014-10-06,McGill,China,Negative,0,-0.25,-0.06764705882352941
-2014-10-06,McGill,China,Neutral,0.9611264673764673,0.75,0.9323529411764706
-2015-11-30,McGill,China,Positive,0.13706802063185045,0.1,0.11666666666666665
-2015-11-30,McGill,China,Negative,0,0,0
-2015-11-30,McGill,China,Neutral,0.8629319793681496,0.9,0.8833333333333333
-2016-11-14,McGill,China,Positive,0.06876956376956378,0.016666666666666666,0.1087878787878788
-2016-11-14,McGill,China,Negative,0,0,0
-2016-11-14,McGill,China,Neutral,0.9312304362304362,0.9833333333333333,0.8912121212121212
-2016-11-28,McGill,China,Positive,0.11608436279167988,0.15,0.13775510204081634
-2016-11-28,McGill,China,Negative,0,0,0
-2016-11-28,McGill,China,Neutral,0.8839156372083201,0.85,0.8622448979591837
-2017-04-01,McGill,China,Positive,0.07246148459383753,0.03333333333333333,0.039
-2017-04-01,McGill,China,Negative,0,0,0
-2017-04-01,McGill,China,Neutral,0.9275385154061625,0.9666666666666667,0.961
-2017-11-06,McGill,China,Positive,0.1310983345358346,0.30000000000000004,0.1321332972582973
-2017-11-06,McGill,China,Negative,0,0,0
-2017-11-06,McGill,China,Neutral,0.8689016654641654,0.7,0.8678667027417026
-2018-03-26,McGill,China,Positive,0.12565645796989083,0.0625,0.10710362554112555
-2018-03-26,McGill,China,Negative,0,0,0
-2018-03-26,McGill,China,Neutral,0.8743435420301091,0.9375,0.8928963744588745
-2018-09-17,McGill,China,Positive,0.12208333333333332,0,0.037222222222222226
-2018-09-17,McGill,China,Negative,0,-0.025000000000000005,0
-2018-09-17,McGill,China,Neutral,0.8779166666666667,0.975,0.9627777777777777
-2018-10-01,McGill,China,Positive,0.0518474234099234,0,0.05833333333333333
-2018-10-01,McGill,China,Negative,0,0,0
-2018-10-01,McGill,China,Neutral,0.9481525765900766,1.0,0.9416666666666667
-2018-11-26,McGill,China,Positive,0.02362666069562621,0,0.03079858737753474
-2018-11-26,McGill,China,Negative,0,0,0
-2018-11-26,McGill,China,Neutral,0.9763733393043738,1.0,0.9692014126224653
-2018-11-26,McGill,China,Positive,0,0.25,0.03026315789473684
-2018-11-26,McGill,China,Negative,-0.021022727272727276,0,0
-2018-11-26,McGill,China,Neutral,0.9789772727272728,0.75,0.9697368421052631
-2019-11-19,McGill,China,Positive,0.042788461538461546,0,0.17838541666666669
-2019-11-19,McGill,China,Negative,0,0,0
-2019-11-19,McGill,China,Neutral,0.9572115384615385,1.0,0.8216145833333333
-2020-03-14,McGill,China,Positive,0.055697936814958084,0.25,0.02535894660894661
-2020-03-14,McGill,China,Negative,0,0,0
-2020-03-14,McGill,China,Neutral,0.944302063185042,0.75,0.9746410533910534
-2020-03-17,McGill,China,Positive,0.04787101787101787,0.125,0.1112870012870013
-2020-03-17,McGill,China,Negative,0,0,0
-2020-03-17,McGill,China,Neutral,0.9521289821289821,0.875,0.8887129987129987
-2020-09-18,McGill,China,Positive,0.12878787878787878,0.15000000000000002,0.09614624505928854
-2020-09-18,McGill,China,Negative,0,0,0
-2020-09-18,McGill,China,Neutral,0.8712121212121212,0.85,0.9038537549407115
-2022-02-14,McGill,China,Positive,0.14444191547284332,0.04545454545454545,0.19590781767252355
-2022-02-14,McGill,China,Negative,0,0,0
-2022-02-14,McGill,China,Neutral,0.8555580845271566,0.9545454545454546,0.8040921823274765
-2022-04-04,McGill,China,Positive,0.08734157046657048,0.2590909090909091,0.133863011988012
-2022-04-04,McGill,China,Negative,0,0,0
-2022-04-04,McGill,China,Neutral,0.9126584295334295,0.740909090909091,0.866136988011988
-2022-10-24,McGill,China,Positive,0.02067073170731707,0.2333333333333333,0.06228070175438598
-2022-10-24,McGill,China,Negative,0,0,0
-2022-10-24,McGill,China,Neutral,0.979329268292683,0.7666666666666667,0.9377192982456141
-2023-01-23,McGill,China,Positive,0.11393508953168045,0.05,0.1595959595959596
+date,school,keyword,article,article_neg,article_pos,article_neu,paragraph_neg,paragraph_pos,paragraph_neu,sentence_neg,sentence_pos,sentence_neu
+2009-02-19,McGill,China,"Human Rights Watch director weighs in on the role of the international community in Rwandan and Sudanese genocides
+International politics nullified domestic law in Sudan and Rwanda, sites of Africa’s most recent genocides, argued Georgette Gagnon, Executive Director of the Africa division of Human Rights Watch (HRW), at a lecture held by the McGill Centre for Human Rights and Legal Pluralism yesterday.
+“In our experience, politics trumps law every time,” Gagnon said. “Our advocacy at Human Rights Watch is about taking that into account – not giving into it, but to address it and give our recommendations credibility.”
+HRW is working in Africa to make politics accountable to law, thereby ensuring that human lives are not sacrificed in a larger political game. The organization performs strategic investigations to uncover human rights violations and hold oppressors accountable for their crimes.
+Gagnon suggested that political forces were at work in the international community’s reluctance to label the mass killings of nearly one million Rwandans in 1994 as a genocide. She listed Rwanda’s lack of political muscle, oil, gold or other resources; the United States’s recent withdrawal from Somalia; and an overriding sense of racism of the western world as possible causes for international apathy.
+A similar situation exists with the crisis in Sudan, according to Gagnon, who said United Nations Security Council members from China and Russia have perpetuated the crisis in Sudan because they have a political stake in the oil and arms business in the country, respectively.
+Gagnon criticized the international community’s impulse to deploy troops to conflict zones when alternative, non-violent methods could be more effective. She suggested that radio jamming – disrupting the signals that in Rwanda were used to spread racial hate and to communicate violent commands to troops – could have been a practical and effective method of intervention. The Pentagon ruled against the tactic, claiming the cost – $8,000 an hour – was too expensive.
+A law student voiced a concern commonly expressed in developing countries: that non-governmental organizations like HRW hand down universal principles, failing to account for unique political situations. HRW is currently criticized for urging the redress of current Rwandan ruler Paul Kagami, who they claim is keeping the region stable.  Kagami’s government killed 30,000 people in its early years after the genocide.
+“We don’t interfere with political decisions. All we can say is, impartially, if he is committing war crimes then he should be brought to trial,” Gagnon replied.
+Gagnon noted that HRW does work with grassroots organizations.
+“In Africa there are vibrant local human rights communities that are pushing for the same things we are – universal human rights – and we always try to reach out and connect to those.”
+She also acknowledged that politicians are forced to choose between peace and justice.
+“The law should be applied impartially. Our job is advocacy and redress, but the more practical and realistic we are, the more likely [our policies will be effective],” Gagnon said. “Thus we should acknowledge our compromise. We say there is no durable peace without justice.”
+A member of the audience noted that the work of human rights organizations is mainly reactive and reports violations, asking how groups work to prevent human rights abuse.
+“Everything we do is preventive. It’s corruption, lack of access to resources, nepotism, social and economic violations of rights which lead to this kind of genocide,” Gagnon said.
+ Economic and social legal violations are predictors of political abuse, she added, which is where HRW can help.
+",0.134,0.0,0.866,0.09,0.043,0.867,0.159,0.095,0.746
+2009-03-16,McGill,China,"Green Week speaker pushes for simple living
+To hear audio from the walking tour of Chinatown, go to the multimedia blog at mcgilldaily.com
+The pursuit of happiness should trump our desire for consumption, argued Professor Louis Chauvin during his Wednesday talk as part of McGill Green Week, hosted by the Science Undergraduate Society.
+Chauvin, a management professor and President of Le Réseau Québécois pour la simplicité volontaire, an organization which promotes simplistic consumption, pointed directly to over-consumption as endangering our planet.
+“For the past 14 years, I have asked myself why we are consciously destroying the carrying capacity of the Earth and what is needed for us to stop,” Chauvin told the audience.
+Chauvin’s deep interest in consumption patterns and the environment inspired him to reach out to students, and teach them about responsible consumption and sustainability.
+“I am a firm believer in education as a transformative process,” Chauvin said.
+According to Chauvin, our society suffers from chronic dissatisfaction – a constant need for more – which harms the environment. He noted that many believe happiness is based on how much one consumes, which leads to over-consumption and depletes the world’s resources.
+“People seek the high that comes with pleasure and are convinced that this sensation is the same as happiness,” explained Chauvin. “Whether it is gambling, excessive shopping, or a meaningless relationship, we give into these addictions and rely on such external factors for happiness.”
+Chauvin added that usually as one consumes more and more, one requires a larger quantity of goods to maintain the excitement. He contrasted this attitude to pure happiness, which is rewarding for longer periods of time and leaves one with a feeling of fullness, without materialistic desires.
+ “The pursuit of happiness is the ultimate goal for humans,” Chauvin said. “We want to be happy and we think certain commodities will make us happy or happier. The reality is, happiness comes from inside and is detached from consumption.”
+During the question and answer period, one student asked whether the current economic crisis would act as a catalyst for responsible consumption.
+“There is definitely an increased interest in voluntary simplicity,” answered Chauvin. “People are unable to get solutions from economists and politicians. Instead, they are looking for alternative ways to adjust their lifestyles.”
+Later, one student asked whether or not a federal framework was needed for a real reduction in consumption.
+“Even with federal frameworks, many societal issues, such as racism, are still present,” Chauvin said. “What we need to do is target individuals and promote personal transformations.”
+Chauvin concluded with a message of hope and called for a change in lifestyle to save what is left of the planet.
+“Our planet can only handle so much and so, simplicity is inevitable,” added Chauvin. “The question is, will it be voluntary or involuntary?”
+",0.039,0.097,0.864,0.199,0.152,0.649,0.054,0.156,0.79
+2009-03-16,McGill,China,"Campaign engages students with nearby neighbourhoods
+To hear the whole Green Week talk by Professor Chauvin on consumption and the environment, go to the multimedia blog at mcgilldaily.com
+McGill students got to know different parts of the Montreal community last week as part of the Office of Social Equity and Diversity Education (SEDE)’s “Burst Your Bubble 2009.”
+Events included walking tours of Parc-Extension and Chinatown, as well as visits to Kanien’kehaka Onkwawén:na Raotitiohkwa Mohawk Language and Cultural Center in Khanawake and the Multi-Ethnic Association for the Integration of Persons with Disabilities (AMEIPH) just south of Little Italy.
+“With this weather we can all get stuck in the ‘McGill bubble’: [the area bounded by] Sherbrooke, Pine, University, and Peel. It is so convenient to stay in that little square,” said Adama Kaba, SEDE’s Administrative Coordinator. “But as a university student you need concrete experiences. You can come here and get As, but if you want hands-on experience you need to get involved.”
+This year’s campaign included events at Macdonald campus for the first time, and allowed McGill students to interact with Montreal’s least understood community groups. The trip to the South Shore was especially ambitious.
+“People don’t go out to Khanawake,” said Kaba. “There is still a lot of prejudice attached to the First Nations people. But the visit to Khanawake was the first to be completely filled. By going out there and meeting with the organization, we hope students can learn more about the community and how they can be involved.”
+SEDE is staffed by a young, diverse, and enthusiastic group that joined students on Thursday evening’s visit to the AMEIPH.
+“We wanted people to learn more about the issue and about the specific challenges some disabled people are faced with,” said Kaba. “If you are an immigrant with a disability, and you don’t speak the language, how do you find the services that are available to you?”
+Although Thursday’s visit showed low student turnout, Kaba insists that “Burst Your Bubble” is becoming increasingly popular.
+“This year’s response has been even stronger and the numbers attending the visits have doubled. We have already received feedback about our walking tours and people really enjoyed them. We also receive feedback from community organizations that let us know when students become involved with them.”
+Last year’s “Burst Your Bubble” campaign allowed McGill students to learn more about Montreal’s past with a visit to Écomusée du fier monde, a museum of industrial and working class history at the corner of Amherst and Ontario. Students also learned to appreciate Montreal’s diversity with visits to the Côte-des-Neiges Black Community Association and Kapit Bisig Filipino Community Centre.
+Food appears to be a key incentive in drawing support from students, with community organizations preparing a few dishes for each visit. Students visiting the AMEIPH discussed the organization’s objectives over an elaborate, multi-ethnic meal.
+As well, the cafeterias in Bishop Hall, Douglas Hall, and RVC served “finger food from different countries” on March 5.
+SEDE will wrap up the multi-week campaign with a “Community Connections” dinner and film screening in partnership with Radio Canada International on March 18, although the RSVP deadline has passed.
+",0.0,0.034,0.966,0.026,0.054,0.92,0.016,0.079,0.905
+2009-03-23,McGill,China,"North America’s smallest dinosaur uncovered
+EDMONTON – It was an adventure that began back in 1982, but 27 years later, Philip Currie, a paleontologist and biological sciences professor at the University of Alberta (UofA), is able to confirm that he and his colleague have identified the smallest dinosaur known to have roamed North America.
+The discovery and identification of the carnivorous Hesperonychus elizabethae – a species so small it would fit in the palm of one’s hand – will be published in Proceedings of the National Academy of Sciences this month.
+Originally thought to be a bone fragment from a lizard, the piece was found by a University of Calgary student hired by the UofA to work in Alberta’s Dinosaur Provincial Park.
+“She was looking mostly for smaller animals, and the small fossils she found, she thought probably belonged to a lizard,” said Currie, explaining that it wasn’t until the late nineties, when a feathered skeleton named Microraptor was uncovered in China, that a connection was made.
+“He realized that [the bone] is almost identical to the one in China in terms of hip structure,” Currie said.
+Despite missing a complete skeleton, the ability to compare their fragment to the specimen in China allowed for a concise comparison of each structure.
+While paleontologists have discovered many skeletons in Alberta over the years, Currie explained that many of the smaller specimens remain incomplete, which limited the field of study.
+“[Big skeletons] only give you one side of the story. [They] preserve a lot more easily than small things because you don’t have things eating them, you don’t have slivers that are ripping the pieces apart.”
+Currie’s discovery proves that there is still a lot to be learned.
+“We want to know what’s going on with the other side of the ecosystem; all the small animals and that includes not just dinosaurs, but all the things living with the dinosaurs.” he said.
+For Currie, Hesperonychus elizabethae is the first of many skeletons that will eventually reach the surface.
+“I’m willing to bet that in a couple years, we’re going to have more small dinosaur species than big dinosaurs species.”
+– Kirsten Goruk, (CUP Alberta and Northern Bureau Chief)
+SFU to privatize residences
+BURNABY – B.C.’s Simon Fraser University (SFU) is looking to contract a private company to fund, manage, and maintain on-campus student residences.
+Citing a lack of capital available for major repairs to residence buildings and a desire to increase capacity, the university wants to avoid taking a loan out to complete these projects.
+“We’re just looking for creative ways to try and deal with residences, “said Pat Hibbits, SFU’s VP Finance.
+Currently, SFU on-campus residences house about nine per cent of students, a figure SFU hopes to see hit 15 per cent while doubling on-campus housing space over the next five years.
+Thompson Rivers University (TRU) in Kamloops, B.C., and the University of Ottawa already have privatized residences.
+“Universities are turning the housing around to the private sector due to the fact that the price to operate is definitely high,” said Mark Woloski, TRU’s residence manager.
+“We can control the prices we offer the students because we’re not paying a hefty wage to all our staff, so that’s probably why a lot of universities are changing to private sectors – because the cost of operations are skyrocketing, being a union-run facility.”
+In terms of cost to students, Woloski claimed it is “virtually the same” as off-campus housing.
+“We follow everyone else’s lead. We keep in regular communication with all the other on-campus housing units throughout B.C., and we don’t like pricing ourselves out of the market or wanting to gouge,” he said.
+Nichole DeMichelis, a second-year political science student living in the McTaggart-Cowan residence, was optimistic about what privatization could bring to the residences.
+“SFU is lacking a lot of funding, and one of the big priorities is to build more residences to secure that sense of community,” DeMichelis said. “I would be all for having new buildings with proper kitchens. I think it sounds like a great idea.”
+– David Dyck, The Peak (CUP)
+Student finds tuition in her Tim’s cup
+TORONTO – At best, Khalin Elliott was hoping for a free snack when she checked under the rim of her Tim Horton’s coffee cup last Wednesday. But instead of a free pastry, the first-year media student found a tiny dollar sign followed by a big number under the rim of her medium hot chocolate – $10,000, courtesy of the Tim Hortons Roll Up The Rim contest.
+The oldest of four girls, Elliot has relied on government funding and a competitive entrance scholarship to cover her tuition and residence fees this year.
+“There’s six of us [in my family] so we go through struggles and stuff like that. We’re kind of in the middle in a way, like most big families are, so getting this is definitely going to help with school,” Elliott said.
+She plans to spend her money on a new computer because her current MacBook runs slowly, and she wants something to handle advanced graphics work.
+“Everything’s computer-based in our classes,” she explained.
+The leftover cash will pay her tuition for second year.
+Elliott recalled her surprise when she uncovered her prize.
+“I had to get them to read it over to make sure I wasn’t going crazy,” she said, claiming that she never wins anything.
+Elliott explained that she and her friends always take a break during their three-hour visual studies class, usually opting for a quick trip to the nearby Tim Hortons. All three of them ordered hot chocolate.
+Her two friends said they were thrilled she won – even though they could have won if they had lined up in a different order.
+According to Lucy Rocque, the employee at Tim Horton’s who handed Elliot the winning cup, more customers have been getting their coffee fix at her Tim’s since the $10,000 win, hoping to get lucky. Last Friday, someone stopped by to tell them they had won a $100 Tim Card from that location.
+– Aleysha Haniff, The Eyeopener (CUP)
+Alberta college launches free nursing program
+EDMONTON – Bow Valley College, an Albertan institution focusing on English as a second language (ESL) training, is introducing a free 20-month pilot program designed to help immigrants with a nursing degree upgrade their skills and find employment in Canada.
+“It’s designed to take people who have nursing from their own country and give them the language and Canadian health cultural knowledge that they need to be able to practice in the Canadian health system,” said Isabel Gibbins, Dean of ESL and Languages at the college, explaining that many candidates’ English levels proved to be a barrier during the qualifying exam.
+The program was first introduced at NorQuest College in Edmonton, but once the provincial government was aware of its success, they introduced it to other institutions. It resembles the usual training for nurses, though it is shorter because many of the nurses already have background knowledge.
+Gibbins said the program intends to create a link between those who have ventured to Canada in search of employment, and the Canadian services that are seeking that very expertise.
+“We really feel that there are a lot of people who have skills from their country that they aren’t able to use in Canada,” she said. “One of the things that’s important to us is to be able to work on providing some of those transition courses.”
+Initial funding for the Bow College program will come from Alberta Employment and Immigration, but once the pilot period ends, Gibbins hopes to sustain it through enrolment fees. They intend to advertise it at current ESL classes, health-care facilities, and the college’s open house.
+– K.G.
+Undergrad-made iPhone app aimed at students
+FREDERICTON – While many students are wondering what they’re going to do with their degrees after they get out of school, third-year computer science student Jason Brennan has already put his education to good use.
+Brennan, a 20-year-old student at the University of New Brunswick, designed an application called Keener for the Apple iPhone to help students keep track of their grades and organize their school work.
+“You put in your courses when you start the semester,” said Brennan. “You put in your homework assignments, your quizzes, and the labs that are coming up. You put in the due dates, and it gives you a list of what’s due, what’s overdue, and what’s due next week. And when you get your tests and assignments back you just punch in your marks and it keeps track of your overall grades for the semester.”
+Keener can also calculate weighted grades as classes progress.
+Brennan, who owns an iPhone, developed Keener between November and January, and cited his own university experience as his inspiration.
+“I came up with this because I am not a keener at all,” laughed Brennan. “I’m not very studious and I find that I’m a lot more organized if I have a way to record everything.”
+Brennan found traditional agendas problematic, but wanted an organizer that he could keep with him at all times. Developing Keener allowed him to resolve this problem, and learn more about computer programming, one of his interests outside of school.
+Keener went on sale January 25 for $4.99. Brennan gets 70 per cent, or $3.50, from each sale. The other 30 per cent goes to Apple and the company handles all the billing and shipping.
+– Cameron Mitchell, The Brunswickan (CUP)
+",0.0,0.06,0.94,0.016,0.071,0.914,0.018,0.126,0.856
+2009-03-23,McGill,China,"North America’s smallest dinosaur uncovered
+EDMONTON – It was an adventure that began back in 1982, but 27 years later, Philip Currie, a paleontologist and biological sciences professor at the University of Alberta (UofA), is able to confirm that he and his colleague have identified the smallest dinosaur known to have roamed North America.
+The discovery and identification of the carnivorous Hesperonychus elizabethae – a species so small it would fit in the palm of one’s hand – will be published in Proceedings of the National Academy of Sciences this month.
+Originally thought to be a bone fragment from a lizard, the piece was found by a University of Calgary student hired by the UofA to work in Alberta’s Dinosaur Provincial Park.
+“She was looking mostly for smaller animals, and the small fossils she found, she thought probably belonged to a lizard,” said Currie, explaining that it wasn’t until the late nineties, when a feathered skeleton named Microraptor was uncovered in China, that a connection was made.
+“He realized that [the bone] is almost identical to the one in China in terms of hip structure,” Currie said.
+Despite missing a complete skeleton, the ability to compare their fragment to the specimen in China allowed for a concise comparison of each structure.
+While paleontologists have discovered many skeletons in Alberta over the years, Currie explained that many of the smaller specimens remain incomplete, which limited the field of study.
+“[Big skeletons] only give you one side of the story. [They] preserve a lot more easily than small things because you don’t have things eating them, you don’t have slivers that are ripping the pieces apart.”
+Currie’s discovery proves that there is still a lot to be learned.
+“We want to know what’s going on with the other side of the ecosystem; all the small animals and that includes not just dinosaurs, but all the things living with the dinosaurs.” he said.
+For Currie, Hesperonychus elizabethae is the first of many skeletons that will eventually reach the surface.
+“I’m willing to bet that in a couple years, we’re going to have more small dinosaur species than big dinosaurs species.”
+– Kirsten Goruk, (CUP Alberta and Northern Bureau Chief)
+SFU to privatize residences
+BURNABY – B.C.’s Simon Fraser University (SFU) is looking to contract a private company to fund, manage, and maintain on-campus student residences.
+Citing a lack of capital available for major repairs to residence buildings and a desire to increase capacity, the university wants to avoid taking a loan out to complete these projects.
+“We’re just looking for creative ways to try and deal with residences, “said Pat Hibbits, SFU’s VP Finance.
+Currently, SFU on-campus residences house about nine per cent of students, a figure SFU hopes to see hit 15 per cent while doubling on-campus housing space over the next five years.
+Thompson Rivers University (TRU) in Kamloops, B.C., and the University of Ottawa already have privatized residences.
+“Universities are turning the housing around to the private sector due to the fact that the price to operate is definitely high,” said Mark Woloski, TRU’s residence manager.
+“We can control the prices we offer the students because we’re not paying a hefty wage to all our staff, so that’s probably why a lot of universities are changing to private sectors – because the cost of operations are skyrocketing, being a union-run facility.”
+In terms of cost to students, Woloski claimed it is “virtually the same” as off-campus housing.
+“We follow everyone else’s lead. We keep in regular communication with all the other on-campus housing units throughout B.C., and we don’t like pricing ourselves out of the market or wanting to gouge,” he said.
+Nichole DeMichelis, a second-year political science student living in the McTaggart-Cowan residence, was optimistic about what privatization could bring to the residences.
+“SFU is lacking a lot of funding, and one of the big priorities is to build more residences to secure that sense of community,” DeMichelis said. “I would be all for having new buildings with proper kitchens. I think it sounds like a great idea.”
+– David Dyck, The Peak (CUP)
+Student finds tuition in her Tim’s cup
+TORONTO – At best, Khalin Elliott was hoping for a free snack when she checked under the rim of her Tim Horton’s coffee cup last Wednesday. But instead of a free pastry, the first-year media student found a tiny dollar sign followed by a big number under the rim of her medium hot chocolate – $10,000, courtesy of the Tim Hortons Roll Up The Rim contest.
+The oldest of four girls, Elliot has relied on government funding and a competitive entrance scholarship to cover her tuition and residence fees this year.
+“There’s six of us [in my family] so we go through struggles and stuff like that. We’re kind of in the middle in a way, like most big families are, so getting this is definitely going to help with school,” Elliott said.
+She plans to spend her money on a new computer because her current MacBook runs slowly, and she wants something to handle advanced graphics work.
+“Everything’s computer-based in our classes,” she explained.
+The leftover cash will pay her tuition for second year.
+Elliott recalled her surprise when she uncovered her prize.
+“I had to get them to read it over to make sure I wasn’t going crazy,” she said, claiming that she never wins anything.
+Elliott explained that she and her friends always take a break during their three-hour visual studies class, usually opting for a quick trip to the nearby Tim Hortons. All three of them ordered hot chocolate.
+Her two friends said they were thrilled she won – even though they could have won if they had lined up in a different order.
+According to Lucy Rocque, the employee at Tim Horton’s who handed Elliot the winning cup, more customers have been getting their coffee fix at her Tim’s since the $10,000 win, hoping to get lucky. Last Friday, someone stopped by to tell them they had won a $100 Tim Card from that location.
+– Aleysha Haniff, The Eyeopener (CUP)
+Alberta college launches free nursing program
+EDMONTON – Bow Valley College, an Albertan institution focusing on English as a second language (ESL) training, is introducing a free 20-month pilot program designed to help immigrants with a nursing degree upgrade their skills and find employment in Canada.
+“It’s designed to take people who have nursing from their own country and give them the language and Canadian health cultural knowledge that they need to be able to practice in the Canadian health system,” said Isabel Gibbins, Dean of ESL and Languages at the college, explaining that many candidates’ English levels proved to be a barrier during the qualifying exam.
+The program was first introduced at NorQuest College in Edmonton, but once the provincial government was aware of its success, they introduced it to other institutions. It resembles the usual training for nurses, though it is shorter because many of the nurses already have background knowledge.
+Gibbins said the program intends to create a link between those who have ventured to Canada in search of employment, and the Canadian services that are seeking that very expertise.
+“We really feel that there are a lot of people who have skills from their country that they aren’t able to use in Canada,” she said. “One of the things that’s important to us is to be able to work on providing some of those transition courses.”
+Initial funding for the Bow College program will come from Alberta Employment and Immigration, but once the pilot period ends, Gibbins hopes to sustain it through enrolment fees. They intend to advertise it at current ESL classes, health-care facilities, and the college’s open house.
+– K.G.
+Undergrad-made iPhone app aimed at students
+FREDERICTON – While many students are wondering what they’re going to do with their degrees after they get out of school, third-year computer science student Jason Brennan has already put his education to good use.
+Brennan, a 20-year-old student at the University of New Brunswick, designed an application called Keener for the Apple iPhone to help students keep track of their grades and organize their school work.
+“You put in your courses when you start the semester,” said Brennan. “You put in your homework assignments, your quizzes, and the labs that are coming up. You put in the due dates, and it gives you a list of what’s due, what’s overdue, and what’s due next week. And when you get your tests and assignments back you just punch in your marks and it keeps track of your overall grades for the semester.”
+Keener can also calculate weighted grades as classes progress.
+Brennan, who owns an iPhone, developed Keener between November and January, and cited his own university experience as his inspiration.
+“I came up with this because I am not a keener at all,” laughed Brennan. “I’m not very studious and I find that I’m a lot more organized if I have a way to record everything.”
+Brennan found traditional agendas problematic, but wanted an organizer that he could keep with him at all times. Developing Keener allowed him to resolve this problem, and learn more about computer programming, one of his interests outside of school.
+Keener went on sale January 25 for $4.99. Brennan gets 70 per cent, or $3.50, from each sale. The other 30 per cent goes to Apple and the company handles all the billing and shipping.
+– Cameron Mitchell, The Brunswickan (CUP)
+",0.0,0.06,0.94,0.016,0.071,0.914,0.018,0.126,0.856
+2009-03-26,McGill,China,"McGill launched the Institute for the Study of International Development (ISID) on Monday with an inaugural conference focusing on the future of development.  ISID will absorb the existing Centre for Developing Areas Studies (CDAS) into its broader mandate to renew energy for development in a changing global context.
+ Like CDAS, ISID will continue to be committed to multidisciplinary research, but with renewed emphasis on accountability and evidenced-based policy-making. It will eventually become home to undergraduate programs in International Development Studies, African Studies, Middle Eastern Studies and Latin American and Caribbean Studies, as well as a new Development Studies option at the Master’s level.
+Phillip Oxhorn, the ISID Director, stressed that the energy of youth interested in development figures centrally in the new institute.
+“ISID brings under one roof what universities can uniquely do while also capturing the energy and commitment of young people,” he said, explaining that the institute is a response to changes in the global order.
+ Among those present was David Malone, President of the International Development Research Centre welcomed the launch of the institute by emphasizing the importance of their goal.
+“Development is a dead serious business and should be treated with the seriousness it deserves,” he said, adding that it would be important for the ISID to break from Canadian precedent by sharing its success stories and disseminating its work more widely.
+ The evening’s visiting keynote from India, Dr. Pratap Bhanu Mehta, President of the Centre for Policy Research in New Delhi, pointed to the timeliness of the ISID given the rise of China and India.
+“It will not be a shift without conflict,” he said. “Both have a sense of growth and entitlement, they are not negligible.”
+Mehta expressed hope that development policy-makers and practitioners to be more critical of the various assumptions held within the field, and called on the development community to be more aware of state actions.
+“The most representative and participatory states are not necessarily the most responsive,” he said.
+ Other attendees at the Institute launch include McGill President Heather Munro-Blum, McGill Dean of Arts Christopher Manfredi, Canadian International Development Agency President Margaret Briggs, and International Development Research Centre President David Malone, the Right Honourable Joe Clark.
+Roughly seventy people – mostly academics and practitioners – were present for the opening ceremonies at the Omni Hotel, with more joining in on Tuesday panels offering perspectives from donor agencies, non-state actors in development, various development institutions, and from youth practitioners, lasting throughout the day.
+In his keynote address, Save the Children CEO David Morley acknowledged the privilege of speaking about poverty while conference delegates enjoyed a decadent three-course catered lunch.
+Adam Matheson, U3 International Development studies commented on the elegance of the lunch.
+“I understand the need to have a professional, formal conference to attract important speakers and guests; but a lavish 3 course meal while we listened to statistics on world hunger and squandered aid money seemed a little ironic.”
+",0.0,0.0,1.0,0.093,0.0,0.907,0.041,0.132,0.827
+2009-10-05,McGill,China,"Chinese immigrant workers awarded $164,000 in damages
+The Quebec Human Rights Commission ruled this September that 15 Chinese workers should receive $164,000 in damages from their employer, Calego International, for racial discrimination in the workplace. It is the heaviest fine to be levied by the Commission in a human rights case to date.
+The Commission asked that $10,000 be paid in moral and punitive damages to each worker and $5,000 paid to two workers who were forcibly thrown off the company’s premises in plain view of co-workers.
+The incident took place in July 2006, when a group of 40 employees were called into a meeting with Calego International’s president, Stephen Rapps. The workers testified to the Commission that Rapps yelled at them, saying, “You Chinese eat like pigs!”
+He Yong Han, a former employee and Chinese immigrant now residing in Montreal, reported to The Daily that Rapps told the workers to wash themselves daily, and that they were no longer in China.
+He said that Rapps chastised the workers for unsanitary work conditions, warning them not to get urine on the floor when using the toilet.
+Of all the employees at Calego International, the Chinese workers were the only ones who were called to the meeting.
+He reported further that workers walked out immediately after, returning the next day to demand a written apology from Rapps, a cleaner work environment (workers say that at the time, there were no janitorial staff working), and compensation for what they saw as discriminatory actions. The demands were turned down, leading many of the workers to quit their jobs.
+The workers then filed a complaint through the Center for Research-Action on Race Relations (CRARR).
+Calego International is a Montreal-based children’s backpack and accessories manufacturer. Rapps, a supervisor, and Agence Vincent, the placement agency through which the Chinese workers were hired, will share the payment of damages.
+Julius Grey, the lawyer who represents Calego International, has denied that the incident took place.
+Despite the fact that the fine is the largest sum that the Quebec Human Rights Commission has recommended in a racism case, Fo Niemi of CRARR, who helped these workers file their complaint, stated that the amount is less significant when the amount of damages awarded to each individual worker is considered.
+“This may be why discrimination still goes on, because if we had the kind of damages awarded as in the United States, where we’re talking about hundreds of thousands of dollars, many people would think twice before committing racial discrimination,” Niemi said.
+The former Calego employees have received support from the Montreal Chinese community, in the form of encouragement, assistance, and monetary aid. The Montreal Chinese Cultural Centre helped the workers find lawyers and gather information for their case.
+Niemi notes that very few complaints are filed from people of Asian backgrounds, although Asian workers are a large number of the immigrant workers who are often forced to work in substandard conditions.
+",0.0,0.13,0.87,0.099,0.13,0.772,0.094,0.066,0.84
+2009-10-08,McGill,China,"Nobel Peace Prize winner emphasizes the importance of compassion
+This Saturday, His Holiness the 14th Dalai Lama made two presentations in Montreal, one to a 500-person invite-only event hosted by McGill’s Faculty of Education, and a second to a crowd of 14,000 people at the Bell Centre.
+The 74-year-old Nobel Peace Prize winner felt compelled to request a private audience with education students after he learned of the provincial government’s introduction of a controversial ethics and religious culture class to primary and secondary students throughout Quebec.
+During both addresses, the Dalai Lama emphasized the need for a balance between intellectualized faith and secular ethics.
+“His Holiness was interested in speaking with students involved to support the notion that human values, ethical issues, and respect for religious and secular traditions is a positive initiative,” said education professor Spencer Boudreau, McGill’s ombudsperson and the main organizer of the event. “[Religion] is part of our culture and history; it’s a powerful force in the world [that] we’ve neglected,” Boudreau said.
+Due to the limited tickets available for the McGill talk, the McGill organizing committee decided to stream the two-hour event on learnquebec.org, where it is still available to site users.
+During the McGill address, the Dalai Lama stressed to education students that instilling a positive religious tolerance in youth was critical for a compassionate society.
+“Please carry your profession with sincere motivation and a sense of global responsibility,” the Dalai Lama said. “At least, with some aim or goal [that] out of this century, a more compassionate world [will come].”
+Mitchell Miller, the president of the Education Undergraduate Society, had the opportunity to sit with the Dalai Lama. Miller was selected to thank His Holiness on behalf of the anglophone universities in Quebec.
+“Sometimes it feels like there is a lot of unnecessary self-deprecation among students in this faculty. [The Dalai Lama’s visit] was a reaffirmation for us as educators of the power that we can have,” Miller said.
+Heather Monroe-Blum served as the master of ceremonies.
+Later that day, during his presentation at the Bell Centre, His Holiness asserted that he had no political or spiritual agenda. Instead, he hoped to articulate the need of shared links between humanity, to be compassionate, and work to make the world a better place.
+“I am talking as a human being to another human being. Not as a monk, Buddhist, or Tibetan,” he said.
+Nonetheless, the event took on a political tone as Chinese and Uyghur protesters assembled outside. Tibet has been administered and controlled by the People’s Republic of China since it occupied the territory in 1950. The Dalai Lama, recognized as the exiled political leader of Tibet, fled the territory in 1959 and is seen as a threat to the national identity and integrity of China.
+“It’s our country. We love it,”one Chinese protester said, standing calmly with several others in objection to the Dalai Lama’s visit to Montreal. A couple of Tibetans yelled at them to leave Canada and go back to China.
+Uyghurs, a Muslim ethnic minority from Western China, also demonstrated in solidarity with the Tibetans. They called on China to recognize their human rights, stating that they were “the other Tibetans.”
+",0.104,0.121,0.775,0.141,0.049,0.81,0.029,0.173,0.798
+2009-10-08,McGill,China,"Nobel Peace Prize winner emphasizes the importance of compassion
+This Saturday, His Holiness the 14th Dalai Lama made two presentations in Montreal, one to a 500-person invite-only event hosted by McGill’s Faculty of Education, and a second to a crowd of 14,000 people at the Bell Centre.
+The 74-year-old Nobel Peace Prize winner felt compelled to request a private audience with education students after he learned of the provincial government’s introduction of a controversial ethics and religious culture class to primary and secondary students throughout Quebec.
+During both addresses, the Dalai Lama emphasized the need for a balance between intellectualized faith and secular ethics.
+“His Holiness was interested in speaking with students involved to support the notion that human values, ethical issues, and respect for religious and secular traditions is a positive initiative,” said education professor Spencer Boudreau, McGill’s ombudsperson and the main organizer of the event. “[Religion] is part of our culture and history; it’s a powerful force in the world [that] we’ve neglected,” Boudreau said.
+Due to the limited tickets available for the McGill talk, the McGill organizing committee decided to stream the two-hour event on learnquebec.org, where it is still available to site users.
+During the McGill address, the Dalai Lama stressed to education students that instilling a positive religious tolerance in youth was critical for a compassionate society.
+“Please carry your profession with sincere motivation and a sense of global responsibility,” the Dalai Lama said. “At least, with some aim or goal [that] out of this century, a more compassionate world [will come].”
+Mitchell Miller, the president of the Education Undergraduate Society, had the opportunity to sit with the Dalai Lama. Miller was selected to thank His Holiness on behalf of the anglophone universities in Quebec.
+“Sometimes it feels like there is a lot of unnecessary self-deprecation among students in this faculty. [The Dalai Lama’s visit] was a reaffirmation for us as educators of the power that we can have,” Miller said.
+Heather Monroe-Blum served as the master of ceremonies.
+Later that day, during his presentation at the Bell Centre, His Holiness asserted that he had no political or spiritual agenda. Instead, he hoped to articulate the need of shared links between humanity, to be compassionate, and work to make the world a better place.
+“I am talking as a human being to another human being. Not as a monk, Buddhist, or Tibetan,” he said.
+Nonetheless, the event took on a political tone as Chinese and Uyghur protesters assembled outside. Tibet has been administered and controlled by the People’s Republic of China since it occupied the territory in 1950. The Dalai Lama, recognized as the exiled political leader of Tibet, fled the territory in 1959 and is seen as a threat to the national identity and integrity of China.
+“It’s our country. We love it,”one Chinese protester said, standing calmly with several others in objection to the Dalai Lama’s visit to Montreal. A couple of Tibetans yelled at them to leave Canada and go back to China.
+Uyghurs, a Muslim ethnic minority from Western China, also demonstrated in solidarity with the Tibetans. They called on China to recognize their human rights, stating that they were “the other Tibetans.”
+",0.104,0.121,0.775,0.141,0.049,0.81,0.029,0.173,0.798
