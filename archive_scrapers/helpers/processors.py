@@ -3,10 +3,13 @@ from datetime import datetime
 import pandas as pd
 from helpers.queries import mention_tracker
 import re
+import nltk
 
-# Remove specific parts of text from a string
-def text_removal_processing(removable_string): 
-    return lambda text: text.replace(removable_string, "\n")
+# Ensure wordnet is downloaded
+nltk.download('wordnet')
+
+# Using the project root path for accessing the journal data
+project_root = os.path.normpath("c:\\Users\\stacy\\Desktop\\Olami Project\\Olami")
 
 def schools_pipeline_query_to_csv(school_names, pipeline, query, csv_file=None):
     if os.path.exists(csv_file):
@@ -16,17 +19,20 @@ def schools_pipeline_query_to_csv(school_names, pipeline, query, csv_file=None):
     data = []
     dates = []
     for school_name in school_names:
-        directory = f"journal_data/txt/{school_name}"
+        # Construct directory path using os.path.join for better compatibility
+        directory = os.path.join(project_root, "journal_data", "txt", school_name)
         for filename in os.listdir(directory):
             if filename.endswith('.txt'):
                 filepath = os.path.join(directory, filename)
                 date_obj = datetime.strptime(filename[:-4], '%Y_%m_%d')
                 dates.append(date_obj)
-
-                with open(filepath, 'r', encoding="utf8") as file:
-                    contents = file.read()
-                count = mention_tracker(contents, pipeline, query)
-                data.append({'school': school_name, 'date': date_obj, 'count': 1 if count > 0 else 0, 'school_year': get_school_year(date_obj)})
+                try:
+                    with open(filepath, 'r', encoding="utf8") as file:
+                        contents = file.read()
+                    count = mention_tracker(contents, pipeline, query)
+                    data.append({'school': school_name, 'date': date_obj, 'count': 1 if count > 0 else 0, 'school_year': get_school_year(date_obj)})
+                except Exception as e:
+                    print(f"Error reading {filepath}: {e}")
 
     df = pd.DataFrame(data)
     df['month'] = df['date'].dt.to_period('M')
