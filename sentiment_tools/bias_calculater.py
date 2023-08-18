@@ -6,10 +6,10 @@ Average these values (add functionality to take max as well) and assume this to 
 Store the bias for a given school as a csv with the columns of School_Name, Israel_Bias, Palestine_Bias, India_Bias, China_Bias
 Save a new csv with this entry, or load in a csv of past schools with these columns and add this row to the bottom
 """
-method = "mean_avg"
+method = "scaled_diff_avg"
 sentiment_type = "summarizer"
 sentiment_path_portion = "3" if sentiment_type == "summarizer" else "2/nltk_sia"
-output_path = f"bias_processing/data/4/bias_{method}.csv"
+output_path = f"bias_processing/data/4/au_poli_bias_{method}.csv"
 
 from statistics import mean
 import numpy as np
@@ -47,15 +47,16 @@ import os
 if os.path.exists(output_path):
     os.remove(output_path)
 
-for SCHOOL in ["LIU","Georgetown","CMU","AU","USC","York"]:
+# for SCHOOL in ["LIU","Georgetown","CMU","AU","USC","York"]:
+for SCHOOL in ['AU']:
 
-    data_path = f"bias_processing/data/{sentiment_path_portion}/{SCHOOL.lower()}_dataset_{sentiment_type}.csv"
+    data_path = f"bias_processing/data/{sentiment_path_portion}/{SCHOOL.lower()}_dataset_{sentiment_type}.poli.csv"
 
     # Read the data from the CSV file
     df = pd.read_csv(data_path)
 
     # Define the keywords and sentiments to be processed
-    keywords = ['Israel', 'Palestine', 'India', 'China']
+    keywords = ['conservative','Democrat','liberal','Republican']
     sentiments = ['pos', 'neg', 'neu']
 
     # Initialize a dictionary to store the bias for each keyword and sentiment
