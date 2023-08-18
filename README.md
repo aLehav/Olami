@@ -6,7 +6,7 @@ All code present is the code used to generate all data and results both in this 
 
 ## Directory
 ```
-Olami
+Repo
 ├── archive_scrapers
 │   ├── helpers
 │   ├── scraper_json_files
