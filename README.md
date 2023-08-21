@@ -1,11 +1,13 @@
 # Code Base: Unsupervised Bias Detection in College Student Newspapers
 
+Code Base at https://anonymous.4open.science/r/UnsupervisedBias-C0F0
+
 ## Note on Reproducibility
 
 All code present is the code used to generate all data and results both in this repository and in the paper. Files have been restructured for the sake of user readability. Files and folders may need to be slightly rearranged in the case of minor errors.
 
 ## Directory
-```
+```bash
 Repo
 ├── archive_scrapers
 │   ├── helpers
